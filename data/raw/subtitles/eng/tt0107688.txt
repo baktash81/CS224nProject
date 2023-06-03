@@ -1,0 +1,3895 @@
+1
+00:00:26,567 --> 00:00:30,401
+'Twas a long time ago,
+longer now than it seems...
+
+2
+00:00:30,487 --> 00:00:33,240
+in a place that perhaps
+you've seen in your dreams.
+
+3
+00:00:33,327 --> 00:00:35,921
+For the story that you
+are about to be told...
+
+4
+00:00:36,007 --> 00:00:38,885
+took place
+in the holiday worlds of old.
+
+5
+00:00:38,967 --> 00:00:42,243
+Now, you've probably wondered
+where holidays come from.
+
+6
+00:00:42,327 --> 00:00:46,286
+If you haven't,
+I'd say it's time you begun!
+
+7
+00:01:01,007 --> 00:01:03,680
+<i>Boys and girls</i>
+<i>of every age</i>
+
+8
+00:01:03,767 --> 00:01:06,406
+<i>Wouldn't you like to see</i>
+<i>something strange</i>
+
+9
+00:01:06,487 --> 00:01:09,160
+<i>Come with us</i>
+<i>and you will see</i>
+
+10
+00:01:09,247 --> 00:01:11,886
+<i>This our town</i>
+<i>of Halloween</i>
+
+11
+00:01:11,967 --> 00:01:14,640
+<i>This is Halloween</i>
+<i>This is Halloween</i>
+
+12
+00:01:14,727 --> 00:01:17,400
+<i>Pumpkins scream</i>
+<i>in the dead of night</i>
+
+13
+00:01:17,487 --> 00:01:20,160
+<i>This is Halloween</i>
+<i>Everybody make a scene</i>
+
+14
+00:01:20,247 --> 00:01:22,966
+<i>Trick-or-treat till the</i>
+<i>neighbor's gonna die of fright</i>
+
+15
+00:01:23,047 --> 00:01:25,686
+<i>It's our town</i>
+<i>Everybody scream</i>
+
+16
+00:01:25,767 --> 00:01:27,962
+<i>In this town of Halloween</i>
+
+17
+00:01:28,047 --> 00:01:30,515
+<i>I am the one hiding</i>
+<i>under your bed</i>
+
+18
+00:01:30,607 --> 00:01:33,360
+<i>Teeth ground sharp</i>
+<i>and eyes glowing red</i>
+
+19
+00:01:33,447 --> 00:01:36,086
+<i>I am the one hiding</i>
+<i>under your stairs</i>
+
+20
+00:01:36,167 --> 00:01:39,000
+<i>Fingers like snakes</i>
+<i>and spiders in my hair</i>
+
+21
+00:01:39,087 --> 00:01:41,726
+<i>This is Halloween</i>
+<i>This is Halloween</i>
+
+22
+00:01:41,807 --> 00:01:44,526
+<i>Halloween, Halloween</i>
+<i>Halloween, Halloween</i>
+
+23
+00:01:45,807 --> 00:01:48,605
+<i>In this town we call home</i>
+
+24
+00:01:48,687 --> 00:01:51,326
+<i>Everyone hail</i>
+<i>to the pumpkin song</i>
+
+25
+00:01:51,407 --> 00:01:54,160
+<i>In this town</i>
+<i>Don't we love it now</i>
+
+26
+00:01:54,247 --> 00:01:56,920
+<i>Everybody's waiting</i>
+<i>for the next surprise</i>
+
+27
+00:01:57,007 --> 00:01:59,601
+<i>'Round that corner, man</i>
+<i>Hiding in the trash can</i>
+
+28
+00:01:59,687 --> 00:02:02,997
+<i>- Something's waiting now</i>
+<i>to pounce and how you'll</i>
+<i>- Scream</i>
+
+29
+00:02:03,087 --> 00:02:05,237
+<i>- This is Halloween</i>
+<i>- Red and black</i>
+<i>- And slimy green</i>
+
+30
+00:02:05,327 --> 00:02:07,887
+<i>- Aren't you scared</i>
+<i>- Well, that's just fine</i>
+
+31
+00:02:07,967 --> 00:02:10,720
+<i>Say it once, say it twice</i>
+<i>Take a chance and roll the dice</i>
+
+32
+00:02:10,807 --> 00:02:13,446
+<i>Ride with the moon</i>
+<i>in the dead of night</i>
+
+33
+00:02:13,527 --> 00:02:16,405
+<i>Everybody scream</i>
+<i>Everybody scream</i>
+
+34
+00:02:16,487 --> 00:02:18,364
+<i>In our town of Halloween</i>
+
+35
+00:02:18,447 --> 00:02:21,041
+<i>I am the clown</i>
+<i>with a tear-away face</i>
+
+36
+00:02:21,127 --> 00:02:23,800
+<i>Here in a flash</i>
+<i>and gone without a trace</i>
+
+37
+00:02:23,887 --> 00:02:26,606
+<i>I am the who</i>
+<i>when you call who's there</i>
+
+38
+00:02:26,687 --> 00:02:29,360
+<i>I am the wind blowing</i>
+<i>through your hair</i>
+
+39
+00:02:29,447 --> 00:02:32,041
+<i>I am the shadow</i>
+<i>on the moon at night</i>
+
+40
+00:02:32,127 --> 00:02:34,766
+<i>Filling your dreams</i>
+<i>to the brim with fright</i>
+
+41
+00:02:34,847 --> 00:02:37,600
+<i>This is Halloween</i>
+<i>This is Halloween</i>
+
+42
+00:02:37,687 --> 00:02:40,360
+<i>Halloween, Halloween</i>
+<i>Halloween, Halloween</i>
+
+43
+00:02:43,287 --> 00:02:45,847
+<i>Tender lumplings everywhere</i>
+
+44
+00:02:45,927 --> 00:02:48,725
+<i>Life's no fun</i>
+<i>without a good scare</i>
+
+45
+00:02:48,807 --> 00:02:51,401
+<i>- That's ourjob</i>
+<i>- But we're not mean</i>
+
+46
+00:02:51,487 --> 00:02:54,206
+<i>In our town of Halloween</i>
+
+47
+00:02:54,287 --> 00:02:56,960
+<i>In this town</i>
+<i>Don't we love it now</i>
+
+48
+00:02:57,047 --> 00:02:59,686
+<i>Everyone's waiting</i>
+<i>for the next surprise</i>
+
+49
+00:02:59,767 --> 00:03:02,122
+<i>Skeleton Jack</i>
+<i>might catch you in the back</i>
+
+50
+00:03:02,207 --> 00:03:05,438
+<i>And scream like a banshee</i>
+<i>Make you jump out of your skin</i>
+
+51
+00:03:05,527 --> 00:03:07,722
+<i>This is Halloween</i>
+<i>Everybody scream</i>
+
+52
+00:03:07,807 --> 00:03:10,685
+<i>Won't you please make way</i>
+<i>for a very special guy</i>
+
+53
+00:03:10,767 --> 00:03:13,440
+<i>Our man Jack is king</i>
+<i>of the pumpkin patch</i>
+
+54
+00:03:13,527 --> 00:03:16,200
+<i>Everyone hail</i>
+<i>to the Pumpkin King now</i>
+
+55
+00:03:16,287 --> 00:03:19,040
+<i>This is Halloween</i>
+<i>This is Halloween</i>
+
+56
+00:03:19,127 --> 00:03:21,800
+<i>Halloween, Halloween</i>
+<i>Halloween, Halloween</i>
+
+57
+00:03:23,247 --> 00:03:25,920
+<i>In this town we call home</i>
+
+58
+00:03:26,007 --> 00:03:28,680
+<i>Everyone hail</i>
+<i>to the pumpkin song</i>
+
+59
+00:03:28,767 --> 00:03:31,235
+<i>- La, la, la, la, la, la</i>
+<i>- Halloween, Halloween</i>
+
+60
+00:03:31,327 --> 00:03:34,205
+<i>- La, la, la, la, la, la</i>
+<i>- Halloween, Halloween</i>
+
+61
+00:03:34,287 --> 00:03:36,517
+<i>- La, la, la, la, la, la</i>
+<i>- Halloween, Halloween</i>
+
+62
+00:03:36,607 --> 00:03:39,724
+<i>La, la, la, la, la, la</i>
+<i>Whee</i>
+
+63
+00:03:51,527 --> 00:03:54,439
+- It's over!
+- We did it!
+
+64
+00:03:54,527 --> 00:03:57,883
+- Wasn't it terrifying?
+- What a night!
+
+65
+00:03:57,967 --> 00:04:00,083
+Great Halloween, everybody.
+
+66
+00:04:00,167 --> 00:04:04,524
+I believe it was our most horrible yet.
+Thank you, everyone.
+
+67
+00:04:04,607 --> 00:04:06,484
+No! Thanks to you, Jack.
+
+68
+00:04:06,567 --> 00:04:08,523
+Without your
+brilliant leadership...
+
+69
+00:04:08,607 --> 00:04:12,361
+- Not at all, Mayor.
+- You're such a scream, Jack.
+
+70
+00:04:12,447 --> 00:04:17,202
+- You're a witch's fondest dream.
+- You made walls fall, Jack.
+
+71
+00:04:17,287 --> 00:04:21,485
+Walls fall? You made
+the very mountains crack, Jack.
+
+72
+00:04:21,567 --> 00:04:26,402
+- The deadly nightshade
+you slipped me wore off, Sally.
+- Let go!
+
+73
+00:04:26,487 --> 00:04:30,924
+- You're not ready
+for so much excitement.
+- Yes, I am!
+
+74
+00:04:31,007 --> 00:04:33,999
+- You're coming with me!
+- No, I'm not!
+
+75
+00:04:37,567 --> 00:04:40,286
+Come back here, you foolish...
+
+76
+00:04:40,367 --> 00:04:42,756
+Oh! Oh! Oh-oh-oh.
+
+77
+00:04:42,847 --> 00:04:47,398
+Ooh, Jack, you made
+wounds ooze and flesh crawl.
+
+78
+00:04:47,487 --> 00:04:51,366
+Thank you. Thank you!
+Thank you very much!
+
+79
+00:04:51,447 --> 00:04:56,237
+<i>Hold it. We haven't given out</i>
+<i>the prizes yet.</i>
+
+80
+00:04:56,327 --> 00:04:59,080
+Our first award
+goes to the vampires...
+
+81
+00:04:59,167 --> 00:05:01,840
+for most blood drained
+in a single evening.
+
+82
+00:05:03,087 --> 00:05:05,043
+<i>Our second and</i>
+<i>honorable mention...</i>
+
+83
+00:05:05,127 --> 00:05:08,722
+<i>goes to the fabulous</i>
+<i>Dark Lagoon leeches.</i>
+
+84
+00:05:15,367 --> 00:05:18,165
+Nice work, Bone Daddy.
+
+85
+00:05:18,247 --> 00:05:21,319
+Yeah, I guess so.
+Just like last year...
+
+86
+00:05:21,407 --> 00:05:24,205
+and the year before that,
+and the year before that.
+
+87
+00:06:03,127 --> 00:06:07,200
+<i>There are few who deny</i>
+<i>at what I do I am the best</i>
+
+88
+00:06:07,287 --> 00:06:11,326
+<i>For my talents</i>
+<i>are renowned far and wide</i>
+
+89
+00:06:11,407 --> 00:06:15,559
+<i>When it comes to surprises</i>
+<i>in the moonlit night</i>
+
+90
+00:06:15,647 --> 00:06:19,560
+<i>I excel without ever even trying</i>
+
+91
+00:06:19,647 --> 00:06:21,763
+<i>With the slightest little effort</i>
+
+92
+00:06:21,847 --> 00:06:23,963
+<i>Of my ghost-like charms</i>
+
+93
+00:06:24,047 --> 00:06:28,006
+<i>I have seen grown men</i>
+<i>give out a shriek</i>
+
+94
+00:06:28,087 --> 00:06:32,365
+<i>With a wave of my hand</i>
+<i>and a well-placed moan</i>
+
+95
+00:06:32,447 --> 00:06:36,520
+<i>I have swept the very bravest</i>
+<i>off their feet</i>
+
+96
+00:06:36,607 --> 00:06:39,326
+<i>Yet year after year</i>
+
+97
+00:06:39,407 --> 00:06:41,875
+<i>It's the same routine</i>
+
+98
+00:06:41,967 --> 00:06:46,677
+<i>And I grow so weary</i>
+<i>of the sound of screams</i>
+
+99
+00:06:46,767 --> 00:06:51,443
+<i>And I, Jack</i>
+<i>the Pumpkin King</i>
+
+100
+00:06:51,527 --> 00:06:56,806
+<i>Have grown so tired</i>
+<i>of the same old thing</i>
+
+101
+00:06:59,407 --> 00:07:02,444
+<i>Oh, somewhere deep</i>
+
+102
+00:07:02,527 --> 00:07:05,360
+<i>Inside of these bones</i>
+
+103
+00:07:05,447 --> 00:07:08,325
+<i>An emptiness</i>
+
+104
+00:07:08,407 --> 00:07:11,205
+<i>Began to grow</i>
+
+105
+00:07:11,287 --> 00:07:14,643
+<i>There's something out there</i>
+
+106
+00:07:14,727 --> 00:07:17,195
+<i>Far from my home</i>
+
+107
+00:07:17,287 --> 00:07:20,518
+<i>A longing that</i>
+
+108
+00:07:20,607 --> 00:07:25,556
+<i>I've never known</i>
+
+109
+00:07:26,847 --> 00:07:29,077
+<i>I'm the master of fright</i>
+
+110
+00:07:29,167 --> 00:07:30,998
+<i>And a demon of light</i>
+
+111
+00:07:31,087 --> 00:07:35,160
+<i>And I'll scare you</i>
+<i>right out of your pants</i>
+
+112
+00:07:35,247 --> 00:07:39,479
+<i>To a guy in Kentucky</i>
+<i>I'm Mr. Unlucky</i>
+
+113
+00:07:39,567 --> 00:07:43,526
+<i>And I'm known throughout</i>
+<i>England and France</i>
+
+114
+00:07:43,607 --> 00:07:47,680
+<i>And since I am dead</i>
+<i>I can take off my head</i>
+
+115
+00:07:47,767 --> 00:07:51,806
+<i>To recite Shakespearean quotations</i>
+
+116
+00:07:51,887 --> 00:07:56,244
+<i>No animal nor man</i>
+<i>can scream like I can</i>
+
+117
+00:07:56,327 --> 00:08:00,445
+<i>With the fury</i>
+<i>of my recitations</i>
+
+118
+00:08:00,527 --> 00:08:03,121
+<i>But who here</i>
+
+119
+00:08:03,207 --> 00:08:05,482
+<i>Would ever understand</i>
+
+120
+00:08:05,567 --> 00:08:10,277
+<i>That the Pumpkin King</i>
+<i>with the skeleton grin</i>
+
+121
+00:08:10,367 --> 00:08:15,236
+<i>Would tire of his crown</i>
+<i>If they only understood</i>
+
+122
+00:08:15,327 --> 00:08:17,477
+<i>He'd give it all up</i>
+
+123
+00:08:17,567 --> 00:08:22,516
+<i>If he only could</i>
+
+124
+00:08:22,607 --> 00:08:25,804
+<i>Oh, there's an empty</i>
+
+125
+00:08:25,887 --> 00:08:28,401
+<i>Place in my bones</i>
+
+126
+00:08:28,487 --> 00:08:31,365
+<i>That calls out for</i>
+
+127
+00:08:31,447 --> 00:08:34,325
+<i>Something unknown</i>
+
+128
+00:08:34,407 --> 00:08:37,365
+<i>The fame and praise</i>
+
+129
+00:08:37,447 --> 00:08:40,245
+<i>Come year after year</i>
+
+130
+00:08:40,327 --> 00:08:44,081
+<i>Does nothing for</i>
+
+131
+00:08:44,167 --> 00:08:49,799
+<i>These empty tears</i>
+
+132
+00:08:55,647 --> 00:08:57,842
+Jack.
+
+133
+00:08:57,927 --> 00:09:00,680
+I know how you feel.
+
+134
+00:09:21,247 --> 00:09:23,158
+Sally!
+
+135
+00:09:25,127 --> 00:09:27,322
+You've come back.
+
+136
+00:09:27,407 --> 00:09:31,002
+- I had to.
+- For this!
+
+137
+00:09:32,007 --> 00:09:36,637
+- Yes.
+- Shall we, then?
+
+138
+00:09:47,047 --> 00:09:52,280
+That's twice this month
+you've slipped deadly nightshade
+into my tea and run off.
+
+139
+00:09:52,367 --> 00:09:55,200
+- Three times.
+- You're mine, you know!
+
+140
+00:09:55,287 --> 00:09:59,439
+I made you with my own hands.
+
+141
+00:09:59,527 --> 00:10:02,121
+You can make other creations.
+
+142
+00:10:02,207 --> 00:10:04,926
+I'm restless. I can't help it.
+
+143
+00:10:05,007 --> 00:10:08,397
+It's a phase, my dear. It'll pass.
+
+144
+00:10:08,487 --> 00:10:11,923
+We need to be patient, that's all.
+
+145
+00:10:12,007 --> 00:10:14,567
+But I don't want to be patient.
+
+146
+00:10:16,767 --> 00:10:19,645
+No, Zero, not now.
+
+147
+00:10:19,727 --> 00:10:22,241
+I'm not in the mood.
+
+148
+00:10:24,167 --> 00:10:26,886
+All right.
+
+149
+00:10:26,967 --> 00:10:29,083
+Here you go, boy.
+
+150
+00:10:47,327 --> 00:10:49,636
+Mornin', gents!
+
+151
+00:11:10,047 --> 00:11:12,845
+Jack, you home?
+
+152
+00:11:20,047 --> 00:11:25,280
+Jack, I've got the plans
+for next Halloween.
+
+153
+00:11:25,367 --> 00:11:29,326
+I need to go over them with you
+so we can get started.
+
+154
+00:11:29,407 --> 00:11:32,558
+Jack, please! I'm only
+an elected official here.
+
+155
+00:11:32,647 --> 00:11:36,037
+I can't make decisions by myself.
+
+156
+00:11:36,127 --> 00:11:38,960
+Jack, answer me!
+
+157
+00:11:43,007 --> 00:11:45,601
+- Huh?
+- He's not home.
+
+158
+00:11:45,687 --> 00:11:48,724
+- Where is he?
+- He hasn't been home all night.
+
+159
+00:11:59,367 --> 00:12:01,323
+Where are we?
+
+160
+00:12:06,807 --> 00:12:09,719
+It's someplace new!
+
+161
+00:12:16,607 --> 00:12:19,519
+What is this?
+
+162
+00:13:02,567 --> 00:13:04,523
+Whoa-oa-oa!
+
+163
+00:13:06,887 --> 00:13:11,403
+Whoa!
+
+164
+00:13:52,727 --> 00:13:55,525
+<i>What's this, what's this</i>
+<i>There's color everywhere</i>
+
+165
+00:13:55,607 --> 00:13:57,643
+<i>What's this</i>
+<i>There's white things in the air</i>
+
+166
+00:13:57,727 --> 00:14:00,241
+<i>What's this, I can't believe my eyes</i>
+<i>I must be dreaming</i>
+
+167
+00:14:00,327 --> 00:14:02,238
+<i>Wake up, Jack, this isn't fair</i>
+<i>What's this</i>
+
+168
+00:14:04,567 --> 00:14:07,604
+<i>What's this, what's this</i>
+<i>There's something very wrong</i>
+
+169
+00:14:07,687 --> 00:14:10,326
+<i>What's this, there's people</i>
+<i>singing songs, what's this</i>
+
+170
+00:14:10,407 --> 00:14:13,683
+<i>The streets are lined</i>
+<i>with little creatures laughing</i>
+<i>Everybody seems so happy</i>
+
+171
+00:14:13,767 --> 00:14:16,804
+<i>Have I possibly gone daffy</i>
+<i>What is this</i>
+
+172
+00:14:16,887 --> 00:14:19,720
+<i>What's this</i>
+
+173
+00:14:19,807 --> 00:14:22,446
+<i>There's children throwing snowballs</i>
+<i>instead of throwing heads</i>
+
+174
+00:14:22,527 --> 00:14:25,405
+<i>They're busy building toys</i>
+<i>and absolutely no one's dead</i>
+
+175
+00:14:25,487 --> 00:14:28,320
+<i>There's frost in every window</i>
+<i>Oh, I can't believe my eyes</i>
+
+176
+00:14:28,407 --> 00:14:30,238
+<i>And in my bones</i>
+<i>I feel the warmth</i>
+
+177
+00:14:30,327 --> 00:14:34,115
+<i>That's coming from inside</i>
+
+178
+00:14:34,207 --> 00:14:36,960
+<i>Oh, look, what's this</i>
+<i>They're hanging mistletoe</i>
+
+179
+00:14:37,047 --> 00:14:39,766
+<i>They kiss, why that looks</i>
+<i>so unique, inspired</i>
+
+180
+00:14:39,847 --> 00:14:41,678
+<i>They're gathering around</i>
+<i>to hear a story</i>
+
+181
+00:14:41,767 --> 00:14:44,361
+<i>Roasting chestnuts on a fire</i>
+<i>What's this</i>
+
+182
+00:14:46,287 --> 00:14:49,836
+<i>What's this in here</i>
+<i>They've got a little tree, how queer</i>
+
+183
+00:14:49,927 --> 00:14:51,724
+<i>And who would ever think</i>
+<i>And why</i>
+
+184
+00:14:51,807 --> 00:14:53,638
+<i>They're covering it</i>
+<i>with tiny little things</i>
+
+185
+00:14:53,727 --> 00:14:56,685
+<i>They've got electric lights on strings</i>
+<i>and there's a smile on everyone</i>
+
+186
+00:14:56,767 --> 00:14:59,440
+<i>So now correct me if I'm wrong</i>
+<i>This looks like fun, this looks like fun</i>
+
+187
+00:14:59,527 --> 00:15:01,916
+<i>Oh, could it be I got my wish</i>
+<i>What's this</i>
+
+188
+00:15:04,127 --> 00:15:06,960
+<i>Oh my, what now</i>
+<i>The children are asleep</i>
+
+189
+00:15:07,047 --> 00:15:09,003
+<i>But look</i>
+<i>There's nothing underneath</i>
+
+190
+00:15:09,087 --> 00:15:11,999
+<i>No ghouls, no witches here to scream</i>
+<i>and scare them or ensnare them</i>
+
+191
+00:15:12,087 --> 00:15:17,286
+<i>Only little cozy things</i>
+<i>secure inside their dreamland</i>
+
+192
+00:15:20,007 --> 00:15:22,999
+<i>What's this</i>
+
+193
+00:15:23,087 --> 00:15:25,760
+<i>The monsters are all missing</i>
+<i>and the nightmares can't be found</i>
+
+194
+00:15:25,847 --> 00:15:28,600
+<i>And in their place there seems</i>
+<i>to be good feeling all around</i>
+
+195
+00:15:28,687 --> 00:15:31,281
+<i>Instead of screams, I swear</i>
+<i>I can hear music in the air</i>
+
+196
+00:15:31,367 --> 00:15:36,760
+<i>The smell of cakes and pies</i>
+<i>are absolutely everywhere</i>
+
+197
+00:15:36,847 --> 00:15:40,362
+<i>The sights, the sounds</i>
+<i>they're everywhere and all around</i>
+
+198
+00:15:40,447 --> 00:15:42,438
+<i>I've never felt so good before</i>
+
+199
+00:15:42,527 --> 00:15:45,997
+<i>This empty place</i>
+<i>inside of me is filling up</i>
+<i>I simply cannot get enough</i>
+
+200
+00:15:46,087 --> 00:15:48,521
+<i>I want it, oh, I want it</i>
+<i>Oh, I want it for my own</i>
+
+201
+00:15:48,607 --> 00:15:51,838
+<i>I've got to know, I've got to know</i>
+<i>what is this place that I have found</i>
+
+202
+00:15:51,927 --> 00:15:54,646
+<i>What is this</i>
+
+203
+00:15:59,167 --> 00:16:01,965
+Christmas Town?
+
+204
+00:16:02,047 --> 00:16:03,719
+Hmm.
+
+205
+00:16:05,407 --> 00:16:07,238
+Ho-ho-ho-ho!
+
+206
+00:16:07,327 --> 00:16:11,081
+Ho-ho-ho-ho!
+
+207
+00:16:11,167 --> 00:16:12,600
+Hmm.
+
+208
+00:16:12,687 --> 00:16:15,247
+- This has never happened before.
+- It's suspicious.
+
+209
+00:16:15,327 --> 00:16:17,397
+- It's peculiar.
+- It's scary.
+
+210
+00:16:17,487 --> 00:16:20,399
+Stand aside. Coming through.
+
+211
+00:16:26,407 --> 00:16:28,477
+We've got to find Jack!
+
+212
+00:16:28,567 --> 00:16:32,526
+There's only 365 days left
+till next Halloween!
+
+213
+00:16:32,607 --> 00:16:34,404
+Three sixty-four!
+
+214
+00:16:34,487 --> 00:16:37,797
+Is there anywhere
+we've forgotten to check?
+
+215
+00:16:37,887 --> 00:16:40,276
+I looked in every mausoleum.
+
+216
+00:16:40,367 --> 00:16:42,278
+We opened the sarcophagi!
+
+217
+00:16:42,367 --> 00:16:45,086
+I tromped through
+the pumpkin patch.
+
+218
+00:16:45,167 --> 00:16:47,840
+I peeked behind
+the cyclops' eye.
+
+219
+00:16:47,927 --> 00:16:50,316
+I did! But he wasn't there.
+
+220
+00:16:50,407 --> 00:16:53,001
+It's time to sound the alarms!
+
+221
+00:17:21,447 --> 00:17:24,359
+Frog's breath
+will overpower any odor.
+
+222
+00:17:31,287 --> 00:17:34,040
+Bitter!
+
+223
+00:17:34,127 --> 00:17:38,917
+Worm's wart. But where,
+where is that worm's wart?
+
+224
+00:17:39,007 --> 00:17:43,319
+Sally? Is that soup ready yet?
+
+225
+00:17:45,127 --> 00:17:47,402
+Ah. Coming!
+
+226
+00:17:55,007 --> 00:17:56,838
+Lunch!
+
+227
+00:17:59,047 --> 00:18:01,197
+Ah, what's that?
+
+228
+00:18:01,287 --> 00:18:05,075
+Worm's wart! Mmm!
+
+229
+00:18:05,167 --> 00:18:07,806
+And frog's breath?
+
+230
+00:18:07,887 --> 00:18:11,880
+Wh-What's wrong? L-I thought
+you liked frog's breath.
+
+231
+00:18:11,967 --> 00:18:15,403
+Nothing's more suspicious
+than frog's breath.
+
+232
+00:18:15,487 --> 00:18:20,117
+Until you taste it,
+I won't swallow a spoonful.
+
+233
+00:18:20,847 --> 00:18:22,917
+I'm not hungry. Oops.
+
+234
+00:18:24,127 --> 00:18:26,357
+You want me to starve...
+
+235
+00:18:26,447 --> 00:18:31,077
+an old man like me,
+who hardly has strength as it is.
+
+236
+00:18:31,167 --> 00:18:35,001
+Me, to whom you owe
+your very life.
+
+237
+00:18:35,087 --> 00:18:37,647
+Oh, don't be silly.
+
+238
+00:18:39,567 --> 00:18:43,606
+Mmm! See? Scrumptious!
+
+239
+00:18:51,807 --> 00:18:55,197
+Did anyone think
+to dredge the lake?
+
+240
+00:18:55,287 --> 00:18:57,721
+Oh, this morning.
+
+241
+00:18:59,487 --> 00:19:03,036
+- Hear that?
+- Ah, what?
+- Shh.
+
+242
+00:19:04,927 --> 00:19:06,758
+Zero!
+
+243
+00:19:09,207 --> 00:19:11,641
+- Jack's back!
+- Jack's back! Jack's back!
+
+244
+00:19:20,647 --> 00:19:25,641
+- Where have you been?
+- Call a town meeting and I'll
+tell everyone all about it.
+
+245
+00:19:25,727 --> 00:19:28,560
+- When?
+- Immediately!
+
+246
+00:19:32,887 --> 00:19:38,120
+Town meeting! Town meeting!
+
+247
+00:19:38,207 --> 00:19:42,519
+Town meeting tonight!
+
+248
+00:19:42,607 --> 00:19:47,761
+Town meeting!
+Town meeting tonight!
+
+249
+00:20:04,527 --> 00:20:07,405
+Listen, everyone!
+
+250
+00:20:07,487 --> 00:20:11,241
+I want to tell you
+about Christmas Town.
+
+251
+00:20:14,247 --> 00:20:17,478
+<i>There were objects so peculiar</i>
+<i>they were not to be believed</i>
+
+252
+00:20:17,567 --> 00:20:20,877
+<i>All around things</i>
+<i>to tantalize my brain</i>
+
+253
+00:20:20,967 --> 00:20:24,198
+<i>It's a world unlike anything</i>
+<i>I've ever seen</i>
+
+254
+00:20:24,287 --> 00:20:27,563
+<i>And as hard as I tried</i>
+<i>I can't seem to describe</i>
+
+255
+00:20:27,647 --> 00:20:30,957
+<i>Like a most improbable dream</i>
+
+256
+00:20:31,047 --> 00:20:34,323
+<i>But you must believe</i>
+<i>when I tell you this</i>
+
+257
+00:20:34,407 --> 00:20:39,561
+<i>It's as real as my skull</i>
+<i>and it does exist</i>
+
+258
+00:20:39,647 --> 00:20:42,525
+Here, let me show you.
+
+259
+00:20:45,087 --> 00:20:46,440
+Ooh!
+
+260
+00:20:46,527 --> 00:20:48,961
+<i>This is a thing</i>
+<i>called a present</i>
+
+261
+00:20:49,047 --> 00:20:50,924
+<i>The whole thing</i>
+<i>starts with a box</i>
+
+262
+00:20:51,007 --> 00:20:53,396
+<i>- A box</i>
+<i>- Is it steel</i>
+<i>- Are there locks</i>
+
+263
+00:20:53,487 --> 00:20:56,718
+<i>- Is it filled with a pox</i>
+<i>- A pox, how delightful, a pox</i>
+
+264
+00:20:56,807 --> 00:20:58,126
+If you please.
+
+265
+00:20:58,207 --> 00:21:00,721
+<i>Just a box with</i>
+<i>bright colored paper</i>
+
+266
+00:21:00,807 --> 00:21:03,275
+<i>And the whole thing's</i>
+<i>topped with a bow</i>
+
+267
+00:21:03,367 --> 00:21:06,564
+<i>- A bow</i>
+<i>- But why</i>
+<i>- How ugly</i>
+<i>- What's in it, what's in it</i>
+
+268
+00:21:06,647 --> 00:21:08,285
+<i>That's the point of the thing</i>
+<i>Not to know</i>
+
+269
+00:21:08,367 --> 00:21:10,881
+<i>- It's a bat</i>
+<i>- Will it bend</i>
+<i>- It's a rat</i>
+<i>- Will it break</i>
+
+270
+00:21:10,967 --> 00:21:13,561
+<i>Perhaps it's the head</i>
+<i>that I found in the lake</i>
+
+271
+00:21:13,647 --> 00:21:16,036
+<i>Listen now</i>
+<i>You don't understand</i>
+
+272
+00:21:16,127 --> 00:21:19,563
+<i>That's not the point</i>
+<i>of Christmasland</i>
+
+273
+00:21:19,647 --> 00:21:23,276
+<i>Now pay attention</i>
+<i>We pick up an oversized sock</i>
+
+274
+00:21:23,367 --> 00:21:25,927
+<i>And hang it like this</i>
+<i>on the wall</i>
+
+275
+00:21:26,007 --> 00:21:27,838
+<i>Oh, yes, does it still</i>
+<i>have a foot</i>
+
+276
+00:21:27,927 --> 00:21:30,964
+<i>- Let me see, let me look</i>
+<i>- Is it rotted and covered with gook</i>
+
+277
+00:21:31,047 --> 00:21:32,605
+Um, let me explain.
+
+278
+00:21:32,687 --> 00:21:35,360
+<i>There's no foot inside</i>
+<i>but there's candy</i>
+
+279
+00:21:35,447 --> 00:21:37,802
+<i>- Or sometimes it's filled</i>
+<i>with small toys</i>
+<i>- Small toys</i>
+
+280
+00:21:37,887 --> 00:21:40,082
+<i>- Do they bite</i>
+<i>- Do they snap</i>
+<i>- Or explode in the sack</i>
+
+281
+00:21:40,167 --> 00:21:42,806
+<i>Well, perhaps they just spring</i>
+<i>out and scare girls and boys</i>
+
+282
+00:21:42,887 --> 00:21:45,321
+<i>What a splendid idea</i>
+<i>This Christmas sounds fun</i>
+
+283
+00:21:45,407 --> 00:21:48,046
+<i>I fully endorse it</i>
+<i>Let's try it at once</i>
+
+284
+00:21:48,127 --> 00:21:50,436
+<i>Everyone, please</i>
+<i>Now not so fast</i>
+
+285
+00:21:50,527 --> 00:21:53,485
+<i>There's something here</i>
+<i>that you don't quite grasp</i>
+
+286
+00:21:53,567 --> 00:21:55,797
+I don't know.
+Do you get it?
+
+287
+00:21:55,887 --> 00:21:59,004
+Well, I may as well
+give them what they want.
+
+288
+00:21:59,087 --> 00:22:02,636
+<i>And the best I must confess</i>
+<i>I have saved for the last</i>
+
+289
+00:22:02,727 --> 00:22:05,958
+<i>For the ruler</i>
+<i>of this Christmasland</i>
+
+290
+00:22:06,047 --> 00:22:09,357
+<i>Is a fearsome king</i>
+<i>with a deep, mighty voice</i>
+
+291
+00:22:09,447 --> 00:22:12,678
+<i>Least, that's what</i>
+<i>I've come to understand</i>
+
+292
+00:22:12,767 --> 00:22:16,043
+<i>And I've also heard it told</i>
+<i>That he's something to behold</i>
+
+293
+00:22:16,127 --> 00:22:19,403
+<i>Like a lobster huge and red</i>
+
+294
+00:22:19,487 --> 00:22:22,797
+<i>When he sets out to slay</i>
+<i>with his rain gear on</i>
+
+295
+00:22:22,887 --> 00:22:26,163
+<i>Carting bulging sacks</i>
+<i>with his big great arms</i>
+
+296
+00:22:26,247 --> 00:22:29,398
+<i>That is so I've heard it said</i>
+
+297
+00:22:29,487 --> 00:22:33,082
+<i>And on a dark cold night</i>
+<i>under full moonlight</i>
+
+298
+00:22:33,167 --> 00:22:38,366
+<i>He flies into a fog</i>
+<i>like a vulture in the sky</i>
+
+299
+00:22:38,447 --> 00:22:41,803
+<i>And they call him</i>
+
+300
+00:22:41,887 --> 00:22:46,802
+<i>Sandy Claws</i>
+
+301
+00:22:50,767 --> 00:22:53,156
+<i>Well, at least they're excited</i>
+
+302
+00:22:53,247 --> 00:22:55,715
+<i>But they don't understand</i>
+
+303
+00:22:55,807 --> 00:23:00,198
+<i>That special kind of feeling</i>
+<i>in Christmasland</i>
+
+304
+00:23:00,287 --> 00:23:03,085
+Oh, well.
+
+305
+00:23:12,407 --> 00:23:14,284
+Hmm.
+
+306
+00:23:21,407 --> 00:23:23,363
+Hmm.
+
+307
+00:23:34,367 --> 00:23:38,883
+There's got to be a logical way
+to explain this Christmas thing.
+
+308
+00:23:49,967 --> 00:23:55,325
+You've poisoned me for the
+last time, you wretched girl.
+
+309
+00:24:03,207 --> 00:24:06,677
+Oh, my head!
+
+310
+00:24:09,367 --> 00:24:12,757
+The door is open!
+
+311
+00:24:12,847 --> 00:24:16,522
+- Hello!
+- Jack Skellington!
+
+312
+00:24:16,607 --> 00:24:21,397
+- Up here, my boy.
+- Doctor, I need to borrow some
+equipment.
+
+313
+00:24:21,487 --> 00:24:25,002
+Is that so? Whatever for?
+
+314
+00:24:25,087 --> 00:24:28,397
+I'm conducting a series
+of experiments.
+
+315
+00:24:28,487 --> 00:24:31,399
+How perfectly marvelous!
+
+316
+00:24:31,487 --> 00:24:35,560
+- Curiosity killed the cat, you know.
+- I know.
+
+317
+00:24:35,647 --> 00:24:39,560
+Come on into the lab
+and we'll get you all fixed up.
+
+318
+00:24:39,647 --> 00:24:42,115
+Hmm. Experiments?
+
+319
+00:24:45,447 --> 00:24:47,517
+Zero, I'm home!
+
+320
+00:25:49,447 --> 00:25:53,725
+Interesting reaction!
+But what does it mean?
+
+321
+00:27:29,527 --> 00:27:33,998
+You can come out now
+if you promise to behave.
+
+322
+00:27:34,087 --> 00:27:36,362
+Sally?
+
+323
+00:27:36,447 --> 00:27:37,926
+Sally?
+
+324
+00:27:38,007 --> 00:27:41,079
+Oh, gone again!
+
+325
+00:27:54,567 --> 00:27:56,603
+Hmm.
+
+326
+00:28:42,407 --> 00:28:44,602
+Oh!
+
+327
+00:29:06,607 --> 00:29:09,917
+<i>Something's up with Jack</i>
+<i>Something's up with Jack</i>
+
+328
+00:29:11,807 --> 00:29:14,765
+<i>Don't know if we're ever</i>
+<i>going to get him back</i>
+
+329
+00:29:16,767 --> 00:29:19,759
+<i>He's all alone up there</i>
+<i>locked away inside</i>
+
+330
+00:29:22,207 --> 00:29:24,846
+<i>- Never says a word</i>
+<i>- Hope he hasn't died</i>
+
+331
+00:29:24,927 --> 00:29:27,725
+<i>Something's up with Jack</i>
+<i>Something's up with Jack</i>
+
+332
+00:29:35,567 --> 00:29:38,604
+<i>Christmastime</i>
+<i>is buzzing in my skull</i>
+
+333
+00:29:38,687 --> 00:29:41,565
+<i>Will it let me be</i>
+<i>I cannot tell</i>
+
+334
+00:29:41,647 --> 00:29:44,605
+<i>There's so many things</i>
+<i>I cannot grasp</i>
+
+335
+00:29:44,687 --> 00:29:47,599
+<i>When I think I've got it</i>
+<i>and then at last</i>
+
+336
+00:29:47,687 --> 00:29:50,599
+<i>Through my bony fingers</i>
+<i>it does slip</i>
+
+337
+00:29:50,687 --> 00:29:53,201
+<i>Like a snowflake</i>
+<i>in a fiery grip</i>
+
+338
+00:29:53,287 --> 00:29:56,757
+<i>Something here I'm not quite getting</i>
+<i>Though I try I keep forgetting</i>
+
+339
+00:29:56,847 --> 00:30:00,157
+<i>Like a memory</i>
+<i>long since past</i>
+
+340
+00:30:00,247 --> 00:30:02,124
+<i>Here in an instant</i>
+<i>Gone in a flash</i>
+
+341
+00:30:02,207 --> 00:30:05,438
+<i>What does it mean</i>
+<i>What does it mean</i>
+
+342
+00:30:05,527 --> 00:30:08,678
+<i>In these little bric-a-brac</i>
+<i>A secret's waiting to be cracked</i>
+
+343
+00:30:08,767 --> 00:30:12,919
+<i>These dolls and toys confuse me so</i>
+<i>Confound it all, I love it though</i>
+
+344
+00:30:13,007 --> 00:30:16,682
+<i>Simple objects, nothing more</i>
+<i>But something's hidden through a door</i>
+
+345
+00:30:16,767 --> 00:30:21,887
+<i>Though I do not have the key</i>
+<i>Something's here I cannot see</i>
+
+346
+00:30:21,967 --> 00:30:24,527
+<i>What does it mean</i>
+<i>What does it mean</i>
+
+347
+00:30:25,567 --> 00:30:27,239
+<i>What does it mean</i>
+
+348
+00:30:28,087 --> 00:30:32,285
+Hmm. Hmm.
+
+349
+00:30:32,367 --> 00:30:35,120
+<i>I've read these Christmas books</i>
+<i>so many times</i>
+
+350
+00:30:35,207 --> 00:30:38,119
+<i>I know the stories</i>
+<i>and I know the rhymes</i>
+
+351
+00:30:38,207 --> 00:30:41,085
+<i>I know the Christmas carols</i>
+<i>all by heart</i>
+
+352
+00:30:41,167 --> 00:30:44,284
+<i>My skull's so full</i>
+<i>it's tearing me apart</i>
+
+353
+00:30:44,367 --> 00:30:47,200
+<i>As often as I've read them</i>
+<i>Something's wrong</i>
+
+354
+00:30:47,287 --> 00:30:50,120
+<i>It's so hard to put</i>
+<i>my bony finger on</i>
+
+355
+00:30:50,207 --> 00:30:53,563
+<i>Or perhaps it's really not as deep</i>
+<i>as I've been led to think</i>
+
+356
+00:30:53,647 --> 00:30:56,764
+<i>Am I trying much too hard</i>
+
+357
+00:30:56,847 --> 00:30:58,644
+<i>Of course</i>
+<i>I've been too close to see</i>
+
+358
+00:30:58,727 --> 00:31:01,878
+<i>The answer's right in front of me</i>
+<i>Right in front of me</i>
+
+359
+00:31:01,967 --> 00:31:05,516
+<i>It's simple really, very clear</i>
+<i>Like music drifting in the air</i>
+
+360
+00:31:05,607 --> 00:31:08,997
+<i>Invisible but everywhere</i>
+
+361
+00:31:09,087 --> 00:31:13,319
+<i>Just because I cannot see it</i>
+<i>Doesn't mean I can't believe it</i>
+
+362
+00:31:13,407 --> 00:31:16,797
+<i>You know I think this Christmas thing</i>
+<i>is not as tricky as it seems</i>
+
+363
+00:31:16,887 --> 00:31:20,118
+<i>And why should they have all the fun</i>
+<i>It should belong to anyone</i>
+
+364
+00:31:20,207 --> 00:31:23,802
+<i>Not anyone in fact, but me</i>
+<i>Why I can make a Christmas tree</i>
+
+365
+00:31:23,887 --> 00:31:27,118
+<i>And there's no reason I can find</i>
+<i>I couldn't handle Christmastime</i>
+
+366
+00:31:27,207 --> 00:31:32,361
+<i>I bet I could improve it too</i>
+<i>And that's exactly what I'll do</i>
+
+367
+00:31:35,327 --> 00:31:36,726
+Eureka!
+
+368
+00:31:36,807 --> 00:31:41,278
+This year,
+Christmas will be ours!
+
+369
+00:31:45,647 --> 00:31:50,641
+Patience, everyone. Jack has
+a special job for each of you.
+
+370
+00:31:52,487 --> 00:31:55,638
+Dr. Beetlestein.
+
+371
+00:31:55,727 --> 00:31:58,605
+Your Christmas assignment
+is ready.
+
+372
+00:32:00,727 --> 00:32:04,925
+Dr. Beetlestein,
+to the front of the line.
+
+373
+00:32:09,327 --> 00:32:12,205
+What kind of noise is that
+for a baby to make?
+
+374
+00:32:12,287 --> 00:32:14,926
+- Perhaps it can be improved?
+- No problem!
+
+375
+00:32:15,007 --> 00:32:16,725
+I knew it!
+
+376
+00:32:16,807 --> 00:32:20,243
+Doctor, thank you for coming.
+
+377
+00:32:20,327 --> 00:32:22,682
+We need some of these.
+
+378
+00:32:22,767 --> 00:32:24,837
+Hmm.
+
+379
+00:32:24,927 --> 00:32:28,363
+Their construction should be
+exceedingly simple, I think.
+
+380
+00:32:28,447 --> 00:32:31,723
+How horrible
+our Christmas will be.
+
+381
+00:32:31,807 --> 00:32:34,321
+No! How jolly!
+
+382
+00:32:34,407 --> 00:32:38,195
+Oh. How jolly
+our Christmas will be.
+
+383
+00:32:40,967 --> 00:32:43,879
+- What are you doing here?
+- Jack sent for us.
+
+384
+00:32:43,967 --> 00:32:45,923
+- Specifically.
+- By name.
+
+385
+00:32:46,007 --> 00:32:48,567
+- Lock.
+- Shock.
+- Barrel.
+
+386
+00:32:48,647 --> 00:32:52,481
+Jack, Jack,
+it's Boogie's boys.
+
+387
+00:32:52,567 --> 00:32:56,879
+Ah, Halloween's finest
+trick-or-treaters.
+
+388
+00:32:56,967 --> 00:33:00,198
+The job I have for you
+is top secret.
+
+389
+00:33:00,287 --> 00:33:03,085
+It requires craft,
+cunning, mischief.
+
+390
+00:33:03,167 --> 00:33:06,204
+And we thought
+you didn't like us, Jack.
+
+391
+00:33:07,967 --> 00:33:11,323
+Absolutely no one
+is to know about it. Not a soul!
+
+392
+00:33:11,407 --> 00:33:13,125
+Now.
+
+393
+00:33:15,167 --> 00:33:17,317
+Tree.
+
+394
+00:33:18,527 --> 00:33:20,836
+Christmas Town.
+
+395
+00:33:20,927 --> 00:33:24,363
+Ow! Hmm.
+
+396
+00:33:24,447 --> 00:33:26,756
+And one more thing.
+
+397
+00:33:26,847 --> 00:33:30,203
+Leave that no-account
+Oogie Boogie out of this!
+
+398
+00:33:30,287 --> 00:33:31,879
+Whatever you say, Jack.
+
+399
+00:33:31,967 --> 00:33:35,880
+- Of course, Jack.
+- Wouldn't dream of it, Jack.
+
+400
+00:33:53,727 --> 00:33:56,958
+<i>Kidnap Mr. Sandy Claws</i>
+
+401
+00:33:57,047 --> 00:34:01,882
+<i>- I wanna do it</i>
+<i>- Let's draw straws</i>
+<i>- Jack said we should work together</i>
+
+402
+00:34:01,967 --> 00:34:04,197
+<i>- Three of a kind</i>
+<i>- Birds of a feather</i>
+<i>- Now and forever</i>
+
+403
+00:34:04,287 --> 00:34:07,836
+<i>La, la, la, la, la, la</i>
+<i>La, la, la, la, la</i>
+
+404
+00:34:07,927 --> 00:34:11,078
+<i>La, la, la, la, la, la</i>
+<i>La, la, la, la, la</i>
+
+405
+00:34:11,167 --> 00:34:14,557
+<i>Kidnap the Sandy Claws</i>
+<i>Lock him up real tight</i>
+
+406
+00:34:14,647 --> 00:34:17,923
+<i>Throw away the key</i>
+<i>and then turn off all the lights</i>
+
+407
+00:34:18,007 --> 00:34:21,317
+<i>First we're going to set some bait</i>
+<i>inside a nasty trap and wait</i>
+
+408
+00:34:21,407 --> 00:34:24,683
+<i>When he comes a-sniffing</i>
+<i>We will snap the trap and close the gate</i>
+
+409
+00:34:24,767 --> 00:34:27,839
+<i>Wait, I've got a better plan</i>
+<i>to catch this big red lobster man</i>
+
+410
+00:34:27,927 --> 00:34:31,363
+<i>Let's pop him in a boiling pot</i>
+<i>And when he's done we'll butter him up</i>
+
+411
+00:34:31,447 --> 00:34:34,678
+<i>Kidnap the Sandy Claws</i>
+<i>Throw him in a box</i>
+
+412
+00:34:34,767 --> 00:34:38,043
+<i>Bury him for 90 years</i>
+<i>Then see if he talks</i>
+
+413
+00:34:39,767 --> 00:34:43,077
+<i>And Mr. Oogie Boogie man</i>
+
+414
+00:34:43,167 --> 00:34:46,398
+<i>Can take the whole thing</i>
+<i>over then</i>
+
+415
+00:34:46,487 --> 00:34:49,638
+<i>He'll be so pleased I do declare</i>
+
+416
+00:34:49,727 --> 00:34:52,446
+<i>That he will cook him rare</i>
+<i>Whee</i>
+
+417
+00:34:58,367 --> 00:35:01,643
+<i>I say that we take a cannon</i>
+<i>Aim it at his door and then</i>
+
+418
+00:35:01,727 --> 00:35:05,163
+<i>Knock three times and when he answers</i>
+<i>Sandy Claws will be no more</i>
+
+419
+00:35:05,247 --> 00:35:08,444
+<i>You're so stupid</i>
+<i>Think now if we blow him up</i>
+<i>to smithereens</i>
+
+420
+00:35:08,527 --> 00:35:11,724
+<i>We may lose some pieces and then</i>
+<i>Jack will beat us black and green</i>
+
+421
+00:35:11,807 --> 00:35:14,958
+<i>Kidnap the Sandy Claws</i>
+<i>Tie him in a bag</i>
+
+422
+00:35:15,047 --> 00:35:17,925
+<i>Throw him in the ocean</i>
+<i>Then see if he is sad</i>
+
+423
+00:35:18,007 --> 00:35:21,795
+<i>Because Mr. Oogie Boogie</i>
+<i>is the meanest guy around</i>
+
+424
+00:35:21,887 --> 00:35:26,802
+<i>- If I were on his boogie list</i>
+<i>- I'd get out of town</i>
+
+425
+00:35:28,407 --> 00:35:31,797
+<i>He'll be so pleased</i>
+<i>by our success</i>
+
+426
+00:35:31,887 --> 00:35:35,163
+<i>That he'll reward us too</i>
+<i>I'll bet</i>
+
+427
+00:35:35,247 --> 00:35:38,444
+<i>Perhaps he'll make</i>
+<i>his special brew</i>
+
+428
+00:35:38,527 --> 00:35:40,279
+<i>Of snake and spider stew</i>
+
+429
+00:35:40,367 --> 00:35:43,484
+<i>We're his little henchmen</i>
+<i>and we take ourjob with pride</i>
+
+430
+00:35:43,567 --> 00:35:46,877
+<i>We do our best to please him</i>
+<i>and stay on his good side</i>
+
+431
+00:35:46,967 --> 00:35:49,527
+<i>- I wish my cohorts weren't so dumb</i>
+<i>- I'm not the dumb one</i>
+
+432
+00:35:49,607 --> 00:35:51,245
+<i>- You're no fun</i>
+<i>- Shut up</i>
+<i>- Make me</i>
+
+433
+00:35:51,327 --> 00:35:54,478
+<i>I've got something, listen now</i>
+<i>This one is real good you'll see</i>
+
+434
+00:35:54,567 --> 00:35:57,957
+<i>We'll send a present to his door</i>
+<i>Upon there'll be a note to read</i>
+
+435
+00:35:58,047 --> 00:36:01,164
+<i>Now in the box we'll wait</i>
+<i>and hide until his curiosity</i>
+
+436
+00:36:01,247 --> 00:36:04,717
+<i>Entices him to look inside and then</i>
+<i>we'll have him one, two, three</i>
+
+437
+00:36:04,807 --> 00:36:07,924
+<i>Kidnap the Sandy Claws</i>
+<i>Beat him with a stick</i>
+
+438
+00:36:08,007 --> 00:36:11,397
+<i>Lock him up for 90 years</i>
+<i>See what makes him tick</i>
+
+439
+00:36:11,487 --> 00:36:14,718
+<i>Kidnap the Sandy Claws</i>
+<i>Chop him into bits</i>
+
+440
+00:36:14,807 --> 00:36:18,117
+<i>Mr. Oogie Boogie</i>
+<i>is sure to get his kicks</i>
+
+441
+00:36:18,207 --> 00:36:21,483
+<i>Kidnap the Sandy Claws</i>
+<i>See what we will see</i>
+
+442
+00:36:21,567 --> 00:36:24,957
+<i>Lock him in a cage</i>
+<i>and then throw away the key</i>
+
+443
+00:36:31,087 --> 00:36:34,318
+Sandy Claws, huh?
+
+444
+00:36:41,087 --> 00:36:43,078
+It goes something like this.
+
+445
+00:36:48,447 --> 00:36:50,517
+How about it?
+Think you can manage?
+
+446
+00:36:50,607 --> 00:36:52,916
+A-one, and a-two,
+and a-three, and a...
+
+447
+00:36:59,887 --> 00:37:03,004
+- Next!
+- Fantastic!
+
+448
+00:37:03,087 --> 00:37:06,762
+Now, why don't you all practice on that,
+and we'll be in great shape.
+
+449
+00:37:06,847 --> 00:37:10,203
+Sally, I need your help
+more than anyone's.
+
+450
+00:37:10,287 --> 00:37:13,279
+You certainly do, Jack.
+I had the most terrible vision.
+
+451
+00:37:13,367 --> 00:37:16,837
+- That's splendid!
+- No! It was about your Christmas.
+
+452
+00:37:16,927 --> 00:37:20,886
+- There was smoke and fire.
+- That's not my Christmas.
+
+453
+00:37:20,967 --> 00:37:24,437
+My Christmas is filled
+with laughter and joy.
+
+454
+00:37:24,527 --> 00:37:29,920
+And this: My Sandy Claws outfit.
+I want you to make it.
+
+455
+00:37:30,007 --> 00:37:33,397
+Jack, please listen to me.
+It's going to be a disaster.
+
+456
+00:37:33,487 --> 00:37:36,604
+How could it be?
+Just follow the pattern.
+
+457
+00:37:36,687 --> 00:37:38,723
+This part's red.
+The trim is white.
+
+458
+00:37:38,807 --> 00:37:42,038
+- It's a mistake, Jack.
+- Now, don't be modest.
+
+459
+00:37:42,127 --> 00:37:44,766
+Who else is clever enough
+to make my Sandy Claws outfit?
+
+460
+00:37:44,847 --> 00:37:46,439
+- Next!
+- I have...
+
+461
+00:37:46,527 --> 00:37:48,597
+- Oh.
+- Every confidence in you.
+
+462
+00:37:48,687 --> 00:37:53,078
+But it seems wrong to me.
+Very wrong.
+
+463
+00:37:53,167 --> 00:37:55,840
+This device
+is called a nutcracker.
+
+464
+00:37:55,927 --> 00:37:58,441
+Jack! Jack! We caught 'im!
+We got 'im!
+
+465
+00:37:58,527 --> 00:38:01,599
+Perfect! Open it up. Quickly!
+
+466
+00:38:04,727 --> 00:38:06,843
+That's not Sandy Claws!
+
+467
+00:38:06,927 --> 00:38:09,236
+- It isn't?
+- Who is it?
+
+468
+00:38:11,887 --> 00:38:15,118
+- Bunny!
+- Eek! Ooh.
+
+469
+00:38:15,207 --> 00:38:17,767
+Not Sandy Claws! Take him back!
+
+470
+00:38:17,847 --> 00:38:20,600
+- We followed your instructions.
+- We went through the door.
+
+471
+00:38:20,687 --> 00:38:23,804
+Which door?
+There's more than one.
+
+472
+00:38:23,887 --> 00:38:27,800
+Sandy Claws is behind the door
+shaped like this.
+
+473
+00:38:27,887 --> 00:38:30,924
+I told you!
+
+474
+00:38:31,007 --> 00:38:33,157
+- You knock it off!
+- Get... Ow! Ow!
+
+475
+00:38:37,007 --> 00:38:39,475
+I'm very sorry
+for the inconvenience, sir.
+
+476
+00:38:39,567 --> 00:38:43,924
+Take him home first!
+And apologize again.
+
+477
+00:38:44,007 --> 00:38:46,362
+Be careful with Sandy Claws
+when you fetch him.
+
+478
+00:38:46,447 --> 00:38:48,039
+- Treat him nicely.
+- Got it.
+
+479
+00:38:48,127 --> 00:38:51,437
+We'll get it right next time.
+
+480
+00:38:51,527 --> 00:38:54,564
+You will be a decided improvement...
+
+481
+00:38:54,647 --> 00:38:57,207
+over that treacherous Sally.
+
+482
+00:38:57,287 --> 00:39:01,724
+Master. The plans.
+
+483
+00:39:04,887 --> 00:39:07,799
+Excellent, Igor.
+
+484
+00:39:17,287 --> 00:39:19,118
+- What?
+- What's goin' on?
+
+485
+00:39:21,647 --> 00:39:23,478
+<i>This time</i>
+
+486
+00:39:25,287 --> 00:39:26,959
+<i>This time</i>
+
+487
+00:39:27,047 --> 00:39:29,003
+<i>Making Christmas</i>
+
+488
+00:39:30,607 --> 00:39:33,075
+<i>Making Christmas</i>
+
+489
+00:39:33,167 --> 00:39:37,877
+<i>Making Christmas</i>
+<i>Making Christmas is so fine</i>
+
+490
+00:39:37,967 --> 00:39:42,836
+<i>It's ours this time</i>
+<i>And won't the children be surprised</i>
+
+491
+00:39:42,927 --> 00:39:45,600
+<i>It's ours this time</i>
+
+492
+00:39:45,687 --> 00:39:50,636
+<i>- Making Christmas</i>
+<i>- Making Christmas</i>
+<i>- Making Christmas</i>
+
+493
+00:39:50,727 --> 00:39:53,400
+<i>Time to give them something fun</i>
+
+494
+00:39:53,487 --> 00:39:56,923
+<i>They'll talk about</i>
+<i>for years to come</i>
+
+495
+00:39:57,007 --> 00:40:02,206
+<i>- Let's have a cheer from everyone</i>
+<i>- It's time to party</i>
+
+496
+00:40:02,287 --> 00:40:06,405
+<i>Making Christmas</i>
+<i>Making Christmas</i>
+
+497
+00:40:06,487 --> 00:40:10,400
+<i>Snakes and mice</i>
+<i>get wrapped up so nice</i>
+
+498
+00:40:10,487 --> 00:40:13,843
+<i>With spider legs and pretty bows</i>
+
+499
+00:40:13,927 --> 00:40:16,646
+<i>It's ours this time</i>
+
+500
+00:40:16,727 --> 00:40:19,480
+<i>All together</i>
+<i>that and this</i>
+
+501
+00:40:19,567 --> 00:40:24,436
+<i>With all our tricks</i>
+<i>we're making Christmastime</i>
+
+502
+00:40:24,527 --> 00:40:26,836
+Here comes Jack.
+
+503
+00:40:26,927 --> 00:40:32,240
+<i>I don't believe</i>
+<i>what's happening to me</i>
+
+504
+00:40:33,167 --> 00:40:36,762
+<i>My hopes, my dreams</i>
+
+505
+00:40:36,847 --> 00:40:40,681
+<i>My fantasies</i>
+
+506
+00:40:44,327 --> 00:40:48,605
+<i>Won't they be impressed</i>
+<i>I am a genius</i>
+
+507
+00:40:48,687 --> 00:40:51,997
+<i>See how I transform</i>
+<i>this old rat</i>
+
+508
+00:40:52,087 --> 00:40:55,841
+<i>Into a most delightful hat</i>
+
+509
+00:40:55,927 --> 00:41:00,478
+- Hmm.
+<i>- My compliments from me to you</i>
+<i>on this your most intriguing hat</i>
+
+510
+00:41:00,567 --> 00:41:03,957
+<i>- Consider though this substitute</i>
+<i>A bat in place of this old rat</i>
+- Huh!
+
+511
+00:41:04,047 --> 00:41:07,164
+<i>No, no, no, now that's all wrong</i>
+<i>This thing will never make a present</i>
+
+512
+00:41:07,247 --> 00:41:11,001
+<i>It's been dead for much too long</i>
+<i>Try something fresher</i>
+<i>Something pleasant</i>
+
+513
+00:41:11,087 --> 00:41:12,281
+<i>Try again</i>
+<i>Don't give up</i>
+
+514
+00:41:12,367 --> 00:41:15,006
+<i>All together</i>
+<i>that and this</i>
+
+515
+00:41:15,087 --> 00:41:19,399
+<i>With all our tricks</i>
+<i>we're making Christmastime</i>
+
+516
+00:42:25,127 --> 00:42:29,086
+<i>- This time, this time</i>
+<i>- It's ours</i>
+
+517
+00:42:29,167 --> 00:42:32,318
+<i>Making Christmas</i>
+<i>Making Christmas</i>
+
+518
+00:42:32,407 --> 00:42:36,798
+<i>La, la, la</i>
+<i>It's almost here and we can't wait</i>
+
+519
+00:42:36,887 --> 00:42:40,197
+<i>So ring the bells</i>
+<i>and celebrate</i>
+
+520
+00:42:40,287 --> 00:42:45,122
+<i>'Cause when the full moon</i>
+<i>starts to climb, we'll all sing out</i>
+
+521
+00:42:45,207 --> 00:42:48,483
+<i>It's Christmastime</i>
+
+522
+00:42:59,407 --> 00:43:04,083
+Kathleen, Bobby, Susie.
+Yes, Susie's been nice.
+
+523
+00:43:04,167 --> 00:43:08,126
+Nice, nice, naughty,
+nice, nice, nice...
+
+524
+00:43:08,207 --> 00:43:10,562
+There are hardly
+any naughty children this year.
+
+525
+00:43:11,767 --> 00:43:14,520
+Now, who could that be?
+
+526
+00:43:16,207 --> 00:43:17,720
+- Trick or treat!
+- Huh?
+
+527
+00:43:17,807 --> 00:43:20,241
+Ya!
+
+528
+00:43:22,447 --> 00:43:25,644
+You don't look like yourself,
+Jack, not at all.
+
+529
+00:43:25,727 --> 00:43:28,525
+Isn't that wonderful?
+It couldn't be more wonderful!
+
+530
+00:43:28,607 --> 00:43:31,121
+But you're the Pumpkin King!
+
+531
+00:43:31,207 --> 00:43:35,917
+Not anymore.
+And I feel so much better now!
+
+532
+00:43:36,007 --> 00:43:39,204
+Jack, I know you think
+something's missing, but...
+
+533
+00:43:39,287 --> 00:43:41,243
+- Ow!
+- Sorry.
+
+534
+00:43:41,327 --> 00:43:45,639
+You're right.
+Something is missing, but what?
+
+535
+00:43:45,727 --> 00:43:49,037
+I've got the beard, the coat,
+the boots, the belt...
+
+536
+00:43:49,127 --> 00:43:53,723
+- Jack, Jack, this time we bagged him.
+- This time we really did!
+
+537
+00:43:53,807 --> 00:43:56,924
+- He sure is big, Jack!
+- And heavy!
+
+538
+00:43:57,007 --> 00:43:59,441
+Let me out!
+
+539
+00:43:59,527 --> 00:44:03,964
+Sandy Claws in person!
+What a pleasure to meet you!
+
+540
+00:44:04,847 --> 00:44:06,963
+Wh... Why, you have hands!
+
+541
+00:44:07,047 --> 00:44:09,925
+- You don't have claws at all!
+- Wha...
+
+542
+00:44:11,127 --> 00:44:12,765
+Where am I?
+
+543
+00:44:12,847 --> 00:44:16,044
+Surprised, aren't you?
+I knew you would be.
+
+544
+00:44:16,127 --> 00:44:19,164
+You don't need to have another
+worry about Christmas this year.
+
+545
+00:44:19,247 --> 00:44:23,240
+- Wha... Well, wha... Wha...
+- Consider this a vacation,
+Sandy, a reward.
+
+546
+00:44:23,327 --> 00:44:27,036
+- It's your turn to take it easy.
+- B-But there must be some mistake!
+
+547
+00:44:27,127 --> 00:44:32,155
+See that he's comfortable.
+Just a second, fellas. Of course!
+
+548
+00:44:32,247 --> 00:44:34,477
+- That's what I'm missing!
+- B-B-but...
+
+549
+00:44:34,567 --> 00:44:36,444
+- Thanks.
+- Y-You just can't...
+
+550
+00:44:36,527 --> 00:44:38,916
+Hold on.
+Where are we going now?
+
+551
+00:44:39,007 --> 00:44:41,475
+Ho, ho, ho! No.
+
+552
+00:44:41,567 --> 00:44:45,082
+- This is worse than I thought.
+- Ho, ho, ho.
+- Much worse.
+
+553
+00:44:45,167 --> 00:44:47,476
+- Ho, ho, ho!
+- I know.
+
+554
+00:44:47,567 --> 00:44:50,639
+Me, on vacation?
+On Christmas Eve?
+
+555
+00:44:50,727 --> 00:44:52,558
+- Where are we taking him?
+- Where?
+
+556
+00:44:52,647 --> 00:44:54,524
+To Oogie Boogie, of course.
+
+557
+00:44:54,607 --> 00:44:57,644
+There isn't anywhere in the whole world
+more comfortable than that.
+
+558
+00:44:57,727 --> 00:45:01,879
+- And Jack said to make him
+comfortable, didn't he?
+- Yes, he did.
+
+559
+00:45:01,967 --> 00:45:06,324
+Haven't you heard of peace on earth
+and goodwill toward men?
+
+560
+00:45:06,407 --> 00:45:08,443
+No!
+
+561
+00:45:13,887 --> 00:45:17,402
+Ah! This'll stop Jack.
+
+562
+00:45:28,927 --> 00:45:33,478
+What a joy to think of all
+we'll have in common.
+
+563
+00:45:33,567 --> 00:45:38,800
+We'll have conversations
+worth having!
+
+564
+00:45:42,847 --> 00:45:44,917
+Don't do this!
+
+565
+00:45:45,007 --> 00:45:47,362
+Naughty children
+never get any presents!
+
+566
+00:45:47,447 --> 00:45:50,519
+- I think he might be too big!
+- Ooh!
+
+567
+00:45:50,607 --> 00:45:53,963
+No, he's not.
+If he can go down a chimney...
+
+568
+00:45:54,047 --> 00:45:57,198
+he can fit down here.
+
+569
+00:46:23,727 --> 00:46:27,640
+Well, well, well!
+What have we here?
+
+570
+00:46:27,727 --> 00:46:32,118
+Sandy Claws, huh?
+Oooh, I'm really scared!
+
+571
+00:46:32,207 --> 00:46:34,846
+So you're the one
+everybody's talkin' about.
+
+572
+00:46:36,207 --> 00:46:38,323
+<i>You'rejokin'</i>
+<i>You'rejokin'</i>
+
+573
+00:46:38,407 --> 00:46:40,398
+<i>I can't believe my eyes</i>
+
+574
+00:46:40,487 --> 00:46:44,685
+<i>You'rejokin'me, you gotta be</i>
+<i>This can't be the right guy</i>
+
+575
+00:46:44,767 --> 00:46:48,680
+<i>He's ancient, he's ugly</i>
+<i>I don't know which is worse</i>
+
+576
+00:46:48,767 --> 00:46:53,397
+<i>I might just split a seam now</i>
+<i>if I don't die laughin'first</i>
+
+577
+00:46:53,487 --> 00:46:57,241
+<i>Mr. Oogie Boogie says</i>
+<i>there's trouble close at hand</i>
+
+578
+00:46:57,327 --> 00:47:01,559
+<i>You better pay attention now</i>
+<i>'cause I'm the boogie man</i>
+
+579
+00:47:01,647 --> 00:47:05,765
+<i>And if you aren't shakin'</i>
+<i>there's somethin' very wrong</i>
+
+580
+00:47:05,847 --> 00:47:09,726
+<i>'Cause this may be the last time</i>
+<i>you hear the boogie song</i>
+
+581
+00:47:09,807 --> 00:47:11,479
+<i>- Whoa-oh</i>
+<i>- Whoa-oh</i>
+
+582
+00:47:11,567 --> 00:47:13,523
+<i>- Whoa-oh</i>
+<i>- Whoa-oh</i>
+
+583
+00:47:13,607 --> 00:47:15,882
+<i>- Whoa-oh</i>
+<i>- Whoa-oh</i>
+
+584
+00:47:15,967 --> 00:47:18,561
+<i>- I'm the Oogie Boogie man</i>
+<i>- He's the Oogie Boogie man</i>
+
+585
+00:47:18,647 --> 00:47:22,720
+<i>Release me now or you must face</i>
+<i>the dire consequences</i>
+
+586
+00:47:22,807 --> 00:47:26,641
+<i>The children are expecting me</i>
+<i>So please, come to your senses</i>
+
+587
+00:47:26,727 --> 00:47:28,957
+<i>Ah, you'rejokin'</i>
+<i>You'rejokin'</i>
+
+588
+00:47:29,047 --> 00:47:31,163
+<i>I can't believe my ears</i>
+
+589
+00:47:31,247 --> 00:47:35,160
+<i>Would someone shut this fella up</i>
+<i>I'm drownin'in my tears</i>
+
+590
+00:47:35,247 --> 00:47:37,556
+<i>It's funny</i>
+<i>I'm laughin'</i>
+
+591
+00:47:37,647 --> 00:47:39,478
+<i>You really are too much</i>
+
+592
+00:47:39,567 --> 00:47:44,038
+<i>And now with your permission</i>
+<i>I'm going to do my stuff</i>
+
+593
+00:47:44,127 --> 00:47:46,846
+- What are you going to do?
+- I'm gonna do the best I can.
+
+594
+00:47:46,927 --> 00:47:48,997
+<i>Whoa</i>
+
+595
+00:47:49,087 --> 00:47:53,239
+<i>The sound of rolling dice to me</i>
+<i>is music in the air</i>
+
+596
+00:47:53,327 --> 00:47:57,639
+<i>'Cause I'm a gamblin'boogie man</i>
+<i>although I don't play fair</i>
+
+597
+00:47:57,727 --> 00:48:01,561
+<i>It's much more fun</i>
+<i>I must confess with lives on the line</i>
+
+598
+00:48:01,647 --> 00:48:03,763
+<i>Not mine, of course</i>
+<i>But yours, old boy</i>
+
+599
+00:48:03,847 --> 00:48:05,883
+<i>Now that'd bejust fine</i>
+
+600
+00:48:05,967 --> 00:48:10,199
+<i>Release me fast or you will have to</i>
+<i>answer for this heinous act</i>
+
+601
+00:48:10,287 --> 00:48:14,280
+<i>Oh, brother, you're somethin'</i>
+<i>You put me in a spin</i>
+
+602
+00:48:14,367 --> 00:48:18,440
+<i>You aren't comprehending</i>
+<i>the position that you're in</i>
+
+603
+00:48:18,527 --> 00:48:22,566
+<i>It's hopeless, you're finished</i>
+<i>You haven't got a prayer</i>
+
+604
+00:48:22,647 --> 00:48:24,763
+<i>'Cause I'm Mr. Oogie Boogie</i>
+
+605
+00:48:24,847 --> 00:48:28,999
+<i>And you ain't goin'nowhere</i>
+
+606
+00:48:55,727 --> 00:48:58,195
+Whoa! It's Jack!
+
+607
+00:49:04,407 --> 00:49:08,446
+Think of us as you soar
+triumphantly through the sky...
+
+608
+00:49:08,527 --> 00:49:11,166
+outshining every star...
+
+609
+00:49:11,247 --> 00:49:15,081
+your silhouette
+a dark blot on the moon.
+
+610
+00:49:15,167 --> 00:49:17,442
+You, who are our pride.
+
+611
+00:49:17,527 --> 00:49:20,087
+You, who are our glory.
+
+612
+00:49:20,167 --> 00:49:24,319
+- You, who have frightened
+millions into an early grave.
+- Ow!
+
+613
+00:49:24,407 --> 00:49:27,001
+You, who have, uh...
+
+614
+00:49:27,087 --> 00:49:30,636
+devastated the,
+the souls of the living?
+
+615
+00:49:30,727 --> 00:49:34,515
+Oh, no! We can't take off in this.
+
+616
+00:49:34,607 --> 00:49:37,963
+- The reindeer can't see an inch
+in front of their noses.
+- Whew!
+
+617
+00:49:38,047 --> 00:49:41,084
+This fog's as thick as, as...
+
+618
+00:49:41,167 --> 00:49:44,284
+- Jellied brains.
+- Or thicker!
+
+619
+00:49:44,367 --> 00:49:47,165
+There go all of my hopes...
+
+620
+00:49:47,247 --> 00:49:51,206
+my precious plans,
+my glorious dreams.
+
+621
+00:49:51,287 --> 00:49:54,916
+There goes Christmas.
+
+622
+00:49:56,007 --> 00:49:59,283
+No, Zero. Down, boy.
+
+623
+00:49:59,367 --> 00:50:02,837
+My, what a brilliant nose you have!
+
+624
+00:50:02,927 --> 00:50:05,157
+The better to light my way!
+
+625
+00:50:05,247 --> 00:50:07,841
+To the head
+of the team, Zero!
+
+626
+00:50:09,327 --> 00:50:11,557
+We're off!
+
+627
+00:50:14,447 --> 00:50:16,278
+Wait, Jack! No!
+
+628
+00:50:23,567 --> 00:50:28,277
+Ho-ho-ho!
+Ha-ha-ha-ha-ho!
+
+629
+00:50:37,047 --> 00:50:39,117
+Good-bye, Jack.
+
+630
+00:50:39,207 --> 00:50:42,165
+My dearest Jack.
+
+631
+00:50:42,247 --> 00:50:45,444
+Oh, how I hope
+my premonition is wrong.
+
+632
+00:50:50,407 --> 00:50:55,527
+<i>I sense there's something</i>
+<i>in the wind</i>
+
+633
+00:50:55,607 --> 00:51:00,601
+<i>That feels like</i>
+<i>tragedy's at hand</i>
+
+634
+00:51:00,687 --> 00:51:05,807
+<i>And though I'd like</i>
+<i>to stand by him</i>
+
+635
+00:51:05,887 --> 00:51:10,961
+<i>Can't shake this feeling</i>
+<i>that I have</i>
+
+636
+00:51:11,047 --> 00:51:16,121
+<i>The worst</i>
+<i>is just around the bend</i>
+
+637
+00:51:16,207 --> 00:51:20,086
+<i>And does he notice</i>
+
+638
+00:51:20,167 --> 00:51:24,285
+<i>My feelings for him</i>
+
+639
+00:51:24,367 --> 00:51:27,325
+<i>And will he see</i>
+
+640
+00:51:27,407 --> 00:51:31,480
+<i>How much he means to me</i>
+
+641
+00:51:31,567 --> 00:51:36,516
+<i>I think it's not to be</i>
+
+642
+00:51:36,607 --> 00:51:41,840
+<i>What will become</i>
+<i>of my dear friend</i>
+
+643
+00:51:41,927 --> 00:51:46,955
+<i>Where will his actions</i>
+<i>lead us then</i>
+
+644
+00:51:47,047 --> 00:51:52,121
+<i>Although I'd like</i>
+<i>to join the crowd</i>
+
+645
+00:51:52,207 --> 00:51:57,156
+<i>In their enthusiastic cloud</i>
+
+646
+00:51:57,247 --> 00:52:02,401
+<i>Try as I may it doesn't last</i>
+
+647
+00:52:02,487 --> 00:52:06,526
+<i>And will we ever</i>
+
+648
+00:52:06,607 --> 00:52:10,600
+<i>End up together</i>
+
+649
+00:52:10,687 --> 00:52:13,724
+<i>No, I think not</i>
+
+650
+00:52:13,807 --> 00:52:17,880
+<i>It's never to become</i>
+
+651
+00:52:17,967 --> 00:52:23,200
+<i>For I am not the one</i>
+
+652
+00:52:41,047 --> 00:52:45,086
+Ho-ho-ho-ho-ho-ho-ho!
+
+653
+00:52:45,167 --> 00:52:47,237
+Hee-hee-hee-hee-hee!
+
+654
+00:52:54,687 --> 00:52:56,803
+Santa!
+
+655
+00:53:15,447 --> 00:53:18,041
+Santa?
+
+656
+00:53:18,127 --> 00:53:22,518
+Merry Christmas!
+And what is your name?
+
+657
+00:53:22,607 --> 00:53:24,882
+- Uh, uh, uh, uh...
+- That's all right.
+
+658
+00:53:24,967 --> 00:53:29,597
+I have a special present for you
+anyway. There you go, sonny.
+
+659
+00:53:29,687 --> 00:53:33,077
+Ho-ho-ho-ho!
+Hee-hee-hee-hee-hee!
+
+660
+00:53:38,487 --> 00:53:40,842
+And what did Santa
+bring you, honey?
+
+661
+00:53:42,967 --> 00:53:46,084
+Merry Christmas!
+
+662
+00:53:48,047 --> 00:53:50,880
+Hello. Police.
+
+663
+00:53:50,967 --> 00:53:55,358
+Attacked by Christmas toys?
+That's strange. That's the
+second toy complaint we've had.
+
+664
+00:53:57,287 --> 00:54:01,166
+Oh! Ha-ha-ha-ha,
+ha-ha-ha-ha-ha-ha!
+
+665
+00:54:02,527 --> 00:54:06,486
+Oh! Ha-ha-ha-ha,
+ha-ha-ha-ha-ha-ha!
+
+666
+00:54:29,487 --> 00:54:30,886
+Huh?
+
+667
+00:54:30,967 --> 00:54:32,798
+Oh, wait!
+
+668
+00:54:38,127 --> 00:54:39,958
+Whoa! Help! Help!
+
+669
+00:55:14,927 --> 00:55:18,840
+You're welcome, one and all!
+
+670
+00:55:18,927 --> 00:55:21,077
+Where'd you spot him?
+Fast as we can, ma'am.
+
+671
+00:55:21,167 --> 00:55:24,125
+Police. I know. I know.
+A skeleton. Keep calm.
+
+672
+00:55:24,207 --> 00:55:27,199
+Turn off all the lights. Make sure
+the doors are locked. Hello. Police.
+
+673
+00:55:27,287 --> 00:55:29,801
+Reports are pouring in
+from all over the globe...
+
+674
+00:55:29,887 --> 00:55:33,038
+that an impostor is shamelessly
+impersonating Santa Claus...
+
+675
+00:55:33,127 --> 00:55:35,687
+mocking and mangling
+this joyous holiday.
+
+676
+00:55:37,087 --> 00:55:39,157
+Authorities assure us
+that at this moment...
+
+677
+00:55:39,247 --> 00:55:43,604
+military units are mobilizing to stop
+the perpetrator of this heinous crime.
+
+678
+00:55:43,687 --> 00:55:46,360
+- Jack! Someone has to help Jack.
+<i>- Wherever you are...</i>
+
+679
+00:55:46,447 --> 00:55:50,235
+- Where'd they take that Sandy Claws?
+<i>- Come back and save Christmas.</i>
+
+680
+00:55:59,687 --> 00:56:03,157
+Look, Zero, searchlights!
+
+681
+00:56:10,447 --> 00:56:12,597
+They're celebrating!
+
+682
+00:56:12,687 --> 00:56:16,600
+They're thanking us
+for doing such a good job.
+
+683
+00:56:16,687 --> 00:56:21,363
+Whoa! Careful down there.
+You almost hit us!
+
+684
+00:56:21,447 --> 00:56:25,076
+It's okay, Zero. Head higher.
+
+685
+00:56:28,927 --> 00:56:31,805
+Are you a gamblin' man, Sandy?
+
+686
+00:56:31,887 --> 00:56:35,357
+Let's play. Hmm?
+
+687
+00:56:36,847 --> 00:56:41,238
+My, my! What have we here?
+
+688
+00:56:50,527 --> 00:56:52,677
+I'll get you out of here.
+
+689
+00:56:52,767 --> 00:56:56,476
+Ah. Lovely.
+
+690
+00:56:56,567 --> 00:56:59,639
+Tickle, tickle, tickle.
+Uh, tickle, tickle, tickle.
+
+691
+00:56:59,727 --> 00:57:01,763
+Tickle, tickle, tickle.
+Tickle, tickle, tickle.
+
+692
+00:57:03,727 --> 00:57:09,085
+What? You try to make
+a dupe out of me!
+
+693
+00:57:16,687 --> 00:57:17,676
+Oh!
+
+694
+00:57:19,487 --> 00:57:21,398
+Who's next on my list?
+
+695
+00:57:21,487 --> 00:57:25,719
+Ah, little Harry and Jordan.
+Won't they be surprised?
+
+696
+00:57:37,167 --> 00:57:40,921
+They're trying to hit us. Zero!
+
+697
+00:57:50,847 --> 00:57:53,156
+Merry Christmas to all...
+
+698
+00:57:53,247 --> 00:57:58,765
+and to all a good night!
+
+699
+00:58:16,127 --> 00:58:20,439
+I knew this Christmas thing
+was a bad idea.
+
+700
+00:58:20,527 --> 00:58:23,803
+I felt it in my gut.
+
+701
+00:58:23,887 --> 00:58:26,560
+Terrible news, folks.
+
+702
+00:58:26,647 --> 00:58:31,004
+The worst tragedy of our times.
+
+703
+00:58:31,087 --> 00:58:36,207
+Jack has been blown to smithereens!
+
+704
+00:58:36,287 --> 00:58:39,996
+Terrible, terrible news!
+
+705
+00:58:41,967 --> 00:58:45,323
+Attention. Attention, citizens.
+
+706
+00:58:45,407 --> 00:58:49,923
+Terrible news. There's still
+no sign of Santa Claus.
+
+707
+00:58:50,007 --> 00:58:53,204
+Although the impostor
+has been shot down...
+
+708
+00:58:53,287 --> 00:58:58,407
+it looks like Christmas will
+have to be cancelled this year.
+
+709
+00:58:58,487 --> 00:59:00,842
+I repeat, the impostor
+has been shot down...
+
+710
+00:59:02,527 --> 00:59:06,520
+but there's still
+no sign yet of Santa.
+
+711
+00:59:17,967 --> 00:59:20,925
+<i>What have I done</i>
+
+712
+00:59:21,007 --> 00:59:24,363
+<i>What have I done</i>
+
+713
+00:59:24,447 --> 00:59:27,564
+<i>How could I</i>
+
+714
+00:59:27,647 --> 00:59:30,844
+<i>Be so blind</i>
+
+715
+00:59:30,927 --> 00:59:33,999
+<i>All is lost</i>
+
+716
+00:59:34,087 --> 00:59:37,363
+<i>Where was I</i>
+
+717
+00:59:37,447 --> 00:59:40,519
+<i>Spoiled all</i>
+
+718
+00:59:40,607 --> 00:59:43,917
+<i>Spoiled all</i>
+
+719
+00:59:44,007 --> 00:59:47,044
+<i>Everything's</i>
+
+720
+00:59:47,127 --> 00:59:50,358
+<i>Gone all wrong</i>
+
+721
+00:59:50,447 --> 00:59:53,564
+<i>What have I done</i>
+
+722
+00:59:53,647 --> 00:59:56,878
+<i>What have I done</i>
+
+723
+00:59:56,967 --> 01:00:01,245
+<i>Find a deep cave to hide in</i>
+
+724
+01:00:01,327 --> 01:00:04,160
+<i>In a million years</i>
+
+725
+01:00:04,247 --> 01:00:08,877
+<i>They'll find me only dust</i>
+
+726
+01:00:08,967 --> 01:00:13,165
+<i>And a plaque that reads</i>
+
+727
+01:00:13,247 --> 01:00:18,241
+<i>Here lies poor old Jack</i>
+
+728
+01:00:19,567 --> 01:00:24,357
+<i>But I never intended</i>
+<i>all this madness</i>
+
+729
+01:00:24,447 --> 01:00:25,880
+<i>Never</i>
+
+730
+01:00:25,967 --> 01:00:29,880
+<i>And nobody really understood</i>
+
+731
+01:00:29,967 --> 01:00:31,878
+<i>Well, how could they</i>
+
+732
+01:00:31,967 --> 01:00:36,199
+<i>That all I ever wanted was</i>
+<i>to bring them something great</i>
+
+733
+01:00:36,287 --> 01:00:40,246
+<i>Why does nothing ever</i>
+<i>turn out like it should</i>
+
+734
+01:00:40,327 --> 01:00:42,921
+<i>Well, what the heck</i>
+
+735
+01:00:43,007 --> 01:00:45,123
+<i>I went and did my best</i>
+
+736
+01:00:45,207 --> 01:00:50,042
+<i>And by God</i>
+<i>I really tasted something swell</i>
+
+737
+01:00:50,127 --> 01:00:54,359
+<i>And for a moment</i>
+<i>why, I even touched the sky</i>
+
+738
+01:00:54,447 --> 01:00:58,645
+<i>And at least I left some stories</i>
+<i>they can tell, I did</i>
+
+739
+01:00:58,727 --> 01:01:02,800
+<i>And for the first time</i>
+<i>since I don't remember when</i>
+
+740
+01:01:02,887 --> 01:01:06,880
+<i>I felt just like</i>
+<i>my old bony self again</i>
+
+741
+01:01:06,967 --> 01:01:09,037
+<i>And I, Jack</i>
+
+742
+01:01:09,127 --> 01:01:11,641
+<i>The Pumpkin King</i>
+
+743
+01:01:11,727 --> 01:01:16,278
+<i>That's right, I am the Pumpkin King</i>
+<i>Ha-ha-ha-ha</i>
+
+744
+01:01:16,367 --> 01:01:19,916
+<i>And I just can't wait</i>
+<i>until next Halloween</i>
+
+745
+01:01:20,007 --> 01:01:24,046
+<i>'Cause I've got some new ideas</i>
+<i>that will really make them scream</i>
+
+746
+01:01:24,127 --> 01:01:29,076
+<i>And by god I'm really</i>
+<i>going to give it all my might</i>
+
+747
+01:01:29,167 --> 01:01:32,876
+Uh-oh. I hope there's still time...
+
+748
+01:01:32,967 --> 01:01:36,277
+to set things right.
+
+749
+01:01:36,367 --> 01:01:39,404
+Sandy Claws! Hmm.
+
+750
+01:01:39,487 --> 01:01:41,682
+You wait till Jack
+hears about this!
+
+751
+01:01:41,767 --> 01:01:44,759
+By the time he's through with
+you, you'll be lucky if you...
+
+752
+01:01:44,847 --> 01:01:46,997
+The King of Halloween...
+
+753
+01:01:47,087 --> 01:01:50,875
+has been blown to smithereens.
+
+754
+01:01:50,967 --> 01:01:55,882
+Skeleton Jack
+is now a pile of dust.
+
+755
+01:01:56,047 --> 01:01:58,880
+Come on, Zero.
+Christmas isn't over yet.
+
+756
+01:02:06,487 --> 01:02:10,719
+What's that you said
+about luck, rag doll?
+
+757
+01:02:16,087 --> 01:02:19,477
+Help! Help! Help!
+
+758
+01:02:19,567 --> 01:02:21,444
+Shh.
+
+759
+01:02:23,607 --> 01:02:26,440
+Looks like it's Oogie's turn
+to boogie now.
+
+760
+01:02:26,527 --> 01:02:29,246
+- Help!
+- One, two, three...
+
+761
+01:02:29,327 --> 01:02:32,319
+four, five, six, seven.
+
+762
+01:02:32,407 --> 01:02:34,602
+Help!
+
+763
+01:02:35,887 --> 01:02:39,562
+Ashes to ashes,
+and dust to dust.
+
+764
+01:02:39,647 --> 01:02:44,118
+Oh, I'm feeling weak with hunger!
+
+765
+01:02:44,207 --> 01:02:47,244
+One more roll of the dice
+oughta do it.
+
+766
+01:02:50,287 --> 01:02:52,926
+What? Snake eyes?
+
+767
+01:02:54,567 --> 01:02:56,922
+Eleven!
+
+768
+01:02:57,007 --> 01:03:00,636
+Looks like I won the jackpot!
+
+769
+01:03:00,727 --> 01:03:05,721
+Bye-bye, doll face and sandman.
+
+770
+01:03:08,487 --> 01:03:10,079
+What the...
+
+771
+01:03:12,047 --> 01:03:14,925
+- Hello, Oogie.
+- J-J-J-Jack!
+
+772
+01:03:15,007 --> 01:03:20,127
+But they said you were dead.
+You must be double dead!
+
+773
+01:03:20,207 --> 01:03:21,799
+Oh!
+
+774
+01:03:27,847 --> 01:03:31,157
+Well, come on, bone man!
+
+775
+01:03:38,647 --> 01:03:41,241
+Ooh-hoo-hoo-hoo! Ha!
+
+776
+01:03:45,727 --> 01:03:48,116
+Fire!
+
+777
+01:03:50,407 --> 01:03:52,921
+Hmm. Ooh-ooh-ooh!
+
+778
+01:03:59,247 --> 01:04:01,317
+Jack, look out!
+
+779
+01:04:05,847 --> 01:04:07,963
+So long, Jack.
+
+780
+01:04:10,007 --> 01:04:14,558
+How dare you treat my friends
+so shamefully!
+
+781
+01:04:19,327 --> 01:04:23,161
+Now look what you've done!
+
+782
+01:04:23,247 --> 01:04:26,796
+My bugs! My bugs!
+
+783
+01:04:26,887 --> 01:04:31,005
+My bugs! My bugs! My bugs!
+
+784
+01:04:31,087 --> 01:04:34,557
+My bugs! My bugs! My bugs!
+
+785
+01:04:34,647 --> 01:04:37,605
+My bugs! My bugs!
+
+786
+01:04:39,087 --> 01:04:40,964
+Forgive me, Mr. Claws.
+
+787
+01:04:41,047 --> 01:04:43,163
+I'm afraid I've made
+a terrible mess of your holiday.
+
+788
+01:04:43,247 --> 01:04:46,319
+Bumpy sleigh ride, Jack?
+
+789
+01:04:46,407 --> 01:04:51,356
+The next time you get the urge
+to take over someone else's
+holiday, I'd listen to her.
+
+790
+01:04:51,447 --> 01:04:54,996
+She's the only one who makes any
+sense around this insane asylum.
+
+791
+01:04:55,087 --> 01:04:58,602
+- Skeletons! Boogie men! Ooh.
+- I hope there's still time.
+
+792
+01:04:58,687 --> 01:05:01,918
+To fix Christmas?
+Of course there is!
+
+793
+01:05:02,007 --> 01:05:04,805
+I'm Santa Claus.
+
+794
+01:05:09,087 --> 01:05:12,523
+He'll fix things, Jack.
+He knows what to do.
+
+795
+01:05:12,607 --> 01:05:14,677
+How did you
+get down here, Sally?
+
+796
+01:05:14,767 --> 01:05:19,045
+Oh, l-I was trying to...
+Well, I wanted to, to...
+
+797
+01:05:19,127 --> 01:05:21,641
+- To help me.
+- I couldn't let you just...
+
+798
+01:05:21,727 --> 01:05:25,561
+Sally, I can't believe
+I never realized that you...
+
+799
+01:05:25,647 --> 01:05:28,764
+- Jack! Jack!
+- Here he is!
+- Alive!
+
+800
+01:05:28,847 --> 01:05:32,123
+- Just like we said!
+- Grab ahold, my boy!
+
+801
+01:05:33,367 --> 01:05:35,164
+Whoa!
+
+802
+01:05:35,247 --> 01:05:40,002
+Good news, folks. Santa Claus, the one
+and only, has finally been spotted.
+
+803
+01:05:40,087 --> 01:05:43,284
+Old Saint Nick appears to be
+traveling at supersonic speed.
+
+804
+01:05:43,367 --> 01:05:47,440
+He's setting things right, bringing
+joy and cheer wherever he goes.
+
+805
+01:05:47,527 --> 01:05:50,200
+Yes, folks, Kriss Kringle
+has pulled it out of the bag...
+
+806
+01:05:50,287 --> 01:05:54,883
+and delivered Christmas
+to excited children all over the world.
+
+807
+01:05:56,927 --> 01:05:59,043
+<i>La, la, la, la</i>
+<i>La-la-la-la</i>
+
+808
+01:05:59,127 --> 01:06:01,118
+<i>La, la, la, la</i>
+<i>La-la-la-la</i>
+
+809
+01:06:01,207 --> 01:06:03,004
+- Jack!
+- Jack's back!
+
+810
+01:06:03,087 --> 01:06:06,238
+- Jack?
+- Jack's okay!
+- He's all right!
+- It's Jack!
+
+811
+01:06:06,327 --> 01:06:09,080
+<i>Jack's okay</i>
+<i>And he's back</i>
+
+812
+01:06:09,167 --> 01:06:11,522
+<i>Oh, yea</i>
+<i>He's all right</i>
+
+813
+01:06:11,607 --> 01:06:15,839
+<i>Let's shout, make a fuss</i>
+<i>Scream it out, whee</i>
+
+814
+01:06:15,927 --> 01:06:18,487
+<i>Jack is back now</i>
+<i>Everyone sing</i>
+
+815
+01:06:18,567 --> 01:06:22,037
+<i>In the town of Halloween</i>
+
+816
+01:06:22,127 --> 01:06:25,563
+- It's great to be home!
+- Ho-ho-ho-ho!
+
+817
+01:06:27,167 --> 01:06:29,806
+Happy Halloween!
+
+818
+01:06:29,887 --> 01:06:33,766
+Merry Christmas!
+
+819
+01:06:33,847 --> 01:06:36,486
+<i>- What's this</i>
+<i>- What's this</i>
+<i>- I haven't got a clue</i>
+
+820
+01:06:36,567 --> 01:06:38,683
+<i>- What's this</i>
+<i>- Why, it's completely new</i>
+
+821
+01:06:38,767 --> 01:06:40,723
+<i>What's this</i>
+<i>Must be a Christmas thing</i>
+
+822
+01:06:40,807 --> 01:06:43,480
+<i>- What's this</i>
+<i>- It's really very strange</i>
+
+823
+01:06:50,567 --> 01:06:53,843
+<i>This is Halloween</i>
+<i>Halloween, Halloween, Halloween</i>
+
+824
+01:06:53,927 --> 01:06:55,645
+<i>What's this</i>
+<i>What's this</i>
+
+825
+01:07:00,767 --> 01:07:03,804
+Careful, my precious jewel.
+
+826
+01:07:28,567 --> 01:07:34,085
+<i>My dearest friend</i>
+<i>if you don't mind</i>
+
+827
+01:07:34,167 --> 01:07:40,197
+<i>I'd like to join you by your side</i>
+
+828
+01:07:40,287 --> 01:07:46,317
+<i>Where we can gaze</i>
+<i>into the stars</i>
+
+829
+01:07:46,407 --> 01:07:50,525
+<i>And sit together</i>
+
+830
+01:07:50,607 --> 01:07:54,600
+<i>Now and forever</i>
+
+831
+01:07:54,687 --> 01:07:57,884
+<i>For it is plain</i>
+
+832
+01:07:57,967 --> 01:08:01,880
+<i>As anyone can see</i>
+
+833
+01:08:01,967 --> 01:08:07,758
+<i>We're simply meant to be</i>

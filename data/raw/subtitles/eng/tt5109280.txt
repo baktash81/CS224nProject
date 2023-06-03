@@ -1,0 +1,8388 @@
+1
+00:00:34,117 --> 00:00:36,036
+<font color="#ffff00">(INSECTS TRILLING)</font>
+
+2
+00:00:36,119 --> 00:00:37,621
+<font color="#ffff00">(OWL HOOTING)</font>
+
+3
+00:00:49,091 --> 00:00:50,133
+<font color="#ffff00">(INSECTS CONTINUE TRILLING)</font>
+
+4
+00:00:54,513 --> 00:00:55,514
+<font color="#ffff00">(RUMBLING)</font>
+
+5
+00:01:00,602 --> 00:01:01,603
+<font color="#ffff00">(SUSPENSEFUL MUSIC PLAYING)</font>
+
+6
+00:01:04,898 --> 00:01:06,650
+<font color="#ff00ff">RAYA:</font>
+<i>I know what you're thinking.</i>
+
+7
+00:01:07,442 --> 00:01:09,486
+<i>A lone rider.</i>
+
+8
+00:01:09,945 --> 00:01:11,822
+<i>A dystopian world.</i>
+
+9
+00:01:11,989 --> 00:01:14,533
+<i>A land that's gone to waste.</i>
+
+10
+00:01:15,242 --> 00:01:18,036
+<i>How did this world
+getso broken?</i>
+
+11
+00:01:19,371 --> 00:01:22,833
+<i>Well, that all began
+500 years ago.</i>
+
+12
+00:01:24,793 --> 00:01:26,545
+<i>Kumandra.</i>
+
+13
+00:01:26,795 --> 00:01:27,880
+<font color="#ffff00">(TRIBAL MUSIC PLAYING)</font>
+
+14
+00:01:28,130 --> 00:01:30,382
+<i>This is what we used to be.</i>
+
+15
+00:01:30,549 --> 00:01:32,009
+<i>When our land was whole,</i>
+
+16
+00:01:32,092 --> 00:01:34,845
+<i>and we lived harmoniously
+alongside...</i>
+
+17
+00:01:36,054 --> 00:01:37,139
+<i>dragons.</i>
+
+18
+00:01:37,306 --> 00:01:38,640
+<i>Magical creatures
+who brought us</i>
+
+19
+00:01:38,724 --> 00:01:42,311
+<i>waterand rain and peace.</i>
+
+20
+00:01:43,562 --> 00:01:46,190
+<i>It was paradise.</i>
+
+21
+00:01:46,356 --> 00:01:48,901
+<i>But then, the Druun came.</i>
+
+22
+00:01:48,984 --> 00:01:49,985
+<font color="#ffff00">(RUMBLING)</font>
+
+23
+00:01:51,278 --> 00:01:54,740
+<i>A mindless plague
+that spread like wildfire,</i>
+
+24
+00:01:54,907 --> 00:01:56,533
+<i>multiplying
+as they consumed life</i>
+
+25
+00:01:56,617 --> 00:02:00,037
+<i>and turned everyone
+they touched into stone.</i>
+
+26
+00:02:01,121 --> 00:02:03,457
+<i>The dragons fought for us
+the best they could,</i>
+
+27
+00:02:05,417 --> 00:02:07,669
+<i>but it wasn't enough.</i>
+
+28
+00:02:09,296 --> 00:02:11,131
+<i>That's when
+the Mighty Sisudatu,</i>
+
+29
+00:02:11,340 --> 00:02:12,674
+<i>the last dragon,</i>
+
+30
+00:02:12,758 --> 00:02:15,677
+<i>concentrated all her magic
+into a gem and...</i>
+
+31
+00:02:15,761 --> 00:02:16,845
+<font color="#ffff00">(SUSPENSEFUL MUSIC RISING)</font>
+
+32
+00:02:21,266 --> 00:02:23,560
+<i>...blasted the Druun away.</i>
+
+33
+00:02:24,603 --> 00:02:26,939
+<i>Everyone that was turned
+to stone came back.</i>
+
+34
+00:02:27,898 --> 00:02:30,817
+<i>Except the dragons.</i>
+
+35
+00:02:34,112 --> 00:02:36,740
+<i>All that was left of Sisu
+was her gem.</i>
+
+36
+00:02:36,990 --> 00:02:40,077
+<i>It should have been
+this big inspirational moment,</i>
+
+37
+00:02:40,244 --> 00:02:42,579
+<i>where humanity united
+over her sacrifice.</i>
+
+38
+00:02:42,746 --> 00:02:45,791
+<i>But instead,
+people being people,</i>
+
+39
+00:02:45,958 --> 00:02:47,835
+<i>they all fought to possess</i>
+
+40
+00:02:47,918 --> 00:02:50,212
+<i>the last remnant
+of dragon magic.</i>
+
+41
+00:02:51,421 --> 00:02:54,299
+<i>Borders were drawn,
+Kumandra divided.</i>
+
+42
+00:02:55,008 --> 00:02:58,136
+<i>We all became enemies,
+and the gem had to be hidden.</i>
+
+43
+00:02:58,220 --> 00:02:59,221
+<font color="#ffff00">(SUSPENSEFUL MUSIC PLAYING)</font>
+
+44
+00:02:59,304 --> 00:03:01,515
+<i>But that's not how
+the world broke.</i>
+
+45
+00:03:01,890 --> 00:03:05,102
+<i>That didn't truly happen
+until 500 years later,</i>
+
+46
+00:03:05,727 --> 00:03:07,312
+<i>when I came into the story.</i>
+
+47
+00:03:07,688 --> 00:03:08,814
+<font color="#ffff00">(SUSPENSEFUL MUSIC CONTINUES)</font>
+
+48
+00:03:11,275 --> 00:03:12,317
+<font color="#ffff00">(WHOOSHING)</font>
+
+49
+00:03:17,072 --> 00:03:18,073
+<font color="#ffff00">(RINGS)</font>
+
+50
+00:03:19,074 --> 00:03:21,076
+<font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+51
+00:03:24,830 --> 00:03:25,914
+<font color="#ffff00">(RAIN PATTERING)</font>
+
+52
+00:03:38,260 --> 00:03:39,344
+<font color="#ffff00">(SOFT SUSPENSEFUL MUSIC
+PLAYING)</font>
+
+53
+00:03:50,063 --> 00:03:51,064
+Hmm.
+
+54
+00:04:03,952 --> 00:04:04,953
+<font color="#ffff00">(EXCLAIMS)</font>
+
+55
+00:04:06,288 --> 00:04:07,289
+Huh.
+
+56
+00:04:07,581 --> 00:04:09,333
+Looks like someone's trying
+to be clever.
+
+57
+00:04:11,543 --> 00:04:12,544
+<font color="#ffff00">(SQUEAKING)</font>
+
+58
+00:04:12,628 --> 00:04:13,754
+All right, Tuk Tuk,
+
+59
+00:04:13,837 --> 00:04:15,589
+let's show 'em
+what clever really looks like.
+
+60
+00:04:15,672 --> 00:04:17,966
+<font color="#ffff00">(TRILLING)</font>
+
+61
+00:04:19,843 --> 00:04:21,762
+<font color="#ffff00">(WHOOSHING)</font>
+
+62
+00:04:26,058 --> 00:04:27,142
+<font color="#ff00ff">YOUNG RAYA:</font> Tuk Tuk!
+
+63
+00:04:27,851 --> 00:04:28,894
+Come on!
+
+64
+00:04:29,019 --> 00:04:30,020
+Focus!
+
+65
+00:04:32,064 --> 00:04:33,065
+Thank you.
+
+66
+00:04:36,860 --> 00:04:37,861
+<font color="#ffff00">(SQUEAKS)</font>
+
+67
+00:04:37,945 --> 00:04:40,405
+Hey, bud, that was awesome.
+Give me some shell.
+
+68
+00:04:42,241 --> 00:04:43,742
+<font color="#ffff00">(LAUGHS)</font> I got ya.
+
+69
+00:04:49,706 --> 00:04:50,791
+<font color="#ffff00">(WHOOSHING)</font>
+
+70
+00:04:51,500 --> 00:04:52,709
+<font color="#ffff00">(GRUNTS)</font>
+
+71
+00:04:53,418 --> 00:04:54,419
+<font color="#ffff00">(WHEELS CLICKING)</font>
+
+72
+00:04:57,589 --> 00:04:58,590
+<font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+73
+00:05:04,763 --> 00:05:05,848
+<font color="#ffff00">(SUSPENSEFUL MUSIC PLAYING)</font>
+
+74
+00:05:09,643 --> 00:05:10,727
+<font color="#ffff00">(WATER TRICKLING)</font>
+
+75
+00:05:16,650 --> 00:05:17,651
+<font color="#ffff00">(SOFT DRAMATIC MUSIC PLAYING)</font>
+
+76
+00:05:25,492 --> 00:05:26,577
+<font color="#ffff00">(DRAMATIC MUSIC RISING)</font>
+
+77
+00:05:28,871 --> 00:05:29,872
+Whoa.
+
+78
+00:05:34,042 --> 00:05:35,127
+Wait a second.
+
+79
+00:05:38,380 --> 00:05:40,257
+This feels too easy.
+
+80
+00:05:42,676 --> 00:05:44,344
+Chief Benja.
+
+81
+00:05:44,887 --> 00:05:47,431
+I know it's your job
+to try and stop me,
+
+82
+00:05:47,973 --> 00:05:49,141
+but you won't.
+
+83
+00:05:49,308 --> 00:05:51,977
+<font color="#ff8000">BENJA:</font> Don't mistake spirit
+for skill, young one.
+
+84
+00:05:52,144 --> 00:05:53,687
+I promise
+you will not set foot
+
+85
+00:05:53,770 --> 00:05:55,731
+on the Dragon Gem's
+inner circle.
+
+86
+00:05:56,064 --> 00:05:57,316
+Not even a toe.
+
+87
+00:05:57,649 --> 00:05:59,610
+You might wanna take out
+that blade.
+
+88
+00:05:59,693 --> 00:06:00,694
+You're gonna need it.
+
+89
+00:06:01,028 --> 00:06:02,029
+<font color="#ff8000">BENJA:</font> Not today.
+
+90
+00:06:02,112 --> 00:06:03,155
+<font color="#ffff00">(SUSPENSEFUL MUSIC PLAYING)</font>
+
+91
+00:06:04,239 --> 00:06:05,240
+<font color="#ffff00">(WEAPONS WHOOSHING)</font>
+
+92
+00:06:05,365 --> 00:06:06,450
+<font color="#ffff00">(SUSPENSEFUL MUSIC RISING)</font>
+
+93
+00:06:08,035 --> 00:06:09,119
+<font color="#ffff00">(YOUNG RAYA GRUNTING)</font>
+
+94
+00:06:11,997 --> 00:06:13,040
+<font color="#ffff00">(CONTINUES GRUNTING)</font>
+
+95
+00:06:16,668 --> 00:06:17,753
+<font color="#ffff00">(PANTING)</font>
+
+96
+00:06:18,086 --> 00:06:19,171
+<font color="#ffff00">(GRUNTS)</font>
+
+97
+00:06:21,340 --> 00:06:22,341
+<font color="#ffff00">(GRUNTING)</font>
+
+98
+00:06:31,934 --> 00:06:33,143
+<font color="#ffff00">(EXCLAIMS)</font>
+
+99
+00:06:35,979 --> 00:06:37,022
+<font color="#ffff00">(PANTING)</font>
+
+100
+00:06:37,606 --> 00:06:38,607
+<font color="#ff8000">BENJA:</font> Boop.
+
+101
+00:06:39,024 --> 00:06:42,819
+Like I said, not one foot
+on the inner circle.
+
+102
+00:06:43,654 --> 00:06:45,155
+You lost, Raya.
+
+103
+00:06:45,739 --> 00:06:46,740
+Did I?
+
+104
+00:06:50,035 --> 00:06:51,328
+Raya...
+
+105
+00:06:51,495 --> 00:06:53,455
+I probably should have said
+two feet.
+
+106
+00:06:53,622 --> 00:06:56,792
+Hey, don't beat yourself up
+too much, Chief Benja.
+
+107
+00:06:56,959 --> 00:06:58,627
+You gave it your best.
+
+108
+00:06:58,752 --> 00:07:00,420
+<font color="#ffff00">(CHUCKLES)</font> I won't.
+
+109
+00:07:00,504 --> 00:07:03,090
+And it's either "Father"
+or "Ba" to you.
+
+110
+00:07:04,049 --> 00:07:07,636
+You did good, dewdrop.
+You passed the test.
+
+111
+00:07:07,970 --> 00:07:10,222
+- <font color="#ffff00">(ENCHANTING MUSIC PLAYING)</font>
+- <font color="#ffff00">(YOUNG RAYA GASPS)</font>
+
+112
+00:07:10,848 --> 00:07:12,307
+Wow. <font color="#ffff00">(CHUCKLES)</font>
+
+113
+00:07:13,308 --> 00:07:15,894
+The spirit of Sisu.
+
+114
+00:07:23,610 --> 00:07:27,364
+For generations, our family
+has sworn to protect the gem.
+
+115
+00:07:28,323 --> 00:07:31,994
+Today, you will join
+that legacy.
+
+116
+00:07:32,995 --> 00:07:37,583
+Raya, Princess of Heart,
+my daughter,
+
+117
+00:07:38,166 --> 00:07:41,295
+you are now
+a Guardian of the Dragon Gem.
+
+118
+00:07:43,547 --> 00:07:44,590
+<font color="#ffff00">(WATER TRICKLING)</font>
+
+119
+00:07:52,639 --> 00:07:53,807
+<font color="#ffff00">(ENTHRALLING MUSIC PLAYING)</font>
+
+120
+00:08:07,029 --> 00:08:08,030
+<font color="#ffff00">(BIRDS SQUAWKING)</font>
+
+121
+00:08:11,325 --> 00:08:12,409
+<font color="#ffff00">(CHITTERING)</font>
+
+122
+00:08:14,620 --> 00:08:15,662
+<font color="#ffff00">(SOFT UPBEAT MUSIC PLAYING)</font>
+
+123
+00:08:25,339 --> 00:08:26,757
+<font color="#ff8000">MAN:</font> Whoa. Ah...
+
+124
+00:08:26,840 --> 00:08:27,841
+<font color="#ffff00">(BENJA LAUGHING)</font>
+
+125
+00:08:27,925 --> 00:08:29,259
+Well, someone's excited.
+
+126
+00:08:29,426 --> 00:08:30,677
+<font color="#ff00ff">YOUNG RAYA:</font> Well, yeah!
+
+127
+00:08:30,844 --> 00:08:33,055
+I mean, anyone hoping
+to steal the Dragon Gem
+
+128
+00:08:33,138 --> 00:08:34,640
+now has to face the fury
+
+129
+00:08:34,806 --> 00:08:38,268
+of the two baddest blades
+in all the lands.
+
+130
+00:08:38,352 --> 00:08:40,854
+<font color="#ffff00">(LAUGHING)</font> I'm glad
+you feel prepared, dewdrop,
+
+131
+00:08:41,021 --> 00:08:43,565
+because I have something
+important to tell you.
+
+132
+00:08:43,732 --> 00:08:46,693
+The other lands, they're on
+their way here, as we speak.
+
+133
+00:08:46,860 --> 00:08:48,362
+-They are? Uh...
+- <font color="#ffff00">(TUK TUK SQUEAKS)</font>
+
+134
+00:08:48,779 --> 00:08:49,905
+Okay.
+
+135
+00:08:50,072 --> 00:08:52,574
+Okay, no, we can do this.
+I'm ready.
+
+136
+00:08:52,741 --> 00:08:54,785
+I know exactly
+how we'll stop them.
+
+137
+00:08:54,952 --> 00:08:57,788
+Really? Tell me what you know
+about the other lands.
+
+138
+00:08:58,121 --> 00:08:59,748
+<i>First... Tail.</i>
+
+139
+00:08:59,915 --> 00:09:02,751
+<i>A sweltering desert
+with sneaky mercenaries</i>
+
+140
+00:09:02,835 --> 00:09:04,711
+<i>who fight dirty.</i>
+
+141
+00:09:04,878 --> 00:09:06,171
+<i>Second, Talon.</i>
+
+142
+00:09:06,338 --> 00:09:08,674
+<i>A floating market famous
+for fast deals</i>
+
+143
+00:09:08,757 --> 00:09:10,551
+<i>and fighters
+with even faster hands.</i>
+
+144
+00:09:12,135 --> 00:09:13,554
+<i>Third, Spine.</i>
+
+145
+00:09:13,720 --> 00:09:15,514
+<i>A frigid bamboo forest</i>
+
+146
+00:09:15,681 --> 00:09:18,559
+<i>guarded by
+exceptionally large warriors,</i>
+
+147
+00:09:18,642 --> 00:09:20,853
+<i>and their giant axes.</i>
+
+148
+00:09:20,936 --> 00:09:21,937
+<font color="#ffff00">(EXCLAIMS)</font>
+
+149
+00:09:22,020 --> 00:09:25,232
+<font color="#ff00ff">YOUNG RAYA:</font> <i>Fourth, Fang.
+Our fiercest enemy.</i>
+
+150
+00:09:25,399 --> 00:09:27,568
+<i>A nation protected
+by angry assassins,</i>
+
+151
+00:09:27,651 --> 00:09:29,778
+<i>and their even angrier cats.</i>
+
+152
+00:09:29,862 --> 00:09:30,946
+- <font color="#ffff00">(HISSING)</font>
+- <font color="#ffff00">(TUK TUK EXCLAIMS)</font>
+
+153
+00:09:32,781 --> 00:09:33,782
+Okay,
+
+154
+00:09:33,866 --> 00:09:37,202
+so we're gonna need some
+crossbows and catapults and...
+
+155
+00:09:37,286 --> 00:09:40,372
+Ooh! What about
+flaming catapults?
+
+156
+00:09:40,539 --> 00:09:44,626
+Or, how about
+shrimp paste from Tail.
+
+157
+00:09:44,793 --> 00:09:48,088
+lemongrass from Talon,
+bamboo shoots from Spine,
+
+158
+00:09:48,255 --> 00:09:51,508
+chilis from Fang
+and palm sugar from Heart?
+
+159
+00:09:51,675 --> 00:09:53,051
+We'll poison them?
+
+160
+00:09:53,218 --> 00:09:55,721
+<font color="#ffff00">(LAUGHING)</font> No, we're not going
+to poison them
+
+161
+00:09:55,804 --> 00:09:57,389
+and we're not going
+to fight them.
+
+162
+00:09:57,556 --> 00:09:59,183
+We're going to share a meal
+with them.
+
+163
+00:09:59,349 --> 00:10:01,643
+-Wait, what?
+-I invited them.
+
+164
+00:10:01,810 --> 00:10:02,978
+But they're our enemies.
+
+165
+00:10:03,145 --> 00:10:04,396
+They're only our enemies
+
+166
+00:10:04,563 --> 00:10:06,440
+because they think
+the Dragon Gem
+
+167
+00:10:06,523 --> 00:10:08,192
+magically brings
+us prosperity.
+
+168
+00:10:08,358 --> 00:10:10,527
+That's ridiculous.
+It doesn't do that.
+
+169
+00:10:10,694 --> 00:10:12,237
+They assume it does,
+
+170
+00:10:12,321 --> 00:10:14,573
+just like we assume things
+about them.
+
+171
+00:10:15,490 --> 00:10:17,618
+Raya, there's a reason why
+each land
+
+172
+00:10:17,701 --> 00:10:20,245
+is named after
+a part of the dragon.
+
+173
+00:10:20,412 --> 00:10:23,999
+We were once unified.
+Harmoniously as one.
+
+174
+00:10:24,082 --> 00:10:25,083
+Kumandra.
+
+175
+00:10:25,459 --> 00:10:27,336
+That's ancient history, Ba.
+
+176
+00:10:27,586 --> 00:10:29,546
+But it doesn't have to be.
+
+177
+00:10:29,713 --> 00:10:31,465
+Listen, if we don't stop
+
+178
+00:10:31,548 --> 00:10:33,759
+and learn to trust
+one another again,
+
+179
+00:10:33,926 --> 00:10:35,052
+it's only a matter of time
+
+180
+00:10:35,135 --> 00:10:37,179
+before we tear
+each other apart.
+
+181
+00:10:37,804 --> 00:10:41,225
+This isn't the world
+I want you to live in.
+
+182
+00:10:43,185 --> 00:10:46,563
+I believe that
+we can be Kumandra again.
+
+183
+00:10:46,730 --> 00:10:49,441
+But someone has to take
+the first step.
+
+184
+00:10:50,359 --> 00:10:51,443
+<font color="#ffff00">(SIGHS)</font>
+
+185
+00:10:53,028 --> 00:10:54,196
+Trust me.
+
+186
+00:11:01,411 --> 00:11:02,496
+<font color="#ffff00">(DRUM ROLL PLAYING)</font>
+
+187
+00:11:14,633 --> 00:11:16,426
+<font color="#ffff00">(WHISPERS)</font> Things look
+a little tense, Ba.
+
+188
+00:11:16,593 --> 00:11:18,679
+<font color="#ffff00">(WHISPERS)</font> Don't worry,
+I'm gonna open with a joke.
+
+189
+00:11:18,846 --> 00:11:19,972
+Please don't.
+
+190
+00:11:20,138 --> 00:11:21,431
+<font color="#ffff00">(LAUGHING)</font>
+I'm kidding, I'm kidding.
+
+191
+00:11:22,975 --> 00:11:25,185
+<font color="#ffff00">(IN NORMAL VOICE)</font>
+People of Tail, Talon,
+
+192
+00:11:25,269 --> 00:11:27,729
+Spine, and Fang,
+
+193
+00:11:27,896 --> 00:11:29,773
+welcome to Heart.
+
+194
+00:11:30,774 --> 00:11:33,318
+For far too long,
+we have been enemies,
+
+195
+00:11:33,402 --> 00:11:35,696
+but today is a new day.
+
+196
+00:11:36,154 --> 00:11:39,741
+Today, we can be Kumandra
+once more.
+
+197
+00:11:39,950 --> 00:11:41,285
+<font color="#ffff00">(CLAPPING)</font>
+
+198
+00:11:41,368 --> 00:11:43,745
+<font color="#ffff00">(SARCASTICALLY)</font>
+Nice speech, Chief Benja.
+
+199
+00:11:43,912 --> 00:11:45,539
+But why'd you really
+bring us here?
+
+200
+00:11:45,622 --> 00:11:46,623
+Are you gonna rob us?
+
+201
+00:11:46,832 --> 00:11:48,292
+Why would he need to rob us?
+
+202
+00:11:48,375 --> 00:11:50,627
+The land of Heart
+already has everything.
+
+203
+00:11:50,794 --> 00:11:53,130
+Oh, it's easy to pontificate
+on Kumandra
+
+204
+00:11:53,297 --> 00:11:55,174
+when you hold the mightiest
+weapon in all the lands.
+
+205
+00:11:55,257 --> 00:11:56,258
+<font color="#ffff00">(CROWD MUTTERING)</font>
+
+206
+00:11:56,341 --> 00:11:59,344
+<font color="#ff8000">BENJA:</font> The gem's not a weapon.
+It's a sacred relic.
+
+207
+00:11:59,511 --> 00:12:02,181
+<font color="#ff8000">SPINE CHIEF:</font> Kumandra!
+Kumandra's a joke!
+
+208
+00:12:02,639 --> 00:12:03,932
+<font color="#ff00ff">TAIL CHIEF:</font>
+He brought us all this way
+
+209
+00:12:04,016 --> 00:12:05,767
+to talk about fairy tales.
+
+210
+00:12:05,934 --> 00:12:07,269
+<font color="#ff8000">SPINE CHIEF:</font>
+This is pointless!
+
+211
+00:12:07,352 --> 00:12:08,353
+<font color="#ffff00">(CROWD CONTINUES CHATTERING
+INDISTINCTLY)</font>
+
+212
+00:12:15,152 --> 00:12:16,612
+I have something to say.
+
+213
+00:12:21,491 --> 00:12:22,618
+Who's hungry?
+
+214
+00:12:23,285 --> 00:12:24,411
+<font color="#ffff00">(EXCLAIMS)</font>
+
+215
+00:12:25,120 --> 00:12:26,121
+Oh.
+
+216
+00:12:27,039 --> 00:12:28,040
+<font color="#ffff00">(CHUCKLES)</font>
+
+217
+00:12:29,458 --> 00:12:30,876
+Go ahead. It's all right.
+
+218
+00:12:36,006 --> 00:12:38,258
+I'm Namaari, of Fang.
+
+219
+00:12:38,550 --> 00:12:41,470
+Hi, Namaari. I'm Raya.
+
+220
+00:12:41,553 --> 00:12:42,721
+<font color="#ffff00">(GASPS)</font>
+
+221
+00:12:42,804 --> 00:12:43,889
+Is that Sisu?
+
+222
+00:12:45,641 --> 00:12:47,392
+Sorry, um, yeah,
+
+223
+00:12:47,476 --> 00:12:50,187
+I might be a little bit
+of a dragon nerd.
+
+224
+00:12:50,354 --> 00:12:53,440
+Hey, I'm the one wearing
+the Sisu fan necklace.
+
+225
+00:12:53,857 --> 00:12:55,025
+Come on.
+
+226
+00:12:55,484 --> 00:12:56,610
+Have you eaten yet?
+
+227
+00:13:01,448 --> 00:13:02,449
+<font color="#ffff00">(SOFT UPBEAT MUSIC PLAYING)</font>
+
+228
+00:13:04,034 --> 00:13:06,161
+<font color="#ff00ff">YOUNG RAYA:</font>
+<font color="#ffff00">(LAUGHING)</font> Seriously?
+
+229
+00:13:06,245 --> 00:13:08,080
+Your mom actually said that?
+
+230
+00:13:08,622 --> 00:13:11,041
+Awkward.
+Okay, next question.
+
+231
+00:13:11,208 --> 00:13:13,293
+Hand-to-hand or swords?
+
+232
+00:13:13,794 --> 00:13:16,004
+-Blades all day. <font color="#ffff00">(CHUCKLES)</font>
+-Right?
+
+233
+00:13:16,171 --> 00:13:18,423
+Okay, dressy or casual?
+
+234
+00:13:18,590 --> 00:13:19,925
+Only a monster would choose
+
+235
+00:13:20,008 --> 00:13:21,510
+to wear this outfit
+on the regular.
+
+236
+00:13:21,593 --> 00:13:22,594
+<font color="#ffff00">(LAUGHING)</font>
+
+237
+00:13:22,678 --> 00:13:24,429
+<font color="#ff00ff">YOUNG RAYA:</font> Uh, rice or stew?
+
+238
+00:13:26,265 --> 00:13:28,100
+I didn't think
+that'd stump you.
+
+239
+00:13:28,267 --> 00:13:30,936
+Uh... This is actually
+one of the first times
+
+240
+00:13:31,019 --> 00:13:32,062
+I've had rice in awhile.
+
+241
+00:13:32,938 --> 00:13:33,939
+Really?
+
+242
+00:13:34,106 --> 00:13:36,775
+Fang may look nice
+on the outside,
+
+243
+00:13:36,942 --> 00:13:40,028
+but we have some pretty
+big holes on the inside.
+
+244
+00:13:40,404 --> 00:13:41,405
+Oh.
+
+245
+00:13:41,738 --> 00:13:44,032
+Sorry. Didn't mean
+to bring it down.
+
+246
+00:13:44,199 --> 00:13:45,701
+So, where were we?
+
+247
+00:13:45,868 --> 00:13:47,119
+We both have single parents
+
+248
+00:13:47,202 --> 00:13:48,829
+who are terrible
+at telling jokes.
+
+249
+00:13:48,996 --> 00:13:50,581
+We're both warrior women
+
+250
+00:13:50,664 --> 00:13:52,332
+who despise uncomfortable
+formal wear.
+
+251
+00:13:52,499 --> 00:13:53,959
+And we're both Sisu superfans.
+
+252
+00:13:54,126 --> 00:13:55,252
+<font color="#ffff00">(LAUGHS)</font> Yeah.
+
+253
+00:13:55,919 --> 00:14:00,132
+You know, Fang legend says
+she's still out there.
+
+254
+00:14:00,299 --> 00:14:02,968
+Sisu? You're kidding, right?
+
+255
+00:14:03,135 --> 00:14:04,928
+Wanna see something?
+
+256
+00:14:05,012 --> 00:14:07,264
+<font color="#ffff00">(GASPS AND WHISPERS)</font>
+Are you supposed to have that?
+
+257
+00:14:07,431 --> 00:14:08,599
+<font color="#ffff00">(SCOFFS)</font> No.
+
+258
+00:14:08,765 --> 00:14:09,850
+According to this,
+
+259
+00:14:10,809 --> 00:14:14,396
+after the Mighty Sisu
+blasted away all the Druun,
+
+260
+00:14:14,563 --> 00:14:17,566
+she fell into the water
+and floated downstream.
+
+261
+00:14:17,733 --> 00:14:20,903
+Legends say she's now sleeping
+at the river's end.
+
+262
+00:14:21,069 --> 00:14:24,031
+But which river?
+There's, like, hundreds.
+
+263
+00:14:24,114 --> 00:14:25,115
+I don't know.
+
+264
+00:14:25,240 --> 00:14:28,619
+But if we could find it,
+could you imagine?
+
+265
+00:14:28,785 --> 00:14:30,871
+A dragon back in the world.
+
+266
+00:14:31,455 --> 00:14:34,333
+Things could be
+so much better.
+
+267
+00:14:35,834 --> 00:14:36,835
+<font color="#ff00ff">YOUNG RAYA:</font> Yeah.
+
+268
+00:14:37,711 --> 00:14:41,006
+Maybe we really could be
+Kumandra again.
+
+269
+00:14:46,178 --> 00:14:47,221
+Here.
+
+270
+00:14:48,222 --> 00:14:49,223
+Whoa.
+
+271
+00:14:49,306 --> 00:14:50,307
+Really?
+
+272
+00:14:50,641 --> 00:14:53,268
+From one dragon nerd
+to another.
+
+273
+00:14:53,352 --> 00:14:54,353
+<font color="#ffff00">(SOFT SENTIMENTAL MUSIC
+PLAYING)</font>
+
+274
+00:14:56,438 --> 00:14:57,439
+Hmm.
+
+275
+00:15:00,651 --> 00:15:01,652
+Hey.
+
+276
+00:15:01,735 --> 00:15:04,947
+Come with me, dep la.
+I wanna show you something.
+
+277
+00:15:14,831 --> 00:15:16,416
+<font color="#ffff00">(RUMBLING)</font>
+
+278
+00:15:17,668 --> 00:15:19,753
+<font color="#ffff00">(TUK TUK TRILLING)</font>
+
+279
+00:15:25,425 --> 00:15:26,552
+<font color="#ffff00">(GASPS SOFTLY)</font>
+
+280
+00:15:26,635 --> 00:15:30,180
+The spirit of Sisu.
+I can feel it.
+
+281
+00:15:30,722 --> 00:15:31,890
+It's the last bit
+of dragon magic
+
+282
+00:15:31,974 --> 00:15:34,017
+left in the whole world.
+
+283
+00:15:35,310 --> 00:15:37,938
+<font color="#ff00ff">YOUNG NAMAARI:</font> I see why
+Heart guards it so closely.
+
+284
+00:15:38,605 --> 00:15:42,651
+Thank you, dep la.
+You've been very helpful.
+
+285
+00:15:42,734 --> 00:15:43,777
+- <font color="#ffff00">(GRUNTS)</font>
+- <font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+286
+00:15:44,152 --> 00:15:45,153
+<font color="#ffff00">(YOUNG RAYA GASPING)</font>
+
+287
+00:15:45,237 --> 00:15:48,282
+In a different world, maybe
+we could have been friends,
+
+288
+00:15:48,448 --> 00:15:50,534
+but I have to do
+what's right for Fang.
+
+289
+00:15:50,909 --> 00:15:52,494
+<font color="#ffff00">(GRUNTING)</font>
+
+290
+00:15:53,203 --> 00:15:54,288
+<font color="#ffff00">(SUSPENSEFUL MUSIC PLAYING)</font>
+
+291
+00:15:54,371 --> 00:15:55,455
+<font color="#ffff00">(BOTH GRUNTING)</font>
+
+292
+00:15:58,917 --> 00:16:00,002
+<font color="#ffff00">(BOTH GRUNTING)</font>
+
+293
+00:16:00,502 --> 00:16:01,587
+<font color="#ffff00">(TUK TUK SQUEAKING)</font>
+
+294
+00:16:05,257 --> 00:16:06,258
+<font color="#ffff00">(GRUNTING)</font>
+
+295
+00:16:07,885 --> 00:16:08,969
+<font color="#ffff00">(GROANS)</font>
+
+296
+00:16:11,847 --> 00:16:13,056
+- <font color="#ffff00">(FIRES)</font>
+- <font color="#ffff00">(YOUNG RAYA EXCLAIMS)</font>
+
+297
+00:16:14,057 --> 00:16:17,936
+Chief Virana, I'm so glad
+Fang accepted our invitation.
+
+298
+00:16:18,020 --> 00:16:19,021
+<font color="#ffff00">(FLARE WHISTLING)</font>
+
+299
+00:16:23,400 --> 00:16:24,693
+<font color="#ffff00">(OMINOUS MUSIC PLAYING)</font>
+
+300
+00:16:25,485 --> 00:16:26,486
+Huh?
+
+301
+00:16:29,114 --> 00:16:31,575
+There is no way
+you're taking Sisu's gem.
+
+302
+00:16:32,159 --> 00:16:34,912
+Sorry. It's Fang's now.
+
+303
+00:16:36,413 --> 00:16:37,497
+<font color="#ffff00">(SUSPENSEFUL MUSIC PLAYING)</font>
+
+304
+00:16:38,373 --> 00:16:39,458
+<font color="#ffff00">(GASPS)</font>
+
+305
+00:16:41,960 --> 00:16:42,961
+<font color="#ffff00">(GRUNTS)</font>
+
+306
+00:16:44,087 --> 00:16:45,172
+<font color="#ffff00">(GRUNTING)</font>
+
+307
+00:16:48,258 --> 00:16:49,259
+- <font color="#ffff00">(CONTINUES GRUNTING)</font>
+- <font color="#ffff00">(BLADES CLASHING)</font>
+
+308
+00:16:50,844 --> 00:16:51,887
+<font color="#ffff00">(EXCLAIMING)</font>
+
+309
+00:16:53,597 --> 00:16:57,392
+You will not set foot on
+the Dragon Gem's inner circle.
+
+310
+00:16:57,476 --> 00:16:58,477
+<font color="#ff00ff">FEMALE SPINE WARRIOR:</font>
+What's going on?
+
+311
+00:16:58,560 --> 00:16:59,645
+<font color="#ff8000">SPINE CHIEF:</font> What is this?
+
+312
+00:16:59,811 --> 00:17:01,063
+<font color="#ff00ff">FEMALE SPINE WARRIOR:</font> Fang's
+making a play for the gem!
+
+313
+00:17:01,230 --> 00:17:02,648
+No! Spine should have the gem!
+
+314
+00:17:02,814 --> 00:17:04,149
+<font color="#ff00ff">TAIL CHIEF:</font>
+Not if we get to it first!
+
+315
+00:17:04,316 --> 00:17:05,817
+<font color="#ff8000">MAN:</font> Our blades say different.
+
+316
+00:17:06,109 --> 00:17:07,110
+<font color="#ffff00">(CROWD CHATTERING
+INDISTINCTLY)</font>
+
+317
+00:17:13,784 --> 00:17:14,910
+Listen to me!
+
+318
+00:17:15,077 --> 00:17:16,411
+We have a choice.
+
+319
+00:17:16,578 --> 00:17:18,956
+We can tear each other apart,
+
+320
+00:17:19,122 --> 00:17:23,293
+or we can come together
+and build a better world.
+
+321
+00:17:24,211 --> 00:17:26,088
+It's not too late.
+
+322
+00:17:26,255 --> 00:17:31,176
+I still believe
+we can be Kumandra again.
+
+323
+00:17:31,260 --> 00:17:32,386
+<font color="#ffff00">(SENTIMENTAL MUSIC PLAYING)</font>
+
+324
+00:17:34,888 --> 00:17:35,889
+<font color="#ffff00">(GRUNTS PAINFULLY)</font>
+
+325
+00:17:37,015 --> 00:17:38,016
+Ba!
+
+326
+00:17:38,183 --> 00:17:39,560
+- <font color="#ff00ff">TAIL CHIEF:</font> Out of my way!
+- <font color="#ffff00">(INDISTINCT EXCLAIMING)</font>
+
+327
+00:17:39,768 --> 00:17:41,144
+<font color="#ff8000">SPINE CHIEF:</font>
+The gem belongs to Spine!
+
+328
+00:17:41,520 --> 00:17:42,980
+<font color="#ff8000">SPINE CHIEF:</font> Give me the gem!
+
+329
+00:17:43,063 --> 00:17:44,481
+<font color="#ffff00">(SHATTERING)</font>
+
+330
+00:17:44,982 --> 00:17:46,483
+<font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+331
+00:17:46,775 --> 00:17:49,152
+<font color="#ffff00">(BENJA GRUNTING AND PANTING)</font>
+
+332
+00:17:49,236 --> 00:17:51,446
+No... No...
+
+333
+00:17:51,530 --> 00:17:52,531
+<font color="#ffff00">(BOTH GASPING)</font>
+
+334
+00:17:52,614 --> 00:17:54,741
+- <font color="#ffff00">(RUMBLING)</font>
+- <font color="#ffff00">(CROWD EXCLAIMING INDISTINCTLY)</font>
+
+335
+00:17:59,037 --> 00:18:00,038
+<font color="#ffff00">(CRASHING)</font>
+
+336
+00:18:06,461 --> 00:18:07,546
+<font color="#ffff00">(SCREECHING)</font>
+
+337
+00:18:08,589 --> 00:18:09,590
+Druun.
+
+338
+00:18:09,715 --> 00:18:10,716
+<font color="#ffff00">(MAN WHIMPERING)</font>
+
+339
+00:18:15,512 --> 00:18:16,722
+<font color="#ffff00">(DRUUN SCREECHING)</font>
+
+340
+00:18:18,223 --> 00:18:19,224
+<font color="#ffff00">(BENJA GRUNTING)</font>
+
+341
+00:18:21,018 --> 00:18:22,311
+There's still magic in them!
+
+342
+00:18:22,477 --> 00:18:23,687
+- <font color="#ff8000">SPINE CHIEF:</font> Get the pieces!
+-No! <font color="#ffff00">(GRUNTS)</font>
+
+343
+00:18:24,188 --> 00:18:25,230
+<font color="#ffff00">(INDISTINCT EXCLAIMING)</font>
+
+344
+00:18:29,902 --> 00:18:31,987
+Ba! Come on, we have to go!
+
+345
+00:18:32,070 --> 00:18:33,071
+<font color="#ffff00">(BOTH GRUNTING)</font>
+
+346
+00:18:39,912 --> 00:18:41,455
+They're repelled by water.
+
+347
+00:18:41,622 --> 00:18:43,165
+Hurry! Get to the river!
+
+348
+00:18:46,210 --> 00:18:47,211
+<font color="#ffff00">(BENJA GRUNTS)</font>
+
+349
+00:18:47,294 --> 00:18:49,171
+<font color="#ff00ff">YOUNG RAYA:</font>
+Ba, get up! Come on!
+
+350
+00:18:49,338 --> 00:18:51,548
+Please, we have
+to keep moving.
+
+351
+00:18:51,673 --> 00:18:52,674
+Get up!
+
+352
+00:18:52,758 --> 00:18:53,842
+<font color="#ffff00">(BENJA BREATHING HEAVILY)</font>
+
+353
+00:18:56,512 --> 00:18:58,555
+Ba! We don't have time!
+
+354
+00:18:58,680 --> 00:18:59,723
+<font color="#ffff00">(MAN WHIMPERING)</font>
+
+355
+00:19:01,099 --> 00:19:02,100
+<font color="#ffff00">(WOMAN SCREAMS)</font>
+
+356
+00:19:03,435 --> 00:19:05,521
+Stand up! I'll help...
+
+357
+00:19:05,687 --> 00:19:07,689
+Raya, you have to listen.
+
+358
+00:19:07,773 --> 00:19:10,067
+You are the Guardian
+of the Dragon Gem.
+
+359
+00:19:10,234 --> 00:19:11,693
+Ba, why are you saying this?
+
+360
+00:19:11,777 --> 00:19:12,903
+- <font color="#ffff00">(CRASHES)</font>
+- <font color="#ffff00">(YOUNG RAYA GRUNTS)</font>
+
+361
+00:19:13,529 --> 00:19:16,073
+There's still light in this.
+There's still hope.
+
+362
+00:19:16,240 --> 00:19:18,575
+No! We can make it together.
+
+363
+00:19:20,035 --> 00:19:21,828
+<font color="#ffff00">(CRYING)</font> You're okay.
+
+364
+00:19:21,995 --> 00:19:24,915
+<font color="#ff8000">BENJA:</font> Raya.
+Don't give up on them.
+
+365
+00:19:27,626 --> 00:19:30,003
+I love you, my dewdrop.
+
+366
+00:19:30,170 --> 00:19:31,171
+Ba?
+
+367
+00:19:31,338 --> 00:19:32,798
+- <font color="#ffff00">(BENJA GRUNTS)</font>
+- <font color="#ff00ff">YOUNG RAYA:</font> <font color="#ffff00">(EXCLAIMS)</font> No!
+
+368
+00:19:33,507 --> 00:19:34,591
+<font color="#ffff00">(DRUUN SCREECHING
+AND RUMBLING)</font>
+
+369
+00:19:41,640 --> 00:19:42,766
+<font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+370
+00:19:48,438 --> 00:19:49,439
+<font color="#ffff00">(YOUNG RAYA GASPING)</font>
+
+371
+00:19:52,109 --> 00:19:53,318
+Ba!
+
+372
+00:19:53,819 --> 00:19:54,903
+<font color="#ffff00">(GASPING AND WHIMPERING)</font>
+
+373
+00:19:59,575 --> 00:20:00,701
+Ba.
+
+374
+00:20:20,721 --> 00:20:22,723
+<font color="#ffff00">(WIND WHISTLING)</font>
+
+375
+00:20:33,692 --> 00:20:34,818
+<font color="#ffff00">(WIND BLOWING)</font>
+
+376
+00:20:39,865 --> 00:20:40,991
+<font color="#ffff00">(SOFT SUSPENSEFUL MUSIC
+PLAYING)</font>
+
+377
+00:21:10,479 --> 00:21:11,480
+<font color="#ffff00">(KNOCKING)</font>
+
+378
+00:21:11,980 --> 00:21:13,023
+<font color="#ffff00">(TUK TUK GRUNTS QUESTIONINGLY)</font>
+
+379
+00:21:20,697 --> 00:21:22,699
+<font color="#ffff00">(SOFT TENSE MUSIC PLAYING)</font>
+
+380
+00:21:31,542 --> 00:21:32,543
+<font color="#ffff00">(EXHALES)</font>
+
+381
+00:21:33,335 --> 00:21:35,128
+Please let this be it.
+
+382
+00:21:36,171 --> 00:21:37,881
+- <font color="#ffff00">(TUK TUK GRUNTS)</font>
+- <font color="#ff00ff">RAYA:</font> Whoa!
+
+383
+00:21:37,965 --> 00:21:40,217
+What are you doing,
+you big fur bug?
+
+384
+00:21:40,425 --> 00:21:42,719
+Hey, buddy, focus.
+
+385
+00:21:42,886 --> 00:21:44,847
+Eyes forward, Tuk Tuk.
+
+386
+00:21:45,389 --> 00:21:46,723
+Good boy.
+
+387
+00:21:47,474 --> 00:21:48,934
+You're so easily distracted.
+
+388
+00:21:49,017 --> 00:21:50,352
+- <font color="#ffff00">(DRUUN SCREECHING)</font>
+- <font color="#ffff00">(RAYA EXCLAIMS)</font>
+
+389
+00:21:50,435 --> 00:21:51,520
+<font color="#ffff00">(GRUNTING)</font>
+
+390
+00:21:54,606 --> 00:21:55,816
+<font color="#ffff00">(GRUNTING AND PANTING)</font>
+
+391
+00:21:58,652 --> 00:21:59,653
+<font color="#ffff00">(GRUNTS)</font>
+
+392
+00:21:59,736 --> 00:22:00,737
+<font color="#ffff00">(BREATHING HEAVILY)</font>
+
+393
+00:22:04,867 --> 00:22:06,076
+<font color="#ffff00">(TUK TUK GRUMBLES)</font>
+
+394
+00:22:07,369 --> 00:22:08,495
+- <font color="#ffff00">(RAYA GRUNTING)</font>
+- <font color="#ffff00">(TUK TUK GRUMBLING)</font>
+
+395
+00:22:10,831 --> 00:22:11,915
+- <font color="#ffff00">(BOTH GRUNT)</font>
+- <font color="#ffff00">(THUDS)</font>
+
+396
+00:22:11,999 --> 00:22:13,750
+<font color="#ff00ff">RAYA:</font> You're getting a little
+too big for this, bud.
+
+397
+00:22:13,834 --> 00:22:14,835
+<font color="#ffff00">(GRUMBLES)</font>
+
+398
+00:22:25,012 --> 00:22:26,013
+<font color="#ffff00">(EXHALES)</font>
+
+399
+00:22:26,096 --> 00:22:27,723
+Six years of searching
+
+400
+00:22:27,806 --> 00:22:31,393
+and we end up
+at a literal shipwreck.
+
+401
+00:22:32,811 --> 00:22:33,812
+<font color="#ffff00">(SIGHS)</font>
+
+402
+00:22:34,646 --> 00:22:36,565
+That's not a bad sign, is it?
+
+403
+00:22:36,648 --> 00:22:37,774
+<font color="#ffff00">(TUK TUK GRUMBLES)</font>
+
+404
+00:22:44,198 --> 00:22:45,282
+<font color="#ffff00">(SOFT SUSPENSEFUL MUSIC
+PLAYING)</font>
+
+405
+00:22:54,291 --> 00:22:55,417
+<font color="#ffff00">(GRUMBLES)</font>
+
+406
+00:22:58,879 --> 00:23:00,964
+<font color="#ffff00">(SOFT SUSPENSEFUL MUSIC
+CONTINUES)</font>
+
+407
+00:23:17,606 --> 00:23:18,690
+<font color="#ffff00">(FLAME CRACKLING)</font>
+
+408
+00:23:26,865 --> 00:23:28,367
+Sisudatu...
+
+409
+00:23:29,284 --> 00:23:30,577
+Um...
+
+410
+00:23:30,661 --> 00:23:32,329
+I don't know
+if you're listening.
+
+411
+00:23:33,080 --> 00:23:36,500
+I've searched every river
+to find you,
+
+412
+00:23:37,918 --> 00:23:40,963
+and now I'm here
+at the very last one.
+
+413
+00:23:43,924 --> 00:23:46,844
+Look, there's not
+a lot of us left,
+
+414
+00:23:48,303 --> 00:23:51,431
+and we really...
+We really need your help.
+
+415
+00:23:53,767 --> 00:23:55,727
+If I can be honest,
+
+416
+00:23:56,478 --> 00:23:58,438
+I really need your help.
+
+417
+00:24:00,315 --> 00:24:02,693
+I made a mistake.
+
+418
+00:24:02,860 --> 00:24:05,195
+I trusted someone
+I shouldn't have, and...
+
+419
+00:24:05,696 --> 00:24:06,780
+<font color="#ffff00">(SIGHS)</font>
+
+420
+00:24:06,864 --> 00:24:08,699
+...now the world's broken.
+
+421
+00:24:10,242 --> 00:24:11,743
+<font color="#ffff00">(BREATHES DEEPLY)</font>
+
+422
+00:24:12,953 --> 00:24:14,413
+Sisudatu...
+
+423
+00:24:14,496 --> 00:24:15,539
+<font color="#ffff00">(CRIES SOFTLY)</font>
+
+424
+00:24:16,331 --> 00:24:20,169
+I just really, really
+want my ba back.
+
+425
+00:24:20,878 --> 00:24:22,337
+<font color="#ffff00">(CRIES)</font>
+
+426
+00:24:22,421 --> 00:24:24,047
+Please.
+
+427
+00:24:26,800 --> 00:24:27,801
+<font color="#ffff00">(EXHALES)</font>
+
+428
+00:24:33,432 --> 00:24:34,433
+Okay...
+
+429
+00:24:37,728 --> 00:24:38,770
+<font color="#ffff00">(BREATHES DEEPLY)</font>
+
+430
+00:24:38,854 --> 00:24:41,106
+Here goes everything.
+
+431
+00:24:41,190 --> 00:24:42,274
+<font color="#ffff00">(SOFT SUSPENSEFUL MUSIC
+PLAYING)</font>
+
+432
+00:24:43,609 --> 00:24:45,944
+<font color="#ffff00"> (CHANTING)</font> <font color="#00ffff">♪</font> Suvaa de draa sim <font color="#00ffff">♪</font>
+
+433
+00:24:46,737 --> 00:24:49,072
+<font color="#00ffff">♪</font> Mandra de draa lim <font color="#00ffff">♪</font>
+
+434
+00:24:50,073 --> 00:24:53,785
+<font color="#00ffff">♪</font> Bavaa de draa <font color="#00ffff">♪</font>
+Tomben
+
+435
+00:24:58,582 --> 00:24:59,583
+<font color="#ffff00">(FLAME CRACKLING)</font>
+
+436
+00:25:04,213 --> 00:25:05,214
+<font color="#ffff00">(SOFT SUSPENSEFUL MUSIC
+CONTINUES)</font>
+
+437
+00:25:05,297 --> 00:25:06,381
+<font color="#ffff00">(WATER TRICKLING)</font>
+
+438
+00:25:11,887 --> 00:25:12,888
+<font color="#ffff00">(GRUNTS)</font>
+
+439
+00:25:13,889 --> 00:25:14,890
+<font color="#ffff00">(TUK TUK EXCLAIMING)</font>
+
+440
+00:25:16,099 --> 00:25:18,101
+I know, buddy,
+I haven't forgot...
+
+441
+00:25:18,185 --> 00:25:19,186
+<font color="#ffff00">(GASPS)</font>
+
+442
+00:25:19,686 --> 00:25:20,771
+<font color="#ffff00">(TRIUMPHANT MUSIC PLAYING)</font>
+
+443
+00:25:22,105 --> 00:25:23,190
+<font color="#ffff00">(TUK TUK EXCLAIMING)</font>
+
+444
+00:25:26,360 --> 00:25:27,486
+<font color="#ffff00">(TRIUMPHANT MUSIC RISING)</font>
+
+445
+00:25:35,744 --> 00:25:37,496
+Oh, my... Where am I?
+
+446
+00:25:37,663 --> 00:25:41,291
+Pengu? Amba? Pranee?
+Are you here?
+
+447
+00:25:41,458 --> 00:25:42,459
+Oh, Mighty Sisu.
+
+448
+00:25:42,626 --> 00:25:43,961
+Who said that?
+
+449
+00:25:44,044 --> 00:25:45,295
+- <font color="#ffff00">(WHOOSHES)</font>
+- <font color="#ffff00">(RAYA EXCLAIMS)</font>
+
+450
+00:25:45,379 --> 00:25:46,505
+Hello?
+
+451
+00:25:48,298 --> 00:25:49,299
+Hello?
+
+452
+00:25:49,383 --> 00:25:51,260
+- <font color="#ffff00">(MUFFLED GROANING)</font>
+- <font color="#ff00ff">SISU:</font> Oh!
+
+453
+00:25:51,343 --> 00:25:53,011
+Oh, I'm sorry.
+I didn't see you there. <font color="#ffff00">(LAUGHS)</font>
+
+454
+00:25:53,095 --> 00:25:54,721
+Not too bad.
+Just a little dusty.
+
+455
+00:25:54,805 --> 00:25:56,139
+Let me get that for ya.
+<font color="#ffff00">(LAUGHING)</font>
+
+456
+00:25:56,223 --> 00:25:57,349
+<font color="#ff00ff">RAYA:</font> Sisu?
+
+457
+00:25:57,891 --> 00:26:01,061
+You are Sisu?
+
+458
+00:26:01,228 --> 00:26:03,146
+And you're people.
+
+459
+00:26:03,313 --> 00:26:04,398
+What's your name?
+
+460
+00:26:04,481 --> 00:26:05,482
+Raya. I'm Raya.
+
+461
+00:26:05,649 --> 00:26:08,902
+And you're not made of stone,
+which means...
+
+462
+00:26:08,986 --> 00:26:09,987
+<font color="#ffff00">(EXCITEDLY)</font> It worked!
+
+463
+00:26:10,070 --> 00:26:11,071
+We did it!
+
+464
+00:26:11,154 --> 00:26:13,156
+You hear that, Pengu?
+It worked!
+
+465
+00:26:13,323 --> 00:26:14,658
+I didn't mess it up!
+
+466
+00:26:15,033 --> 00:26:16,118
+-Is that food?
+- <font color="#ffff00">(RAYA GRUNTS)</font>
+
+467
+00:26:16,285 --> 00:26:17,744
+I was so focused
+on saving the world,
+
+468
+00:26:17,828 --> 00:26:19,079
+I forgot to have
+breakfast today.
+
+469
+00:26:19,454 --> 00:26:20,664
+Today?
+
+470
+00:26:20,831 --> 00:26:23,000
+When exactly
+do you think today is?
+
+471
+00:26:23,166 --> 00:26:24,168
+Tuesday.
+
+472
+00:26:24,585 --> 00:26:25,586
+<font color="#ffff00">(GURGLING)</font>
+
+473
+00:26:25,669 --> 00:26:27,379
+I mean...
+<font color="#ffff00">(FAKE EXCLAIMING)</font> Mmm.
+
+474
+00:26:27,546 --> 00:26:29,756
+What is this delightful
+culinary treat?
+
+475
+00:26:29,923 --> 00:26:34,261
+It's jackfruit jerky.
+I dried it myself.
+
+476
+00:26:34,428 --> 00:26:36,972
+Well, compliments to the chef.
+<font color="#ffff00">(LAUGHING)</font>
+
+477
+00:26:37,055 --> 00:26:38,056
+Wanna finish this, Skippy?
+
+478
+00:26:38,140 --> 00:26:39,141
+<font color="#ffff00">(TUK TUK GRUMBLES)</font>
+
+479
+00:26:39,224 --> 00:26:40,225
+<font color="#ff00ff">RAYA:</font> Uh...
+
+480
+00:26:40,309 --> 00:26:44,229
+Sisu, there are a few things
+I need to catch you up on.
+
+481
+00:26:44,396 --> 00:26:45,397
+Oh, yeah?
+
+482
+00:26:46,398 --> 00:26:47,858
+<font color="#ffff00">(SHOUTING)</font> You broke it?
+
+483
+00:26:47,941 --> 00:26:48,984
+<font color="#ffff00">(TUK TUK WHINES)</font>
+
+484
+00:26:49,276 --> 00:26:52,571
+Oh, oh. Oh, my. This is bad.
+This is bad.
+
+485
+00:26:52,738 --> 00:26:54,656
+I've been asleep
+for 500 years,
+
+486
+00:26:54,823 --> 00:26:56,491
+you brought back
+the Druun,
+
+487
+00:26:56,658 --> 00:26:58,035
+and none of my brothers
+and sisters came back.
+
+488
+00:26:58,202 --> 00:26:59,536
+Why didn't they come back?
+
+489
+00:26:59,703 --> 00:27:00,787
+I don't know.
+
+490
+00:27:00,954 --> 00:27:02,289
+Also, you broke the gem!
+
+491
+00:27:02,456 --> 00:27:04,249
+But I still have
+a big chunk of it, though.
+
+492
+00:27:04,416 --> 00:27:05,959
+Is that supposed
+to make me feel better?
+
+493
+00:27:06,126 --> 00:27:08,253
+If you lost a puppy,
+and I said...
+
+494
+00:27:08,420 --> 00:27:10,130
+<font color="#ffff00">(MOCKINGLY)</font> "Well, we still
+have a big chunk of it!"
+
+495
+00:27:10,297 --> 00:27:12,841
+Would that make you
+feel better?
+
+496
+00:27:13,008 --> 00:27:14,676
+Can't you just make
+another one?
+
+497
+00:27:14,843 --> 00:27:16,678
+No, I can't just
+"make another one."
+
+498
+00:27:16,845 --> 00:27:18,722
+But you're a dragon.
+
+499
+00:27:19,431 --> 00:27:21,016
+I'm gonna be real
+with you, all right?
+
+500
+00:27:21,183 --> 00:27:24,853
+I'm not, like,
+the best dragon, ya know?
+
+501
+00:27:25,020 --> 00:27:27,147
+But you saved the world.
+
+502
+00:27:27,314 --> 00:27:29,691
+I did do that. That's true.
+
+503
+00:27:29,858 --> 00:27:31,318
+But have you ever done
+like a group project,
+
+504
+00:27:31,401 --> 00:27:32,402
+but there's, like,
+that one kid
+
+505
+00:27:32,486 --> 00:27:33,570
+who didn't pitch in as much,
+
+506
+00:27:33,654 --> 00:27:35,906
+but still ended up
+with the same grade?
+
+507
+00:27:36,740 --> 00:27:39,535
+Yeah, I wasn't the one
+who actually made the gem.
+
+508
+00:27:39,743 --> 00:27:41,662
+I just turned it in.
+
+509
+00:27:41,745 --> 00:27:42,746
+<font color="#ffff00">(ENCHANTING MUSIC PLAYING)</font>
+
+510
+00:27:43,789 --> 00:27:44,998
+Whoa. Uh...
+
+511
+00:27:45,082 --> 00:27:47,084
+You're glowing.
+
+512
+00:27:47,167 --> 00:27:48,710
+Oh, thank you.
+
+513
+00:27:48,877 --> 00:27:50,504
+I use aloe and river slime
+to maintain my...
+
+514
+00:27:50,587 --> 00:27:52,297
+<font color="#ff00ff">RAYA:</font> No, no. Look!
+
+515
+00:27:52,506 --> 00:27:55,384
+Oh! This is my little sister
+Amba's magic.
+
+516
+00:27:55,509 --> 00:27:56,677
+I got the glow!
+
+517
+00:27:56,844 --> 00:27:58,011
+Your little sister's magic?
+
+518
+00:27:58,220 --> 00:27:59,972
+Yeah, every dragon
+has a unique magic.
+
+519
+00:28:00,138 --> 00:28:01,223
+Okay, what's yours?
+
+520
+00:28:01,390 --> 00:28:05,018
+I'm a really strong swimmer.
+
+521
+00:28:05,769 --> 00:28:07,688
+Wait, wait, wait,
+you touched this gem piece
+
+522
+00:28:07,771 --> 00:28:08,772
+and it gave you powers.
+
+523
+00:28:08,939 --> 00:28:10,691
+You know what
+this means, right?
+
+524
+00:28:10,858 --> 00:28:12,693
+I no longer need
+a night light?
+
+525
+00:28:12,776 --> 00:28:15,904
+What? No!
+You're still connected to the gem's magic,
+
+526
+00:28:15,988 --> 00:28:17,322
+and that means
+you can still use it
+
+527
+00:28:17,406 --> 00:28:18,407
+to save the world.
+
+528
+00:28:18,615 --> 00:28:20,117
+If we can get
+all the other gem pieces...
+
+529
+00:28:20,200 --> 00:28:21,577
+-I can reassemble it...
+-...you can reassemble it...
+
+530
+00:28:21,660 --> 00:28:23,328
+<font color="#ff00ff">BOTH:</font> ...and boom
+the Druun away!
+
+531
+00:28:23,954 --> 00:28:25,038
+And bring my ba back?
+
+532
+00:28:25,205 --> 00:28:27,374
+And bring
+all of Kumandra back.
+
+533
+00:28:28,083 --> 00:28:30,043
+<font color="#ffff00">(WIND BLOWING)</font>
+
+534
+00:28:30,127 --> 00:28:32,129
+<font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+535
+00:28:37,968 --> 00:28:38,969
+<font color="#ffff00">(GROWLING)</font>
+
+536
+00:28:56,445 --> 00:28:57,529
+<font color="#ffff00">(SOFT SUSPENSEFUL MUSIC
+PLAYING)</font>
+
+537
+00:29:03,535 --> 00:29:04,536
+Princess Namaari,
+
+538
+00:29:04,620 --> 00:29:06,413
+the Tail lands
+are infested with Druun.
+
+539
+00:29:06,580 --> 00:29:08,874
+Benja's daughter is as good
+as stone out here.
+
+540
+00:29:08,957 --> 00:29:11,793
+<font color="#ffff00">(SCOFFS)</font> Retrieving
+some useless dragon scroll
+
+541
+00:29:11,877 --> 00:29:13,670
+isn't worth the risk.
+
+542
+00:29:14,046 --> 00:29:15,088
+<font color="#ffff00">(EXCLAIMS)</font>
+
+543
+00:29:17,966 --> 00:29:20,427
+Anyone else wanna question
+why we're out here?
+
+544
+00:29:20,719 --> 00:29:21,762
+<font color="#ffff00">(CATS WHIMPERING)</font>
+
+545
+00:29:23,263 --> 00:29:25,390
+- <font color="#ffff00">(CATS ROARING)</font>
+- <font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+546
+00:29:37,194 --> 00:29:38,862
+<font color="#ff00ff">RAYA:</font>
+Okay, so here's the sitch.
+
+547
+00:29:39,029 --> 00:29:40,697
+After the gem broke,
+each piece was taken
+
+548
+00:29:40,781 --> 00:29:42,699
+by one of the chiefs
+of the five lands,
+
+549
+00:29:43,158 --> 00:29:46,537
+Fang, Heart, Spine, Talon,
+and Tail.
+
+550
+00:29:46,745 --> 00:29:48,205
+Where we are now.
+
+551
+00:29:50,582 --> 00:29:52,209
+<font color="#ff00ff">SISU:</font> Wow. So many questions.
+
+552
+00:29:52,543 --> 00:29:54,711
+First one,
+why am I wearing this?
+
+553
+00:29:54,878 --> 00:29:57,589
+Well, we don't want
+to attract attention.
+
+554
+00:29:57,881 --> 00:29:59,883
+Oh, you definitely chose
+the right hat for that.
+
+555
+00:30:00,634 --> 00:30:01,885
+So, what makes you think
+the Tail chief's here?
+
+556
+00:30:02,761 --> 00:30:03,762
+<font color="#ffff00">(GASPS)</font>
+
+557
+00:30:04,263 --> 00:30:05,264
+- <font color="#ffff00">(EXCLAIMS)</font>
+- <font color="#ffff00">(CRASHES)</font>
+
+558
+00:30:08,058 --> 00:30:11,520
+Because this place
+didn't just booby-trap itself.
+
+559
+00:30:15,858 --> 00:30:17,192
+<font color="#ff00ff">SISU:</font> This doesn't make sense.
+
+560
+00:30:17,359 --> 00:30:18,819
+None of this
+would stop a Druun.
+
+561
+00:30:19,027 --> 00:30:21,446
+<font color="#ff00ff">RAYA:</font> It's not to stop Druun.
+It's to stop people.
+
+562
+00:30:21,530 --> 00:30:22,614
+<font color="#ff00ff">SISU:</font> Hmm.
+
+563
+00:30:24,741 --> 00:30:26,869
+- <font color="#ffff00">(SOFT THUD)</font>
+- <font color="#ffff00">(GRUNTING)</font>
+
+564
+00:30:32,082 --> 00:30:33,125
+What?
+
+565
+00:30:33,292 --> 00:30:35,043
+Why are you looking at me
+like that?
+
+566
+00:30:35,127 --> 00:30:37,337
+<font color="#ffff00">(CHUCKLING NERVOUSLY)</font>
+Nothing.
+
+567
+00:30:37,504 --> 00:30:39,590
+I'm just not used to
+seeing dragons.
+
+568
+00:30:39,673 --> 00:30:42,593
+Impressed, huh? Wait until
+you see my backstroke.
+
+569
+00:30:42,759 --> 00:30:44,595
+I'm wicked
+when I hit that liquid.
+
+570
+00:30:44,761 --> 00:30:46,555
+I got water skills that kill.
+
+571
+00:30:46,722 --> 00:30:48,724
+I slaughter
+when I hit the water.
+
+572
+00:30:49,057 --> 00:30:52,853
+I'm, like, really good
+at swimming, through rhyme.
+
+573
+00:30:53,020 --> 00:30:54,021
+I was trying to make that...
+
+574
+00:30:54,104 --> 00:30:55,147
+That I'm really good
+at swim...
+
+575
+00:30:55,314 --> 00:30:57,191
+I'm a good swimmer,
+is basically what I'm...
+
+576
+00:30:57,357 --> 00:30:59,610
+Okay, um,
+we need to keep going.
+
+577
+00:31:04,865 --> 00:31:06,700
+- <font color="#ffff00">(GASPS)</font> Oh, no!
+-What? What is it?
+
+578
+00:31:06,867 --> 00:31:09,411
+We forgot to bring a gift
+for the Tail chief.
+
+579
+00:31:09,578 --> 00:31:10,829
+I'm sorry. A gift?
+
+580
+00:31:10,996 --> 00:31:12,456
+Yeah. A gift says,
+
+581
+00:31:12,539 --> 00:31:15,125
+"You can trust me,
+can I trust you?"
+
+582
+00:31:15,209 --> 00:31:16,210
+<font color="#ffff00">(GASPS)</font>
+
+583
+00:31:17,294 --> 00:31:19,546
+Aw. Hey there,
+little fella.
+
+584
+00:31:19,630 --> 00:31:20,631
+<font color="#ffff00">(LAUGHS)</font>
+
+585
+00:31:20,714 --> 00:31:22,049
+This beetle's got a booty.
+
+586
+00:31:22,216 --> 00:31:24,384
+Uh... Careful.
+It's a Toot N Boom.
+
+587
+00:31:24,551 --> 00:31:25,802
+-Why is it called a...
+- <font color="#ffff00">(TOOTS)</font>
+
+588
+00:31:26,386 --> 00:31:27,721
+- <font color="#ffff00">(EXPLODES)</font>
+- <font color="#ffff00">(BOTH GRUNT)</font>
+
+589
+00:31:29,348 --> 00:31:31,558
+Got it. Noted. Makes sense.
+<font color="#ffff00">(CHUCKLES SHEEPISHLY)</font>
+
+590
+00:31:32,643 --> 00:31:34,102
+<font color="#ffff00">(SUSPENSEFUL MUSIC PLAYING)</font>
+
+591
+00:31:37,564 --> 00:31:39,066
+<font color="#ff00ff">RAYA:</font> Uh...
+
+592
+00:31:39,149 --> 00:31:40,150
+You have to admit though,
+
+593
+00:31:40,234 --> 00:31:41,777
+these bug booties
+are kind of cute.
+
+594
+00:31:42,694 --> 00:31:43,820
+<font color="#ffff00">(SUSPENSEFUL MUSIC CONTINUES)</font>
+
+595
+00:31:50,077 --> 00:31:52,246
+I'd say
+we found the Tail chief.
+
+596
+00:31:52,412 --> 00:31:53,789
+<font color="#ff00ff">SISU:</font> What happened to her?
+
+597
+00:31:53,956 --> 00:31:54,998
+From the looks of it,
+
+598
+00:31:55,165 --> 00:31:56,583
+she was hoarding the gem
+
+599
+00:31:56,667 --> 00:31:58,710
+and became a victim
+of her own traps.
+
+600
+00:31:58,877 --> 00:32:01,129
+Well, you gotta admire
+her commitment.
+
+601
+00:32:03,715 --> 00:32:04,716
+<font color="#ffff00">(CLANGS)</font>
+
+602
+00:32:05,217 --> 00:32:07,219
+Okay. Hold on.
+
+603
+00:32:08,011 --> 00:32:09,137
+<font color="#ffff00">(GRUNTS)</font>
+
+604
+00:32:11,014 --> 00:32:13,100
+Oh, we were doing
+a jumpy thing!
+
+605
+00:32:13,267 --> 00:32:14,643
+So sorry. My bad.
+
+606
+00:32:14,726 --> 00:32:16,770
+- <font color="#ffff00">(GRUNTING)</font>
+-I get it now. I'm with it.
+
+607
+00:32:17,896 --> 00:32:19,022
+<font color="#ffff00">(BOTH EXCLAIM)</font>
+
+608
+00:32:21,984 --> 00:32:22,985
+<font color="#ffff00">(RAYA GRUNTS)</font>
+
+609
+00:32:23,402 --> 00:32:24,486
+Sisu...
+
+610
+00:32:24,820 --> 00:32:26,029
+don't.
+
+611
+00:32:27,656 --> 00:32:28,657
+- <font color="#ffff00">(GRUNTS)</font>
+- <font color="#ffff00">(CRACKS)</font>
+
+612
+00:32:41,962 --> 00:32:42,963
+<font color="#ffff00">(GASPS)</font>
+
+613
+00:32:43,046 --> 00:32:44,256
+<font color="#ffff00">(TENSE MUSIC PLAYING)</font>
+
+614
+00:32:50,888 --> 00:32:51,930
+<font color="#ffff00">(EXHALES IN RELIEF)</font>
+
+615
+00:32:52,014 --> 00:32:53,557
+Two down, three to go.
+
+616
+00:32:55,309 --> 00:32:56,685
+<font color="#ffff00">(ENCHANTING MUSIC PLAYING)</font>
+
+617
+00:32:57,394 --> 00:32:58,520
+<font color="#ffff00">(SISU EXCLAIMS)</font>
+
+618
+00:32:59,563 --> 00:33:02,024
+I just shapechanged!
+Into people!
+
+619
+00:33:02,191 --> 00:33:03,525
+Dragons can do that?
+
+620
+00:33:03,692 --> 00:33:05,569
+This was my sister
+Pranee's thing.
+
+621
+00:33:05,736 --> 00:33:08,405
+Look at my people arms
+and my people face.
+
+622
+00:33:08,572 --> 00:33:10,657
+Look how close my butt is
+to my head.
+
+623
+00:33:11,200 --> 00:33:12,618
+Now that
+you don't have to hide me,
+
+624
+00:33:12,784 --> 00:33:14,703
+getting the rest of the gems
+is gonna be a breeze.
+
+625
+00:33:14,870 --> 00:33:17,122
+Yeah, well, this one was easy,
+
+626
+00:33:17,206 --> 00:33:18,665
+but the rest of them
+are being held
+
+627
+00:33:18,832 --> 00:33:21,793
+by a bunch
+of no-good binturis.
+
+628
+00:33:21,960 --> 00:33:23,253
+<font color="#ff00ff">NAMAARI:</font> Binturi?
+
+629
+00:33:23,545 --> 00:33:26,590
+That's not a very nice way
+to describe an old friend.
+
+630
+00:33:26,673 --> 00:33:27,758
+<font color="#ffff00">(CAT GROWLING)</font>
+
+631
+00:33:29,426 --> 00:33:30,719
+Namaari.
+
+632
+00:33:30,886 --> 00:33:32,638
+What's drippin', dep la?
+
+633
+00:33:32,804 --> 00:33:35,390
+Oh, I see you've finally
+made a new friend.
+
+634
+00:33:35,557 --> 00:33:36,892
+And here I was worried
+
+635
+00:33:36,975 --> 00:33:39,144
+you were gonna end up
+becoming a cat lady
+
+636
+00:33:39,561 --> 00:33:40,562
+like me.
+
+637
+00:33:40,646 --> 00:33:41,647
+<font color="#ffff00">(GROWLS)</font>
+
+638
+00:33:42,147 --> 00:33:43,899
+Something tells me
+you're not besties.
+
+639
+00:33:44,066 --> 00:33:47,236
+Stealing Dragon Gem pieces,
+are we? Why?
+
+640
+00:33:47,402 --> 00:33:50,113
+What can I say?
+Bling is my thing.
+
+641
+00:33:50,364 --> 00:33:51,365
+Hmm.
+
+642
+00:33:51,448 --> 00:33:54,159
+I gotta admit, Raya,
+until a few months ago,
+
+643
+00:33:54,326 --> 00:33:55,577
+I thought you were stone.
+
+644
+00:33:55,661 --> 00:33:58,455
+But then, someone stole
+Fang's dragon scroll.
+
+645
+00:33:58,622 --> 00:34:00,582
+Oh, is that why
+you're chasing me?
+
+646
+00:34:00,791 --> 00:34:03,126
+And here I thought
+it was because you missed me.
+
+647
+00:34:05,504 --> 00:34:08,715
+Are you really looking
+for Sisu?
+
+648
+00:34:08,799 --> 00:34:10,217
+<font color="#ffff00">(LAUGHING)</font>
+
+649
+00:34:10,300 --> 00:34:11,468
+What are you, 12?
+
+650
+00:34:11,677 --> 00:34:14,221
+Yeah, I actually was looking
+for Sisu.
+
+651
+00:34:14,388 --> 00:34:16,932
+Oh, and guess what?
+I found her.
+
+652
+00:34:18,433 --> 00:34:19,810
+Say hi, Sisu.
+
+653
+00:34:19,893 --> 00:34:20,936
+Hi!
+
+654
+00:34:21,019 --> 00:34:22,312
+It's very nice to meet you,
+
+655
+00:34:22,396 --> 00:34:26,108
+and I love your hair
+and your cats' hair.
+
+656
+00:34:26,191 --> 00:34:27,192
+<font color="#ffff00">(CHUCKLES)</font>
+
+657
+00:34:27,276 --> 00:34:28,402
+Take them.
+
+658
+00:34:29,820 --> 00:34:30,904
+<font color="#ffff00">(GRUNTS)</font>
+
+659
+00:34:34,533 --> 00:34:35,534
+<font color="#ffff00">(EXCLAIMING)</font>
+
+660
+00:34:37,119 --> 00:34:38,120
+<font color="#ffff00">(SISU EXCLAIMING)</font>
+
+661
+00:34:38,954 --> 00:34:39,955
+<font color="#ff00ff">RAYA:</font> Run!
+
+662
+00:34:40,622 --> 00:34:41,707
+<font color="#ffff00">(SISU PANTING AND GRUNTING)</font>
+
+663
+00:34:43,292 --> 00:34:44,626
+Not like that! Two legs!
+
+664
+00:34:44,710 --> 00:34:45,711
+<font color="#ff00ff">SISU:</font> Right!
+
+665
+00:34:45,794 --> 00:34:46,879
+- <font color="#ffff00">(PANTING)</font>
+- <font color="#ffff00">(GRUNTING)</font>
+
+666
+00:34:48,172 --> 00:34:49,256
+<font color="#ffff00">(EXCLAIMS)</font>
+
+667
+00:34:49,423 --> 00:34:50,465
+<font color="#ffff00">(CAT GROWLS)</font>
+
+668
+00:34:53,760 --> 00:34:54,761
+<font color="#ffff00">(GRUNTS)</font>
+
+669
+00:34:55,345 --> 00:34:56,763
+<font color="#ffff00">(NAMAARI GRUNTING)</font>
+
+670
+00:34:56,847 --> 00:34:57,848
+<font color="#ffff00">(TENSE MUSIC PLAYING)</font>
+
+671
+00:34:59,892 --> 00:35:00,976
+<font color="#ffff00">(SISU PANTING AND WHIMPERING)</font>
+
+672
+00:35:01,935 --> 00:35:03,270
+<font color="#ff00ff">RAYA:</font> Tuk Tuk! Roll!
+
+673
+00:35:03,645 --> 00:35:04,646
+<font color="#ffff00">(GRUNTS)</font>
+
+674
+00:35:06,356 --> 00:35:07,357
+<font color="#ff00ff">SISU:</font> Whoa!
+
+675
+00:35:07,441 --> 00:35:08,734
+<font color="#ffff00">(WHIMPERING AND EXCLAIMING)</font>
+
+676
+00:35:15,741 --> 00:35:16,742
+- <font color="#ff00ff">RAYA:</font> Jump!
+- <font color="#ffff00">(SISU EXCLAIMS)</font>
+
+677
+00:35:16,825 --> 00:35:17,826
+<font color="#ffff00">(BOTH GRUNT)</font>
+
+678
+00:35:18,619 --> 00:35:19,661
+Who was that girl?
+
+679
+00:35:19,786 --> 00:35:20,787
+That's Namaari.
+
+680
+00:35:20,954 --> 00:35:23,999
+She's the backstabbing binturi
+that broke the world.
+
+681
+00:35:24,291 --> 00:35:26,043
+<font color="#ffff00">(TENSE MUSIC PLAYING)</font>
+
+682
+00:35:32,466 --> 00:35:35,093
+Wow, those cats
+are really fast, huh?
+
+683
+00:35:36,303 --> 00:35:38,263
+What do cats and Druun
+have in common?
+
+684
+00:35:38,347 --> 00:35:41,558
+Um... They have no souls?
+
+685
+00:35:41,808 --> 00:35:44,061
+And they both hate water.
+
+686
+00:35:44,186 --> 00:35:45,646
+-Oh.
+-Hold on!
+
+687
+00:35:46,271 --> 00:35:47,272
+<font color="#ffff00">(TUK TUK TRILLING)</font>
+
+688
+00:35:48,732 --> 00:35:49,775
+<font color="#ffff00">(SPLASHES)</font>
+
+689
+00:35:49,858 --> 00:35:50,901
+<font color="#ffff00">(GRUMBLES)</font>
+
+690
+00:35:54,071 --> 00:35:55,072
+<font color="#ffff00">(GRUNTS ANNOYEDLY)</font>
+
+691
+00:35:56,865 --> 00:35:58,075
+<font color="#ffff00">(BOTH GRUNTING)</font>
+
+692
+00:35:58,617 --> 00:36:00,536
+Hello? Is anybody here?
+
+693
+00:36:01,036 --> 00:36:02,037
+<font color="#ffff00">(EXCLAIMS)</font>
+
+694
+00:36:02,204 --> 00:36:03,205
+<font color="#ffff00">(WHIZZING)</font>
+
+695
+00:36:04,665 --> 00:36:06,583
+Welcome to the world-famous
+Shrimp-orium.
+
+696
+00:36:06,750 --> 00:36:08,919
+My name is Boun.
+I'll be your server today.
+
+697
+00:36:09,086 --> 00:36:10,629
+Would you like to hear
+our daily specials?
+
+698
+00:36:10,796 --> 00:36:11,880
+Yes, please!
+
+699
+00:36:11,964 --> 00:36:13,382
+We got shrimp, we got congee.
+
+700
+00:36:13,465 --> 00:36:15,384
+We got a shrimp congee
+that won't quit.
+
+701
+00:36:15,551 --> 00:36:17,135
+The captain,
+where is the captain?
+
+702
+00:36:17,302 --> 00:36:18,595
+Let me go get him.
+
+703
+00:36:20,305 --> 00:36:22,015
+What's up, my new customers?
+
+704
+00:36:22,182 --> 00:36:23,642
+I'm Captain Boun,
+
+705
+00:36:23,809 --> 00:36:26,436
+the owner, chef,
+and chief financial officer
+
+706
+00:36:26,520 --> 00:36:28,146
+of the Shrimp-orium.
+
+707
+00:36:28,230 --> 00:36:29,231
+How can I help you?
+
+708
+00:36:29,314 --> 00:36:30,649
+Well, I'm Sisu and...
+
+709
+00:36:30,816 --> 00:36:32,568
+And we need
+to get to Talon now.
+
+710
+00:36:32,734 --> 00:36:35,112
+I'm sorry. The Shrimp-orium
+is not a water taxi.
+
+711
+00:36:35,195 --> 00:36:37,239
+- <font color="#ffff00">(COINS JINGLE)</font>
+-Toi, that's a lot of jade!
+
+712
+00:36:37,406 --> 00:36:40,242
+Half now, half when we arrive
+in Talon. Deal?
+
+713
+00:36:41,076 --> 00:36:42,578
+Clasp onto your congee.
+
+714
+00:36:42,744 --> 00:36:44,454
+Today's special is
+
+715
+00:36:44,621 --> 00:36:45,622
+to go.
+
+716
+00:36:52,462 --> 00:36:54,840
+Uh, Captain Boun?
+
+717
+00:36:54,923 --> 00:36:56,425
+Does this thing go any faster?
+
+718
+00:36:56,508 --> 00:36:58,302
+<font color="#ffff00">(CATS SNARLING)</font>
+
+719
+00:36:58,385 --> 00:36:59,887
+Whoa! You didn't tell me
+Fang was after you!
+
+720
+00:37:00,053 --> 00:37:01,138
+This is gonna cost you extra!
+
+721
+00:37:01,305 --> 00:37:02,514
+Don't worry, I got it.
+
+722
+00:37:02,598 --> 00:37:03,599
+<font color="#ffff00">(SPLASHES)</font>
+
+723
+00:37:03,682 --> 00:37:05,184
+What is she doing?
+
+724
+00:37:05,267 --> 00:37:06,268
+<font color="#ffff00">(SUSPENSEFUL MUSIC PLAYING)</font>
+
+725
+00:37:11,982 --> 00:37:12,983
+<font color="#ffff00">(BOTH EXCLAIMING)</font>
+
+726
+00:37:13,233 --> 00:37:14,318
+<font color="#ffff00">(EXCLAIMS)</font>
+
+727
+00:37:15,569 --> 00:37:16,987
+What is happening?
+
+728
+00:37:17,070 --> 00:37:19,114
+My friend's
+a really strong swimmer.
+
+729
+00:37:23,911 --> 00:37:25,037
+<font color="#ffff00">(CATS SNARLING)</font>
+
+730
+00:37:25,329 --> 00:37:27,039
+Bye-bye, binturi.
+
+731
+00:37:29,917 --> 00:37:32,085
+Princess Namaari,
+if they're after gem pieces,
+
+732
+00:37:32,252 --> 00:37:33,879
+their next stop
+would be Talon.
+
+733
+00:37:34,046 --> 00:37:35,589
+We're not following them
+to Talon.
+
+734
+00:37:35,756 --> 00:37:36,882
+We're going back to Fang.
+
+735
+00:37:37,090 --> 00:37:38,842
+I need to speak
+with Chief Virana.
+
+736
+00:37:38,926 --> 00:37:39,927
+<font color="#ffff00">(CAT GROWLS)</font>
+
+737
+00:37:42,596 --> 00:37:43,639
+<font color="#ffff00">(SOFT MUSIC PLAYING)</font>
+
+738
+00:37:47,893 --> 00:37:49,019
+<font color="#ffff00">(ENTHRALLING MUSIC PLAYING)</font>
+
+739
+00:38:08,497 --> 00:38:10,207
+<font color="#ffff00">(IN HUSHED TONE)</font> Sisu? Sisu?
+
+740
+00:38:10,791 --> 00:38:11,792
+<font color="#ff00ff">SISU:</font> <font color="#ffff00">(HAPPILY)</font> Ah!
+
+741
+00:38:11,875 --> 00:38:13,418
+<font color="#ff00ff">RAYA:</font> Please get out of there.
+
+742
+00:38:13,585 --> 00:38:14,962
+I'm a water dragon.
+
+743
+00:38:15,128 --> 00:38:16,964
+This is water.
+It's sort of my thing.
+
+744
+00:38:17,130 --> 00:38:18,340
+You wanna come in?
+
+745
+00:38:18,507 --> 00:38:19,633
+<font color="#ff00ff">RAYA:</font> Someone could see you.
+
+746
+00:38:19,800 --> 00:38:22,511
+Oh. Do you mean Captain Pop
+and Lock over there?
+
+747
+00:38:22,678 --> 00:38:23,846
+What, are you scared
+
+748
+00:38:23,929 --> 00:38:25,389
+he's gonna challenge me
+to a dance battle?
+
+749
+00:38:26,431 --> 00:38:27,432
+<font color="#ffff00">(RAYA GASPS)</font>
+
+750
+00:38:27,516 --> 00:38:28,684
+<font color="#ffff00">(UTENSILS CLATTERING)</font>
+
+751
+00:38:29,142 --> 00:38:30,143
+<font color="#ffff00">(LAUGHS)</font>
+
+752
+00:38:30,310 --> 00:38:31,311
+<font color="#ffff00">(RAYA GRUNTS)</font>
+
+753
+00:38:32,646 --> 00:38:35,732
+Sisu, I saw people
+lose their minds
+
+754
+00:38:35,816 --> 00:38:36,817
+over a Dragon Gem.
+
+755
+00:38:36,984 --> 00:38:39,903
+Can you imagine what they'd do
+over an actual dragon?
+
+756
+00:38:40,070 --> 00:38:42,322
+Look, we need you
+to make this all work.
+
+757
+00:38:42,489 --> 00:38:45,409
+Until we have all the gems,
+you have to stay human.
+
+758
+00:38:45,492 --> 00:38:46,493
+Please.
+
+759
+00:38:46,660 --> 00:38:48,287
+Wow, you really
+got some trust issues.
+
+760
+00:38:48,495 --> 00:38:51,164
+Look, my father
+blindly trusted people,
+
+761
+00:38:51,331 --> 00:38:53,584
+and now, he's stone.
+
+762
+00:38:54,293 --> 00:38:55,669
+Hey, we'll get your ba back.
+
+763
+00:38:56,837 --> 00:38:58,714
+I got you, girl.
+Come on, who's your dragon?
+
+764
+00:38:59,381 --> 00:39:02,926
+I mean, human. Because
+I'm gonna be a human until...
+
+765
+00:39:03,093 --> 00:39:04,094
+Yeah, you... You get it.
+
+766
+00:39:04,178 --> 00:39:05,179
+<font color="#ffff00">(CHUCKLES SOFTLY)</font>
+
+767
+00:39:05,262 --> 00:39:06,263
+<font color="#ffff00">(BOUN GRUNTS)</font>
+
+768
+00:39:07,639 --> 00:39:09,016
+Okay, who's hungry?
+
+769
+00:39:09,224 --> 00:39:10,225
+<font color="#ff00ff">SISU:</font> Oh, I am.
+
+770
+00:39:10,392 --> 00:39:12,352
+Two house specials.
+How spicy would you like it?
+
+771
+00:39:12,519 --> 00:39:14,980
+Hot, hotter,
+or Boun-goes-the-dynamite?
+
+772
+00:39:15,147 --> 00:39:16,481
+-Bring on the heat!
+-Yeah, no.
+
+773
+00:39:16,648 --> 00:39:18,108
+No, I don't think so.
+
+774
+00:39:18,192 --> 00:39:19,401
+Uh, what are you doing?
+
+775
+00:39:19,568 --> 00:39:20,944
+<font color="#ffff00">(WHISPERING)</font> We don't
+know him. It could be poison.
+
+776
+00:39:21,111 --> 00:39:22,905
+<font color="#ffff00">(IN HUSHED TONE)</font>
+Why would he poison us?
+
+777
+00:39:23,071 --> 00:39:24,406
+Yeah, why would I poison you?
+
+778
+00:39:24,573 --> 00:39:26,116
+<font color="#ffff00">(IN NORMAL VOICE)</font>
+First, to get my jade purse,
+
+779
+00:39:26,283 --> 00:39:27,326
+second, to steal my sword,
+
+780
+00:39:27,492 --> 00:39:31,038
+and third, I don't know,
+to kidnap my Tuk Tuk.
+
+781
+00:39:31,121 --> 00:39:32,122
+<font color="#ffff00">(TUK TUK STARTS)</font>
+
+782
+00:39:32,206 --> 00:39:34,625
+All good points,
+but if this is poison...
+
+783
+00:39:34,708 --> 00:39:35,709
+<font color="#ffff00">(SLURPING)</font>
+
+784
+00:39:36,043 --> 00:39:37,044
+Mmm!
+
+785
+00:39:37,127 --> 00:39:38,545
+...you're gonna die happy.
+
+786
+00:39:38,712 --> 00:39:41,089
+Yeah, thanks,
+but we got our own eats.
+
+787
+00:39:41,465 --> 00:39:42,466
+<font color="#ffff00">(GRUNTS)</font>
+
+788
+00:39:42,966 --> 00:39:43,967
+<font color="#ffff00">(SLURPING)</font>
+
+789
+00:39:45,052 --> 00:39:46,512
+This is delicious.
+
+790
+00:39:46,678 --> 00:39:49,139
+By the way, not poison.
+
+791
+00:39:50,724 --> 00:39:52,059
+But it's...
+
+792
+00:39:52,142 --> 00:39:53,143
+<font color="#ffff00">(GASPING)</font>
+
+793
+00:39:53,227 --> 00:39:55,145
+It's hot. Ooh, it's hot!
+
+794
+00:39:55,229 --> 00:39:57,064
+-It's hot! It's really hot!
+- <font color="#ffff00">(RAYA LAUGHING)</font>
+
+795
+00:39:57,314 --> 00:39:58,774
+Oh, my! Oh! Water!
+
+796
+00:39:58,941 --> 00:40:01,485
+Boun? Captain Boun?
+We need water on deck!
+
+797
+00:40:01,568 --> 00:40:02,694
+<font color="#ffff00">(SUSPENSEFUL MUSIC PLAYING)</font>
+
+798
+00:40:17,751 --> 00:40:19,753
+<font color="#ffff00">(SOFT DRAMATIC MUSIC PLAYING)</font>
+
+799
+00:41:12,264 --> 00:41:13,265
+<font color="#ffff00">(EERIE MUSIC PLAYING)</font>
+
+800
+00:41:13,348 --> 00:41:14,433
+<font color="#ffff00">(DRUUN SCREECHING)</font>
+
+801
+00:41:16,685 --> 00:41:17,811
+<font color="#ffff00">(LOW GROWLING)</font>
+
+802
+00:41:19,980 --> 00:41:20,981
+<font color="#ffff00">(TUK TUK WHIMPERS)</font>
+
+803
+00:41:21,064 --> 00:41:22,274
+I know, buddy.
+
+804
+00:41:22,733 --> 00:41:25,235
+You know, during the day,
+
+805
+00:41:25,611 --> 00:41:27,404
+you can almost forget
+they're here,
+
+806
+00:41:27,905 --> 00:41:29,198
+but at night...
+
+807
+00:41:29,281 --> 00:41:30,282
+<font color="#ffff00">(SCREECHING)</font>
+
+808
+00:41:31,116 --> 00:41:33,243
+This is why
+I never leave the boat.
+
+809
+00:41:33,660 --> 00:41:35,120
+You're a smart kid.
+
+810
+00:41:35,204 --> 00:41:36,330
+<font color="#ffff00">(SCREECHING CONTINUES
+DISTANTLY)</font>
+
+811
+00:41:36,413 --> 00:41:38,207
+What are Druun, anyways?
+
+812
+00:41:38,624 --> 00:41:42,169
+<font color="#ff00ff">SISU:</font> A plague.
+Born from human discord.
+
+813
+00:41:42,628 --> 00:41:44,546
+They've always been here.
+
+814
+00:41:44,713 --> 00:41:48,008
+Waiting for a moment
+of weakness to attack.
+
+815
+00:41:48,926 --> 00:41:52,221
+They're like
+the opposite of dragons.
+
+816
+00:41:53,305 --> 00:41:56,767
+Instead of bringing water
+and life to the world,
+
+817
+00:41:56,934 --> 00:41:58,727
+they're like a relentless fire
+
+818
+00:41:58,810 --> 00:42:00,479
+that consumes everything
+in its wake
+
+819
+00:42:00,646 --> 00:42:05,067
+until there's nothing left
+except ash and stone.
+
+820
+00:42:07,528 --> 00:42:09,321
+They took my family.
+
+821
+00:42:10,489 --> 00:42:11,615
+<font color="#ffff00">(SOFT SENTIMENTAL MUSIC
+PLAYING)</font>
+
+822
+00:42:14,701 --> 00:42:16,453
+They took mine, too.
+
+823
+00:42:32,386 --> 00:42:33,387
+<font color="#ffff00">(BREATHES DEEPLY)</font>
+
+824
+00:42:56,618 --> 00:42:57,703
+<font color="#ffff00">(WATER RIPPLING GENTLY)</font>
+
+825
+00:43:04,334 --> 00:43:05,752
+Looks like we're here.
+
+826
+00:43:06,920 --> 00:43:10,507
+So, where are you guys heading
+after Talon?
+
+827
+00:43:10,966 --> 00:43:12,759
+I might be heading there, too.
+
+828
+00:43:14,303 --> 00:43:16,430
+I mean, for a fee, of course.
+
+829
+00:43:16,513 --> 00:43:18,849
+<font color="#ff00ff">RAYA:</font> <font color="#ffff00">(LAUGHS)</font> Of course.
+
+830
+00:43:21,602 --> 00:43:24,897
+<font color="#ff00ff">SISU:</font> Wow! What a smart way
+to Druun-proof your house.
+
+831
+00:43:25,063 --> 00:43:26,148
+Build right on the water.
+
+832
+00:43:26,356 --> 00:43:28,066
+People of Talon are geniuses.
+
+833
+00:43:28,233 --> 00:43:30,235
+Yeah. Talon may look nice,
+
+834
+00:43:30,402 --> 00:43:33,113
+but it's a hotspot for
+pickpockets and con artists.
+
+835
+00:43:33,280 --> 00:43:35,741
+Lucky for me. Empty pockets!
+
+836
+00:43:35,949 --> 00:43:37,159
+Okay, so here's the good news.
+
+837
+00:43:37,326 --> 00:43:38,869
+I know where the gem piece is.
+
+838
+00:43:38,952 --> 00:43:39,953
+The bad news?
+
+839
+00:43:40,037 --> 00:43:43,040
+It's being held by
+the notorious Chief of Talon,
+
+840
+00:43:43,123 --> 00:43:44,124
+Dang Hai.
+
+841
+00:43:44,333 --> 00:43:47,753
+What Dang Hai lacks in style,
+he makes up in mean.
+
+842
+00:43:47,836 --> 00:43:48,837
+<font color="#ffff00">(SMIRKS)</font> Hmm.
+
+843
+00:43:49,213 --> 00:43:50,214
+<font color="#ff00ff">SISU:</font> Gotcha.
+
+844
+00:43:50,297 --> 00:43:51,882
+Now, we're just gonna have to
+turn up the charm.
+
+845
+00:43:51,965 --> 00:43:53,008
+Let's go get him a gift.
+
+846
+00:43:53,175 --> 00:43:55,636
+Sisu, I think maybe
+it's safer for you
+
+847
+00:43:55,719 --> 00:43:57,221
+to stay here on the boat.
+
+848
+00:43:57,304 --> 00:43:58,305
+What?
+
+849
+00:43:58,388 --> 00:44:01,141
+Without you, we can't
+put the gem back together.
+
+850
+00:44:01,308 --> 00:44:02,351
+But I wanna help.
+
+851
+00:44:02,518 --> 00:44:04,186
+I know, and you will.
+
+852
+00:44:04,394 --> 00:44:05,938
+By staying safe.
+
+853
+00:44:06,438 --> 00:44:08,065
+I'll be back
+before you know it.
+
+854
+00:44:08,982 --> 00:44:12,194
+If you see any hungry faces,
+send 'em my way.
+
+855
+00:44:12,361 --> 00:44:14,112
+You got it, Captain.
+
+856
+00:44:14,196 --> 00:44:15,322
+<font color="#ffff00">(UPBEAT MUSIC PLAYING)</font>
+
+857
+00:44:20,369 --> 00:44:21,453
+<font color="#ffff00">(INDISTINCT CHATTERING)</font>
+
+858
+00:44:26,667 --> 00:44:27,668
+<font color="#ffff00">(CHITTERS)</font>
+
+859
+00:44:40,389 --> 00:44:42,558
+All right,
+there's Dang Hai's house.
+
+860
+00:44:42,766 --> 00:44:45,310
+No detours
+till we score that Dragon Gem.
+
+861
+00:44:45,394 --> 00:44:46,520
+<font color="#ffff00">(BABY CRYING)</font>
+
+862
+00:44:46,603 --> 00:44:48,021
+Whoa. What in the...
+
+863
+00:44:50,440 --> 00:44:52,609
+Uh... <font color="#ffff00">(CHUCKLES NERVOUSLY)</font>
+
+864
+00:44:52,860 --> 00:44:54,069
+Okay.
+
+865
+00:44:55,946 --> 00:44:59,408
+-Hey, baby, toddler, thing...
+- <font color="#ffff00">(COOING)</font>
+
+866
+00:44:59,575 --> 00:45:00,659
+<font color="#ff00ff">RAYA:</font>
+...whatever you're called.
+
+867
+00:45:01,118 --> 00:45:03,453
+It's really late.
+What are you doing out here?
+
+868
+00:45:04,079 --> 00:45:05,706
+Where are your parents?
+
+869
+00:45:05,956 --> 00:45:07,583
+Hey, uh, whose baby...
+
+870
+00:45:08,125 --> 00:45:09,626
+-What? Ongis?
+- <font color="#ffff00">(CHITTERS)</font>
+
+871
+00:45:09,710 --> 00:45:10,711
+Drop 'em!
+
+872
+00:45:10,794 --> 00:45:11,795
+<font color="#ffff00">(CHITTERING)</font>
+
+873
+00:45:11,879 --> 00:45:13,130
+- <font color="#ffff00">(EXCLAIMS)</font>
+- <font color="#ff00ff">RAYA:</font> Ow! <font color="#ffff00">(GRUNTS PAINFULLY)</font>
+
+874
+00:45:14,214 --> 00:45:15,340
+- <font color="#ffff00">(EXCLAIMING)</font>
+- <font color="#ffff00">(GIGGLING)</font>
+
+875
+00:45:16,967 --> 00:45:18,802
+Really? A con-baby?
+
+876
+00:45:18,886 --> 00:45:19,887
+<font color="#ffff00">(GRUNTS IN FRUSTRATION)</font>
+
+877
+00:45:23,056 --> 00:45:24,892
+<font color="#ff00ff">SISU:</font> Ah, this is giving me
+bad feels.
+
+878
+00:45:25,058 --> 00:45:26,602
+Chief Dang Hai
+does not sound like
+
+879
+00:45:26,685 --> 00:45:27,978
+someone you could smooth talk.
+
+880
+00:45:28,145 --> 00:45:29,897
+And Raya
+didn't even bring a gift.
+
+881
+00:45:30,397 --> 00:45:32,691
+That's it. I'm going shopping.
+
+882
+00:45:32,941 --> 00:45:34,860
+Oh, wait.
+I don't have any money.
+
+883
+00:45:35,027 --> 00:45:36,153
+<font color="#ff8000">BOUN:</font> You're an adult.
+
+884
+00:45:36,320 --> 00:45:37,529
+You could just put it
+on credit.
+
+885
+00:45:37,696 --> 00:45:39,323
+Oh... Uh, what's credit?
+
+886
+00:45:39,489 --> 00:45:41,200
+It's kinda like a promise.
+
+887
+00:45:41,366 --> 00:45:42,784
+You take what you want now,
+
+888
+00:45:42,868 --> 00:45:44,369
+and you promise
+you'll pay it back later.
+
+889
+00:45:44,661 --> 00:45:46,538
+Pay it back later? Huh!
+
+890
+00:45:46,997 --> 00:45:48,582
+What an amazing concept.
+
+891
+00:45:48,749 --> 00:45:50,042
+Thanks, Captain Boun.
+
+892
+00:45:50,125 --> 00:45:52,127
+- <font color="#ffff00">(LIGHTHEARTED MUSIC PLAYING)</font>
+- <font color="#ffff00">(INDISTINCT CHATTERING)</font>
+
+893
+00:45:54,004 --> 00:45:55,714
+<font color="#ff00ff">SISU:</font> I'll be buying this
+with credit.
+
+894
+00:45:57,090 --> 00:45:59,051
+Oh, Dang Hai's
+gonna love this!
+
+895
+00:45:59,218 --> 00:46:00,302
+Credit, please.
+
+896
+00:46:00,469 --> 00:46:03,222
+Oh, I like that. Uh, yeah,
+I'll be using credit, yes.
+
+897
+00:46:03,889 --> 00:46:04,932
+I love credit!
+
+898
+00:46:05,098 --> 00:46:06,225
+<font color="#ff8000">MALE MERCHANT:</font> Hey, you!
+
+899
+00:46:08,060 --> 00:46:10,103
+Are you going
+to pay for any of that?
+
+900
+00:46:10,187 --> 00:46:11,188
+Oh! <font color="#ffff00">(CHUCKLING)</font>
+
+901
+00:46:11,271 --> 00:46:13,649
+Right, right.
+No, this is on credit.
+
+902
+00:46:13,815 --> 00:46:15,526
+Yeah, I'm gonna pay it
+back later.
+
+903
+00:46:15,692 --> 00:46:17,903
+Pay us back later?
+We don't know you.
+
+904
+00:46:18,070 --> 00:46:19,488
+You have no credit here.
+
+905
+00:46:19,655 --> 00:46:21,573
+-Pay us right now.
+-Now?
+
+906
+00:46:22,115 --> 00:46:23,408
+<font color="#ffff00">(NERVOUSLY)</font>
+I don't have anything,
+
+907
+00:46:23,492 --> 00:46:25,702
+but if I could just find
+my girl Raya,
+
+908
+00:46:25,869 --> 00:46:28,038
+she has a sword, dried eats,
+
+909
+00:46:28,205 --> 00:46:29,456
+two Dragon Gem pieces.
+
+910
+00:46:29,623 --> 00:46:31,250
+No, we don't!
+What? Who said that?
+
+911
+00:46:31,416 --> 00:46:32,626
+You better pay up, binturi.
+
+912
+00:46:32,793 --> 00:46:33,836
+This isn't a charity.
+
+913
+00:46:34,002 --> 00:46:35,128
+Who do you think
+you're stealing from?
+
+914
+00:46:35,212 --> 00:46:37,172
+<font color="#ffff00">(EXCLAIMING)</font>
+Get away from her!
+
+915
+00:46:37,339 --> 00:46:39,341
+Can't you see
+she's new in town?
+
+916
+00:46:39,508 --> 00:46:41,760
+<font color="#ffff00">(AFFECTIONATELY)</font>
+Come, dear. Don't be afraid.
+
+917
+00:46:42,344 --> 00:46:43,637
+<font color="#ff00ff">WOMAN:</font> It's okay.
+
+918
+00:46:44,012 --> 00:46:45,097
+<font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+919
+00:46:46,765 --> 00:46:48,475
+- <font color="#ffff00">(LAUGHING)</font>
+- <font color="#ffff00">(TUK TUK GRUNTS)</font>
+
+920
+00:46:51,895 --> 00:46:52,980
+<font color="#ffff00">(EXCLAIMS)</font>
+
+921
+00:46:53,522 --> 00:46:54,648
+<font color="#ff8000">MALE MERCHANT:</font> Hey, watch out!
+
+922
+00:46:56,191 --> 00:46:57,192
+<font color="#ffff00">(GRUNTS)</font>
+
+923
+00:47:00,529 --> 00:47:01,613
+- <font color="#ffff00">(GRUNTING)</font>
+- <font color="#ffff00">(WEAPON WHOOSHING)</font>
+
+924
+00:47:08,161 --> 00:47:09,162
+<font color="#ffff00">(EXCLAIMS)</font>
+
+925
+00:47:09,830 --> 00:47:11,248
+<font color="#ffff00">(EXCLAIMING IN SLOW MOTION)</font>
+
+926
+00:47:13,625 --> 00:47:14,793
+<font color="#ffff00">(MOUTHING)</font> Bye!
+
+927
+00:47:15,460 --> 00:47:16,545
+<font color="#ffff00">(GIGGLING)</font>
+
+928
+00:47:18,172 --> 00:47:19,214
+<font color="#ffff00">(DRAMATIC MUSIC CONTINUES)</font>
+
+929
+00:47:20,757 --> 00:47:21,800
+<font color="#ffff00">(EXCLAIMS)</font> Diaper!
+
+930
+00:47:24,928 --> 00:47:25,929
+<font color="#ffff00">(BLOWS RASPBERRY)</font>
+
+931
+00:47:30,350 --> 00:47:31,351
+<font color="#ffff00">(CRASHING)</font>
+
+932
+00:47:31,435 --> 00:47:32,477
+<font color="#ffff00">(THUD)</font>
+
+933
+00:47:33,437 --> 00:47:34,438
+<font color="#ffff00">(ONGI SQUEAKING)</font>
+
+934
+00:47:36,148 --> 00:47:37,149
+<font color="#ffff00">(PUNCHES)</font>
+
+935
+00:47:38,150 --> 00:47:39,151
+Thanks.
+
+936
+00:47:39,318 --> 00:47:40,777
+So, it's none of my business,
+
+937
+00:47:40,944 --> 00:47:42,905
+but using your baby charm
+to rip people off...
+
+938
+00:47:42,988 --> 00:47:43,989
+<font color="#ffff00">(EXCLAIMS INDIGNANTLY)</font>
+
+939
+00:47:44,156 --> 00:47:45,532
+-...is super sketchy.
+- <font color="#ffff00">(HUFFS)</font>
+
+940
+00:47:46,158 --> 00:47:47,159
+<font color="#ffff00">(GROWLS)</font>
+
+941
+00:47:47,242 --> 00:47:48,619
+All right,
+where is your family?
+
+942
+00:47:48,702 --> 00:47:49,703
+<font color="#ffff00">(BLOWS RASPBERRY)</font>
+
+943
+00:47:50,204 --> 00:47:51,205
+<font color="#ffff00">(COMMANDS)</font> Mm.
+
+944
+00:47:54,708 --> 00:47:55,709
+<font color="#ff00ff">RAYA:</font> Oh...
+
+945
+00:47:57,294 --> 00:47:58,295
+Right.
+
+946
+00:48:05,177 --> 00:48:06,261
+Hey.
+
+947
+00:48:06,428 --> 00:48:08,931
+How would you like to earn
+some honest loot?
+
+948
+00:48:09,348 --> 00:48:10,349
+Gah?
+
+949
+00:48:10,807 --> 00:48:11,934
+<font color="#ffff00">(DRAMATIC MUSIC PLAYS)</font>
+
+950
+00:48:13,560 --> 00:48:15,938
+<font color="#ffff00">(LAUGHING AND TAUNTING)</font>
+
+951
+00:48:21,693 --> 00:48:22,778
+<font color="#ffff00">(CHITTERING AND SQUEAKING)</font>
+
+952
+00:48:23,570 --> 00:48:24,571
+<font color="#ffff00">(EXCLAIMING)</font>
+
+953
+00:48:31,161 --> 00:48:32,162
+<font color="#ffff00">(SUSPENSEFUL MUSIC PLAYING)</font>
+
+954
+00:48:34,456 --> 00:48:35,666
+All right, Dang Hai,
+
+955
+00:48:35,749 --> 00:48:37,292
+I'll take that
+Dragon Gem piece.
+
+956
+00:48:37,501 --> 00:48:39,419
+Whoa! I'm not Dang Hai.
+
+957
+00:48:40,712 --> 00:48:43,006
+I'm Chai, the flower guy.
+
+958
+00:48:43,257 --> 00:48:44,258
+Where is Dang Hai?
+
+959
+00:48:44,341 --> 00:48:46,176
+<font color="#ffff00">(CHUCKLES)</font>
+He's right over there.
+
+960
+00:48:47,511 --> 00:48:49,763
+What? Who has his gem piece?
+
+961
+00:48:50,138 --> 00:48:52,474
+<font color="#ffff00">(CHUCKLES)</font>
+The most vicious chief
+
+962
+00:48:52,558 --> 00:48:54,518
+Talon has ever seen.
+
+963
+00:48:54,685 --> 00:48:55,686
+<font color="#ffff00">(DRAMATIC MUSIC PLAYS)</font>
+
+964
+00:48:56,645 --> 00:48:59,189
+Those folks were,
+like, crazy mad.
+
+965
+00:48:59,356 --> 00:49:00,941
+I just wanted
+to bring some gifts
+
+966
+00:49:01,024 --> 00:49:02,401
+to the Talon chief Dang Hai.
+
+967
+00:49:02,568 --> 00:49:04,903
+Is that who
+you're looking for, dear?
+
+968
+00:49:05,237 --> 00:49:07,531
+<font color="#ffff00">(GASPS EXCITEDLY)</font>
+I know exactly where he is.
+
+969
+00:49:07,656 --> 00:49:08,657
+You do?
+
+970
+00:49:08,740 --> 00:49:10,284
+Mm-hmm. I will take you there.
+
+971
+00:49:10,450 --> 00:49:13,245
+See? That's what I've been
+trying to tell my girl Raya.
+
+972
+00:49:13,412 --> 00:49:15,247
+And she's all like,
+"You can't trust people."
+
+973
+00:49:15,414 --> 00:49:16,498
+"Don't talk to anyone."
+
+974
+00:49:16,665 --> 00:49:18,876
+"I only eat terrible foods
+I dried myself."
+
+975
+00:49:18,959 --> 00:49:20,794
+<font color="#ffff00">(LAUGHS)</font> Come, dear.
+
+976
+00:49:20,961 --> 00:49:24,214
+Chief Dang Hai
+is just outside the city,
+
+977
+00:49:24,381 --> 00:49:25,757
+beyond the gates.
+
+978
+00:49:26,008 --> 00:49:28,802
+<font color="#ff00ff">SISU:</font> Away from
+the water, huh? Wow.
+
+979
+00:49:29,094 --> 00:49:31,013
+He really likes living
+on the edge.
+
+980
+00:49:32,014 --> 00:49:33,390
+Hi there, Dang Hai.
+
+981
+00:49:33,473 --> 00:49:34,766
+Um, I'm Sisu,
+
+982
+00:49:34,933 --> 00:49:38,562
+and I've come here
+to offer you some...
+
+983
+00:49:38,645 --> 00:49:39,646
+<font color="#ffff00">(EERIE MUSIC PLAYING)</font>
+
+984
+00:49:40,772 --> 00:49:41,857
+Uh...
+
+985
+00:49:42,441 --> 00:49:44,610
+- <font color="#ffff00">(LOUD RUMBLING)</font>
+- <font color="#ffff00">(DRUUN SCREECHING)</font>
+
+986
+00:49:50,824 --> 00:49:52,367
+Now, you're gonna tell me
+
+987
+00:49:52,534 --> 00:49:56,455
+where I can find
+those other Dragon Gem pieces,
+
+988
+00:49:56,622 --> 00:50:01,460
+or I'll have to leave you
+outside with that thing.
+
+989
+00:50:01,627 --> 00:50:02,794
+Take your pick.
+
+990
+00:50:03,212 --> 00:50:05,005
+But I... I trusted you.
+
+991
+00:50:05,172 --> 00:50:07,049
+Big mistake.
+
+992
+00:50:07,257 --> 00:50:08,675
+You better talk fast.
+
+993
+00:50:08,842 --> 00:50:11,136
+-It looks hungry.
+- <font color="#ffff00">(DRUUN SCREECHING)</font>
+
+994
+00:50:13,639 --> 00:50:16,517
+<font color="#ff00ff">SISU:</font> No. No, no. No, no, no!
+
+995
+00:50:17,726 --> 00:50:18,727
+Raya!
+
+996
+00:50:18,810 --> 00:50:19,811
+<font color="#ff00ff">DANG HU:</font> Stop her!
+
+997
+00:50:21,438 --> 00:50:23,482
+<font color="#ff00ff">RAYA:</font> Sisu, I told you
+to stay on the boat.
+
+998
+00:50:23,815 --> 00:50:24,858
+<font color="#ff00ff">SISU:</font> Sorry!
+
+999
+00:50:25,025 --> 00:50:26,693
+Hold on to this for me,
+will ya?
+
+1000
+00:50:26,777 --> 00:50:28,070
+- <font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+- <font color="#ffff00">(FOG HISSING)</font>
+
+1001
+00:50:28,153 --> 00:50:29,154
+<font color="#ffff00">(EXCLAIMING)</font>
+
+1002
+00:50:30,280 --> 00:50:31,281
+<font color="#ff00ff">RAYA:</font> Fog?
+
+1003
+00:50:31,448 --> 00:50:33,992
+<font color="#ff00ff">SISU:</font> Yeah. That was
+my brother Jagan's magic.
+
+1004
+00:50:34,159 --> 00:50:36,328
+<font color="#ff00ff">RAYA:</font> Okay.
+Three down, two to go.
+
+1005
+00:50:37,829 --> 00:50:39,581
+All right, Captain Boun,
+next stop, Spine...
+
+1006
+00:50:39,665 --> 00:50:40,666
+<font color="#ffff00">(EXCLAIMS)</font> Aah!
+
+1007
+00:50:40,749 --> 00:50:41,750
+<font color="#ffff00">(UTENSILS CLATTERING)</font>
+
+1008
+00:50:42,417 --> 00:50:43,585
+Thanks for the new customers!
+
+1009
+00:50:43,752 --> 00:50:45,796
+Yeah, I sort of promised
+to buy them
+
+1010
+00:50:45,879 --> 00:50:47,172
+all the congee they could eat.
+
+1011
+00:50:47,381 --> 00:50:49,800
+Well, we're stuck with them
+for a while
+
+1012
+00:50:49,967 --> 00:50:52,594
+'cause ongis have
+nine stomachs.
+
+1013
+00:50:52,678 --> 00:50:53,679
+Oh, toi.
+
+1014
+00:50:53,762 --> 00:50:54,763
+I can't believe it.
+
+1015
+00:50:54,930 --> 00:50:56,640
+That old lady
+was really gonna hurt me.
+
+1016
+00:50:56,807 --> 00:50:58,976
+Well, I'm sorry, Sisu,
+
+1017
+00:50:59,059 --> 00:51:01,019
+but that's what
+the world is now.
+
+1018
+00:51:01,186 --> 00:51:02,771
+You can't trust anyone.
+
+1019
+00:51:02,855 --> 00:51:04,064
+- <font color="#ffff00">(SIGHS DEEPLY)</font>
+- <font color="#ffff00">(MUMBLING)</font>
+
+1020
+00:51:04,147 --> 00:51:05,607
+Does that include babies?
+
+1021
+00:51:05,691 --> 00:51:07,985
+-Uh, well...
+-She's so cute.
+
+1022
+00:51:08,151 --> 00:51:09,778
+I mean, look at those cheeks.
+
+1023
+00:51:09,862 --> 00:51:11,405
+- <font color="#ffff00">(GRUNTS)</font>
+- <font color="#ffff00">(MUMBLING)</font>
+
+1024
+00:51:11,655 --> 00:51:13,282
+<font color="#ffff00">(IN MUFFLED VOICE)</font>
+Hi, I'm Sisu.
+
+1025
+00:51:14,283 --> 00:51:15,284
+<font color="#ffff00">(MUMBLING UNINTELLIGIBLY)</font>
+
+1026
+00:51:15,617 --> 00:51:16,618
+<font color="#ffff00">(LAUGHING)</font>
+
+1027
+00:51:18,036 --> 00:51:19,371
+She loves my face.
+
+1028
+00:51:19,538 --> 00:51:22,416
+Yeah, watch out
+she doesn't steal your teeth.
+
+1029
+00:51:22,583 --> 00:51:23,834
+Here, let me help you.
+
+1030
+00:51:24,001 --> 00:51:25,627
+- <font color="#ff00ff">SISU:</font> Oh, that's so sweet.
+- <font color="#ffff00">(CON-BABY MUMBLING)</font>
+
+1031
+00:51:25,919 --> 00:51:28,255
+<font color="#ff00ff">SISU:</font> Okay, that's, uh...
+That's too much sweet...
+
+1032
+00:51:28,422 --> 00:51:30,215
+Too much sweetness.
+It's too much!
+
+1033
+00:51:34,928 --> 00:51:35,971
+<font color="#ffff00">(SCREECHING)</font>
+
+1034
+00:51:38,682 --> 00:51:40,684
+<font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+1035
+00:51:44,229 --> 00:51:46,190
+<font color="#ff00ff">GENERAL ATITAYA:</font> Chief Virana,
+we're running out of room.
+
+1036
+00:51:46,773 --> 00:51:48,650
+We need to expand
+to the mainland.
+
+1037
+00:51:48,817 --> 00:51:50,652
+<font color="#ff00ff">VIRANA:</font> And how do you propose
+we handle the Druun,
+
+1038
+00:51:50,736 --> 00:51:52,154
+General Atitāya?
+
+1039
+00:51:52,279 --> 00:51:53,280
+Without proper protection,
+
+1040
+00:51:53,363 --> 00:51:55,532
+it would be a death sentence
+for our people.
+
+1041
+00:51:55,699 --> 00:51:57,743
+I might have a solution
+for that, Mother.
+
+1042
+00:51:57,826 --> 00:52:00,245
+<font color="#ffff00">(GASPS SOFTLY)</font>
+My little morning mist...
+
+1043
+00:52:00,412 --> 00:52:02,372
+Oh, it's good to see you home.
+
+1044
+00:52:02,831 --> 00:52:05,584
+I located Raya.
+She's out stealing gem pieces.
+
+1045
+00:52:05,834 --> 00:52:06,835
+What?
+
+1046
+00:52:07,044 --> 00:52:08,545
+I'd like to take
+the royal army
+
+1047
+00:52:08,629 --> 00:52:10,130
+and intercept her in Spine.
+
+1048
+00:52:10,214 --> 00:52:12,758
+<font color="#ffff00">(SCOFFS)</font> Well,
+if she's going into Spine,
+
+1049
+00:52:13,342 --> 00:52:15,427
+I doubt there'll be much left
+of her to intercept.
+
+1050
+00:52:15,594 --> 00:52:17,387
+She's more capable
+than you realize.
+
+1051
+00:52:17,763 --> 00:52:19,097
+We have to stop her.
+
+1052
+00:52:19,306 --> 00:52:20,349
+<font color="#ffff00">(VIRANA SIGHS)</font>
+
+1053
+00:52:20,516 --> 00:52:21,892
+Walk with me.
+
+1054
+00:52:22,184 --> 00:52:23,352
+<font color="#ffff00">(SOFT MUSIC PLAYING)</font>
+
+1055
+00:52:23,435 --> 00:52:24,686
+Look around.
+
+1056
+00:52:24,853 --> 00:52:28,398
+We made all this
+by making smart decisions,
+
+1057
+00:52:28,482 --> 00:52:29,733
+not emotional ones.
+
+1058
+00:52:30,609 --> 00:52:31,985
+We are safe.
+
+1059
+00:52:32,152 --> 00:52:35,072
+Our canal protects us
+from those monsters.
+
+1060
+00:52:35,447 --> 00:52:37,616
+I don't think it's wise
+to risk yourself
+
+1061
+00:52:37,699 --> 00:52:38,867
+when you don't have to.
+
+1062
+00:52:39,368 --> 00:52:40,536
+But you heard the general.
+
+1063
+00:52:40,702 --> 00:52:43,288
+We're running out of space.
+We need to expand.
+
+1064
+00:52:43,455 --> 00:52:47,000
+If we had all the gem pieces,
+we could do that safely.
+
+1065
+00:52:47,125 --> 00:52:48,126
+You're right.
+
+1066
+00:52:48,293 --> 00:52:50,045
+This isn't
+an emotional decision.
+
+1067
+00:52:50,212 --> 00:52:51,839
+It's the only decision
+we can make
+
+1068
+00:52:51,922 --> 00:52:53,549
+to secure Fang's future.
+
+1069
+00:52:57,719 --> 00:52:58,720
+<font color="#ffff00">(CHUCKLES SOFTLY)</font>
+
+1070
+00:52:58,804 --> 00:53:01,932
+Namaari, you're truly growing
+
+1071
+00:53:02,015 --> 00:53:04,017
+into the leader
+I raised you to be.
+
+1072
+00:53:04,810 --> 00:53:07,145
+General Atitāya,
+ready the royal army
+
+1073
+00:53:07,229 --> 00:53:08,647
+-for my daughter's command.
+- <font color="#ffff00">(THUMPS)</font>
+
+1074
+00:53:08,730 --> 00:53:11,400
+Thank you, Mother.
+I won't let you down.
+
+1075
+00:53:15,821 --> 00:53:16,905
+<font color="#ffff00">(OBJECTS SMASHING
+AND CLATTERING)</font>
+
+1076
+00:53:18,699 --> 00:53:20,450
+<font color="#ffff00">(YELLING)</font> Hey! Stop eating!
+
+1077
+00:53:20,534 --> 00:53:21,535
+<font color="#ffff00">(ONGIS CHITTERING)</font>
+
+1078
+00:53:22,494 --> 00:53:23,495
+<font color="#ffff00">(STARTS)</font>
+
+1079
+00:53:25,080 --> 00:53:26,081
+<font color="#ff00ff">RAYA:</font> <font color="#ffff00">(EXCLAIMS)</font> Whoa!
+
+1080
+00:53:27,624 --> 00:53:29,084
+Sorry, buddy, I got this.
+
+1081
+00:53:29,251 --> 00:53:30,544
+<font color="#ff8000">BOUN:</font> Did you just throw
+a shrimp at me?
+
+1082
+00:53:30,711 --> 00:53:31,920
+That's not even edible!
+
+1083
+00:53:32,004 --> 00:53:33,130
+- <font color="#ff00ff">RAYA:</font> Hey!
+- <font color="#ff8000">BOUN:</font> Don't look at me...
+
+1084
+00:53:33,213 --> 00:53:34,214
+<font color="#ff00ff">RAYA:</font> Uh... Hey, guys?
+
+1085
+00:53:34,298 --> 00:53:35,340
+<font color="#ff8000">BOUN:</font> ...like that,
+you fuzzy garbage can!
+
+1086
+00:53:35,424 --> 00:53:36,717
+Do you wanna play
+hide-and-seek?
+
+1087
+00:53:38,468 --> 00:53:40,012
+All right. Ready?
+
+1088
+00:53:40,804 --> 00:53:42,431
+One.
+
+1089
+00:53:43,682 --> 00:53:44,808
+Two.
+
+1090
+00:53:45,726 --> 00:53:48,228
+-Thanks.
+-Two and a half.
+
+1091
+00:53:49,062 --> 00:53:50,063
+Three.
+
+1092
+00:53:51,106 --> 00:53:52,858
+Remind me to never have kids.
+
+1093
+00:53:53,525 --> 00:53:55,360
+Being people is hard.
+
+1094
+00:53:55,444 --> 00:53:56,445
+Yep.
+
+1095
+00:53:56,570 --> 00:53:57,988
+Six.
+
+1096
+00:53:58,530 --> 00:53:59,781
+Seven.
+
+1097
+00:54:00,157 --> 00:54:01,617
+You have small heads.
+
+1098
+00:54:01,783 --> 00:54:02,826
+No tails.
+
+1099
+00:54:02,993 --> 00:54:04,661
+You lie to get what you want,
+
+1100
+00:54:04,745 --> 00:54:06,163
+like the Talon chief
+back there.
+
+1101
+00:54:06,330 --> 00:54:08,081
+Yeah, well,
+the world's broken.
+
+1102
+00:54:08,248 --> 00:54:09,708
+You can't trust anyone.
+
+1103
+00:54:09,875 --> 00:54:11,585
+Or maybe the world's broken
+
+1104
+00:54:11,668 --> 00:54:13,337
+because you don't
+trust anyone.
+
+1105
+00:54:13,420 --> 00:54:15,756
+<font color="#ffff00">(CHUCKLES SOFTLY)</font>
+You sound just like my ba.
+
+1106
+00:54:16,048 --> 00:54:17,508
+Well, he sounds like
+a smart man.
+
+1107
+00:54:17,883 --> 00:54:19,343
+Yeah, he was.
+
+1108
+00:54:19,510 --> 00:54:21,470
+I really wanted
+to believe him.
+
+1109
+00:54:21,637 --> 00:54:22,930
+I really wanted to believe
+
+1110
+00:54:23,013 --> 00:54:25,098
+that we could be
+Kumandra again.
+
+1111
+00:54:25,265 --> 00:54:26,350
+And we can.
+
+1112
+00:54:26,517 --> 00:54:28,852
+Literally thousands of people
+turned to stone
+
+1113
+00:54:28,936 --> 00:54:30,103
+would argue otherwise.
+
+1114
+00:54:30,270 --> 00:54:32,147
+That doesn't mean
+you shouldn't try.
+
+1115
+00:54:32,314 --> 00:54:35,067
+And I did.
+And you know what happened?
+
+1116
+00:54:35,234 --> 00:54:38,362
+I got kicked in the back
+by someone who gave me a gift.
+
+1117
+00:54:39,196 --> 00:54:40,280
+Look around.
+
+1118
+00:54:40,447 --> 00:54:42,157
+We're a world
+of orphans because
+
+1119
+00:54:42,241 --> 00:54:44,368
+people couldn't stop fighting
+over a gem.
+
+1120
+00:54:44,535 --> 00:54:46,703
+Wanna know why other dragons
+didn't come back?
+
+1121
+00:54:47,246 --> 00:54:49,748
+It's because
+people don't deserve them.
+
+1122
+00:54:49,915 --> 00:54:51,166
+But you can change that.
+
+1123
+00:54:51,333 --> 00:54:53,669
+No, Sisu, I am done trying.
+
+1124
+00:54:53,836 --> 00:54:55,295
+Kumandra is a fairy tale.
+
+1125
+00:54:55,462 --> 00:54:57,214
+The only thing
+important to me now
+
+1126
+00:54:57,297 --> 00:54:58,549
+is bringing my ba back.
+
+1127
+00:55:00,300 --> 00:55:02,302
+Um... I think we're in Spine.
+
+1128
+00:55:05,013 --> 00:55:06,139
+<font color="#ffff00">(SOFT DRAMATIC MUSIC PLAYING)</font>
+
+1129
+00:55:08,183 --> 00:55:09,184
+-Sisu!
+- <font color="#ffff00">(SISU GRUNTS)</font>
+
+1130
+00:55:09,268 --> 00:55:10,853
+<font color="#ff8000">BOUN:</font> Hey, my congee!
+
+1131
+00:55:11,019 --> 00:55:13,730
+<font color="#ff00ff">RAYA:</font> Don't go anywhere.
+I'll be right back.
+
+1132
+00:55:13,814 --> 00:55:14,815
+<font color="#ffff00">(DRAMATIC MUSIC RISING)</font>
+
+1133
+00:55:25,701 --> 00:55:27,661
+Sisu! Come back! Please!
+
+1134
+00:55:27,828 --> 00:55:28,912
+What... What are you doing?
+
+1135
+00:55:29,079 --> 00:55:30,831
+<font color="#ff00ff">SISU:</font> I'm going to show you
+that you're wrong!
+
+1136
+00:55:30,998 --> 00:55:34,501
+How? By getting squashed by
+a bunch of Spine rage-heads?
+
+1137
+00:55:34,585 --> 00:55:35,586
+No.
+
+1138
+00:55:35,669 --> 00:55:36,712
+By proving to you
+
+1139
+00:55:36,795 --> 00:55:38,463
+that if you wanna get
+someone's trust,
+
+1140
+00:55:38,630 --> 00:55:40,090
+you have to give
+a little trust first.
+
+1141
+00:55:40,174 --> 00:55:41,383
+-Wait, Sisu, don't...
+- <font color="#ffff00">(KNOCKER CLANGS)</font>
+
+1142
+00:55:41,466 --> 00:55:42,467
+<font color="#ffff00">(BOTH EXCLAIM)</font>
+
+1143
+00:55:44,428 --> 00:55:47,472
+<font color="#ff00ff">SISU:</font> In hindsight,
+maybe I was a little hasty,
+
+1144
+00:55:47,723 --> 00:55:49,266
+but, uh, who's hungry?
+
+1145
+00:55:49,433 --> 00:55:51,226
+No? I'll leave you alone.
+
+1146
+00:55:52,019 --> 00:55:53,228
+<font color="#ffff00">(RAYA GRUNTING)</font>
+
+1147
+00:55:55,314 --> 00:55:56,982
+Okay, where are we?
+
+1148
+00:55:57,065 --> 00:55:58,066
+<font color="#ffff00">(FIRE CRACKLING)</font>
+
+1149
+00:55:58,525 --> 00:55:59,526
+<font color="#ffff00">(GASPS SOFTLY)</font>
+
+1150
+00:55:59,610 --> 00:56:01,028
+Interesting choice of digs.
+
+1151
+00:56:01,111 --> 00:56:02,112
+- <font color="#ffff00">(FOOTSTEPS APPROACHING)</font>
+- <font color="#ffff00">(BOTH GASP)</font>
+
+1152
+00:56:02,196 --> 00:56:03,197
+<font color="#ffff00">(DOOR CRASHES OPEN)</font>
+
+1153
+00:56:03,530 --> 00:56:04,656
+<font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+1154
+00:56:07,242 --> 00:56:09,328
+You two must be
+dung of brain
+
+1155
+00:56:09,494 --> 00:56:12,956
+to think you could steal
+Spine's Dragon Gem.
+
+1156
+00:56:13,040 --> 00:56:14,041
+<font color="#ffff00">(CLANGS)</font>
+
+1157
+00:56:14,124 --> 00:56:15,125
+Gem? <font color="#ffff00">(SCOFFS)</font>
+
+1158
+00:56:15,250 --> 00:56:16,752
+Who said anything about gems?
+
+1159
+00:56:16,835 --> 00:56:17,836
+We have no interest in gems.
+
+1160
+00:56:17,920 --> 00:56:18,962
+<font color="#ffff00">(GEMS CLATTERING)</font>
+
+1161
+00:56:19,046 --> 00:56:20,047
+Okay, yeah, I can see how
+
+1162
+00:56:20,130 --> 00:56:21,340
+that makes me look
+like a liar.
+
+1163
+00:56:21,507 --> 00:56:22,966
+Actually, I think
+it was the lying
+
+1164
+00:56:23,050 --> 00:56:24,051
+that made you look
+like a liar.
+
+1165
+00:56:24,134 --> 00:56:25,219
+<font color="#ffff00">(LAUGHING VILLAINOUSLY)</font>
+
+1166
+00:56:26,803 --> 00:56:28,055
+<font color="#ffff00">(BOTH LAUGHING)</font>
+
+1167
+00:56:30,098 --> 00:56:31,141
+I'm not sure what's funny.
+
+1168
+00:56:31,308 --> 00:56:34,603
+Your fear
+is like delectable nectar
+
+1169
+00:56:34,770 --> 00:56:37,731
+feeding the tum-tum
+of my soul.
+
+1170
+00:56:37,898 --> 00:56:39,107
+It's good.
+
+1171
+00:56:39,274 --> 00:56:41,485
+Tastes like... <font color="#ffff00">(SNIFFS)</font> mango.
+
+1172
+00:56:41,652 --> 00:56:43,111
+Oh. I love mango.
+
+1173
+00:56:43,320 --> 00:56:45,489
+Of course you love mango!
+
+1174
+00:56:45,656 --> 00:56:47,699
+Only a tongue-less
+cretin wouldn't.
+
+1175
+00:56:47,783 --> 00:56:48,784
+Oh, toi!
+
+1176
+00:56:48,867 --> 00:56:50,410
+It's been such a long time
+
+1177
+00:56:50,494 --> 00:56:51,578
+since I've last peered
+
+1178
+00:56:51,662 --> 00:56:53,830
+into the eyes
+of a trembling enemy.
+
+1179
+00:56:54,289 --> 00:56:56,333
+Where has the time gone?
+
+1180
+00:56:57,251 --> 00:56:59,336
+It's been so long.
+
+1181
+00:56:59,419 --> 00:57:00,587
+<font color="#ffff00">(SENTIMENTAL MUSIC PLAYING)</font>
+
+1182
+00:57:00,671 --> 00:57:01,713
+He seems lonely.
+
+1183
+00:57:01,797 --> 00:57:03,507
+No! I'm not lonely.
+
+1184
+00:57:03,674 --> 00:57:05,342
+-I'm a Spine warrior.
+- <font color="#ffff00">(THUMPS CHEST)</font>
+
+1185
+00:57:05,509 --> 00:57:08,470
+I was born and bred to do
+only one thing.
+
+1186
+00:57:08,637 --> 00:57:10,097
+To invoke fear
+
+1187
+00:57:10,180 --> 00:57:12,975
+and to crush the skulls
+of my enemies!
+
+1188
+00:57:13,141 --> 00:57:14,268
+That's actually two things.
+
+1189
+00:57:14,351 --> 00:57:15,394
+- <font color="#ffff00">(GROWLS AGGRESSIVELY)</font>
+- <font color="#ffff00">(SISU EXCLAIMING)</font>
+
+1190
+00:57:15,477 --> 00:57:16,728
+<font color="#ffff00">(LAUGHING)</font>
+
+1191
+00:57:16,812 --> 00:57:19,147
+Look at your face. <font color="#ffff00">(LAUGHING)</font>
+
+1192
+00:57:19,231 --> 00:57:21,692
+Hey. What do you plan on doing
+with us?
+
+1193
+00:57:21,775 --> 00:57:23,777
+Oh, it's gonna be bad.
+
+1194
+00:57:23,944 --> 00:57:25,153
+Horrifying!
+
+1195
+00:57:25,320 --> 00:57:27,197
+It'll take me two weeks
+to clean up!
+
+1196
+00:57:27,364 --> 00:57:29,116
+You have no idea, do you?
+
+1197
+00:57:29,199 --> 00:57:30,200
+Yes, I do.
+
+1198
+00:57:30,284 --> 00:57:33,662
+I'm formulating this
+gruesome plan in my head...
+
+1199
+00:57:33,829 --> 00:57:36,164
+Makes me sick
+just thinking about it.
+
+1200
+00:57:36,331 --> 00:57:37,875
+You... You just wait.
+
+1201
+00:57:38,041 --> 00:57:41,503
+Until then, why don't you
+just hang around?
+
+1202
+00:57:41,587 --> 00:57:42,588
+Good one, huh?
+
+1203
+00:57:42,963 --> 00:57:44,006
+<font color="#ffff00">(LAUGHING)</font>
+
+1204
+00:57:44,089 --> 00:57:45,299
+- <font color="#ffff00">(TUK TUK EXCLAIMING)</font>
+- <font color="#ffff00">(TONG GRUNTS)</font>
+
+1205
+00:57:45,382 --> 00:57:46,383
+<font color="#ffff00">(CON-BABY EXCLAIMS)</font>
+
+1206
+00:57:46,967 --> 00:57:48,010
+<font color="#ffff00">(ONGIS CHITTERING)</font>
+
+1207
+00:57:48,719 --> 00:57:49,803
+<font color="#ffff00">(TONG GRUNTS)</font>
+
+1208
+00:57:50,262 --> 00:57:51,388
+<font color="#ffff00">(TUK TUK GROWLING)</font>
+
+1209
+00:57:51,471 --> 00:57:52,472
+Huh?
+
+1210
+00:57:52,556 --> 00:57:53,932
+<font color="#ffff00">(SNARLING IN BABY VOICE)</font>
+
+1211
+00:57:54,016 --> 00:57:55,267
+A little one?
+
+1212
+00:57:55,434 --> 00:57:56,852
+All right!
+
+1213
+00:57:56,935 --> 00:57:58,270
+Phew! Good work, Captain Boun!
+
+1214
+00:57:58,437 --> 00:57:59,438
+-Fang's here!
+-What?
+
+1215
+00:57:59,646 --> 00:58:02,941
+<font color="#ff00ff">NAMAARI:</font> People of Spine,
+we are hunting for Raya,
+
+1216
+00:58:03,108 --> 00:58:04,860
+a fugitive from Heart!
+
+1217
+00:58:05,027 --> 00:58:07,279
+Send her out,
+or we're coming in!
+
+1218
+00:58:09,948 --> 00:58:11,325
+You're the only one here?
+
+1219
+00:58:11,783 --> 00:58:14,786
+My people battled the Druun
+with much valor,
+
+1220
+00:58:15,078 --> 00:58:16,121
+but lost.
+
+1221
+00:58:25,589 --> 00:58:26,590
+Okay.
+
+1222
+00:58:26,673 --> 00:58:28,884
+But the Fang gang's here
+for me, not for you,
+
+1223
+00:58:29,051 --> 00:58:30,677
+so, um,
+if I can distract them,
+
+1224
+00:58:30,761 --> 00:58:32,012
+then you guys
+can get out of here.
+
+1225
+00:58:32,179 --> 00:58:33,680
+You're gonna fight
+an entire army?
+
+1226
+00:58:33,847 --> 00:58:35,349
+No, I'm just gonna stall them.
+
+1227
+00:58:35,516 --> 00:58:37,476
+Look, I know how to push
+Namaari's buttons.
+
+1228
+00:58:37,643 --> 00:58:40,145
+And once you guys are clear,
+I'm out of there.
+
+1229
+00:58:42,523 --> 00:58:43,524
+<font color="#ffff00">(SIGHS)</font>
+
+1230
+00:58:45,234 --> 00:58:46,235
+What's your name?
+
+1231
+00:58:46,401 --> 00:58:48,570
+The moniker given to me
+is Tong.
+
+1232
+00:58:48,737 --> 00:58:50,656
+Okay, Tong, look,
+you don't know me,
+
+1233
+00:58:50,739 --> 00:58:51,740
+and I don't know you,
+
+1234
+00:58:51,907 --> 00:58:53,742
+but I'm sure that
+you know a back door
+
+1235
+00:58:53,825 --> 00:58:54,826
+or a way outta here,
+
+1236
+00:58:54,993 --> 00:58:57,788
+and it's really important that
+my friends stay safe, okay?
+
+1237
+00:58:57,955 --> 00:59:01,917
+So, I am sincerely asking you,
+will you help us?
+
+1238
+00:59:02,918 --> 00:59:04,044
+Please.
+
+1239
+00:59:04,962 --> 00:59:05,963
+<font color="#ffff00">(GRUNTS IN AGREEMENT)</font>
+
+1240
+00:59:07,381 --> 00:59:08,549
+<font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+1241
+00:59:13,554 --> 00:59:15,097
+<font color="#ff00ff">RAYA:</font> <font color="#ffff00">(BREATHES DEEPLY)</font> Okay.
+
+1242
+00:59:15,764 --> 00:59:17,182
+Note to self,
+
+1243
+00:59:17,558 --> 00:59:18,809
+don't die.
+
+1244
+00:59:19,685 --> 00:59:21,019
+Burn them out.
+
+1245
+00:59:21,103 --> 00:59:22,646
+<font color="#ffff00">(GATE UNLOCKING)</font>
+
+1246
+00:59:22,729 --> 00:59:23,772
+<font color="#ffff00">(DRAMATIC MUSIC RISING)</font>
+
+1247
+00:59:28,610 --> 00:59:30,696
+Hey there, Princess Undercut.
+
+1248
+00:59:30,863 --> 00:59:31,864
+Fancy meeting you here.
+
+1249
+00:59:32,030 --> 00:59:33,407
+<font color="#ff00ff">NAMAARI:</font> You
+and the Dragon Gem pieces
+
+1250
+00:59:33,490 --> 00:59:34,616
+are coming with me.
+
+1251
+00:59:34,700 --> 00:59:36,952
+Hmm.
+My sword here says we're not.
+
+1252
+00:59:37,703 --> 00:59:38,704
+<font color="#ffff00">(WEAPONS READYING)</font>
+
+1253
+00:59:38,787 --> 00:59:41,540
+Yeah, I knew you couldn't
+handle rolling solo.
+
+1254
+00:59:41,707 --> 00:59:43,667
+You're nothing
+without your band.
+
+1255
+00:59:44,418 --> 00:59:45,711
+Stand down.
+
+1256
+00:59:46,587 --> 00:59:48,046
+This shouldn't take long.
+
+1257
+00:59:49,631 --> 00:59:50,632
+<font color="#ffff00">(LAUGHS)</font>
+
+1258
+00:59:50,716 --> 00:59:52,134
+<font color="#ffff00">(WEAPON WHOOSHING)</font>
+
+1259
+00:59:57,472 --> 00:59:58,974
+<font color="#ffff00">(SUSPENSEFUL MUSIC RISING)</font>
+
+1260
+00:59:59,808 --> 01:00:01,476
+- <font color="#ffff00">(BOTH GRUNTING)</font>
+- <font color="#ffff00">(WEAPONS CLANGING)</font>
+
+1261
+01:00:03,187 --> 01:00:04,188
+<font color="#ffff00">(GRUNTING CONTINUES)</font>
+
+1262
+01:00:07,232 --> 01:00:08,233
+<font color="#ffff00">(EXCLAIMS)</font>
+
+1263
+01:00:12,237 --> 01:00:13,614
+Did you need that, dep la?
+
+1264
+01:00:13,989 --> 01:00:15,365
+<font color="#ffff00">(GRUNTING)</font>
+
+1265
+01:00:15,490 --> 01:00:16,491
+Nah.
+
+1266
+01:00:16,575 --> 01:00:19,494
+<font color="#ffff00">(GRUNTS)</font> Looks like somebody's
+been taking classes.
+
+1267
+01:00:19,620 --> 01:00:20,621
+<font color="#ffff00">(GRUNTS)</font>
+
+1268
+01:00:20,871 --> 01:00:22,289
+<font color="#ffff00">(BOTH GRUNTING)</font>
+
+1269
+01:00:23,957 --> 01:00:25,334
+<font color="#ffff00">(EXCLAIMING)</font>
+
+1270
+01:00:25,751 --> 01:00:27,336
+- <font color="#ffff00">(GRUNTING)</font>
+- <font color="#ffff00">(GRUNTS PAINFULLY)</font>
+
+1271
+01:00:27,711 --> 01:00:28,712
+- <font color="#ffff00">(EXCLAIMS)</font>
+- <font color="#ffff00">(GRUNTS)</font>
+
+1272
+01:00:28,795 --> 01:00:29,796
+<font color="#ffff00">(GASPS)</font>
+
+1273
+01:00:30,339 --> 01:00:31,340
+<font color="#ffff00">(GRUNTING)</font>
+
+1274
+01:00:32,382 --> 01:00:33,383
+<font color="#ffff00">(GRUNTS)</font>
+
+1275
+01:00:34,510 --> 01:00:36,220
+Why are you stealing
+gem pieces?
+
+1276
+01:00:36,303 --> 01:00:37,888
+<font color="#ffff00">(PANTING)</font>
+
+1277
+01:00:39,765 --> 01:00:43,227
+<font color="#ffff00">(SARCASTICALLY)</font> Oh, I'm just
+trying to get a matching set.
+
+1278
+01:00:43,602 --> 01:00:44,895
+<font color="#ffff00">(GRUNTING)</font>
+
+1279
+01:00:44,978 --> 01:00:46,063
+- <font color="#ffff00">(GRUNTS LOUDLY)</font>
+- <font color="#ffff00">(GRUNTS PAINFULLY)</font>
+
+1280
+01:00:46,146 --> 01:00:47,272
+<font color="#ffff00">(THUDS)</font>
+
+1281
+01:00:47,356 --> 01:00:48,357
+<font color="#ffff00">(BREATHING HEAVILY)</font>
+
+1282
+01:00:48,440 --> 01:00:51,193
+<font color="#ffff00">(GRIMACING)</font> You didn't happen
+to bring Fang's gem, did you?
+
+1283
+01:00:51,652 --> 01:00:52,778
+<font color="#ffff00">(BREATHES HEAVILY)</font>
+
+1284
+01:00:53,111 --> 01:00:54,321
+<font color="#ffff00">(GRUNTS)</font>
+
+1285
+01:00:54,404 --> 01:00:56,114
+- <font color="#ffff00">(GRUNTS LOUDLY)</font>
+- <font color="#ffff00">(EXCLAIMS PAINFULLY)</font>
+
+1286
+01:00:56,198 --> 01:00:57,324
+<font color="#ffff00">(TENSE MUSIC PLAYING)</font>
+
+1287
+01:01:00,494 --> 01:01:03,413
+<font color="#ffff00">(GRUNTS)</font> No? Never mind.
+
+1288
+01:01:03,580 --> 01:01:06,250
+I'll just swing by
+and grab it later.
+
+1289
+01:01:06,333 --> 01:01:07,334
+<font color="#ffff00">(CHUCKLES)</font>
+
+1290
+01:01:07,709 --> 01:01:10,045
+Oh, I'm gonna enjoy this.
+
+1291
+01:01:10,128 --> 01:01:11,839
+- <font color="#ffff00">(LOUD RUMBLING)</font>
+- <font color="#ffff00">(WARRIORS EXCLAIMING)</font>
+
+1292
+01:01:12,548 --> 01:01:13,549
+<font color="#ffff00">(GASPS)</font>
+
+1293
+01:01:13,632 --> 01:01:14,633
+<font color="#ffff00">(ROARING)</font>
+
+1294
+01:01:15,092 --> 01:01:16,134
+<font color="#ffff00">(WARRIORS EXCLAIMING)</font>
+
+1295
+01:01:19,179 --> 01:01:20,472
+<font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+1296
+01:01:24,518 --> 01:01:25,519
+<font color="#ffff00">(BREATHING HEAVILY)</font>
+
+1297
+01:01:26,228 --> 01:01:27,479
+<font color="#ffff00">(ROARING)</font>
+
+1298
+01:01:30,232 --> 01:01:31,441
+<font color="#ffff00">(SOFT MUSIC PLAYING)</font>
+
+1299
+01:01:36,655 --> 01:01:37,739
+<font color="#ffff00">(GRUNTS PAINFULLY)</font>
+
+1300
+01:01:38,365 --> 01:01:40,325
+Yep, she's a dragon.
+
+1301
+01:01:40,492 --> 01:01:41,660
+Let's go.
+
+1302
+01:01:41,827 --> 01:01:42,828
+Come on!
+
+1303
+01:01:50,836 --> 01:01:52,045
+<font color="#ffff00">(SOFT MUSIC CONTINUES)</font>
+
+1304
+01:01:59,595 --> 01:02:00,596
+<font color="#ffff00">(WATER RIPPLING)</font>
+
+1305
+01:02:04,975 --> 01:02:05,976
+<font color="#ffff00">(GRUNTS SOFTLY)</font>
+
+1306
+01:02:06,059 --> 01:02:07,728
+Did you just hit me
+with a shrimp tail?
+
+1307
+01:02:09,104 --> 01:02:11,273
+When were you gonna tell us
+she was Sisu?
+
+1308
+01:02:11,440 --> 01:02:13,775
+Well, technically,
+you always knew she was Sisu.
+
+1309
+01:02:14,526 --> 01:02:15,527
+Seriously?
+
+1310
+01:02:15,777 --> 01:02:17,196
+Why are you here,
+
+1311
+01:02:17,279 --> 01:02:18,906
+divine water dragon?
+
+1312
+01:02:18,989 --> 01:02:20,532
+Isn't that obvious, big guy?
+
+1313
+01:02:20,616 --> 01:02:22,701
+My girl Raya and I
+are gonna fix the world.
+
+1314
+01:02:22,784 --> 01:02:24,203
+Bring everyone back.
+
+1315
+01:02:24,286 --> 01:02:26,038
+You're gonna
+bring everyone back?
+
+1316
+01:02:26,121 --> 01:02:27,122
+I wanna help.
+
+1317
+01:02:27,372 --> 01:02:30,584
+<font color="#ffff00">(SIGHS)</font> I'm sorry,
+I can't let you do that.
+
+1318
+01:02:30,751 --> 01:02:31,877
+It's too dangerous.
+
+1319
+01:02:31,960 --> 01:02:35,714
+You're not the only one
+who lost family to the Druun.
+
+1320
+01:02:36,089 --> 01:02:37,174
+<font color="#ffff00">(SENTIMENTAL MUSIC PLAYING)</font>
+
+1321
+01:02:39,468 --> 01:02:40,469
+Please.
+
+1322
+01:02:40,886 --> 01:02:42,346
+Let me help you.
+
+1323
+01:02:43,180 --> 01:02:44,681
+<font color="#ffff00">(CON-BABY MUMBLING)</font>
+
+1324
+01:02:49,478 --> 01:02:50,938
+<font color="#ffff00">(GEM RINGING)</font>
+
+1325
+01:02:51,021 --> 01:02:53,106
+I too wish to join
+this fellowship
+
+1326
+01:02:53,190 --> 01:02:55,484
+of Druun butt-kickery!
+
+1327
+01:03:03,200 --> 01:03:04,409
+<font color="#ffff00">(ENTHRALLING MUSIC PLAYING)</font>
+
+1328
+01:03:04,743 --> 01:03:05,953
+<font color="#ffff00">(RAIN PATTERING)</font>
+
+1329
+01:03:07,788 --> 01:03:10,040
+My big brother Pengu's magic.
+
+1330
+01:03:10,666 --> 01:03:11,875
+<font color="#ffff00">(ENTHRALLING MUSIC CONTINUES)</font>
+
+1331
+01:03:28,433 --> 01:03:29,434
+<font color="#ffff00">(ENTHRALLING MUSIC RISING)</font>
+
+1332
+01:03:40,779 --> 01:03:41,864
+<font color="#ffff00">(LAUGHING)</font>
+
+1333
+01:03:47,202 --> 01:03:48,245
+<font color="#ffff00">(GIGGLING)</font>
+
+1334
+01:03:55,335 --> 01:03:56,587
+<font color="#ffff00">(ENTHRALLING MUSIC SWELLS)</font>
+
+1335
+01:04:03,510 --> 01:04:05,262
+<font color="#ffff00">(SPLASHES)</font>
+
+1336
+01:04:09,099 --> 01:04:10,100
+<font color="#ffff00">(LAUGHING)</font>
+
+1337
+01:04:11,351 --> 01:04:12,519
+<font color="#ffff00">(LAUGHING)</font>
+
+1338
+01:04:16,273 --> 01:04:18,400
+<font color="#ff00ff">RAYA:</font> All right, Captain Boun.
+To Fang.
+
+1339
+01:04:18,692 --> 01:04:19,776
+<font color="#ff8000">BOUN:</font> You got it!
+
+1340
+01:04:21,945 --> 01:04:23,030
+<font color="#ffff00">(MUSIC CONTINUES SOFTLY)</font>
+
+1341
+01:04:33,749 --> 01:04:34,750
+<font color="#ffff00">(WATER RIPPLING)</font>
+
+1342
+01:04:38,337 --> 01:04:40,839
+All right, everyone,
+here's the plan.
+
+1343
+01:04:41,006 --> 01:04:43,008
+The last gem piece is in Fang,
+
+1344
+01:04:43,175 --> 01:04:45,928
+the most heavily guarded
+of the five lands.
+
+1345
+01:04:46,220 --> 01:04:48,180
+Now, they're protected
+by an artificial canal
+
+1346
+01:04:48,347 --> 01:04:50,641
+that separates them
+from the rest of the world.
+
+1347
+01:04:50,807 --> 01:04:52,351
+The only way in or out
+
+1348
+01:04:52,518 --> 01:04:53,977
+is by water.
+
+1349
+01:04:54,061 --> 01:04:55,395
+<font color="#ffff00">(SUSPENSEFUL MUSIC PLAYING)</font>
+
+1350
+01:04:55,479 --> 01:04:57,064
+<font color="#ffff00">(EXCLAIMING)</font>
+
+1351
+01:04:58,607 --> 01:05:02,694
+<font color="#ff00ff">RAYA:</font> Luckily for us,
+we have a magic water dragon.
+
+1352
+01:05:04,821 --> 01:05:07,115
+Now, the palace will be
+swarmingwith Fang soldiers.
+
+1353
+01:05:07,616 --> 01:05:09,034
+To sneak past them,
+we'll need to...
+
+1354
+01:05:09,201 --> 01:05:10,452
+I got this, guys.
+
+1355
+01:05:10,702 --> 01:05:12,037
+I'll take care
+of the first wave.
+
+1356
+01:05:12,120 --> 01:05:13,497
+<font color="#ffff00">(GRUNTING)</font>
+
+1357
+01:05:14,206 --> 01:05:15,207
+<font color="#ff8000">BOUN:</font> Tong will follow up
+
+1358
+01:05:15,290 --> 01:05:17,209
+with hisgiant axe
+of bad-axery.
+
+1359
+01:05:17,292 --> 01:05:18,335
+<font color="#ffff00">(TONG EXCLAIMING)</font>
+
+1360
+01:05:18,418 --> 01:05:21,046
+<font color="#ff8000">BOUN:</font> And then come the ongis
+and that crazy con-baby...
+
+1361
+01:05:21,129 --> 01:05:22,172
+<font color="#ffff00">(CON-BABY EXCLAIMING)</font>
+
+1362
+01:05:23,048 --> 01:05:26,134
+<font color="#ff8000">BOUN:</font> ...who will toss the gem
+to the Mighty Sisudatu.
+
+1363
+01:05:26,343 --> 01:05:27,469
+<font color="#ffff00">(BOUN MIMICKING SISU GROWLING)</font>
+
+1364
+01:05:27,553 --> 01:05:30,472
+And then, bye-bye, binturis.
+
+1365
+01:05:30,848 --> 01:05:31,974
+<font color="#ffff00">(BOUN MIMICKING EXPLOSIONS)</font>
+
+1366
+01:05:34,810 --> 01:05:36,895
+-Super flow plan, am I right?
+- <font color="#ffff00">(CON-BABY CLAPPING)</font>
+
+1367
+01:05:37,437 --> 01:05:40,065
+Uh, no. Yeah, that's not flow.
+That's a clog.
+
+1368
+01:05:40,148 --> 01:05:41,149
+I agree.
+
+1369
+01:05:41,650 --> 01:05:42,734
+Here's my plan.
+
+1370
+01:05:43,318 --> 01:05:44,444
+We infiltrate Fang,
+
+1371
+01:05:44,611 --> 01:05:46,113
+confront Namaari,
+
+1372
+01:05:47,781 --> 01:05:49,533
+and offer her something nice
+and go...
+
+1373
+01:05:49,700 --> 01:05:51,702
+Hey! Wanna help us
+save the world?
+
+1374
+01:05:51,869 --> 01:05:54,621
+Because all it takes
+is one gem piece.
+
+1375
+01:05:54,788 --> 01:05:56,081
+<font color="#ffff00">(SISU SPEAKING AS NAMAARI)</font>
+Yes!
+
+1376
+01:05:56,164 --> 01:05:57,875
+I've been waiting
+for someone to ask me!
+
+1377
+01:05:58,041 --> 01:05:59,168
+Here you go!
+
+1378
+01:05:59,543 --> 01:06:01,837
+Best friends forever!
+
+1379
+01:06:04,590 --> 01:06:06,800
+Yeah, I think I'd rather
+go with Boun's plan.
+
+1380
+01:06:06,884 --> 01:06:07,885
+What?
+
+1381
+01:06:07,968 --> 01:06:08,969
+Yes!
+
+1382
+01:06:09,052 --> 01:06:10,053
+What, why?
+
+1383
+01:06:10,137 --> 01:06:11,346
+Because it's Fang.
+
+1384
+01:06:11,513 --> 01:06:13,640
+Their blades
+are specially designed
+
+1385
+01:06:13,724 --> 01:06:15,517
+for the stabbing of backs.
+
+1386
+01:06:15,684 --> 01:06:16,727
+If it weren't for them,
+
+1387
+01:06:16,810 --> 01:06:18,020
+none of this
+would have happened.
+
+1388
+01:06:18,187 --> 01:06:19,730
+They're the worst.
+
+1389
+01:06:19,813 --> 01:06:20,898
+<font color="#ffff00">(MUMBLES IN AGREEMENT)</font>
+
+1390
+01:06:21,440 --> 01:06:23,108
+If we're just honest with her,
+
+1391
+01:06:23,275 --> 01:06:24,693
+deep down, I got a feeling
+
+1392
+01:06:24,776 --> 01:06:26,486
+she wants to fix the world
+as much as we do.
+
+1393
+01:06:26,653 --> 01:06:28,572
+You weren't there
+when Namaari betrayed me.
+
+1394
+01:06:28,906 --> 01:06:30,699
+We're sticking with my plan.
+
+1395
+01:06:31,825 --> 01:06:32,910
+<font color="#ffff00">(SISU GRUNTS ANNOYEDLY)</font>
+
+1396
+01:06:33,827 --> 01:06:36,079
+Whoa. Uh...
+What's with the downpour?
+
+1397
+01:06:36,246 --> 01:06:37,998
+<font color="#ff00ff">SISU:</font> Come on!
+I need to show you something.
+
+1398
+01:06:38,415 --> 01:06:40,334
+<font color="#ffff00">(RAYA EXCLAIMING FEARFULLY)</font>
+
+1399
+01:06:43,086 --> 01:06:45,088
+So, what do we do now?
+
+1400
+01:06:45,380 --> 01:06:46,590
+I don't know.
+
+1401
+01:06:47,216 --> 01:06:49,384
+<font color="#ff00ff">RAYA:</font> Where are you taking me?
+
+1402
+01:06:49,510 --> 01:06:50,719
+<font color="#ffff00">(ENTHRALLING MUSIC PLAYING)</font>
+
+1403
+01:07:16,286 --> 01:07:18,413
+Sisu, why did you
+bring me here?
+
+1404
+01:07:18,622 --> 01:07:20,123
+This is where it all happened.
+
+1405
+01:07:20,457 --> 01:07:22,251
+Yeah, I know.
+
+1406
+01:07:23,627 --> 01:07:25,546
+-I was there.
+- <font color="#ff00ff">SISU:</font> No.
+
+1407
+01:07:26,380 --> 01:07:29,842
+This is where it all happened
+500 years ago.
+
+1408
+01:07:33,804 --> 01:07:34,805
+<font color="#ffff00">(GASPS SOFTLY)</font>
+
+1409
+01:07:36,098 --> 01:07:38,892
+<font color="#ff00ff">SISU:</font> I want you to meet
+my brothers and sisters.
+
+1410
+01:07:39,268 --> 01:07:40,894
+The real mighty ones.
+
+1411
+01:07:41,854 --> 01:07:43,146
+I miss them.
+
+1412
+01:07:43,772 --> 01:07:45,649
+<font color="#ff00ff">RAYA:</font> I never knew
+they were here.
+
+1413
+01:07:47,860 --> 01:07:49,695
+See that classy-looking one
+over there?
+
+1414
+01:07:50,070 --> 01:07:52,906
+That's Amba.
+I get my glow from her.
+
+1415
+01:07:53,073 --> 01:07:56,243
+And that's Pranee.
+She's a shapeshifter.
+
+1416
+01:07:56,827 --> 01:07:58,704
+Jagan, fog.
+
+1417
+01:07:59,705 --> 01:08:01,540
+And Pengu.
+
+1418
+01:08:02,499 --> 01:08:03,959
+He's our big brother.
+
+1419
+01:08:04,960 --> 01:08:06,503
+He brings the rain.
+
+1420
+01:08:07,254 --> 01:08:09,798
+We were the last dragons.
+
+1421
+01:08:10,674 --> 01:08:11,925
+<font color="#ffff00">(THUNDERING)</font>
+
+1422
+01:08:12,718 --> 01:08:15,053
+<font color="#ff00ff">SISU:</font> <i>All the other dragons
+had been turned to stone.</i>
+
+1423
+01:08:16,388 --> 01:08:18,015
+<i>We were drowning
+in a sea of Druun.</i>
+
+1424
+01:08:18,098 --> 01:08:19,308
+<font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+1425
+01:08:21,643 --> 01:08:25,731
+<i>But my oldest brother Pengu
+refused to accept defeat.</i>
+
+1426
+01:08:26,690 --> 01:08:29,026
+<i>This is where
+we'd make our last stand...</i>
+
+1427
+01:08:30,194 --> 01:08:31,403
+<i>united.</i>
+
+1428
+01:08:35,324 --> 01:08:37,784
+<i>So, one by one,</i>
+
+1429
+01:08:38,368 --> 01:08:41,038
+<i>they combined all their magic,</i>
+
+1430
+01:08:41,205 --> 01:08:44,208
+<i>creating the Dragon Gem.</i>
+
+1431
+01:08:49,296 --> 01:08:51,089
+<i>I don't know why
+they chose me.</i>
+
+1432
+01:08:52,174 --> 01:08:54,176
+<i>It could have been any of us.</i>
+
+1433
+01:08:54,259 --> 01:08:55,260
+<font color="#ffff00">(DRAMATIC MUSIC CONTINUES)</font>
+
+1434
+01:08:56,929 --> 01:08:58,472
+<i>All I know</i>
+
+1435
+01:08:59,056 --> 01:09:00,641
+<i>is I trusted them...</i>
+
+1436
+01:09:00,724 --> 01:09:02,392
+<font color="#ffff00">(DRUUN RUMBLING)</font>
+
+1437
+01:09:02,476 --> 01:09:04,144
+<i>...and they trusted me.</i>
+
+1438
+01:09:06,563 --> 01:09:07,981
+<i>And so...</i>
+
+1439
+01:09:09,566 --> 01:09:10,943
+<font color="#ffff00">(GEM RINGING MYSTICALLY)</font>
+
+1440
+01:09:18,242 --> 01:09:20,160
+When they put their faith
+in me,
+
+1441
+01:09:20,869 --> 01:09:23,622
+it empowered me beyond
+anything I could imagine.
+
+1442
+01:09:24,164 --> 01:09:26,291
+The same can happen
+with Namaari.
+
+1443
+01:09:27,167 --> 01:09:29,378
+I really wish
+I could believe that.
+
+1444
+01:09:29,878 --> 01:09:32,172
+I once thought
+that we could be friends.
+
+1445
+01:09:32,464 --> 01:09:33,549
+After all this,
+
+1446
+01:09:34,091 --> 01:09:35,384
+maybe you can be.
+
+1447
+01:09:36,093 --> 01:09:38,428
+Even if she wanted to help us,
+
+1448
+01:09:39,012 --> 01:09:40,848
+how could I possibly
+trust her?
+
+1449
+01:09:41,014 --> 01:09:42,975
+But if somehow you could,
+
+1450
+01:09:43,058 --> 01:09:44,935
+you wouldn't just bring
+your ba back.
+
+1451
+01:09:45,394 --> 01:09:47,229
+You'd also bring back
+his dream.
+
+1452
+01:09:47,688 --> 01:09:48,939
+Kumandra.
+
+1453
+01:09:57,990 --> 01:09:59,283
+<font color="#ffff00">(SOFT MUSIC PLAYING)</font>
+
+1454
+01:10:11,837 --> 01:10:12,921
+<font color="#ffff00">(EXHALES SOFTLY)</font>
+
+1455
+01:10:13,005 --> 01:10:15,132
+Do you think
+he would even recognize me?
+
+1456
+01:10:16,550 --> 01:10:17,843
+So much has changed.
+
+1457
+01:10:20,137 --> 01:10:21,763
+Of course he will.
+
+1458
+01:10:22,639 --> 01:10:24,099
+You remind me of him.
+
+1459
+01:10:24,725 --> 01:10:26,143
+Oh, yeah? Strong?
+
+1460
+01:10:26,226 --> 01:10:28,145
+Good-looking
+with impeccable hair?
+
+1461
+01:10:28,228 --> 01:10:29,229
+<font color="#ffff00">(CHUCKLES SOFTLY)</font>
+
+1462
+01:10:31,190 --> 01:10:32,608
+Hopeful.
+
+1463
+01:10:36,820 --> 01:10:39,072
+How would I even
+approach Namaari
+
+1464
+01:10:39,156 --> 01:10:40,657
+after all that's happened?
+
+1465
+01:10:41,116 --> 01:10:45,078
+It may feel impossible,
+but sometimes,
+
+1466
+01:10:45,245 --> 01:10:46,997
+you just have to take
+the first step,
+
+1467
+01:10:47,080 --> 01:10:48,248
+even before you're ready.
+
+1468
+01:10:49,249 --> 01:10:50,292
+Trust me.
+
+1469
+01:10:51,460 --> 01:10:52,544
+<font color="#ffff00">(SOFT SENTIMENTAL MUSIC
+PLAYING)</font>
+
+1470
+01:10:58,884 --> 01:11:01,011
+Okay. We'll go with your plan.
+
+1471
+01:11:01,345 --> 01:11:03,805
+What? My plan?
+You're gonna go with my plan?
+
+1472
+01:11:03,889 --> 01:11:06,433
+-Yeah.
+- <font color="#ffff00">(LAUGHS)</font> All right!
+
+1473
+01:11:06,600 --> 01:11:07,851
+You're not gonna regret this.
+
+1474
+01:11:08,018 --> 01:11:09,520
+But we're gonna need
+a really good gift.
+
+1475
+01:11:09,686 --> 01:11:11,855
+What do you think she's into?
+Cats? Knives?
+
+1476
+01:11:12,064 --> 01:11:13,440
+-Cats with knives?
+- <font color="#ffff00">(LAUGHS)</font>
+
+1477
+01:11:13,524 --> 01:11:14,775
+<font color="#ff00ff">SISU:</font> Knives with little cats
+on them?
+
+1478
+01:11:14,858 --> 01:11:18,529
+Actually, I know exactly what
+to give her.
+
+1479
+01:11:23,575 --> 01:11:27,329
+And that is how
+the land of Fang rose
+
+1480
+01:11:27,496 --> 01:11:31,083
+in spite of all the monsters
+that wanted to destroy us.
+
+1481
+01:11:31,250 --> 01:11:34,711
+Because we're smart, resilient,
+
+1482
+01:11:35,128 --> 01:11:36,505
+and we take care of one another.
+
+1483
+01:11:36,672 --> 01:11:38,423
+Mother! We need to talk.
+
+1484
+01:11:38,590 --> 01:11:39,716
+It's Princess Namaari!
+
+1485
+01:11:39,800 --> 01:11:40,926
+<font color="#ffff00">(CHILDREN EXCLAIMING)</font>
+
+1486
+01:11:41,009 --> 01:11:43,595
+All right, all right,
+now, run along, kittens.
+
+1487
+01:11:43,679 --> 01:11:45,973
+- <font color="#ffff00">(CHILDREN MUMBLING DISAPPOINTEDLY)</font>
+-I have to speak with the princess.
+
+1488
+01:11:46,139 --> 01:11:48,600
+Mother, you won't believe what I saw.
+
+1489
+01:11:48,767 --> 01:11:50,394
+You saw a dragon.
+
+1490
+01:11:51,436 --> 01:11:52,980
+General Atitāya informed me
+
+1491
+01:11:53,146 --> 01:11:55,524
+that you'd be returning home
+without the gem pieces.
+
+1492
+01:11:55,691 --> 01:11:57,150
+It was Sisu.
+
+1493
+01:11:57,317 --> 01:11:59,319
+She can fix what we broke.
+
+1494
+01:11:59,486 --> 01:12:00,904
+She can bring everyone back.
+
+1495
+01:12:01,071 --> 01:12:03,407
+And that's what scares me.
+
+1496
+01:12:03,615 --> 01:12:05,284
+When everyone comes back,
+
+1497
+01:12:05,367 --> 01:12:07,202
+who do you think
+they'll come for?
+
+1498
+01:12:07,327 --> 01:12:08,328
+You forget.
+
+1499
+01:12:08,412 --> 01:12:10,747
+The other lands blame us
+for what's happened.
+
+1500
+01:12:10,914 --> 01:12:13,458
+But we... We never meant
+for anyone to get hurt.
+
+1501
+01:12:13,667 --> 01:12:17,004
+Yes, but if we had the dragon
+
+1502
+01:12:17,171 --> 01:12:18,964
+and the gem pieces,
+
+1503
+01:12:19,131 --> 01:12:21,008
+we would be forgiven.
+
+1504
+01:12:21,175 --> 01:12:22,676
+We could save the world.
+
+1505
+01:12:22,843 --> 01:12:25,971
+But more importantly,
+our people would remain safe.
+
+1506
+01:12:26,138 --> 01:12:28,682
+But Raya isn't just gonna
+give Sisu to us.
+
+1507
+01:12:28,765 --> 01:12:29,766
+<font color="#ffff00">(SIGHS)</font>
+
+1508
+01:12:29,850 --> 01:12:31,768
+We're not going to give her
+a choice.
+
+1509
+01:12:32,603 --> 01:12:34,229
+What are you going to do?
+
+1510
+01:12:34,563 --> 01:12:36,690
+That's no longer
+your concern, my love.
+
+1511
+01:12:37,191 --> 01:12:38,525
+You've done enough.
+
+1512
+01:12:43,197 --> 01:12:44,281
+<font color="#ffff00">(SOFT TENSE MUSIC PLAYING)</font>
+
+1513
+01:12:49,912 --> 01:12:51,163
+If she refuses to help,
+
+1514
+01:12:51,330 --> 01:12:53,415
+we've just flushed
+our tactical advantage
+
+1515
+01:12:53,582 --> 01:12:55,459
+-into the dung pot.
+-I know.
+
+1516
+01:12:55,626 --> 01:12:57,503
+Yeah. She really has no reason
+to help us.
+
+1517
+01:12:57,586 --> 01:12:58,587
+I know!
+
+1518
+01:12:58,670 --> 01:12:59,880
+This jerky's terrible.
+
+1519
+01:12:59,963 --> 01:13:00,964
+I know!
+
+1520
+01:13:01,048 --> 01:13:03,217
+Are you sure
+those four miniature menaces
+
+1521
+01:13:03,300 --> 01:13:04,301
+will be successful?
+
+1522
+01:13:04,510 --> 01:13:06,887
+I don't know.
+
+1523
+01:13:07,721 --> 01:13:08,722
+<font color="#ffff00">(SUSPENSEFUL MUSIC PLAYING)</font>
+
+1524
+01:13:17,898 --> 01:13:19,942
+-Huh? <font color="#ffff00">(GRUNTS AND GROANS)</font>
+- <font color="#ffff00">(BODY THUDS)</font>
+
+1525
+01:13:20,025 --> 01:13:22,236
+<font color="#ffff00">(SUSPENSEFUL MUSIC CONTINUES)</font>
+
+1526
+01:13:26,698 --> 01:13:27,741
+Hmm?
+
+1527
+01:13:34,206 --> 01:13:35,207
+<font color="#ffff00">(GRUNTS)</font>
+
+1528
+01:13:38,001 --> 01:13:39,169
+<font color="#ffff00">(SUSPENSEFUL MUSIC CONTINUES)</font>
+
+1529
+01:13:45,759 --> 01:13:46,927
+<font color="#ffff00">(SUSPENSEFUL MUSIC RISING)</font>
+
+1530
+01:13:50,889 --> 01:13:51,932
+<font color="#ffff00">(CHITTERING)</font>
+
+1531
+01:13:54,101 --> 01:13:55,102
+Huh?
+
+1532
+01:14:06,655 --> 01:14:07,781
+<font color="#ffff00">(SOFT MUSIC PLAYING)</font>
+
+1533
+01:14:17,416 --> 01:14:19,751
+<font color="#ffff00">(SIGHS DEEPLY)</font>
+
+1534
+01:14:21,128 --> 01:14:22,337
+<font color="#ff8000">TONG:</font> There's too much spice.
+
+1535
+01:14:22,421 --> 01:14:24,047
+Uh, no.
+There's too much bamboo.
+
+1536
+01:14:24,214 --> 01:14:25,215
+<font color="#ff8000">TONG:</font> What do you know?
+
+1537
+01:14:25,299 --> 01:14:26,508
+You have the taste buds
+of a tall baby.
+
+1538
+01:14:26,675 --> 01:14:28,302
+Well, you dress like
+a tall baby.
+
+1539
+01:14:28,468 --> 01:14:29,970
+Give me the spoon!
+I'm taking over!
+
+1540
+01:14:30,137 --> 01:14:32,264
+Back off, tidal wave.
+I'm the professional here.
+
+1541
+01:14:32,431 --> 01:14:33,724
+May I?
+
+1542
+01:14:36,935 --> 01:14:37,936
+<font color="#ffff00">(SLURPS)</font>
+
+1543
+01:14:38,103 --> 01:14:39,104
+Whoa!
+
+1544
+01:14:39,188 --> 01:14:40,189
+That's good.
+
+1545
+01:14:40,314 --> 01:14:42,232
+<font color="#ff00ff">RAYA:</font> It's just a little
+something my ba showed me.
+
+1546
+01:14:42,316 --> 01:14:43,859
+Aw. Did he also show you
+
+1547
+01:14:43,942 --> 01:14:45,569
+how to make
+that delicious jerky?
+
+1548
+01:14:45,652 --> 01:14:47,821
+<font color="#ffff00">(CHUCKLES)</font>
+No, that was all me.
+
+1549
+01:14:48,363 --> 01:14:49,364
+<font color="#ffff00">(CHUCKLES)</font>
+
+1550
+01:14:50,949 --> 01:14:53,160
+It'll be nice to share a meal
+with him again.
+
+1551
+01:14:53,368 --> 01:14:54,578
+<font color="#ff8000">BOUN:</font> I know what you mean.
+
+1552
+01:14:55,287 --> 01:14:57,206
+I have this really
+obnoxious sister
+
+1553
+01:14:57,289 --> 01:14:58,874
+who always tousles my hair.
+
+1554
+01:14:59,166 --> 01:15:00,167
+<font color="#ffff00">(CHUCKLES SOFTLY)</font>
+
+1555
+01:15:00,250 --> 01:15:02,002
+I can't wait to see her
+the most.
+
+1556
+01:15:02,169 --> 01:15:03,712
+After we win the day,
+
+1557
+01:15:03,879 --> 01:15:06,256
+I look forward
+to filling my eyeball
+
+1558
+01:15:06,423 --> 01:15:11,678
+with the joytastic image
+of my village full again.
+
+1559
+01:15:12,012 --> 01:15:13,180
+<font color="#ffff00">(CON-BABY MUMBLING)</font>
+
+1560
+01:15:13,555 --> 01:15:17,434
+And you will be reunited
+with your family, Noi.
+
+1561
+01:15:17,809 --> 01:15:19,811
+Uh, what did you
+just call her?
+
+1562
+01:15:19,978 --> 01:15:21,313
+Noi. It's her name.
+
+1563
+01:15:21,396 --> 01:15:22,397
+<font color="#ffff00">(BURPS)</font>
+
+1564
+01:15:22,481 --> 01:15:23,982
+It's written on her collar.
+
+1565
+01:15:24,149 --> 01:15:26,068
+Have none of you ever checked?
+
+1566
+01:15:26,276 --> 01:15:28,487
+And they think of me
+as the ruffian.
+
+1567
+01:15:29,279 --> 01:15:30,447
+<font color="#ffff00">(FLARE WHISTLING)</font>
+
+1568
+01:15:33,033 --> 01:15:34,034
+What's that mean?
+
+1569
+01:15:34,159 --> 01:15:35,160
+It means we're on.
+
+1570
+01:15:35,244 --> 01:15:36,245
+<font color="#ffff00">(TENSE MUSIC PLAYING)</font>
+
+1571
+01:15:36,328 --> 01:15:37,329
+Sisu,
+
+1572
+01:15:37,496 --> 01:15:38,705
+until we get that gem
+
+1573
+01:15:38,789 --> 01:15:41,250
+and confirm Namaari's actually
+on our side,
+
+1574
+01:15:41,500 --> 01:15:43,544
+promise me you'll stay hidden.
+
+1575
+01:15:46,630 --> 01:15:47,798
+<font color="#ffff00">(TENSE MUSIC CONTINUES)</font>
+
+1576
+01:15:56,598 --> 01:15:57,599
+<font color="#ffff00">(SOFT MUSIC PLAYING)</font>
+
+1577
+01:15:58,267 --> 01:16:00,143
+I see you got my gift.
+
+1578
+01:16:01,228 --> 01:16:03,313
+I never thought
+I'd see this again.
+
+1579
+01:16:03,480 --> 01:16:04,982
+Well, uh...
+
+1580
+01:16:05,148 --> 01:16:06,900
+I tried to take
+good care of it.
+
+1581
+01:16:09,361 --> 01:16:12,197
+You're not the only
+dragon nerd here.
+
+1582
+01:16:13,031 --> 01:16:14,032
+<font color="#ffff00">(CHUCKLES)</font>
+
+1583
+01:16:16,994 --> 01:16:17,995
+<font color="#ffff00">(SOFT TRIUMPHANT MUSIC
+PLAYING)</font>
+
+1584
+01:16:27,379 --> 01:16:28,463
+<font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+1585
+01:16:31,049 --> 01:16:32,050
+<font color="#ffff00">(BREATHES NERVOUSLY)</font>
+
+1586
+01:16:33,218 --> 01:16:34,428
+The final piece.
+
+1587
+01:16:34,595 --> 01:16:36,513
+Time to bring everyone back.
+
+1588
+01:16:36,597 --> 01:16:37,598
+<font color="#ffff00">(WEAPON CREAKS)</font>
+
+1589
+01:16:37,681 --> 01:16:38,682
+<font color="#ffff00">(INTENSE MUSIC PLAYING)</font>
+
+1590
+01:16:42,394 --> 01:16:44,938
+Sisu and the gem pieces
+are coming with me.
+
+1591
+01:16:45,314 --> 01:16:46,773
+-Sisu!
+-Stay back!
+
+1592
+01:16:46,940 --> 01:16:49,484
+It was foolish
+to trust someone from Fang!
+
+1593
+01:16:49,651 --> 01:16:50,986
+Don't come any closer!
+
+1594
+01:16:51,153 --> 01:16:52,154
+Namaari,
+
+1595
+01:16:52,446 --> 01:16:54,531
+it doesn't have to be
+like this.
+
+1596
+01:16:54,698 --> 01:16:57,284
+I don't have any other choice.
+
+1597
+01:16:57,951 --> 01:17:01,079
+Hey. I got this.
+
+1598
+01:17:07,377 --> 01:17:08,378
+<font color="#ffff00">(SOFT MUSIC PLAYING)</font>
+
+1599
+01:17:08,462 --> 01:17:09,463
+<font color="#ffff00">(NAMAARI BREATHING HEAVILY)</font>
+
+1600
+01:17:09,546 --> 01:17:11,465
+I know you don't wanna
+hurt anybody.
+
+1601
+01:17:11,632 --> 01:17:12,966
+What are you doing?
+
+1602
+01:17:13,425 --> 01:17:15,135
+You just want a better world.
+
+1603
+01:17:15,302 --> 01:17:17,179
+Like we all do.
+
+1604
+01:17:17,971 --> 01:17:19,223
+Sisu...
+
+1605
+01:17:20,849 --> 01:17:22,559
+I trust you, Namaari.
+
+1606
+01:17:22,643 --> 01:17:24,019
+<font color="#ffff00">(SUSPENSEFUL MUSIC RISING)</font>
+
+1607
+01:17:26,438 --> 01:17:27,439
+<font color="#ffff00">(RAYA GRUNTS)</font>
+
+1608
+01:17:27,523 --> 01:17:28,524
+<font color="#ffff00">(NAMAARI EXCLAIMS)</font>
+
+1609
+01:17:37,824 --> 01:17:39,076
+<font color="#ffff00">(EXCLAIMS)</font> No!
+
+1610
+01:17:40,285 --> 01:17:41,286
+<font color="#ffff00">(TENSE MUSIC PLAYING)</font>
+
+1611
+01:17:42,579 --> 01:17:43,580
+Sisu!
+
+1612
+01:17:43,664 --> 01:17:44,665
+<font color="#ffff00">(SPLASHES)</font>
+
+1613
+01:17:49,127 --> 01:17:51,296
+No... <font color="#ffff00">(BREATHING HEAVILY)</font>
+
+1614
+01:17:53,298 --> 01:17:54,341
+<font color="#ffff00">(BREATHING HEAVILY)</font>
+
+1615
+01:18:00,556 --> 01:18:01,640
+<font color="#ffff00">(TENSE MUSIC RISING)</font>
+
+1616
+01:18:06,562 --> 01:18:08,355
+What's happening?
+
+1617
+01:18:08,939 --> 01:18:10,315
+I don't know.
+
+1618
+01:18:11,066 --> 01:18:13,318
+It appears that
+with the last dragon gone,
+
+1619
+01:18:13,402 --> 01:18:14,987
+so too goes the water.
+
+1620
+01:18:16,029 --> 01:18:18,740
+Now there is nothing
+to stop the Druun.
+
+1621
+01:18:18,824 --> 01:18:19,825
+<font color="#ffff00">(OMINOUS MUSIC PLAYING)</font>
+
+1622
+01:18:19,908 --> 01:18:21,243
+Nothing.
+
+1623
+01:18:23,662 --> 01:18:24,788
+<font color="#ffff00">(DRUUN SCREECHING)</font>
+
+1624
+01:18:28,000 --> 01:18:29,084
+<font color="#ffff00">(VIRANA GASPS)</font>
+
+1625
+01:18:30,210 --> 01:18:31,211
+<font color="#ffff00">(BREATHING HEAVILY)</font>
+
+1626
+01:18:32,588 --> 01:18:33,589
+Raya?
+
+1627
+01:18:34,590 --> 01:18:35,841
+Where's Raya?
+
+1628
+01:18:40,345 --> 01:18:42,347
+<font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+1629
+01:18:46,185 --> 01:18:47,269
+<font color="#ffff00">(QUAKES)</font>
+
+1630
+01:18:48,604 --> 01:18:50,606
+<font color="#ffff00">(PEOPLE EXCLAIMING)</font>
+
+1631
+01:18:51,899 --> 01:18:52,900
+<font color="#ffff00">(LOUD RUMBLING)</font>
+
+1632
+01:18:57,988 --> 01:18:59,990
+<font color="#ffff00">(DRUUN SCREECHING)</font>
+
+1633
+01:19:05,996 --> 01:19:06,997
+<font color="#ffff00">(QUAKES)</font>
+
+1634
+01:19:11,001 --> 01:19:12,336
+Namaari!
+
+1635
+01:19:13,462 --> 01:19:15,547
+Let's finish this, binturi.
+
+1636
+01:19:16,006 --> 01:19:17,049
+<font color="#ffff00">(INTENSE MUSIC PLAYING)</font>
+
+1637
+01:19:19,510 --> 01:19:21,261
+<font color="#ffff00">(QUAKING)</font>
+
+1638
+01:19:26,058 --> 01:19:27,059
+<font color="#ffff00">(BOTH GRUNTING)</font>
+
+1639
+01:19:27,809 --> 01:19:28,894
+<font color="#ffff00">(GRUNTING)</font>
+
+1640
+01:19:31,438 --> 01:19:32,439
+<font color="#ffff00">(BOTH GRUNT)</font>
+
+1641
+01:19:32,523 --> 01:19:33,982
+- <font color="#ffff00">(RUMBLING)</font>
+- <font color="#ffff00">(CROWD EXCLAIMING)</font>
+
+1642
+01:19:36,652 --> 01:19:37,653
+- <font color="#ffff00">(DRUUN SCREECHING)</font>
+- <font color="#ffff00">(GASPS)</font>
+
+1643
+01:19:38,987 --> 01:19:39,988
+<font color="#ffff00">(GRUNTS)</font>
+
+1644
+01:19:40,989 --> 01:19:43,367
+- <font color="#ffff00">(RAYA AND NAMAARI GRUNTING)</font>
+- <font color="#ff8000">BOUN:</font> Raya!
+
+1645
+01:19:43,450 --> 01:19:44,952
+<font color="#ffff00">(BOTH GRUNTING)</font>
+
+1646
+01:19:50,249 --> 01:19:51,708
+<font color="#ff8000">TONG:</font> She cannot see us.
+
+1647
+01:19:52,125 --> 01:19:54,711
+Raya's blinded
+by her own rage.
+
+1648
+01:19:56,088 --> 01:19:58,173
+<font color="#ffff00">(GASPS)</font>
+The gem's powers are fading!
+
+1649
+01:19:58,257 --> 01:19:59,424
+<font color="#ffff00">(DRUUN SCREECHING)</font>
+
+1650
+01:20:00,300 --> 01:20:01,760
+All these people
+are Druun food
+
+1651
+01:20:01,844 --> 01:20:02,970
+if we don't get them out.
+
+1652
+01:20:03,053 --> 01:20:04,054
+<font color="#ffff00">(TONG GRUNTS AFFIRMATIVELY)</font>
+
+1653
+01:20:06,390 --> 01:20:09,393
+Come on!
+Trust me, it's gonna be okay.
+
+1654
+01:20:10,686 --> 01:20:12,813
+Stupid Druun! Out of my way!
+
+1655
+01:20:12,980 --> 01:20:14,231
+Go, go, go!
+
+1656
+01:20:14,314 --> 01:20:15,399
+<font color="#ffff00">(WHIMPERING)</font>
+
+1657
+01:20:15,524 --> 01:20:17,484
+Up we go! Yep!
+
+1658
+01:20:19,236 --> 01:20:20,237
+<font color="#ffff00">(DRUUN SCREECHING)</font>
+
+1659
+01:20:20,320 --> 01:20:21,321
+<font color="#ffff00">(ONGIS CHITTERING)</font>
+
+1660
+01:20:23,448 --> 01:20:24,449
+<font color="#ffff00">(EXCLAIMS)</font>
+
+1661
+01:20:26,660 --> 01:20:27,661
+<font color="#ffff00">(SPEAKING GIBBERISH)</font>
+
+1662
+01:20:27,744 --> 01:20:29,079
+<font color="#ff8000">MAN:</font> Go, go! Hurry!
+
+1663
+01:20:29,413 --> 01:20:32,249
+<font color="#ff8000">BOUN:</font> Get to the water!
+Keep going! Keep going!
+
+1664
+01:20:33,417 --> 01:20:34,418
+<font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+1665
+01:20:36,086 --> 01:20:38,088
+<font color="#ff8000">BOUN:</font> Come on! Come on!
+
+1666
+01:20:38,422 --> 01:20:39,423
+<font color="#ffff00">(CRASHING)</font>
+
+1667
+01:20:39,506 --> 01:20:40,507
+<font color="#ffff00">(RAYA AND NAMAARI GRUNTING)</font>
+
+1668
+01:20:40,591 --> 01:20:42,467
+- <font color="#ffff00">(WEAPONS CLASHING)</font>
+- <font color="#ffff00">(BOTH GRUNTING)</font>
+
+1669
+01:20:42,551 --> 01:20:43,594
+<font color="#ffff00">(EXCLAIMS)</font>
+
+1670
+01:20:44,219 --> 01:20:45,304
+<font color="#ffff00">(GRUNTING)</font>
+
+1671
+01:20:46,805 --> 01:20:48,098
+- <font color="#ffff00">(GRUNTS PAINFULLY)</font>
+- <font color="#ffff00">(GRUNTS)</font>
+
+1672
+01:20:49,224 --> 01:20:50,809
+<font color="#ffff00">(BOTH GRUNTING)</font>
+
+1673
+01:20:58,567 --> 01:20:59,568
+<font color="#ffff00">(GRUNTS LOUDLY)</font>
+
+1674
+01:21:00,986 --> 01:21:02,112
+<font color="#ffff00">(COUGHING)</font>
+
+1675
+01:21:03,655 --> 01:21:05,657
+- <font color="#ffff00">(BOTH GRUNTING)</font>
+- <font color="#ffff00">(WEAPONS CLASHING)</font>
+
+1676
+01:21:13,123 --> 01:21:14,333
+<font color="#ffff00">(DRAMATIC MUSIC CONTINUES)</font>
+
+1677
+01:21:15,542 --> 01:21:17,044
+<font color="#ffff00">(BOTH CONTINUE GRUNTING)</font>
+
+1678
+01:21:19,338 --> 01:21:20,339
+<font color="#ffff00">(GRUNTS PAINFULLY)</font>
+
+1679
+01:21:20,422 --> 01:21:21,423
+<font color="#ffff00">(CLATTERS)</font>
+
+1680
+01:21:22,633 --> 01:21:24,218
+<font color="#ffff00">(BREATHING HEAVILY)</font>
+
+1681
+01:21:24,301 --> 01:21:26,220
+I never meant
+for any of this to happen.
+
+1682
+01:21:26,386 --> 01:21:27,596
+<font color="#ffff00">(YELLS)</font> Liar!
+
+1683
+01:21:27,679 --> 01:21:28,972
+<font color="#ffff00">(CRYING)</font>
+
+1684
+01:21:29,056 --> 01:21:31,099
+I don't care
+if you believe me.
+
+1685
+01:21:31,892 --> 01:21:32,935
+Sisu did.
+
+1686
+01:21:33,018 --> 01:21:34,394
+<font color="#ffff00">(BREATHING HEAVILY)</font>
+
+1687
+01:21:34,478 --> 01:21:35,979
+<font color="#ff00ff">NAMAARI:</font>
+But you didn't trust her.
+
+1688
+01:21:37,564 --> 01:21:39,149
+That's why we're here.
+
+1689
+01:21:40,275 --> 01:21:41,818
+Do whatever you want.
+
+1690
+01:21:42,486 --> 01:21:45,614
+But you're as much to blame
+for Sisu's death as I am.
+
+1691
+01:21:51,954 --> 01:21:53,288
+<font color="#ffff00">(SOFT DRAMATIC MUSIC PLAYING)</font>
+
+1692
+01:21:55,207 --> 01:21:56,583
+<font color="#ff8000">BOUN:</font> Tong, there's still
+people back there!
+
+1693
+01:21:56,750 --> 01:21:58,293
+Hurry!
+We're running out of time!
+
+1694
+01:21:58,377 --> 01:21:59,419
+<font color="#ff8000">TONG:</font> Got it!
+
+1695
+01:21:59,503 --> 01:22:01,755
+Everyone, out! Come with me!
+
+1696
+01:22:01,880 --> 01:22:04,132
+<font color="#ffff00">(PEOPLE EXCLAIMING)</font>
+
+1697
+01:22:05,008 --> 01:22:06,593
+<font color="#ffff00">(CRYING)</font>
+
+1698
+01:22:12,724 --> 01:22:14,768
+- <font color="#ffff00">(DRUUN SCREECHING)</font>
+- <font color="#ffff00">(BOUN GRUNTING)</font>
+
+1699
+01:22:15,561 --> 01:22:16,562
+<font color="#ffff00">(RAYA GRUNTING)</font>
+
+1700
+01:22:17,855 --> 01:22:19,189
+<font color="#ffff00">(BOTH GRUNTING)</font>
+
+1701
+01:22:23,569 --> 01:22:24,695
+<font color="#ffff00">(TONG EXCLAIMS)</font>
+
+1702
+01:22:25,404 --> 01:22:26,405
+<font color="#ffff00">(LITTLE NOI
+SPEAKING GIBBERISH)</font>
+
+1703
+01:22:26,488 --> 01:22:27,489
+<font color="#ffff00">(EXCLAIMS)</font>
+
+1704
+01:22:30,701 --> 01:22:31,702
+<font color="#ffff00">(CHITTERING)</font>
+
+1705
+01:22:33,453 --> 01:22:35,163
+<font color="#ffff00">(TUK TUK EXCLAIMS)</font>
+
+1706
+01:22:35,247 --> 01:22:36,498
+<font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+1707
+01:22:36,582 --> 01:22:38,083
+<font color="#ff00ff">RAYA:</font> Okay, Tuk,
+these are the last of 'em.
+
+1708
+01:22:38,250 --> 01:22:39,960
+Go! We're right behind you.
+
+1709
+01:22:40,043 --> 01:22:41,378
+<font color="#ffff00">(DRUUN SCREECHING)</font>
+
+1710
+01:22:41,461 --> 01:22:42,462
+Tuk Tuk!
+
+1711
+01:22:42,546 --> 01:22:43,547
+<font color="#ffff00">(TUK TUK EXCLAIMS)</font>
+
+1712
+01:22:43,630 --> 01:22:45,507
+- <font color="#ffff00">(NAMAARI GRUNTING)</font>
+- <font color="#ffff00">(DRUUN SCREECH)</font>
+
+1713
+01:22:45,591 --> 01:22:47,050
+What are you waiting for? Go!
+
+1714
+01:22:47,134 --> 01:22:48,260
+<font color="#ffff00">(TUK TUK EXCLAIMS)</font>
+
+1715
+01:22:51,305 --> 01:22:52,723
+- <font color="#ffff00">(RUMBLING)</font>
+- <font color="#ffff00">(GRUNTS)</font>
+
+1716
+01:22:54,766 --> 01:22:56,018
+- <font color="#ffff00">(NAMAARI GRUNTS)</font>
+- <font color="#ff8000">BOUN:</font> <font color="#ffff00">(YELLS)</font> Raya!
+
+1717
+01:22:57,186 --> 01:22:59,730
+It's the one who slayed Sisu!
+
+1718
+01:23:00,480 --> 01:23:02,024
+<font color="#ffff00">(ALL EXCLAIMING)</font>
+
+1719
+01:23:06,403 --> 01:23:07,654
+<font color="#ffff00">(RAYA BREATHING HEAVILY)</font>
+
+1720
+01:23:11,742 --> 01:23:14,161
+<font color="#ff8000">BOUN:</font> Raya! Raya!
+
+1721
+01:23:14,328 --> 01:23:16,205
+The gem's magic,
+it's almost gone!
+
+1722
+01:23:16,371 --> 01:23:18,040
+<font color="#ff8000">TONG:</font> They aren't backing off!
+
+1723
+01:23:18,207 --> 01:23:19,750
+<font color="#ff8000">BOUN:</font> They're everywhere!
+
+1724
+01:23:20,542 --> 01:23:21,543
+<font color="#ffff00">(RAYA GRUNTS)</font>
+
+1725
+01:23:22,920 --> 01:23:24,046
+<font color="#ffff00">(DRUUN SCREECHING)</font>
+
+1726
+01:23:24,922 --> 01:23:26,089
+<font color="#ffff00">(GRUNTING)</font>
+
+1727
+01:23:27,299 --> 01:23:28,675
+<font color="#ffff00">(EXCLAIMS AND GRUNTS)</font>
+
+1728
+01:23:28,759 --> 01:23:30,219
+<font color="#ffff00">(CHITTERING)</font>
+
+1729
+01:23:30,969 --> 01:23:32,012
+<font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+1730
+01:23:32,095 --> 01:23:34,014
+<font color="#ffff00">(GRUNTING)</font>
+
+1731
+01:23:40,187 --> 01:23:41,563
+<font color="#ffff00">(SENTIMENTAL MUSIC PLAYING)</font>
+
+1732
+01:23:44,274 --> 01:23:46,276
+<font color="#ff00ff">SISU:</font> I don't know why
+they chose me.
+
+1733
+01:23:47,694 --> 01:23:49,238
+It could have been any of us.
+
+1734
+01:23:50,322 --> 01:23:53,116
+All I know is I trusted them,
+
+1735
+01:23:53,659 --> 01:23:55,452
+and they trusted me.
+
+1736
+01:23:56,286 --> 01:23:57,746
+And so...
+
+1737
+01:24:00,624 --> 01:24:02,251
+Everyone, give me your gems.
+
+1738
+01:24:02,376 --> 01:24:04,711
+We can still put it together.
+It can still work.
+
+1739
+01:24:04,795 --> 01:24:07,422
+Sisu's gone, Raya!
+We don't have her magic!
+
+1740
+01:24:07,506 --> 01:24:10,384
+It's not about her magic.
+It's about trust.
+
+1741
+01:24:10,467 --> 01:24:11,510
+What?
+
+1742
+01:24:11,593 --> 01:24:14,346
+That's why it worked.
+That's why we can do it, too.
+
+1743
+01:24:14,513 --> 01:24:17,474
+By doing the one thing
+Sisu wanted us to do.
+
+1744
+01:24:17,641 --> 01:24:19,685
+What my ba wanted us to do.
+
+1745
+01:24:19,852 --> 01:24:22,729
+To finally trust each other
+and fix this.
+
+1746
+01:24:23,897 --> 01:24:26,400
+But we have to come together.
+
+1747
+01:24:26,567 --> 01:24:27,734
+Please.
+
+1748
+01:24:27,901 --> 01:24:29,695
+After what she's done?
+
+1749
+01:24:29,778 --> 01:24:31,238
+We'll never trust her!
+
+1750
+01:24:31,321 --> 01:24:33,323
+<font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+1751
+01:24:37,035 --> 01:24:38,745
+Then let me take
+the first step.
+
+1752
+01:24:50,048 --> 01:24:51,175
+Raya! No!
+
+1753
+01:24:52,676 --> 01:24:54,052
+<font color="#ffff00">(DRUUN RUMBLING)</font>
+
+1754
+01:25:18,869 --> 01:25:20,078
+<font color="#ffff00">(CRACKLING)</font>
+
+1755
+01:25:23,332 --> 01:25:24,958
+<font color="#ffff00">(SPEAKING GIBBERISH)</font>
+
+1756
+01:25:32,799 --> 01:25:34,092
+<font color="#ffff00">(DRAMATIC MUSIC PLAYING)</font>
+
+1757
+01:25:49,775 --> 01:25:51,235
+<font color="#ffff00">(RUMBLING)</font>
+
+1758
+01:25:54,655 --> 01:25:55,989
+- <font color="#ffff00">(DRUUN SCREECHING)</font>
+- <font color="#ffff00">(NAMAARI EXCLAIMS)</font>
+
+1759
+01:25:56,949 --> 01:25:58,116
+<font color="#ffff00">(GRUNTS)</font>
+
+1760
+01:26:05,165 --> 01:26:06,333
+<font color="#ffff00">(GRUNTS AND BREATHES HEAVILY)</font>
+
+1761
+01:26:08,794 --> 01:26:09,878
+<font color="#ffff00">(DRAMATIC MUSIC CONTINUES)</font>
+
+1762
+01:26:17,594 --> 01:26:18,595
+<font color="#ffff00">(GRUNTING)</font>
+
+1763
+01:26:20,013 --> 01:26:21,098
+<font color="#ffff00">(BREATHING RAPIDLY)</font>
+
+1764
+01:26:36,530 --> 01:26:37,823
+<font color="#ffff00">(CRACKLING)</font>
+
+1765
+01:26:39,700 --> 01:26:40,868
+<font color="#ffff00">(GEM HUMMING SOFTLY)</font>
+
+1766
+01:26:47,291 --> 01:26:48,709
+<font color="#ffff00">(WIND BLOWING SOFTLY)</font>
+
+1767
+01:27:03,432 --> 01:27:04,600
+<font color="#ffff00">(HUMS)</font>
+
+1768
+01:27:07,227 --> 01:27:08,520
+<font color="#ffff00">(FLARING)</font>
+
+1769
+01:27:12,441 --> 01:27:13,525
+<font color="#ffff00">(DRUUN SCREECHING)</font>
+
+1770
+01:27:15,903 --> 01:27:17,905
+<font color="#ffff00">(HOPEFUL MUSIC PLAYING)</font>
+
+1771
+01:27:30,459 --> 01:27:31,793
+<font color="#ffff00">(LOUD RUMBLING)</font>
+
+1772
+01:27:39,384 --> 01:27:40,594
+<font color="#ffff00">(WATER TRICKLING)</font>
+
+1773
+01:27:42,012 --> 01:27:43,263
+<font color="#ffff00">(RAIN PATTERING)</font>
+
+1774
+01:27:44,306 --> 01:27:46,308
+<font color="#ffff00">(HOPEFUL MUSIC CONTINUES)</font>
+
+1775
+01:27:55,442 --> 01:27:56,652
+<font color="#ffff00">(GASPS)</font>
+
+1776
+01:27:56,735 --> 01:27:57,736
+<font color="#ffff00">(BREATHING HEAVILY)</font>
+
+1777
+01:28:01,114 --> 01:28:02,115
+<font color="#ffff00">(GASPS)</font>
+
+1778
+01:28:06,286 --> 01:28:07,287
+<font color="#ffff00">(SIGHS)</font>
+
+1779
+01:28:07,371 --> 01:28:08,914
+<font color="#ffff00">(SNIFFLES AND CRIES)</font>
+
+1780
+01:28:12,042 --> 01:28:14,545
+<font color="#ffff00">(CHUCKLES)</font> It worked! It worked!
+
+1781
+01:28:14,628 --> 01:28:15,629
+<font color="#ffff00">(EXCLAIMS)</font>
+
+1782
+01:28:15,712 --> 01:28:17,464
+<font color="#ffff00">(ALL LAUGHING)</font>
+
+1783
+01:28:23,929 --> 01:28:24,930
+<font color="#ffff00">(JOYFUL MUSIC PLAYING)</font>
+
+1784
+01:28:25,889 --> 01:28:27,224
+<font color="#ffff00">(WATER RUSHING)</font>
+
+1785
+01:28:42,447 --> 01:28:43,574
+<font color="#ffff00">(WATER RUSHING)</font>
+
+1786
+01:29:00,215 --> 01:29:02,509
+- <font color="#ff00ff">RAYA:</font> Tuk Tuk!
+- <font color="#ffff00">(EXCLAIMS)</font>
+
+1787
+01:29:03,135 --> 01:29:04,219
+Oh! <font color="#ffff00">(LAUGHING)</font>
+
+1788
+01:29:13,687 --> 01:29:15,189
+<font color="#ffff00">(TRIUMPHANT MUSIC RISING)</font>
+
+1789
+01:29:25,115 --> 01:29:26,575
+<font color="#ffff00">(MUSIC SWELLING)</font>
+
+1790
+01:29:58,857 --> 01:30:00,275
+<font color="#ffff00">(ENTHRALLING MUSIC PLAYING)</font>
+
+1791
+01:30:07,824 --> 01:30:08,825
+<font color="#ffff00">(GASPS SOFTLY)</font>
+
+1792
+01:30:12,538 --> 01:30:13,830
+<font color="#ffff00">(GASPS)</font>
+
+1793
+01:30:15,040 --> 01:30:16,041
+<font color="#ffff00">(GASPS)</font>
+
+1794
+01:30:17,668 --> 01:30:19,044
+<font color="#ffff00">(TRIUMPHANT MUSIC PLAYING)</font>
+
+1795
+01:30:21,880 --> 01:30:23,423
+Pranee! Amba!
+
+1796
+01:30:23,632 --> 01:30:24,633
+Jagan!
+
+1797
+01:30:24,842 --> 01:30:26,468
+Pengu!
+
+1798
+01:30:26,552 --> 01:30:28,929
+<font color="#ffff00">(LAUGHING)</font> Yeah!
+
+1799
+01:30:29,012 --> 01:30:30,013
+<font color="#ffff00">(LAUGHING)</font>
+
+1800
+01:30:32,266 --> 01:30:33,392
+<font color="#ffff00">(TRIUMPHANT MUSIC CONTINUES)</font>
+
+1801
+01:30:44,403 --> 01:30:45,529
+<font color="#ffff00">(MUSIC SWELLING)</font>
+
+1802
+01:30:55,581 --> 01:30:57,374
+- <font color="#ffff00">(SPLASHES)</font>
+- <font color="#ffff00">(LAUGHING)</font>
+
+1803
+01:31:00,252 --> 01:31:01,253
+Raya.
+
+1804
+01:31:02,462 --> 01:31:03,630
+Sisu.
+
+1805
+01:31:04,464 --> 01:31:07,885
+I am so hungry.
+
+1806
+01:31:08,510 --> 01:31:09,887
+I got some jerky.
+
+1807
+01:31:10,429 --> 01:31:11,638
+Not that hungry.
+
+1808
+01:31:12,431 --> 01:31:13,640
+<font color="#ffff00">(LAUGHING)</font>
+
+1809
+01:31:14,266 --> 01:31:15,767
+<font color="#ffff00">(SOFT MUSIC PLAYING)</font>
+
+1810
+01:31:20,898 --> 01:31:22,524
+<font color="#ffff00">(EXCLAIMS)</font> Sisu!
+
+1811
+01:31:22,608 --> 01:31:26,862
+Aw, it's good to breathe in
+your glorious dragon stench again.
+
+1812
+01:31:26,945 --> 01:31:28,572
+Okay, I take that
+as a compliment.
+
+1813
+01:31:28,655 --> 01:31:30,032
+<font color="#ffff00">(COOING AND LAUGHING)</font>
+
+1814
+01:31:35,204 --> 01:31:36,205
+<font color="#ffff00">(BREATHES DEEPLY)</font>
+
+1815
+01:31:40,918 --> 01:31:41,960
+<font color="#ffff00">(CRYING)</font>
+
+1816
+01:31:44,213 --> 01:31:45,339
+<font color="#ffff00">(SOFT SENTIMENTAL MUSIC
+PLAYING)</font>
+
+1817
+01:31:55,140 --> 01:31:56,266
+<font color="#ffff00">(SOFT UPBEAT MUSIC PLAYING)</font>
+
+1818
+01:32:04,608 --> 01:32:05,776
+<font color="#ffff00">(BABY COOING)</font>
+
+1819
+01:32:06,818 --> 01:32:08,028
+<font color="#ffff00">(WOMAN EXCLAIMS)</font>
+
+1820
+01:32:12,449 --> 01:32:13,534
+<font color="#ffff00">(LITTLE NOI
+SPEAKING GIBBERISH)</font>
+
+1821
+01:32:17,120 --> 01:32:18,121
+<font color="#ffff00">(GASPS)</font>
+
+1822
+01:32:18,830 --> 01:32:19,957
+Momma!
+
+1823
+01:32:20,040 --> 01:32:21,542
+<font color="#ff00ff">LITTLE NOI'S MOTHER:</font> My baby!
+<font color="#ffff00">(LAUGHING AND CRYING)</font>
+
+1824
+01:32:25,003 --> 01:32:26,171
+<font color="#ff00ff">BOUN'S SISTER:</font>
+Mom, look, it's Boun!
+
+1825
+01:32:26,255 --> 01:32:27,798
+<font color="#ffff00">(ALL EXCLAIMING)</font>
+
+1826
+01:32:28,298 --> 01:32:29,424
+<font color="#ff8000">BOUN'S BROTHER:</font> It's Boun!
+
+1827
+01:32:35,055 --> 01:32:37,099
+<font color="#ffff00">(SOFT MUSIC PLAYING)</font>
+
+1828
+01:32:55,951 --> 01:32:57,035
+<font color="#ffff00">(TUK TUK RATTLING SOFTLY)</font>
+
+1829
+01:33:07,171 --> 01:33:08,839
+<font color="#ffff00">(SOFT MUSIC CONTINUES)</font>
+
+1830
+01:33:08,922 --> 01:33:10,132
+<font color="#ff00ff">RAYA:</font> Ba?
+
+1831
+01:33:12,259 --> 01:33:13,343
+<font color="#ffff00">(CHUCKLES SOFTLY)</font>
+
+1832
+01:33:14,595 --> 01:33:16,263
+Dewdrop?
+
+1833
+01:33:16,638 --> 01:33:17,723
+<font color="#ffff00">(CLATTERS)</font>
+
+1834
+01:33:19,057 --> 01:33:20,058
+<font color="#ffff00">(CRIES)</font> Ba!
+
+1835
+01:33:22,811 --> 01:33:23,896
+<font color="#ffff00">(CRYING)</font>
+
+1836
+01:33:37,284 --> 01:33:38,744
+Is that really her?
+
+1837
+01:33:42,706 --> 01:33:46,502
+Chief Benja,
+your daughter did you proud.
+
+1838
+01:33:47,294 --> 01:33:50,255
+Hope you don't mind,
+she brought some friends.
+
+1839
+01:33:54,134 --> 01:33:55,219
+<font color="#ffff00">(SOFT MUSIC CONTINUES)</font>
+
+1840
+01:34:07,648 --> 01:34:08,732
+<font color="#ffff00">(GIGGLING)</font>
+
+1841
+01:34:18,909 --> 01:34:20,536
+Ba? <font color="#ffff00">(CHUCKLES)</font>
+
+1842
+01:34:21,203 --> 01:34:23,956
+Welcome to Kumandra.
+
+1843
+01:34:26,458 --> 01:34:28,460
+<font color="#ffff00">(MUSIC RISING)</font>
+
+1844
+01:34:28,794 --> 01:34:29,878
+<font color="#ffff00">(LAUGHS)</font>
+
+1845
+01:34:32,881 --> 01:34:35,175
+<font color="#ffff00">(LITTLE NOI LAUGHING
+AND SPEAKING GIBBERISH)</font>
+
+1846
+01:34:36,510 --> 01:34:37,803
+<font color="#ffff00">(MUSIC CONTINUES RISING)</font>
+
+1847
+01:34:45,394 --> 01:34:46,520
+<font color="#ffff00">(MUSIC SWELLING)</font>
+
+1848
+01:34:58,282 --> 01:35:00,284
+<font color="#ffff00">(MUSIC FLOURISHES TO AN END)</font>
+
+1849
+01:35:04,788 --> 01:35:06,790
+<font color="#ffff00">(MUSIC PLAYING)</font>
+
+1850
+01:35:17,176 --> 01:35:19,011
+<font color="#00ffff">♪</font> <i>We have a choice</i> <font color="#00ffff">♪</font>
+
+1851
+01:35:19,094 --> 01:35:21,346
+<font color="#00ffff">♪</font> <i>To build or destroy</i> <font color="#00ffff">♪</font>
+
+1852
+01:35:21,430 --> 01:35:26,185
+<font color="#00ffff">♪</font> <i>To fight or to come together</i> <font color="#00ffff">♪</font>
+
+1853
+01:35:26,685 --> 01:35:28,478
+<font color="#00ffff">♪</font> <i>Love is a bridge</i> <font color="#00ffff">♪</font>
+
+1854
+01:35:28,562 --> 01:35:30,898
+<font color="#00ffff">♪</font> <i>And trust is a gift</i> <font color="#00ffff">♪</font>
+
+1855
+01:35:30,981 --> 01:35:36,195
+<font color="#00ffff">♪</font> <i>We give it <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> And it gets better</i> <font color="#00ffff">♪</font>
+
+1856
+01:35:36,278 --> 01:35:38,655
+<font color="#00ffff">♪</font> <i>There's an energy <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> in the water</i> <font color="#00ffff">♪</font>
+
+1857
+01:35:38,739 --> 01:35:41,033
+<font color="#00ffff">♪</font> <i>There is magic <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> deep in our heart</i> <font color="#00ffff">♪</font>
+
+1858
+01:35:41,116 --> 01:35:43,285
+<font color="#00ffff">♪</font> <i>There's a legacy <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> that we honor</i> <font color="#00ffff">♪</font>
+
+1859
+01:35:43,368 --> 01:35:45,621
+<font color="#00ffff">♪</font> <i>When we bring <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> the light to the dark</i> <font color="#00ffff">♪</font>
+
+1860
+01:35:45,704 --> 01:35:48,248
+<font color="#00ffff">♪</font> <i>Whatever brings us together</i> <font color="#00ffff">♪</font>
+
+1861
+01:35:48,332 --> 01:35:50,626
+<font color="#00ffff">♪</font> <i>Can never tear us apart</i> <font color="#00ffff">♪</font>
+
+1862
+01:35:50,709 --> 01:35:53,086
+<font color="#00ffff">♪</font> <i>We become stronger than ever</i> <font color="#00ffff">♪</font>
+
+1863
+01:35:53,170 --> 01:35:55,005
+<font color="#00ffff">♪</font> <i>When we just trust</i> <font color="#00ffff">♪</font>
+
+1864
+01:35:55,088 --> 01:35:57,799
+<font color="#00ffff">♪</font> <i>Trust and believe it <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> You'll see that</i> <font color="#00ffff">♪</font>
+
+1865
+01:35:57,883 --> 01:35:59,718
+<font color="#00ffff">♪</font> <i>We’ll lead the way <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> When we just trust</i> <font color="#00ffff">♪</font>
+
+1866
+01:35:59,801 --> 01:36:02,429
+<font color="#00ffff">♪</font> <i>Trust and believe it <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> You'll see that</i> <font color="#00ffff">♪</font>
+
+1867
+01:36:02,513 --> 01:36:04,431
+<font color="#00ffff">♪</font> <i>We’ll lead the way <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> When we just trust</i> <font color="#00ffff">♪</font>
+
+1868
+01:36:04,515 --> 01:36:07,267
+<font color="#00ffff">♪</font> <i>Trust and believe it <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> You'll see that</i> <font color="#00ffff">♪</font>
+
+1869
+01:36:07,351 --> 01:36:09,102
+<font color="#00ffff">♪</font> <i>We’ll lead the way <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> When we just trust</i> <font color="#00ffff">♪</font>
+
+1870
+01:36:09,186 --> 01:36:11,855
+<font color="#00ffff">♪</font> <i>Trust and believe it <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> You'll see that</i> <font color="#00ffff">♪</font>
+
+1871
+01:36:11,939 --> 01:36:13,315
+<font color="#00ffff">♪</font> <i>We’ll lead the way</i> <font color="#00ffff">♪</font>
+
+1872
+01:36:13,774 --> 01:36:15,275
+<font color="#00ffff">♪</font> <i>When you're broken</i> <font color="#00ffff">♪</font>
+
+1873
+01:36:15,359 --> 01:36:17,986
+<font color="#00ffff">♪</font> <i>Open up your heart and feel</i> <font color="#00ffff">♪</font>
+
+1874
+01:36:18,070 --> 01:36:22,574
+<font color="#00ffff">♪</font> <i>There's no difference <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> We're all family here</i> <font color="#00ffff">♪</font>
+
+1875
+01:36:23,116 --> 01:36:25,452
+<font color="#00ffff">♪</font> <i>Despite all of our doubts</i> <font color="#00ffff">♪</font>
+
+1876
+01:36:25,536 --> 01:36:27,788
+<font color="#00ffff">♪</font> <i>All our up and downs</i> <font color="#00ffff">♪</font>
+
+1877
+01:36:27,871 --> 01:36:33,085
+<font color="#00ffff">♪</font> <i>There's never really <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> anything to fear</i> <font color="#00ffff">♪</font>
+
+1878
+01:36:33,585 --> 01:36:35,796
+<font color="#00ffff">♪</font> <i>There's an energy <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> in the water</i> <font color="#00ffff">♪</font>
+
+1879
+01:36:35,879 --> 01:36:37,965
+<font color="#00ffff">♪</font> <i>There is magic <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> deep in our heart</i> <font color="#00ffff">♪</font>
+
+1880
+01:36:38,048 --> 01:36:40,551
+<font color="#00ffff">♪</font> <i>There's a legacy <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> that we honor</i> <font color="#00ffff">♪</font>
+
+1881
+01:36:40,634 --> 01:36:43,178
+<font color="#00ffff">♪</font> <i>When we bring the light <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> to the dark</i> <font color="#00ffff">♪</font>
+
+1882
+01:36:43,262 --> 01:36:45,514
+<font color="#00ffff">♪</font> <i>Whatever brings us together</i> <font color="#00ffff">♪</font>
+
+1883
+01:36:45,597 --> 01:36:47,766
+<font color="#00ffff">♪</font> <i>Can never tear us apart</i> <font color="#00ffff">♪</font>
+
+1884
+01:36:47,850 --> 01:36:50,269
+<font color="#00ffff">♪</font> <i>We become stronger than ever</i> <font color="#00ffff">♪</font>
+
+1885
+01:36:50,352 --> 01:36:52,104
+<font color="#00ffff">♪</font> <i>When we just trust</i> <font color="#00ffff">♪</font>
+
+1886
+01:36:52,187 --> 01:36:54,648
+<font color="#00ffff">♪</font> <i>Trust and believe it <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> You'll see that</i> <font color="#00ffff">♪</font>
+
+1887
+01:36:54,731 --> 01:36:56,692
+<font color="#00ffff">♪</font> <i>We’ll lead the way <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> When we just trust</i> <font color="#00ffff">♪</font>
+
+1888
+01:36:56,775 --> 01:36:59,361
+<font color="#00ffff">♪</font> <i>Trust and believe it <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> You'll see that</i> <font color="#00ffff">♪</font>
+
+1889
+01:36:59,444 --> 01:37:01,572
+<font color="#00ffff">♪</font> <i>We’ll lead the way <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> When we just trust</i> <font color="#00ffff">♪</font>
+
+1890
+01:37:01,655 --> 01:37:04,116
+<font color="#00ffff">♪</font> <i>Trust and believe it <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> You'll see that</i> <font color="#00ffff">♪</font>
+
+1891
+01:37:04,199 --> 01:37:06,243
+<font color="#00ffff">♪</font> <i>We’ll lead the way <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> When we just trust</i> <font color="#00ffff">♪</font>
+
+1892
+01:37:06,326 --> 01:37:08,745
+<font color="#00ffff">♪</font> <i>Trust and believe it <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> You'll see that</i> <font color="#00ffff">♪</font>
+
+1893
+01:37:08,829 --> 01:37:11,248
+<font color="#00ffff">♪</font> <i>We'll lead the way</i> <font color="#00ffff">♪</font>
+
+1894
+01:37:20,924 --> 01:37:22,885
+<font color="#00ffff">♪</font> <i>Takin' my first step</i> <font color="#00ffff">♪</font>
+
+1895
+01:37:22,968 --> 01:37:25,429
+<font color="#00ffff">♪</font> <i>I see you as myself</i> <font color="#00ffff">♪</font>
+
+1896
+01:37:25,512 --> 01:37:30,184
+<font color="#00ffff">♪</font> <i>Nothing we can't do</i> <font color="#00ffff">♪</font>
+
+1897
+01:37:30,267 --> 01:37:32,769
+<font color="#00ffff">♪</font> <i>Put the past behind</i> <font color="#00ffff">♪</font>
+
+1898
+01:37:32,853 --> 01:37:35,105
+<font color="#00ffff">♪</font> <i>Learn from life this time</i> <font color="#00ffff">♪</font>
+
+1899
+01:37:35,189 --> 01:37:40,110
+<font color="#00ffff">♪</font> <i>We can start brand new</i> <font color="#00ffff">♪</font>
+
+1900
+01:37:40,194 --> 01:37:42,571
+<font color="#00ffff">♪</font> <i>There's an energy <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> in the water</i> <font color="#00ffff">♪</font>
+
+1901
+01:37:42,654 --> 01:37:44,948
+<font color="#00ffff">♪</font> <i>There is magic <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> deep in our heart</i> <font color="#00ffff">♪</font>
+
+1902
+01:37:45,032 --> 01:37:47,367
+<font color="#00ffff">♪</font> <i>There's a legacy <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> that we honor</i> <font color="#00ffff">♪</font>
+
+1903
+01:37:47,451 --> 01:37:49,870
+<font color="#00ffff">♪</font> <i>When we bring <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> the light to the dark</i> <font color="#00ffff">♪</font>
+
+1904
+01:37:49,953 --> 01:37:52,122
+<font color="#00ffff">♪</font> <i>Whatever brings us together</i> <font color="#00ffff">♪</font>
+
+1905
+01:37:52,206 --> 01:37:54,166
+<font color="#00ffff">♪</font> <i>Can never tear us apart</i> <font color="#00ffff">♪</font>
+
+1906
+01:37:54,249 --> 01:37:56,793
+<font color="#00ffff">♪</font> <i>We become stronger than ever</i> <font color="#00ffff">♪</font>
+
+1907
+01:37:56,877 --> 01:37:58,629
+<font color="#00ffff">♪</font> <i>When we just trust</i> <font color="#00ffff">♪</font>
+
+1908
+01:37:58,712 --> 01:38:01,381
+<font color="#00ffff">♪</font> <i>Trust and believe it <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> You'll see that</i> <font color="#00ffff">♪</font>
+
+1909
+01:38:01,465 --> 01:38:03,425
+<font color="#00ffff">♪</font> <i>We’ll lead the way <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> When we just trust</i> <font color="#00ffff">♪</font>
+
+1910
+01:38:03,509 --> 01:38:06,261
+<font color="#00ffff">♪</font> <i>Trust and believe it <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> You'll see that</i> <font color="#00ffff">♪</font>
+
+1911
+01:38:06,345 --> 01:38:08,138
+<font color="#00ffff">♪</font> <i>We’ll lead the way <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> When we just trust</i> <font color="#00ffff">♪</font>
+
+1912
+01:38:08,263 --> 01:38:10,807
+<font color="#00ffff">♪</font> <i>Trust and believe it <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> You'll see that</i> <font color="#00ffff">♪</font>
+
+1913
+01:38:10,891 --> 01:38:12,809
+<font color="#00ffff">♪</font> <i>We’ll lead the way <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> When we just trust</i> <font color="#00ffff">♪</font>
+
+1914
+01:38:12,893 --> 01:38:15,646
+<font color="#00ffff">♪</font> <i>Trust and believe it <font color="#00ffff">♪</font>
+<font color="#00ffff">♪</font> You'll see that</i> <font color="#00ffff">♪</font>
+
+1915
+01:38:15,729 --> 01:38:17,397
+<font color="#00ffff">♪</font> <i>We'll lead the way</i> <font color="#00ffff">♪</font>
+
+1916
+01:38:18,899 --> 01:38:20,526
+<font color="#00ffff">♪</font> <i>Kumandra, Kumandra</i> <font color="#00ffff">♪</font>
+
+1917
+01:38:21,109 --> 01:38:22,945
+<font color="#00ffff">♪</font> <i>Kumandra, Kumandra</i> <font color="#00ffff">♪</font>
+
+1918
+01:38:23,487 --> 01:38:25,030
+<font color="#00ffff">♪</font> <i>Kumandra, Kumandra</i> <font color="#00ffff">♪</font>
+
+1919
+01:38:25,948 --> 01:38:27,658
+<font color="#00ffff">♪</font> <i>Kumandra, Kumandra</i> <font color="#00ffff">♪</font>

@@ -1,0 +1,5883 @@
+1
+00:00:00,001 --> 00:02:14,701
+<font color="#ffff00"><b><i>♪ Fixed & Synced by
+bozxphd.Enjoy The Movie ♪</i></b></font>
+
+2
+00:02:32,720 --> 00:02:34,245
+<font color="#ffff00"><i>We're lucky to be in The City.</i></font>
+
+3
+00:02:35,000 --> 00:02:36,570
+<font color="#ffff00"><i>They say the war was terrible,</i></font>
+
+4
+00:02:37,240 --> 00:02:39,846
+<font color="#ffff00"><i>that the rest of the world was destroyed.</i></font>
+
+5
+00:02:40,320 --> 00:02:42,891
+<font color="#ffff00"><i>Our founders built the wall
+to keep us safe</i></font>
+
+6
+00:02:43,240 --> 00:02:46,323
+<font color="#ffff00"><i>and they divided us into
+five groups, factions,</i></font>
+
+7
+00:02:46,680 --> 00:02:48,364
+<font color="#ffff00"><i>to keep the peace.</i></font>
+
+8
+00:02:50,560 --> 00:02:53,928
+<font color="#ffff00"><i>The smart ones,
+the ones who value knowledge and logic</i></font>
+
+9
+00:02:55,120 --> 00:02:56,690
+<font color="#ffff00"><i>are in Erudite.</i></font>
+
+10
+00:02:57,640 --> 00:02:59,404
+<font color="#ffff00"><i>They know everything.</i></font>
+
+11
+00:03:00,600 --> 00:03:02,364
+<font color="#ffff00"><i>Amity farm the land.</i></font>
+
+12
+00:03:03,000 --> 00:03:06,891
+<font color="#ffff00"><i>They're all about
+kindness and harmony, always happy.</i></font>
+
+13
+00:03:09,080 --> 00:03:11,367
+<font color="#ffff00"><i>Candor value honesty and order.</i></font>
+
+14
+00:03:12,160 --> 00:03:15,448
+<font color="#ffff00"><i>They tell the truth,
+even when you wish they wouldn't.</i></font>
+
+15
+00:03:16,920 --> 00:03:18,604
+<font color="#ffff00"><i>And then there's Dauntless.</i></font>
+
+16
+00:03:18,920 --> 00:03:22,561
+<font color="#ffff00"><i>They're our protectors,
+our soldiers, our police.</i></font>
+
+17
+00:03:23,880 --> 00:03:26,121
+<font color="#ffff00"><i>I always thought they were amazing.</i></font>
+
+18
+00:03:27,960 --> 00:03:31,601
+<font color="#ffff00"><i>Brave, fearless and free.</i></font>
+
+19
+00:03:33,920 --> 00:03:35,888
+<font color="#ffff00"><i>Some people think Dauntless are crazy,</i></font>
+
+20
+00:03:35,960 --> 00:03:37,883
+<font color="#ffff00"><i>which they kind of are.</i></font>
+
+21
+00:03:39,320 --> 00:03:40,606
+<font color="#ffff00">Come on, Beatrice.</font>
+
+22
+00:03:40,720 --> 00:03:41,960
+<font color="#ffff00"><i>My faction is Abnegation.</i></font>
+
+23
+00:03:42,760 --> 00:03:44,603
+<font color="#ffff00"><i>The others all call us "stiffs."</i></font>
+
+24
+00:03:45,760 --> 00:03:47,285
+<font color="#ffff00"><i>We lead a simple life,</i></font>
+
+25
+00:03:47,360 --> 00:03:49,931
+<font color="#ffff00"><i>selfless, dedicated to helping others.</i></font>
+
+26
+00:03:50,720 --> 00:03:52,848
+<font color="#ffff00"><i>We even feed the Factionless,</i></font>
+
+27
+00:03:53,000 --> 00:03:54,809
+<font color="#ffff00"><i>the ones who don't fit in anywhere.</i></font>
+
+28
+00:03:56,240 --> 00:03:58,049
+<font color="#ffff00"><i>Because we're public servants,</i></font>
+
+29
+00:03:58,160 --> 00:04:00,162
+<font color="#ffff00"><i>we're trusted to run the government.</i></font>
+
+30
+00:04:01,160 --> 00:04:04,482
+<font color="#ffff00"><i>My father works alongside
+our leader, Marcus.</i></font>
+
+31
+00:04:08,120 --> 00:04:11,329
+<font color="#ffff00"><i>It all works.
+Everyone knows where they belong.</i></font>
+
+32
+00:04:12,160 --> 00:04:13,685
+<font color="#ffff00"><i>Except for me.</i></font>
+
+33
+00:04:24,600 --> 00:04:27,251
+<font color="#ffff00"><i>My mother says
+there's an art to losing yourself.</i></font>
+
+34
+00:04:30,800 --> 00:04:32,529
+<font color="#ffff00"><i>But I haven't figured it out yet.</i></font>
+
+35
+00:04:32,960 --> 00:04:35,167
+<font color="#ffff00"><i>I'm supposed to never think of myself,</i></font>
+
+36
+00:04:35,400 --> 00:04:37,402
+<font color="#ffff00"><i>to always help others.</i></font>
+
+37
+00:04:39,400 --> 00:04:41,687
+<font color="#ffff00"><i>To never look too long in the mirror.</i></font>
+
+38
+00:04:45,360 --> 00:04:46,646
+<font color="#ffff00">Are you nervous?</font>
+
+39
+00:04:48,080 --> 00:04:49,161
+<font color="#ffff00">No.</font>
+
+40
+00:04:50,800 --> 00:04:52,689
+<font color="#ffff00">Were you? For your test?</font>
+
+41
+00:04:53,040 --> 00:04:54,246
+<font color="#ffff00">Mmm-mmm. No.</font>
+
+42
+00:04:55,520 --> 00:04:56,521
+<font color="#ffff00">I was terrified.</font>
+
+43
+00:04:58,560 --> 00:05:01,166
+<font color="#ffff00">But I didn't have any reason to be
+and neither do you.</font>
+
+44
+00:05:10,200 --> 00:05:12,043
+<font color="#ffff00">That's all you get.</font>
+
+45
+00:05:14,320 --> 00:05:16,084
+<font color="#ffff00">Rules are rules.</font>
+
+46
+00:05:22,240 --> 00:05:24,368
+<font color="#ffff00"><i>Today I take the test.</i></font>
+
+47
+00:05:27,560 --> 00:05:30,245
+<font color="#ffff00"><i>I'm scared it'll tell me
+I'm not Abnegation.</i></font>
+
+48
+00:05:31,000 --> 00:05:33,048
+<font color="#ffff00"><i>That I have to leave my family.</i></font>
+
+49
+00:05:35,160 --> 00:05:37,447
+<font color="#ffff00"><i>But I'm even more scared
+that it will tell me to stay.</i></font>
+
+50
+00:05:40,080 --> 00:05:41,764
+<font color="#ffff00"><i>For my brother Caleb, it's easy.</i></font>
+
+51
+00:05:41,920 --> 00:05:43,081
+<font color="#ffff00">Let me help you with that.</font>
+
+52
+00:05:43,160 --> 00:05:44,764
+<font color="#ffff00"><i>He's a natural.</i></font>
+
+53
+00:05:46,680 --> 00:05:48,091
+<font color="#ffff00">Beatrice, do you wanna get the other bags?</font>
+
+54
+00:05:48,680 --> 00:05:49,727
+<font color="#ffff00">Sorry.</font>
+
+55
+00:05:49,920 --> 00:05:51,160
+<font color="#ffff00">What if she'd been blind
+or an amputee?</font>
+
+56
+00:05:51,280 --> 00:05:52,441
+<font color="#ffff00">Would you have helped her then?</font>
+
+57
+00:05:52,520 --> 00:05:54,249
+<font color="#ffff00">I was thinking about helping her.</font>
+
+58
+00:05:54,440 --> 00:05:55,521
+<font color="#ffff00">It's not that hard.</font>
+
+59
+00:05:56,000 --> 00:05:57,525
+<font color="#ffff00">For you, maybe.</font>
+
+60
+00:05:58,120 --> 00:06:01,010
+<font color="#ffff00">Just relax, Beatrice.
+Take a deep breath and trust the test.</font>
+
+61
+00:06:02,360 --> 00:06:03,964
+<font color="#ffff00"><i>Trust the test.</i></font>
+
+62
+00:06:04,480 --> 00:06:07,370
+<font color="#ffff00"><i>Test will tell me who I am,
+where I belong.</i></font>
+
+63
+00:06:10,160 --> 00:06:11,446
+<font color="#ffff00"><i>Am I smart?</i></font>
+
+64
+00:06:13,280 --> 00:06:14,486
+<font color="#ffff00"><i>Kind?</i></font>
+
+65
+00:06:15,000 --> 00:06:16,126
+<font color="#ffff00"><i>Am I honest?</i></font>
+
+66
+00:06:17,400 --> 00:06:18,447
+<font color="#ffff00"><i>Selfless?</i></font>
+
+67
+00:06:20,040 --> 00:06:21,405
+<font color="#ffff00"><i>Or brave?</i></font>
+
+68
+00:06:21,560 --> 00:06:25,360
+<font color="#ffff00">Hey. So, all the food
+that we're not getting,</font>
+
+69
+00:06:25,440 --> 00:06:27,408
+<font color="#ffff00">you guys are giving away
+to the Factionless?</font>
+
+70
+00:06:27,720 --> 00:06:29,609
+<font color="#ffff00">- Right? Yeah?
+- Yeah.</font>
+
+71
+00:06:29,680 --> 00:06:31,569
+<font color="#ffff00">You're a liar.
+Why are you lying to me?</font>
+
+72
+00:06:32,360 --> 00:06:33,964
+<font color="#ffff00">Everybody knows you keep it for yourselves.</font>
+
+73
+00:06:34,160 --> 00:06:35,889
+<font color="#ffff00">So why don't you just admit it?</font>
+
+74
+00:06:36,720 --> 00:06:37,801
+<font color="#ffff00">Huh?</font>
+
+75
+00:06:38,480 --> 00:06:41,211
+<font color="#ffff00">I'm talking to you.
+Are all you stiffs deaf or somethin'? Hey!</font>
+
+76
+00:06:42,720 --> 00:06:44,051
+<font color="#ffff00">Beatrice...</font>
+
+77
+00:06:45,240 --> 00:06:46,401
+<font color="#ffff00">Don't.</font>
+
+78
+00:07:18,800 --> 00:07:21,087
+<font color="#ffff00">One hundred years ago, after the war,</font>
+
+79
+00:07:21,160 --> 00:07:24,562
+<font color="#ffff00">our founders created a system
+they believed would prevent future conflict</font>
+
+80
+00:07:24,640 --> 00:07:26,324
+<font color="#ffff00">and create lasting peace.</font>
+
+81
+00:07:26,680 --> 00:07:29,763
+<font color="#ffff00">Today, aptitude testing
+based on your personality</font>
+
+82
+00:07:29,840 --> 00:07:32,366
+<font color="#ffff00">will assign you to one of the factions.</font>
+
+83
+00:07:32,600 --> 00:07:34,568
+<font color="#ffff00">While it is our belief
+that choosing the faction</font>
+
+84
+00:07:34,680 --> 00:07:36,762
+<font color="#ffff00">indicated by your test
+is the best way to ensure</font>
+
+85
+00:07:36,840 --> 00:07:38,842
+<font color="#ffff00">success within the faction system,</font>
+
+86
+00:07:39,520 --> 00:07:42,126
+<font color="#ffff00">it is your right tomorrow
+at the choosing ceremony</font>
+
+87
+00:07:42,800 --> 00:07:44,529
+<font color="#ffff00"><i>to choose any of the five factions,</i></font>
+
+88
+00:07:44,600 --> 00:07:46,250
+<font color="#ffff00"><i>regardless of your test results.</i></font>
+
+89
+00:07:47,000 --> 00:07:49,765
+<font color="#ffff00"><i>However, once the choice has been made,</i></font>
+
+90
+00:07:50,400 --> 00:07:52,289
+<font color="#ffff00"><i>there will be no change permitted.</i></font>
+
+91
+00:08:10,680 --> 00:08:13,081
+<font color="#ffff00">What is it with you Abnegation and mirrors?</font>
+
+92
+00:08:14,120 --> 00:08:16,009
+<font color="#ffff00">We reject vanity.</font>
+
+93
+00:08:16,640 --> 00:08:17,926
+<font color="#ffff00">Yeah. I know. Sit down.</font>
+
+94
+00:08:31,400 --> 00:08:33,846
+<font color="#ffff00">I'm Tori.
+I'll be administering your test.</font>
+
+95
+00:08:34,400 --> 00:08:38,121
+<font color="#ffff00">You'll be offered a series of choices
+to test your aptitude for each faction</font>
+
+96
+00:08:38,480 --> 00:08:40,164
+<font color="#ffff00">until you get one result.</font>
+
+97
+00:08:41,440 --> 00:08:42,930
+<font color="#ffff00">I wouldn't sweat it.</font>
+
+98
+00:08:43,040 --> 00:08:45,247
+<font color="#ffff00">95% get the faction of their origin,</font>
+
+99
+00:08:45,320 --> 00:08:46,970
+<font color="#ffff00">and from the looks of you...</font>
+
+100
+00:08:51,360 --> 00:08:52,441
+<font color="#ffff00">What is it?</font>
+
+101
+00:08:52,600 --> 00:08:53,931
+<font color="#ffff00">Bottoms up.</font>
+
+102
+00:10:15,200 --> 00:10:16,326
+<font color="#ffff00">Choose.</font>
+
+103
+00:10:17,520 --> 00:10:19,887
+<font color="#ffff00">Now. Before it's too late.</font>
+
+104
+00:10:20,880 --> 00:10:22,120
+<font color="#ffff00">Why? What will I do with them?</font>
+
+105
+00:10:22,440 --> 00:10:23,441
+<font color="#ffff00">Choose.</font>
+
+106
+00:10:23,560 --> 00:10:25,005
+<font color="#ffff00">Just tell me.</font>
+
+107
+00:11:05,360 --> 00:11:06,566
+<font color="#ffff00">Puppy!</font>
+
+108
+00:11:28,120 --> 00:11:29,246
+<font color="#ffff00">Get up.</font>
+
+109
+00:11:30,000 --> 00:11:31,843
+<font color="#ffff00">We're going out the back door
+before a supervisor comes.</font>
+
+110
+00:11:31,960 --> 00:11:33,325
+<font color="#ffff00">- But what was my result?
+- Come on!</font>
+
+111
+00:11:33,800 --> 00:11:35,040
+<font color="#ffff00">What happened?</font>
+
+112
+00:11:36,960 --> 00:11:38,883
+<font color="#ffff00">You're going to tell your family
+that the serum made you sick</font>
+
+113
+00:11:38,960 --> 00:11:40,200
+<font color="#ffff00">and that I sent you home.
+All right?</font>
+
+114
+00:11:40,320 --> 00:11:41,810
+<font color="#ffff00">No, but what was my result?</font>
+
+115
+00:11:43,360 --> 00:11:44,407
+<font color="#ffff00">Abnegation.</font>
+
+116
+00:11:46,440 --> 00:11:48,363
+<font color="#ffff00">And Erudite.
+And Dauntless.</font>
+
+117
+00:11:50,320 --> 00:11:51,321
+<font color="#ffff00">Dauntless...</font>
+
+118
+00:11:51,400 --> 00:11:53,084
+<font color="#ffff00">Your results were inconclusive.</font>
+
+119
+00:11:53,360 --> 00:11:55,203
+<font color="#ffff00">That's impossible.
+It doesn't make any sense.</font>
+
+120
+00:11:55,280 --> 00:11:56,884
+<font color="#ffff00">No. Not impossible.</font>
+
+121
+00:11:57,000 --> 00:11:58,650
+<font color="#ffff00">It's just extremely rare.</font>
+
+122
+00:12:01,160 --> 00:12:02,650
+<font color="#ffff00">They call it "Divergent."</font>
+
+123
+00:12:04,560 --> 00:12:06,483
+<font color="#ffff00">You can't tell anyone about this.
+Not even your parents.</font>
+
+124
+00:12:06,800 --> 00:12:10,327
+<font color="#ffff00">As far as the world is concerned,
+you received an Abnegation result</font>
+
+125
+00:12:10,440 --> 00:12:12,329
+<font color="#ffff00">because that is what I manually entered.</font>
+
+126
+00:12:12,400 --> 00:12:14,721
+<font color="#ffff00">So what am I supposed to do
+at the choosing ceremony?</font>
+
+127
+00:12:15,360 --> 00:12:16,771
+<font color="#ffff00">I was supposed to learn what to do.</font>
+
+128
+00:12:16,880 --> 00:12:19,486
+<font color="#ffff00">This was supposed to tell me
+what faction to choose, the test.</font>
+
+129
+00:12:19,680 --> 00:12:21,170
+<font color="#ffff00">We're supposed to trust the test.</font>
+
+130
+00:12:21,280 --> 00:12:23,362
+<font color="#ffff00">The test didn't work on you.</font>
+
+131
+00:12:25,520 --> 00:12:27,761
+<font color="#ffff00">You have to trust yourself.</font>
+
+132
+00:13:15,440 --> 00:13:16,680
+<font color="#ffff00">What happened to you today?</font>
+
+133
+00:13:17,600 --> 00:13:19,045
+<font color="#ffff00">Where did you go after your test?</font>
+
+134
+00:13:19,760 --> 00:13:22,206
+<font color="#ffff00">I got sick,
+so they sent me home early.</font>
+
+135
+00:13:22,960 --> 00:13:24,325
+<font color="#ffff00">Did you finish your test?</font>
+
+136
+00:13:24,480 --> 00:13:25,481
+<font color="#ffff00">Mmm-hmm.</font>
+
+137
+00:13:29,040 --> 00:13:30,280
+<font color="#ffff00">What was your result?</font>
+
+138
+00:13:33,120 --> 00:13:34,451
+<font color="#ffff00">What was yours?</font>
+
+139
+00:13:36,560 --> 00:13:38,767
+<font color="#ffff00">Why did you just leave
+without telling anybody?</font>
+
+140
+00:13:39,240 --> 00:13:40,571
+<font color="#ffff00">I was sick.</font>
+
+141
+00:13:41,480 --> 00:13:42,561
+<font color="#ffff00">Beatrice...</font>
+
+142
+00:13:43,560 --> 00:13:46,564
+<font color="#ffff00">I don't think you understand
+the level of scrutiny we're under.</font>
+
+143
+00:13:46,760 --> 00:13:49,764
+<font color="#ffff00">They're doing everything they can
+to discredit us right now.</font>
+
+144
+00:13:50,920 --> 00:13:51,921
+<font color="#ffff00">Who is?</font>
+
+145
+00:13:52,000 --> 00:13:53,001
+<font color="#ffff00">Erudite.</font>
+
+146
+00:13:53,600 --> 00:13:56,285
+<font color="#ffff00">They believe that they should be
+the governing faction, not us.</font>
+
+147
+00:13:56,480 --> 00:13:58,323
+<font color="#ffff00">So you have to be careful right now, okay?</font>
+
+148
+00:13:58,560 --> 00:14:00,688
+<font color="#ffff00">Even Marcus is under attack.</font>
+
+149
+00:14:00,760 --> 00:14:01,761
+<font color="#ffff00">For what?</font>
+
+150
+00:14:04,200 --> 00:14:06,009
+<font color="#ffff00">It's an old accusation.</font>
+
+151
+00:14:07,080 --> 00:14:08,889
+<font color="#ffff00">That he mistreated his son</font>
+
+152
+00:14:09,440 --> 00:14:10,805
+<font color="#ffff00">and that's why the boy defected.</font>
+
+153
+00:14:12,120 --> 00:14:13,326
+<font color="#ffff00">- Is that true?
+- No.</font>
+
+154
+00:14:13,400 --> 00:14:14,686
+<font color="#ffff00">'Course not.</font>
+
+155
+00:14:14,960 --> 00:14:17,122
+<font color="#ffff00">Children defect for all kinds of reasons.</font>
+
+156
+00:14:25,120 --> 00:14:28,442
+<font color="#ffff00">Don't take too long in here.
+You need a good night's sleep...</font>
+
+157
+00:14:29,480 --> 00:14:31,084
+<font color="#ffff00">For tomorrow.</font>
+
+158
+00:14:35,080 --> 00:14:36,127
+<font color="#ffff00">I, um...</font>
+
+159
+00:14:40,840 --> 00:14:42,205
+<font color="#ffff00">We love you.</font>
+
+160
+00:14:55,200 --> 00:14:56,565
+<font color="#ffff00">Good night.</font>
+
+161
+00:14:58,400 --> 00:15:00,528
+<font color="#ffff00">I'm so proud of you, honey.</font>
+
+162
+00:15:11,680 --> 00:15:13,170
+<font color="#ffff00">- Beatrice?
+- What?</font>
+
+163
+00:15:14,880 --> 00:15:16,928
+<font color="#ffff00">Tomorrow when we choose...</font>
+
+164
+00:15:19,080 --> 00:15:20,525
+<font color="#ffff00">You have to think of the family.</font>
+
+165
+00:15:21,280 --> 00:15:22,441
+<font color="#ffff00">Yeah.</font>
+
+166
+00:15:22,520 --> 00:15:25,330
+<font color="#ffff00">But you also have to think of yourself.</font>
+
+167
+00:16:09,640 --> 00:16:12,849
+<font color="#ffff00"><i>Factions, please gather
+in your assigned areas.</i></font>
+
+168
+00:16:19,680 --> 00:16:20,727
+<font color="#ffff00">Morning, Jeanine.</font>
+
+169
+00:16:21,240 --> 00:16:24,562
+<font color="#ffff00">Good morning, Andrew.
+How is Marcus holding up?</font>
+
+170
+00:16:25,080 --> 00:16:26,366
+<font color="#ffff00">As well as can be expected.</font>
+
+171
+00:16:27,120 --> 00:16:28,929
+<font color="#ffff00">We need to find out
+who's behind these rumors.</font>
+
+172
+00:16:29,560 --> 00:16:31,369
+<font color="#ffff00">I think we all know who it is.</font>
+
+173
+00:16:32,880 --> 00:16:36,487
+<font color="#ffff00">If it's someone from Erudite,
+I promise I'll find out who.</font>
+
+174
+00:16:37,520 --> 00:16:38,601
+<font color="#ffff00">These are your children.</font>
+
+175
+00:16:38,680 --> 00:16:40,250
+<font color="#ffff00">I don't think I knew
+they were choosing today.</font>
+
+176
+00:16:40,320 --> 00:16:42,288
+<font color="#ffff00">- What's your name?
+- I'm... I'm Caleb.</font>
+
+177
+00:16:42,360 --> 00:16:43,521
+<font color="#ffff00">It's a pleasure to meet you.</font>
+
+178
+00:16:43,600 --> 00:16:44,761
+<font color="#ffff00">Jeanine Matthews.</font>
+
+179
+00:16:44,840 --> 00:16:46,251
+<font color="#ffff00">And you are?</font>
+
+180
+00:16:46,760 --> 00:16:47,966
+<font color="#ffff00">This is Beatrice.</font>
+
+181
+00:16:49,680 --> 00:16:51,728
+<font color="#ffff00">Well, you both have a big decision
+to make today.</font>
+
+182
+00:16:52,480 --> 00:16:54,926
+<font color="#ffff00">I'm sure your parents will support
+whatever choice you make.</font>
+
+183
+00:16:55,720 --> 00:16:57,449
+<font color="#ffff00">That's not supposed to be a choice.</font>
+
+184
+00:16:59,360 --> 00:17:01,124
+<font color="#ffff00">The test should tell us what to do.</font>
+
+185
+00:17:02,120 --> 00:17:03,451
+<font color="#ffff00">You're still free to choose.</font>
+
+186
+00:17:03,520 --> 00:17:05,045
+<font color="#ffff00">But you don't really want that.</font>
+
+187
+00:17:05,280 --> 00:17:06,645
+<font color="#ffff00">Beatrice...</font>
+
+188
+00:17:09,360 --> 00:17:11,681
+<font color="#ffff00">I want you to choose
+who you truly are</font>
+
+189
+00:17:11,920 --> 00:17:13,285
+<font color="#ffff00">and where you truly belong.</font>
+
+190
+00:17:14,040 --> 00:17:17,089
+<font color="#ffff00">Not on a whim. Not because you
+wish you were someone you're not.</font>
+
+191
+00:17:17,440 --> 00:17:19,761
+<font color="#ffff00">But because you honestly know yourself.</font>
+
+192
+00:17:20,800 --> 00:17:22,723
+<font color="#ffff00">I want you to choose wisely.</font>
+
+193
+00:17:23,960 --> 00:17:25,485
+<font color="#ffff00">And I know you will.</font>
+
+194
+00:17:32,640 --> 00:17:34,563
+<font color="#ffff00">The faction system is a living being</font>
+
+195
+00:17:34,640 --> 00:17:37,325
+<font color="#ffff00">composed of cells, all of you.</font>
+
+196
+00:17:38,600 --> 00:17:41,171
+<font color="#ffff00">And the only way it can survive and thrive</font>
+
+197
+00:17:41,280 --> 00:17:44,204
+<font color="#ffff00">is for each of you to claim
+your rightful place.</font>
+
+198
+00:17:45,440 --> 00:17:49,684
+<font color="#ffff00">The future belongs to those
+who know where they belong.</font>
+
+199
+00:17:54,800 --> 00:17:56,643
+<font color="#ffff00">When we leave this room,</font>
+
+200
+00:17:57,280 --> 00:17:59,681
+<font color="#ffff00">you will no longer be dependents</font>
+
+201
+00:17:59,840 --> 00:18:02,161
+<font color="#ffff00">but full-fledged members of our society.</font>
+
+202
+00:18:03,440 --> 00:18:05,329
+<font color="#ffff00">Faction before blood.</font>
+
+203
+00:18:06,320 --> 00:18:08,163
+<font color="#ffff00">Faction before blood.</font>
+
+204
+00:18:12,080 --> 00:18:13,525
+<font color="#ffff00">I love you...</font>
+
+205
+00:18:14,840 --> 00:18:16,001
+<font color="#ffff00">No matter what.</font>
+
+206
+00:18:18,320 --> 00:18:20,049
+<font color="#ffff00">Jonathan Ziegler.</font>
+
+207
+00:18:36,360 --> 00:18:38,203
+<font color="#ffff00">Erudite.</font>
+
+208
+00:18:39,720 --> 00:18:41,290
+<font color="#ffff00">Jeffrey Yates.</font>
+
+209
+00:18:43,440 --> 00:18:45,090
+<font color="#ffff00">Dauntless.</font>
+
+210
+00:18:46,280 --> 00:18:47,805
+<font color="#ffff00">Morgan Stokes.</font>
+
+211
+00:18:50,840 --> 00:18:52,001
+<font color="#ffff00">Amity.</font>
+
+212
+00:18:57,640 --> 00:19:00,007
+<font color="#ffff00">Claire Satron. Candor.</font>
+
+213
+00:19:01,240 --> 00:19:03,891
+<font color="#ffff00">Sam Robertson. Abnegation.</font>
+
+214
+00:19:05,640 --> 00:19:06,971
+<font color="#ffff00">Caleb Prior.</font>
+
+215
+00:19:28,000 --> 00:19:29,604
+<font color="#ffff00">Erudite.</font>
+
+216
+00:19:41,040 --> 00:19:42,201
+<font color="#ffff00">Quiet, please.</font>
+
+217
+00:19:44,120 --> 00:19:45,610
+<font color="#ffff00">Beatrice Prior.</font>
+
+218
+00:20:43,640 --> 00:20:45,051
+<font color="#ffff00">Dauntless.</font>
+
+219
+00:20:58,080 --> 00:20:59,764
+<font color="#ffff00">Welcome to Dauntless!</font>
+
+220
+00:22:41,360 --> 00:22:42,725
+<font color="#ffff00">Come on! Let's go!</font>
+
+221
+00:23:04,440 --> 00:23:05,646
+<font color="#ffff00">Come on!</font>
+
+222
+00:23:15,800 --> 00:23:17,131
+<font color="#ffff00">Sorry.</font>
+
+223
+00:23:18,000 --> 00:23:19,365
+<font color="#ffff00">You made it.</font>
+
+224
+00:23:20,920 --> 00:23:22,809
+<font color="#ffff00">- I'm Christina.
+- Beatrice.</font>
+
+225
+00:23:25,320 --> 00:23:28,130
+<font color="#ffff00">Is it just me
+or are they trying to kill us?</font>
+
+226
+00:23:41,600 --> 00:23:42,931
+<font color="#ffff00">Get ready!</font>
+
+227
+00:24:02,640 --> 00:24:04,005
+<font color="#ffff00">Yeah!</font>
+
+228
+00:24:05,120 --> 00:24:06,963
+<font color="#ffff00">- They're jumping.
+- What?</font>
+
+229
+00:24:09,880 --> 00:24:11,325
+<font color="#ffff00">What if you don't jump?</font>
+
+230
+00:24:11,480 --> 00:24:14,131
+<font color="#ffff00">What do you think?
+You'll be factionless.</font>
+
+231
+00:24:14,760 --> 00:24:15,761
+<font color="#ffff00">Good luck, Al.</font>
+
+232
+00:24:16,880 --> 00:24:17,881
+<font color="#ffff00">Whoa!</font>
+
+233
+00:24:25,560 --> 00:24:27,403
+<font color="#ffff00">- Together?
+- Yeah.</font>
+
+234
+00:24:29,760 --> 00:24:31,410
+<font color="#ffff00">One, two, three...</font>
+
+235
+00:24:46,520 --> 00:24:47,726
+<font color="#ffff00">All right, listen up!</font>
+
+236
+00:24:49,040 --> 00:24:51,566
+<font color="#ffff00">I'm Eric.
+I'm one of your leaders.</font>
+
+237
+00:24:52,240 --> 00:24:54,811
+<font color="#ffff00">If you want to enter Dauntless,
+this is the way in.</font>
+
+238
+00:24:55,040 --> 00:24:58,408
+<font color="#ffff00">And if you don't have the guts to jump,
+then you don't belong in Dauntless.</font>
+
+239
+00:24:58,760 --> 00:25:00,444
+<font color="#ffff00">Is there water at the bottom or something?</font>
+
+240
+00:25:00,840 --> 00:25:01,966
+<font color="#ffff00">I guess you'll find out.</font>
+
+241
+00:25:03,920 --> 00:25:04,921
+<font color="#ffff00">Or not.</font>
+
+242
+00:25:05,240 --> 00:25:07,402
+<font color="#ffff00">We just jumped.
+They want us to jump again?</font>
+
+243
+00:25:07,840 --> 00:25:10,002
+<font color="#ffff00">Someone's gotta go first.
+Who's it gonna be?</font>
+
+244
+00:25:20,600 --> 00:25:21,601
+<font color="#ffff00">Me.</font>
+
+245
+00:25:45,640 --> 00:25:47,961
+<font color="#ffff00">Yeah, stiff, take it off!</font>
+
+246
+00:25:48,800 --> 00:25:49,926
+<font color="#ffff00">Put it back on!</font>
+
+247
+00:26:13,520 --> 00:26:15,363
+<font color="#ffff00">Today, Initiate.</font>
+
+248
+00:26:48,840 --> 00:26:50,046
+<font color="#ffff00">What, you get pushed?</font>
+
+249
+00:26:50,840 --> 00:26:51,887
+<font color="#ffff00">No.</font>
+
+250
+00:26:55,040 --> 00:26:56,280
+<font color="#ffff00">What's your name?</font>
+
+251
+00:26:56,360 --> 00:26:57,600
+<font color="#ffff00">It's...</font>
+
+252
+00:26:59,320 --> 00:27:00,606
+<font color="#ffff00">Is that a hard one?</font>
+
+253
+00:27:01,320 --> 00:27:03,163
+<font color="#ffff00">You can pick a new one if you want,
+but make it good.</font>
+
+254
+00:27:03,520 --> 00:27:04,806
+<font color="#ffff00">You don't get to pick again.</font>
+
+255
+00:27:07,280 --> 00:27:09,886
+<font color="#ffff00">Okay. My name's Tris.</font>
+
+256
+00:27:11,720 --> 00:27:13,484
+<font color="#ffff00">First jumper, Tris!</font>
+
+257
+00:27:13,560 --> 00:27:15,642
+<font color="#ffff00">Welcome to Dauntless.</font>
+
+258
+00:27:31,920 --> 00:27:34,161
+<font color="#ffff00">Dauntless-born, go with Lauren,
+transfers stay with me.</font>
+
+259
+00:27:35,320 --> 00:27:36,321
+<font color="#ffff00">Go.</font>
+
+260
+00:27:36,680 --> 00:27:37,681
+<font color="#ffff00">This way.</font>
+
+261
+00:27:39,600 --> 00:27:41,329
+<font color="#ffff00">Most of the time I work in Intelligence,</font>
+
+262
+00:27:41,480 --> 00:27:44,245
+<font color="#ffff00">but during your training,
+I'll be your instructor.</font>
+
+263
+00:27:45,080 --> 00:27:46,081
+<font color="#ffff00">My name's Four.</font>
+
+264
+00:27:46,760 --> 00:27:48,364
+<font color="#ffff00">Four, like the number?</font>
+
+265
+00:27:49,080 --> 00:27:50,127
+<font color="#ffff00">Exactly, like the number.</font>
+
+266
+00:27:50,760 --> 00:27:52,569
+<font color="#ffff00">What happened,
+one through three were taken?</font>
+
+267
+00:27:58,320 --> 00:27:59,321
+<font color="#ffff00">What's your name?</font>
+
+268
+00:27:59,680 --> 00:28:00,681
+<font color="#ffff00">Christina.</font>
+
+269
+00:28:05,560 --> 00:28:07,722
+<font color="#ffff00">Well, Christina.</font>
+
+270
+00:28:08,760 --> 00:28:10,728
+<font color="#ffff00">The first lesson you learn from me</font>
+
+271
+00:28:10,920 --> 00:28:12,160
+<font color="#ffff00">if you wanna survive here,</font>
+
+272
+00:28:12,840 --> 00:28:14,330
+<font color="#ffff00">is keep your mouth shut.</font>
+
+273
+00:28:15,440 --> 00:28:16,441
+<font color="#ffff00">Do you understand me?</font>
+
+274
+00:28:17,440 --> 00:28:18,521
+<font color="#ffff00">Yes.</font>
+
+275
+00:28:20,400 --> 00:28:21,526
+<font color="#ffff00">Good.</font>
+
+276
+00:28:24,400 --> 00:28:25,640
+<font color="#ffff00">Follow me.</font>
+
+277
+00:29:07,160 --> 00:29:08,491
+<font color="#ffff00">This is The Pit.</font>
+
+278
+00:29:09,720 --> 00:29:11,245
+<font color="#ffff00">The center of life here at Dauntless.</font>
+
+279
+00:29:24,720 --> 00:29:26,882
+<font color="#ffff00">You're gonna be sleeping here
+for the next 10 weeks.</font>
+
+280
+00:29:28,000 --> 00:29:29,525
+<font color="#ffff00">Girls or boys?</font>
+
+281
+00:29:30,280 --> 00:29:31,406
+<font color="#ffff00">Both.</font>
+
+282
+00:29:31,480 --> 00:29:33,164
+<font color="#ffff00">- Nice.
+- That works.</font>
+
+283
+00:29:33,240 --> 00:29:35,242
+<font color="#ffff00">If you like this,
+you're gonna love the bathroom.</font>
+
+284
+00:29:36,680 --> 00:29:37,886
+<font color="#ffff00">Great.</font>
+
+285
+00:29:40,400 --> 00:29:41,526
+<font color="#ffff00">Okay...</font>
+
+286
+00:29:41,600 --> 00:29:43,568
+<font color="#ffff00">- Seriously?
+- Is there no other area?</font>
+
+287
+00:29:43,640 --> 00:29:45,529
+<font color="#ffff00">Are you kidding?</font>
+
+288
+00:29:46,240 --> 00:29:47,730
+<font color="#ffff00">You should feel right at home, Candor.</font>
+
+289
+00:29:48,120 --> 00:29:49,451
+<font color="#ffff00">Everything out in the open.</font>
+
+290
+00:29:49,640 --> 00:29:51,369
+<font color="#ffff00">Is this a joke?</font>
+
+291
+00:29:51,840 --> 00:29:53,046
+<font color="#ffff00">Get changed.</font>
+
+292
+00:29:55,040 --> 00:29:57,168
+<font color="#ffff00">Right. Shower, anyone?</font>
+
+293
+00:30:02,720 --> 00:30:04,006
+<font color="#ffff00">Nice legs, stiff.</font>
+
+294
+00:30:41,200 --> 00:30:43,123
+<font color="#ffff00">- Hey.
+- How you doin'?</font>
+
+295
+00:30:44,520 --> 00:30:46,443
+<font color="#ffff00">Shall we sit there?</font>
+
+296
+00:31:06,640 --> 00:31:08,927
+<font color="#ffff00">Have you never seen
+a hamburger before?</font>
+
+297
+00:31:09,240 --> 00:31:12,403
+<font color="#ffff00">No, I've seen one.
+I just have never eaten one.</font>
+
+298
+00:31:12,480 --> 00:31:14,130
+<font color="#ffff00">Abnegation eat plain food.</font>
+
+299
+00:31:14,200 --> 00:31:17,044
+<font color="#ffff00">Plant-based diet with no sauces
+and a minimum of seasoning.</font>
+
+300
+00:31:17,440 --> 00:31:18,771
+<font color="#ffff00">Which textbook did you swallow?</font>
+
+301
+00:31:20,200 --> 00:31:23,283
+<font color="#ffff00">Nice to meet you, too.
+I'm Will. Erudite.</font>
+
+302
+00:31:23,920 --> 00:31:25,160
+<font color="#ffff00">Of course you are.</font>
+
+303
+00:31:25,960 --> 00:31:28,486
+<font color="#ffff00">No offense, but I'm surprised
+Abnegation even eats at all.</font>
+
+304
+00:31:28,560 --> 00:31:30,881
+<font color="#ffff00">Too selfish, right?
+No wonder you left.</font>
+
+305
+00:31:31,240 --> 00:31:33,447
+<font color="#ffff00">You gotta be pretty self-confident
+to be friends with a Candor.</font>
+
+306
+00:31:33,520 --> 00:31:34,851
+<font color="#ffff00">What is that supposed to mean?</font>
+
+307
+00:31:35,080 --> 00:31:36,161
+<font color="#ffff00">You have no filter.</font>
+
+308
+00:31:36,240 --> 00:31:37,571
+<font color="#ffff00">You say the first thing
+that comes into your head.</font>
+
+309
+00:31:38,000 --> 00:31:39,240
+<font color="#ffff00">You mean like,
+"You're an idiot"?</font>
+
+310
+00:31:40,400 --> 00:31:42,562
+<font color="#ffff00">Nice one, Al.
+At least we tell the truth.</font>
+
+311
+00:31:42,640 --> 00:31:44,768
+<font color="#ffff00">Erudite can tell the truth
+because we have the facts.</font>
+
+312
+00:31:44,880 --> 00:31:46,325
+<font color="#ffff00">I don't want to hear
+about your old factions.</font>
+
+313
+00:31:48,320 --> 00:31:50,004
+<font color="#ffff00">You're Dauntless now.</font>
+
+314
+00:31:51,200 --> 00:31:54,807
+<font color="#ffff00">Were you a transfer, too?
+Or Dauntless-born?</font>
+
+315
+00:31:56,840 --> 00:31:58,001
+<font color="#ffff00">Are you kidding?</font>
+
+316
+00:31:58,760 --> 00:31:59,807
+<font color="#ffff00">No.</font>
+
+317
+00:32:02,520 --> 00:32:04,124
+<font color="#ffff00">What makes you think
+you can talk to me?</font>
+
+318
+00:32:07,120 --> 00:32:08,281
+<font color="#ffff00">It...</font>
+
+319
+00:32:09,800 --> 00:32:11,325
+<font color="#ffff00">Must be because you're so approachable.</font>
+
+320
+00:32:20,840 --> 00:32:22,080
+<font color="#ffff00">Careful.</font>
+
+321
+00:32:24,360 --> 00:32:25,691
+<font color="#ffff00">Four...</font>
+
+322
+00:32:27,080 --> 00:32:29,242
+<font color="#ffff00">You, my friend, have a death wish.</font>
+
+323
+00:32:30,600 --> 00:32:32,284
+<font color="#ffff00">You know,
+he was first in his class.</font>
+
+324
+00:32:32,360 --> 00:32:34,567
+<font color="#ffff00">They tried to recruit him
+for leadership twice,</font>
+
+325
+00:32:34,680 --> 00:32:35,841
+<font color="#ffff00">but he said no.</font>
+
+326
+00:32:47,400 --> 00:32:50,529
+<font color="#ffff00">Initiates, stand.</font>
+
+327
+00:32:56,320 --> 00:32:58,721
+<font color="#ffff00">You have chosen to join the warrior faction</font>
+
+328
+00:32:59,080 --> 00:33:02,641
+<font color="#ffff00">tasked with the defense of this city
+and all its inhabitants.</font>
+
+329
+00:33:03,000 --> 00:33:05,571
+<font color="#ffff00">We believe in ordinary acts of bravery</font>
+
+330
+00:33:06,280 --> 00:33:09,250
+<font color="#ffff00">and the courage that drives one person</font>
+
+331
+00:33:09,560 --> 00:33:11,164
+<font color="#ffff00">to stand up for another.</font>
+
+332
+00:33:12,120 --> 00:33:13,246
+<font color="#ffff00">Respect that.</font>
+
+333
+00:33:14,360 --> 00:33:15,805
+<font color="#ffff00">Do us proud.</font>
+
+334
+00:33:27,040 --> 00:33:28,451
+<font color="#ffff00">Whoa!</font>
+
+335
+00:34:01,640 --> 00:34:04,120
+<font color="#ffff00">I want everyone in The Pit.
+Two minutes.</font>
+
+336
+00:34:12,240 --> 00:34:14,322
+<font color="#ffff00">There are two stages of training.</font>
+
+337
+00:34:14,760 --> 00:34:16,649
+<font color="#ffff00">The first is physical.</font>
+
+338
+00:34:16,800 --> 00:34:20,168
+<font color="#ffff00">Push your bodies to the breaking point
+and you'll master the methods of combat.</font>
+
+339
+00:34:20,240 --> 00:34:23,244
+<font color="#ffff00">The second is mental.
+Again, breaking point.</font>
+
+340
+00:34:24,200 --> 00:34:27,568
+<font color="#ffff00">You'll face your worst fears and conquer
+them unless they get you first.</font>
+
+341
+00:34:28,080 --> 00:34:30,082
+<font color="#ffff00">You'll be trained separately
+from the Dauntless-born,</font>
+
+342
+00:34:30,160 --> 00:34:32,003
+<font color="#ffff00">but you'll be ranked together.</font>
+
+343
+00:34:32,160 --> 00:34:35,801
+<font color="#ffff00">After initiations, rankings will determine
+what jobs you move into.</font>
+
+344
+00:34:36,800 --> 00:34:39,007
+<font color="#ffff00">Leadership, guarding the fence,</font>
+
+345
+00:34:39,760 --> 00:34:41,330
+<font color="#ffff00">or keeping the Factionless
+from killing each other.</font>
+
+346
+00:34:41,400 --> 00:34:43,323
+<font color="#ffff00">The rankings will also
+determine who gets cut.</font>
+
+347
+00:34:46,840 --> 00:34:47,841
+<font color="#ffff00">Cut?</font>
+
+348
+00:34:48,040 --> 00:34:51,806
+<font color="#ffff00">At the end of each stage of training,
+the lowest-ranking Initiates will be leaving us.</font>
+
+349
+00:34:52,480 --> 00:34:53,527
+<font color="#ffff00">To do what?</font>
+
+350
+00:34:54,720 --> 00:34:57,530
+<font color="#ffff00">There's no going home to your families,
+so you'd live factionless.</font>
+
+351
+00:34:59,920 --> 00:35:01,001
+<font color="#ffff00">Why didn't we know that?</font>
+
+352
+00:35:01,200 --> 00:35:02,201
+<font color="#ffff00">It's a new rule.</font>
+
+353
+00:35:02,400 --> 00:35:04,209
+<font color="#ffff00">A new rule?
+Somebody should have told us that.</font>
+
+354
+00:35:04,280 --> 00:35:05,281
+<font color="#ffff00">Why?</font>
+
+355
+00:35:05,360 --> 00:35:07,089
+<font color="#ffff00">Would you have chosen differently?</font>
+
+356
+00:35:07,840 --> 00:35:08,841
+<font color="#ffff00">Out of fear?</font>
+
+357
+00:35:10,360 --> 00:35:13,045
+<font color="#ffff00">I mean, if that's the case,
+you might as well get out now.</font>
+
+358
+00:35:13,760 --> 00:35:17,207
+<font color="#ffff00">If you're really one of us,
+it won't matter to you that you might fail.</font>
+
+359
+00:35:18,320 --> 00:35:20,084
+<font color="#ffff00">Now you chose us.</font>
+
+360
+00:35:21,560 --> 00:35:22,925
+<font color="#ffff00">Now we get to choose you.</font>
+
+361
+00:35:47,240 --> 00:35:50,403
+<font color="#ffff00">Statistically speaking, you should have
+hit the target at least once by now.</font>
+
+362
+00:35:51,080 --> 00:35:52,445
+<font color="#ffff00">Even by accident.</font>
+
+363
+00:35:58,760 --> 00:36:00,842
+<font color="#ffff00">Hey. What have you got?</font>
+
+364
+00:36:01,240 --> 00:36:03,720
+<font color="#ffff00">Factionless. Not doing anything.</font>
+
+365
+00:36:04,560 --> 00:36:06,881
+<font color="#ffff00">Check it out, stiff.
+That's gonna be your new family.</font>
+
+366
+00:36:11,080 --> 00:36:12,491
+<font color="#ffff00">Go say "Hi."</font>
+
+367
+00:36:19,360 --> 00:36:21,408
+<font color="#ffff00">You ready for some real fighting?</font>
+
+368
+00:36:21,680 --> 00:36:22,966
+<font color="#ffff00">Not even close.</font>
+
+369
+00:36:23,240 --> 00:36:24,241
+<font color="#ffff00">First jumper!</font>
+
+370
+00:36:26,600 --> 00:36:27,647
+<font color="#ffff00">In the ring.</font>
+
+371
+00:36:29,760 --> 00:36:31,205
+<font color="#ffff00">Last jumper!</font>
+
+372
+00:36:32,680 --> 00:36:34,284
+<font color="#ffff00">Time to fight.</font>
+
+373
+00:36:41,800 --> 00:36:43,165
+<font color="#ffff00">How long do we fight for?</font>
+
+374
+00:36:43,240 --> 00:36:44,480
+<font color="#ffff00">Till one of you can't continue.</font>
+
+375
+00:36:45,360 --> 00:36:46,930
+<font color="#ffff00">Or one of you concedes.</font>
+
+376
+00:36:47,000 --> 00:36:48,764
+<font color="#ffff00">According to the old rules.</font>
+
+377
+00:36:48,840 --> 00:36:50,808
+<font color="#ffff00">New rules, no one concedes.</font>
+
+378
+00:36:52,720 --> 00:36:54,484
+<font color="#ffff00">You really want to lose
+'em on their first fight?</font>
+
+379
+00:36:54,560 --> 00:36:56,403
+<font color="#ffff00">A brave man never surrenders.</font>
+
+380
+00:36:56,600 --> 00:36:59,251
+<font color="#ffff00">Lucky for you, those weren't
+the rules when we fought.</font>
+
+381
+00:37:00,280 --> 00:37:01,805
+<font color="#ffff00">You'll be scored on this,
+so fight hard.</font>
+
+382
+00:37:05,640 --> 00:37:06,846
+<font color="#ffff00">Go!</font>
+
+383
+00:37:26,360 --> 00:37:28,442
+<font color="#ffff00">Don't be scared, stiff!</font>
+
+384
+00:37:31,960 --> 00:37:33,689
+<font color="#ffff00">Nice, Tris!</font>
+
+385
+00:37:47,360 --> 00:37:49,124
+<font color="#ffff00">- Nice.
+- Yeah!</font>
+
+386
+00:37:57,040 --> 00:37:58,769
+<font color="#ffff00">All right, guys, over here.</font>
+
+387
+00:38:00,280 --> 00:38:01,611
+<font color="#ffff00">Listen up.</font>
+
+388
+00:38:05,040 --> 00:38:06,530
+<font color="#ffff00">Know what this board is?</font>
+
+389
+00:38:07,880 --> 00:38:09,041
+<font color="#ffff00">It's your life.</font>
+
+390
+00:38:09,280 --> 00:38:11,169
+<font color="#ffff00">We grade you every day.</font>
+
+391
+00:38:12,000 --> 00:38:13,604
+<font color="#ffff00">If you're still in the red by
+the end of the first stage,</font>
+
+392
+00:38:14,160 --> 00:38:15,571
+<font color="#ffff00">you're out.</font>
+
+393
+00:38:16,880 --> 00:38:18,211
+<font color="#ffff00"><i>I'm never gonna make it.</i></font>
+
+394
+00:38:18,600 --> 00:38:20,045
+<font color="#ffff00">Yes, you are.</font>
+
+395
+00:38:20,480 --> 00:38:21,686
+<font color="#ffff00">I'm the weakest one here.</font>
+
+396
+00:38:22,360 --> 00:38:24,169
+<font color="#ffff00">Then you'll be most improved.</font>
+
+397
+00:38:25,520 --> 00:38:27,045
+<font color="#ffff00">You're Candor.
+You're not supposed to lie.</font>
+
+398
+00:38:27,520 --> 00:38:30,444
+<font color="#ffff00">I was Candor.
+And I'm not lying.</font>
+
+399
+00:38:31,400 --> 00:38:33,448
+<font color="#ffff00">If they cut me, I think my parents
+would take me back.</font>
+
+400
+00:38:33,880 --> 00:38:35,723
+<font color="#ffff00">No, it doesn't
+work like that.</font>
+
+401
+00:38:37,240 --> 00:38:39,163
+<font color="#ffff00">Even if they wanted to,
+their faction wouldn't allow it.</font>
+
+402
+00:38:40,160 --> 00:38:42,731
+<font color="#ffff00">Even if my parents would take me back,</font>
+
+403
+00:38:44,080 --> 00:38:46,208
+<font color="#ffff00">I wouldn't belong there anymore.</font>
+
+404
+00:38:47,360 --> 00:38:48,361
+<font color="#ffff00">This is getting depressing.</font>
+
+405
+00:38:48,440 --> 00:38:49,521
+<font color="#ffff00">Yeah.</font>
+
+406
+00:38:49,600 --> 00:38:51,967
+<font color="#ffff00">You know
+what we should do? Get tattoos.</font>
+
+407
+00:38:59,120 --> 00:39:00,929
+<font color="#ffff00">Did you know they had
+a tattoo of your face?</font>
+
+408
+00:39:02,080 --> 00:39:03,605
+<font color="#ffff00">- Like it?
+- Yeah.</font>
+
+409
+00:39:03,920 --> 00:39:05,524
+<font color="#ffff00">- Where would you get it?
+- I don't know.</font>
+
+410
+00:39:05,600 --> 00:39:07,443
+<font color="#ffff00">Where do you suggest?</font>
+
+411
+00:39:07,920 --> 00:39:09,331
+<font color="#ffff00">Anywhere you want.</font>
+
+412
+00:39:11,440 --> 00:39:13,169
+<font color="#ffff00">Here, it's this thing here.</font>
+
+413
+00:39:29,880 --> 00:39:31,803
+<font color="#ffff00">You remember me, right?</font>
+
+414
+00:39:33,160 --> 00:39:34,605
+<font color="#ffff00">I was just wondering
+if you could...</font>
+
+415
+00:39:34,680 --> 00:39:35,681
+<font color="#ffff00">No.</font>
+
+416
+00:39:36,680 --> 00:39:38,330
+<font color="#ffff00">I just do tattoos.</font>
+
+417
+00:39:42,560 --> 00:39:43,641
+<font color="#ffff00">Okay.</font>
+
+418
+00:39:54,680 --> 00:39:56,330
+<font color="#ffff00">I'd like this one.</font>
+
+419
+00:39:57,480 --> 00:39:58,686
+<font color="#ffff00">Please.</font>
+
+420
+00:40:06,680 --> 00:40:07,841
+<font color="#ffff00">Can I just ask you...</font>
+
+421
+00:40:07,920 --> 00:40:09,649
+<font color="#ffff00">You made a mistake
+choosing Dauntless.</font>
+
+422
+00:40:11,000 --> 00:40:12,968
+<font color="#ffff00">- They'll find out about you...
+- Who?</font>
+
+423
+00:40:14,040 --> 00:40:15,087
+<font color="#ffff00">Who will?</font>
+
+424
+00:40:15,160 --> 00:40:16,685
+<font color="#ffff00">The people you're a threat to.</font>
+
+425
+00:40:16,840 --> 00:40:18,205
+<font color="#ffff00">What people? Who, Dauntless?</font>
+
+426
+00:40:18,280 --> 00:40:19,691
+<font color="#ffff00">No, society.</font>
+
+427
+00:40:20,040 --> 00:40:22,281
+<font color="#ffff00">If you don't fit into a category,
+they can't control you.</font>
+
+428
+00:40:24,160 --> 00:40:25,491
+<font color="#ffff00">I don't get it.</font>
+
+429
+00:40:26,080 --> 00:40:28,003
+<font color="#ffff00">I'm Dauntless.
+I'm going to be Dauntless.</font>
+
+430
+00:40:28,120 --> 00:40:29,531
+<font color="#ffff00">I chose Dauntless.</font>
+
+431
+00:40:31,640 --> 00:40:34,849
+<font color="#ffff00">For your sake, I hope so.</font>
+
+432
+00:41:43,720 --> 00:41:46,530
+<font color="#ffff00">You're weak.
+You have no muscle.</font>
+
+433
+00:41:50,920 --> 00:41:52,729
+<font color="#ffff00">You're never gonna win, not like that.</font>
+
+434
+00:41:52,800 --> 00:41:53,847
+<font color="#ffff00">That's good to know.</font>
+
+435
+00:41:53,920 --> 00:41:55,888
+<font color="#ffff00">Yeah, you have to use your whole body.</font>
+
+436
+00:41:56,680 --> 00:41:58,250
+<font color="#ffff00">Keep tension here.</font>
+
+437
+00:42:01,000 --> 00:42:02,889
+<font color="#ffff00">- Okay...
+- And go on offense.</font>
+
+438
+00:42:03,560 --> 00:42:06,530
+<font color="#ffff00">You're fast, so you could win
+if you attack first.</font>
+
+439
+00:42:07,960 --> 00:42:09,610
+<font color="#ffff00">You get inside,
+you jab to the throat.</font>
+
+440
+00:42:11,000 --> 00:42:12,126
+<font color="#ffff00">Four!</font>
+
+441
+00:42:13,120 --> 00:42:14,884
+<font color="#ffff00">Keep working.</font>
+
+442
+00:42:23,120 --> 00:42:24,884
+<font color="#ffff00">Sorry about that, Will.</font>
+
+443
+00:42:33,680 --> 00:42:34,761
+<font color="#ffff00">Come on, Chris.</font>
+
+444
+00:42:41,880 --> 00:42:43,723
+<font color="#ffff00">Stop... Stop!</font>
+
+445
+00:42:44,480 --> 00:42:47,404
+<font color="#ffff00">I'm done. I'm done.</font>
+
+446
+00:42:47,680 --> 00:42:48,727
+<font color="#ffff00">You need to stop?</font>
+
+447
+00:42:51,640 --> 00:42:52,687
+<font color="#ffff00">Okay.</font>
+
+448
+00:42:53,840 --> 00:42:55,649
+<font color="#ffff00">Let me give you a hand.</font>
+
+449
+00:43:02,720 --> 00:43:03,846
+<font color="#ffff00">Thanks.</font>
+
+450
+00:43:04,760 --> 00:43:06,603
+<font color="#ffff00">All right,
+let's everyone take a break!</font>
+
+451
+00:43:14,920 --> 00:43:17,161
+<font color="#ffff00">You feelin' a little better?</font>
+
+452
+00:43:17,520 --> 00:43:18,601
+<font color="#ffff00">Yeah, I'm fine.</font>
+
+453
+00:43:20,360 --> 00:43:21,361
+<font color="#ffff00">Whoa!</font>
+
+454
+00:43:23,520 --> 00:43:24,601
+<font color="#ffff00">Grab the rail.</font>
+
+455
+00:43:26,240 --> 00:43:27,730
+<font color="#ffff00">Or don't.</font>
+
+456
+00:43:29,440 --> 00:43:30,965
+<font color="#ffff00">You've got three options.</font>
+
+457
+00:43:31,680 --> 00:43:33,887
+<font color="#ffff00">Hang there
+and I'll forget your cowardice.</font>
+
+458
+00:43:33,960 --> 00:43:35,200
+<font color="#ffff00">Fall and die.</font>
+
+459
+00:43:36,360 --> 00:43:37,805
+<font color="#ffff00">Or give up.</font>
+
+460
+00:43:39,200 --> 00:43:40,440
+<font color="#ffff00">But if you give up, you're out.</font>
+
+461
+00:43:51,160 --> 00:43:52,685
+<font color="#ffff00">Come on, Chris!</font>
+
+462
+00:44:07,880 --> 00:44:09,405
+<font color="#ffff00">Time!</font>
+
+463
+00:44:17,880 --> 00:44:19,928
+<font color="#ffff00">Dauntless never give up.</font>
+
+464
+00:44:26,800 --> 00:44:28,404
+<font color="#ffff00">As Dauntless, we fight to protect</font>
+
+465
+00:44:28,480 --> 00:44:30,721
+<font color="#ffff00">every life inside the fence, without fail.</font>
+
+466
+00:44:32,520 --> 00:44:35,046
+<font color="#ffff00">That's why we train you the way we do.</font>
+
+467
+00:44:36,280 --> 00:44:37,770
+<font color="#ffff00">To teach you not to give up.</font>
+
+468
+00:44:41,080 --> 00:44:42,969
+<font color="#ffff00">And to find out who has what it takes.</font>
+
+469
+00:44:46,320 --> 00:44:47,845
+<font color="#ffff00"><i>Even though it's been quiet
+out there for years,</i></font>
+
+470
+00:44:47,920 --> 00:44:50,207
+<font color="#ffff00"><i>that could change at any moment.</i></font>
+
+471
+00:44:51,040 --> 00:44:53,008
+<font color="#ffff00"><i>So we have to be ready for everything.</i></font>
+
+472
+00:44:53,120 --> 00:44:54,121
+<font color="#ffff00">Whoo!</font>
+
+473
+00:45:10,320 --> 00:45:12,368
+<font color="#ffff00">- What's out there?
+- Monsters.</font>
+
+474
+00:45:13,800 --> 00:45:15,040
+<font color="#ffff00">Amity farms.</font>
+
+475
+00:45:15,600 --> 00:45:16,886
+<font color="#ffff00">No, I know. But beyond that?</font>
+
+476
+00:45:17,120 --> 00:45:19,043
+<font color="#ffff00">Places that never recovered
+from the war.</font>
+
+477
+00:45:19,560 --> 00:45:20,607
+<font color="#ffff00">Do you know?</font>
+
+478
+00:45:20,840 --> 00:45:23,241
+<font color="#ffff00">Let's just say they built
+their fence for a reason.</font>
+
+479
+00:45:40,840 --> 00:45:42,285
+<font color="#ffff00">Man!</font>
+
+480
+00:45:51,960 --> 00:45:53,121
+<font color="#ffff00">You're kinda good at this.</font>
+
+481
+00:45:53,240 --> 00:45:54,401
+<font color="#ffff00">Come on.</font>
+
+482
+00:46:01,360 --> 00:46:02,600
+<font color="#ffff00">That was pathetic.</font>
+
+483
+00:46:04,760 --> 00:46:06,330
+<font color="#ffff00">It slipped.</font>
+
+484
+00:46:07,200 --> 00:46:08,326
+<font color="#ffff00">Well, go get it!</font>
+
+485
+00:46:12,840 --> 00:46:14,171
+<font color="#ffff00">What, while they're throwing?</font>
+
+486
+00:46:14,680 --> 00:46:15,761
+<font color="#ffff00">Are you afraid?</font>
+
+487
+00:46:16,040 --> 00:46:17,963
+<font color="#ffff00">Of getting stabbed
+by an airborne knife? Yeah.</font>
+
+488
+00:46:18,320 --> 00:46:19,560
+<font color="#ffff00">Everybody stop.</font>
+
+489
+00:46:24,480 --> 00:46:25,720
+<font color="#ffff00">Stand in front of the target.</font>
+
+490
+00:46:35,400 --> 00:46:36,845
+<font color="#ffff00">Four, gimme a hand here.</font>
+
+491
+00:46:38,840 --> 00:46:41,923
+<font color="#ffff00">You're gonna stand there
+while he throws those knives.</font>
+
+492
+00:46:44,200 --> 00:46:47,090
+<font color="#ffff00">And if I see you flinch, you're out.</font>
+
+493
+00:46:48,560 --> 00:46:53,009
+<font color="#ffff00">One thing you will learn here
+is that orders are not optional.</font>
+
+494
+00:47:09,960 --> 00:47:10,961
+<font color="#ffff00">Stop.</font>
+
+495
+00:47:14,920 --> 00:47:16,922
+<font color="#ffff00">Anyone can stand in front of a target.
+It doesn't prove anything.</font>
+
+496
+00:47:18,360 --> 00:47:20,647
+<font color="#ffff00">Then it should be easy
+for you to take his place.</font>
+
+497
+00:47:31,680 --> 00:47:33,330
+<font color="#ffff00">Same rules apply.</font>
+
+498
+00:47:41,600 --> 00:47:43,170
+<font color="#ffff00">Oh, come on, Four.</font>
+
+499
+00:47:56,800 --> 00:47:58,245
+<font color="#ffff00">You can get closer than that.</font>
+
+500
+00:47:59,280 --> 00:48:00,691
+<font color="#ffff00">You want me to give her a little trim?</font>
+
+501
+00:48:00,800 --> 00:48:02,484
+<font color="#ffff00">Yeah, maybe just a little off the top.</font>
+
+502
+00:48:17,480 --> 00:48:19,084
+<font color="#ffff00">Points for bravery, stiff.</font>
+
+503
+00:48:19,520 --> 00:48:21,841
+<font color="#ffff00">Not as many as you just lost
+for opening your mouth.</font>
+
+504
+00:48:26,320 --> 00:48:27,606
+<font color="#ffff00">Now watch yourself.</font>
+
+505
+00:48:28,840 --> 00:48:30,649
+<font color="#ffff00">We train soldiers, not rebels.</font>
+
+506
+00:48:33,160 --> 00:48:34,810
+<font color="#ffff00">But we're done for today.
+Get out.</font>
+
+507
+00:48:41,520 --> 00:48:43,124
+<font color="#ffff00">- You all right?
+- You cut me.</font>
+
+508
+00:48:43,280 --> 00:48:44,770
+<font color="#ffff00">I meant to.</font>
+
+509
+00:48:46,520 --> 00:48:47,681
+<font color="#ffff00">You meant to?</font>
+
+510
+00:48:47,840 --> 00:48:50,127
+<font color="#ffff00">You think he was gonna
+let you off without a scratch?</font>
+
+511
+00:48:50,600 --> 00:48:52,807
+<font color="#ffff00">You'd still be standing there
+if I hadn't hit you.</font>
+
+512
+00:48:54,720 --> 00:48:56,688
+<font color="#ffff00">So am I supposed
+to thank you?</font>
+
+513
+00:48:59,440 --> 00:49:01,124
+<font color="#ffff00">You're supposed to be smart.</font>
+
+514
+00:49:02,400 --> 00:49:05,370
+<font color="#ffff00">If I wanted to hurt you,
+I would have.</font>
+
+515
+00:49:16,480 --> 00:49:17,481
+<font color="#ffff00">There she is.</font>
+
+516
+00:49:21,160 --> 00:49:22,810
+<font color="#ffff00">You do have a death wish.</font>
+
+517
+00:49:22,880 --> 00:49:25,008
+<font color="#ffff00">I can't believe you said that to Eric.</font>
+
+518
+00:49:25,080 --> 00:49:26,730
+<font color="#ffff00">You're the only one
+who's ever stood up to him.</font>
+
+519
+00:49:26,800 --> 00:49:28,768
+<font color="#ffff00">Look at your ear.
+Let's get you cleaned up.</font>
+
+520
+00:49:29,080 --> 00:49:30,491
+<font color="#ffff00">Hey, Tris.</font>
+
+521
+00:49:31,440 --> 00:49:32,601
+<font color="#ffff00">That was cool.</font>
+
+522
+00:49:33,400 --> 00:49:34,561
+<font color="#ffff00">Thanks.</font>
+
+523
+00:49:39,000 --> 00:49:41,162
+<font color="#ffff00">Impressive, stiff. Congrats.</font>
+
+524
+00:49:41,520 --> 00:49:42,567
+<font color="#ffff00">Shut up.</font>
+
+525
+00:49:42,880 --> 00:49:44,291
+<font color="#ffff00">What?
+Hey, you're famous now.</font>
+
+526
+00:49:45,160 --> 00:49:46,650
+<font color="#ffff00">I mean, not because
+of the thing with Eric.</font>
+
+527
+00:49:46,720 --> 00:49:48,927
+<font color="#ffff00">You're in the news.
+Yeah, listen.</font>
+
+528
+00:49:49,240 --> 00:49:52,210
+<font color="#ffff00">"The recent transfers
+of Beatrice and Caleb Prior,</font>
+
+529
+00:49:52,280 --> 00:49:54,760
+<font color="#ffff00">"children of Andrew Prior,</font>
+
+530
+00:49:54,920 --> 00:49:56,684
+<font color="#ffff00">"call into question the soundness</font>
+
+531
+00:49:56,760 --> 00:49:58,842
+<font color="#ffff00">"of Abnegation's teachings and values.</font>
+
+532
+00:49:59,920 --> 00:50:01,490
+<font color="#ffff00">"What prompted them to leave?</font>
+
+533
+00:50:02,320 --> 00:50:05,767
+<font color="#ffff00">"Perhaps the answer lies in the
+corrupted ideal of an entire faction.</font>
+
+534
+00:50:05,840 --> 00:50:08,764
+<font color="#ffff00">"The theft of resources,
+the general incompetence,</font>
+
+535
+00:50:09,080 --> 00:50:10,570
+<font color="#ffff00">"the abuse of their children."</font>
+
+536
+00:50:10,920 --> 00:50:13,127
+<font color="#ffff00">Did they beat you,
+like Marcus Eaton's kid?</font>
+
+537
+00:50:15,080 --> 00:50:17,845
+<font color="#ffff00">They didn't beat anyone.
+They're good people.</font>
+
+538
+00:50:17,920 --> 00:50:20,446
+<font color="#ffff00">Right.
+And that's why you left?</font>
+
+539
+00:50:26,040 --> 00:50:27,769
+<font color="#ffff00">Was it something I said?</font>
+
+540
+00:50:28,120 --> 00:50:29,645
+<font color="#ffff00">- He's an idiot.
+- Yeah.</font>
+
+541
+00:50:29,720 --> 00:50:31,404
+<font color="#ffff00">Yeah. That's okay.</font>
+
+542
+00:50:38,120 --> 00:50:39,929
+<font color="#ffff00">What's she doing at Dauntless?</font>
+
+543
+00:50:44,240 --> 00:50:45,287
+<font color="#ffff00">Prior.</font>
+
+544
+00:50:46,600 --> 00:50:48,841
+<font color="#ffff00">You're Andrew Prior's daughter, aren't you?</font>
+
+545
+00:50:50,280 --> 00:50:51,486
+<font color="#ffff00">Beatrice.</font>
+
+546
+00:50:51,560 --> 00:50:53,244
+<font color="#ffff00">It's just Tris now.</font>
+
+547
+00:50:53,960 --> 00:50:55,485
+<font color="#ffff00">Tris, I like that.</font>
+
+548
+00:50:58,760 --> 00:50:59,841
+<font color="#ffff00">Hmm.</font>
+
+549
+00:51:00,280 --> 00:51:02,886
+<font color="#ffff00">You made an impressive choice,
+Tris, despite your parents.</font>
+
+550
+00:51:03,640 --> 00:51:05,130
+<font color="#ffff00">And your test result.</font>
+
+551
+00:51:06,280 --> 00:51:07,327
+<font color="#ffff00">You've seen my test result?</font>
+
+552
+00:51:07,640 --> 00:51:09,005
+<font color="#ffff00">Of course.</font>
+
+553
+00:51:10,560 --> 00:51:13,040
+<font color="#ffff00">I'm glad you were smart enough
+to know your own mind.</font>
+
+554
+00:51:14,840 --> 00:51:17,002
+<font color="#ffff00">Let me know if you ever need anything.</font>
+
+555
+00:51:26,600 --> 00:51:28,648
+<font color="#ffff00">Well, that was weird.</font>
+
+556
+00:51:29,120 --> 00:51:30,201
+<font color="#ffff00">Yeah.</font>
+
+557
+00:51:32,720 --> 00:51:33,926
+<font color="#ffff00">What do you think is goin' on?</font>
+
+558
+00:51:34,440 --> 00:51:36,681
+<font color="#ffff00">I bet they're hunting Divergents.</font>
+
+559
+00:51:37,320 --> 00:51:39,527
+<font color="#ffff00">That's all they talk about
+at Erudite these days.</font>
+
+560
+00:51:42,160 --> 00:51:44,208
+<font color="#ffff00">Wait.
+Divergents are real?</font>
+
+561
+00:51:44,280 --> 00:51:45,964
+<font color="#ffff00">Come on, Al.</font>
+
+562
+00:51:53,160 --> 00:51:56,369
+<font color="#ffff00">First fight. Peter versus Tris.</font>
+
+563
+00:51:57,920 --> 00:51:58,967
+<font color="#ffff00">What?</font>
+
+564
+00:51:59,240 --> 00:52:00,241
+<font color="#ffff00">Uh-oh.</font>
+
+565
+00:52:02,240 --> 00:52:03,730
+<font color="#ffff00">It's Eric.</font>
+
+566
+00:52:04,040 --> 00:52:06,122
+<font color="#ffff00">He's just trying to get back at you.</font>
+
+567
+00:52:10,160 --> 00:52:11,571
+<font color="#ffff00">- Hey.
+- What?</font>
+
+568
+00:52:12,800 --> 00:52:15,087
+<font color="#ffff00">Remember what I said about attack?</font>
+
+569
+00:52:15,160 --> 00:52:17,527
+<font color="#ffff00">First shot, right to the throat.</font>
+
+570
+00:52:17,600 --> 00:52:19,011
+<font color="#ffff00">And you watch him.</font>
+
+571
+00:52:19,080 --> 00:52:21,208
+<font color="#ffff00">He steps before he punches.</font>
+
+572
+00:52:21,640 --> 00:52:22,641
+<font color="#ffff00">All right?</font>
+
+573
+00:52:22,720 --> 00:52:23,721
+<font color="#ffff00">Mmm.</font>
+
+574
+00:52:30,480 --> 00:52:32,244
+<font color="#ffff00">All right there, stiff?</font>
+
+575
+00:52:32,640 --> 00:52:34,369
+<font color="#ffff00">Look like you're about to cry.</font>
+
+576
+00:52:35,160 --> 00:52:36,764
+<font color="#ffff00">Might take it easy on you if you cry.</font>
+
+577
+00:52:36,880 --> 00:52:37,847
+<font color="#ffff00">Come on, Tris.</font>
+
+578
+00:53:03,520 --> 00:53:05,010
+<font color="#ffff00">Get up. Get up.</font>
+
+579
+00:53:05,080 --> 00:53:06,605
+<font color="#ffff00">Come on.
+Stop playin' with each other.</font>
+
+580
+00:53:51,960 --> 00:53:53,644
+<font color="#ffff00">Wow. You look...</font>
+
+581
+00:53:54,200 --> 00:53:55,326
+<font color="#ffff00">Look bad.</font>
+
+582
+00:53:58,800 --> 00:54:00,484
+<font color="#ffff00">How long have I been here?</font>
+
+583
+00:54:01,360 --> 00:54:02,486
+<font color="#ffff00">About a day.</font>
+
+584
+00:54:02,680 --> 00:54:03,966
+<font color="#ffff00">A day?</font>
+
+585
+00:54:04,640 --> 00:54:07,450
+<font color="#ffff00">Have you seen the scoreboard?
+Where am I?</font>
+
+586
+00:54:08,480 --> 00:54:09,686
+<font color="#ffff00">You got below the line.</font>
+
+587
+00:54:12,840 --> 00:54:14,683
+<font color="#ffff00">Why are you wearing those vests?</font>
+
+588
+00:54:17,600 --> 00:54:18,726
+<font color="#ffff00">War games.</font>
+
+589
+00:54:20,000 --> 00:54:21,081
+<font color="#ffff00">Whoa. What are you doing?</font>
+
+590
+00:54:21,160 --> 00:54:22,446
+<font color="#ffff00">- I'm coming.
+- You can't.</font>
+
+591
+00:54:22,520 --> 00:54:23,965
+<font color="#ffff00">Eric says you're done.</font>
+
+592
+00:54:24,360 --> 00:54:25,486
+<font color="#ffff00">What?</font>
+
+593
+00:54:25,560 --> 00:54:26,971
+<font color="#ffff00">He said you're out.</font>
+
+594
+00:54:29,200 --> 00:54:30,850
+<font color="#ffff00">Your father's on the council, Tris.</font>
+
+595
+00:54:30,960 --> 00:54:32,689
+<font color="#ffff00">Maybe they'll make an exception
+and let you go home.</font>
+
+596
+00:54:35,200 --> 00:54:36,531
+<font color="#ffff00">We're sorry, Tris.</font>
+
+597
+00:54:37,840 --> 00:54:40,047
+<font color="#ffff00">We gotta go.
+We're gonna miss the train.</font>
+
+598
+00:54:40,800 --> 00:54:42,131
+<font color="#ffff00">Yeah, okay.</font>
+
+599
+00:54:47,480 --> 00:54:49,369
+<font color="#ffff00">- Bye.
+- Bye.</font>
+
+600
+00:54:49,960 --> 00:54:51,530
+<font color="#ffff00">- Bye.
+- Bye.</font>
+
+601
+00:55:35,720 --> 00:55:36,801
+<font color="#ffff00">Thanks.</font>
+
+602
+00:55:44,400 --> 00:55:45,640
+<font color="#ffff00">Hi.</font>
+
+603
+00:55:45,720 --> 00:55:46,960
+<font color="#ffff00">- Hi.
+- What are you doing here?</font>
+
+604
+00:55:47,040 --> 00:55:49,771
+<font color="#ffff00">I just figured
+that I had to make it.</font>
+
+605
+00:55:49,840 --> 00:55:51,001
+<font color="#ffff00">Who let you out?</font>
+
+606
+00:55:52,680 --> 00:55:53,841
+<font color="#ffff00">I did.</font>
+
+607
+00:55:54,320 --> 00:55:55,606
+<font color="#ffff00">You did?</font>
+
+608
+00:56:02,520 --> 00:56:03,806
+<font color="#ffff00">Okay.</font>
+
+609
+00:56:16,160 --> 00:56:17,366
+<font color="#ffff00">Let's sit you down.</font>
+
+610
+00:56:18,440 --> 00:56:20,966
+<font color="#ffff00">The game's simple.
+It's like Capture the Flag.</font>
+
+611
+00:56:22,800 --> 00:56:24,404
+<font color="#ffff00">Weapon of choice.</font>
+
+612
+00:56:25,360 --> 00:56:26,521
+<font color="#ffff00">You call that a gun?</font>
+
+613
+00:56:36,960 --> 00:56:38,689
+<font color="#ffff00">Neuro-stim dart.</font>
+
+614
+00:56:38,800 --> 00:56:41,007
+<font color="#ffff00">Simulates the pain of
+a real gunshot wound.</font>
+
+615
+00:56:41,440 --> 00:56:43,204
+<font color="#ffff00">Only lasts a couple minutes.</font>
+
+616
+00:56:43,480 --> 00:56:45,801
+<font color="#ffff00">Two teams.
+Four and I are captains.</font>
+
+617
+00:56:46,120 --> 00:56:47,167
+<font color="#ffff00">You pick first.</font>
+
+618
+00:56:47,960 --> 00:56:50,122
+<font color="#ffff00">Okay. Edward.</font>
+
+619
+00:56:52,000 --> 00:56:53,206
+<font color="#ffff00">I'll take the stiff.</font>
+
+620
+00:56:53,960 --> 00:56:55,689
+<font color="#ffff00">Oh. Picking the weak ones</font>
+
+621
+00:56:55,800 --> 00:56:57,689
+<font color="#ffff00">so you've got someone
+to blame when you lose.</font>
+
+622
+00:56:58,720 --> 00:57:00,529
+<font color="#ffff00">Something like that.</font>
+
+623
+00:57:09,840 --> 00:57:11,490
+<font color="#ffff00">Where did Eric's team go?</font>
+
+624
+00:57:11,560 --> 00:57:13,403
+<font color="#ffff00">They must have gone to the end.</font>
+
+625
+00:57:17,520 --> 00:57:19,124
+<font color="#ffff00">All right. Lights off.</font>
+
+626
+00:57:19,200 --> 00:57:20,850
+<font color="#ffff00">Gather around. Come on.</font>
+
+627
+00:57:21,840 --> 00:57:23,285
+<font color="#ffff00">Okay. What's your strategy?</font>
+
+628
+00:57:23,360 --> 00:57:24,805
+<font color="#ffff00">We can hide the flag well enough
+so they can't find it.</font>
+
+629
+00:57:24,920 --> 00:57:27,605
+<font color="#ffff00">Let's send out a team to scout their location.
+See if we can find their flag.</font>
+
+630
+00:57:27,680 --> 00:57:29,523
+<font color="#ffff00">I say we blitz them.
+Just beat them with sheer force.</font>
+
+631
+00:57:29,600 --> 00:57:30,931
+<font color="#ffff00">Yeah, that's the best
+way to lose quickly.</font>
+
+632
+00:57:31,680 --> 00:57:33,045
+<font color="#ffff00">End this quickly,
+they won't expect it.</font>
+
+633
+00:57:33,160 --> 00:57:34,127
+<font color="#ffff00">We don't know where they are.</font>
+
+634
+00:57:34,200 --> 00:57:35,531
+<font color="#ffff00">Okay, we split into two groups,
+defense and offense.</font>
+
+635
+00:57:35,600 --> 00:57:36,886
+<font color="#ffff00">Who put you in charge?</font>
+
+636
+00:57:36,960 --> 00:57:38,041
+<font color="#ffff00">Someone has
+to make a decision.</font>
+
+637
+00:57:38,160 --> 00:57:39,286
+<font color="#ffff00">We need to be more aggressive.</font>
+
+638
+00:57:39,360 --> 00:57:40,361
+<font color="#ffff00">We need to be smart about it.</font>
+
+639
+00:57:51,040 --> 00:57:52,883
+<font color="#ffff00">You're not gonna jump, are you?</font>
+
+640
+00:57:53,000 --> 00:57:56,004
+<font color="#ffff00">No, I'm just trying to get
+a good vantage point.</font>
+
+641
+00:57:58,000 --> 00:57:59,570
+<font color="#ffff00">Good thinking.</font>
+
+642
+00:58:01,880 --> 00:58:03,803
+<font color="#ffff00">You don't have to come with me.</font>
+
+643
+00:58:03,880 --> 00:58:05,882
+<font color="#ffff00">You should go easy.
+You took a beating.</font>
+
+644
+00:58:06,200 --> 00:58:08,009
+<font color="#ffff00">I'm surprised you noticed.</font>
+
+645
+00:58:08,080 --> 00:58:09,320
+<font color="#ffff00">I saw you leave during the fight.</font>
+
+646
+00:58:09,400 --> 00:58:11,482
+<font color="#ffff00">Yeah, well, it's not something
+I wanted to watch.</font>
+
+647
+00:58:20,600 --> 00:58:21,601
+<font color="#ffff00">Hey!</font>
+
+648
+00:58:29,280 --> 00:58:30,281
+<font color="#ffff00">You good?</font>
+
+649
+00:58:32,040 --> 00:58:33,201
+<font color="#ffff00">You okay?</font>
+
+650
+00:58:33,520 --> 00:58:35,249
+<font color="#ffff00">Yeah. I'm fine.</font>
+
+651
+00:58:40,280 --> 00:58:42,123
+<font color="#ffff00">This is high enough.</font>
+
+652
+00:58:43,760 --> 00:58:45,603
+<font color="#ffff00">No, we need to go higher.</font>
+
+653
+00:58:49,680 --> 00:58:51,250
+<font color="#ffff00">You all right?</font>
+
+654
+00:58:54,360 --> 00:58:55,805
+<font color="#ffff00">You're afraid of heights.</font>
+
+655
+00:58:57,280 --> 00:58:59,248
+<font color="#ffff00">Everyone's afraid of something.</font>
+
+656
+00:59:01,200 --> 00:59:03,123
+<font color="#ffff00">I didn't think you were afraid
+of anything.</font>
+
+657
+00:59:13,720 --> 00:59:14,846
+<font color="#ffff00">Come on, Tris.</font>
+
+658
+00:59:19,040 --> 00:59:20,166
+<font color="#ffff00">Really?</font>
+
+659
+00:59:24,200 --> 00:59:25,565
+<font color="#ffff00">Are you even human?</font>
+
+660
+00:59:41,560 --> 00:59:43,050
+<font color="#ffff00">This isn't so bad.</font>
+
+661
+00:59:46,880 --> 00:59:48,086
+<font color="#ffff00">Good eye.</font>
+
+662
+00:59:52,160 --> 00:59:53,366
+<font color="#ffff00">Look!</font>
+
+663
+00:59:53,680 --> 00:59:55,091
+<font color="#ffff00">There it is.</font>
+
+664
+00:59:56,440 --> 00:59:57,771
+<font color="#ffff00">All right.
+What's your plan?</font>
+
+665
+00:59:57,840 --> 00:59:59,285
+<font color="#ffff00">We split into two groups.</font>
+
+666
+00:59:59,360 --> 01:00:02,204
+<font color="#ffff00">We'll go up this side
+and let the rest of you engage Eric.</font>
+
+667
+01:00:12,840 --> 01:00:14,524
+<font color="#ffff00">- I can see 'em.
+- Go! Go!</font>
+
+668
+01:00:16,120 --> 01:00:17,610
+<font color="#ffff00">Light 'em up!</font>
+
+669
+01:00:20,600 --> 01:00:22,489
+<font color="#ffff00">There's two more!
+I'm gonna move in closer!</font>
+
+670
+01:00:22,600 --> 01:00:23,931
+<font color="#ffff00">Follow me. Go!</font>
+
+671
+01:00:27,000 --> 01:00:28,968
+<font color="#ffff00">- Watch on your right!
+- Go, go, go.</font>
+
+672
+01:00:30,640 --> 01:00:32,642
+<font color="#ffff00">- Go.
+- Christina, let's go!</font>
+
+673
+01:00:32,720 --> 01:00:34,210
+<font color="#ffff00">Get 'em, get 'em!</font>
+
+674
+01:00:40,040 --> 01:00:41,371
+<font color="#ffff00">This way!</font>
+
+675
+01:00:41,440 --> 01:00:42,851
+<font color="#ffff00">- All right.
+- Cover me!</font>
+
+676
+01:00:51,600 --> 01:00:52,761
+<font color="#ffff00">Tell me if this hurts.</font>
+
+677
+01:00:52,840 --> 01:00:54,080
+<font color="#ffff00">You tell me.</font>
+
+678
+01:00:54,800 --> 01:00:56,609
+<font color="#ffff00">You bitch!</font>
+
+679
+01:00:58,040 --> 01:00:59,804
+<font color="#ffff00">Asshole.</font>
+
+680
+01:01:01,560 --> 01:01:03,130
+<font color="#ffff00">That was awesome!</font>
+
+681
+01:01:05,120 --> 01:01:06,360
+<font color="#ffff00">Get covered!</font>
+
+682
+01:01:33,160 --> 01:01:35,128
+<font color="#ffff00">Go, Tris! I'll guard.</font>
+
+683
+01:01:56,080 --> 01:01:57,650
+<font color="#ffff00">Whoo!</font>
+
+684
+01:02:04,240 --> 01:02:05,844
+<font color="#ffff00">Game over!</font>
+
+685
+01:02:05,960 --> 01:02:07,610
+<font color="#ffff00">Good job, Tris!</font>
+
+686
+01:02:13,120 --> 01:02:14,167
+<font color="#ffff00">Hey, Tris!</font>
+
+687
+01:02:15,040 --> 01:02:16,565
+<font color="#ffff00">- Yeah?
+- Come with us.</font>
+
+688
+01:02:16,640 --> 01:02:17,801
+<font color="#ffff00">Where you going?</font>
+
+689
+01:02:18,240 --> 01:02:19,480
+<font color="#ffff00">Shortcut back.</font>
+
+690
+01:02:19,560 --> 01:02:22,484
+<font color="#ffff00">A little initiation ritual,
+Dauntless style.</font>
+
+691
+01:02:48,360 --> 01:02:49,361
+<font color="#ffff00">Wow.</font>
+
+692
+01:03:04,880 --> 01:03:07,201
+<font color="#ffff00">All right, let's do this!</font>
+
+693
+01:03:07,280 --> 01:03:08,361
+<font color="#ffff00">- All right, you good?
+- Good.</font>
+
+694
+01:03:08,440 --> 01:03:09,680
+<font color="#ffff00">- Yeah. Go, go!
+- Hang tight.</font>
+
+695
+01:03:09,760 --> 01:03:11,444
+<font color="#ffff00">- Fly, baby.
+- Whoo!</font>
+
+696
+01:03:14,960 --> 01:03:16,041
+<font color="#ffff00">You're up.</font>
+
+697
+01:03:17,720 --> 01:03:19,370
+<font color="#ffff00">All right, do it!</font>
+
+698
+01:03:20,720 --> 01:03:22,165
+<font color="#ffff00">Come on, girl.</font>
+
+699
+01:03:24,560 --> 01:03:26,801
+<font color="#ffff00">Go for it! Do it, Tris!</font>
+
+700
+01:03:29,320 --> 01:03:30,731
+<font color="#ffff00">Like flying!</font>
+
+701
+01:03:32,560 --> 01:03:34,244
+<font color="#ffff00">Don't forget to pull
+the brake at the bottom!</font>
+
+702
+01:03:34,320 --> 01:03:35,560
+<font color="#ffff00">Okay.</font>
+
+703
+01:03:37,400 --> 01:03:38,811
+<font color="#ffff00">Go.</font>
+
+704
+01:03:38,880 --> 01:03:39,847
+<font color="#ffff00">You ready?</font>
+
+705
+01:03:39,960 --> 01:03:41,086
+<font color="#ffff00">Harness is good.</font>
+
+706
+01:04:42,600 --> 01:04:44,204
+<font color="#ffff00">- Pull the brake!
+- Pull the brake!</font>
+
+707
+01:05:05,520 --> 01:05:07,124
+<font color="#ffff00">Yeah!</font>
+
+708
+01:05:17,160 --> 01:05:18,685
+<font color="#ffff00">Tris!</font>
+
+709
+01:05:25,320 --> 01:05:26,765
+<font color="#ffff00">- Hey.
+- Hey.</font>
+
+710
+01:05:27,600 --> 01:05:28,806
+<font color="#ffff00">Congratulations.</font>
+
+711
+01:05:29,680 --> 01:05:30,841
+<font color="#ffff00">Thanks.</font>
+
+712
+01:05:31,840 --> 01:05:34,889
+<font color="#ffff00">You know, I wanted to say
+that you were really good tonight.</font>
+
+713
+01:05:35,280 --> 01:05:36,725
+<font color="#ffff00">You were brave.</font>
+
+714
+01:05:39,280 --> 01:05:40,520
+<font color="#ffff00">Yeah.</font>
+
+715
+01:05:43,520 --> 01:05:45,568
+<font color="#ffff00">Anyway, you should
+get back to your friends.</font>
+
+716
+01:05:48,120 --> 01:05:49,406
+<font color="#ffff00">Okay.</font>
+
+717
+01:06:01,840 --> 01:06:03,126
+<font color="#ffff00">If you're ranked above the red line,</font>
+
+718
+01:06:03,200 --> 01:06:05,362
+<font color="#ffff00">you'll move on to
+the second stage of training.</font>
+
+719
+01:06:05,920 --> 01:06:08,764
+<font color="#ffff00">If you're below it,
+we'll waste no more time on you.</font>
+
+720
+01:06:10,120 --> 01:06:12,168
+<font color="#ffff00">Here are your rankings.</font>
+
+721
+01:06:21,240 --> 01:06:22,526
+<font color="#ffff00">Nice.</font>
+
+722
+01:06:25,400 --> 01:06:26,481
+<font color="#ffff00">You made it.</font>
+
+723
+01:06:26,600 --> 01:06:27,681
+<font color="#ffff00">You made it, Tris.</font>
+
+724
+01:06:33,920 --> 01:06:35,843
+<font color="#ffff00">- Got it.
+- Thank you.</font>
+
+725
+01:06:50,960 --> 01:06:52,086
+<font color="#ffff00">Here you go.</font>
+
+726
+01:06:53,080 --> 01:06:56,129
+<font color="#ffff00">So we pass the first stage of training,
+and this is our reward.</font>
+
+727
+01:06:56,240 --> 01:06:57,401
+<font color="#ffff00">Toss it up!</font>
+
+728
+01:06:57,480 --> 01:06:58,606
+<font color="#ffff00">Glamorous.</font>
+
+729
+01:07:41,200 --> 01:07:42,531
+<font color="#ffff00">Mom?</font>
+
+730
+01:07:46,640 --> 01:07:48,005
+<font color="#ffff00">Oh, my girl!</font>
+
+731
+01:07:50,240 --> 01:07:51,446
+<font color="#ffff00">Mom, what are you doing here?</font>
+
+732
+01:07:51,520 --> 01:07:53,010
+<font color="#ffff00">I knew they'd assign you
+here sooner or later.</font>
+
+733
+01:07:53,120 --> 01:07:55,646
+<font color="#ffff00">Look at you!
+God, you're so strong and beautiful.</font>
+
+734
+01:07:57,680 --> 01:07:59,011
+<font color="#ffff00">Mom, you can't be here.</font>
+
+735
+01:07:59,160 --> 01:08:00,400
+<font color="#ffff00">I know, but you're in danger.</font>
+
+736
+01:08:00,480 --> 01:08:01,686
+<font color="#ffff00">What?</font>
+
+737
+01:08:01,760 --> 01:08:03,250
+<font color="#ffff00">I had to ask you something.</font>
+
+738
+01:08:03,920 --> 01:08:06,321
+<font color="#ffff00">You weren't sick the day you took
+your aptitude test, were you?</font>
+
+739
+01:08:07,600 --> 01:08:09,841
+<font color="#ffff00">- Why?
+- What were your test results?</font>
+
+740
+01:08:11,680 --> 01:08:13,523
+<font color="#ffff00">Honey, it's okay.
+You can tell me.</font>
+
+741
+01:08:19,440 --> 01:08:21,841
+<font color="#ffff00">They were...
+They were inconclusive.</font>
+
+742
+01:08:22,680 --> 01:08:23,920
+<font color="#ffff00">Divergent?</font>
+
+743
+01:08:25,320 --> 01:08:27,084
+<font color="#ffff00">You can't tell anyone.
+You can't tell your friends,</font>
+
+744
+01:08:27,160 --> 01:08:29,128
+<font color="#ffff00">your instructors.
+You can't trust anyone.</font>
+
+745
+01:08:29,360 --> 01:08:30,691
+<font color="#ffff00">I'm not.</font>
+
+746
+01:08:31,080 --> 01:08:33,606
+<font color="#ffff00">People have always been
+so threatened by Divergents.</font>
+
+747
+01:08:34,200 --> 01:08:35,770
+<font color="#ffff00">But now Erudite is looking
+for them everywhere.</font>
+
+748
+01:08:35,880 --> 01:08:36,961
+<font color="#ffff00">They're actively seeking them out.</font>
+
+749
+01:08:37,040 --> 01:08:38,326
+<font color="#ffff00">Why?</font>
+
+750
+01:08:38,400 --> 01:08:39,765
+<font color="#ffff00">Mom, what am I?</font>
+
+751
+01:08:40,120 --> 01:08:42,771
+<font color="#ffff00">You don't conform.
+Your mind works in a million different ways.</font>
+
+752
+01:08:42,880 --> 01:08:44,325
+<font color="#ffff00">They're scared of you.</font>
+
+753
+01:08:45,440 --> 01:08:48,569
+<font color="#ffff00">Stage two of training is where
+you are most at risk.</font>
+
+754
+01:08:48,640 --> 01:08:51,120
+<font color="#ffff00">They're gonna get inside your head
+and watch how you respond to fear.</font>
+
+755
+01:08:51,200 --> 01:08:53,328
+<font color="#ffff00">But you can pass.
+You can make it through Dauntless.</font>
+
+756
+01:08:53,440 --> 01:08:55,090
+<font color="#ffff00">I have seen it before.</font>
+
+757
+01:08:55,240 --> 01:08:57,891
+<font color="#ffff00">How do you know so much about this?
+About Dauntless?</font>
+
+758
+01:08:58,080 --> 01:09:00,651
+<font color="#ffff00">Never mind about me.
+Do not let them know who you are.</font>
+
+759
+01:09:00,720 --> 01:09:02,370
+<font color="#ffff00">Wait!
+Wait! Were you Dauntless?</font>
+
+760
+01:09:02,440 --> 01:09:03,771
+<font color="#ffff00">- Listen.
+- Hey!</font>
+
+761
+01:09:05,720 --> 01:09:07,165
+<font color="#ffff00">What are you doing?</font>
+
+762
+01:09:12,080 --> 01:09:14,048
+<font color="#ffff00">Truck's loaded. Let's go.</font>
+
+763
+01:09:34,280 --> 01:09:36,089
+<font color="#ffff00">What did they do to her?</font>
+
+764
+01:09:38,080 --> 01:09:39,161
+<font color="#ffff00">Tris.</font>
+
+765
+01:09:50,920 --> 01:09:52,365
+<font color="#ffff00">Take a seat.</font>
+
+766
+01:09:56,960 --> 01:09:58,769
+<font color="#ffff00">I'm going to inject you
+with a serum that stimulates</font>
+
+767
+01:09:58,880 --> 01:10:00,530
+<font color="#ffff00">the part of your brain
+that processes fear.</font>
+
+768
+01:10:01,120 --> 01:10:02,531
+<font color="#ffff00">Great.</font>
+
+769
+01:10:02,960 --> 01:10:04,530
+<font color="#ffff00">It induces a hallucination,</font>
+
+770
+01:10:04,600 --> 01:10:06,045
+<font color="#ffff00">and then transmitters in the serum</font>
+
+771
+01:10:06,120 --> 01:10:07,565
+<font color="#ffff00">allow me to see the images
+in your mind.</font>
+
+772
+01:10:08,000 --> 01:10:09,525
+<font color="#ffff00">You can see inside my mind?</font>
+
+773
+01:10:10,200 --> 01:10:11,406
+<font color="#ffff00">Mmm-hmm.</font>
+
+774
+01:10:15,120 --> 01:10:16,565
+<font color="#ffff00">Lay back.</font>
+
+775
+01:10:34,480 --> 01:10:37,051
+<font color="#ffff00">Now, you're gonna be facing
+your worst fears, Tris.</font>
+
+776
+01:10:37,400 --> 01:10:40,290
+<font color="#ffff00">Most people have 10 to 15 really bad ones.</font>
+
+777
+01:10:41,320 --> 01:10:43,049
+<font color="#ffff00">You have to calm yourself.</font>
+
+778
+01:10:43,360 --> 01:10:44,930
+<font color="#ffff00">Slow your heart rate and your breathing,</font>
+
+779
+01:10:45,040 --> 01:10:47,168
+<font color="#ffff00">and deal with what's in front of you.</font>
+
+780
+01:10:51,160 --> 01:10:52,400
+<font color="#ffff00">Be brave.</font>
+
+781
+01:12:08,960 --> 01:12:10,564
+<font color="#ffff00">This isn't real.</font>
+
+782
+01:12:25,120 --> 01:12:27,043
+<font color="#ffff00">It's all right,
+it's all right.</font>
+
+783
+01:12:27,120 --> 01:12:28,645
+<font color="#ffff00">You okay?</font>
+
+784
+01:12:43,760 --> 01:12:47,128
+<font color="#ffff00">How long do you think you were
+in the hallucination, Tris?</font>
+
+785
+01:12:48,000 --> 01:12:49,923
+<font color="#ffff00">- Twenty minutes?
+- Three.</font>
+
+786
+01:12:51,080 --> 01:12:53,048
+<font color="#ffff00">Four times faster
+than the average.</font>
+
+787
+01:12:55,680 --> 01:12:58,286
+<font color="#ffff00">I've never seen anyone
+do that well the first time.</font>
+
+788
+01:12:58,800 --> 01:13:00,325
+<font color="#ffff00">How did you get rid of the birds?</font>
+
+789
+01:13:00,760 --> 01:13:01,966
+<font color="#ffff00">The image wasn't clear.</font>
+
+790
+01:13:02,320 --> 01:13:03,685
+<font color="#ffff00">Um...</font>
+
+791
+01:13:03,800 --> 01:13:05,404
+<font color="#ffff00">I just went into the water.</font>
+
+792
+01:13:07,920 --> 01:13:11,288
+<font color="#ffff00">Well, next time it'll be a lot easier.</font>
+
+793
+01:13:11,760 --> 01:13:13,000
+<font color="#ffff00">I have to do that again?</font>
+
+794
+01:13:13,080 --> 01:13:15,208
+<font color="#ffff00">Yeah, you have to practice
+several times before the final,</font>
+
+795
+01:13:15,280 --> 01:13:16,327
+<font color="#ffff00">but you're a natural.</font>
+
+796
+01:13:16,400 --> 01:13:18,243
+<font color="#ffff00">You got nothing to worry about.</font>
+
+797
+01:13:21,000 --> 01:13:23,480
+<font color="#ffff00">My whole body
+was covered in these little insects.</font>
+
+798
+01:13:23,720 --> 01:13:26,291
+<font color="#ffff00">They were in my ears, and my throat...</font>
+
+799
+01:13:27,400 --> 01:13:28,526
+<font color="#ffff00">I couldn't breathe.</font>
+
+800
+01:13:28,840 --> 01:13:31,320
+<font color="#ffff00">Yeah, I heard about this guy,
+like two years ago...</font>
+
+801
+01:13:31,480 --> 01:13:33,323
+<font color="#ffff00">So panicked he had
+a heart attack in his chair</font>
+
+802
+01:13:33,480 --> 01:13:35,005
+<font color="#ffff00">- and he almost died.
+- What?</font>
+
+803
+01:13:35,080 --> 01:13:36,844
+<font color="#ffff00">Yeah, so we've got that
+to look forward to, right?</font>
+
+804
+01:13:38,200 --> 01:13:39,690
+<font color="#ffff00">You didn't seem to have any problem at all.</font>
+
+805
+01:13:39,760 --> 01:13:43,003
+<font color="#ffff00">Me? No, no, my God,
+it was awful.</font>
+
+806
+01:13:43,240 --> 01:13:45,288
+<font color="#ffff00">Oh, come on.
+No one even came close to your time.</font>
+
+807
+01:13:45,520 --> 01:13:47,409
+<font color="#ffff00">- You were amazing.
+- Yeah, what's amazing is that</font>
+
+808
+01:13:47,520 --> 01:13:48,601
+<font color="#ffff00">she's gonna knock you right out
+of Dauntless.</font>
+
+809
+01:13:48,680 --> 01:13:50,011
+<font color="#ffff00">She's not gonna knock me out
+of Dauntless.</font>
+
+810
+01:13:50,160 --> 01:13:52,561
+<font color="#ffff00">Look, she's gone from being the worst
+to one of the best.</font>
+
+811
+01:13:52,680 --> 01:13:54,489
+<font color="#ffff00">Somebody's gotta take her place
+at the bottom.</font>
+
+812
+01:13:54,680 --> 01:13:56,842
+<font color="#ffff00">Who's it gonna be? You.</font>
+
+813
+01:13:57,480 --> 01:13:58,527
+<font color="#ffff00">Do you ever stop talking?</font>
+
+814
+01:13:58,680 --> 01:14:00,603
+<font color="#ffff00">I just want to know how she does it.</font>
+
+815
+01:14:01,920 --> 01:14:02,921
+<font color="#ffff00">What's your trick?</font>
+
+816
+01:14:03,040 --> 01:14:04,644
+<font color="#ffff00">I don't have a trick.</font>
+
+817
+01:14:04,800 --> 01:14:05,926
+<font color="#ffff00">Nobody gets through it that fast.</font>
+
+818
+01:14:06,040 --> 01:14:07,121
+<font color="#ffff00">Why don't you tell us
+how you do it?</font>
+
+819
+01:14:10,200 --> 01:14:11,850
+<font color="#ffff00">At least tell your friends.</font>
+
+820
+01:14:13,360 --> 01:14:14,964
+<font color="#ffff00">What's he talkin' about?</font>
+
+821
+01:14:15,320 --> 01:14:16,685
+<font color="#ffff00">Is there some way to make it easier?</font>
+
+822
+01:14:16,880 --> 01:14:18,041
+<font color="#ffff00">No.</font>
+
+823
+01:14:21,200 --> 01:14:24,249
+<font color="#ffff00">No, I...
+I'm not doing anything.</font>
+
+824
+01:14:53,160 --> 01:14:55,527
+<font color="#ffff00">Hey! Hey!</font>
+
+825
+01:15:29,200 --> 01:15:31,123
+<font color="#ffff00">This isn't real.</font>
+
+826
+01:15:51,960 --> 01:15:53,121
+<font color="#ffff00">How'd you do that?</font>
+
+827
+01:15:54,880 --> 01:15:56,041
+<font color="#ffff00">What?</font>
+
+828
+01:15:57,200 --> 01:15:58,440
+<font color="#ffff00">How'd you break the glass?</font>
+
+829
+01:16:00,800 --> 01:16:02,609
+<font color="#ffff00">I don't know. Just did it.</font>
+
+830
+01:16:03,720 --> 01:16:05,324
+<font color="#ffff00">You just did it?</font>
+
+831
+01:16:16,960 --> 01:16:18,803
+<font color="#ffff00">What were your test results?</font>
+
+832
+01:16:20,160 --> 01:16:21,730
+<font color="#ffff00">Your aptitude test.</font>
+
+833
+01:16:23,280 --> 01:16:24,645
+<font color="#ffff00">Abnegation.</font>
+
+834
+01:16:25,600 --> 01:16:26,806
+<font color="#ffff00">I don't think so.</font>
+
+835
+01:16:27,360 --> 01:16:28,521
+<font color="#ffff00">What?</font>
+
+836
+01:16:29,000 --> 01:16:30,240
+<font color="#ffff00">I think you're lying to me.</font>
+
+837
+01:16:32,280 --> 01:16:34,362
+<font color="#ffff00">Why would I lie to you?</font>
+
+838
+01:16:37,640 --> 01:16:39,722
+<font color="#ffff00">I'm gonna ask you one more time.</font>
+
+839
+01:16:41,200 --> 01:16:42,850
+<font color="#ffff00">What were your test results?</font>
+
+840
+01:16:46,360 --> 01:16:47,441
+<font color="#ffff00">Abnegation.</font>
+
+841
+01:16:50,520 --> 01:16:52,204
+<font color="#ffff00">Time for you to go.</font>
+
+842
+01:16:58,480 --> 01:16:59,527
+<font color="#ffff00">Tris?</font>
+
+843
+01:17:01,160 --> 01:17:02,366
+<font color="#ffff00">Just so you know,</font>
+
+844
+01:17:03,040 --> 01:17:05,441
+<font color="#ffff00">Dauntless don't break the glass like that.</font>
+
+845
+01:17:11,320 --> 01:17:13,482
+<font color="#ffff00">My brother was like you.</font>
+
+846
+01:17:13,560 --> 01:17:15,961
+<font color="#ffff00">During the second stage,
+he got good really fast.</font>
+
+847
+01:17:16,720 --> 01:17:18,131
+<font color="#ffff00">Last day of the simulations,</font>
+
+848
+01:17:18,200 --> 01:17:20,726
+<font color="#ffff00">one of the Dauntless leaders
+came to watch him.</font>
+
+849
+01:17:22,680 --> 01:17:24,409
+<font color="#ffff00">Then the next morning,
+we found his body</font>
+
+850
+01:17:24,480 --> 01:17:25,925
+<font color="#ffff00">at the bottom of the chasm.</font>
+
+851
+01:17:26,440 --> 01:17:27,930
+<font color="#ffff00">They got rid of him.</font>
+
+852
+01:17:28,840 --> 01:17:29,966
+<font color="#ffff00">Who did?</font>
+
+853
+01:17:30,080 --> 01:17:31,286
+<font color="#ffff00">Dauntless leadership.</font>
+
+854
+01:17:31,360 --> 01:17:33,010
+<font color="#ffff00">You can't let them find out about you.</font>
+
+855
+01:17:35,440 --> 01:17:37,363
+<font color="#ffff00">And what if they already know?</font>
+
+856
+01:17:38,200 --> 01:17:39,645
+<font color="#ffff00">Then you're already dead.</font>
+
+857
+01:18:13,800 --> 01:18:14,801
+<font color="#ffff00">Beatrice.</font>
+
+858
+01:18:22,560 --> 01:18:24,289
+<font color="#ffff00">What are you doing here?</font>
+
+859
+01:18:25,000 --> 01:18:26,161
+<font color="#ffff00">I'm in trouble.</font>
+
+860
+01:18:30,960 --> 01:18:32,121
+<font color="#ffff00">What happened?</font>
+
+861
+01:18:32,760 --> 01:18:34,410
+<font color="#ffff00">I'm not gonna make it at Dauntless.</font>
+
+862
+01:18:35,160 --> 01:18:36,241
+<font color="#ffff00">I don't fit in there.</font>
+
+863
+01:18:36,320 --> 01:18:37,481
+<font color="#ffff00">You have to fit in there.</font>
+
+864
+01:18:37,560 --> 01:18:38,766
+<font color="#ffff00">I can't.</font>
+
+865
+01:18:43,680 --> 01:18:46,286
+<font color="#ffff00">I'm just...
+I'm not like them.</font>
+
+866
+01:18:46,760 --> 01:18:49,240
+<font color="#ffff00">I mean, who is?
+They're crazy.</font>
+
+867
+01:18:51,560 --> 01:18:53,130
+<font color="#ffff00">Maybe I can go back to Abnegation.</font>
+
+868
+01:18:53,320 --> 01:18:55,084
+<font color="#ffff00">- You can't go back.
+- I know, but...</font>
+
+869
+01:18:55,160 --> 01:18:57,970
+<font color="#ffff00">They're never gonna
+let you do that.</font>
+
+870
+01:18:58,160 --> 01:18:59,810
+<font color="#ffff00">- Who?
+- Erudite.</font>
+
+871
+01:19:00,160 --> 01:19:02,288
+<font color="#ffff00">They're not gonna let Abnegation
+break any more rules.</font>
+
+872
+01:19:03,560 --> 01:19:05,767
+<font color="#ffff00">They actually think that
+they're running the government now?</font>
+
+873
+01:19:06,040 --> 01:19:07,485
+<font color="#ffff00">They might be soon.</font>
+
+874
+01:19:08,400 --> 01:19:09,640
+<font color="#ffff00">Wait. Really?</font>
+
+875
+01:19:09,840 --> 01:19:12,923
+<font color="#ffff00">Erudite should be in charge.
+Certainly not Abnegation.</font>
+
+876
+01:19:13,000 --> 01:19:15,685
+<font color="#ffff00">Wait, hold on, Caleb.
+How can you say that?</font>
+
+877
+01:19:16,160 --> 01:19:19,164
+<font color="#ffff00">It's what all the other factions want,
+now that Abnegation failed.</font>
+
+878
+01:19:19,240 --> 01:19:22,005
+<font color="#ffff00">No. That's just what
+they're telling you here...</font>
+
+879
+01:19:22,120 --> 01:19:23,929
+<font color="#ffff00">- It's true.
+- It's not true.</font>
+
+880
+01:19:24,000 --> 01:19:25,490
+<font color="#ffff00">It's not.</font>
+
+881
+01:19:25,760 --> 01:19:26,761
+<font color="#ffff00">There are liars here.</font>
+
+882
+01:19:26,840 --> 01:19:28,808
+<font color="#ffff00">There are people who know
+how to manipulate you.</font>
+
+883
+01:19:29,080 --> 01:19:30,366
+<font color="#ffff00">You need to understand that.</font>
+
+884
+01:19:30,480 --> 01:19:31,686
+<font color="#ffff00">Beatrice.</font>
+
+885
+01:19:34,720 --> 01:19:36,006
+<font color="#ffff00">I think you should go.</font>
+
+886
+01:19:40,520 --> 01:19:42,522
+<font color="#ffff00">Faction before blood. Yeah?</font>
+
+887
+01:19:48,040 --> 01:19:49,280
+<font color="#ffff00">Got it.</font>
+
+888
+01:19:56,680 --> 01:19:58,330
+<font color="#ffff00">I need you to come with me.</font>
+
+889
+01:20:00,560 --> 01:20:01,925
+<font color="#ffff00">Stop!</font>
+
+890
+01:20:03,640 --> 01:20:05,051
+<font color="#ffff00">Are you all right?</font>
+
+891
+01:20:06,480 --> 01:20:08,005
+<font color="#ffff00">Yeah, I'm fine.</font>
+
+892
+01:20:23,560 --> 01:20:25,210
+<font color="#ffff00">Please, sit down.</font>
+
+893
+01:20:30,160 --> 01:20:31,491
+<font color="#ffff00">Thank you.</font>
+
+894
+01:20:32,160 --> 01:20:34,003
+<font color="#ffff00">I'm glad you came here today.</font>
+
+895
+01:20:34,080 --> 01:20:35,161
+<font color="#ffff00">You are?</font>
+
+896
+01:20:35,240 --> 01:20:37,083
+<font color="#ffff00">Are you happy with your new faction?</font>
+
+897
+01:20:37,920 --> 01:20:39,206
+<font color="#ffff00">Yeah.</font>
+
+898
+01:20:39,600 --> 01:20:41,807
+<font color="#ffff00">But you came to see your brother.</font>
+
+899
+01:20:42,360 --> 01:20:44,522
+<font color="#ffff00">I just...
+I just wanted to talk to him.</font>
+
+900
+01:20:44,600 --> 01:20:46,329
+<font color="#ffff00">Have you seen your parents?</font>
+
+901
+01:20:46,760 --> 01:20:47,886
+<font color="#ffff00">No.</font>
+
+902
+01:20:51,280 --> 01:20:53,089
+<font color="#ffff00">It's hard to let go.</font>
+
+903
+01:20:54,400 --> 01:20:56,084
+<font color="#ffff00">Faction before blood.</font>
+
+904
+01:20:56,600 --> 01:20:59,683
+<font color="#ffff00">It's an important ideal,
+but sometimes difficult to fulfill.</font>
+
+905
+01:21:00,120 --> 01:21:02,282
+<font color="#ffff00">It goes against
+our fundamental human nature.</font>
+
+906
+01:21:03,440 --> 01:21:06,125
+<font color="#ffff00">But that's exactly the weakness
+we need to overcome.</font>
+
+907
+01:21:07,600 --> 01:21:09,762
+<font color="#ffff00">You think that human nature is a weakness?</font>
+
+908
+01:21:10,400 --> 01:21:12,971
+<font color="#ffff00">I think human nature is the enemy.</font>
+
+909
+01:21:14,280 --> 01:21:16,965
+<font color="#ffff00">It's human nature
+to keep secrets, lie, steal.</font>
+
+910
+01:21:17,800 --> 01:21:19,529
+<font color="#ffff00">And I wanna eradicate that.</font>
+
+911
+01:21:19,760 --> 01:21:23,731
+<font color="#ffff00">That's how we'll maintain
+a stable, peaceful society.</font>
+
+912
+01:21:26,800 --> 01:21:28,768
+<font color="#ffff00">You would help me with that, wouldn't you?</font>
+
+913
+01:21:29,960 --> 01:21:31,724
+<font color="#ffff00">How would I help you?</font>
+
+914
+01:21:32,160 --> 01:21:36,324
+<font color="#ffff00">You're aware that Abnegation is undermining
+the faction system and breaking laws,</font>
+
+915
+01:21:36,760 --> 01:21:38,728
+<font color="#ffff00">harboring Divergents?</font>
+
+916
+01:21:41,800 --> 01:21:44,167
+<font color="#ffff00">I didn't know that.</font>
+
+917
+01:21:45,280 --> 01:21:48,887
+<font color="#ffff00">But if that's true,
+then I'm glad that I left.</font>
+
+918
+01:21:52,000 --> 01:21:54,207
+<font color="#ffff00">See, I need to know
+that I can count on you</font>
+
+919
+01:21:54,280 --> 01:21:55,441
+<font color="#ffff00">to enforce the law,</font>
+
+920
+01:21:56,160 --> 01:21:58,401
+<font color="#ffff00">even if it's been broken
+by someone close to you.</font>
+
+921
+01:21:59,120 --> 01:22:00,645
+<font color="#ffff00">Someone you care about.</font>
+
+922
+01:22:02,760 --> 01:22:04,091
+<font color="#ffff00">Of course.</font>
+
+923
+01:22:05,640 --> 01:22:06,846
+<font color="#ffff00">Good.</font>
+
+924
+01:22:09,160 --> 01:22:11,527
+<font color="#ffff00">Then I'll have my car
+take you back to Dauntless.</font>
+
+925
+01:22:56,840 --> 01:22:58,444
+<font color="#ffff00">Come on! Get her over!</font>
+
+926
+01:23:01,200 --> 01:23:02,929
+<font color="#ffff00">Come on, do it! Do it!</font>
+
+927
+01:23:03,280 --> 01:23:04,566
+<font color="#ffff00">Hey!</font>
+
+928
+01:23:26,840 --> 01:23:28,251
+<font color="#ffff00">You all right?</font>
+
+929
+01:23:28,920 --> 01:23:29,967
+<font color="#ffff00">Yeah.</font>
+
+930
+01:23:30,080 --> 01:23:31,161
+<font color="#ffff00">Come on. Let's go.</font>
+
+931
+01:23:44,280 --> 01:23:45,930
+<font color="#ffff00">Here, put this on.</font>
+
+932
+01:23:46,760 --> 01:23:48,091
+<font color="#ffff00">Thank you.</font>
+
+933
+01:23:48,360 --> 01:23:49,441
+<font color="#ffff00">You'll be safe here.</font>
+
+934
+01:24:03,640 --> 01:24:04,641
+<font color="#ffff00">Sorry.</font>
+
+935
+01:24:04,800 --> 01:24:05,801
+<font color="#ffff00">It's okay.</font>
+
+936
+01:24:12,680 --> 01:24:14,091
+<font color="#ffff00">I can't believe Al...</font>
+
+937
+01:24:14,440 --> 01:24:16,966
+<font color="#ffff00">You're moving up through the ranks,
+and he's failing.</font>
+
+938
+01:24:18,400 --> 01:24:21,244
+<font color="#ffff00">It makes him hate himself
+and it makes him hate you.</font>
+
+939
+01:24:22,320 --> 01:24:24,049
+<font color="#ffff00">He's just afraid.</font>
+
+940
+01:24:24,640 --> 01:24:25,880
+<font color="#ffff00">Everyone's afraid.</font>
+
+941
+01:24:25,960 --> 01:24:29,442
+<font color="#ffff00">I know, but fear does something strange
+to people like Al.</font>
+
+942
+01:24:30,080 --> 01:24:31,491
+<font color="#ffff00">But not you.</font>
+
+943
+01:24:33,000 --> 01:24:35,207
+<font color="#ffff00">Fear doesn't shut you down,
+it wakes you up.</font>
+
+944
+01:24:37,000 --> 01:24:38,161
+<font color="#ffff00">I've seen it.</font>
+
+945
+01:24:53,000 --> 01:24:54,081
+<font color="#ffff00">You should lie down.</font>
+
+946
+01:24:56,240 --> 01:24:58,004
+<font color="#ffff00">- Get some sleep.
+- Yeah.</font>
+
+947
+01:24:58,920 --> 01:25:00,809
+<font color="#ffff00">I'll take the floor.</font>
+
+948
+01:25:25,360 --> 01:25:26,521
+<font color="#ffff00">How you feeling?</font>
+
+949
+01:25:26,680 --> 01:25:27,886
+<font color="#ffff00">Better.</font>
+
+950
+01:25:28,560 --> 01:25:29,971
+<font color="#ffff00">Good.</font>
+
+951
+01:25:32,560 --> 01:25:34,005
+<font color="#ffff00">Where'd you go yesterday?</font>
+
+952
+01:25:35,400 --> 01:25:36,731
+<font color="#ffff00">To see my brother.</font>
+
+953
+01:25:40,360 --> 01:25:43,409
+<font color="#ffff00">It's getting a little boring
+for you here, is it?</font>
+
+954
+01:25:44,400 --> 01:25:46,641
+<font color="#ffff00">My brother said that...</font>
+
+955
+01:25:47,400 --> 01:25:50,882
+<font color="#ffff00">He thinks Erudite is planning
+to overthrow Abnegation.</font>
+
+956
+01:25:52,360 --> 01:25:54,647
+<font color="#ffff00">Do you think they could do that?</font>
+
+957
+01:25:55,560 --> 01:25:58,086
+<font color="#ffff00">Yeah, I do.
+I think it's possible.</font>
+
+958
+01:25:59,520 --> 01:26:01,443
+<font color="#ffff00">Depends how far they're willing to go.</font>
+
+959
+01:26:04,080 --> 01:26:05,764
+<font color="#ffff00">I'm worried about my parents.</font>
+
+960
+01:26:09,760 --> 01:26:11,046
+<font color="#ffff00">Yeah.</font>
+
+961
+01:26:12,840 --> 01:26:15,650
+<font color="#ffff00">But I think you got other things
+you need to worry about.</font>
+
+962
+01:26:16,680 --> 01:26:18,170
+<font color="#ffff00">Don't you?</font>
+
+963
+01:26:19,880 --> 01:26:21,166
+<font color="#ffff00">Yeah.</font>
+
+964
+01:26:26,200 --> 01:26:27,770
+<font color="#ffff00">I should go.</font>
+
+965
+01:26:41,000 --> 01:26:42,411
+<font color="#ffff00">Hi.</font>
+
+966
+01:26:43,120 --> 01:26:44,360
+<font color="#ffff00">Hey.</font>
+
+967
+01:26:45,120 --> 01:26:46,360
+<font color="#ffff00">Is that your sweater?</font>
+
+968
+01:26:46,480 --> 01:26:47,811
+<font color="#ffff00">No.</font>
+
+969
+01:26:48,280 --> 01:26:49,441
+<font color="#ffff00">So what happened
+to you last night?</font>
+
+970
+01:26:49,520 --> 01:26:51,807
+<font color="#ffff00">Tris, can I talk
+to you for a second?</font>
+
+971
+01:26:51,920 --> 01:26:54,571
+<font color="#ffff00">Listen, I just wanted
+to say that I'm sorry.</font>
+
+972
+01:26:54,640 --> 01:26:56,449
+<font color="#ffff00">I don't know what's wrong with me.</font>
+
+973
+01:26:57,120 --> 01:26:59,088
+<font color="#ffff00">Please, can you ever forgive me?</font>
+
+974
+01:27:01,280 --> 01:27:04,045
+<font color="#ffff00">If you ever come close to me again,
+I will kill you.</font>
+
+975
+01:27:04,120 --> 01:27:05,167
+<font color="#ffff00">Tris...</font>
+
+976
+01:27:05,280 --> 01:27:07,487
+<font color="#ffff00">You need to stay away from me!</font>
+
+977
+01:27:07,880 --> 01:27:09,564
+<font color="#ffff00">You are a coward.</font>
+
+978
+01:27:22,600 --> 01:27:24,841
+<font color="#ffff00">I just can't believe he would do that.</font>
+
+979
+01:27:24,920 --> 01:27:26,604
+<font color="#ffff00">It's not like him at all.</font>
+
+980
+01:27:28,320 --> 01:27:29,685
+<font color="#ffff00">What's that?</font>
+
+981
+01:27:32,480 --> 01:27:33,811
+<font color="#ffff00">Come on.</font>
+
+982
+01:27:38,120 --> 01:27:39,610
+<font color="#ffff00">Oh, my God!</font>
+
+983
+01:27:40,680 --> 01:27:42,205
+<font color="#ffff00">Guess he just jumped.</font>
+
+984
+01:27:58,320 --> 01:27:59,651
+<font color="#ffff00">Tris.</font>
+
+985
+01:28:00,360 --> 01:28:01,521
+<font color="#ffff00">Tris!</font>
+
+986
+01:28:01,800 --> 01:28:03,529
+<font color="#ffff00">Leave me alone.</font>
+
+987
+01:28:04,040 --> 01:28:05,201
+<font color="#ffff00">I'm sorry about Al.</font>
+
+988
+01:28:06,680 --> 01:28:08,045
+<font color="#ffff00">It's my fault that he's dead.</font>
+
+989
+01:28:08,160 --> 01:28:10,686
+<font color="#ffff00">No, it's not because of you.
+He made his own choice.</font>
+
+990
+01:28:11,680 --> 01:28:13,125
+<font color="#ffff00">He would have been factionless.</font>
+
+991
+01:28:13,200 --> 01:28:15,168
+<font color="#ffff00">He was not gonna pass that final test.</font>
+
+992
+01:28:16,000 --> 01:28:17,365
+<font color="#ffff00">Neither am I.</font>
+
+993
+01:28:21,000 --> 01:28:22,570
+<font color="#ffff00">Why do you say that?</font>
+
+994
+01:28:28,040 --> 01:28:29,371
+<font color="#ffff00">You know why.</font>
+
+995
+01:28:32,560 --> 01:28:35,484
+<font color="#ffff00">And as soon as all the others find out,
+they're gonna kill me.</font>
+
+996
+01:28:36,080 --> 01:28:38,048
+<font color="#ffff00">I'm not gonna let that happen.</font>
+
+997
+01:28:48,400 --> 01:28:49,561
+<font color="#ffff00">Shut the door.</font>
+
+998
+01:28:51,760 --> 01:28:53,205
+<font color="#ffff00">You're gonna practice.</font>
+
+999
+01:28:53,280 --> 01:28:55,009
+<font color="#ffff00">- In my fear landscape?
+- No.</font>
+
+1000
+01:28:55,440 --> 01:28:56,805
+<font color="#ffff00">In mine.</font>
+
+1001
+01:28:57,800 --> 01:28:59,131
+<font color="#ffff00">We go in together.</font>
+
+1002
+01:29:00,040 --> 01:29:01,690
+<font color="#ffff00">Have you ever done this before?</font>
+
+1003
+01:29:03,600 --> 01:29:05,090
+<font color="#ffff00">No, I haven't.</font>
+
+1004
+01:29:08,280 --> 01:29:09,884
+<font color="#ffff00">You sure you want to?</font>
+
+1005
+01:29:10,960 --> 01:29:11,961
+<font color="#ffff00">Why wouldn't I?</font>
+
+1006
+01:29:14,400 --> 01:29:15,526
+<font color="#ffff00">I don't know.</font>
+
+1007
+01:29:15,600 --> 01:29:17,125
+<font color="#ffff00">You haven't told me anything about yourself</font>
+
+1008
+01:29:17,240 --> 01:29:18,924
+<font color="#ffff00">and now you're just gonna
+let me inside of your head?</font>
+
+1009
+01:29:19,840 --> 01:29:21,205
+<font color="#ffff00">Are you afraid of that?</font>
+
+1010
+01:29:21,480 --> 01:29:22,970
+<font color="#ffff00">You're not?</font>
+
+1011
+01:29:24,600 --> 01:29:25,931
+<font color="#ffff00">No.</font>
+
+1012
+01:30:07,120 --> 01:30:08,849
+<font color="#ffff00">Fear of heights.</font>
+
+1013
+01:30:09,320 --> 01:30:10,924
+<font color="#ffff00">I'm not surprised.</font>
+
+1014
+01:30:15,960 --> 01:30:17,485
+<font color="#ffff00">It's not real.</font>
+
+1015
+01:30:17,560 --> 01:30:18,971
+<font color="#ffff00">- We could just jump.
+- No.</font>
+
+1016
+01:30:19,480 --> 01:30:21,084
+<font color="#ffff00">Divergent would jump.</font>
+
+1017
+01:30:21,160 --> 01:30:22,924
+<font color="#ffff00">Dauntless would get to that building.</font>
+
+1018
+01:30:23,000 --> 01:30:25,162
+<font color="#ffff00">If you want to pass,
+if you want to avoid discovery,</font>
+
+1019
+01:30:25,240 --> 01:30:27,846
+<font color="#ffff00">you have to do everything
+the way a Dauntless would do it.</font>
+
+1020
+01:30:28,280 --> 01:30:31,443
+<font color="#ffff00">You have to find some tool,
+some method to survive.</font>
+
+1021
+01:31:01,720 --> 01:31:03,245
+<font color="#ffff00">Fear of confinement.</font>
+
+1022
+01:31:03,600 --> 01:31:04,726
+<font color="#ffff00">You have to find a way of stopping it.</font>
+
+1023
+01:31:05,120 --> 01:31:06,690
+<font color="#ffff00">What would a Dauntless do?</font>
+
+1024
+01:31:07,920 --> 01:31:08,921
+<font color="#ffff00">Good!</font>
+
+1025
+01:31:15,520 --> 01:31:17,010
+<font color="#ffff00">Take your time.</font>
+
+1026
+01:31:17,800 --> 01:31:19,882
+<font color="#ffff00">I'm just enjoying myself
+in this shrinking box.</font>
+
+1027
+01:31:36,320 --> 01:31:38,004
+<font color="#ffff00">As a Dauntless soldier,
+you have to follow orders</font>
+
+1028
+01:31:38,080 --> 01:31:39,969
+<font color="#ffff00">you don't always agree with.</font>
+
+1029
+01:31:43,240 --> 01:31:44,605
+<font color="#ffff00">Who is she?</font>
+
+1030
+01:31:48,040 --> 01:31:49,690
+<font color="#ffff00">She's an innocent.</font>
+
+1031
+01:31:52,400 --> 01:31:54,084
+<font color="#ffff00">I have to kill her.</font>
+
+1032
+01:32:02,200 --> 01:32:03,850
+<font color="#ffff00">But I can never do it.</font>
+
+1033
+01:32:05,440 --> 01:32:07,204
+<font color="#ffff00">Unless I look away.</font>
+
+1034
+01:32:25,640 --> 01:32:27,802
+<font color="#ffff00">Why are we in Abnegation?</font>
+
+1035
+01:32:30,480 --> 01:32:32,687
+<font color="#ffff00">Your last fear is your worst fear.</font>
+
+1036
+01:32:34,480 --> 01:32:37,086
+<font color="#ffff00">It lives in the deepest part of your mind.</font>
+
+1037
+01:32:45,760 --> 01:32:47,762
+<font color="#ffff00">Marcus had a son.</font>
+
+1038
+01:32:49,000 --> 01:32:50,126
+<font color="#ffff00">What was his name?</font>
+
+1039
+01:32:50,240 --> 01:32:51,321
+<font color="#ffff00">Tobias.</font>
+
+1040
+01:32:52,000 --> 01:32:53,445
+<font color="#ffff00">Tobias.</font>
+
+1041
+01:32:57,000 --> 01:32:58,490
+<font color="#ffff00"><i>Tobias...</i></font>
+
+1042
+01:33:00,000 --> 01:33:01,923
+<font color="#ffff00"><i>Tobias...</i></font>
+
+1043
+01:33:05,000 --> 01:33:06,729
+<font color="#ffff00"><i>Tobias...</i></font>
+
+1044
+01:33:06,800 --> 01:33:09,167
+<font color="#ffff00">I'm just trying to help you to be better.</font>
+
+1045
+01:33:12,600 --> 01:33:13,806
+<font color="#ffff00">No!</font>
+
+1046
+01:33:39,400 --> 01:33:40,970
+<font color="#ffff00">Four?</font>
+
+1047
+01:33:41,480 --> 01:33:42,891
+<font color="#ffff00">Four fears?</font>
+
+1048
+01:33:43,240 --> 01:33:45,004
+<font color="#ffff00">Four then, four now.</font>
+
+1049
+01:33:47,000 --> 01:33:50,402
+<font color="#ffff00">I keep going in there,
+but I don't think you ever lose them.</font>
+
+1050
+01:34:02,040 --> 01:34:03,883
+<font color="#ffff00">Can I ask you something?</font>
+
+1051
+01:34:04,680 --> 01:34:05,761
+<font color="#ffff00">Sure.</font>
+
+1052
+01:34:06,520 --> 01:34:08,249
+<font color="#ffff00">What's your tattoo?</font>
+
+1053
+01:34:13,560 --> 01:34:14,846
+<font color="#ffff00">You wanna see it?</font>
+
+1054
+01:34:30,320 --> 01:34:31,810
+<font color="#ffff00">It's amazing.</font>
+
+1055
+01:34:44,280 --> 01:34:45,770
+<font color="#ffff00">The factions.</font>
+
+1056
+01:34:50,040 --> 01:34:51,769
+<font color="#ffff00">Why do you have all of them?</font>
+
+1057
+01:34:52,840 --> 01:34:55,161
+<font color="#ffff00">I don't want to be just one thing.</font>
+
+1058
+01:34:56,000 --> 01:34:57,604
+<font color="#ffff00">I can't be.</font>
+
+1059
+01:34:58,880 --> 01:35:02,089
+<font color="#ffff00">I want to be brave and
+I want to be selfless...</font>
+
+1060
+01:35:02,680 --> 01:35:05,081
+<font color="#ffff00">Intelligent and honest and kind.</font>
+
+1061
+01:35:08,080 --> 01:35:10,447
+<font color="#ffff00">Although I'm still working on "kind."</font>
+
+1062
+01:35:43,200 --> 01:35:45,248
+<font color="#ffff00">I don't wanna go too fast.</font>
+
+1063
+01:35:47,520 --> 01:35:48,885
+<font color="#ffff00">It's okay.</font>
+
+1064
+01:35:50,720 --> 01:35:52,688
+<font color="#ffff00">I've already got my spot on the floor.</font>
+
+1065
+01:36:11,880 --> 01:36:13,211
+<font color="#ffff00">Morning.</font>
+
+1066
+01:36:13,280 --> 01:36:14,406
+<font color="#ffff00">Hey.</font>
+
+1067
+01:36:15,680 --> 01:36:17,045
+<font color="#ffff00">Come on.
+I'm gonna show you something.</font>
+
+1068
+01:36:19,160 --> 01:36:20,446
+<font color="#ffff00">Okay.</font>
+
+1069
+01:36:34,800 --> 01:36:36,404
+<font color="#ffff00">Look.</font>
+
+1070
+01:36:41,240 --> 01:36:42,890
+<font color="#ffff00">- Erudite.
+- Yeah.</font>
+
+1071
+01:36:43,560 --> 01:36:44,607
+<font color="#ffff00">They're here every morning.</font>
+
+1072
+01:36:45,440 --> 01:36:47,124
+<font color="#ffff00">I've been watching them for weeks.</font>
+
+1073
+01:36:47,200 --> 01:36:48,964
+<font color="#ffff00">What are they doing at Dauntless?</font>
+
+1074
+01:36:49,120 --> 01:36:51,726
+<font color="#ffff00">Loading in supplies.
+Computers.</font>
+
+1075
+01:36:53,400 --> 01:36:54,925
+<font color="#ffff00">And these.</font>
+
+1076
+01:36:57,320 --> 01:36:58,401
+<font color="#ffff00">What is it?</font>
+
+1077
+01:36:58,480 --> 01:37:00,369
+<font color="#ffff00">I think it's some kind
+of cognitive transmitter.</font>
+
+1078
+01:37:00,440 --> 01:37:01,726
+<font color="#ffff00">You inject it like a serum.</font>
+
+1079
+01:37:01,800 --> 01:37:03,165
+<font color="#ffff00">Why?</font>
+
+1080
+01:37:03,240 --> 01:37:05,766
+<font color="#ffff00">It's supposed
+to make you more susceptible to suggestion,</font>
+
+1081
+01:37:06,560 --> 01:37:10,246
+<font color="#ffff00">but as many as they have,
+they could create an army.</font>
+
+1082
+01:37:17,320 --> 01:37:18,560
+<font color="#ffff00"><i>Attention,</i></font>
+
+1083
+01:37:18,640 --> 01:37:21,484
+<font color="#ffff00"><i>all initiates report for final testing.</i></font>
+
+1084
+01:37:21,600 --> 01:37:24,171
+<font color="#ffff00"><i>All initiates report for final testing.</i></font>
+
+1085
+01:37:31,920 --> 01:37:33,445
+<font color="#ffff00">You're ready.</font>
+
+1086
+01:37:34,080 --> 01:37:35,809
+<font color="#ffff00">You can do this.</font>
+
+1087
+01:37:57,440 --> 01:38:00,444
+<font color="#ffff00">They can see
+your hallucinations on the screen.</font>
+
+1088
+01:38:00,800 --> 01:38:02,962
+<font color="#ffff00">So you get past your fears
+the way a Dauntless would,</font>
+
+1089
+01:38:03,080 --> 01:38:04,081
+<font color="#ffff00">but do it quickly.</font>
+
+1090
+01:38:04,640 --> 01:38:07,530
+<font color="#ffff00">Right. If I'm too good,
+then they'll kill me,</font>
+
+1091
+01:38:07,600 --> 01:38:09,523
+<font color="#ffff00">and if I'm too slow, then I'll die.</font>
+
+1092
+01:38:09,640 --> 01:38:10,846
+<font color="#ffff00">Right.</font>
+
+1093
+01:38:11,360 --> 01:38:12,361
+<font color="#ffff00">Good luck.</font>
+
+1094
+01:38:21,680 --> 01:38:22,841
+<font color="#ffff00">Good luck, Tris.</font>
+
+1095
+01:38:24,080 --> 01:38:25,286
+<font color="#ffff00">Hope you make it.</font>
+
+1096
+01:40:27,760 --> 01:40:28,761
+<font color="#ffff00">Congratulations.</font>
+
+1097
+01:40:37,920 --> 01:40:39,968
+<font color="#ffff00">Whoa. Four!</font>
+
+1098
+01:40:42,280 --> 01:40:43,691
+<font color="#ffff00">Stop! Four!</font>
+
+1099
+01:40:43,960 --> 01:40:45,803
+<font color="#ffff00">Aren't you Dauntless?</font>
+
+1100
+01:41:05,520 --> 01:41:07,443
+<font color="#ffff00">Please tell me that
+you weren't watching that.</font>
+
+1101
+01:41:07,840 --> 01:41:09,808
+<font color="#ffff00">Would you feel better if I said no?</font>
+
+1102
+01:41:13,120 --> 01:41:14,531
+<font color="#ffff00">You did well.</font>
+
+1103
+01:41:15,320 --> 01:41:16,481
+<font color="#ffff00">Now...</font>
+
+1104
+01:41:18,280 --> 01:41:19,850
+<font color="#ffff00">One final test.</font>
+
+1105
+01:41:26,960 --> 01:41:28,689
+<font color="#ffff00">You know what to do.</font>
+
+1106
+01:41:29,160 --> 01:41:30,650
+<font color="#ffff00">What?</font>
+
+1107
+01:41:31,360 --> 01:41:32,850
+<font color="#ffff00">If you want to be Dauntless.</font>
+
+1108
+01:41:33,360 --> 01:41:34,885
+<font color="#ffff00">No.</font>
+
+1109
+01:41:35,520 --> 01:41:36,681
+<font color="#ffff00">Do it.</font>
+
+1110
+01:41:50,240 --> 01:41:51,366
+<font color="#ffff00">You all right?</font>
+
+1111
+01:41:55,640 --> 01:41:57,085
+<font color="#ffff00">That looked good to me, okay?</font>
+
+1112
+01:41:58,360 --> 01:41:59,646
+<font color="#ffff00">Come on. Let's go.</font>
+
+1113
+01:42:00,280 --> 01:42:03,250
+<font color="#ffff00">Congratulations,
+new members of Dauntless.</font>
+
+1114
+01:42:10,200 --> 01:42:12,168
+<font color="#ffff00">Dauntless!
+Dauntless! Dauntless!</font>
+
+1115
+01:42:16,560 --> 01:42:18,449
+<font color="#ffff00">Come on. Get in line.</font>
+
+1116
+01:42:18,760 --> 01:42:20,046
+<font color="#ffff00">All right, everybody, line up.</font>
+
+1117
+01:42:21,000 --> 01:42:22,126
+<font color="#ffff00">What's going on?</font>
+
+1118
+01:42:22,200 --> 01:42:24,009
+<font color="#ffff00"><i>All Dauntless initiates,</i></font>
+
+1119
+01:42:24,080 --> 01:42:25,411
+<font color="#ffff00"><i>report to your command leader.</i></font>
+
+1120
+01:42:26,520 --> 01:42:28,124
+<font color="#ffff00">All right, listen up!</font>
+
+1121
+01:42:29,840 --> 01:42:32,161
+<font color="#ffff00">Before you leave tonight,
+I want you all in four lines.</font>
+
+1122
+01:42:32,720 --> 01:42:34,722
+<font color="#ffff00">Everyone gets a tracking device.</font>
+
+1123
+01:42:35,400 --> 01:42:37,926
+<font color="#ffff00">Don't ask questions.
+It's just a precaution.</font>
+
+1124
+01:42:50,760 --> 01:42:52,171
+<font color="#ffff00">Do you see Four?</font>
+
+1125
+01:42:53,920 --> 01:42:55,001
+<font color="#ffff00">No.</font>
+
+1126
+01:42:55,080 --> 01:42:56,161
+<font color="#ffff00">Next!</font>
+
+1127
+01:42:56,240 --> 01:42:58,049
+<font color="#ffff00">- What's going on?
+- Oh, my God.</font>
+
+1128
+01:42:59,440 --> 01:43:00,930
+<font color="#ffff00">Congratulations.</font>
+
+1129
+01:43:02,240 --> 01:43:04,163
+<font color="#ffff00">You should be first in line, but...</font>
+
+1130
+01:43:04,720 --> 01:43:06,290
+<font color="#ffff00">I'll make it easy for you.</font>
+
+1131
+01:43:10,240 --> 01:43:12,004
+<font color="#ffff00">Hurts like a bitch, huh?</font>
+
+1132
+01:43:12,880 --> 01:43:14,769
+<font color="#ffff00">Now you're really one of us.</font>
+
+1133
+01:43:35,120 --> 01:43:36,770
+<font color="#ffff00">Hey, what's...</font>
+
+1134
+01:43:51,040 --> 01:43:52,451
+<font color="#ffff00"><i>Faction before blood.</i></font>
+
+1135
+01:43:52,960 --> 01:43:54,325
+<font color="#ffff00">Oh, my God.</font>
+
+1136
+01:44:10,440 --> 01:44:11,680
+<font color="#ffff00">They can see and hear us.</font>
+
+1137
+01:44:11,760 --> 01:44:14,206
+<font color="#ffff00">They just don't process it
+the same way.</font>
+
+1138
+01:44:14,280 --> 01:44:17,045
+<font color="#ffff00">Commands come in
+through the transmitter.</font>
+
+1139
+01:44:25,800 --> 01:44:26,847
+<font color="#ffff00">What's goin' on?</font>
+
+1140
+01:44:29,000 --> 01:44:30,684
+<font color="#ffff00">What are we doin'?</font>
+
+1141
+01:44:35,000 --> 01:44:36,809
+<font color="#ffff00">Divergent.</font>
+
+1142
+01:44:41,320 --> 01:44:42,526
+<font color="#ffff00">Hey!</font>
+
+1143
+01:44:42,880 --> 01:44:44,609
+<font color="#ffff00">Everything's fine.
+There's nothing to worry about.</font>
+
+1144
+01:47:15,960 --> 01:47:17,610
+<font color="#ffff00">Hurry up! Move!</font>
+
+1145
+01:47:21,120 --> 01:47:24,044
+<font color="#ffff00"><i>Abnegation
+leaders must identify themselves.</i></font>
+
+1146
+01:47:24,160 --> 01:47:25,764
+<font color="#ffff00">We need to find my parents.</font>
+
+1147
+01:47:30,880 --> 01:47:33,167
+<font color="#ffff00">Just keep moving.
+Where's your house?</font>
+
+1148
+01:47:33,600 --> 01:47:35,125
+<font color="#ffff00"><i>We are looking
+for information.</i></font>
+
+1149
+01:47:36,000 --> 01:47:37,843
+<font color="#ffff00"><i>All houses will be searched.</i></font>
+
+1150
+01:47:38,360 --> 01:47:40,806
+<font color="#ffff00"><i>Do not resist.
+You will not be hurt.</i></font>
+
+1151
+01:47:48,200 --> 01:47:49,725
+<font color="#ffff00">Mom? Dad?</font>
+
+1152
+01:47:51,840 --> 01:47:53,604
+<font color="#ffff00">Where would they have gone?</font>
+
+1153
+01:47:55,040 --> 01:47:56,326
+<font color="#ffff00">I don't know.</font>
+
+1154
+01:47:59,480 --> 01:48:02,404
+<font color="#ffff00">This can't happen here!
+Just stop it!</font>
+
+1155
+01:48:08,800 --> 01:48:10,404
+<font color="#ffff00"><i>Do not resist.</i></font>
+
+1156
+01:48:14,400 --> 01:48:16,846
+<font color="#ffff00"><i>All Abnegation will be questioned.</i></font>
+
+1157
+01:48:16,920 --> 01:48:18,729
+<font color="#ffff00">The legendary Four...</font>
+
+1158
+01:48:19,360 --> 01:48:20,725
+<font color="#ffff00">A mindless drone.</font>
+
+1159
+01:48:21,240 --> 01:48:23,607
+<font color="#ffff00">You were first in your class.
+Now you're...</font>
+
+1160
+01:48:24,680 --> 01:48:25,920
+<font color="#ffff00">Nothing.</font>
+
+1161
+01:48:41,840 --> 01:48:43,285
+<font color="#ffff00">What?</font>
+
+1162
+01:48:43,760 --> 01:48:45,250
+<font color="#ffff00">Think he might be...</font>
+
+1163
+01:48:46,680 --> 01:48:48,921
+<font color="#ffff00">There's one way to find out.</font>
+
+1164
+01:48:50,840 --> 01:48:51,966
+<font color="#ffff00">Say goodbye, asshole.</font>
+
+1165
+01:48:52,080 --> 01:48:53,127
+<font color="#ffff00">Goodbye.</font>
+
+1166
+01:48:53,200 --> 01:48:54,281
+<font color="#ffff00">Move and you die!</font>
+
+1167
+01:48:55,440 --> 01:48:57,044
+<font color="#ffff00">The stiff?</font>
+
+1168
+01:48:59,600 --> 01:49:00,601
+<font color="#ffff00">Two stiffs.</font>
+
+1169
+01:49:01,520 --> 01:49:03,045
+<font color="#ffff00">Two dead stiffs.</font>
+
+1170
+01:49:03,120 --> 01:49:05,851
+<font color="#ffff00">You can't let a single
+Divergent slip through.</font>
+
+1171
+01:49:06,280 --> 01:49:07,805
+<font color="#ffff00">This is what happens.</font>
+
+1172
+01:49:08,080 --> 01:49:09,366
+<font color="#ffff00">She's not gonna shoot me.</font>
+
+1173
+01:49:09,480 --> 01:49:11,482
+<font color="#ffff00">Think you might be overestimating
+my character.</font>
+
+1174
+01:49:15,040 --> 01:49:16,121
+<font color="#ffff00">Run!</font>
+
+1175
+01:49:22,400 --> 01:49:24,164
+<font color="#ffff00">- You were hit?
+- Yeah.</font>
+
+1176
+01:49:24,960 --> 01:49:26,325
+<font color="#ffff00">Right there! Don't move!</font>
+
+1177
+01:49:27,080 --> 01:49:28,411
+<font color="#ffff00">Drop your weapons.</font>
+
+1178
+01:49:49,280 --> 01:49:51,123
+<font color="#ffff00">Tobias Eaton.</font>
+
+1179
+01:49:53,320 --> 01:49:55,527
+<font color="#ffff00">And you, Beatrice.</font>
+
+1180
+01:49:57,280 --> 01:49:59,362
+<font color="#ffff00">I thought it was intellect
+I was sensing in you.</font>
+
+1181
+01:49:59,920 --> 01:50:01,285
+<font color="#ffff00">Maybe you're not as smart
+as you think you are.</font>
+
+1182
+01:50:02,640 --> 01:50:04,449
+<font color="#ffff00">Why are you attacking
+all these innocent people?</font>
+
+1183
+01:50:05,000 --> 01:50:06,525
+<font color="#ffff00">Innocent people?</font>
+
+1184
+01:50:06,640 --> 01:50:10,201
+<font color="#ffff00">Abnegation, if left unchecked,
+will destroy the faction system.</font>
+
+1185
+01:50:10,800 --> 01:50:12,848
+<font color="#ffff00">Same can be said of both of you.</font>
+
+1186
+01:50:13,600 --> 01:50:15,125
+<font color="#ffff00">Somebody has to stop you.</font>
+
+1187
+01:50:15,200 --> 01:50:16,964
+<font color="#ffff00">If we don't, peace will be lost.</font>
+
+1188
+01:50:17,440 --> 01:50:19,966
+<font color="#ffff00">It's already been lost.
+You destroyed it.</font>
+
+1189
+01:50:20,480 --> 01:50:22,369
+<font color="#ffff00">Human nature destroyed it.</font>
+
+1190
+01:50:23,320 --> 01:50:27,405
+<font color="#ffff00">Those of us with the vision to see that
+are called upon to protect the rest.</font>
+
+1191
+01:50:28,680 --> 01:50:30,569
+<font color="#ffff00">We will restore the peace.</font>
+
+1192
+01:50:31,280 --> 01:50:33,362
+<font color="#ffff00">And this time, it will last.</font>
+
+1193
+01:50:33,640 --> 01:50:35,210
+<font color="#ffff00">And what if you're wrong?</font>
+
+1194
+01:50:42,520 --> 01:50:44,170
+<font color="#ffff00">Bring him with us.</font>
+
+1195
+01:50:47,560 --> 01:50:48,846
+<font color="#ffff00">She's injured.</font>
+
+1196
+01:50:50,160 --> 01:50:51,969
+<font color="#ffff00">Any results would be unclear.</font>
+
+1197
+01:50:53,400 --> 01:50:54,811
+<font color="#ffff00">- You can get rid of her.
+- All right.</font>
+
+1198
+01:51:01,160 --> 01:51:02,685
+<font color="#ffff00">Get down!</font>
+
+1199
+01:51:08,520 --> 01:51:10,249
+<font color="#ffff00">Let's go. Come on!</font>
+
+1200
+01:51:15,360 --> 01:51:19,251
+<font color="#ffff00"><i>Additional security teams,
+report to mobile command Level 5.</i></font>
+
+1201
+01:51:57,080 --> 01:51:58,969
+<font color="#ffff00">Beatrice!</font>
+
+1202
+01:51:59,640 --> 01:52:01,802
+<font color="#ffff00">- Mom? Mom!
+- Beatrice.</font>
+
+1203
+01:52:02,280 --> 01:52:03,725
+<font color="#ffff00">Okay.</font>
+
+1204
+01:52:09,560 --> 01:52:11,164
+<font color="#ffff00">Okay, we gotta run!</font>
+
+1205
+01:52:22,640 --> 01:52:24,324
+<font color="#ffff00">You were Dauntless.</font>
+
+1206
+01:52:25,480 --> 01:52:26,925
+<font color="#ffff00">Served me well today.</font>
+
+1207
+01:52:28,520 --> 01:52:29,567
+<font color="#ffff00">Is Dad okay?</font>
+
+1208
+01:52:29,680 --> 01:52:31,762
+<font color="#ffff00">Yeah. He led a group over
+to Monroe and State.</font>
+
+1209
+01:52:31,840 --> 01:52:32,841
+<font color="#ffff00">We're gonna meet him there.</font>
+
+1210
+01:52:35,480 --> 01:52:36,686
+<font color="#ffff00">Let's go!</font>
+
+1211
+01:52:51,120 --> 01:52:52,531
+<font color="#ffff00">Copy 1-9!</font>
+
+1212
+01:53:11,600 --> 01:53:13,204
+<font color="#ffff00">Will! Will!</font>
+
+1213
+01:53:17,840 --> 01:53:18,966
+<font color="#ffff00">Will!</font>
+
+1214
+01:53:19,040 --> 01:53:20,201
+<font color="#ffff00">Will, stop! Stop!</font>
+
+1215
+01:53:21,320 --> 01:53:22,367
+<font color="#ffff00">Stop!</font>
+
+1216
+01:53:25,680 --> 01:53:26,966
+<font color="#ffff00">I...</font>
+
+1217
+01:53:34,680 --> 01:53:37,650
+<font color="#ffff00">Okay. Come on, honey.
+We gotta go.</font>
+
+1218
+01:53:53,080 --> 01:53:56,004
+<font color="#ffff00">I killed him. I killed him.</font>
+
+1219
+01:53:56,600 --> 01:53:58,090
+<font color="#ffff00">I killed him.</font>
+
+1220
+01:53:58,160 --> 01:53:59,321
+<font color="#ffff00">Come here.</font>
+
+1221
+01:54:04,760 --> 01:54:06,046
+<font color="#ffff00">Okay.</font>
+
+1222
+01:54:07,160 --> 01:54:09,003
+<font color="#ffff00">Let's go find your father.</font>
+
+1223
+01:54:12,280 --> 01:54:13,770
+<font color="#ffff00">- Cover me.
+- No.</font>
+
+1224
+01:54:14,600 --> 01:54:16,204
+<font color="#ffff00">I'll go.</font>
+
+1225
+01:54:22,600 --> 01:54:24,090
+<font color="#ffff00">Got it, sir!</font>
+
+1226
+01:54:27,960 --> 01:54:29,121
+<font color="#ffff00">Don't stop!
+Don't stop!</font>
+
+1227
+01:54:29,960 --> 01:54:31,450
+<font color="#ffff00">Go!</font>
+
+1228
+01:54:36,760 --> 01:54:38,205
+<font color="#ffff00">- You okay? Good.
+- Yeah, I'm good.</font>
+
+1229
+01:54:44,760 --> 01:54:46,683
+<font color="#ffff00">Okay! Let's go! We're good.</font>
+
+1230
+01:54:48,000 --> 01:54:49,126
+<font color="#ffff00">Mom?</font>
+
+1231
+01:54:49,280 --> 01:54:50,850
+<font color="#ffff00">Mom... What is it?</font>
+
+1232
+01:54:53,320 --> 01:54:54,560
+<font color="#ffff00">Hey...</font>
+
+1233
+01:54:55,480 --> 01:54:57,926
+<font color="#ffff00">Mom! Mom! Mom!</font>
+
+1234
+01:54:58,160 --> 01:54:59,286
+<font color="#ffff00">Mom!</font>
+
+1235
+01:54:59,360 --> 01:55:01,089
+<font color="#ffff00">Mom, no!</font>
+
+1236
+01:55:01,160 --> 01:55:03,401
+<font color="#ffff00">Mom! Mom!</font>
+
+1237
+01:55:05,080 --> 01:55:06,730
+<font color="#ffff00">Mom? Mom!</font>
+
+1238
+01:55:06,800 --> 01:55:08,768
+<font color="#ffff00">Mom, wake up!</font>
+
+1239
+01:55:10,120 --> 01:55:11,451
+<font color="#ffff00">Mom!</font>
+
+1240
+01:55:12,600 --> 01:55:14,489
+<font color="#ffff00">Oh, my God, Mom!</font>
+
+1241
+01:55:21,960 --> 01:55:23,689
+<font color="#ffff00">Stop! Stop!</font>
+
+1242
+01:55:28,080 --> 01:55:30,367
+<font color="#ffff00">I love you, Mom...</font>
+
+1243
+01:55:34,680 --> 01:55:36,170
+<font color="#ffff00">Oh, my God!</font>
+
+1244
+01:56:33,240 --> 01:56:35,083
+<font color="#ffff00">Where's my father?</font>
+
+1245
+01:56:35,160 --> 01:56:36,571
+<font color="#ffff00">Beatrice?</font>
+
+1246
+01:56:43,800 --> 01:56:45,086
+<font color="#ffff00">Your mother?</font>
+
+1247
+01:57:06,000 --> 01:57:07,889
+<font color="#ffff00">She saved me.</font>
+
+1248
+01:57:09,120 --> 01:57:10,804
+<font color="#ffff00">She saved me.</font>
+
+1249
+01:57:11,960 --> 01:57:13,689
+<font color="#ffff00">Then it wasn't in vain.</font>
+
+1250
+01:57:15,960 --> 01:57:17,291
+<font color="#ffff00">We need to leave here.</font>
+
+1251
+01:57:19,080 --> 01:57:20,730
+<font color="#ffff00">Are there soldiers outside?</font>
+
+1252
+01:57:25,680 --> 01:57:27,170
+<font color="#ffff00">No, it's clear.</font>
+
+1253
+01:57:28,920 --> 01:57:30,604
+<font color="#ffff00">I should have believed you.</font>
+
+1254
+01:57:31,000 --> 01:57:33,241
+<font color="#ffff00">I left as soon as I realized.</font>
+
+1255
+01:57:33,680 --> 01:57:35,967
+<font color="#ffff00">Why is this happening?
+I don't understand.</font>
+
+1256
+01:57:37,640 --> 01:57:39,768
+<font color="#ffff00">Why are Dauntless fighting for Erudite?</font>
+
+1257
+01:57:39,960 --> 01:57:41,246
+<font color="#ffff00">They don't know what they're doing.</font>
+
+1258
+01:57:41,400 --> 01:57:43,129
+<font color="#ffff00">They're under simulation.</font>
+
+1259
+01:57:44,160 --> 01:57:46,447
+<font color="#ffff00">We need to wake 'em up.
+I need to get into Dauntless.</font>
+
+1260
+01:57:46,920 --> 01:57:48,331
+<font color="#ffff00">That's a fortress.</font>
+
+1261
+01:57:49,040 --> 01:57:50,280
+<font color="#ffff00">It's not gonna happen.</font>
+
+1262
+01:57:52,480 --> 01:57:54,608
+<font color="#ffff00">I can get us in there.</font>
+
+1263
+01:58:02,480 --> 01:58:03,811
+<font color="#ffff00">Get ready.</font>
+
+1264
+01:58:04,520 --> 01:58:05,851
+<font color="#ffff00">What now?</font>
+
+1265
+01:58:06,520 --> 01:58:08,090
+<font color="#ffff00">You're not gonna like it.</font>
+
+1266
+01:58:29,000 --> 01:58:31,048
+<font color="#ffff00">There's a net at the bottom.</font>
+
+1267
+01:58:31,160 --> 01:58:32,650
+<font color="#ffff00">Don't think, just jump.</font>
+
+1268
+01:58:44,160 --> 01:58:45,400
+<font color="#ffff00">Are you good?</font>
+
+1269
+01:58:45,880 --> 01:58:47,211
+<font color="#ffff00">Good?</font>
+
+1270
+01:58:48,880 --> 01:58:50,370
+<font color="#ffff00">Let's go.</font>
+
+1271
+01:58:56,760 --> 01:58:58,205
+<font color="#ffff00">Wait here.</font>
+
+1272
+01:59:05,440 --> 01:59:06,566
+<font color="#ffff00">Against the wall.</font>
+
+1273
+01:59:07,040 --> 01:59:08,610
+<font color="#ffff00">Against the wall!</font>
+
+1274
+01:59:12,440 --> 01:59:13,680
+<font color="#ffff00">How are you awake?</font>
+
+1275
+01:59:14,120 --> 01:59:15,610
+<font color="#ffff00">Because I'm smarter than you.</font>
+
+1276
+01:59:16,400 --> 01:59:17,401
+<font color="#ffff00">And they need me.</font>
+
+1277
+01:59:17,840 --> 01:59:19,251
+<font color="#ffff00">Where are they controlling it from?</font>
+
+1278
+01:59:20,080 --> 01:59:22,242
+<font color="#ffff00">Why would I tell you that?
+It's not like you're gonna shoot me.</font>
+
+1279
+01:59:22,320 --> 01:59:23,810
+<font color="#ffff00">Why do people keep saying that?</font>
+
+1280
+01:59:27,760 --> 01:59:29,569
+<font color="#ffff00">Where are they controlling it from?</font>
+
+1281
+01:59:36,600 --> 01:59:38,204
+<font color="#ffff00">Did you really need to shoot him?</font>
+
+1282
+01:59:39,560 --> 01:59:41,767
+<font color="#ffff00">Every minute we waste,
+another Abnegation dies</font>
+
+1283
+01:59:41,840 --> 01:59:43,922
+<font color="#ffff00">and another Dauntless
+becomes a murderer.</font>
+
+1284
+01:59:44,280 --> 01:59:46,044
+<font color="#ffff00">Peter, let's go.</font>
+
+1285
+02:00:02,160 --> 02:00:03,525
+<font color="#ffff00">That's it, isn't it?</font>
+
+1286
+02:00:03,600 --> 02:00:04,601
+<font color="#ffff00">Yeah.</font>
+
+1287
+02:00:04,720 --> 02:00:06,210
+<font color="#ffff00">I've seen Jeanine go in there.</font>
+
+1288
+02:00:06,280 --> 02:00:08,248
+<font color="#ffff00">That's where she's controlling it from.</font>
+
+1289
+02:00:20,720 --> 02:00:23,883
+<font color="#ffff00">Like you said,
+there isn't a second to waste.</font>
+
+1290
+02:00:29,480 --> 02:00:30,641
+<font color="#ffff00">Dad, no!</font>
+
+1291
+02:00:32,320 --> 02:00:33,401
+<font color="#ffff00">Dad...</font>
+
+1292
+02:00:34,320 --> 02:00:36,402
+<font color="#ffff00">Hey!</font>
+
+1293
+02:01:15,920 --> 02:01:18,685
+<font color="#ffff00">Watch Caleb.
+I'm going in there.</font>
+
+1294
+02:02:11,120 --> 02:02:12,770
+<font color="#ffff00">Hey. Hi.</font>
+
+1295
+02:02:27,720 --> 02:02:28,881
+<font color="#ffff00">Four...</font>
+
+1296
+02:02:30,360 --> 02:02:33,045
+<font color="#ffff00">Four... Four, it's me.
+You're in a sim.</font>
+
+1297
+02:02:33,120 --> 02:02:34,849
+<font color="#ffff00">He can't hear you.</font>
+
+1298
+02:02:36,680 --> 02:02:37,841
+<font color="#ffff00">Amazing, isn't it?</font>
+
+1299
+02:02:38,640 --> 02:02:41,041
+<font color="#ffff00">Everything we think of
+that makes up a person,</font>
+
+1300
+02:02:41,360 --> 02:02:44,011
+<font color="#ffff00">thoughts, emotions, history...</font>
+
+1301
+02:02:44,560 --> 02:02:46,688
+<font color="#ffff00">All wiped away by chemistry.</font>
+
+1302
+02:02:46,760 --> 02:02:47,761
+<font color="#ffff00">Four.</font>
+
+1303
+02:02:47,880 --> 02:02:49,166
+<font color="#ffff00">He's gone.</font>
+
+1304
+02:02:50,200 --> 02:02:51,611
+<font color="#ffff00">And we're all safer for it.</font>
+
+1305
+02:02:51,840 --> 02:02:54,650
+<font color="#ffff00">Safer? How are we safer?</font>
+
+1306
+02:02:54,760 --> 02:02:56,842
+<font color="#ffff00">The brilliance of the faction system</font>
+
+1307
+02:02:56,920 --> 02:02:59,241
+<font color="#ffff00">is that conformity to the faction
+removes the threat</font>
+
+1308
+02:02:59,320 --> 02:03:02,130
+<font color="#ffff00">of anyone exercising
+their independent will.</font>
+
+1309
+02:03:02,840 --> 02:03:04,808
+<font color="#ffff00">Divergents threaten that system.</font>
+
+1310
+02:03:08,040 --> 02:03:09,610
+<font color="#ffff00">Don't get me wrong.</font>
+
+1311
+02:03:10,560 --> 02:03:12,927
+<font color="#ffff00">There's a certain beauty
+in your resistance,</font>
+
+1312
+02:03:13,640 --> 02:03:15,802
+<font color="#ffff00">your defiance of categorization.</font>
+
+1313
+02:03:16,440 --> 02:03:18,647
+<font color="#ffff00">But it's a beauty we can't afford.</font>
+
+1314
+02:03:31,480 --> 02:03:34,245
+<font color="#ffff00">Four, it's me. It's me.</font>
+
+1315
+02:03:35,200 --> 02:03:37,407
+<font color="#ffff00">Please, Four, look at me.
+Look at me.</font>
+
+1316
+02:03:58,080 --> 02:03:59,570
+<font color="#ffff00">Four! It's me!</font>
+
+1317
+02:04:28,720 --> 02:04:29,721
+<font color="#ffff00">Four, stop!</font>
+
+1318
+02:04:31,080 --> 02:04:32,525
+<font color="#ffff00">Stop!</font>
+
+1319
+02:04:33,800 --> 02:04:34,847
+<font color="#ffff00">Stop...</font>
+
+1320
+02:04:36,560 --> 02:04:38,244
+<font color="#ffff00">Four... Please...</font>
+
+1321
+02:04:43,920 --> 02:04:47,163
+<font color="#ffff00">It's okay, it's okay.
+I love you. It's okay.</font>
+
+1322
+02:04:51,960 --> 02:04:53,325
+<font color="#ffff00">It's okay.</font>
+
+1323
+02:04:54,360 --> 02:04:56,010
+<font color="#ffff00">I love you. It's okay.</font>
+
+1324
+02:05:02,240 --> 02:05:03,526
+<font color="#ffff00">Four, look at me. Look at me.</font>
+
+1325
+02:05:06,600 --> 02:05:08,921
+<font color="#ffff00">It's me. It's me.</font>
+
+1326
+02:05:09,280 --> 02:05:11,442
+<font color="#ffff00">It's me. It's me.</font>
+
+1327
+02:05:20,680 --> 02:05:21,681
+<font color="#ffff00">Tris...</font>
+
+1328
+02:05:27,280 --> 02:05:28,281
+<font color="#ffff00">Go.</font>
+
+1329
+02:05:32,040 --> 02:05:33,041
+<font color="#ffff00">Finish it.</font>
+
+1330
+02:06:09,600 --> 02:06:10,647
+<font color="#ffff00">Help!</font>
+
+1331
+02:06:15,120 --> 02:06:16,246
+<font color="#ffff00">Hey!</font>
+
+1332
+02:06:25,720 --> 02:06:27,085
+<font color="#ffff00">Shut it down.</font>
+
+1333
+02:06:27,160 --> 02:06:28,161
+<font color="#ffff00">No.</font>
+
+1334
+02:06:43,080 --> 02:06:44,844
+<font color="#ffff00">I am not gonna ask you again.
+Do it!</font>
+
+1335
+02:06:44,920 --> 02:06:46,445
+<font color="#ffff00">Shut it down!</font>
+
+1336
+02:06:46,880 --> 02:06:49,565
+<font color="#ffff00">I admire you willing to die
+for what you believe...</font>
+
+1337
+02:06:50,200 --> 02:06:51,406
+<font color="#ffff00">But so am I.</font>
+
+1338
+02:06:55,040 --> 02:06:56,530
+<font color="#ffff00">You can't do it, can you?</font>
+
+1339
+02:07:31,400 --> 02:07:34,131
+<font color="#ffff00">Maybe you're not quite as Dauntless
+as you thought you were.</font>
+
+1340
+02:07:34,600 --> 02:07:36,284
+<font color="#ffff00">You're right.</font>
+
+1341
+02:07:37,840 --> 02:07:39,410
+<font color="#ffff00">I'm not.</font>
+
+1342
+02:07:39,720 --> 02:07:41,085
+<font color="#ffff00">I'm Divergent.</font>
+
+1343
+02:07:51,280 --> 02:07:54,409
+<font color="#ffff00">Now shut it down and wipe the program.</font>
+
+1344
+02:08:23,880 --> 02:08:25,484
+<font color="#ffff00"><i>Simulation abort.</i></font>
+
+1345
+02:08:25,560 --> 02:08:27,767
+<font color="#ffff00"><i>System-wide shutdown.</i></font>
+
+1346
+02:08:36,120 --> 02:08:37,804
+<font color="#ffff00">No... No...</font>
+
+1347
+02:08:40,680 --> 02:08:42,091
+<font color="#ffff00">No!</font>
+
+1348
+02:08:49,720 --> 02:08:51,165
+<font color="#ffff00">Don't get me wrong.</font>
+
+1349
+02:08:52,200 --> 02:08:53,929
+<font color="#ffff00">There's a certain beauty
+to your resistance.</font>
+
+1350
+02:09:02,880 --> 02:09:03,927
+<font color="#ffff00">Tris...</font>
+
+1351
+02:09:04,160 --> 02:09:06,367
+<font color="#ffff00"><i>Lockdown now in effect.</i></font>
+
+1352
+02:09:07,120 --> 02:09:08,690
+<font color="#ffff00">All right, let's move!</font>
+
+1353
+02:09:10,000 --> 02:09:11,764
+<font color="#ffff00">We gotta go. Now.</font>
+
+1354
+02:09:18,120 --> 02:09:19,531
+<font color="#ffff00">Tobias.</font>
+
+1355
+02:09:21,680 --> 02:09:23,728
+<font color="#ffff00">We need to keep moving.</font>
+
+1356
+02:09:32,520 --> 02:09:33,851
+<font color="#ffff00">All right, move!</font>
+
+1357
+02:09:48,160 --> 02:09:49,605
+<font color="#ffff00">Son!</font>
+
+1358
+02:09:59,880 --> 02:10:00,881
+<font color="#ffff00">I got it!</font>
+
+1359
+02:10:01,560 --> 02:10:02,800
+<font color="#ffff00">I know you do.</font>
+
+1360
+02:10:18,920 --> 02:10:20,763
+<font color="#ffff00">My mom and dad died today.</font>
+
+1361
+02:10:24,680 --> 02:10:26,170
+<font color="#ffff00">They're gone.</font>
+
+1362
+02:10:26,240 --> 02:10:27,241
+<font color="#ffff00">I know.</font>
+
+1363
+02:10:28,000 --> 02:10:29,923
+<font color="#ffff00">But they loved you, Tris.</font>
+
+1364
+02:10:31,920 --> 02:10:34,207
+<font color="#ffff00">For them, there was
+no better way to show you.</font>
+
+1365
+02:10:40,760 --> 02:10:42,046
+<font color="#ffff00">Now we have nothing.</font>
+
+1366
+02:10:42,480 --> 02:10:44,528
+<font color="#ffff00">We have no home, no faction...</font>
+
+1367
+02:10:50,240 --> 02:10:51,924
+<font color="#ffff00">I don't even know who I am anymore.</font>
+
+1368
+02:10:58,800 --> 02:11:00,723
+<font color="#ffff00">I know exactly who you are.</font>
+
+1369
+02:11:02,480 --> 02:11:03,925
+<font color="#ffff00">You sure about that?</font>
+
+1370
+02:11:05,680 --> 02:11:07,603
+<font color="#ffff00">Yeah, I'm very sure.</font>
+
+1371
+02:11:11,120 --> 02:11:12,451
+<font color="#ffff00">Come here.</font>
+
+1372
+02:11:25,640 --> 02:11:27,563
+<font color="#ffff00"><i>We're like the Factionless now.</i></font>
+
+1373
+02:11:28,120 --> 02:11:30,122
+<font color="#ffff00"><i>We've left everything behind,</i></font>
+
+1374
+02:11:30,920 --> 02:11:34,003
+<font color="#ffff00"><i>but we found ourselves
+and each other.</i></font>
+
+1375
+02:11:36,040 --> 02:11:38,520
+<font color="#ffff00"><i>Tomorrow we may have to fight again,</i></font>
+
+1376
+02:11:39,600 --> 02:11:43,127
+<font color="#ffff00"><i>but, for now, we'll ride the train
+to the end of the line...</i></font>
+
+1377
+02:11:43,200 --> 02:11:44,611
+<font color="#ffff00"><i>And then</i></font>
+
+1378
+02:11:44,680 --> 02:11:45,727
+<font color="#ffff00"><i>we'll jump.</i></font>
+
+1379
+02:11:45,751 --> 02:13:45,751
+<font color="#ffff00"><b><i>HI Removed - bozxphd.Hope it helped ♪</i></b></font>
