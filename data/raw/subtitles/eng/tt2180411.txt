@@ -1,0 +1,9295 @@
+1
+00:00:43,360 --> 00:00:46,443
+<i>Once upon a time,
+in a far off kingdom,</i>
+
+2
+00:00:46,600 --> 00:00:49,410
+<i>there lay a small village
+at the edge of the woods.</i>
+
+3
+00:00:52,160 --> 00:00:53,366
+I wish
+
+4
+00:00:53,520 --> 00:00:55,124
+<i>And in this village...</i>
+
+5
+00:00:55,320 --> 00:00:56,890
+<i>More than anything</i>
+
+6
+00:00:57,040 --> 00:00:58,724
+...lived a young maiden...
+
+7
+00:00:58,880 --> 00:01:02,441
+<i>More than life
+More than jewels</i>
+
+8
+00:01:03,320 --> 00:01:05,049
+<i>...a carefree young lad...</i>
+
+9
+00:01:05,200 --> 00:01:06,565
+I wish
+
+10
+00:01:08,080 --> 00:01:09,684
+<i>More than life</i>
+
+11
+00:01:10,080 --> 00:01:12,287
+<i>...and a childless baker...</i>
+
+12
+00:01:12,680 --> 00:01:13,806
+I wish
+
+13
+00:01:13,960 --> 00:01:15,325
+<i>...with his wife.</i>
+
+14
+00:01:15,480 --> 00:01:17,528
+<i>- More than anything
+- More than the moon</i>
+
+15
+00:01:17,720 --> 00:01:18,721
+<i>I wish</i>
+
+16
+00:01:18,800 --> 00:01:20,643
+<i>The King is giving a Festival</i>
+
+17
+00:01:20,800 --> 00:01:21,800
+<i>More than life</i>
+
+18
+00:01:21,840 --> 00:01:22,841
+<i>I wish</i>
+
+19
+00:01:22,920 --> 00:01:23,921
+<i>I wish to go to the Festival</i>
+
+20
+00:01:24,000 --> 00:01:25,000
+<i>More than riches</i>
+
+21
+00:01:25,040 --> 00:01:26,041
+<i>And the Ball</i>
+
+22
+00:01:26,120 --> 00:01:27,451
+<i>I wish my cow would give us some milk</i>
+
+23
+00:01:27,520 --> 00:01:30,126
+<i>- More than anything
+- I wish we had a child</i>
+
+24
+00:01:30,280 --> 00:01:31,327
+<i>Please, pal</i>
+
+25
+00:01:31,480 --> 00:01:33,084
+<i>I want a child</i>
+
+26
+00:01:33,280 --> 00:01:34,770
+<i>I wish to go to the Festival</i>
+
+27
+00:01:34,920 --> 00:01:36,331
+<i>I wish you'd give us some milk
+or even cheese</i>
+
+28
+00:01:36,480 --> 00:01:37,561
+<i>I wish</i>
+
+29
+00:01:40,640 --> 00:01:42,369
+<i>You wish to go to the Festival?</i>
+
+30
+00:01:42,520 --> 00:01:44,329
+<i>The poor girl's
+parents had died.</i>
+
+31
+00:01:44,480 --> 00:01:46,084
+<i>You, Cinderella,
+the Festival?</i>
+
+32
+00:01:46,240 --> 00:01:47,969
+<i>You wish to go to the Festival?</i>
+
+33
+00:01:48,120 --> 00:01:51,124
+<i>The Festival?
+The King's Festival?</i>
+
+34
+00:01:51,280 --> 00:01:52,850
+<i>And now
+she lived with her stepmother.</i>
+
+35
+00:01:53,120 --> 00:01:54,963
+The Festival? Ha!
+
+36
+00:01:55,480 --> 00:01:57,847
+<i>Who had
+two daughters of her own.</i>
+
+37
+00:01:58,480 --> 00:02:00,440
+<i>- Look at your nails
+- Look at your dress</i>
+
+38
+00:02:00,480 --> 00:02:02,130
+<i>- People would laugh at you
+- Nevertheless</i>
+
+39
+00:02:02,280 --> 00:02:04,044
+<i>She still wants to go to the Festival</i>
+
+40
+00:02:04,200 --> 00:02:05,406
+<i>And dance before the Prince</i>
+
+41
+00:02:09,680 --> 00:02:11,887
+<i>All three
+were beautiful of face,</i>
+
+42
+00:02:11,960 --> 00:02:14,042
+<i>but vile and black of heart.</i>
+
+43
+00:02:15,960 --> 00:02:18,725
+<i>The young lad had no father,
+and his mother...</i>
+
+44
+00:02:18,800 --> 00:02:19,801
+I wish
+
+45
+00:02:19,880 --> 00:02:21,644
+<i>...well,
+she was at her wits' end.</i>
+
+46
+00:02:21,800 --> 00:02:24,167
+<i>I wish my son were not a fool</i>
+
+47
+00:02:25,320 --> 00:02:27,800
+<i>I wish my house was not a mess</i>
+
+48
+00:02:29,040 --> 00:02:30,804
+<i>I wish the cow was full of milk</i>
+
+49
+00:02:30,920 --> 00:02:32,649
+<i>I wish the walls were full of gold</i>
+
+50
+00:02:32,840 --> 00:02:35,127
+<i>I wish a lot of things</i>
+
+51
+00:02:35,640 --> 00:02:37,847
+Oh! What in heaven's name
+are you doing with the cow
+
+52
+00:02:37,920 --> 00:02:39,331
+inside the house?
+
+53
+00:02:39,480 --> 00:02:40,686
+I thought if he were nice and warm,
+
+54
+00:02:40,760 --> 00:02:42,285
+he might produce some milk.
+
+55
+00:02:42,440 --> 00:02:44,124
+It's a she!
+
+56
+00:02:44,440 --> 00:02:46,329
+How many times do
+I have to tell you that
+
+57
+00:02:46,400 --> 00:02:48,289
+only "she" s can give milk?
+
+58
+00:02:52,840 --> 00:02:55,207
+<i>And then,
+there was a hungry little girl,</i>
+
+59
+00:02:55,400 --> 00:02:56,925
+<i>who always wore a red cape.</i>
+
+60
+00:02:57,000 --> 00:02:58,001
+Hey!
+
+61
+00:02:58,080 --> 00:02:59,286
+I wish
+
+62
+00:02:59,760 --> 00:03:02,570
+<i>It's not for me
+It's for my granny in the woods</i>
+
+63
+00:03:03,200 --> 00:03:06,010
+<i>A loaf of bread Please</i>
+
+64
+00:03:06,480 --> 00:03:09,165
+<i>To bring my poor old hungry granny
+In the woods</i>
+
+65
+00:03:09,320 --> 00:03:12,324
+<i>Just a loaf of bread
+Please</i>
+
+66
+00:03:16,600 --> 00:03:17,647
+Cinderella.
+
+67
+00:03:17,840 --> 00:03:20,366
+If you can pick up these lentils,
+
+68
+00:03:21,200 --> 00:03:24,283
+and finish your chores in time,
+
+69
+00:03:24,440 --> 00:03:26,169
+then you may go to the Ball with us.
+
+70
+00:03:26,320 --> 00:03:27,401
+Come along, ladies.
+
+71
+00:03:27,600 --> 00:03:29,523
+Yes, Mother.
+
+72
+00:03:30,200 --> 00:03:31,361
+Good luck.
+
+73
+00:03:42,720 --> 00:03:45,246
+<i>Come, little birds</i>
+
+74
+00:03:45,400 --> 00:03:47,562
+<i>Down from the eaves and the leaves</i>
+
+75
+00:03:47,720 --> 00:03:51,042
+<i>Over fields, out of castles and ponds</i>
+
+76
+00:03:52,160 --> 00:03:55,130
+<i>No, squeeze, pal</i>
+
+77
+00:04:12,760 --> 00:04:15,650
+<i>Quick, little birds
+Flick through the ashes</i>
+
+78
+00:04:15,800 --> 00:04:18,371
+<i>Pick and peck, but swiftly
+Sift through the ashes</i>
+
+79
+00:04:18,520 --> 00:04:20,363
+<i>Into the pot</i>
+
+80
+00:04:23,960 --> 00:04:24,961
+Oh!
+
+81
+00:04:25,040 --> 00:04:26,041
+Bull's-eye!
+
+82
+00:04:26,160 --> 00:04:27,650
+What are you doing?
+
+83
+00:04:27,800 --> 00:04:29,400
+Stop your pretending!
+
+84
+00:04:30,040 --> 00:04:31,644
+Now listen to me well, son.
+
+85
+00:04:31,800 --> 00:04:33,768
+Milky-White must be taken to market.
+
+86
+00:04:33,960 --> 00:04:35,371
+Mother, no!
+He's the best cow in the world!
+
+87
+00:04:35,520 --> 00:04:38,126
+Was. She has been dry for weeks now.
+
+88
+00:04:38,280 --> 00:04:40,647
+We've no food or money
+and no choice but to sell her.
+
+89
+00:04:40,840 --> 00:04:42,285
+But Milky-White's my best friend!
+
+90
+00:04:42,440 --> 00:04:43,487
+Look at her!
+
+91
+00:04:43,880 --> 00:04:46,121
+<i>There are bugs on her dugs</i>
+
+92
+00:04:46,440 --> 00:04:49,011
+<i>There are flies in her eyes</i>
+
+93
+00:04:49,160 --> 00:04:52,642
+<i>There's a lump on her rump
+Big enough to be a hump</i>
+
+94
+00:04:52,800 --> 00:04:55,007
+- But, <i>Mother...
+- We've no time to sit and dither</i>
+
+95
+00:04:55,520 --> 00:04:58,091
+<i>While her withers wither with her</i>
+
+96
+00:04:58,680 --> 00:05:01,445
+<i>And no one keeps a cow for a friend</i>
+
+97
+00:05:01,600 --> 00:05:04,729
+Sometimes I wonder
+what's going on in that head of yours.
+
+98
+00:05:08,800 --> 00:05:10,325
+<i>Into the woods,
+it's time to go</i>
+
+99
+00:05:10,400 --> 00:05:12,243
+<i>I hate to leave, I have to, though</i>
+
+100
+00:05:12,400 --> 00:05:13,925
+<i>Into the woods, it's time and so</i>
+
+101
+00:05:14,040 --> 00:05:15,963
+<i>- I must begin my journey</i>
+- Uh-uh-uh-uh!
+
+102
+00:05:16,040 --> 00:05:17,724
+<i>Into the woods and through the trees</i>
+
+103
+00:05:17,800 --> 00:05:19,643
+<i>To where I am expected, ma'am</i>
+
+104
+00:05:19,840 --> 00:05:21,524
+<i>Into the woods, to Grandmother's house</i>
+
+105
+00:05:21,680 --> 00:05:23,250
+- Stop it.
+- I can't just...
+
+106
+00:05:23,400 --> 00:05:25,289
+<i>Into the woods,
+to Grandmother's house</i>
+
+107
+00:05:25,440 --> 00:05:26,851
+Are you certain of your way?
+
+108
+00:05:27,000 --> 00:05:30,368
+<i>The way is clear
+The light is good</i>
+
+109
+00:05:30,520 --> 00:05:34,127
+<i>I have no fear
+Nor no one should</i>
+
+110
+00:05:34,280 --> 00:05:37,762
+<i>The woods are just trees
+The trees are just wood</i>
+
+111
+00:05:37,920 --> 00:05:41,606
+<i>I sort of hate to ask it
+But do you have a basket?</i>
+
+112
+00:05:41,680 --> 00:05:42,727
+Yes, we do.
+
+113
+00:05:42,800 --> 00:05:45,167
+I don't suppose you're planning
+on buying any of these?
+
+114
+00:05:45,280 --> 00:05:48,568
+Oh, shh.
+Now, don't stray and be late, all right?
+
+115
+00:05:48,720 --> 00:05:51,007
+You might save some of those sweets
+for Granny.
+
+116
+00:05:51,280 --> 00:05:52,691
+- Oh, my...
+- Just leave it.
+
+117
+00:05:52,840 --> 00:05:54,046
+She's a thief!
+
+118
+00:05:54,480 --> 00:05:56,209
+<i>Into the woods and down the dell</i>
+
+119
+00:05:56,280 --> 00:05:57,720
+<i>The path is straight, I know it well</i>
+
+120
+00:05:58,120 --> 00:05:59,724
+<i>Into the woods, and who can tell</i>
+
+121
+00:05:59,800 --> 00:06:01,643
+<i>What's waiting on the journey</i>
+
+122
+00:06:01,840 --> 00:06:03,524
+<i>Into the woods to bring some bread</i>
+
+123
+00:06:03,600 --> 00:06:05,443
+<i>To Granny who is sick in bed</i>
+
+124
+00:06:05,600 --> 00:06:07,250
+<i>Never can tell what lies ahead</i>
+
+125
+00:06:07,320 --> 00:06:09,721
+<i>For all that I know, she's already dead</i>
+
+126
+00:06:09,920 --> 00:06:11,888
+<i>But into the woods</i>
+
+127
+00:06:12,040 --> 00:06:14,566
+<i>Into the woods
+Into the woods, to Grandmother's house</i>
+
+128
+00:06:14,720 --> 00:06:16,722
+<i>And home before dark</i>
+
+129
+00:06:23,200 --> 00:06:24,850
+Cinderella!
+
+130
+00:06:25,000 --> 00:06:26,365
+Get up here!
+
+131
+00:06:26,520 --> 00:06:30,047
+<i>Fly, birds
+Back to the sky</i>
+
+132
+00:06:30,240 --> 00:06:31,526
+We're waiting!
+
+133
+00:06:31,640 --> 00:06:33,608
+<i>Back to the eaves and the leaves</i>
+
+134
+00:06:33,680 --> 00:06:35,045
+<i>And the fields and the...</i>
+
+135
+00:06:35,200 --> 00:06:37,089
+<i>Hurry up and do my hair, Cinderella</i>
+
+136
+00:06:37,160 --> 00:06:38,810
+<i>Are you really wearing that?</i>
+
+137
+00:06:39,160 --> 00:06:41,322
+<i>Here, I found a little tear, Cinderella</i>
+
+138
+00:06:41,400 --> 00:06:42,686
+<i>Can't you hide it with a hat?</i>
+
+139
+00:06:42,880 --> 00:06:45,087
+<i>- You look beautiful</i>
+- I <i>know.</i>
+
+140
+00:06:45,240 --> 00:06:46,651
+- She means me.
+- No, she didn't.
+
+141
+00:06:46,840 --> 00:06:48,808
+<i>Mother said be good
+Father said be nice</i>
+
+142
+00:06:48,960 --> 00:06:50,325
+<i>That was always their advice</i>
+
+143
+00:06:50,480 --> 00:06:52,847
+<i>So be nice, Cinderella
+Good Cinderella</i>
+
+144
+00:06:53,000 --> 00:06:54,684
+<i>- Nice good, good nice
+- Tighter!</i>
+
+145
+00:06:54,840 --> 00:06:56,000
+<i>What's the good of being good</i>
+
+146
+00:06:56,040 --> 00:06:57,166
+<i>If everyone is blind</i>
+
+147
+00:06:57,320 --> 00:07:00,244
+<i>Always leaving you behind
+Never mind, Cinderella</i>
+
+148
+00:07:00,440 --> 00:07:02,841
+<i>Kind Cinderella
+Nice, good, nice, kind, good, nice</i>
+
+149
+00:07:02,920 --> 00:07:03,921
+Ow!
+
+150
+00:07:04,680 --> 00:07:06,921
+Not that tight!
+Clod!
+
+151
+00:07:18,520 --> 00:07:19,521
+Who might that be?
+
+152
+00:07:19,680 --> 00:07:22,206
+We've sold our last loaf of bread!
+
+153
+00:07:24,360 --> 00:07:26,601
+It's the Witch from next door.
+
+154
+00:07:35,760 --> 00:07:37,569
+We have no bread.
+
+155
+00:07:37,720 --> 00:07:39,006
+I don't want your bread.
+
+156
+00:07:39,160 --> 00:07:40,525
+Then what is it you wish?
+
+157
+00:07:40,680 --> 00:07:43,286
+It's not what I wish.
+It's what you wish.
+
+158
+00:07:43,480 --> 00:07:45,528
+Nothing cooking in that belly now,
+is there?
+
+159
+00:07:47,040 --> 00:07:48,201
+And there will never be.
+
+160
+00:07:48,720 --> 00:07:49,846
+Unless
+
+161
+00:07:50,680 --> 00:07:53,160
+you do exactly as I say.
+
+162
+00:07:54,000 --> 00:07:57,527
+In three days' time,
+a Blue Moon will appear.
+
+163
+00:07:58,160 --> 00:08:01,369
+Only then can
+the curse be undone.
+
+164
+00:08:02,000 --> 00:08:03,570
+What curse?
+
+165
+00:08:04,240 --> 00:08:06,049
+The one I placed on this house.
+
+166
+00:08:06,200 --> 00:08:07,645
+What are you talking about?
+
+167
+00:08:09,000 --> 00:08:10,764
+In the past,
+
+168
+00:08:10,920 --> 00:08:13,048
+when you were
+no more than a babe,
+
+169
+00:08:13,200 --> 00:08:17,285
+your father brought his young wife
+and you to this cottage.
+
+170
+00:08:18,080 --> 00:08:20,162
+They were a lovely couple.
+
+171
+00:08:20,680 --> 00:08:23,001
+But not lovely neighbors.
+
+172
+00:08:23,320 --> 00:08:27,041
+You see, your mother was with child,
+
+173
+00:08:28,240 --> 00:08:31,403
+and she developed an unusual appetite.
+
+174
+00:08:32,000 --> 00:08:34,128
+She admired my beautiful garden,
+
+175
+00:08:34,320 --> 00:08:36,163
+and she told your father
+
+176
+00:08:36,320 --> 00:08:38,527
+that what she wanted
+
+177
+00:08:38,680 --> 00:08:41,331
+more than anything in the world...
+
+178
+00:08:41,480 --> 00:08:44,290
+<i>Was greens, greens
+Nothing but greens</i>
+
+179
+00:08:44,440 --> 00:08:46,920
+<i>Parsley, peppers, cabbages and celery</i>
+
+180
+00:08:47,120 --> 00:08:49,282
+<i>Asparagus and watercress
+And fiddleferns and lettuce</i>
+
+181
+00:08:49,440 --> 00:08:52,125
+<i>He said, "All right"
+But it wasn't, quite</i>
+
+182
+00:08:52,280 --> 00:08:54,521
+<i>'Cause I caught him in the autumn
+In my garden one night</i>
+
+183
+00:08:59,920 --> 00:09:02,890
+<i>He was robbing me
+Raping me</i>
+
+184
+00:09:03,040 --> 00:09:05,611
+<i>Rooting through my rutabaga
+Raiding my arugula</i>
+
+185
+00:09:05,760 --> 00:09:08,445
+<i>And ripping up the rampion
+My champion, my favorite</i>
+
+186
+00:09:08,600 --> 00:09:11,490
+I should've laid a spell
+on him right there.
+
+187
+00:09:12,440 --> 00:09:14,761
+I could've turned him into stone.
+
+188
+00:09:15,480 --> 00:09:16,970
+Or a dog.
+
+189
+00:09:18,440 --> 00:09:19,805
+Or a chair.
+
+190
+00:09:23,040 --> 00:09:24,246
+<i>But I let him have the rampion</i>
+
+191
+00:09:24,320 --> 00:09:25,560
+<i>I'd lots to spare</i>
+
+192
+00:09:25,720 --> 00:09:28,166
+<i>In return, however
+I said, "Fair is fair</i>
+
+193
+00:09:28,280 --> 00:09:31,284
+<i>"You can let me have the baby
+That your wife will bear</i>
+
+194
+00:09:32,120 --> 00:09:33,690
+<i>"And we'll call it square"</i>
+
+195
+00:09:34,040 --> 00:09:35,326
+I had a brother?
+
+196
+00:09:36,280 --> 00:09:37,327
+No.
+
+197
+00:09:37,800 --> 00:09:39,723
+But you had a sister.
+
+198
+00:09:40,200 --> 00:09:41,850
+Where is she?
+
+199
+00:09:42,120 --> 00:09:44,521
+She's mine now,
+
+200
+00:09:44,680 --> 00:09:46,489
+and you'll never find her.
+
+201
+00:09:47,120 --> 00:09:50,203
+A small price to pay
+for what else your father stole from me.
+
+202
+00:09:50,800 --> 00:09:53,280
+It cost me my youth, my beauty.
+
+203
+00:09:53,720 --> 00:09:55,290
+My mother warned me
+
+204
+00:09:55,440 --> 00:09:59,570
+she would punish me with the curse
+of ugliness if I ever lost any of them.
+
+205
+00:10:00,320 --> 00:10:01,765
+Lost what?
+
+206
+00:10:01,840 --> 00:10:02,841
+<i>The beans</i>
+
+207
+00:10:03,000 --> 00:10:04,684
+- Beans?
+<i>- The special beans</i>
+
+208
+00:10:04,840 --> 00:10:07,161
+<i>I let him go
+I didn't know he'd stolen my beans</i>
+
+209
+00:10:07,520 --> 00:10:10,126
+<i>I was watching him crawl
+Back over the wall</i>
+
+210
+00:10:10,280 --> 00:10:11,770
+<i>When bang, crash
+A lightning flash</i>
+
+211
+00:10:23,760 --> 00:10:25,922
+<i>Well, that's another story
+Never mind, anyway</i>
+
+212
+00:10:26,080 --> 00:10:28,890
+<i>At last, the big day came
+I made my claim</i>
+
+213
+00:10:29,040 --> 00:10:31,281
+<i>"Oh, don't take away the baby"
+They shrieked and squeaked</i>
+
+214
+00:10:31,520 --> 00:10:34,524
+<i>But I did, and I hid her
+Where she'll never be reached</i>
+
+215
+00:10:34,680 --> 00:10:36,921
+<i>Your father cried
+And your mother died</i>
+
+216
+00:10:37,080 --> 00:10:39,481
+<i>When for extra measure
+I admit, it was a pleasure</i>
+
+217
+00:10:39,640 --> 00:10:42,405
+<i>I said, "Sorry,
+I'm still not mollified"</i>
+
+218
+00:10:42,560 --> 00:10:44,608
+<i>And I laid a little spell on them</i>
+
+219
+00:10:45,160 --> 00:10:46,366
+You, too, son.
+
+220
+00:10:48,120 --> 00:10:51,124
+That your family tree would always be
+
+221
+00:10:51,480 --> 00:10:53,130
+a barren one.
+
+222
+00:10:54,040 --> 00:10:55,451
+Oh!
+
+223
+00:10:55,520 --> 00:10:57,010
+How could you do that?
+
+224
+00:10:57,160 --> 00:10:59,049
+And when your mother died,
+
+225
+00:10:59,200 --> 00:11:01,328
+your father deserted you.
+
+226
+00:11:01,960 --> 00:11:03,849
+Your father was no father,
+
+227
+00:11:04,080 --> 00:11:06,208
+so why should you be?
+
+228
+00:11:07,320 --> 00:11:08,560
+I'm so sorry.
+I'm so sorry.
+
+229
+00:11:10,520 --> 00:11:13,126
+<i>Now there's no more fuss
+And there's no more scenes</i>
+
+230
+00:11:13,280 --> 00:11:15,965
+<i>And my garden thrives
+You should see my nectarines</i>
+
+231
+00:11:16,120 --> 00:11:18,202
+<i>But I'm telling you the same
+I tell kings and queens</i>
+
+232
+00:11:18,400 --> 00:11:21,449
+<i>Don't ever, never, ever
+Mess around with my greens</i>
+
+233
+00:11:22,160 --> 00:11:23,969
+<i>Especially the beans</i>
+
+234
+00:11:27,200 --> 00:11:29,440
+Yeah, but why do we
+have to go to the next village?
+
+235
+00:11:29,480 --> 00:11:30,845
+Because everyone in this village knows
+
+236
+00:11:30,960 --> 00:11:32,720
+the cow hasn't given
+a drop of milk in weeks.
+
+237
+00:11:32,840 --> 00:11:33,921
+But that's cheating.
+
+238
+00:11:34,080 --> 00:11:35,684
+We're starving, Jack!
+
+239
+00:11:35,880 --> 00:11:37,723
+Don't you understand that?
+
+240
+00:11:38,000 --> 00:11:41,368
+Now, you're not to accept
+less than five pounds for her.
+
+241
+00:11:42,200 --> 00:11:43,725
+Are you listening to me?
+
+242
+00:11:43,800 --> 00:11:44,847
+Yes.
+
+243
+00:11:44,920 --> 00:11:46,160
+How much are you to ask?
+
+244
+00:11:46,320 --> 00:11:47,890
+No more than five pounds.
+
+245
+00:11:48,040 --> 00:11:50,042
+- Less than five!
+- Than five!
+
+246
+00:11:50,480 --> 00:11:52,289
+<i>Into the woods,
+the time is now</i>
+
+247
+00:11:52,360 --> 00:11:54,283
+<i>We have to live, I don't care how</i>
+
+248
+00:11:54,480 --> 00:11:56,084
+<i>Into the woods to sell the cow</i>
+
+249
+00:11:56,160 --> 00:11:58,162
+<i>You must begin the journey</i>
+
+250
+00:11:58,360 --> 00:12:00,044
+<i>Straight through the woods,
+and don't delay</i>
+
+251
+00:12:00,120 --> 00:12:01,884
+<i>We have to face the marketplace</i>
+
+252
+00:12:02,080 --> 00:12:04,731
+<i>Into the woods to journey's end</i>
+
+253
+00:12:05,720 --> 00:12:08,451
+<i>Into the woods to sell a friend</i>
+
+254
+00:12:11,440 --> 00:12:14,410
+You wish to have the curse reversed?
+
+255
+00:12:14,920 --> 00:12:17,366
+I'll need a certain potion first.
+
+256
+00:12:17,520 --> 00:12:20,410
+Go to the wood and bring me back...
+
+257
+00:12:20,760 --> 00:12:24,401
+One, the cow as white as milk.
+
+258
+00:12:24,840 --> 00:12:28,561
+Two, the cape as red as blood.
+
+259
+00:12:28,720 --> 00:12:32,566
+Three, the hair as yellow as corn.
+
+260
+00:12:32,680 --> 00:12:37,004
+Four, the slipper as pure as gold.
+
+261
+00:12:38,000 --> 00:12:39,809
+Bring me these
+
+262
+00:12:39,960 --> 00:12:43,726
+before the chime of midnight
+in three days' time.
+
+263
+00:12:43,880 --> 00:12:46,690
+'Tis then the Blue Moon reappears,
+
+264
+00:12:46,840 --> 00:12:50,083
+which comes but once
+each hundred years.
+
+265
+00:12:50,240 --> 00:12:52,607
+Bring them and I guarantee
+
+266
+00:12:52,760 --> 00:12:56,526
+a child as perfect as child can be.
+
+267
+00:12:56,760 --> 00:12:57,761
+Oh!
+
+268
+00:12:58,240 --> 00:12:59,366
+Go to the wood!
+
+269
+00:13:08,960 --> 00:13:10,041
+Whoa!
+
+270
+00:13:12,840 --> 00:13:14,604
+Ladies, our carriage awaits!
+
+271
+00:13:15,160 --> 00:13:17,128
+<i>Now may I go
+to the Festival?</i>
+
+272
+00:13:17,280 --> 00:13:18,406
+<i>The Festival?</i>
+
+273
+00:13:18,560 --> 00:13:20,528
+<i>Darling, those nails
+Darling, those clothes</i>
+
+274
+00:13:20,680 --> 00:13:22,489
+<i>The lentils are one thing
+But darling, with those</i>
+
+275
+00:13:22,600 --> 00:13:24,409
+<i>You'd make us the fools of the Festival</i>
+
+276
+00:13:24,560 --> 00:13:26,528
+<i>And mortify the Prince</i>
+
+277
+00:13:27,520 --> 00:13:29,124
+The Festival lasts three nights.
+
+278
+00:13:29,280 --> 00:13:31,160
+Surely, you can let me be there
+for one of them.
+
+279
+00:13:31,360 --> 00:13:34,921
+The King is trying to find his son a wife,
+not a scullery maid!
+
+280
+00:13:35,560 --> 00:13:37,528
+We must be gone!
+
+281
+00:13:39,560 --> 00:13:40,561
+Oh!
+
+282
+00:13:41,080 --> 00:13:42,081
+Stop it!
+
+283
+00:13:42,240 --> 00:13:43,287
+Come on.
+
+284
+00:13:43,440 --> 00:13:44,771
+Go!
+
+285
+00:13:45,880 --> 00:13:47,086
+I wish...
+
+286
+00:13:50,320 --> 00:13:53,005
+Look what I found. Here, take this.
+
+287
+00:13:53,640 --> 00:13:54,687
+I'm not wearing that.
+
+288
+00:13:54,800 --> 00:13:56,211
+- Why?
+- It was my father's.
+
+289
+00:13:56,360 --> 00:13:58,200
+You heard what she said.
+This is all his fault.
+
+290
+00:13:58,280 --> 00:13:59,480
+I want nothing to do with him.
+
+291
+00:14:01,520 --> 00:14:02,521
+Beans?
+
+292
+00:14:05,280 --> 00:14:07,248
+Oh, these must be the Witch's beans.
+
+293
+00:14:07,400 --> 00:14:08,765
+We'll take them with us.
+
+294
+00:14:08,920 --> 00:14:10,365
+- We?
+- Yes.
+
+295
+00:14:10,520 --> 00:14:12,682
+We? You're not coming.
+It's not safe out there.
+
+296
+00:14:12,840 --> 00:14:14,126
+I can help you!
+
+297
+00:14:14,280 --> 00:14:16,521
+No, I can do this on my own.
+
+298
+00:14:16,680 --> 00:14:19,570
+<i>The spell is on my house
+Only I can lift the spell</i>
+
+299
+00:14:19,720 --> 00:14:21,643
+<i>No, no, the spell is on our house</i>
+
+300
+00:14:21,720 --> 00:14:23,210
+<i>We must lift the spell together</i>
+
+301
+00:14:23,360 --> 00:14:24,805
+<i>The spell is on our house</i>
+
+302
+00:14:24,960 --> 00:14:26,962
+Now, remind me,
+what am I to return with?
+
+303
+00:14:27,120 --> 00:14:28,565
+You don't remember?
+
+304
+00:14:29,160 --> 00:14:31,845
+<i>The cow as white as milk
+The cape as red as blood</i>
+
+305
+00:14:32,000 --> 00:14:34,685
+<i>The hair as yellow as corn
+The slipper as pure as gold</i>
+
+306
+00:14:34,840 --> 00:14:37,286
+<i>The cow as white as milk
+The cape as red as blood</i>
+
+307
+00:14:37,480 --> 00:14:39,608
+<i>The hair as yellow as corn
+The slipper as pure as gold</i>
+
+308
+00:14:39,760 --> 00:14:42,286
+<i>I still wish to go to the Festival</i>
+
+309
+00:14:42,480 --> 00:14:44,642
+<i>But how am I ever to get to the Festival?</i>
+
+310
+00:14:44,800 --> 00:14:46,529
+<i>I know,
+I'll visit Mother's grave</i>
+
+311
+00:14:46,600 --> 00:14:47,720
+<i>The grave at the willow tree</i>
+
+312
+00:14:47,840 --> 00:14:50,446
+<i>And tell her I just want to go
+To the King's Festival</i>
+
+313
+00:14:50,600 --> 00:14:52,443
+<i>Into the woods, it's time to go</i>
+
+314
+00:14:52,520 --> 00:14:54,249
+<i>It may be all in vain, you know</i>
+
+315
+00:14:54,400 --> 00:14:57,847
+<i>Into the woods, but even so
+I have to take the journey</i>
+
+316
+00:14:58,040 --> 00:15:00,327
+<i>Into the woods, the path is straight
+You know it well</i>
+
+317
+00:15:00,480 --> 00:15:01,641
+<i>But who can tell?</i>
+
+318
+00:15:01,800 --> 00:15:04,246
+<i>Into the woods to lift the spell</i>
+
+319
+00:15:05,560 --> 00:15:07,927
+<i>Into the woods to visit Mother</i>
+
+320
+00:15:09,080 --> 00:15:11,321
+<i>Into the woods to sell the cow</i>
+
+321
+00:15:11,480 --> 00:15:13,289
+<i>To get the money</i>
+
+322
+00:15:13,440 --> 00:15:15,363
+<i>To go to the Festival</i>
+
+323
+00:15:16,280 --> 00:15:18,931
+<i>Into the woods, to Grandmother's house</i>
+
+324
+00:15:19,960 --> 00:15:22,611
+<i>Into the woods, to Grandmother's house</i>
+
+325
+00:15:23,440 --> 00:15:25,090
+<i>The way is clear</i>
+
+326
+00:15:25,240 --> 00:15:26,810
+<i>The light is good</i>
+
+327
+00:15:26,960 --> 00:15:30,282
+<i>I have no fear
+Nor no one should</i>
+
+328
+00:15:30,440 --> 00:15:33,842
+<i>The woods are just trees
+The trees are just wood</i>
+
+329
+00:15:34,000 --> 00:15:35,490
+No need to <i>be</i> afraid there
+
+330
+00:15:35,680 --> 00:15:37,842
+<i>There's something in the glade there</i>
+
+331
+00:15:45,000 --> 00:15:46,604
+<i>Into the woods without delay</i>
+
+332
+00:15:46,680 --> 00:15:48,489
+<i>But careful not to lose the way</i>
+
+333
+00:15:48,640 --> 00:15:50,210
+<i>Into the woods, who knows what may</i>
+
+334
+00:15:50,280 --> 00:15:52,169
+<i>Be lurking on the journey</i>
+
+335
+00:15:52,320 --> 00:15:53,845
+<i>Into the woods to get the thing</i>
+
+336
+00:15:53,920 --> 00:15:55,524
+<i>That makes it worth the journeying</i>
+
+337
+00:15:55,880 --> 00:15:57,291
+<i>Into the woods to see the King</i>
+
+338
+00:15:57,440 --> 00:15:59,249
+<i>- To sell the cow
+- To make the potion</i>
+
+339
+00:15:59,400 --> 00:16:01,004
+<i>To see, to sell
+To get, to bring</i>
+
+340
+00:16:01,160 --> 00:16:02,810
+<i>To make, to lift
+To go to the Festival</i>
+
+341
+00:16:02,880 --> 00:16:03,881
+<i>Into the woods</i>
+
+342
+00:16:03,960 --> 00:16:05,007
+<i>To see, to sell, to get, to bring</i>
+
+343
+00:16:05,080 --> 00:16:06,445
+<i>- Into the woods
+- To make, to lift, to go to the Festival</i>
+
+344
+00:16:06,600 --> 00:16:10,002
+<i>Into the woods
+Into the woods</i>
+
+345
+00:16:10,160 --> 00:16:11,685
+<i>Into the woods
+Then out of the woods</i>
+
+346
+00:16:11,840 --> 00:16:13,490
+<i>To see, to sell
+To get, to bring</i>
+
+347
+00:16:13,640 --> 00:16:15,449
+<i>To make, to lift
+To go to the Festival</i>
+
+348
+00:16:15,600 --> 00:16:17,011
+<i>Into the woods
+Then out of the woods</i>
+
+349
+00:16:17,200 --> 00:16:19,202
+<i>And home before dark</i>
+
+350
+00:16:30,960 --> 00:16:32,246
+<i>Deep within the woods</i>
+
+351
+00:16:32,760 --> 00:16:36,560
+<i>Cinderella had planted a branch
+at the grave of her mother.</i>
+
+352
+00:16:36,960 --> 00:16:40,248
+<i>And she visited there so often,
+and wept so much</i>
+
+353
+00:16:40,720 --> 00:16:42,085
+<i>that her tears watered it</i>
+
+354
+00:16:42,240 --> 00:16:45,244
+<i>until it had become a magnificent tree.</i>
+
+355
+00:16:52,400 --> 00:16:53,890
+I wish...
+
+356
+00:16:56,320 --> 00:16:59,324
+<i>What is it that you wish, child?</i>
+
+357
+00:17:02,120 --> 00:17:04,805
+<i>Do you know
+what you wish?</i>
+
+358
+00:17:05,000 --> 00:17:08,402
+<i>Are you certain what you wish
+ls what you want?</i>
+
+359
+00:17:08,560 --> 00:17:11,166
+<i>If you know what you want</i>
+
+360
+00:17:11,320 --> 00:17:13,846
+<i>Then make a wish</i>
+
+361
+00:17:14,000 --> 00:17:18,767
+<i>Ask the tree</i>
+
+362
+00:17:18,920 --> 00:17:24,689
+<i>And you shall have your wish</i>
+
+363
+00:17:51,000 --> 00:17:52,843
+Thank you, Mother.
+
+364
+00:18:15,840 --> 00:18:17,683
+<i>On her path to Granny's,</i>
+
+365
+00:18:17,840 --> 00:18:19,842
+<i>the little girl suddenly found herself</i>
+
+366
+00:18:20,320 --> 00:18:23,005
+<i>in a very unusual part of the wood.</i>
+
+367
+00:18:32,880 --> 00:18:35,087
+Good day, young lady.
+
+368
+00:18:35,880 --> 00:18:37,769
+Good day, Mr. Wolf.
+
+369
+00:18:38,520 --> 00:18:40,727
+Whither away so hurriedly?
+
+370
+00:18:41,080 --> 00:18:42,730
+To my grandmother's.
+
+371
+00:18:43,480 --> 00:18:46,324
+And what might be in your basket?
+
+372
+00:18:46,520 --> 00:18:48,090
+Some bread.
+For Grandmother.
+
+373
+00:18:48,720 --> 00:18:51,200
+So she'll have something good
+to make her strong.
+
+374
+00:18:51,400 --> 00:18:53,880
+And where might your grandmother live?
+
+375
+00:18:54,040 --> 00:18:55,920
+A good quarter of a league further
+in the woods.
+
+376
+00:18:56,040 --> 00:18:57,640
+Her house stands
+inside a great oak tree.
+
+377
+00:19:17,760 --> 00:19:21,606
+<i>Look at that flesh
+Pink and plump</i>
+
+378
+00:19:21,800 --> 00:19:25,725
+<i>Hello, little girl</i>
+
+379
+00:19:26,040 --> 00:19:29,601
+<i>Tender and fresh
+Not one lump</i>
+
+380
+00:19:29,760 --> 00:19:32,923
+<i>Hello, little girl</i>
+
+381
+00:19:33,440 --> 00:19:36,649
+<i>This one's especially lush</i>
+
+382
+00:19:37,440 --> 00:19:38,771
+<i>Delicious</i>
+
+383
+00:19:40,440 --> 00:19:43,603
+<i>Hello, little girl
+What's your rush?</i>
+
+384
+00:19:44,120 --> 00:19:46,600
+<i>You're missing all the flowers</i>
+
+385
+00:19:47,480 --> 00:19:50,131
+<i>The sun won't set for hours</i>
+
+386
+00:19:50,280 --> 00:19:51,566
+<i>Take your time</i>
+
+387
+00:19:51,720 --> 00:19:54,451
+<i>Mother said, "Straight ahead"
+Not to delay or be misled</i>
+
+388
+00:19:54,600 --> 00:19:58,286
+<i>But slow, little girl
+Hark and hush</i>
+
+389
+00:19:58,440 --> 00:20:00,400
+<i>The birds are singing sweetly</i>
+
+390
+00:20:01,640 --> 00:20:03,768
+<i>You'll miss the birds completely</i>
+
+391
+00:20:05,000 --> 00:20:08,800
+<i>You're traveling so fleetly</i>
+
+392
+00:20:08,960 --> 00:20:11,964
+<i>Grandmother first
+Then Miss Plump</i>
+
+393
+00:20:12,120 --> 00:20:15,522
+<i>What a delectable couple</i>
+
+394
+00:20:15,680 --> 00:20:18,763
+<i>Utter perfection
+One brittle, one supple</i>
+
+395
+00:20:18,920 --> 00:20:20,920
+<i>- One moment, my dear
+- Mother said, "Come what may</i>
+
+396
+00:20:20,960 --> 00:20:22,644
+<i>"Follow the path and never stray"</i>
+
+397
+00:20:22,800 --> 00:20:25,849
+<i>Just so, little girl
+Any path</i>
+
+398
+00:20:26,000 --> 00:20:27,809
+<i>So many worth exploring</i>
+
+399
+00:20:29,640 --> 00:20:32,962
+<i>Just one would be so boring</i>
+
+400
+00:20:33,120 --> 00:20:34,531
+<i>And look what you're ignoring</i>
+
+401
+00:20:36,800 --> 00:20:40,122
+<i>Think of those crisp, aging bones</i>
+
+402
+00:20:40,280 --> 00:20:43,489
+<i>Then something fresh on the palate</i>
+
+403
+00:20:43,640 --> 00:20:46,007
+<i>Think of that scrumptious carnality</i>
+
+404
+00:20:46,160 --> 00:20:49,004
+<i>Twice in one day</i>
+
+405
+00:20:49,160 --> 00:20:52,482
+<i>There's no possible way</i>
+
+406
+00:20:52,640 --> 00:20:55,723
+<i>To describe what you feel</i>
+
+407
+00:20:55,880 --> 00:20:58,850
+<i>When you're talking to your meal</i>
+
+408
+00:21:03,360 --> 00:21:04,964
+For Granny.
+
+409
+00:21:06,000 --> 00:21:07,650
+<i>Mother said not to stray</i>
+
+410
+00:21:07,800 --> 00:21:10,565
+<i>Still, I suppose, a small delay</i>
+
+411
+00:21:11,400 --> 00:21:13,528
+<i>Granny might like a fresh bouquet</i>
+
+412
+00:21:15,800 --> 00:21:17,086
+<i>Goodbye, Mr. Wolf</i>
+
+413
+00:21:17,240 --> 00:21:19,083
+<i>Goodbye, little girl</i>
+
+414
+00:21:21,360 --> 00:21:24,842
+<i>And hello</i>
+
+415
+00:21:46,520 --> 00:21:48,761
+What are you waiting for?
+Get the cape!
+
+416
+00:21:48,920 --> 00:21:50,285
+You frightened me!
+
+417
+00:21:51,080 --> 00:21:52,570
+Get it, get it, get it, get it!
+
+418
+00:21:52,720 --> 00:21:54,245
+How am I supposed to get it?
+
+419
+00:21:54,400 --> 00:21:56,721
+You go up to the little thing,
+and you take it!
+
+420
+00:21:56,880 --> 00:21:58,405
+I can't just take a cloak
+from a little girl.
+
+421
+00:21:58,560 --> 00:22:00,767
+- Why don't you take it?
+- It's the rules.
+
+422
+00:22:00,960 --> 00:22:03,042
+Why do you think I asked you
+to do it in the first place?
+
+423
+00:22:03,200 --> 00:22:06,568
+I'm not allowed to touch
+any of the objects.
+
+424
+00:22:15,240 --> 00:22:16,969
+Get me what I need!
+
+425
+00:22:18,600 --> 00:22:19,601
+Get me what I need!
+
+426
+00:22:30,440 --> 00:22:32,124
+Hello there, little girl.
+
+427
+00:22:32,200 --> 00:22:33,201
+Hello, Mr. Baker.
+
+428
+00:22:33,280 --> 00:22:35,886
+Have you saved some of those sweets
+for Granny?
+
+429
+00:22:36,080 --> 00:22:38,162
+I ate all the sweets
+and half a loaf of bread.
+
+430
+00:22:38,320 --> 00:22:39,731
+So I see.
+
+431
+00:22:40,000 --> 00:22:42,765
+Now, tell me, where did you
+get that beautiful cape?
+
+432
+00:22:42,960 --> 00:22:45,406
+- My granny made it for me.
+- Is that so?
+
+433
+00:22:46,000 --> 00:22:47,968
+I would love a
+red cape like that.
+
+434
+00:22:48,120 --> 00:22:50,009
+You would look pretty foolish.
+
+435
+00:22:50,600 --> 00:22:53,080
+I would, wouldn't I?
+
+436
+00:22:53,240 --> 00:22:54,240
+May I take a look at it?
+
+437
+00:22:54,280 --> 00:22:56,089
+- No!
+- No, I need it badly.
+
+438
+00:22:56,240 --> 00:22:58,686
+It's mine!
+Give it back!
+
+439
+00:22:59,080 --> 00:23:00,809
+Give it back!
+
+440
+00:23:07,440 --> 00:23:10,364
+I'm sorry. I'm sorry.
+I just wanted to make sure
+
+441
+00:23:10,520 --> 00:23:12,522
+that you really loved that cape.
+
+442
+00:23:13,480 --> 00:23:15,926
+Now off you go to Granny's,
+
+443
+00:23:16,120 --> 00:23:18,168
+and be careful that
+no wolf comes your way.
+
+444
+00:23:18,480 --> 00:23:20,642
+I'd rather a wolf than you any day!
+
+445
+00:23:27,520 --> 00:23:29,807
+This is hopeless!
+
+446
+00:23:32,320 --> 00:23:33,845
+I'm never gonna find that red cape,
+
+447
+00:23:34,000 --> 00:23:37,447
+or a yellow slipper and a golden cow.
+
+448
+00:23:37,640 --> 00:23:39,847
+Oh, wait, is it a golden slipper
+and a yellow cow?
+
+449
+00:23:40,000 --> 00:23:41,126
+<i>The cow as white as milk</i>
+
+450
+00:23:41,280 --> 00:23:42,645
+<i>The cape as red as blood</i>
+
+451
+00:23:42,800 --> 00:23:43,847
+<i>The hair as yellow as corn</i>
+
+452
+00:23:43,920 --> 00:23:44,921
+<i>The slipper as pure as...</i>
+
+453
+00:23:45,000 --> 00:23:46,843
+- What are you doing here?
+- You forgot your scarf.
+
+454
+00:23:46,960 --> 00:23:48,849
+You shouldn't be here.
+It's not safe in these woods.
+
+455
+00:23:49,000 --> 00:23:50,365
+- I want to help.
+- No!
+
+456
+00:23:50,520 --> 00:23:52,000
+<i>- The spell is on my house
+- Our house</i>
+
+457
+00:23:52,120 --> 00:23:53,360
+<i>Only I can lift the spell</i>
+
+458
+00:23:53,520 --> 00:23:54,851
+<i>- We must lift the spell together
+- The spell is on my house</i>
+
+459
+00:23:55,000 --> 00:23:56,525
+<i>The spell is on...</i>
+
+460
+00:23:58,040 --> 00:24:00,884
+A cow as white as...
+
+461
+00:24:01,680 --> 00:24:03,045
+Milk.
+
+462
+00:24:03,360 --> 00:24:04,361
+Go.
+
+463
+00:24:06,520 --> 00:24:08,887
+- Hello there, young lad.
+- Hello, sir.
+
+464
+00:24:09,040 --> 00:24:12,249
+What might you be doing
+with a cow in the middle of the forest?
+
+465
+00:24:12,400 --> 00:24:14,402
+I was heading towards market,
+
+466
+00:24:14,840 --> 00:24:16,683
+but I seem to have lost my way.
+
+467
+00:24:16,760 --> 00:24:18,000
+"What are you planning on doing there?"
+
+468
+00:24:18,080 --> 00:24:20,082
+What are you planning on doing there?
+
+469
+00:24:20,240 --> 00:24:21,571
+Sell my cow, sir.
+
+470
+00:24:21,720 --> 00:24:23,210
+No less than five pounds.
+
+471
+00:24:23,360 --> 00:24:24,771
+Five pounds?
+
+472
+00:24:24,880 --> 00:24:26,480
+Where are we supposed
+to get five pounds?
+
+473
+00:24:27,040 --> 00:24:30,328
+She must be very generous of milk
+to fetch five pounds.
+
+474
+00:24:31,000 --> 00:24:32,240
+Yes, ma'am.
+
+475
+00:24:32,560 --> 00:24:35,882
+Um, and if you can't fetch that sum,
+then what are you to do?
+
+476
+00:24:36,760 --> 00:24:38,285
+I hadn't thought of that.
+
+477
+00:24:38,720 --> 00:24:40,563
+This is all we have.
+
+478
+00:24:40,720 --> 00:24:41,767
+Beans?
+
+479
+00:24:41,920 --> 00:24:44,605
+Oh, no, we mustn't give up our beans!
+
+480
+00:24:44,760 --> 00:24:46,205
+Well, if you feel that we must.
+
+481
+00:24:46,360 --> 00:24:47,930
+Beans in exchange for my cow?
+
+482
+00:24:48,080 --> 00:24:50,287
+Oh, no, son.
+These are no ordinary beans.
+
+483
+00:24:50,440 --> 00:24:53,250
+These beans, they carry magic.
+
+484
+00:24:53,400 --> 00:24:55,448
+Magic?
+What kind of magic?
+
+485
+00:24:56,760 --> 00:24:57,886
+Tell him.
+
+486
+00:25:00,080 --> 00:25:01,081
+It's, uh...
+
+487
+00:25:01,400 --> 00:25:03,767
+- It's a magic that defies description.
+- Yes.
+
+488
+00:25:03,920 --> 00:25:05,206
+- How many beans?
+- Six.
+
+489
+00:25:05,280 --> 00:25:06,281
+- Five.
+- Five.
+
+490
+00:25:06,400 --> 00:25:07,880
+They're worth a pound each, at least.
+
+491
+00:25:09,440 --> 00:25:10,930
+Could I buy my cow back someday?
+
+492
+00:25:11,040 --> 00:25:13,247
+- Well... Possibly.
+- Yes.
+
+493
+00:25:13,440 --> 00:25:15,090
+So, yeah,
+
+494
+00:25:15,280 --> 00:25:17,169
+it seems like we've made a fair trade.
+
+495
+00:25:17,240 --> 00:25:18,240
+Okay.
+
+496
+00:25:18,280 --> 00:25:21,602
+Here you go.
+There's one, two,
+
+497
+00:25:22,120 --> 00:25:25,488
+three, four, five.
+
+498
+00:25:25,640 --> 00:25:27,449
+All right, well, good luck,
+
+499
+00:25:27,600 --> 00:25:30,126
+and pleasure doing business with you.
+
+500
+00:25:32,760 --> 00:25:35,445
+One day, I'll buy you back.
+
+501
+00:25:35,600 --> 00:25:36,931
+Promise.
+
+502
+00:25:42,960 --> 00:25:44,928
+Take the cow and go home.
+
+503
+00:25:45,840 --> 00:25:47,080
+I was just trying to help.
+
+504
+00:25:47,240 --> 00:25:48,810
+Magic beans?
+
+505
+00:25:48,960 --> 00:25:50,610
+We've no reason to believe
+they're magic.
+
+506
+00:25:50,760 --> 00:25:52,808
+Are we to dispel this curse
+through deceit?
+
+507
+00:25:52,960 --> 00:25:54,962
+No one would have given him
+more for this creature.
+
+508
+00:25:55,120 --> 00:25:57,487
+We did him a favor.
+At least they'll have some food now.
+
+509
+00:25:57,640 --> 00:25:58,687
+Five beans?
+
+510
+00:25:58,840 --> 00:26:00,683
+- Do you want a child or not?
+- Of course I do.
+
+511
+00:26:00,840 --> 00:26:02,490
+We have one chance.
+
+512
+00:26:02,640 --> 00:26:05,007
+Don't you see that?
+And if we fail...
+
+513
+00:26:05,160 --> 00:26:07,288
+I'm not sure I'm cut
+out to be a father.
+
+514
+00:26:08,640 --> 00:26:10,165
+Why would you say that?
+
+515
+00:26:10,320 --> 00:26:11,481
+Because of my father.
+
+516
+00:26:11,640 --> 00:26:12,721
+You're not him!
+
+517
+00:26:12,840 --> 00:26:14,001
+I don't know.
+
+518
+00:26:15,880 --> 00:26:18,850
+If you can't do this for yourself,
+
+519
+00:26:19,000 --> 00:26:21,128
+can't you at least do it for me?
+
+520
+00:26:25,160 --> 00:26:27,845
+Okay. Fine.
+But will you take the cow and go home?
+
+521
+00:26:28,000 --> 00:26:29,684
+I will find the rest of the things
+
+522
+00:26:29,840 --> 00:26:31,490
+on my own.
+
+523
+00:26:59,160 --> 00:27:00,161
+Stay.
+
+524
+00:27:13,560 --> 00:27:14,561
+Rapunzel!
+
+525
+00:27:15,560 --> 00:27:17,562
+Rapunzel!
+
+526
+00:27:18,400 --> 00:27:20,084
+Let down your hair to me!
+
+527
+00:27:20,760 --> 00:27:22,842
+Rapunzel?
+
+528
+00:27:24,280 --> 00:27:27,250
+<i>The old enchantress
+had given the name Rapunzel</i>
+
+529
+00:27:27,400 --> 00:27:30,404
+<i>to the child she had hidden away
+and locked in a doorless tower.</i>
+
+530
+00:27:32,360 --> 00:27:33,725
+<i>But little did She know</i>
+
+531
+00:27:33,920 --> 00:27:36,571
+<i>that the girl's lilting voice
+had caught the attention</i>
+
+532
+00:27:36,720 --> 00:27:38,370
+<i>of a handsome prince.</i>
+
+533
+00:27:50,720 --> 00:27:52,085
+Rapunzel.
+
+534
+00:28:13,440 --> 00:28:15,727
+Don't you look lovely today, my dear.
+
+535
+00:28:15,920 --> 00:28:17,490
+Thank you, Mother.
+
+536
+00:28:18,120 --> 00:28:19,963
+I brought your favorite.
+
+537
+00:28:21,120 --> 00:28:22,167
+Blackberries.
+
+538
+00:28:23,000 --> 00:28:25,241
+Fresh from the garden.
+
+539
+00:28:30,640 --> 00:28:33,644
+<i>As the little girl
+approached her granny's oak tree,</i>
+
+540
+00:28:33,800 --> 00:28:37,361
+<i>she was surprised to see
+the door standing open.</i>
+
+541
+00:28:39,000 --> 00:28:40,161
+Oh, dear.
+
+542
+00:28:40,960 --> 00:28:42,803
+How uneasy I feel.
+
+543
+00:28:43,600 --> 00:28:45,602
+Perhaps it's all the sweets.
+
+544
+00:29:04,680 --> 00:29:06,330
+Granny?
+
+545
+00:29:06,480 --> 00:29:08,642
+Come in, my dearie.
+
+546
+00:29:23,160 --> 00:29:24,889
+My, Grandmother.
+
+547
+00:29:25,560 --> 00:29:27,210
+You're looking very strange.
+
+548
+00:29:28,160 --> 00:29:30,208
+What big ears you have.
+
+549
+00:29:31,800 --> 00:29:34,201
+The better to hear you with,
+
+550
+00:29:35,040 --> 00:29:36,485
+my dear.
+
+551
+00:29:38,800 --> 00:29:41,246
+<i>And with a single bound</i>
+
+552
+00:29:41,400 --> 00:29:43,368
+<i>the big, bad Wolf had
+devoured the little girl.</i>
+
+553
+00:29:44,320 --> 00:29:47,324
+<i>Well, it was a full day of eating for both.</i>
+
+554
+00:30:04,760 --> 00:30:07,240
+Help! Get us out!
+
+555
+00:30:10,600 --> 00:30:12,602
+I can't believe I just did that.
+
+556
+00:30:13,720 --> 00:30:14,721
+Wait!
+
+557
+00:30:15,200 --> 00:30:17,282
+Aren't you gonna help us
+skin that beast?
+
+558
+00:30:17,440 --> 00:30:18,726
+No, no.
+No thanks.
+
+559
+00:30:18,920 --> 00:30:21,207
+What kind of hunter are you?
+
+560
+00:30:21,360 --> 00:30:22,964
+I'm a baker.
+
+561
+00:30:23,120 --> 00:30:24,565
+Wait a minute, I never thanked you!
+
+562
+00:30:24,760 --> 00:30:26,330
+You need to be more careful,
+young lady.
+
+563
+00:30:26,400 --> 00:30:27,401
+I'm sorry.
+
+564
+00:30:28,400 --> 00:30:30,289
+I should have known better.
+
+565
+00:30:30,640 --> 00:30:32,324
+<i>Mother said,
+"Straight ahead"</i>
+
+566
+00:30:32,400 --> 00:30:34,607
+<i>Not to delay or be misled</i>
+
+567
+00:30:36,120 --> 00:30:38,248
+<i>I should have heeded her advice</i>
+
+568
+00:30:38,440 --> 00:30:41,728
+<i>But he seemed so nice</i>
+
+569
+00:30:42,960 --> 00:30:46,567
+<i>And he showed me things
+Many beautiful things</i>
+
+570
+00:30:46,720 --> 00:30:50,247
+<i>That I hadn't thought to explore</i>
+
+571
+00:30:50,400 --> 00:30:53,609
+<i>They were off my path
+So I never had dared</i>
+
+572
+00:30:53,920 --> 00:30:55,763
+<i>I had been so careful</i>
+
+573
+00:30:55,920 --> 00:30:57,729
+<i>I never had cared</i>
+
+574
+00:30:57,880 --> 00:31:01,726
+<i>And he made me feel excited
+Well, excited and scared</i>
+
+575
+00:31:04,120 --> 00:31:07,841
+<i>When he said, "Come in"
+With that sickening grin</i>
+
+576
+00:31:08,000 --> 00:31:10,606
+<i>How could I know what was in store?</i>
+
+577
+00:31:11,320 --> 00:31:14,961
+<i>Once his teeth were bared,
+though I really got scared</i>
+
+578
+00:31:15,120 --> 00:31:18,010
+<i>Well, excited and scared</i>
+
+579
+00:31:20,600 --> 00:31:22,762
+<i>But he drew me close</i>
+
+580
+00:31:22,920 --> 00:31:24,126
+<i>And he swallowed me down</i>
+
+581
+00:31:24,280 --> 00:31:25,964
+<i>Down a dark, slimy path</i>
+
+582
+00:31:26,120 --> 00:31:28,521
+<i>Where lie secrets
+That I never want to know</i>
+
+583
+00:31:28,760 --> 00:31:29,761
+Whoa!
+
+584
+00:31:30,480 --> 00:31:32,369
+<i>And when everything familiar</i>
+
+585
+00:31:32,520 --> 00:31:34,329
+<i>Seemed to disappear forever</i>
+
+586
+00:31:34,480 --> 00:31:37,768
+<i>At the end of the path
+Was Granny once again</i>
+
+587
+00:31:41,280 --> 00:31:45,205
+<i>So we lay in the dark
+Till you came and set us free</i>
+
+588
+00:31:49,440 --> 00:31:50,805
+<i>And you brought us to the light</i>
+
+589
+00:31:51,320 --> 00:31:54,688
+<i>And we're back at the start</i>
+
+590
+00:31:54,840 --> 00:31:58,322
+<i>And I know things now
+Many valuable things</i>
+
+591
+00:31:58,520 --> 00:32:02,002
+<i>That I hadn't known before</i>
+
+592
+00:32:02,160 --> 00:32:04,162
+<i>Do not put your faith</i>
+
+593
+00:32:04,320 --> 00:32:05,731
+<i>In a cape and a hood</i>
+
+594
+00:32:05,880 --> 00:32:09,362
+<i>They will not protect you
+The way that they should</i>
+
+595
+00:32:09,520 --> 00:32:11,170
+<i>And take extra care with strangers</i>
+
+596
+00:32:11,360 --> 00:32:13,488
+<i>Even flowers have their dangers</i>
+
+597
+00:32:13,640 --> 00:32:15,165
+<i>And though scary is exciting</i>
+
+598
+00:32:15,320 --> 00:32:18,164
+<i>Nice is different than good</i>
+
+599
+00:32:20,040 --> 00:32:22,202
+Mr. Baker, you saved our lives.
+
+600
+00:32:23,000 --> 00:32:24,047
+Here.
+
+601
+00:32:26,080 --> 00:32:27,525
+- Are you certain?
+- Yes.
+
+602
+00:32:27,680 --> 00:32:30,524
+Maybe Granny will make me another one
+out of the skins of that wolf.
+
+603
+00:32:30,680 --> 00:32:32,091
+Thank you.
+
+604
+00:32:32,520 --> 00:32:33,851
+Thank you!
+
+605
+00:32:34,720 --> 00:32:35,721
+Ugh!
+
+606
+00:32:36,880 --> 00:32:38,609
+<i>Now I know: don't be scared</i>
+
+607
+00:32:38,760 --> 00:32:41,366
+<i>Granny is right, just be prepared</i>
+
+608
+00:32:41,760 --> 00:32:43,762
+<i>Isn't it nice to know a lot</i>
+
+609
+00:32:45,720 --> 00:32:47,722
+<i>And a little bit</i>
+
+610
+00:32:48,920 --> 00:32:49,921
+<i>Not</i>
+
+611
+00:32:51,280 --> 00:32:53,044
+How could you do this?
+
+612
+00:32:53,240 --> 00:32:55,891
+What sort of boy exchanges
+a cow for beans?
+
+613
+00:32:56,040 --> 00:32:57,690
+But they're magic.
+The man said.
+
+614
+00:32:57,840 --> 00:32:58,887
+Oh, get your head
+out of the clouds, Jack!
+
+615
+00:32:58,960 --> 00:33:00,371
+Ow!
+
+616
+00:33:00,440 --> 00:33:01,487
+Mother, no!
+
+617
+00:33:01,560 --> 00:33:03,085
+Go on, get in there!
+
+618
+00:33:03,240 --> 00:33:06,608
+You and your worthless adventures,
+Jack! Will you never learn?
+
+619
+00:33:06,760 --> 00:33:09,411
+To bed without supper for you!
+
+620
+00:33:11,440 --> 00:33:12,441
+Beans!
+
+621
+00:33:34,040 --> 00:33:36,088
+<i>The first night
+of the Festival Ball</i>
+
+622
+00:33:36,280 --> 00:33:38,169
+<i>brought Cinderella her wish.</i>
+
+623
+00:33:38,320 --> 00:33:40,721
+<i>The Prince danced only with her,</i>
+
+624
+00:33:40,880 --> 00:33:44,441
+<i>till he turned,
+and she had slipped</i> away.
+
+625
+00:33:54,600 --> 00:33:55,806
+That way!
+
+626
+00:34:00,240 --> 00:34:01,446
+Quickly!
+
+627
+00:34:13,680 --> 00:34:16,445
+I must find that girl.
+
+628
+00:34:28,920 --> 00:34:29,921
+Oh!
+
+629
+00:34:33,640 --> 00:34:34,641
+Oh!
+
+630
+00:34:36,360 --> 00:34:38,488
+- Are you all right, miss?
+- Yes.
+
+631
+00:34:38,680 --> 00:34:39,966
+I just need to catch my breath.
+
+632
+00:34:40,120 --> 00:34:41,610
+Oh, what a beautiful gown!
+
+633
+00:34:41,680 --> 00:34:43,170
+Were you at the King's Festival?
+
+634
+00:34:43,320 --> 00:34:44,401
+- Yes.
+- Ooh!
+
+635
+00:34:45,000 --> 00:34:46,650
+Aren't you the lucky one.
+
+636
+00:34:46,800 --> 00:34:48,689
+Why ever are you in the woods
+at this hour?
+
+637
+00:34:48,840 --> 00:34:49,887
+This way!
+
+638
+00:34:50,840 --> 00:34:52,480
+Please don't let them know that I'm here.
+
+639
+00:34:58,320 --> 00:34:59,845
+Oh, my God.
+
+640
+00:35:00,000 --> 00:35:03,243
+Have you seen a beautiful young woman
+in a ball gown pass through?
+
+641
+00:35:04,720 --> 00:35:06,324
+I don't think so, sir.
+
+642
+00:35:06,480 --> 00:35:08,369
+If I may, My Lord,
+I think I see her over there!
+
+643
+00:35:08,520 --> 00:35:09,726
+Onward!
+
+644
+00:35:13,680 --> 00:35:16,160
+I've never lied to royalty before.
+
+645
+00:35:16,520 --> 00:35:18,363
+I've never anything to royalty before!
+
+646
+00:35:18,520 --> 00:35:19,885
+Thank you.
+
+647
+00:35:20,040 --> 00:35:23,408
+If a prince were looking for me,
+I certainly wouldn't hide.
+
+648
+00:35:27,080 --> 00:35:28,081
+Uh...
+
+649
+00:35:28,760 --> 00:35:29,921
+Well...
+
+650
+00:35:30,000 --> 00:35:31,889
+What brings you here,
+
+651
+00:35:32,040 --> 00:35:33,405
+and with a cow?
+
+652
+00:35:33,840 --> 00:35:35,649
+On, um...
+
+653
+00:35:35,880 --> 00:35:38,360
+Well, my husband's
+somewhere in the woods.
+
+654
+00:35:38,520 --> 00:35:41,046
+He's undoing a spell.
+
+655
+00:35:41,360 --> 00:35:42,361
+Oh.
+
+656
+00:35:42,840 --> 00:35:43,887
+Yes.
+
+657
+00:35:45,280 --> 00:35:48,648
+But tell me, the Prince,
+what was he like?
+
+658
+00:35:51,080 --> 00:35:52,764
+<i>He's</i> a <i>very nice prince</i>
+
+659
+00:35:52,840 --> 00:35:53,840
+<i>And?</i>
+
+660
+00:35:53,920 --> 00:35:55,046
+And...
+
+661
+00:35:55,200 --> 00:35:56,929
+<i>It's a very nice ball</i>
+
+662
+00:35:57,040 --> 00:35:58,041
+<i>And?</i>
+
+663
+00:35:58,120 --> 00:35:59,121
+And...
+
+664
+00:35:59,200 --> 00:36:00,611
+<i>When I entered, they trumpeted</i>
+
+665
+00:36:00,800 --> 00:36:02,404
+<i>And? The Prince?</i>
+
+666
+00:36:02,560 --> 00:36:03,641
+<i>- Oh, the Prince
+- Yes, the Prince</i>
+
+667
+00:36:03,800 --> 00:36:04,881
+<i>Well, he's tall</i>
+
+668
+00:36:05,040 --> 00:36:06,201
+<i>Is that all?</i>
+
+669
+00:36:06,560 --> 00:36:07,971
+<i>Did you dance?
+Is he charming?</i>
+
+670
+00:36:08,040 --> 00:36:09,883
+<i>They say that he's charming</i>
+
+671
+00:36:10,040 --> 00:36:12,088
+<i>We did nothing but dance</i>
+
+672
+00:36:12,240 --> 00:36:13,730
+<i>Yes?</i>
+
+673
+00:36:13,880 --> 00:36:15,291
+<i>- And?
+- And it made a nice change</i>
+
+674
+00:36:15,400 --> 00:36:16,400
+<i>No, the Prince</i>
+
+675
+00:36:16,440 --> 00:36:18,090
+<i>- Oh, the Prince
+- Yes, the Prince</i>
+
+676
+00:36:18,280 --> 00:36:20,726
+<i>He has charm for a prince, I guess</i>
+
+677
+00:36:20,880 --> 00:36:22,325
+<i>You guess?</i>
+
+678
+00:36:22,480 --> 00:36:25,290
+<i>I don't meet a wide range</i>
+
+679
+00:36:25,440 --> 00:36:28,569
+<i>And it's all very strange</i>
+
+680
+00:36:28,720 --> 00:36:30,722
+But why would you run away?
+
+681
+00:36:32,560 --> 00:36:34,483
+It's not quite what I expected.
+
+682
+00:36:34,640 --> 00:36:37,564
+What?
+Princes and castles and gowns?
+
+683
+00:36:37,720 --> 00:36:39,848
+I have no experience with those things.
+
+684
+00:36:40,000 --> 00:36:42,082
+But you will return to
+the Festival tomorrow eve?
+
+685
+00:36:42,240 --> 00:36:43,401
+Yes.
+
+686
+00:36:43,560 --> 00:36:44,686
+No.
+
+687
+00:36:45,280 --> 00:36:46,281
+I don't know.
+
+688
+00:36:46,440 --> 00:36:48,160
+You don't know?
+
+689
+00:36:48,200 --> 00:36:50,806
+Oh,
+what I wouldn't give to be in your shoes.
+
+690
+00:36:50,960 --> 00:36:52,928
+Well, your slippers.
+
+691
+00:36:53,520 --> 00:36:54,806
+As pure as gold?
+
+692
+00:36:54,960 --> 00:36:55,960
+I must get home.
+
+693
+00:36:56,000 --> 00:36:57,161
+No, wait.
+I need your shoes!
+
+694
+00:36:59,480 --> 00:37:00,481
+Milky-White!
+
+695
+00:37:01,800 --> 00:37:03,848
+One midnight gone!
+
+696
+00:37:04,000 --> 00:37:05,081
+Already?
+
+697
+00:37:05,280 --> 00:37:06,486
+Get the cow!
+
+698
+00:37:50,240 --> 00:37:51,685
+Mr. Baker!
+Mr. Baker!
+
+699
+00:37:53,040 --> 00:37:55,281
+Good fortune!
+Good fortune, sir!
+
+700
+00:37:55,440 --> 00:37:57,966
+Look what I have!
+Five gold pieces!
+
+701
+00:37:58,360 --> 00:38:00,203
+How would you come by
+five gold pieces?
+
+702
+00:38:01,680 --> 00:38:05,730
+<i>There are giants in the sky</i>
+
+703
+00:38:06,040 --> 00:38:10,409
+<i>There are big, tall,
+terrible giants in the sky</i>
+
+704
+00:38:14,720 --> 00:38:16,404
+<i>When you're way up high
+And you look below</i>
+
+705
+00:38:16,600 --> 00:38:18,480
+<i>At the world you've left
+And the things you know</i>
+
+706
+00:38:18,560 --> 00:38:20,562
+<i>Little more than a glance
+ls enough to show you</i>
+
+707
+00:38:20,720 --> 00:38:22,563
+<i>Just how small you are</i>
+
+708
+00:38:24,200 --> 00:38:26,248
+<i>When you're way up high
+And you're on your own</i>
+
+709
+00:38:26,400 --> 00:38:27,890
+<i>In a world like none
+That you've ever known</i>
+
+710
+00:38:28,040 --> 00:38:29,804
+<i>Where the sky is lead
+And the earth is stone</i>
+
+711
+00:38:29,960 --> 00:38:33,567
+<i>You're free to do
+Whatever pleases you</i>
+
+712
+00:38:33,720 --> 00:38:35,563
+<i>Exploring things you'd never dare</i>
+
+713
+00:38:35,720 --> 00:38:37,722
+<i>'Cause you don't care
+When suddenly there's</i>
+
+714
+00:38:37,880 --> 00:38:42,249
+<i>A big, tall, terrible giant at the door</i>
+
+715
+00:38:42,720 --> 00:38:43,721
+A giant?
+
+716
+00:38:45,280 --> 00:38:49,171
+<i>A big, tall, terrible lady giant</i>
+
+717
+00:38:49,320 --> 00:38:52,085
+<i>Sweeping the floor</i>
+
+718
+00:38:52,640 --> 00:38:56,247
+<i>And she gives you food
+And she gives you rest</i>
+
+719
+00:38:56,400 --> 00:39:00,007
+<i>And she draws you close
+To her giant breast</i>
+
+720
+00:39:00,160 --> 00:39:01,810
+<i>And you know things now</i>
+
+721
+00:39:01,960 --> 00:39:06,124
+<i>That you never knew before</i>
+
+722
+00:39:06,920 --> 00:39:08,922
+<i>Not till the sky</i>
+
+723
+00:39:11,360 --> 00:39:13,124
+<i>Only just when you've made
+A friend and all</i>
+
+724
+00:39:13,280 --> 00:39:15,120
+<i>And you know she's big
+But you don't feel small</i>
+
+725
+00:39:15,160 --> 00:39:16,880
+<i>Someone bigger than her
+Comes along the hall</i>
+
+726
+00:39:17,040 --> 00:39:19,122
+<i>To swallow you for lunch</i>
+
+727
+00:39:20,760 --> 00:39:22,520
+<i>And your heart is lead
+And your stomach stone</i>
+
+728
+00:39:22,640 --> 00:39:25,962
+<i>And you're really scared
+Being all alone</i>
+
+729
+00:39:26,120 --> 00:39:27,963
+<i>And it's then that you miss
+All the things you've known</i>
+
+730
+00:39:28,120 --> 00:39:29,804
+<i>And the world you've left
+And the little you own</i>
+
+731
+00:39:29,960 --> 00:39:33,328
+<i>The fun is done
+You steal what you can and run</i>
+
+732
+00:39:33,480 --> 00:39:35,323
+<i>And you scramble down
+And you look below</i>
+
+733
+00:39:35,480 --> 00:39:37,448
+<i>And the world you know
+Begins to grow</i>
+
+734
+00:39:37,640 --> 00:39:43,807
+<i>The roof, the house
+And your mother at the door</i>
+
+735
+00:39:44,560 --> 00:39:45,561
+<i>The roof</i>
+
+736
+00:39:45,720 --> 00:39:48,690
+<i>The house
+And the world you never</i>
+
+737
+00:39:48,840 --> 00:39:51,730
+<i>Thought to explore</i>
+
+738
+00:39:51,880 --> 00:39:55,487
+<i>And you think of
+All of the things you've seen</i>
+
+739
+00:39:55,640 --> 00:39:59,361
+<i>And you wish that
+You could live in between</i>
+
+740
+00:39:59,800 --> 00:40:00,847
+<i>And you're back again</i>
+
+741
+00:40:01,040 --> 00:40:05,728
+<i>Only different than before</i>
+
+742
+00:40:06,200 --> 00:40:08,931
+<i>After the sky</i>
+
+743
+00:40:09,080 --> 00:40:12,846
+<i>There are giants in the sky</i>
+
+744
+00:40:13,080 --> 00:40:15,924
+<i>There are big, tall, terrible
+Awesome, scary</i>
+
+745
+00:40:16,080 --> 00:40:18,526
+<i>Wonderful giants</i>
+
+746
+00:40:18,680 --> 00:40:21,923
+<i>In the sky</i>
+
+747
+00:40:23,680 --> 00:40:26,411
+There's your money, sir.
+Five gold pieces.
+
+748
+00:40:28,200 --> 00:40:29,770
+Where's my Milky-White?
+
+749
+00:40:30,000 --> 00:40:31,001
+Uh...
+
+750
+00:40:31,080 --> 00:40:32,684
+Milky-White is at home with my Wife.
+
+751
+00:40:32,920 --> 00:40:34,365
+- Let's go find them.
+- No, wait.
+
+752
+00:40:34,520 --> 00:40:35,851
+I'm not sure I want to sell.
+
+753
+00:40:36,000 --> 00:40:37,206
+But you said I could buy her back.
+
+754
+00:40:37,360 --> 00:40:38,880
+- Do you want more money?
+- Well... No.
+
+755
+00:40:39,040 --> 00:40:40,565
+You keep that, I'll fetch some more.
+
+756
+00:40:40,640 --> 00:40:41,766
+I'll just go back up the beanstalk.
+
+757
+00:40:41,960 --> 00:40:43,246
+Wait!
+
+758
+00:40:43,400 --> 00:40:44,811
+Wait! Wait!
+
+759
+00:40:45,400 --> 00:40:46,765
+Hey! Wait!
+
+760
+00:40:46,960 --> 00:40:49,042
+Wait! Wait!
+
+761
+00:40:49,200 --> 00:40:51,202
+I said wait!
+
+762
+00:40:53,040 --> 00:40:54,530
+What are you doing here?
+
+763
+00:40:55,080 --> 00:40:56,525
+Well...
+
+764
+00:40:57,200 --> 00:40:58,361
+Oh, I see you got the cape!
+
+765
+00:40:58,560 --> 00:40:59,971
+Yes, I've got the cape.
+Only two items left.
+
+766
+00:41:00,040 --> 00:41:01,087
+Three.
+
+767
+00:41:01,160 --> 00:41:02,241
+Two.
+We've the cape and the cow.
+
+768
+00:41:02,360 --> 00:41:04,203
+You've got the cape!
+
+769
+00:41:04,640 --> 00:41:06,563
+What have you done with the cow?
+
+770
+00:41:07,280 --> 00:41:09,044
+- She ran away.
+- What?
+
+771
+00:41:09,200 --> 00:41:11,680
+I never even reached home.
+I've been looking for her all night.
+
+772
+00:41:11,720 --> 00:41:12,721
+How could you?
+
+773
+00:41:13,560 --> 00:41:15,324
+Well, she might just as easily
+have run away from you.
+
+774
+00:41:15,640 --> 00:41:16,721
+- Yeah, but she didn't.
+- Yeah, but she might have done.
+
+775
+00:41:16,880 --> 00:41:17,881
+- But she didn't.
+- But she might have done!
+
+776
+00:41:18,000 --> 00:41:19,001
+But she didn't!
+
+777
+00:41:20,520 --> 00:41:21,806
+Who cares?
+
+778
+00:41:22,000 --> 00:41:24,651
+Cow's gone!
+Get it back! Get it back!
+
+779
+00:41:25,320 --> 00:41:27,607
+We were just about to do that,
+
+780
+00:41:27,760 --> 00:41:29,603
+but here, in the meantime,
+we've got this.
+
+781
+00:41:29,760 --> 00:41:32,411
+Get away from me with that, you fool!
+
+782
+00:41:32,760 --> 00:41:35,161
+I can't touch it, remember?
+
+783
+00:41:35,320 --> 00:41:36,924
+Right.
+No, I forgot.
+
+784
+00:41:37,480 --> 00:41:39,926
+By midnight tomorrow
+bring me the items,
+
+785
+00:41:40,080 --> 00:41:43,402
+or that child you wish for
+will never see the light of day!
+
+786
+00:41:48,920 --> 00:41:51,002
+I don't like that woman.
+
+787
+00:41:54,760 --> 00:41:56,444
+I'm sorry I lost the cow.
+
+788
+00:41:56,600 --> 00:41:58,011
+I shouldn't have yelled.
+
+789
+00:42:01,600 --> 00:42:03,045
+Will you go back to the village?
+
+790
+00:42:03,120 --> 00:42:04,770
+I will make things right.
+
+791
+00:42:04,920 --> 00:42:06,490
+And we can carry on with our lives.
+
+792
+00:42:06,640 --> 00:42:09,211
+No more witches or dim-witted boys
+
+793
+00:42:09,360 --> 00:42:10,646
+or hungry little girls.
+
+794
+00:42:10,840 --> 00:42:12,126
+Will you go?
+
+795
+00:42:12,280 --> 00:42:13,441
+Please.
+
+796
+00:42:15,280 --> 00:42:16,281
+Go.
+
+797
+00:42:35,800 --> 00:42:37,643
+Ah! Good brother!
+
+798
+00:42:37,800 --> 00:42:38,801
+I was wondering where you had gone.
+
+799
+00:42:38,960 --> 00:42:40,644
+I've been searching all night for her.
+
+800
+00:42:40,720 --> 00:42:41,721
+Her?
+
+801
+00:42:41,800 --> 00:42:44,485
+The beautiful one
+I danced the evening with.
+
+802
+00:42:44,640 --> 00:42:45,846
+Where did she go?
+
+803
+00:42:46,040 --> 00:42:47,485
+Disappeared,
+
+804
+00:42:47,640 --> 00:42:49,722
+like the fine morning mist.
+
+805
+00:42:49,920 --> 00:42:50,921
+She was lovely?
+
+806
+00:42:51,160 --> 00:42:52,321
+Oh!
+The loveliest.
+
+807
+00:42:52,480 --> 00:42:54,244
+I'm not certain of that.
+
+808
+00:42:55,000 --> 00:42:57,321
+I must confess, I, too,
+have found a lovely maiden.
+
+809
+00:42:58,000 --> 00:43:00,321
+She lives here, in the woods.
+
+810
+00:43:00,560 --> 00:43:01,846
+- In the woods?
+- Yes!
+
+811
+00:43:02,000 --> 00:43:04,685
+On top of a tall tower
+that has no doors or stairs.
+
+812
+00:43:04,760 --> 00:43:05,761
+Where?
+
+813
+00:43:06,080 --> 00:43:07,684
+Two leagues from here, due east,
+
+814
+00:43:07,840 --> 00:43:09,524
+just beyond the mossy knoll
+near the rose thickets.
+
+815
+00:43:09,680 --> 00:43:11,170
+And how do you manage a visit?
+
+816
+00:43:11,680 --> 00:43:13,091
+I stand beneath her tower
+
+817
+00:43:13,240 --> 00:43:16,722
+and I say, "Rapunzel!
+Rapunzel, let down your hair to me."
+
+818
+00:43:16,880 --> 00:43:18,848
+And she lowers the longest,
+
+819
+00:43:18,920 --> 00:43:20,206
+most beautiful head of hair,
+
+820
+00:43:20,360 --> 00:43:21,407
+yellow as corn,
+
+821
+00:43:21,920 --> 00:43:23,206
+which I climb.
+
+822
+00:43:23,360 --> 00:43:24,600
+Rapunzel?
+
+823
+00:43:24,760 --> 00:43:26,200
+- Rapunzel?
+- Yeah.
+
+824
+00:43:26,240 --> 00:43:28,208
+What kind of name is that? You jest!
+
+825
+00:43:28,360 --> 00:43:30,442
+Never heard of such a thing.
+
+826
+00:43:30,520 --> 00:43:32,045
+I speak the truth!
+
+827
+00:43:32,200 --> 00:43:33,611
+She's as true as your maiden.
+
+828
+00:43:33,680 --> 00:43:35,603
+A maiden running from a prince?
+
+829
+00:43:35,960 --> 00:43:38,122
+None would run from us.
+
+830
+00:43:41,200 --> 00:43:42,440
+Yet one has.
+
+831
+00:43:49,880 --> 00:43:53,487
+<i>Did I abuse her?
+Or show her disdain?</i>
+
+832
+00:43:53,640 --> 00:43:56,769
+<i>Why does she run from me?</i>
+
+833
+00:43:57,480 --> 00:44:00,723
+<i>If I should lose her
+How shall I regain</i>
+
+834
+00:44:00,880 --> 00:44:03,884
+<i>The heart she has won from me?</i>
+
+835
+00:44:04,880 --> 00:44:06,882
+<i>Agony</i>
+
+836
+00:44:07,080 --> 00:44:10,323
+<i>Beyond power of speech</i>
+
+837
+00:44:10,800 --> 00:44:13,280
+<i>When the one thing you want</i>
+
+838
+00:44:14,280 --> 00:44:18,444
+<i>Is the only thing out of your reach</i>
+
+839
+00:44:18,600 --> 00:44:20,284
+<i>High</i> in her tower
+
+840
+00:44:20,440 --> 00:44:21,930
+<i>She sits by the hour</i>
+
+841
+00:44:22,080 --> 00:44:24,924
+<i>Maintaining her hair</i>
+
+842
+00:44:25,920 --> 00:44:29,288
+<i>Blithe and becoming
+And frequently humming</i>
+
+843
+00:44:29,440 --> 00:44:31,249
+<i>A lighthearted air</i>
+
+844
+00:44:35,080 --> 00:44:37,082
+<i>Agony</i>
+
+845
+00:44:37,240 --> 00:44:39,129
+<i>Far more painful than yours</i>
+
+846
+00:44:40,800 --> 00:44:44,009
+<i>When you know she would go with you</i>
+
+847
+00:44:44,600 --> 00:44:47,763
+<i>If there only were doors</i>
+
+848
+00:44:47,920 --> 00:44:50,287
+Agony
+
+849
+00:44:50,440 --> 00:44:54,047
+<i>Oh, the torture they teach</i>
+
+850
+00:44:55,320 --> 00:44:56,810
+<i>What's as intriguing</i>
+
+851
+00:44:57,000 --> 00:44:58,604
+<i>Or half so fatiguing</i>
+
+852
+00:44:58,800 --> 00:45:01,371
+<i>As what's out of reach?</i>
+
+853
+00:45:01,680 --> 00:45:03,808
+<i>Am I</i> not <i>sensitive</i>
+
+854
+00:45:03,960 --> 00:45:06,167
+<i>Clever, well-mannered, considerate</i>
+
+855
+00:45:06,320 --> 00:45:09,290
+<i>Passionate, charming
+As kind as I'm handsome</i>
+
+856
+00:45:09,440 --> 00:45:11,522
+<i>And heir to a throne?</i>
+
+857
+00:45:11,680 --> 00:45:13,967
+<i>You are everything
+maidens could wish for</i>
+
+858
+00:45:14,120 --> 00:45:15,690
+<i>- Then why no?
+- Do I know?</i>
+
+859
+00:45:15,840 --> 00:45:18,002
+<i>The girl must be mad</i>
+
+860
+00:45:19,160 --> 00:45:22,403
+<i>You know nothing of madness</i>
+
+861
+00:45:23,800 --> 00:45:26,963
+<i>Till you're climbing her hair
+And you see her up there</i>
+
+862
+00:45:27,160 --> 00:45:30,721
+<i>As you're nearing her
+All the while hearing her</i>
+
+863
+00:45:37,240 --> 00:45:38,241
+Agony
+
+864
+00:45:38,320 --> 00:45:39,321
+<i>- Misery
+- Woe</i>
+
+865
+00:45:39,400 --> 00:45:42,847
+<i>Though it's different for each</i>
+
+866
+00:45:43,000 --> 00:45:44,843
+<i>Always ten steps behind</i>
+
+867
+00:45:45,000 --> 00:45:46,570
+<i>Always ten feet below</i>
+
+868
+00:45:46,760 --> 00:45:50,003
+<i>And she's just out of reach</i>
+
+869
+00:45:50,160 --> 00:45:52,083
+<i>Agony</i>
+
+870
+00:45:52,240 --> 00:45:55,722
+<i>That can cut like a knife</i>
+
+871
+00:45:57,440 --> 00:45:59,886
+<i>I must have her</i>
+
+872
+00:46:00,720 --> 00:46:04,406
+<i>To wife</i>
+
+873
+00:46:47,240 --> 00:46:49,891
+Rapunzel, Rapunzel.
+
+874
+00:46:50,040 --> 00:46:52,486
+Let down your hair to me.
+
+875
+00:46:57,640 --> 00:46:59,927
+Is that you at this hour, my Prince?
+
+876
+00:47:02,440 --> 00:47:03,441
+Yes.
+
+877
+00:47:32,600 --> 00:47:33,965
+Excuse me for this.
+
+878
+00:47:35,960 --> 00:47:37,564
+Oh!
+
+879
+00:47:46,280 --> 00:47:48,681
+<i>As the Baker's wife
+bolted from the tower,</i>
+
+880
+00:47:48,960 --> 00:47:51,440
+<i>the second night
+of the Festival was thrown into chaos...</i>
+
+881
+00:47:51,560 --> 00:47:52,600
+Stop!
+
+882
+00:47:52,640 --> 00:47:55,325
+<i>...when Cinderella,
+once again, ran from the Prince.</i>
+
+883
+00:48:10,720 --> 00:48:11,721
+What are you doing?
+
+884
+00:48:11,880 --> 00:48:14,326
+So sorry, I need your shoe.
+
+885
+00:48:17,880 --> 00:48:20,040
+I see her over there!
+
+886
+00:48:25,560 --> 00:48:27,324
+Who is she?
+Where did she go?
+
+887
+00:48:27,480 --> 00:48:28,641
+I have no idea, sir.
+
+888
+00:48:28,880 --> 00:48:30,484
+Don't play the fool, woman.
+
+889
+00:48:30,640 --> 00:48:32,529
+No, I was trying to hold her here for you.
+
+890
+00:48:32,720 --> 00:48:33,926
+I can capture my own damsel, thank you.
+
+891
+00:48:34,000 --> 00:48:35,001
+Yes, of course.
+
+892
+00:48:35,360 --> 00:48:36,486
+There's no sign of her, my liege.
+
+893
+00:48:36,680 --> 00:48:37,841
+Well, what are you waiting for?
+
+894
+00:48:37,920 --> 00:48:39,763
+See if you can find her.
+Go!
+
+895
+00:48:42,760 --> 00:48:45,445
+The woods can be a dangerous place.
+
+896
+00:48:46,720 --> 00:48:47,721
+On!
+
+897
+00:48:54,680 --> 00:48:56,284
+Moo!
+
+898
+00:49:03,840 --> 00:49:06,889
+I hope that skinny girl
+isn't there tomorrow night.
+
+899
+00:49:07,400 --> 00:49:09,084
+I mean, who was that girl?
+
+900
+00:49:09,400 --> 00:49:11,050
+Please, if you would be so kind,
+
+901
+00:49:11,200 --> 00:49:13,202
+may I compare this ear of corn
+to your hair?
+
+902
+00:49:13,360 --> 00:49:14,725
+You savage!
+
+903
+00:49:17,320 --> 00:49:18,320
+Mongrel!
+
+904
+00:49:18,360 --> 00:49:20,124
+He is revolting!
+
+905
+00:49:34,760 --> 00:49:35,761
+Milky-White!
+
+906
+00:49:47,240 --> 00:49:48,605
+- I thought you were returning home!
+- It's you!
+
+907
+00:49:48,760 --> 00:49:49,761
+You've got the cow!
+
+908
+00:49:49,920 --> 00:49:51,331
+Yes, I've got the cow.
+We've two of the four.
+
+909
+00:49:51,480 --> 00:49:52,811
+- No, three.
+- Two.
+
+910
+00:49:53,080 --> 00:49:55,606
+Three! Compare this to your corn.
+
+911
+00:49:57,680 --> 00:49:58,681
+Where did you find it?
+
+912
+00:49:58,800 --> 00:50:00,484
+Just pulled it from a maiden in a tower.
+
+913
+00:50:00,680 --> 00:50:01,681
+- Three!
+- Three.
+
+914
+00:50:01,840 --> 00:50:03,640
+And I almost had the fourth,
+but she got away.
+
+915
+00:50:03,760 --> 00:50:04,841
+We've one entire day left.
+
+916
+00:50:05,000 --> 00:50:06,764
+Surely we can locate the slipper by then.
+
+917
+00:50:06,920 --> 00:50:07,921
+We?
+
+918
+00:50:08,080 --> 00:50:10,890
+Do you mean you're
+going to let me stay with you?
+
+919
+00:50:15,320 --> 00:50:17,766
+Perhaps it will take two of us
+to have this child.
+
+920
+00:50:19,120 --> 00:50:22,442
+<i>You've changed
+You're daring</i>
+
+921
+00:50:22,600 --> 00:50:24,807
+<i>You're different in the woods</i>
+
+922
+00:50:25,760 --> 00:50:28,969
+<i>More sure
+More sharing</i>
+
+923
+00:50:29,120 --> 00:50:31,600
+<i>You're getting us through the woods</i>
+
+924
+00:50:32,280 --> 00:50:35,284
+<i>If you could see</i>
+
+925
+00:50:35,440 --> 00:50:38,489
+<i>You're not the man who started</i>
+
+926
+00:50:38,960 --> 00:50:41,964
+<i>And much more open-hearted</i>
+
+927
+00:50:42,120 --> 00:50:45,283
+<i>Than I knew you to be</i>
+
+928
+00:50:45,720 --> 00:50:46,721
+<i>It takes two</i>
+
+929
+00:50:46,880 --> 00:50:49,804
+<i>I thought one was enough
+It's not true</i>
+
+930
+00:50:49,960 --> 00:50:52,964
+<i>It takes two of us
+You came through</i>
+
+931
+00:50:53,120 --> 00:50:56,010
+<i>When the journey was rough
+It took you</i>
+
+932
+00:50:56,160 --> 00:50:59,164
+<i>It took two of us
+It takes care</i>
+
+933
+00:50:59,320 --> 00:51:03,882
+<i>It takes patience and fear and despair
+To change</i>
+
+934
+00:51:04,080 --> 00:51:06,321
+<i>Though you swear
+To change</i>
+
+935
+00:51:06,480 --> 00:51:08,164
+<i>Who can tell if you do?</i>
+
+936
+00:51:09,000 --> 00:51:10,001
+<i>It takes two</i>
+
+937
+00:51:10,520 --> 00:51:12,090
+<i>You've changed</i>
+
+938
+00:51:12,240 --> 00:51:16,484
+<i>You're thriving
+There's something about the woods</i>
+
+939
+00:51:16,640 --> 00:51:19,769
+<i>Not just surviving</i>
+
+940
+00:51:19,920 --> 00:51:23,003
+<i>You're blossoming in the woods</i>
+
+941
+00:51:23,160 --> 00:51:26,004
+<i>At home I'd fear</i>
+
+942
+00:51:26,160 --> 00:51:29,209
+<i>We'd stay the same forever</i>
+
+943
+00:51:29,360 --> 00:51:32,409
+<i>And then, out here</i>
+
+944
+00:51:32,560 --> 00:51:35,609
+<i>You're passionate, charming
+Considerate, clever</i>
+
+945
+00:51:35,760 --> 00:51:36,761
+<i>It takes one</i>
+
+946
+00:51:37,280 --> 00:51:39,851
+<i>To begin
+But then once you've begun</i>
+
+947
+00:51:40,360 --> 00:51:42,727
+<i>It takes two of you
+It's no fun</i>
+
+948
+00:51:43,400 --> 00:51:46,449
+<i>But what needs to be done
+You can do</i>
+
+949
+00:51:46,600 --> 00:51:48,090
+<i>When there's two of you</i>
+
+950
+00:51:48,240 --> 00:51:49,890
+<i>If I dare</i>
+
+951
+00:51:50,440 --> 00:51:54,047
+<i>It's because I'm becoming
+Aware of us</i>
+
+952
+00:51:54,360 --> 00:51:56,408
+<i>As a pair of us</i>
+
+953
+00:51:56,720 --> 00:51:59,200
+<i>Each accepting a share</i>
+
+954
+00:51:59,600 --> 00:52:00,726
+<i>Of what's there</i>
+
+955
+00:52:00,880 --> 00:52:02,120
+<i>We've changed</i>
+
+956
+00:52:02,280 --> 00:52:06,444
+<i>We're strangers
+I'm meeting you in the woods</i>
+
+957
+00:52:07,080 --> 00:52:10,209
+<i>Who minds what dangers?</i>
+
+958
+00:52:10,360 --> 00:52:12,727
+<i>I know we'll get past the woods</i>
+
+959
+00:52:13,640 --> 00:52:16,211
+<i>And once we're past</i>
+
+960
+00:52:16,400 --> 00:52:19,404
+<i>Let's hope the changes last</i>
+
+961
+00:52:19,560 --> 00:52:20,925
+<i>Beyond woods</i>
+
+962
+00:52:21,080 --> 00:52:23,924
+<i>Beyond witches and slippers and hoods</i>
+
+963
+00:52:24,080 --> 00:52:27,084
+<i>Just the two of us
+Beyond lies</i>
+
+964
+00:52:27,240 --> 00:52:30,130
+<i>Safe at home with our beautiful prize</i>
+
+965
+00:52:30,280 --> 00:52:33,124
+<i>Just the few of us
+It takes trust</i>
+
+966
+00:52:33,280 --> 00:52:36,568
+<i>It takes just a bit more
+And we're done</i>
+
+967
+00:52:36,720 --> 00:52:37,926
+<i>We want four, we had none</i>
+
+968
+00:52:38,080 --> 00:52:40,970
+<i>We've got three
+We need one</i>
+
+969
+00:52:41,120 --> 00:52:42,121
+<i>It takes two</i>
+
+970
+00:52:47,000 --> 00:52:48,331
+Stop it! Stop my egg!
+
+971
+00:52:51,680 --> 00:52:53,523
+Oh, brilliant! My Milky-White!
+
+972
+00:52:53,680 --> 00:52:54,761
+I've missed you so much!
+
+973
+00:52:54,920 --> 00:52:56,120
+Where did you get this?
+
+974
+00:52:56,240 --> 00:52:57,287
+From the giant's hen.
+
+975
+00:52:57,480 --> 00:53:00,086
+A golden egg!
+I've never seen a golden egg before.
+
+976
+00:53:00,280 --> 00:53:02,169
+And you can have it,
+along with the five gold pieces.
+
+977
+00:53:02,360 --> 00:53:03,441
+What five gold pieces?
+
+978
+00:53:03,600 --> 00:53:04,601
+Now I'm taking my cow.
+
+979
+00:53:04,760 --> 00:53:06,171
+No! I do not wish to sell.
+
+980
+00:53:06,320 --> 00:53:07,367
+But you took the five gold pieces.
+
+981
+00:53:07,520 --> 00:53:09,124
+- I didn't take, you gave.
+- But you said I could have my cow!
+
+982
+00:53:09,200 --> 00:53:10,201
+Where are the five gold pieces?
+
+983
+00:53:10,280 --> 00:53:12,123
+I never said you could.
+I said you might.
+
+984
+00:53:12,640 --> 00:53:13,801
+You would take money before a child?
+
+985
+00:53:14,000 --> 00:53:16,040
+No, no, no, it's not like that.
+It wasn't like that.
+
+986
+00:53:16,560 --> 00:53:17,561
+It's not like I've
+done a deal with him.
+
+987
+00:53:17,760 --> 00:53:18,886
+- How could you do that?
+- It all just happened so fast.
+
+988
+00:53:18,960 --> 00:53:19,961
+Milky-White!
+
+989
+00:53:26,000 --> 00:53:27,001
+Milky-White is dead.
+
+990
+00:53:27,160 --> 00:53:28,685
+What?
+
+991
+00:53:30,200 --> 00:53:32,441
+<i>Two midnights gone!</i>
+
+992
+00:53:44,040 --> 00:53:45,121
+As dawn <i>broke</i>
+
+993
+00:53:45,320 --> 00:53:47,891
+<i>the Baker and his wife
+had but one day left</i>
+
+994
+00:53:48,040 --> 00:53:49,963
+<i>to reverse the Witch's curse.</i>
+
+995
+00:53:50,480 --> 00:53:51,970
+<i>As for Rapunzel's Prince,</i>
+
+996
+00:53:52,160 --> 00:53:54,481
+<i>he returned yet again
+to the forbidden tower.</i>
+
+997
+00:54:02,320 --> 00:54:04,448
+No!
+Bad idea!
+
+998
+00:54:05,520 --> 00:54:06,851
+Are you all right?
+
+999
+00:54:07,000 --> 00:54:09,844
+Yep, yeah.
+Feel fine. Fine.
+
+1000
+00:54:43,680 --> 00:54:46,729
+<i>What did I clearly say?
+Children must listen</i>
+
+1001
+00:54:46,880 --> 00:54:48,564
+No! Please!
+
+1002
+00:54:48,800 --> 00:54:51,041
+<i>What were you not to do?
+Children must see</i>
+
+1003
+00:54:51,120 --> 00:54:52,121
+No!
+
+1004
+00:54:52,600 --> 00:54:55,126
+<i>And learn</i>
+
+1005
+00:54:55,280 --> 00:54:56,964
+<i>Why could you not obey?</i>
+
+1006
+00:54:57,400 --> 00:54:59,209
+<i>Children should listen</i>
+
+1007
+00:54:59,640 --> 00:55:01,722
+<i>What have I been to you?</i>
+
+1008
+00:55:01,880 --> 00:55:03,723
+<i>What would you have me be?</i>
+
+1009
+00:55:03,880 --> 00:55:07,805
+<i>Handsome like a prince?</i>
+
+1010
+00:55:09,640 --> 00:55:13,247
+<i>But I am old
+I am ugly</i>
+
+1011
+00:55:13,400 --> 00:55:15,289
+<i>- I embarrass you
+- No!</i>
+
+1012
+00:55:15,440 --> 00:55:16,680
+<i>You are ashamed of me</i>
+
+1013
+00:55:16,760 --> 00:55:17,807
+No!
+
+1014
+00:55:17,880 --> 00:55:19,962
+<i>You are ashamed</i>
+
+1015
+00:55:22,480 --> 00:55:25,962
+<i>You don't understand</i>
+
+1016
+00:55:33,400 --> 00:55:36,847
+I'm no longer a child.
+I wish to see the world.
+
+1017
+00:55:41,160 --> 00:55:46,166
+<i>Don't you know what's out there
+in the world?</i>
+
+1018
+00:55:48,440 --> 00:55:53,446
+<i>Someone has to shield you
+from the world</i>
+
+1019
+00:55:54,760 --> 00:55:57,604
+<i>Stay with me</i>
+
+1020
+00:56:02,680 --> 00:56:07,686
+<i>Princes wait there in the world, it's true</i>
+
+1021
+00:56:09,480 --> 00:56:14,486
+<i>Princes, yes,
+but wolves and humans, too</i>
+
+1022
+00:56:15,200 --> 00:56:17,726
+<i>Stay at home</i>
+
+1023
+00:56:18,560 --> 00:56:21,564
+<i>I am home</i>
+
+1024
+00:56:21,720 --> 00:56:25,361
+<i>Who out there</i>
+
+1025
+00:56:25,520 --> 00:56:29,491
+<i>Could love you more than I?</i>
+
+1026
+00:56:29,640 --> 00:56:32,120
+<i>What out there</i>
+
+1027
+00:56:32,320 --> 00:56:36,689
+<i>That I cannot supply?</i>
+
+1028
+00:56:36,840 --> 00:56:39,571
+<i>Stay with me</i>
+
+1029
+00:56:43,360 --> 00:56:46,011
+<i>Stay with me</i>
+
+1030
+00:56:46,160 --> 00:56:51,166
+<i>The world is dark and wild</i>
+
+1031
+00:56:55,000 --> 00:56:57,731
+<i>Stay a child</i>
+
+1032
+00:56:57,880 --> 00:57:02,886
+<i>While you can be a child</i>
+
+1033
+00:57:06,720 --> 00:57:09,849
+<i>With me</i>
+
+1034
+00:57:19,440 --> 00:57:21,522
+I gave you protection
+
+1035
+00:57:22,240 --> 00:57:24,288
+and yet you disobeyed me.
+
+1036
+00:57:24,520 --> 00:57:25,521
+No.
+
+1037
+00:57:26,720 --> 00:57:30,042
+Your prince will never
+lay eyes on you again.
+
+1038
+00:57:30,360 --> 00:57:32,522
+He will never lay eyes
+on anything again.
+
+1039
+00:57:32,680 --> 00:57:34,045
+What did you do to him?
+
+1040
+00:57:34,960 --> 00:57:36,564
+It doesn't matter,
+
+1041
+00:57:36,760 --> 00:57:38,808
+because where you're going
+
+1042
+00:57:39,120 --> 00:57:41,600
+no one will ever see you again!
+
+1043
+00:57:41,760 --> 00:57:43,808
+No! No!
+
+1044
+00:57:45,760 --> 00:57:47,410
+No!
+
+1045
+00:58:00,880 --> 00:58:01,881
+Hey, there.
+Nice cape.
+
+1046
+00:58:02,080 --> 00:58:04,811
+Stay away from my cape,
+or I'll slash you into a thousand bits!
+
+1047
+00:58:05,000 --> 00:58:06,331
+Whoa!
+I don't want it.
+
+1048
+00:58:06,480 --> 00:58:08,440
+- Where did you get it?
+- My granny made it for me
+
+1049
+00:58:08,560 --> 00:58:10,244
+from a wolf that attacked us.
+
+1050
+00:58:10,400 --> 00:58:12,528
+And she gave me this beautiful knife
+for protection.
+
+1051
+00:58:12,680 --> 00:58:14,728
+Oh, look what I have.
+A golden egg.
+
+1052
+00:58:16,880 --> 00:58:18,006
+Where did you get that egg?
+
+1053
+00:58:18,160 --> 00:58:21,403
+I stole a hen that lays golden eggs
+from the kingdom of the giant.
+
+1054
+00:58:21,920 --> 00:58:23,206
+I don't believe you.
+
+1055
+00:58:23,360 --> 00:58:25,931
+It's true.
+And you should see the giant's toy harp.
+
+1056
+00:58:26,080 --> 00:58:28,447
+It plays the most beautiful tunes
+without you even having to touch it.
+
+1057
+00:58:28,600 --> 00:58:29,726
+Of course it does.
+
+1058
+00:58:29,880 --> 00:58:31,640
+Why don't you go up
+to the kingdom right now,
+
+1059
+00:58:31,760 --> 00:58:33,364
+bring it back and show it to me?
+
+1060
+00:58:33,520 --> 00:58:35,045
+- I could.
+- You could not.
+
+1061
+00:58:35,240 --> 00:58:36,241
+I could!
+
+1062
+00:58:36,360 --> 00:58:37,441
+You could not, Mr. Liar!
+
+1063
+00:58:37,600 --> 00:58:39,682
+I'm not a liar.
+I'll get that harp, you'll see!
+
+1064
+00:58:41,760 --> 00:58:43,603
+<i>Jack took
+the little girl's dare,</i>
+
+1065
+00:58:43,760 --> 00:58:45,091
+<i>and before he knew it</i>
+
+1066
+00:58:45,240 --> 00:58:46,640
+<i>found himself fleeing from a giant.</i>
+
+1067
+00:58:49,280 --> 00:58:52,568
+Bring back my harp!
+
+1068
+00:58:56,960 --> 00:59:00,203
+I'll grind your bones!
+
+1069
+00:59:10,640 --> 00:59:11,801
+Okay, we don't have much time left.
+
+1070
+00:59:11,880 --> 00:59:13,041
+I don't know where to start.
+
+1071
+00:59:13,200 --> 00:59:14,645
+You can start by buying a new cow
+
+1072
+00:59:14,720 --> 00:59:15,767
+with the money you took from the boy.
+
+1073
+00:59:15,920 --> 00:59:17,490
+Right, okay, and where do I buy a cow?
+
+1074
+00:59:17,640 --> 00:59:19,881
+Just go to the next village.
+I'm sure you'll find a cow there.
+
+1075
+00:59:20,040 --> 00:59:21,041
+Okay, and what are you going to do?
+
+1076
+00:59:21,160 --> 00:59:22,161
+I'm going to get the slipper.
+
+1077
+00:59:22,320 --> 00:59:24,129
+- The yellow slipper?
+- The golden slipper!
+
+1078
+00:59:24,280 --> 00:59:25,600
+The golden slipper, that's right.
+
+1079
+00:59:25,640 --> 00:59:27,320
+Where are you going to find it?
+
+1080
+00:59:27,560 --> 00:59:28,721
+I've met a maiden,
+these two previous nights,
+
+1081
+00:59:28,800 --> 00:59:29,801
+with golden slippers.
+
+1082
+00:59:30,000 --> 00:59:31,920
+- Do you think you can get one?
+- I'm sure of it.
+
+1083
+00:59:36,240 --> 00:59:37,287
+Wait.
+
+1084
+00:59:37,440 --> 00:59:39,169
+Why are we always separating?
+
+1085
+00:59:39,480 --> 00:59:41,440
+Because we have to,
+if we're going to be together.
+
+1086
+00:59:53,600 --> 00:59:54,806
+What?
+
+1087
+00:59:56,680 --> 00:59:58,330
+<i>The entire kingdom shook</i>
+
+1088
+00:59:58,480 --> 01:00:00,687
+<i>when the beanstalk
+came crashing down,</i>
+
+1089
+01:00:00,920 --> 01:00:02,649
+<i>killing the giant.</i>
+
+1090
+01:00:04,520 --> 01:00:06,841
+<i>As for the indecisive Cinderella,</i>
+
+1091
+01:00:07,040 --> 01:00:08,849
+<i>she fled from the Prince.</i>
+
+1092
+01:00:09,040 --> 01:00:10,530
+<i>Again.</i>
+
+1093
+01:00:10,680 --> 01:00:11,920
+After her!
+
+1094
+01:00:41,360 --> 01:00:43,727
+<i>He's</i> a <i>very smart prince</i>
+
+1095
+01:00:45,320 --> 01:00:47,402
+<i>He's a prince who prepares</i>
+
+1096
+01:00:49,160 --> 01:00:51,731
+<i>Knowing this time
+I'd run from him</i>
+
+1097
+01:00:53,000 --> 01:00:55,571
+<i>He spread pitch on the stairs</i>
+
+1098
+01:00:55,720 --> 01:00:58,087
+<i>And I'm caught unawares</i>
+
+1099
+01:00:58,240 --> 01:01:01,244
+<i>Well, it means that he cares</i>
+
+1100
+01:01:03,160 --> 01:01:05,766
+<i>This is more than just malice</i>
+
+1101
+01:01:07,040 --> 01:01:08,326
+<i>Better stop and take stock</i>
+
+1102
+01:01:08,480 --> 01:01:09,561
+<i>While you're standing here stuck</i>
+
+1103
+01:01:09,640 --> 01:01:12,086
+<i>On the steps of the palace</i>
+
+1104
+01:01:12,880 --> 01:01:15,087
+<i>All right, what do you want?</i>
+
+1105
+01:01:15,440 --> 01:01:17,761
+<i>Have to make a decision</i>
+
+1106
+01:01:17,920 --> 01:01:19,206
+<i>Why not stay and be caught?</i>
+
+1107
+01:01:19,400 --> 01:01:20,560
+<i>Should I give that a thought?</i>
+
+1108
+01:01:20,600 --> 01:01:22,921
+<i>What would be his response?</i>
+
+1109
+01:01:23,680 --> 01:01:25,091
+<i>But then what if he knew who I am</i>
+
+1110
+01:01:25,280 --> 01:01:28,762
+<i>When I know that I'm not
+What he thinks that he wants?</i>
+
+1111
+01:01:29,440 --> 01:01:31,761
+<i>Or then, what if I am</i>
+
+1112
+01:01:31,920 --> 01:01:34,241
+<i>What a prince would envision?</i>
+
+1113
+01:01:34,400 --> 01:01:36,721
+<i>But then how can you know
+Who you are till you know</i>
+
+1114
+01:01:36,920 --> 01:01:38,126
+<i>What you want, which I don't?</i>
+
+1115
+01:01:38,200 --> 01:01:39,406
+<i>So then, which do you pick?</i>
+
+1116
+01:01:39,560 --> 01:01:41,289
+<i>Where you're safe out of sight
+and yourself</i>
+
+1117
+01:01:41,440 --> 01:01:43,807
+<i>But where everything's wrong?</i>
+
+1118
+01:01:44,800 --> 01:01:45,801
+<i>Or where everything's right</i>
+
+1119
+01:01:45,880 --> 01:01:48,929
+<i>But you know that you'll never belong?</i>
+
+1120
+01:01:49,440 --> 01:01:51,249
+<i>And whichever you pick
+Do it quick</i>
+
+1121
+01:01:51,400 --> 01:01:52,561
+<i>'Cause you're starting to stick</i>
+
+1122
+01:01:52,640 --> 01:01:55,041
+<i>To the steps of the palace</i>
+
+1123
+01:01:55,920 --> 01:01:58,127
+<i>It's my first big decision</i>
+
+1124
+01:01:58,280 --> 01:02:00,760
+<i>The choice isn't easy to make</i>
+
+1125
+01:02:00,920 --> 01:02:03,127
+<i>To arrive at a ball
+ls exciting and all</i>
+
+1126
+01:02:03,320 --> 01:02:05,721
+<i>Once you're there, though, it's scary</i>
+
+1127
+01:02:05,880 --> 01:02:08,167
+<i>And it's fun to deceive
+When you know you can leave</i>
+
+1128
+01:02:08,320 --> 01:02:10,721
+<i>But you have to be wary</i>
+
+1129
+01:02:10,880 --> 01:02:12,086
+<i>There's a lot that's at stake</i>
+
+1130
+01:02:12,160 --> 01:02:13,286
+<i>But I've stalled long enough</i>
+
+1131
+01:02:13,440 --> 01:02:14,601
+<i>'Cause I'm still standing stuck</i>
+
+1132
+01:02:14,680 --> 01:02:16,091
+<i>In the stuff on these steps</i>
+
+1133
+01:02:16,240 --> 01:02:18,641
+<i>Better run along home</i>
+
+1134
+01:02:18,800 --> 01:02:21,087
+<i>And avoid the collision</i>
+
+1135
+01:02:21,240 --> 01:02:22,401
+<i>Though at home, they don't care</i>
+
+1136
+01:02:22,480 --> 01:02:23,641
+<i>I'll be better off there</i>
+
+1137
+01:02:23,840 --> 01:02:25,205
+<i>Where there's nothing to choose</i>
+
+1138
+01:02:25,280 --> 01:02:27,442
+<i>So there's nothing to lose</i>
+
+1139
+01:02:27,600 --> 01:02:32,288
+<i>So I'll pry up my shoes</i>
+
+1140
+01:02:32,440 --> 01:02:34,681
+<i>Wait, though, thinking it through</i>
+
+1141
+01:02:34,840 --> 01:02:37,002
+<i>Things don't have to collide</i>
+
+1142
+01:02:37,160 --> 01:02:40,846
+<i>I know what my decision is
+Which is not to decide</i>
+
+1143
+01:02:41,520 --> 01:02:43,761
+<i>I'll just leave him a clue</i>
+
+1144
+01:02:43,920 --> 01:02:45,490
+<i>For example</i>
+
+1145
+01:02:46,640 --> 01:02:48,369
+<i>A shoe</i>
+
+1146
+01:02:48,520 --> 01:02:50,807
+<i>And then see what he'll do</i>
+
+1147
+01:02:50,960 --> 01:02:53,201
+<i>Now it's he and not you
+Who'll be stuck with a shoe</i>
+
+1148
+01:02:54,200 --> 01:02:55,770
+<i>In a stew</i>
+
+1149
+01:02:55,920 --> 01:02:56,967
+<i>In the goo</i>
+
+1150
+01:02:58,480 --> 01:03:00,130
+<i>And I've learned something, too</i>
+
+1151
+01:03:00,280 --> 01:03:02,328
+<i>Something I never knew</i>
+
+1152
+01:03:05,160 --> 01:03:10,166
+<i>On the steps of the palace</i>
+
+1153
+01:03:14,200 --> 01:03:16,009
+With me! Quick, men!
+
+1154
+01:03:17,040 --> 01:03:18,565
+She mustn't get away!
+
+1155
+01:03:26,000 --> 01:03:28,651
+The Ball is over.
+Send everyone home.
+
+1156
+01:03:29,040 --> 01:03:30,530
+And the Princess?
+
+1157
+01:03:30,800 --> 01:03:33,246
+She won't get far with one shoe.
+
+1158
+01:03:49,840 --> 01:03:52,047
+- Don't come any closer to me!
+- Please, just stop.
+
+1159
+01:03:52,200 --> 01:03:53,361
+Just hear me out.
+
+1160
+01:03:53,520 --> 01:03:55,880
+- You have attacked me once before.
+- I didn't attack you...
+
+1161
+01:03:56,000 --> 01:03:57,889
+I attacked your shoe.
+I need it.
+
+1162
+01:03:58,040 --> 01:04:01,328
+Look. I have a magic bean
+in exchange for it.
+
+1163
+01:04:02,520 --> 01:04:03,567
+Magic bean?
+
+1164
+01:04:03,880 --> 01:04:04,927
+Yes.
+
+1165
+01:04:05,880 --> 01:04:06,880
+Nonsense!
+
+1166
+01:04:06,920 --> 01:04:07,921
+No!
+
+1167
+01:04:08,600 --> 01:04:10,204
+Wait, please!
+I haven't much time!
+
+1168
+01:04:10,600 --> 01:04:13,683
+I need that shoe, to have a child.
+
+1169
+01:04:14,440 --> 01:04:15,771
+That makes no sense!
+
+1170
+01:04:15,920 --> 01:04:17,445
+Does it make sense
+that you're running from a prince?
+
+1171
+01:04:17,600 --> 01:04:19,523
+- Stop! You there, stop!
+- I must go!
+
+1172
+01:04:19,680 --> 01:04:21,409
+Here, take my shoes.
+You'll run faster.
+
+1173
+01:04:22,240 --> 01:04:23,240
+Here.
+
+1174
+01:04:23,280 --> 01:04:24,725
+- Thank you!
+- Stop!
+
+1175
+01:04:24,920 --> 01:04:26,251
+Thank you, thank you.
+
+1176
+01:04:26,400 --> 01:04:27,811
+What is that you have in your hand?
+
+1177
+01:04:27,960 --> 01:04:29,450
+Nothing.
+It's mine.
+
+1178
+01:04:29,600 --> 01:04:31,409
+Lying will cost you your life.
+
+1179
+01:04:31,600 --> 01:04:34,649
+I don't care if it costs me my life,
+just get off!
+
+1180
+01:04:34,800 --> 01:04:36,480
+You will pay for this!
+
+1181
+01:04:38,200 --> 01:04:39,201
+No!
+
+1182
+01:04:39,280 --> 01:04:41,931
+Sire, I have succeeded
+in obtaining the other slipper.
+
+1183
+01:04:42,080 --> 01:04:43,840
+Please, kind Prince,
+let me have the slipper,
+
+1184
+01:04:43,960 --> 01:04:45,610
+and all will come to a happy end.
+
+1185
+01:04:45,760 --> 01:04:47,046
+Step back, peon!
+
+1186
+01:04:47,200 --> 01:04:49,567
+Do as she says, Steward!
+We only need one.
+
+1187
+01:04:49,960 --> 01:04:50,961
+- Oh!
+- Oh.
+
+1188
+01:04:52,880 --> 01:04:53,881
+Thank you.
+
+1189
+01:04:54,040 --> 01:04:57,408
+We must search immediately
+for the maiden who fits this slipper.
+
+1190
+01:04:57,560 --> 01:04:58,607
+Tonight?
+
+1191
+01:04:58,760 --> 01:05:00,649
+This very night! On!
+
+1192
+01:05:00,800 --> 01:05:01,801
+Forward!
+
+1193
+01:05:10,440 --> 01:05:11,646
+<i>And in her haste,</i>
+
+1194
+01:05:11,840 --> 01:05:13,604
+<i>the Baker's wife took no notice</i>
+
+1195
+01:05:13,800 --> 01:05:16,929
+<i>of</i> a <i>second beanstalk
+climbing skyward.</i>
+
+1196
+01:05:17,920 --> 01:05:20,651
+Let it be known that
+His Royal Highness, the Crown Prince,
+
+1197
+01:05:20,800 --> 01:05:23,610
+will be visiting every house
+in this village tonight.
+
+1198
+01:05:23,760 --> 01:05:25,967
+All young maidens
+are hereby commanded
+
+1199
+01:05:26,120 --> 01:05:30,011
+to remain in their home
+until visited by the Royal Guard.
+
+1200
+01:05:32,520 --> 01:05:33,931
+Open the gates.
+
+1201
+01:05:34,080 --> 01:05:36,367
+His Royal Highness approaches.
+
+1202
+01:05:37,680 --> 01:05:41,207
+The Prince wishes to meet
+all the young maidens of this house.
+
+1203
+01:05:43,160 --> 01:05:44,207
+All young maidens
+
+1204
+01:05:44,760 --> 01:05:47,206
+prepare to meet the Prince.
+
+1205
+01:05:53,120 --> 01:05:54,963
+<i>As the Prince
+anxiously waited,</i>
+
+1206
+01:05:55,120 --> 01:05:56,531
+<i>the Stepmother took matters,</i>
+
+1207
+01:05:57,040 --> 01:06:00,044
+<i>and Florinda's foot, into her own hands.</i>
+
+1208
+01:06:00,560 --> 01:06:02,562
+<i>- Careful, my toe
+- Darling, I know</i>
+
+1209
+01:06:02,720 --> 01:06:04,722
+<i>- What'll we do?
+- It'll have to go</i>
+
+1210
+01:06:04,880 --> 01:06:06,882
+<i>But when you're his bride
+You can sit or ride</i>
+
+1211
+01:06:07,040 --> 01:06:09,520
+<i>You'll never need to walk</i>
+
+1212
+01:06:17,320 --> 01:06:18,481
+<i>Minus one toe,</i>
+
+1213
+01:06:18,640 --> 01:06:20,961
+<i>Florinda mounted the Prince's horse</i>
+
+1214
+01:06:21,160 --> 01:06:24,209
+<i>unaware of the blood dripping
+from the slipper.</i>
+
+1215
+01:06:35,240 --> 01:06:36,844
+<i>Lucinda was next.</i>
+
+1216
+01:06:39,200 --> 01:06:40,201
+<i>Why won't it fit?</i>
+
+1217
+01:06:40,280 --> 01:06:41,327
+<i>Darling, be still</i>
+
+1218
+01:06:41,400 --> 01:06:43,209
+<i>Cut off a bit of the heel and it will</i>
+
+1219
+01:06:43,360 --> 01:06:45,328
+<i>And when you're his wife
+You'll have such a life</i>
+
+1220
+01:06:45,520 --> 01:06:47,727
+<i>You'll never need to walk</i>
+
+1221
+01:06:55,440 --> 01:06:56,521
+<i>Minus a heel,</i>
+
+1222
+01:06:56,680 --> 01:06:58,284
+<i>Lucinda did her best
+to swallow the pain.</i>
+
+1223
+01:07:09,600 --> 01:07:11,204
+It's a perfect fit, Your Highness.
+
+1224
+01:07:16,440 --> 01:07:18,727
+Have you no other daughters?
+
+1225
+01:07:18,880 --> 01:07:20,644
+Only a little, stunted kitchen wench,
+
+1226
+01:07:20,800 --> 01:07:22,450
+which her late father left behind.
+
+1227
+01:07:22,640 --> 01:07:24,768
+But she cannot present herself.
+
+1228
+01:07:24,920 --> 01:07:26,285
+She is too dirty.
+
+1229
+01:08:00,320 --> 01:08:03,608
+I would recognize
+these beautiful eyes anywhere.
+
+1230
+01:08:04,800 --> 01:08:06,006
+You.
+
+1231
+01:08:08,480 --> 01:08:11,006
+You are my true bride.
+
+1232
+01:08:16,680 --> 01:08:19,001
+Get down.
+Get down.
+
+1233
+01:08:24,640 --> 01:08:26,280
+<i>As punishment
+for their cruelty,</i>
+
+1234
+01:08:26,920 --> 01:08:30,766
+<i>Cinderella's birds swooped down
+upon the stepsisters</i>
+
+1235
+01:08:31,520 --> 01:08:32,960
+<i>and blinded them.</i>
+
+1236
+01:08:36,360 --> 01:08:38,044
+<i>As for Rapunzel,</i>
+
+1237
+01:08:38,200 --> 01:08:40,521
+<i>the Witch had banished her to a swamp</i>
+
+1238
+01:08:40,720 --> 01:08:43,724
+<i>in the darkest depths of the forest.</i>
+
+1239
+01:08:59,160 --> 01:09:00,685
+Rapunzel?
+
+1240
+01:09:01,880 --> 01:09:03,530
+Rapunzel!
+
+1241
+01:09:06,400 --> 01:09:07,401
+Rapunzel!
+
+1242
+01:09:07,520 --> 01:09:08,726
+My darling?
+
+1243
+01:09:09,240 --> 01:09:10,321
+My darling!
+
+1244
+01:09:11,240 --> 01:09:12,241
+I'm here!
+
+1245
+01:09:12,680 --> 01:09:14,011
+Rapunzel?
+
+1246
+01:09:15,920 --> 01:09:17,490
+Rapunzel!
+
+1247
+01:09:25,000 --> 01:09:26,001
+Is that you?
+
+1248
+01:09:26,080 --> 01:09:28,560
+I'm blind, I can't see.
+
+1249
+01:09:36,080 --> 01:09:38,242
+How could she do this to you?
+
+1250
+01:09:50,440 --> 01:09:51,771
+Rapunzel?
+
+1251
+01:09:51,920 --> 01:09:52,921
+What?
+
+1252
+01:09:54,600 --> 01:09:56,250
+I can see you.
+
+1253
+01:09:59,120 --> 01:10:00,565
+Your hair!
+
+1254
+01:10:10,560 --> 01:10:11,891
+I like it.
+
+1255
+01:10:16,800 --> 01:10:18,211
+Come on.
+
+1256
+01:10:19,720 --> 01:10:21,927
+We don't have much time.
+
+1257
+01:10:23,400 --> 01:10:25,289
+- Come on!
+- I found you!
+
+1258
+01:10:25,720 --> 01:10:27,643
+- You got the cow!
+- And you've got the slipper!
+
+1259
+01:10:27,800 --> 01:10:29,928
+- We've got all four!
+- Yes, we've got all four!
+
+1260
+01:10:34,800 --> 01:10:35,961
+I see a cow.
+
+1261
+01:10:37,080 --> 01:10:38,809
+- I see a slipper.
+- Yes.
+
+1262
+01:10:39,000 --> 01:10:41,162
+And the cape as red as blood.
+
+1263
+01:10:41,320 --> 01:10:43,480
+- And the hair as yellow as corn.
+- We've got all four!
+
+1264
+01:10:45,120 --> 01:10:46,121
+Wait a minute.
+
+1265
+01:10:46,440 --> 01:10:48,807
+That cow doesn't look
+as white as milk to me.
+
+1266
+01:10:48,960 --> 01:10:51,360
+- Of course she is.
+- Of course it is. Come on.
+
+1267
+01:10:51,680 --> 01:10:53,330
+She has to be.
+
+1268
+01:10:54,920 --> 01:10:56,843
+This cow has been covered with flour!
+
+1269
+01:10:57,000 --> 01:10:59,241
+You didn't get a real white cow?
+
+1270
+01:10:59,440 --> 01:11:02,171
+We had a cow as white as milk.
+Honestly, we did!
+
+1271
+01:11:02,360 --> 01:11:03,771
+- Then where is she?
+- She's dead!
+
+1272
+01:11:03,920 --> 01:11:05,843
+And we thought that you would
+prefer a live cow.
+
+1273
+01:11:06,000 --> 01:11:07,445
+Of course I would prefer a live cow!
+
+1274
+01:11:07,640 --> 01:11:10,371
+So, show me the dead cow,
+I'll bring her back to life.
+
+1275
+01:11:10,480 --> 01:11:12,369
+Oh. Let's go!
+
+1276
+01:11:12,520 --> 01:11:14,329
+Yeah, okay!
+It's this way, this way!
+
+1277
+01:11:15,600 --> 01:11:16,601
+Jack!
+
+1278
+01:11:17,360 --> 01:11:18,361
+Jack!
+
+1279
+01:11:19,520 --> 01:11:20,521
+Jack! Oh!
+
+1280
+01:11:21,200 --> 01:11:24,010
+There you are!
+I've been worried sick about you!
+
+1281
+01:11:24,160 --> 01:11:26,288
+There's a dead giant in our backyard!
+
+1282
+01:11:26,360 --> 01:11:27,407
+There is?
+
+1283
+01:11:27,480 --> 01:11:28,720
+You know there is!
+
+1284
+01:11:29,040 --> 01:11:30,371
+You could have been crushed!
+
+1285
+01:11:30,520 --> 01:11:31,521
+But, Mother, look!
+
+1286
+01:11:32,360 --> 01:11:34,044
+The most beautiful harp!
+
+1287
+01:11:35,720 --> 01:11:38,724
+You've stolen too much!
+
+1288
+01:11:39,040 --> 01:11:41,080
+You could have been killed
+climbing down that plant!
+
+1289
+01:11:41,200 --> 01:11:43,360
+Come on, quick!
+We buried her under some leaves!
+
+1290
+01:11:43,400 --> 01:11:45,004
+Here, here, it's here!
+
+1291
+01:11:45,160 --> 01:11:46,160
+What's happening?
+
+1292
+01:11:46,200 --> 01:11:47,440
+She's going to bring
+Milky-White back to life.
+
+1293
+01:11:47,520 --> 01:11:48,520
+She can do that?
+
+1294
+01:11:48,560 --> 01:11:49,846
+She's a witch, she can do anything.
+
+1295
+01:11:49,920 --> 01:11:50,967
+Wow.
+
+1296
+01:11:51,040 --> 01:11:52,724
+Stand back.
+
+1297
+01:12:04,240 --> 01:12:07,369
+Milky-White, you're back!
+I can't believe it!
+
+1298
+01:12:07,520 --> 01:12:08,760
+It's almost midnight!
+
+1299
+01:12:08,840 --> 01:12:10,842
+Quiet!
+
+1300
+01:12:10,920 --> 01:12:12,206
+Feed the objects to the cow.
+
+1301
+01:12:12,360 --> 01:12:13,407
+What?
+
+1302
+01:12:14,000 --> 01:12:16,480
+You heard me!
+Feed them to the cow!
+
+1303
+01:12:16,680 --> 01:12:19,081
+- Really?
+- Just try it.
+
+1304
+01:12:25,440 --> 01:12:27,169
+Fill that With milk.
+
+1305
+01:12:27,360 --> 01:12:29,000
+I'll do it.
+She'll only milk for me.
+
+1306
+01:12:29,080 --> 01:12:30,366
+Good boy.
+
+1307
+01:12:41,360 --> 01:12:43,124
+Squeeze, pal.
+You can do it.
+
+1308
+01:12:47,800 --> 01:12:49,245
+It's not working!
+
+1309
+01:12:49,400 --> 01:12:50,401
+What?
+
+1310
+01:12:54,960 --> 01:12:57,201
+Wrong ingredients.
+
+1311
+01:12:59,800 --> 01:13:02,724
+Forget about your child.
+
+1312
+01:13:02,880 --> 01:13:03,881
+No, no, no!
+
+1313
+01:13:03,960 --> 01:13:05,485
+We followed your instructions.
+
+1314
+01:13:05,880 --> 01:13:07,769
+One, the cow is as white as milk.
+
+1315
+01:13:07,840 --> 01:13:08,841
+- Correct?
+- Yes.
+
+1316
+01:13:08,920 --> 01:13:10,809
+Two,
+the cape was certainly as red as blood.
+
+1317
+01:13:10,960 --> 01:13:13,327
+- Yes.
+- Three, there was the slipper.
+
+1318
+01:13:13,480 --> 01:13:15,562
+And four, I compared the hair
+to this ear of corn!
+
+1319
+01:13:15,720 --> 01:13:18,724
+I pulled this from a maiden in a tower.
+
+1320
+01:13:18,880 --> 01:13:19,881
+You what?
+
+1321
+01:13:20,600 --> 01:13:21,726
+What were you doing there?
+
+1322
+01:13:21,880 --> 01:13:23,245
+Nothing, I was passing by.
+
+1323
+01:13:23,640 --> 01:13:26,007
+I touched that hair!
+
+1324
+01:13:26,160 --> 01:13:28,481
+I told you I can't have touched
+any of the ingredients!
+
+1325
+01:13:28,600 --> 01:13:30,011
+- Oh!
+- How are we supposed...
+
+1326
+01:13:30,080 --> 01:13:31,844
+- The corn! The corn!
+- What?
+
+1327
+01:13:32,000 --> 01:13:34,241
+You can use the
+silky hair off the corn!
+
+1328
+01:13:36,160 --> 01:13:38,162
+- Yes. Pull it from the ear.
+- Yes!
+
+1329
+01:13:38,840 --> 01:13:40,842
+Feed it to the cow.
+Quickly!
+
+1330
+01:13:47,480 --> 01:13:48,686
+It's working!
+
+1331
+01:13:48,840 --> 01:13:50,171
+She's milking!
+
+1332
+01:13:51,840 --> 01:13:53,285
+At last!
+
+1333
+01:14:14,280 --> 01:14:15,884
+That was quick!
+
+1334
+01:14:55,360 --> 01:14:56,930
+<i>And it came to pass</i>
+
+1335
+01:14:57,080 --> 01:14:59,082
+<i>all that seemed wrong was now right.</i>
+
+1336
+01:14:59,760 --> 01:15:03,242
+<i>The Witch succeeded
+in reversing her mother's curse.</i>
+
+1337
+01:15:03,400 --> 01:15:06,847
+<i>Cinderella finally stopped
+running from her Prince.</i>
+
+1338
+01:15:08,840 --> 01:15:11,241
+<i>Jack was reunited
+with his beloved cow,</i>
+
+1339
+01:15:11,440 --> 01:15:15,729
+<i>and his mother could now dress
+in the best a golden egg could buy.</i>
+
+1340
+01:15:15,880 --> 01:15:18,565
+<i>And the Baker and his wife
+were proud parents</i>
+
+1341
+01:15:18,720 --> 01:15:21,769
+<i>of a strapping baby boy.</i>
+
+1342
+01:15:24,080 --> 01:15:25,889
+Thanks for the slipper!
+
+1343
+01:15:51,960 --> 01:15:53,405
+Attention!
+
+1344
+01:15:54,320 --> 01:15:57,130
+Let us cheer the newlyweds
+as they embark...
+
+1345
+01:15:57,320 --> 01:15:59,402
+<i>And so,
+with the kingdom filled with joy,</i>
+
+1346
+01:15:59,560 --> 01:16:00,800
+<i>those who deserved to</i>
+
+1347
+01:16:00,960 --> 01:16:02,530
+<i>were destined to live happily ever...</i>
+
+1348
+01:16:17,000 --> 01:16:18,001
+Jack!
+
+1349
+01:16:18,480 --> 01:16:19,527
+Rapunzel!
+
+1350
+01:16:19,600 --> 01:16:21,443
+- Attention! Attention!
+- Rapunzel!
+
+1351
+01:16:21,600 --> 01:16:23,250
+Let there be no panic!
+
+1352
+01:16:23,400 --> 01:16:24,401
+No panic!
+
+1353
+01:16:24,600 --> 01:16:25,601
+Jack!
+
+1354
+01:16:26,080 --> 01:16:27,081
+Jack!
+
+1355
+01:16:27,640 --> 01:16:30,928
+The Royal Prince
+wishes to address his loyal subjects.
+
+1356
+01:16:31,080 --> 01:16:32,491
+Attention!
+
+1357
+01:16:35,080 --> 01:16:37,526
+There is no need for worry.
+
+1358
+01:16:37,760 --> 01:16:39,603
+It was just an earthquake
+
+1359
+01:16:39,760 --> 01:16:42,525
+in a far quadrant of our kingdom.
+
+1360
+01:16:43,000 --> 01:16:45,207
+<i>Nothing to fear at all.</i>
+
+1361
+01:16:45,680 --> 01:16:49,366
+<i>I will personally investigate
+the disturbance.</i>
+
+1362
+01:16:49,920 --> 01:16:51,763
+<i>Now everyone, back to your villages</i>
+
+1363
+01:16:51,960 --> 01:16:54,167
+<i>and on with your lives.</i>
+
+1364
+01:16:55,480 --> 01:16:57,720
+<i>But as they made
+their way back into the woods,</i>
+
+1365
+01:16:58,520 --> 01:17:01,524
+<i>their familiar paths
+were nowhere to be found.</i>
+
+1366
+01:17:02,360 --> 01:17:05,523
+<i>And their lives were about
+to take an unexpected turn.</i>
+
+1367
+01:17:05,720 --> 01:17:07,563
+Here, here, watch out.
+
+1368
+01:17:10,360 --> 01:17:12,169
+I'm sure this is the way home.
+
+1369
+01:17:13,120 --> 01:17:15,122
+Everything's so different.
+
+1370
+01:17:19,000 --> 01:17:20,001
+Oh, look.
+
+1371
+01:17:20,720 --> 01:17:22,165
+Hello, little one.
+
+1372
+01:17:22,560 --> 01:17:23,561
+Hello, Mr. Baker.
+
+1373
+01:17:23,720 --> 01:17:25,165
+Are you all right?
+
+1374
+01:17:25,320 --> 01:17:27,561
+What are you doing here,
+with a suitcase?
+
+1375
+01:17:27,880 --> 01:17:29,564
+I'm moving in with my granny.
+
+1376
+01:17:29,720 --> 01:17:32,087
+Our whole village collapsed,
+and I couldn't find my mother anywhere,
+
+1377
+01:17:32,240 --> 01:17:34,083
+and now I can't find my granny's cottage.
+
+1378
+01:17:34,240 --> 01:17:35,366
+What do you mean?
+
+1379
+01:17:35,520 --> 01:17:38,410
+Well, I went down the dell,
+but I didn't recognize anything.
+
+1380
+01:17:38,560 --> 01:17:40,005
+There was no path!
+
+1381
+01:17:40,560 --> 01:17:41,680
+Where is she?
+Where's Granny?
+
+1382
+01:17:41,840 --> 01:17:43,205
+- It's okay. It's okay.
+- Calm down, calm down.
+
+1383
+01:17:43,360 --> 01:17:45,931
+We can help you find
+Granny's without the path.
+
+1384
+01:17:46,080 --> 01:17:47,889
+Will you just hold him
+for a few moments?
+
+1385
+01:17:48,040 --> 01:17:49,690
+- Really?
+- Yes.
+
+1386
+01:17:49,840 --> 01:17:50,841
+You'll come with us.
+
+1387
+01:17:50,920 --> 01:17:53,048
+Why does he always cry
+when I hold him?
+
+1388
+01:17:53,200 --> 01:17:55,521
+Well, you needn't hold him
+as though he was so fragile.
+
+1389
+01:17:55,680 --> 01:17:57,842
+He doesn't want me.
+He wants his mother.
+
+1390
+01:17:58,000 --> 01:17:59,604
+I can't take care
+of him all the time.
+
+1391
+01:17:59,760 --> 01:18:02,570
+I will take care of
+him when he's older.
+
+1392
+01:18:02,720 --> 01:18:04,480
+Mind your head.
+Watch your heads.
+
+1393
+01:18:04,600 --> 01:18:05,647
+Who might that be?
+
+1394
+01:18:06,040 --> 01:18:08,441
+It's the Steward
+and the royal family.
+
+1395
+01:18:10,920 --> 01:18:12,600
+Hello there.
+
+1396
+01:18:12,720 --> 01:18:13,960
+What brings you into the woods?
+
+1397
+01:18:14,120 --> 01:18:15,326
+The royal quarters have been destroyed.
+
+1398
+01:18:15,400 --> 01:18:16,447
+No!
+
+1399
+01:18:16,520 --> 01:18:18,090
+The kingdom is under attack.
+
+1400
+01:18:18,240 --> 01:18:19,765
+What is the royal
+family going to do?
+
+1401
+01:18:20,080 --> 01:18:22,440
+How should I know?
+I don't make policy, I just carry it out.
+
+1402
+01:18:22,520 --> 01:18:25,520
+I think it best we just go back to the
+village. We'll take the girl with us.
+
+1403
+01:18:25,560 --> 01:18:26,527
+Come with us,
+you're going to be fine.
+
+1404
+01:18:26,600 --> 01:18:28,200
+You are going to
+come with us, all right?
+
+1405
+01:18:31,240 --> 01:18:32,241
+Oh, my God.
+
+1406
+01:18:45,960 --> 01:18:47,644
+It's a giant!
+
+1407
+01:18:48,800 --> 01:18:50,484
+It's a giant woman!
+
+1408
+01:18:50,640 --> 01:18:55,646
+Where is the lad
+who killed my husband?
+
+1409
+01:18:56,280 --> 01:18:58,567
+- There is no lad here!
+- We haven't seen him!
+
+1410
+01:18:59,280 --> 01:19:01,851
+We will get him
+for you right away!
+
+1411
+01:19:02,000 --> 01:19:03,843
+Don't move!
+
+1412
+01:19:04,320 --> 01:19:06,800
+It was you who destroyed our house,
+not an earthquake!
+
+1413
+01:19:06,960 --> 01:19:10,009
+And who destroyed
+my house?
+
+1414
+01:19:10,160 --> 01:19:11,969
+I want him!
+
+1415
+01:19:12,800 --> 01:19:14,480
+Here, would you like a blind girl instead?
+
+1416
+01:19:15,840 --> 01:19:17,842
+How dare you?
+She wants the boy!
+
+1417
+01:19:19,160 --> 01:19:20,764
+Jack! Oh!
+
+1418
+01:19:20,920 --> 01:19:22,600
+Has anybody seen my Jack?
+He ran off again.
+
+1419
+01:19:24,280 --> 01:19:26,123
+Have you seen Jack?
+What?
+
+1420
+01:19:26,320 --> 01:19:27,765
+She is looking for him, too.
+
+1421
+01:19:27,920 --> 01:19:30,287
+Give him to me!
+
+1422
+01:19:33,320 --> 01:19:35,209
+Jack is just a lad!
+
+1423
+01:19:35,360 --> 01:19:37,362
+We had no food to eat,
+
+1424
+01:19:37,520 --> 01:19:40,126
+so he sold his cow
+in exchange for some magic beans.
+
+1425
+01:19:40,280 --> 01:19:42,328
+The boy!
+I want the boy!
+
+1426
+01:19:43,600 --> 01:19:45,602
+You leave my boy alone!
+
+1427
+01:19:45,960 --> 01:19:47,325
+I'm waiting!
+
+1428
+01:19:48,160 --> 01:19:50,367
+Be quiet, woman,
+or you'll get us all killed!
+
+1429
+01:19:50,520 --> 01:19:51,726
+You must be quiet!
+
+1430
+01:19:51,880 --> 01:19:55,327
+Flouncing through our kingdom
+in your great big clodhoppers...
+
+1431
+01:19:55,480 --> 01:19:56,561
+Let us not anger the giant!
+
+1432
+01:19:56,640 --> 01:19:58,563
+...destroying everything in your path!
+
+1433
+01:19:58,720 --> 01:20:01,007
+- Let's not anger the giant.
+- You're just a big bully!
+
+1434
+01:20:01,160 --> 01:20:04,403
+I'm gonna get my boy and hide him
+so you'll never find him!
+
+1435
+01:20:04,560 --> 01:20:07,211
+- You'll never, never, ever...
+- Get back, woman!
+
+1436
+01:20:08,480 --> 01:20:09,481
+The boy is hiding in the steeple tower!
+
+1437
+01:20:09,680 --> 01:20:11,360
+- You can find him there!
+- Yes!
+
+1438
+01:20:11,400 --> 01:20:12,401
+- That's true!
+- Yes!
+
+1439
+01:20:12,560 --> 01:20:13,971
+Yes, we saw him there!
+
+1440
+01:20:14,160 --> 01:20:18,563
+And if he is not,
+I will return tonight
+
+1441
+01:20:18,720 --> 01:20:21,087
+and find you.
+
+1442
+01:20:22,400 --> 01:20:23,925
+All of you!
+
+1443
+01:20:37,520 --> 01:20:38,885
+- Are you okay?
+- Look.
+
+1444
+01:20:40,240 --> 01:20:42,527
+- What have you done to her?
+- What?
+
+1445
+01:20:43,200 --> 01:20:45,089
+I didn't mean to hurt her.
+
+1446
+01:20:45,240 --> 01:20:47,208
+I was just thinking of the greater good.
+
+1447
+01:20:47,720 --> 01:20:49,609
+If we're going to get through this
+
+1448
+01:20:49,760 --> 01:20:52,684
+we're going to do it
+if we all stick together.
+
+1449
+01:20:52,840 --> 01:20:55,411
+Some people are cut out to battle giants.
+
+1450
+01:20:55,560 --> 01:20:57,210
+Others are not.
+
+1451
+01:20:57,360 --> 01:20:59,283
+I don't have the constitution.
+
+1452
+01:20:59,440 --> 01:21:02,967
+And as long as I can be of no help,
+I'm going to hide.
+
+1453
+01:21:03,120 --> 01:21:04,121
+Let's go.
+
+1454
+01:21:05,120 --> 01:21:07,407
+Everything will work
+out fine in the end.
+
+1455
+01:21:07,920 --> 01:21:09,570
+Not always.
+
+1456
+01:21:09,640 --> 01:21:10,687
+Come along.
+
+1457
+01:21:10,800 --> 01:21:12,529
+I don't know
+where they think they're going.
+
+1458
+01:21:12,800 --> 01:21:15,644
+The giant's already destroyed
+the entire village.
+
+1459
+01:21:15,800 --> 01:21:18,565
+Only thing left of my garden
+are these beans.
+
+1460
+01:21:18,720 --> 01:21:20,449
+What are we going to do now?
+
+1461
+01:21:20,640 --> 01:21:21,641
+We have no choice.
+
+1462
+01:21:22,040 --> 01:21:24,247
+Find the boy
+and give her what she wants.
+
+1463
+01:21:24,640 --> 01:21:26,130
+But if We do, she'll kill Jack!
+
+1464
+01:21:26,480 --> 01:21:29,086
+And if we don't,
+she'll kill half the kingdom!
+
+1465
+01:21:32,240 --> 01:21:33,480
+We mustn't let her get Jack!
+
+1466
+01:21:33,760 --> 01:21:35,410
+We're not going to.
+It's okay.
+
+1467
+01:21:35,560 --> 01:21:36,925
+- You promise?
+- I promise.
+
+1468
+01:21:37,120 --> 01:21:38,485
+Just rest.
+
+1469
+01:21:51,800 --> 01:21:53,245
+Rapunzel?
+
+1470
+01:21:53,640 --> 01:21:55,165
+Rapunzel!
+
+1471
+01:21:55,560 --> 01:21:57,005
+You're safe!
+
+1472
+01:21:58,160 --> 01:21:59,207
+Thank goodness!
+
+1473
+01:21:59,280 --> 01:22:00,964
+Who are you?
+
+1474
+01:22:01,520 --> 01:22:03,522
+Surely you remember.
+
+1475
+01:22:03,880 --> 01:22:04,927
+Oh.
+
+1476
+01:22:05,000 --> 01:22:06,161
+Of course,
+
+1477
+01:22:06,320 --> 01:22:08,607
+- you don't recognize me.
+- Mother?
+
+1478
+01:22:09,000 --> 01:22:12,402
+This is who I truly am,
+my dear.
+
+1479
+01:22:12,840 --> 01:22:14,520
+Now you don't have to
+be embarrassed by me.
+
+1480
+01:22:15,760 --> 01:22:16,807
+But you must come with me.
+
+1481
+01:22:17,000 --> 01:22:19,520
+- There is a giant in the land.
+- My darling!
+
+1482
+01:22:19,840 --> 01:22:20,841
+Are you all right?
+
+1483
+01:22:21,160 --> 01:22:22,924
+- Why did you run off?
+- I was afraid.
+
+1484
+01:22:23,120 --> 01:22:24,240
+- Come with me.
+- No, no, no!
+
+1485
+01:22:24,360 --> 01:22:26,362
+She is not going with you.
+You will come with me.
+
+1486
+01:22:26,600 --> 01:22:28,682
+I will not come with you.
+
+1487
+01:22:29,840 --> 01:22:31,524
+Well, then, you leave me no choice.
+
+1488
+01:22:31,680 --> 01:22:32,681
+No!
+
+1489
+01:22:35,640 --> 01:22:36,687
+No!
+
+1490
+01:22:39,720 --> 01:22:42,200
+- Oh, my God.
+- Wait.
+
+1491
+01:22:42,560 --> 01:22:44,324
+You are the one who blinded me.
+
+1492
+01:22:45,000 --> 01:22:46,525
+And locked me in a tower.
+
+1493
+01:22:46,720 --> 01:22:47,801
+To protect you!
+
+1494
+01:22:47,960 --> 01:22:50,486
+And banished me to an island
+in the middle of a swamp!
+
+1495
+01:22:51,040 --> 01:22:53,646
+I was just trying to be a good mother.
+
+1496
+01:22:55,040 --> 01:22:56,485
+Rapunzel, no!
+
+1497
+01:22:57,560 --> 01:22:59,562
+You will never be safe with him!
+
+1498
+01:22:59,720 --> 01:23:01,165
+- Take me away from here.
+- No!
+
+1499
+01:23:01,320 --> 01:23:02,401
+Don't you understand?
+
+1500
+01:23:02,640 --> 01:23:05,007
+I never want to see you again!
+Ever!
+
+1501
+01:23:05,160 --> 01:23:07,208
+But, Rapunzel, the giant!
+
+1502
+01:23:20,880 --> 01:23:23,565
+<i>No matter what you say</i>
+
+1503
+01:23:24,080 --> 01:23:26,321
+<i>Children won't listen</i>
+
+1504
+01:23:27,840 --> 01:23:30,411
+<i>No matter what you know</i>
+
+1505
+01:23:30,560 --> 01:23:34,007
+<i>Children refuse</i>
+
+1506
+01:23:34,160 --> 01:23:36,925
+<i>To learn</i>
+
+1507
+01:23:37,840 --> 01:23:41,128
+<i>Guide them along the way</i>
+
+1508
+01:23:41,280 --> 01:23:43,726
+<i>Still they don't listen</i>
+
+1509
+01:23:44,720 --> 01:23:47,769
+<i>Children can only grow</i>
+
+1510
+01:23:47,960 --> 01:23:51,282
+<i>From something you love</i>
+
+1511
+01:23:51,560 --> 01:23:56,441
+<i>To something you lose</i>
+
+1512
+01:23:59,600 --> 01:24:00,601
+<i>Jack!</i>
+
+1513
+01:24:01,280 --> 01:24:02,645
+- Jack!
+- Jack!
+
+1514
+01:24:02,720 --> 01:24:03,721
+Jack!
+
+1515
+01:24:03,800 --> 01:24:05,131
+Jack, where are you?
+
+1516
+01:24:05,200 --> 01:24:06,247
+Jack!
+
+1517
+01:24:06,720 --> 01:24:08,245
+We're never going to find him.
+
+1518
+01:24:08,400 --> 01:24:10,600
+I think we should fan out.
+It will increase our chances.
+
+1519
+01:24:10,640 --> 01:24:12,449
+- I'm not leaving you on your own.
+- I'll be all right.
+
+1520
+01:24:12,600 --> 01:24:13,761
+What if we get lost?
+
+1521
+01:24:13,920 --> 01:24:15,888
+We count our steps from right here.
+
+1522
+01:24:16,040 --> 01:24:17,041
+I'll go, too!
+
+1523
+01:24:17,200 --> 01:24:18,406
+No.
+You know what?
+
+1524
+01:24:18,560 --> 01:24:22,246
+You are going to stay
+right here with the baby.
+
+1525
+01:24:23,640 --> 01:24:25,404
+And we'll be right back.
+
+1526
+01:24:26,880 --> 01:24:28,609
+You would leave our child with her?
+
+1527
+01:24:28,760 --> 01:24:31,286
+He's asleep.
+He will be safe with the girl.
+
+1528
+01:24:31,440 --> 01:24:33,283
+I'm very
+capable of taking care of the baby.
+
+1529
+01:24:33,360 --> 01:24:34,361
+See?
+
+1530
+01:24:34,440 --> 01:24:36,807
+- What if the giant comes back?
+- What if, what if!
+
+1531
+01:24:37,080 --> 01:24:38,286
+500 paces. Go.
+
+1532
+01:24:39,800 --> 01:24:42,451
+- One, two, three...
+- Wait, wait, wait.
+
+1533
+01:24:42,920 --> 01:24:43,921
+Here.
+
+1534
+01:24:45,800 --> 01:24:46,847
+Let me give you this.
+
+1535
+01:24:48,280 --> 01:24:49,691
+I don't want you to get cold.
+
+1536
+01:24:49,840 --> 01:24:50,921
+Okay.
+
+1537
+01:24:51,320 --> 01:24:55,006
+One, two, three, four, five...
+
+1538
+01:24:55,160 --> 01:24:57,367
+- Jack!
+- Six, seven, eight,
+
+1539
+01:24:57,600 --> 01:24:59,170
+nine, ten...
+
+1540
+01:24:59,360 --> 01:25:00,805
+Jack!
+
+1541
+01:25:04,520 --> 01:25:08,161
+167,168,169,170,171,
+
+1542
+01:25:08,360 --> 01:25:11,364
+172,173,174...
+
+1543
+01:25:13,680 --> 01:25:16,843
+Hello, Your Royal Highness.
+
+1544
+01:25:17,280 --> 01:25:19,123
+Well, hello.
+
+1545
+01:25:19,200 --> 01:25:20,531
+Hello, again.
+
+1546
+01:25:20,680 --> 01:25:23,001
+We've met before, actually.
+
+1547
+01:25:23,520 --> 01:25:24,885
+Yes, of course.
+
+1548
+01:25:25,040 --> 01:25:26,371
+Yes.
+
+1549
+01:25:27,440 --> 01:25:30,205
+You must be here to slay the giant.
+
+1550
+01:25:30,960 --> 01:25:32,803
+- The giant?
+- Yes.
+
+1551
+01:25:32,960 --> 01:25:36,407
+Haven't you heard?
+We have a giant in our midst.
+
+1552
+01:25:37,400 --> 01:25:38,970
+Not an earthquake.
+
+1553
+01:25:39,400 --> 01:25:40,401
+Of course.
+
+1554
+01:25:41,040 --> 01:25:42,246
+The giant.
+
+1555
+01:25:43,560 --> 01:25:45,483
+It's a lady giant.
+
+1556
+01:25:46,840 --> 01:25:48,729
+Which is very unusual.
+
+1557
+01:25:49,200 --> 01:25:51,089
+I should think so.
+
+1558
+01:25:52,000 --> 01:25:54,526
+And why are you
+alone in the woods?
+
+1559
+01:25:54,680 --> 01:25:57,923
+Um...
+Well, I came here with my husband.
+
+1560
+01:25:59,080 --> 01:26:01,082
+And we were...
+
+1561
+01:26:01,240 --> 01:26:03,368
+Well, you see, it's a long story.
+
+1562
+01:26:04,680 --> 01:26:07,251
+And he would let you roam alone
+in the woods?
+
+1563
+01:26:07,400 --> 01:26:10,244
+Well, no, actually.
+It was my choice.
+
+1564
+01:26:12,880 --> 01:26:14,166
+How brave.
+
+1565
+01:26:14,320 --> 01:26:15,321
+Brave?
+
+1566
+01:26:15,440 --> 01:26:16,441
+Yes.
+
+1567
+01:26:18,080 --> 01:26:21,687
+<i>Anything can happen
+in the woods</i>
+
+1568
+01:26:22,360 --> 01:26:23,441
+<i>May I kiss you?</i>
+
+1569
+01:26:24,760 --> 01:26:27,570
+<i>Any moment we could be crushed</i>
+
+1570
+01:26:27,720 --> 01:26:30,246
+<i>- Um...
+- Don't feel rushed</i>
+
+1571
+01:26:33,920 --> 01:26:35,604
+<i>This is ridiculous
+What am I doing here?</i>
+
+1572
+01:26:35,760 --> 01:26:38,366
+<i>I'm in the wrong story</i>
+
+1573
+01:26:41,360 --> 01:26:44,364
+Wait, wait, wait, we can't do this!
+You have a princess!
+
+1574
+01:26:44,520 --> 01:26:47,251
+- Well, yes, I do.
+- And I have a baker.
+
+1575
+01:26:49,760 --> 01:26:50,921
+Of course.
+
+1576
+01:26:52,200 --> 01:26:54,407
+You're right.
+How foolish.
+
+1577
+01:26:55,400 --> 01:26:59,041
+<i>Foolishness can happen in the woods</i>
+
+1578
+01:26:59,480 --> 01:27:01,721
+<i>- Once again, please
+- Um...</i>
+
+1579
+01:27:01,800 --> 01:27:05,441
+<i>Let your hesitations be hushed</i>
+
+1580
+01:27:06,440 --> 01:27:11,162
+<i>Any moment, big or small
+ls a moment, after all</i>
+
+1581
+01:27:11,320 --> 01:27:15,803
+<i>Seize the moment, skies may fall
+Any moment</i>
+
+1582
+01:27:19,560 --> 01:27:21,642
+But this is not right!
+
+1583
+01:27:24,320 --> 01:27:27,483
+<i>Right and wrong don't matter
+in the woods</i>
+
+1584
+01:27:28,120 --> 01:27:29,485
+<i>Only feelings</i>
+
+1585
+01:27:29,680 --> 01:27:33,401
+<i>Let us meet the moment unblushed</i>
+
+1586
+01:27:34,080 --> 01:27:36,765
+<i>Life is often so unpleasant</i>
+
+1587
+01:27:36,840 --> 01:27:39,002
+<i>You must know that, as a peasant</i>
+
+1588
+01:27:39,160 --> 01:27:41,003
+<i>Best to take the moment present</i>
+
+1589
+01:27:41,080 --> 01:27:45,165
+<i>As a present for the moment</i>
+
+1590
+01:27:49,440 --> 01:27:50,441
+476, 477,
+
+1591
+01:27:51,840 --> 01:27:54,844
+478, 479, 480.
+
+1592
+01:27:55,040 --> 01:27:57,691
+481, 482, 483...
+
+1593
+01:27:58,200 --> 01:27:59,361
+Excuse me, ma'am.
+
+1594
+01:27:59,520 --> 01:28:02,603
+You haven't seen a boy anywhere,
+have you?
+
+1595
+01:28:02,760 --> 01:28:04,524
+He's about so high.
+
+1596
+01:28:05,640 --> 01:28:08,041
+I'm sorry, may I be of some service?
+
+1597
+01:28:08,800 --> 01:28:10,290
+The tree has fallen.
+
+1598
+01:28:11,120 --> 01:28:12,849
+Mother's grave, destroyed.
+
+1599
+01:28:13,880 --> 01:28:15,166
+I'm sorry.
+
+1600
+01:28:15,880 --> 01:28:17,450
+I shouldn't complain.
+
+1601
+01:28:17,640 --> 01:28:20,007
+I'm sure others have suffered worse
+after the earthquake.
+
+1602
+01:28:21,640 --> 01:28:23,881
+No, no, this isn't an earthquake.
+
+1603
+01:28:24,400 --> 01:28:27,006
+There's a giant terrorizing the kingdom.
+
+1604
+01:28:27,840 --> 01:28:31,322
+Then I'm sure the Prince will see to it
+that the giant is rid from our land.
+
+1605
+01:28:31,400 --> 01:28:33,482
+The Prince?
+
+1606
+01:28:33,800 --> 01:28:36,246
+No doubt he's off somewhere
+seducing some young maiden.
+
+1607
+01:28:36,680 --> 01:28:37,727
+What?
+
+1608
+01:28:38,000 --> 01:28:40,651
+You look like the Princess, but dirty.
+
+1609
+01:28:41,240 --> 01:28:42,401
+Oh, my! You are the...
+
+1610
+01:28:42,560 --> 01:28:44,324
+I didn't recognize you, honestly.
+
+1611
+01:28:44,480 --> 01:28:47,723
+No, no. Please, get up.
+I'm not a princess here.
+
+1612
+01:28:49,320 --> 01:28:50,401
+I had to disguise myself.
+
+1613
+01:28:50,560 --> 01:28:53,245
+I'm not permitted to leave
+the palace unescorted.
+
+1614
+01:28:59,080 --> 01:29:01,082
+If you'd like, you could come with me.
+
+1615
+01:29:02,040 --> 01:29:05,044
+I mean, you'll be safe in our company.
+
+1616
+01:29:05,600 --> 01:29:06,761
+Thank you.
+
+1617
+01:29:09,600 --> 01:29:12,444
+It's this way.
+My wife is somewhere.
+
+1618
+01:29:12,600 --> 01:29:15,126
+We decided to walk 500 paces
+in one direction...
+
+1619
+01:29:19,440 --> 01:29:21,249
+- I must leave you.
+- Oh!
+
+1620
+01:29:22,520 --> 01:29:25,091
+Now I must go
+off to slay a giant.
+
+1621
+01:29:30,240 --> 01:29:32,083
+I shall not forget you.
+
+1622
+01:29:33,080 --> 01:29:36,209
+How brave you are
+to be alone in the woods.
+
+1623
+01:29:36,360 --> 01:29:38,806
+And how alive you've made me feel.
+
+1624
+01:29:45,880 --> 01:29:47,962
+What was that?
+
+1625
+01:29:51,800 --> 01:29:54,644
+<i>Was that me?
+Was that him?</i>
+
+1626
+01:29:54,800 --> 01:29:58,441
+<i>Did a prince really kiss me?</i>
+
+1627
+01:29:58,880 --> 01:30:03,283
+<i>And kiss me?
+And kiss me?</i>
+
+1628
+01:30:04,000 --> 01:30:07,322
+<i>And did I kiss him back?</i>
+
+1629
+01:30:08,000 --> 01:30:10,651
+<i>Was it wrong?
+Am I mad?</i>
+
+1630
+01:30:10,840 --> 01:30:13,320
+<i>Is that all?
+Does he miss me?</i>
+
+1631
+01:30:13,480 --> 01:30:16,848
+<i>Was he suddenly
+Getting bored with me?</i>
+
+1632
+01:30:17,440 --> 01:30:21,525
+<i>Wake up, stop dreaming
+Stop prancing about the woods</i>
+
+1633
+01:30:21,920 --> 01:30:25,811
+<i>It's not beseeming
+What is it about the woods?</i>
+
+1634
+01:30:25,960 --> 01:30:29,442
+<i>Back to life, back to sense
+Back to child, back to husband</i>
+
+1635
+01:30:29,600 --> 01:30:31,807
+<i>No one lives in the woods</i>
+
+1636
+01:30:32,640 --> 01:30:34,404
+<i>There are vows, there are ties</i>
+
+1637
+01:30:34,480 --> 01:30:36,130
+<i>There are needs, there are standards</i>
+
+1638
+01:30:36,320 --> 01:30:38,482
+<i>There are shouldn'ts and shoulds</i>
+
+1639
+01:30:39,840 --> 01:30:42,047
+<i>Why not both instead?</i>
+
+1640
+01:30:42,200 --> 01:30:45,363
+<i>There's the answer, if you're clever</i>
+
+1641
+01:30:46,520 --> 01:30:50,366
+<i>Have a child for warmth
+And a baker for bread</i>
+
+1642
+01:30:50,520 --> 01:30:54,127
+<i>And</i> a <i>prince for whatever</i>
+
+1643
+01:30:54,680 --> 01:30:55,761
+<i>Never</i>
+
+1644
+01:30:55,840 --> 01:30:57,444
+<i>It's these woods</i>
+
+1645
+01:30:59,200 --> 01:31:02,807
+<i>Face the facts, find the boy
+Join the group, stop the giant</i>
+
+1646
+01:31:02,960 --> 01:31:05,008
+<i>Just get out of these woods</i>
+
+1647
+01:31:06,000 --> 01:31:09,402
+<i>Was that him? Yes, it was
+Was that me? No, it wasn't</i>
+
+1648
+01:31:09,560 --> 01:31:11,847
+<i>Just a trick of the woods</i>
+
+1649
+01:31:12,720 --> 01:31:14,882
+<i>Just a moment</i>
+
+1650
+01:31:15,400 --> 01:31:18,847
+<i>One peculiar, passing moment</i>
+
+1651
+01:31:19,240 --> 01:31:21,766
+<i>Must it all be either less or more?</i>
+
+1652
+01:31:21,840 --> 01:31:23,729
+<i>Either plain or grand?</i>
+
+1653
+01:31:23,880 --> 01:31:28,010
+<i>Is it always "Or"?
+Is it never "And"?</i>
+
+1654
+01:31:28,680 --> 01:31:31,650
+<i>That's what woods are for</i>
+
+1655
+01:31:31,920 --> 01:31:35,322
+<i>For those moments in the woods</i>
+
+1656
+01:31:35,480 --> 01:31:39,087
+<i>Oh, if life were made of moments</i>
+
+1657
+01:31:39,240 --> 01:31:42,608
+<i>Even now and then a bad one</i>
+
+1658
+01:31:42,760 --> 01:31:46,082
+<i>But if life were only moments</i>
+
+1659
+01:31:46,360 --> 01:31:49,762
+<i>Then you'd never know you had one</i>
+
+1660
+01:31:50,760 --> 01:31:54,207
+<i>First a witch, then a child
+Then a prince, then a moment</i>
+
+1661
+01:31:54,400 --> 01:31:56,767
+<i>Who can live in the woods?</i>
+
+1662
+01:31:57,360 --> 01:32:00,762
+<i>And to get what you wish
+Only just for a moment</i>
+
+1663
+01:32:00,920 --> 01:32:03,446
+<i>These are dangerous woods</i>
+
+1664
+01:32:04,080 --> 01:32:07,050
+<i>Let the moment go</i>
+
+1665
+01:32:07,400 --> 01:32:10,688
+<i>Don't forget it for a moment, though</i>
+
+1666
+01:32:10,840 --> 01:32:13,844
+<i>Just remembering you've had an "And"</i>
+
+1667
+01:32:13,920 --> 01:32:16,446
+<i>When you're back to "Or"</i>
+
+1668
+01:32:17,600 --> 01:32:22,640
+<i>Makes the "Or" mean more
+Than it did before</i>
+
+1669
+01:32:24,400 --> 01:32:28,371
+<i>Now I understand</i>
+
+1670
+01:32:28,560 --> 01:32:31,291
+<i>And it's time to leave the woods</i>
+
+1671
+01:32:35,320 --> 01:32:36,481
+Which way was it?
+
+1672
+01:32:38,920 --> 01:32:42,811
+172,173,174,175...
+
+1673
+01:32:48,800 --> 01:32:50,086
+172,173,174...
+
+1674
+01:33:42,800 --> 01:33:44,131
+She should be back by now.
+
+1675
+01:33:44,200 --> 01:33:45,201
+She wouldn't get lost.
+
+1676
+01:33:45,280 --> 01:33:46,850
+I'm sure she'll return soon.
+
+1677
+01:33:48,000 --> 01:33:50,571
+I'm going to go and look for her.
+Will you?
+
+1678
+01:33:50,720 --> 01:33:52,643
+- Look who I found.
+- You're hurting me!
+
+1679
+01:33:53,080 --> 01:33:54,081
+Let go of him!
+
+1680
+01:33:54,240 --> 01:33:56,527
+I'll let go of him
+when I give him to the giant.
+
+1681
+01:33:56,680 --> 01:33:58,240
+Leave him alone!
+
+1682
+01:33:58,360 --> 01:33:59,600
+Keep away from him!
+
+1683
+01:33:59,720 --> 01:34:01,643
+Stop! Stop!
+I said stop!
+
+1684
+01:34:04,120 --> 01:34:05,804
+Where did you find this?
+
+1685
+01:34:07,600 --> 01:34:09,284
+I'm sorry, sir.
+
+1686
+01:34:09,640 --> 01:34:11,051
+It's my wife's.
+
+1687
+01:34:12,480 --> 01:34:15,450
+I'm sorry. I came upon her.
+She was at the bottom of a cliff.
+
+1688
+01:34:16,600 --> 01:34:18,090
+What are you saying?
+
+1689
+01:34:18,680 --> 01:34:20,091
+How awful.
+
+1690
+01:34:20,800 --> 01:34:21,801
+No.
+
+1691
+01:34:23,120 --> 01:34:24,121
+No!
+
+1692
+01:34:25,960 --> 01:34:27,485
+This is all my fault.
+
+1693
+01:34:27,880 --> 01:34:30,121
+I shouldn't have let
+her wander off alone.
+
+1694
+01:34:31,000 --> 01:34:32,411
+I should have
+made her stay with me.
+
+1695
+01:34:33,040 --> 01:34:34,769
+Remorse will get you nowhere.
+
+1696
+01:34:34,920 --> 01:34:36,922
+- My wife is dead!
+- Wake up!
+
+1697
+01:34:37,080 --> 01:34:38,366
+When you're dead, you're dead.
+
+1698
+01:34:38,520 --> 01:34:40,727
+It's time we get this boy to the giant
+before we're all dead.
+
+1699
+01:34:40,880 --> 01:34:41,881
+Keep away from him!
+
+1700
+01:34:41,960 --> 01:34:43,928
+This is no time
+to be soft-hearted!
+
+1701
+01:34:44,080 --> 01:34:46,321
+He's going to the giant
+and I'm taking him!
+
+1702
+01:34:46,480 --> 01:34:48,482
+Yes! Yes, he's the one to blame!
+
+1703
+01:34:48,640 --> 01:34:52,361
+It's because of you there's a giant
+in our midst, and my wife is dead!
+
+1704
+01:34:52,520 --> 01:34:54,807
+<i>But it isn't my fault
+I was given those beans</i>
+
+1705
+01:34:55,000 --> 01:34:57,321
+<i>You persuaded me to trade away
+My cow for beans</i>
+
+1706
+01:34:57,440 --> 01:34:59,568
+<i>And without those beans
+There'd have been no stalk</i>
+
+1707
+01:34:59,720 --> 01:35:01,210
+<i>To get up to the giants
+In the first place</i>
+
+1708
+01:35:01,280 --> 01:35:02,281
+<i>Wait a minute</i>
+
+1709
+01:35:02,360 --> 01:35:04,408
+<i>Magic beans
+For a cow so old</i>
+
+1710
+01:35:04,520 --> 01:35:06,560
+<i>That you had to tell a lie to sell it
+Which you told</i>
+
+1711
+01:35:06,720 --> 01:35:08,768
+<i>Were they worthless beans?
+Were they oversold?</i>
+
+1712
+01:35:08,920 --> 01:35:11,082
+<i>Oh, and tell us who persuaded you
+To steal that gold</i>
+
+1713
+01:35:11,240 --> 01:35:12,320
+<i>- See, it's your fault
+- No!</i>
+
+1714
+01:35:12,360 --> 01:35:13,440
+<i>- Yes, it's your fault
+- No!</i>
+
+1715
+01:35:13,560 --> 01:35:14,561
+<i>- Yes, it is
+- It's not!</i>
+
+1716
+01:35:14,720 --> 01:35:15,801
+<i>- It's true
+- Wait a minute though</i>
+
+1717
+01:35:15,960 --> 01:35:18,566
+<i>I only stole the gold to get my cow back
+From you</i>
+
+1718
+01:35:18,640 --> 01:35:19,640
+<i>So it's your fault</i>
+
+1719
+01:35:19,680 --> 01:35:20,727
+<i>- Yes!
+- No, it isn't</i>
+
+1720
+01:35:20,800 --> 01:35:22,760
+<i>I'd have kept those beans
+But our house was cursed</i>
+
+1721
+01:35:22,880 --> 01:35:24,803
+<i>She made us get a cow
+To get the curse reversed</i>
+
+1722
+01:35:25,000 --> 01:35:27,128
+<i>It's his father's fault
+That the curse got placed</i>
+
+1723
+01:35:27,320 --> 01:35:29,368
+<i>And the place got cursed
+In the first place</i>
+
+1724
+01:35:29,520 --> 01:35:30,680
+<i>- Oh, then it's his fault
+- So</i>
+
+1725
+01:35:30,800 --> 01:35:31,847
+<i>- It was his fault
+- No!</i>
+
+1726
+01:35:31,920 --> 01:35:32,921
+<i>Yes, it is, it's his</i>
+
+1727
+01:35:33,120 --> 01:35:34,280
+<i>- I guess
+Wait a minute though</i>
+
+1728
+01:35:34,400 --> 01:35:36,482
+<i>I chopped down the beanstalk
+Right, that's clear</i>
+
+1729
+01:35:36,640 --> 01:35:38,642
+<i>But without any beanstalk
+Then what's queer</i>
+
+1730
+01:35:38,800 --> 01:35:41,007
+<i>ls how did the second giant
+Get down here</i>
+
+1731
+01:35:41,160 --> 01:35:42,241
+<i>In the first place
+Second place?</i>
+
+1732
+01:35:42,320 --> 01:35:43,320
+- Yes.
+- How?
+
+1733
+01:35:43,360 --> 01:35:44,566
+<i>Well, who had the other bean?</i>
+
+1734
+01:35:44,640 --> 01:35:45,687
+<i>- The other bean?
+- The other bean?</i>
+
+1735
+01:35:45,880 --> 01:35:47,530
+<i>- You pocketed the other bean
+- I didn't. Yes, I did</i>
+
+1736
+01:35:47,600 --> 01:35:48,600
+<i>So it's your fault</i>
+
+1737
+01:35:48,680 --> 01:35:50,011
+<i>No, it isn't
+'Cause I gave it to my wife</i>
+
+1738
+01:35:50,080 --> 01:35:51,081
+<i>- So it's her fault
+- No, it isn't</i>
+
+1739
+01:35:51,160 --> 01:35:52,241
+<i>- Then whose is it?
+- Wait a minute</i>
+
+1740
+01:35:52,400 --> 01:35:54,482
+<i>She exchanged that bean
+To obtain your shoe</i>
+
+1741
+01:35:54,680 --> 01:35:56,760
+<i>So the one who knows what happened
+To the bean is you</i>
+
+1742
+01:35:56,840 --> 01:35:58,808
+<i>You mean that old bean
+That your wife... Oh, dear</i>
+
+1743
+01:35:58,960 --> 01:36:01,201
+<i>But I never knew and so I threw...
+Well, don't look here</i>
+
+1744
+01:36:01,400 --> 01:36:02,526
+<i>- So it's your fault
+- But...</i>
+
+1745
+01:36:02,680 --> 01:36:03,800
+<i>- See, it's her fault
+- But...</i>
+
+1746
+01:36:03,840 --> 01:36:05,046
+<i>And it isn't mine at all</i>
+
+1747
+01:36:05,120 --> 01:36:06,120
+<i>But what?</i>
+
+1748
+01:36:06,160 --> 01:36:08,003
+<i>Well, if you hadn't gone
+Back up again</i>
+
+1749
+01:36:08,120 --> 01:36:09,120
+<i>We were needy</i>
+
+1750
+01:36:09,200 --> 01:36:10,680
+<i>You were greedy
+Did you need that hen?</i>
+
+1751
+01:36:10,720 --> 01:36:11,881
+<i>But I got it for my mother</i>
+
+1752
+01:36:12,040 --> 01:36:13,041
+<i>So it's her fault then</i>
+
+1753
+01:36:13,160 --> 01:36:14,446
+<i>Yes, and what about the harp
+In the third place?</i>
+
+1754
+01:36:14,520 --> 01:36:15,567
+<i>The harp, yes</i>
+
+1755
+01:36:15,640 --> 01:36:17,085
+<i>- She went and dared me to
+- I dared you to?</i>
+
+1756
+01:36:17,240 --> 01:36:18,810
+<i>- She said that I was scared
+- Me?</i>
+
+1757
+01:36:18,880 --> 01:36:19,881
+<i>- So she dared me
+- No, I didn't</i>
+
+1758
+01:36:20,000 --> 01:36:21,000
+<i>So it's your fault</i>
+
+1759
+01:36:21,040 --> 01:36:22,485
+<i>- Wait a minute
+- If you hadn't dared him to</i>
+
+1760
+01:36:22,560 --> 01:36:23,800
+<i>And you had left the harp alone</i>
+
+1761
+01:36:23,880 --> 01:36:25,609
+<i>If you hadn't thrown away the bean
+In the first place</i>
+
+1762
+01:36:25,800 --> 01:36:26,961
+<i>If she hadn't raised them
+in the first place</i>
+
+1763
+01:36:27,120 --> 01:36:28,360
+<i>If you hadn't raised them
+in the first place</i>
+
+1764
+01:36:28,520 --> 01:36:30,443
+<i>- You raised the beans in the first place
+- It's your fault</i>
+
+1765
+01:36:30,600 --> 01:36:31,761
+<i>You're responsible
+You're the one to blame</i>
+
+1766
+01:36:31,840 --> 01:36:32,841
+<i>It's your fault</i>
+
+1767
+01:36:43,840 --> 01:36:48,846
+<i>It's the last midnight</i>
+
+1768
+01:36:49,880 --> 01:36:54,488
+<i>It's the last wish</i>
+
+1769
+01:36:55,520 --> 01:37:00,526
+<i>It's the last midnight</i>
+
+1770
+01:37:01,040 --> 01:37:06,080
+<i>Soon it will be boom
+Squish</i>
+
+1771
+01:37:06,440 --> 01:37:08,761
+<i>Told a little lie</i>
+
+1772
+01:37:08,920 --> 01:37:11,127
+<i>Stole a little gold</i>
+
+1773
+01:37:11,280 --> 01:37:13,442
+<i>Broke a little vow</i>
+
+1774
+01:37:14,240 --> 01:37:15,446
+<i>Did you?</i>
+
+1775
+01:37:15,640 --> 01:37:17,608
+<i>Had to get your prince</i>
+
+1776
+01:37:17,800 --> 01:37:19,643
+<i>Had to get your cow</i>
+
+1777
+01:37:19,800 --> 01:37:22,087
+<i>Had to get your wish
+Doesn't matter how</i>
+
+1778
+01:37:22,240 --> 01:37:24,242
+<i>Anyway, it doesn't matter now</i>
+
+1779
+01:37:24,440 --> 01:37:28,445
+<i>It's the last midnight</i>
+
+1780
+01:37:28,600 --> 01:37:32,366
+<i>It's the boom
+Splat</i>
+
+1781
+01:37:32,520 --> 01:37:36,445
+<i>Nothing but a vast midnight</i>
+
+1782
+01:37:36,600 --> 01:37:39,888
+<i>Everybody smashed flat</i>
+
+1783
+01:37:40,600 --> 01:37:42,125
+<i>Nothing we can do</i>
+
+1784
+01:37:42,800 --> 01:37:44,723
+<i>Not exactly true</i>
+
+1785
+01:37:44,920 --> 01:37:46,365
+<i>We could always give her the boy</i>
+
+1786
+01:37:47,680 --> 01:37:48,681
+<i>No, of course</i>
+
+1787
+01:37:48,800 --> 01:37:52,805
+<i>What really matters is the blame
+Someone you can blame</i>
+
+1788
+01:37:52,960 --> 01:37:56,009
+<i>Fine, if that's the thing you enjoy
+Placing the blame</i>
+
+1789
+01:37:56,160 --> 01:37:59,448
+<i>If that's the aim
+Give me the blame</i>
+
+1790
+01:38:00,640 --> 01:38:02,927
+<i>Just give me the boy</i>
+
+1791
+01:38:03,080 --> 01:38:04,206
+- No!
+- No!
+
+1792
+01:38:04,800 --> 01:38:05,801
+No.
+
+1793
+01:38:07,640 --> 01:38:11,201
+<i>You're so nice</i>
+
+1794
+01:38:11,400 --> 01:38:13,448
+<i>You're not good
+You're not bad</i>
+
+1795
+01:38:13,600 --> 01:38:15,329
+<i>You're just nice</i>
+
+1796
+01:38:15,480 --> 01:38:17,528
+<i>I'm not good
+I'm not nice</i>
+
+1797
+01:38:17,680 --> 01:38:19,603
+<i>I'm just right</i>
+
+1798
+01:38:19,760 --> 01:38:21,444
+<i>I'm the Witch</i>
+
+1799
+01:38:21,600 --> 01:38:26,640
+<i>You're the world</i>
+
+1800
+01:38:26,800 --> 01:38:29,963
+<i>I'm the hitch
+I'm what no one believes</i>
+
+1801
+01:38:30,120 --> 01:38:31,804
+<i>I'm the Witch</i>
+
+1802
+01:38:31,960 --> 01:38:35,521
+<i>You're all liars and thieves
+Like his father</i>
+
+1803
+01:38:36,000 --> 01:38:37,889
+<i>Like his son will be, too</i>
+
+1804
+01:38:38,120 --> 01:38:40,088
+<i>Oh, why bother?</i>
+
+1805
+01:38:40,240 --> 01:38:43,687
+<i>You'll just do what you do</i>
+
+1806
+01:38:43,840 --> 01:38:49,085
+<i>It's the last midnight
+So goodbye, all</i>
+
+1807
+01:38:51,120 --> 01:38:54,602
+<i>Coming at you fast
+Midnight</i>
+
+1808
+01:38:54,760 --> 01:38:58,082
+<i>Soon you'll see the sky fall</i>
+
+1809
+01:38:58,280 --> 01:38:59,725
+<i>Here, you want a bean?</i>
+
+1810
+01:39:00,360 --> 01:39:01,725
+<i>Have another bean</i>
+
+1811
+01:39:02,520 --> 01:39:04,522
+<i>Beans were made for making you rich</i>
+
+1812
+01:39:06,040 --> 01:39:09,169
+<i>Plant them and they soar
+Here, you want some more?</i>
+
+1813
+01:39:09,560 --> 01:39:11,403
+<i>Listen to the roar
+Giants by the score</i>
+
+1814
+01:39:11,560 --> 01:39:13,449
+<i>Oh well, you can blame another witch</i>
+
+1815
+01:39:13,600 --> 01:39:16,763
+<i>It's the last midnight</i>
+
+1816
+01:39:17,200 --> 01:39:20,682
+<i>It's the last verse</i>
+
+1817
+01:39:20,840 --> 01:39:24,287
+<i>Now, before it's past midnight</i>
+
+1818
+01:39:24,440 --> 01:39:27,808
+<i>I'm leaving you my last curse</i>
+
+1819
+01:39:27,960 --> 01:39:29,849
+<i>I'm leaving you alone</i>
+
+1820
+01:39:30,000 --> 01:39:33,527
+<i>You can tend the garden, it's yours
+Separate and alone</i>
+
+1821
+01:39:33,760 --> 01:39:37,606
+<i>Everybody down on all fours</i>
+
+1822
+01:39:37,760 --> 01:39:41,685
+<i>All right, Mother, when?</i>
+
+1823
+01:39:41,840 --> 01:39:45,367
+<i>Lost the beans again
+Punish me the way you did then</i>
+
+1824
+01:39:45,720 --> 01:39:47,768
+<i>Give me claws and a hunch</i>
+
+1825
+01:39:47,960 --> 01:39:51,043
+<i>Just away from this bunch
+And the gloom</i>
+
+1826
+01:39:51,200 --> 01:39:56,411
+<i>And the doom
+And the boom</i>
+
+1827
+01:39:56,760 --> 01:39:59,161
+<i>Crunch!</i>
+
+1828
+01:40:20,240 --> 01:40:22,208
+Maybe I shouldn't have
+stolen from the giant.
+
+1829
+01:40:22,360 --> 01:40:24,408
+Maybe I shouldn't have
+strayed from the path.
+
+1830
+01:40:24,560 --> 01:40:26,562
+Maybe I shouldn't have
+attended the Ball.
+
+1831
+01:40:27,400 --> 01:40:28,970
+Yeah, maybe you shouldn't have.
+
+1832
+01:40:29,800 --> 01:40:32,007
+- Where are you going?
+- Away from here.
+
+1833
+01:40:32,160 --> 01:40:34,400
+But you said we had to find our way
+out of this together.
+
+1834
+01:40:34,480 --> 01:40:36,926
+It doesn't matter if we're together
+or we're apart.
+
+1835
+01:40:37,080 --> 01:40:38,127
+We need your help.
+
+1836
+01:40:38,280 --> 01:40:39,725
+You don't understand!
+
+1837
+01:40:39,880 --> 01:40:42,087
+I depended on my wife for everything!
+
+1838
+01:40:42,240 --> 01:40:44,129
+She was the one who helped.
+
+1839
+01:40:44,280 --> 01:40:45,566
+You would leave your child?
+
+1840
+01:40:47,520 --> 01:40:49,807
+He'll be happier in the arms
+of a princess.
+
+1841
+01:40:49,880 --> 01:40:50,881
+But wait!
+
+1842
+01:41:13,120 --> 01:41:14,360
+What are you doing here?
+
+1843
+01:41:14,440 --> 01:41:15,441
+Son...
+
+1844
+01:41:15,520 --> 01:41:16,760
+I don't want to talk to you.
+
+1845
+01:41:16,880 --> 01:41:17,961
+It's because of you all of this happened!
+
+1846
+01:41:18,120 --> 01:41:20,407
+- Go away!
+- I'm sorry. I did a foolish thing.
+
+1847
+01:41:20,560 --> 01:41:22,841
+Why would you do that?
+Why did you take the Witch's beans?
+
+1848
+01:41:22,920 --> 01:41:24,001
+They were there
+and I wanted them.
+
+1849
+01:41:24,080 --> 01:41:25,520
+I didn't think.
+I was being careless.
+
+1850
+01:41:25,600 --> 01:41:27,090
+- Selfish.
+- Yes.
+
+1851
+01:41:27,240 --> 01:41:29,208
+You stole and you got caught,
+and you did what you do.
+
+1852
+01:41:29,360 --> 01:41:30,521
+You just ran away.
+
+1853
+01:41:30,680 --> 01:41:32,603
+When your mother died, I was...
+
+1854
+01:41:37,440 --> 01:41:40,683
+I hated myself.
+I ran away from my guilt and my shame.
+
+1855
+01:41:40,840 --> 01:41:42,365
+And your son.
+
+1856
+01:41:44,360 --> 01:41:45,850
+Yes, my son, and I'm sorry for that.
+
+1857
+01:41:46,000 --> 01:41:48,440
+- Then what do you want?
+- Aren't you making the same mistake?
+
+1858
+01:41:48,560 --> 01:41:49,925
+Aren't you running away?
+
+1859
+01:41:51,760 --> 01:41:53,569
+Be better than me,
+
+1860
+01:41:54,280 --> 01:41:55,281
+son.
+
+1861
+01:41:59,280 --> 01:42:01,009
+Do better.
+
+1862
+01:42:40,280 --> 01:42:41,884
+See, so this is you,
+
+1863
+01:42:41,960 --> 01:42:43,485
+and you're going to come over here.
+
+1864
+01:42:43,640 --> 01:42:45,688
+If there were just some way
+we could surprise the giant.
+
+1865
+01:42:45,840 --> 01:42:47,046
+She's too tall to surprise.
+
+1866
+01:42:47,200 --> 01:42:48,884
+So, that's why I'm going to
+be behind here.
+
+1867
+01:42:49,040 --> 01:42:50,883
+Yeah, and then you can come here,
+
+1868
+01:42:51,360 --> 01:42:52,691
+climb on top...
+
+1869
+01:42:52,840 --> 01:42:54,046
+I knew you wouldn't give up.
+
+1870
+01:42:54,920 --> 01:42:56,524
+He wouldn't leave his baby.
+
+1871
+01:42:56,600 --> 01:42:58,045
+It looked like he was going to.
+
+1872
+01:43:00,360 --> 01:43:01,850
+Give me my son.
+
+1873
+01:43:03,200 --> 01:43:04,247
+Hey.
+
+1874
+01:43:11,640 --> 01:43:13,529
+What are we
+gonna do now?
+
+1875
+01:43:13,680 --> 01:43:15,967
+We need to rid this kingdom
+of the giant together.
+
+1876
+01:43:16,880 --> 01:43:19,406
+She'll be back soon, so here's the plan.
+
+1877
+01:43:19,560 --> 01:43:21,244
+We're going to feed Jack to the giant.
+
+1878
+01:43:21,400 --> 01:43:22,640
+- What?
+- No!
+
+1879
+01:43:22,840 --> 01:43:24,440
+- We're going to use you as bait!
+- Bait?
+
+1880
+01:43:24,560 --> 01:43:27,131
+To lure the giant to the tar pit.
+
+1881
+01:43:28,520 --> 01:43:29,521
+Oh!
+The birds can help!
+
+1882
+01:43:29,720 --> 01:43:32,485
+Good friends, we need your help
+now more than ever.
+
+1883
+01:43:33,840 --> 01:43:35,330
+What of the prince?
+
+1884
+01:43:37,880 --> 01:43:39,166
+That doesn't matter now.
+
+1885
+01:43:39,320 --> 01:43:42,210
+What's important is that
+we find a way to defeat the giant.
+
+1886
+01:43:43,840 --> 01:43:44,841
+Yes!
+
+1887
+01:43:45,360 --> 01:43:46,407
+Thank you, birds!
+
+1888
+01:43:48,000 --> 01:43:49,604
+You can talk to birds?
+
+1889
+01:43:50,200 --> 01:43:51,725
+The birds will do their part.
+
+1890
+01:43:52,120 --> 01:43:54,600
+- Okay, we don't have much time.
+- I'm excited!
+
+1891
+01:43:54,880 --> 01:43:57,326
+- First, we'll need a weapon.
+- I wish I had my sling!
+
+1892
+01:43:57,480 --> 01:43:59,005
+We can make some.
+
+1893
+01:44:05,200 --> 01:44:07,248
+Your father is being very brave.
+
+1894
+01:44:07,880 --> 01:44:09,689
+We're going to
+be very brave too.
+
+1895
+01:44:09,840 --> 01:44:11,444
+Are you all right, miss?
+
+1896
+01:44:13,240 --> 01:44:15,561
+The giant went in that direction.
+
+1897
+01:44:16,520 --> 01:44:17,885
+My darling!
+
+1898
+01:44:18,960 --> 01:44:20,291
+Oh, my darling!
+
+1899
+01:44:20,880 --> 01:44:23,884
+I did not recognize you.
+What are you doing here?
+
+1900
+01:44:25,600 --> 01:44:26,965
+And with a child?
+
+1901
+01:44:27,920 --> 01:44:29,524
+You must get back
+to the castle at once.
+
+1902
+01:44:29,600 --> 01:44:30,601
+There is a giant on the loose.
+
+1903
+01:44:30,760 --> 01:44:32,171
+I'm well aware of that.
+
+1904
+01:44:32,800 --> 01:44:34,325
+My love, what is it?
+
+1905
+01:44:36,440 --> 01:44:38,647
+Maybe I'm not your only love.
+
+1906
+01:44:39,040 --> 01:44:40,804
+I love you! Truly, I do.
+
+1907
+01:44:41,000 --> 01:44:43,651
+If you love me, why did you stray?
+
+1908
+01:44:45,520 --> 01:44:46,521
+Uh...
+
+1909
+01:44:47,280 --> 01:44:49,408
+I thought that if you were mine,
+
+1910
+01:44:50,520 --> 01:44:52,522
+I would never wish for more.
+
+1911
+01:44:55,440 --> 01:44:57,647
+If this is how you
+behave as a prince,
+
+1912
+01:44:57,720 --> 01:44:59,563
+what kind of king will you be?
+
+1913
+01:44:59,960 --> 01:45:03,248
+I was raised to be charming, not sincere.
+
+1914
+01:45:04,240 --> 01:45:06,129
+I think you should go.
+
+1915
+01:45:07,520 --> 01:45:08,965
+Is that what you really wish?
+
+1916
+01:45:11,240 --> 01:45:13,527
+My father's house was a nightmare.
+
+1917
+01:45:13,680 --> 01:45:15,205
+Your house a dream.
+
+1918
+01:45:17,120 --> 01:45:19,168
+Now I want something in-between.
+
+1919
+01:45:34,160 --> 01:45:37,562
+I shall always love the maiden
+who ran away.
+
+1920
+01:45:39,080 --> 01:45:41,481
+And I the faraway prince.
+
+1921
+01:45:55,320 --> 01:45:56,731
+Careful.
+Not so fast.
+
+1922
+01:45:56,880 --> 01:45:59,531
+Don't worry.
+This is easier than the beanstalk.
+
+1923
+01:46:00,240 --> 01:46:02,481
+They're up in the tree!
+Over there!
+
+1924
+01:46:02,640 --> 01:46:04,768
+We made slings out of my cape!
+
+1925
+01:46:07,720 --> 01:46:09,802
+I wanted to climb the tree too.
+
+1926
+01:46:10,520 --> 01:46:12,040
+Well, I'm glad you're here to help me.
+
+1927
+01:46:17,360 --> 01:46:18,361
+What's wrong?
+
+1928
+01:46:21,000 --> 01:46:23,970
+I think my granny and my mother
+would be upset with me.
+
+1929
+01:46:26,520 --> 01:46:27,521
+Why?
+
+1930
+01:46:28,000 --> 01:46:30,082
+They said to always make them proud.
+
+1931
+01:46:30,600 --> 01:46:33,046
+And here I am, about to kill somebody.
+
+1932
+01:46:35,520 --> 01:46:37,010
+Not somebody.
+
+1933
+01:46:37,480 --> 01:46:39,448
+A giant who's done a lot of harm.
+
+1934
+01:46:39,600 --> 01:46:41,250
+But a giant is a person.
+
+1935
+01:46:43,160 --> 01:46:45,162
+Aren't we to show forgiveness?
+
+1936
+01:46:48,480 --> 01:46:51,643
+<i>Mother cannot guide you</i>
+
+1937
+01:46:52,480 --> 01:46:55,563
+<i>Now you're on your own</i>
+
+1938
+01:46:56,720 --> 01:46:59,610
+<i>Only me beside you</i>
+
+1939
+01:46:59,760 --> 01:47:03,048
+<i>Still you're not alone</i>
+
+1940
+01:47:04,120 --> 01:47:08,489
+<i>No one is alone, truly</i>
+
+1941
+01:47:08,640 --> 01:47:11,564
+<i>No one is alone</i>
+
+1942
+01:47:11,920 --> 01:47:13,126
+I wish...
+
+1943
+01:47:14,280 --> 01:47:15,281
+I know.
+
+1944
+01:47:16,680 --> 01:47:19,160
+Wait until my mother hears
+I've slain the giant.
+
+1945
+01:47:19,320 --> 01:47:20,481
+Jack,
+
+1946
+01:47:20,920 --> 01:47:22,570
+there's something you need to know.
+
+1947
+01:47:22,720 --> 01:47:24,324
+It's about your mother.
+
+1948
+01:47:24,480 --> 01:47:25,481
+What?
+
+1949
+01:47:29,880 --> 01:47:31,245
+She didn't make it.
+
+1950
+01:47:34,520 --> 01:47:36,602
+- Was she killed by the giant?
+- No.
+
+1951
+01:47:36,800 --> 01:47:38,609
+It wasn't like that.
+
+1952
+01:47:38,840 --> 01:47:40,126
+She was fighting with the giant,
+
+1953
+01:47:40,200 --> 01:47:42,009
+she was trying to protect you,
+
+1954
+01:47:43,000 --> 01:47:45,048
+and she was pushed by the Steward.
+
+1955
+01:47:45,680 --> 01:47:47,170
+And she fell.
+
+1956
+01:47:47,320 --> 01:47:49,402
+- The Steward will pay for this.
+- No, Jack!
+
+1957
+01:47:49,560 --> 01:47:51,160
+After we slay the giant,
+I will slay him!
+
+1958
+01:47:51,200 --> 01:47:52,690
+You'll do nothing of the kind.
+
+1959
+01:47:53,360 --> 01:47:56,330
+What he did was wrong.
+He should be punished.
+
+1960
+01:47:57,800 --> 01:47:59,802
+It's not as easy as that.
+
+1961
+01:48:02,160 --> 01:48:03,844
+<i>Mother isn't here now</i>
+
+1962
+01:48:04,080 --> 01:48:06,048
+<i>Wrong things, right things</i>
+
+1963
+01:48:06,200 --> 01:48:08,089
+<i>Who knows what she'd say?</i>
+
+1964
+01:48:08,240 --> 01:48:10,004
+<i>Who can say what's true?</i>
+
+1965
+01:48:10,160 --> 01:48:11,810
+<i>Nothing's quite so clear now</i>
+
+1966
+01:48:12,040 --> 01:48:14,088
+<i>Do things, fight things</i>
+
+1967
+01:48:14,240 --> 01:48:16,083
+<i>Feel you've lost your way?</i>
+
+1968
+01:48:16,240 --> 01:48:17,287
+<i>You decide</i>
+
+1969
+01:48:17,360 --> 01:48:20,091
+<i>But you are not alone</i>
+
+1970
+01:48:20,240 --> 01:48:22,607
+<i>Believe me
+No one is alone</i>
+
+1971
+01:48:22,760 --> 01:48:24,250
+<i>No one is alone</i>
+
+1972
+01:48:24,400 --> 01:48:25,447
+<i>Believe me</i>
+
+1973
+01:48:25,560 --> 01:48:26,721
+<i>Truly</i>
+
+1974
+01:48:26,880 --> 01:48:28,928
+<i>People make mistakes</i>
+
+1975
+01:48:29,200 --> 01:48:30,201
+<i>Fathers</i>
+
+1976
+01:48:30,360 --> 01:48:31,360
+<i>Mothers</i>
+
+1977
+01:48:31,440 --> 01:48:33,522
+<i>People make mistakes</i>
+
+1978
+01:48:34,080 --> 01:48:36,606
+<i>Holding to their own</i>
+
+1979
+01:48:38,000 --> 01:48:41,083
+<i>Thinking they're alone</i>
+
+1980
+01:48:42,000 --> 01:48:43,001
+<i>Honor their mistakes</i>
+
+1981
+01:48:43,120 --> 01:48:44,121
+<i>Fight for their mistakes</i>
+
+1982
+01:48:44,280 --> 01:48:45,691
+<i>Everybody makes</i>
+
+1983
+01:48:45,840 --> 01:48:49,322
+<i>One another's Terrible mistakes</i>
+
+1984
+01:48:49,800 --> 01:48:51,723
+<i>Witches can be right</i>
+
+1985
+01:48:51,920 --> 01:48:53,888
+<i>Giants can be good</i>
+
+1986
+01:48:54,040 --> 01:48:55,883
+<i>You decide what's right</i>
+
+1987
+01:48:56,200 --> 01:48:58,407
+<i>You decide what's good</i>
+
+1988
+01:48:58,560 --> 01:49:00,130
+<i>Just remember</i>
+
+1989
+01:49:00,440 --> 01:49:02,568
+<i>Just remember</i>
+
+1990
+01:49:03,480 --> 01:49:05,642
+<i>Someone is on your side</i>
+
+1991
+01:49:05,800 --> 01:49:06,801
+<i>Our side</i>
+
+1992
+01:49:06,920 --> 01:49:09,605
+<i>Our side
+Someone else is not</i>
+
+1993
+01:49:11,760 --> 01:49:13,808
+<i>While we're seeing our side</i>
+
+1994
+01:49:13,960 --> 01:49:15,530
+<i>- Our side
+- Our side</i>
+
+1995
+01:49:15,840 --> 01:49:18,366
+<i>Maybe we forgot</i>
+
+1996
+01:49:18,840 --> 01:49:22,049
+<i>They are not alone</i>
+
+1997
+01:49:23,000 --> 01:49:26,721
+<i>No one is alone</i>
+
+1998
+01:49:27,440 --> 01:49:33,243
+<i>Someone is on your side</i>
+
+1999
+01:49:34,720 --> 01:49:36,290
+<i>No one is alo...</i>
+
+2000
+01:49:41,920 --> 01:49:43,524
+Go, Jack.
+
+2001
+01:49:43,720 --> 01:49:45,085
+- Be careful.
+- Yeah.
+
+2002
+01:49:47,440 --> 01:49:48,805
+Here she comes.
+
+2003
+01:50:11,640 --> 01:50:14,120
+Where is the boy?
+
+2004
+01:50:14,280 --> 01:50:15,406
+We have him!
+
+2005
+01:50:15,560 --> 01:50:16,607
+Where?
+
+2006
+01:50:16,680 --> 01:50:18,409
+He's hiding in that tree!
+
+2007
+01:50:20,160 --> 01:50:21,571
+Here I am!
+
+2008
+01:50:40,920 --> 01:50:41,921
+You ready?
+
+2009
+01:50:42,680 --> 01:50:44,045
+Ready!
+
+2010
+01:51:02,960 --> 01:51:04,007
+Good birds!
+
+2011
+01:51:04,080 --> 01:51:05,764
+She does not look happy.
+
+2012
+01:51:09,120 --> 01:51:10,121
+Ooh!
+
+2013
+01:51:15,600 --> 01:51:17,682
+- Look out, Jack!
+- Jack!
+
+2014
+01:51:18,000 --> 01:51:19,001
+Ahh!
+
+2015
+01:51:19,840 --> 01:51:21,046
+Jack!
+
+2016
+01:52:08,880 --> 01:52:09,927
+Jack?
+
+2017
+01:52:10,280 --> 01:52:12,567
+- Where are they?
+- Jack!
+
+2018
+01:52:12,960 --> 01:52:13,961
+Jack!
+
+2019
+01:52:14,560 --> 01:52:16,085
+Mr. Baker!
+
+2020
+01:52:17,120 --> 01:52:18,724
+- Jack!
+- Over here!
+
+2021
+01:52:18,880 --> 01:52:20,245
+Jack!
+
+2022
+01:52:20,600 --> 01:52:21,761
+Take him!
+
+2023
+01:52:21,960 --> 01:52:22,961
+Be careful!
+
+2024
+01:52:24,200 --> 01:52:25,406
+- Are you all right?
+- Yeah.
+
+2025
+01:52:25,560 --> 01:52:26,766
+Careful, careful!
+
+2026
+01:52:27,920 --> 01:52:29,001
+Where is he?
+
+2027
+01:52:29,160 --> 01:52:30,240
+- He's not with you?
+- Jack!
+
+2028
+01:52:30,360 --> 01:52:31,407
+Mr. Baker!
+
+2029
+01:52:31,480 --> 01:52:32,641
+Jack!
+
+2030
+01:52:33,920 --> 01:52:34,921
+Help me!
+
+2031
+01:52:35,400 --> 01:52:36,765
+Jack, I'm here!
+
+2032
+01:52:47,120 --> 01:52:49,282
+- Are you all right?
+- Yeah.
+
+2033
+01:52:49,680 --> 01:52:50,681
+- Okay?
+- Yeah!
+
+2034
+01:52:50,840 --> 01:52:52,763
+You okay?
+You all right?
+
+2035
+01:52:52,920 --> 01:52:55,002
+- Yeah.
+- All right? Yeah?
+
+2036
+01:52:55,840 --> 01:52:57,205
+We did it.
+
+2037
+01:52:57,840 --> 01:52:59,205
+We did it!
+
+2038
+01:53:08,680 --> 01:53:10,364
+And now we can return home.
+
+2039
+01:53:10,520 --> 01:53:12,841
+What home?
+I have no one to take care of me.
+
+2040
+01:53:13,160 --> 01:53:15,162
+And we have nowhere to go.
+
+2041
+01:53:15,320 --> 01:53:17,288
+So we'll move in with you.
+
+2042
+01:53:17,440 --> 01:53:18,805
+Well, it's...
+
+2043
+01:53:21,040 --> 01:53:22,371
+Of course.
+
+2044
+01:53:22,560 --> 01:53:24,120
+Of course you can come
+and stay with me.
+
+2045
+01:53:24,200 --> 01:53:25,565
+And you can come too!
+
+2046
+01:53:25,720 --> 01:53:28,724
+- Only if you want to.
+- I'll gladly help you with your house.
+
+2047
+01:53:28,880 --> 01:53:30,520
+There are times
+I actually enjoy cleaning.
+
+2048
+01:53:33,040 --> 01:53:34,326
+Here.
+
+2049
+01:53:35,840 --> 01:53:36,887
+What's this?
+
+2050
+01:53:42,000 --> 01:53:43,490
+Come on, now.
+
+2051
+01:53:48,400 --> 01:53:49,561
+I know.
+
+2052
+01:53:51,840 --> 01:53:54,047
+I know, you miss your mother.
+
+2053
+01:53:55,720 --> 01:53:57,324
+I miss her too.
+
+2054
+01:53:59,240 --> 01:54:00,241
+Please.
+
+2055
+01:54:01,760 --> 01:54:03,922
+Maybe I just wasn't
+meant to have children.
+
+2056
+01:54:04,080 --> 01:54:05,081
+Don't say that.
+
+2057
+01:54:05,160 --> 01:54:06,446
+<i>Of course you were
+meant to have children.</i>
+
+2058
+01:54:06,600 --> 01:54:10,685
+But how can I go about being a father
+when I had no father to show me?
+
+2059
+01:54:10,840 --> 01:54:13,047
+<i>Just calm the child</i>
+
+2060
+01:54:13,240 --> 01:54:15,686
+<i>Yes, calm the child</i>
+
+2061
+01:54:15,840 --> 01:54:18,571
+<i>Look, tell him the story
+Of how it all happened</i>
+
+2062
+01:54:18,720 --> 01:54:21,769
+<i>Be father and mother
+You'll know what to do</i>
+
+2063
+01:54:23,560 --> 01:54:24,561
+Alone.
+
+2064
+01:54:26,360 --> 01:54:29,967
+<i>Sometimes people leave you</i>
+
+2065
+01:54:31,120 --> 01:54:34,602
+<i>Halfway through the wood</i>
+
+2066
+01:54:35,520 --> 01:54:39,605
+<i>Do not let it grieve you</i>
+
+2067
+01:54:39,760 --> 01:54:42,969
+<i>No one leaves for good</i>
+
+2068
+01:54:43,120 --> 01:54:47,125
+<i>You are not alone</i>
+
+2069
+01:54:47,280 --> 01:54:51,444
+<i>No one is alone</i>
+
+2070
+01:54:53,320 --> 01:54:57,291
+<i>Hold him to the light now</i>
+
+2071
+01:54:57,920 --> 01:55:01,447
+<i>Let him see the glow</i>
+
+2072
+01:55:02,880 --> 01:55:06,009
+<i>Things will be all right now</i>
+
+2073
+01:55:06,480 --> 01:55:10,087
+<i>Tell him what you know</i>
+
+2074
+01:55:16,760 --> 01:55:19,843
+Once upon a time, in a far off kingdom,
+
+2075
+01:55:20,000 --> 01:55:22,128
+there lay a small village
+at the edge of the woods.
+
+2076
+01:55:22,280 --> 01:55:24,408
+<i>Careful the things you say</i>
+
+2077
+01:55:24,600 --> 01:55:27,171
+- And <i>in this village...
+- Children will listen</i>
+
+2078
+01:55:27,320 --> 01:55:29,084
+...there lived a young maiden...
+
+2079
+01:55:29,240 --> 01:55:31,527
+- Careful the <i>things</i> you do
+- ...a carefree young lad...
+
+2080
+01:55:31,680 --> 01:55:33,489
+<i>Children will see</i>
+
+2081
+01:55:33,640 --> 01:55:35,449
+...and a childless baker...
+
+2082
+01:55:35,600 --> 01:55:38,524
+<i>And learn</i>
+
+2083
+01:55:38,680 --> 01:55:40,444
+...with his wife.
+
+2084
+01:55:42,640 --> 01:55:44,244
+<i>Guide them along the way</i>
+
+2085
+01:55:46,160 --> 01:55:48,845
+<i>Children will glisten</i>
+
+2086
+01:55:49,760 --> 01:55:52,764
+<i>Children will look to you</i>
+
+2087
+01:55:52,960 --> 01:55:56,203
+<i>For which way to turn</i>
+
+2088
+01:55:56,360 --> 01:56:00,445
+<i>To learn what to be</i>
+
+2089
+01:56:00,640 --> 01:56:06,568
+<i>Careful before you say
+"Listen to me"</i>
+
+2090
+01:56:06,720 --> 01:56:10,566
+<i>Children will listen</i>
+
+2091
+01:56:11,280 --> 01:56:14,682
+<i>Careful the wish you make</i>
+
+2092
+01:56:14,880 --> 01:56:18,327
+<i>Wishes are children</i>
+
+2093
+01:56:18,480 --> 01:56:21,211
+<i>Careful the path they take</i>
+
+2094
+01:56:21,360 --> 01:56:24,842
+<i>Wishes come true</i>
+
+2095
+01:56:25,040 --> 01:56:30,729
+<i>Not free</i>
+
+2096
+01:56:32,080 --> 01:56:35,368
+<i>Careful the spell you cast</i>
+
+2097
+01:56:35,520 --> 01:56:38,922
+<i>Not just on children</i>
+
+2098
+01:56:39,080 --> 01:56:42,209
+<i>Sometimes the spell may last</i>
+
+2099
+01:56:42,280 --> 01:56:45,602
+<i>Past what you can see</i>
+
+2100
+01:56:45,840 --> 01:56:49,890
+<i>And turn against you</i>
+
+2101
+01:56:50,040 --> 01:56:52,691
+<i>Careful the tale you tell</i>
+
+2102
+01:56:52,840 --> 01:56:56,162
+<i>That is the spell</i>
+
+2103
+01:56:56,560 --> 01:57:00,770
+<i>Children will listen</i>
+
+2104
+01:57:26,040 --> 01:57:27,883
+<i>Though it's fearful
+Though it's deep, though it's dark</i>
+
+2105
+01:57:27,960 --> 01:57:29,689
+<i>And though you may lose the path</i>
+
+2106
+01:57:29,760 --> 01:57:31,524
+<i>Though you may encounter wolves</i>
+
+2107
+01:57:31,680 --> 01:57:33,648
+<i>You can't just act</i>
+
+2108
+01:57:33,880 --> 01:57:35,848
+<i>You have to listen</i>
+
+2109
+01:57:35,920 --> 01:57:38,321
+<i>You can't just act
+You have to think</i>
+
+2110
+01:57:38,400 --> 01:57:40,402
+<i>There are always wolves
+There are always spells</i>
+
+2111
+01:57:40,480 --> 01:57:42,687
+<i>There are always beans
+or a giant dwells, and so</i>
+
+2112
+01:57:42,800 --> 01:57:44,609
+<i>Into the woods you go again</i>
+
+2113
+01:57:44,680 --> 01:57:46,523
+<i>You have to every now and then</i>
+
+2114
+01:57:46,600 --> 01:57:48,409
+<i>Into the woods, no telling when</i>
+
+2115
+01:57:48,480 --> 01:57:50,130
+<i>Be ready for the journey</i>
+
+2116
+01:57:50,440 --> 01:57:52,169
+<i>Into the woods, but not too fast</i>
+
+2117
+01:57:52,320 --> 01:57:54,209
+<i>For what you wish, you lose at last</i>
+
+2118
+01:57:54,360 --> 01:57:56,124
+<i>Into the woods, but mind the past</i>
+
+2119
+01:57:56,200 --> 01:57:58,043
+<i>Into the woods, but mind the future</i>
+
+2120
+01:57:58,120 --> 01:58:00,043
+<i>Into the woods, but not to stray</i>
+
+2121
+01:58:00,120 --> 01:58:01,724
+<i>Or tempt the wolf
+Or steal from the giant</i>
+
+2122
+01:58:01,800 --> 01:58:03,564
+<i>The way is dark</i>
+
+2123
+01:58:03,680 --> 01:58:05,250
+<i>The light is dim</i>
+
+2124
+01:58:05,480 --> 01:58:08,848
+<i>But now there's you, me, her, and him</i>
+
+2125
+01:58:09,320 --> 01:58:11,084
+<i>The chances look small</i>
+
+2126
+01:58:11,160 --> 01:58:12,810
+<i>The choices look grim</i>
+
+2127
+01:58:13,000 --> 01:58:14,968
+<i>But everything you learn there</i>
+
+2128
+01:58:15,040 --> 01:58:16,724
+<i>Will help when you return there</i>
+
+2129
+01:58:16,840 --> 01:58:18,604
+<i>The light is getting dimmer</i>
+
+2130
+01:58:18,680 --> 01:58:20,603
+<i>I think I see a glimmer</i>
+
+2131
+01:58:28,200 --> 01:58:29,770
+<i>Into the woods you have to grope</i>
+
+2132
+01:58:29,880 --> 01:58:31,803
+<i>But that's the way you learn to cope</i>
+
+2133
+01:58:31,880 --> 01:58:33,564
+<i>Into the woods to find this hope</i>
+
+2134
+01:58:33,640 --> 01:58:35,449
+<i>Of getting through the journey</i>
+
+2135
+01:58:35,520 --> 01:58:37,170
+<i>Into the woods, each time you go</i>
+
+2136
+01:58:37,240 --> 01:58:39,242
+<i>There's more to learn of what you know</i>
+
+2137
+01:58:39,320 --> 01:58:41,129
+<i>Into the woods, but not too slow</i>
+
+2138
+01:58:41,200 --> 01:58:43,089
+<i>Into the woods, it's nearing midnight</i>
+
+2139
+01:58:43,160 --> 01:58:44,810
+<i>Into the woods to mind the wolf</i>
+
+2140
+01:58:44,880 --> 01:58:46,644
+<i>To heed the witch
+To honor the giant</i>
+
+2141
+01:58:46,720 --> 01:58:48,643
+<i>To mind, to heed, to find, to think</i>
+
+2142
+01:58:48,720 --> 01:58:50,449
+<i>To teach, to join, to go to the Festival!</i>
+
+2143
+01:58:50,560 --> 01:58:54,246
+<i>Into the woods</i>
+
+2144
+01:58:54,320 --> 01:58:59,850
+<i>Into the woods, then out of the woods</i>
+
+2145
+01:58:59,920 --> 01:59:01,649
+<i>And happy ever after</i>
+
+2146
+01:59:01,720 --> 01:59:03,131
+<i>I wish...</i>

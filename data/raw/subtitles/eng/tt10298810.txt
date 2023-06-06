@@ -1,0 +1,6840 @@
+1
+00:00:44,962 --> 00:00:50,342
+In 1995, a boy named Andy got a
+Buzz Lightyear toy for his birthday.
+
+2
+00:00:51,510 --> 00:00:55,889
+It was from his favorite movie.
+
+3
+00:00:57,724 --> 00:01:01,645
+This is that movie.
+
+4
+00:01:06,275 --> 00:01:09,945
+UNCHARTED SPACE
+4.2 MILLION LIGHT YEARS FROM EARTH
+
+5
+00:01:16,702 --> 00:01:20,163
+STAR COMMAND SC-01 EXPLORATION VESSEL
+CREW: 1200
+
+6
+00:01:42,895 --> 00:01:45,939
+<i>Buzz Lightyear mission log.
+Star date 3901.</i>
+
+7
+00:01:46,273 --> 00:01:48,108
+<i>Sensors have detected
+potential life forms.</i>
+
+8
+00:01:48,275 --> 00:01:49,401
+<i>on an uncharted planet.</i>
+
+9
+00:01:49,568 --> 00:01:51,612
+<i>So, we're making a detour to investigate.</i>
+
+10
+00:02:00,162 --> 00:02:02,039
+<i>Space Rangers will make
+initial evaluation,</i>
+
+11
+00:02:02,206 --> 00:02:04,208
+<i>then assess whether it's worth
+waking the science crew</i>
+
+12
+00:02:04,374 --> 00:02:05,459
+<i>from their hyper-sleep.</i>
+
+13
+00:02:06,210 --> 00:02:08,294
+<i>While the ERIC takes core samples</i>
+
+14
+00:02:08,461 --> 00:02:13,217
+<i>I will explore further the oddities
+of this strange planet.</i>
+
+15
+00:02:27,731 --> 00:02:30,901
+<i>Terrain seems a bit unstable.</i>
+
+16
+00:02:31,652 --> 00:02:33,612
+<i>No read-out yet if the area is breathable.</i>
+
+17
+00:02:34,613 --> 00:02:36,865
+<i>There seems to be no sign
+of intelligent life anywhere.</i>
+
+18
+00:02:37,032 --> 00:02:38,742
+<i>-Who are you talking to?
+-No one.</i>
+
+19
+00:02:38,909 --> 00:02:40,160
+<i>You were narrating again.</i>
+
+20
+00:02:40,327 --> 00:02:42,913
+<i>I was not. Just doing the mission log.</i>
+
+21
+00:02:43,080 --> 00:02:45,249
+<i>You do know no one ever listens to them.</i>
+
+22
+00:02:45,415 --> 00:02:47,793
+<i>I know that, narrating
+helps me with focus.</i>
+
+23
+00:02:47,960 --> 00:02:49,545
+<i>-Stay sharp.
+-Yeah.</i>
+
+24
+00:02:49,711 --> 00:02:51,964
+<i>Well, if it bothers you,
+Commander Hawthorne.</i>
+
+25
+00:02:52,130 --> 00:02:53,632
+<i>I'm happy to wait
+back on the turnip.</i>
+
+26
+00:02:53,799 --> 00:02:55,175
+<i>Please don't call it the turnip.</i>
+
+27
+00:02:55,342 --> 00:02:57,052
+<i>But the ship looks
+like a root vegetable.</i>
+
+28
+00:02:57,219 --> 00:03:00,222
+<i>Yes, you made that very clear
+at the design review.</i>
+
+29
+00:03:10,315 --> 00:03:11,733
+<i>How long have you known
+that I narrate?</i>
+
+30
+00:03:11,900 --> 00:03:13,944
+<i>Forever.
+Since you and I were cadets.</i>
+
+31
+00:03:14,111 --> 00:03:16,196
+<i>Speaking of,
+you forgot to take the rookie with you.</i>
+
+32
+00:03:16,822 --> 00:03:19,616
+<i>Ah, Commander Hawthorne, you know
+how I feel about rookies.</i>
+
+33
+00:03:19,783 --> 00:03:21,493
+<i>It's the same way I feel about autopilots.</i>
+
+34
+00:03:21,660 --> 00:03:24,246
+<i>"How may I assist you?
+Is there anything I can do, sir?"</i>
+
+35
+00:03:24,413 --> 00:03:26,540
+<i>They don't help,
+they just over-complicate things.</i>
+
+36
+00:03:26,707 --> 00:03:28,458
+<i>I'm better off just doing the job myself.</i>
+
+37
+00:03:28,625 --> 00:03:30,210
+<i>Which is why I brought the rookie.</i>
+
+38
+00:03:31,670 --> 00:03:32,671
+<i>Hello.</i>
+
+39
+00:03:33,463 --> 00:03:35,924
+<i>-No.
+-Buzz, protocol requires we bring him along.</i>
+
+40
+00:03:36,091 --> 00:03:37,301
+<i>-He's gonna have sad eyes.
+-Buzz.</i>
+
+41
+00:03:37,467 --> 00:03:38,927
+<i>You know I can't deal with sad eyes.</i>
+
+42
+00:03:39,094 --> 00:03:40,137
+<i>-Look at the rookie, Buzz.
+-No.</i>
+
+43
+00:03:40,304 --> 00:03:41,972
+<i>-Look at the roo...Look...
+-No...no.</i>
+
+44
+00:03:42,139 --> 00:03:42,890
+<i>-Lightyear.
+-No.</i>
+
+45
+00:03:43,056 --> 00:03:44,057
+<i>-Look at him.
+-Not looking.</i>
+
+46
+00:03:44,224 --> 00:03:44,975
+<i>-Look. Look.
+-No.</i>
+
+47
+00:03:45,142 --> 00:03:47,436
+<i>-Look at the rookie.
+-No. No.</i>
+
+48
+00:03:50,981 --> 00:03:53,066
+<i>All right. All right. You win.</i>
+
+49
+00:03:54,902 --> 00:03:57,654
+<i>Look, Feather...Featheringhamstan...</i>
+
+50
+00:03:57,738 --> 00:03:58,697
+<i>It's Featheringhamstan, sir.</i>
+
+51
+00:03:58,864 --> 00:04:01,116
+<i>Look, rookie, first,
+you will not speak unless spoken to.</i>
+
+52
+00:04:01,283 --> 00:04:02,201
+<i>-Yes, sir.
+-Still talking.</i>
+
+53
+00:04:02,367 --> 00:04:04,203
+<i>Second, respect the suit.</i>
+
+54
+00:04:04,369 --> 00:04:06,079
+<i>This suit means something.</i>
+
+55
+00:04:06,246 --> 00:04:09,082
+<i>It's not just protecting your body,
+it's protecting the universe.</i>
+
+56
+00:04:09,249 --> 00:04:11,400
+<i>This suit is a promise
+to the world that you,</i>
+
+57
+00:04:11,500 --> 00:04:13,547
+<i>and you alone will
+do one thing above all.</i>
+
+58
+00:04:13,795 --> 00:04:15,881
+<i>Finnish the mission no matter the cost.</i>
+
+59
+00:04:16,048 --> 00:04:18,884
+<i>You will never quit, whatever
+the galaxy may throw your way--</i>
+
+60
+00:04:19,051 --> 00:04:20,511
+<i>Will you please turn that off!</i>
+
+61
+00:04:21,970 --> 00:04:23,013
+<i>It's just too easy.</i>
+
+62
+00:04:23,180 --> 00:04:25,140
+<i>You're mocking me, aren't you?</i>
+
+63
+00:04:25,307 --> 00:04:27,392
+<i>Yeah, but in a supportive way.</i>
+
+64
+00:04:27,559 --> 00:04:30,604
+<i>Look, what I'm trying to say, Commander,
+is that you and I have this job down.</i>
+
+65
+00:04:30,896 --> 00:04:31,897
+<i>-Sir.
+-Still talking.</i>
+
+66
+00:04:32,064 --> 00:04:34,691
+<i>At any moment I know what you're thinking,
+I know where you're gonna be.</i>
+
+67
+00:04:34,858 --> 00:04:36,318
+<i>But this guy, I don't know.</i>
+
+68
+00:04:36,568 --> 00:04:37,569
+<i>Where'd he go?</i>
+
+69
+00:04:38,237 --> 00:04:40,155
+<i>You see?
+This is exactly what I'm talking about.</i>
+
+70
+00:04:40,322 --> 00:04:41,865
+<i>He's not helping. He's wandered off.</i>
+
+71
+00:04:42,699 --> 00:04:43,700
+<i>Vines!</i>
+
+72
+00:04:52,918 --> 00:04:53,919
+<i>Bugs!</i>
+
+73
+00:05:00,884 --> 00:05:02,052
+<i>The ship. It's sinking.</i>
+
+74
+00:05:02,219 --> 00:05:03,512
+<i>Everyone, back to the turnip!</i>
+
+75
+00:05:03,679 --> 00:05:05,013
+<i>Oh, so now it's the turnip.</i>
+
+76
+00:05:13,522 --> 00:05:16,567
+<i>Engage Stealth Mode.
+That should buy us enough time.</i>
+
+77
+00:05:21,738 --> 00:05:22,489
+<i>We're not gonna make it.</i>
+
+78
+00:05:22,698 --> 00:05:23,991
+<i>Almost there!</i>
+
+79
+00:05:25,450 --> 00:05:27,619
+<i>Okay, plan B. Ready?</i>
+
+80
+00:05:27,786 --> 00:05:28,537
+<i>Go!</i>
+
+81
+00:05:44,678 --> 00:05:46,555
+<i>-Blast!
+-Here, I can re-route it.</i>
+
+82
+00:05:46,763 --> 00:05:47,723
+<i>Just give me a minute.</i>
+
+83
+00:05:47,890 --> 00:05:49,099
+<i>Where is the...</i>
+
+84
+00:05:49,266 --> 00:05:50,517
+<i>Help!</i>
+
+85
+00:05:52,936 --> 00:05:53,937
+<i>rookie.</i>
+
+86
+00:05:54,104 --> 00:05:55,314
+<i>Help me!</i>
+
+87
+00:05:56,148 --> 00:05:59,193
+<i>Buzz Lightyear mission log.
+The planet is clearly uninhabitable.</i>
+
+88
+00:05:59,359 --> 00:06:00,736
+<i>In fact, outright hostile.</i>
+
+89
+00:06:01,570 --> 00:06:04,364
+<i>The sentient foliage
+have apprehended cadet Furth-Feathering...</i>
+
+90
+00:06:04,530 --> 00:06:05,573
+<i>Featheringston...Feather...</i>
+
+91
+00:06:05,658 --> 00:06:06,537
+<i>They got the rookie,</i>
+
+92
+00:06:06,621 --> 00:06:09,178
+<i>who I strongly suggested
+should not have joined in the first--</i>
+
+93
+00:06:11,205 --> 00:06:12,372
+<i>Blast.</i>
+
+94
+00:06:18,253 --> 00:06:19,588
+<i>-Buzz!
+-Now!</i>
+
+95
+00:06:33,644 --> 00:06:34,937
+<i>Move it, ranger!</i>
+
+96
+00:06:36,522 --> 00:06:39,149
+<i>Making our way back to the ship.</i>
+
+97
+00:06:39,316 --> 00:06:40,692
+<i>Come on, Buzz!</i>
+
+98
+00:06:42,236 --> 00:06:43,737
+<i>Hurry!</i>
+
+99
+00:06:49,326 --> 00:06:50,369
+<i>All good at the engine room.</i>
+
+100
+00:06:50,536 --> 00:06:51,537
+<i>-I'll take the helm.
+-And I will--</i>
+
+101
+00:06:51,703 --> 00:06:52,829
+<i>Do nothing.
+I've got this.</i>
+
+102
+00:07:03,924 --> 00:07:05,300
+<i>How may I assist you?</i>
+
+103
+00:07:05,384 --> 00:07:06,218
+<i>Autopilots.</i>
+
+104
+00:07:06,426 --> 00:07:07,886
+<i>-Is there anything I can do, sir?
+-No and no!</i>
+
+105
+00:07:08,053 --> 00:07:09,054
+<i>This is not a simulation.</i>
+
+106
+00:07:11,515 --> 00:07:12,683
+<i>Commander, status!</i>
+
+107
+00:07:12,850 --> 00:07:13,684
+<i>Fuel engaged.</i>
+
+108
+00:07:13,851 --> 00:07:14,893
+<i>All systems go.</i>
+
+109
+00:07:21,525 --> 00:07:23,610
+<i>Warning. Launch trajectory unsound.</i>
+
+110
+00:07:26,738 --> 00:07:28,448
+<i>Come on. Come on.</i>
+
+111
+00:07:30,409 --> 00:07:31,660
+<i>Collision imminent.</i>
+
+112
+00:07:31,827 --> 00:07:33,161
+<i>Abort. Abort.</i>
+
+113
+00:07:40,627 --> 00:07:42,629
+<i>Captain Lightyear,
+do you need my help?</i>
+
+114
+00:07:42,796 --> 00:07:44,256
+<i>-Negative.
+-Are you sure?</i>
+
+115
+00:07:44,423 --> 00:07:46,967
+<i>I'm Buzz Lightyear.
+I'm always sure.</i>
+
+116
+00:08:03,814 --> 00:08:06,074
+s.ub by su.b .T
+
+117
+00:08:28,300 --> 00:08:29,468
+It's bad, Buzz.
+
+118
+00:08:31,595 --> 00:08:34,515
+The hyper-speed crystal
+was totally destroyed.
+
+119
+00:08:35,307 --> 00:08:38,434
+Long story short:
+we're marooned.
+
+120
+00:08:39,200 --> 00:08:40,306
+I don't know.
+
+121
+00:08:42,563 --> 00:08:43,398
+What are you doing?
+
+122
+00:08:43,565 --> 00:08:44,775
+I'm court-martialing myself.
+
+123
+00:08:44,942 --> 00:08:45,943
+No. You're not.
+
+124
+00:08:46,109 --> 00:08:49,530
+Commander Hawthorne, I hereby
+relieve myself of all Space Ranger duties.
+
+125
+00:08:49,696 --> 00:08:52,115
+This was my fault.
+And these people deserve better.
+
+126
+00:08:52,282 --> 00:08:53,867
+You can throw me in the brig.
+
+127
+00:08:54,701 --> 00:08:56,411
+Finish the mission, Buzz.
+
+128
+00:08:56,537 --> 00:08:57,621
+That's what we do.
+
+129
+00:08:57,788 --> 00:09:00,123
+We're not done
+until everyone gets home.
+
+130
+00:09:00,290 --> 00:09:01,750
+But we have no fuel crystal.
+
+131
+00:09:01,917 --> 00:09:04,753
+So we mine resources on this planet,
+create a new crystal.
+
+132
+00:09:04,920 --> 00:09:06,630
+Crystalic fusion is highly unstable.
+
+133
+00:09:06,797 --> 00:09:07,756
+Then we test it.
+
+134
+00:09:07,923 --> 00:09:09,633
+No. It's too dangerous.
+
+135
+00:09:09,800 --> 00:09:12,010
+Manufacturing a crystal
+capable of hyper-speed
+
+136
+00:09:12,260 --> 00:09:15,388
+is like trying to lasso with the sun.
+
+137
+00:09:15,472 --> 00:09:18,684
+And then someone would need
+to attach that sun to a ship,
+
+138
+00:09:18,851 --> 00:09:22,980
+and then the ship needs someone to fly it
+without blowing themselves into oblivion.
+
+139
+00:09:23,146 --> 00:09:25,023
+Who in their right mind would...
+
+140
+00:09:34,741 --> 00:09:37,369
+<i>Buzz Lightyear mission log.
+Star date 3902.</i>
+
+141
+00:09:37,870 --> 00:09:39,803
+<i>After a full year of being marooned,</i>
+
+142
+00:09:39,997 --> 00:09:41,042
+<i>our specialized crew</i>
+
+143
+00:09:41,126 --> 00:09:44,043
+<i>have put this planet's vast resources
+to incredible use.</i>
+
+144
+00:09:46,712 --> 00:09:50,591
+<i>Finally, our first
+hyper-speed test flight is a go.</i>
+
+145
+00:10:09,610 --> 00:10:10,527
+Ready, Captain Lightyear?
+
+146
+00:10:11,236 --> 00:10:13,071
+Ready as I'll ever be,
+Commander Hawthorne.
+
+147
+00:10:13,238 --> 00:10:14,239
+To infinity.
+
+148
+00:10:14,406 --> 00:10:15,490
+And beyond.
+
+149
+00:10:18,368 --> 00:10:20,370
+-Buzz!
+-We got a breach in the perimeter.
+
+150
+00:10:24,374 --> 00:10:25,667
+Come on, I just...
+
+151
+00:10:25,834 --> 00:10:26,668
+Captain Lightyear!
+
+152
+00:10:27,127 --> 00:10:28,128
+Airman Diaz.
+
+153
+00:10:28,295 --> 00:10:30,506
+Boy, the vines
+are a little feisty today, huh?
+
+154
+00:10:30,672 --> 00:10:31,673
+Are we ready to launch?
+
+155
+00:10:31,840 --> 00:10:33,592
+We're all ready
+if you are, sir.
+
+156
+00:10:34,885 --> 00:10:37,930
+A year of work for a four minute flight.
+Isn't that something?
+
+157
+00:10:38,096 --> 00:10:39,097
+Sure is.
+
+158
+00:10:39,264 --> 00:10:41,767
+Well, let's go find out
+if this new hyper-speed fuel is stable.
+
+159
+00:10:41,934 --> 00:10:43,810
+So I can get us off
+this rock.
+
+160
+00:10:44,311 --> 00:10:46,396
+I almost forgot.
+Here's your I.V.A.N, sir.
+
+161
+00:10:46,563 --> 00:10:47,606
+Fully loaded.
+
+162
+00:10:48,190 --> 00:10:49,191
+Autopilots.
+
+163
+00:10:49,358 --> 00:10:51,777
+And here, of course, is the XL-01.
+
+164
+00:10:52,444 --> 00:10:53,946
+Pretty sweet ride.
+
+165
+00:10:55,280 --> 00:10:56,782
+Now let's get you that fuel crystal.
+
+166
+00:10:56,949 --> 00:10:58,992
+<i>Good morning,
+Captain Lightyear.</i>
+
+167
+00:11:02,412 --> 00:11:04,915
+<i>Here is your specially formulated
+fuel mixture.</i>
+
+168
+00:11:06,625 --> 00:11:09,002
+So, this is the fuel
+that's gonna reach hyper-speed?
+
+169
+00:11:09,211 --> 00:11:11,630
+<i>It has an 87.6 percent chance.</i>
+
+170
+00:11:12,089 --> 00:11:13,382
+I'll take those odds.
+
+171
+00:11:21,098 --> 00:11:22,099
+Good luck, Captain.
+
+172
+00:11:22,599 --> 00:11:24,059
+We're all counting on you...
+
+173
+00:11:24,226 --> 00:11:25,519
+<i>Airman.</i>
+
+174
+00:11:34,778 --> 00:11:36,697
+<i>XL-01 to Mission Control.
+Do you copy?</i>
+
+175
+00:11:36,864 --> 00:11:37,990
+Copy, XL-01.
+
+176
+00:11:38,156 --> 00:11:40,117
+I'm gonna grant you four minutes
+to be off planet,
+
+177
+00:11:40,284 --> 00:11:42,119
+but then you come right back to us.
+
+178
+00:11:42,286 --> 00:11:43,287
+<i>That's an order.</i>
+
+179
+00:11:43,453 --> 00:11:44,454
+<i>Roger that.</i>
+
+180
+00:11:44,621 --> 00:11:46,540
+<i>Hyper Speed, here I come.</i>
+
+181
+00:11:46,707 --> 00:11:48,000
+<i>T minus 10...</i>
+
+182
+00:11:48,375 --> 00:11:49,376
+<i>...nine...</i>
+
+183
+00:11:49,626 --> 00:11:51,211
+<i>...eight, seven...</i>
+
+184
+00:11:51,628 --> 00:11:52,504
+<i>...six...</i>
+
+185
+00:11:52,796 --> 00:11:54,298
+<i>...five, four...</i>
+
+186
+00:11:54,965 --> 00:11:56,383
+<i>...three, two...</i>
+
+187
+00:11:57,009 --> 00:11:58,135
+<i>...one. Launch.</i>
+
+188
+00:12:22,784 --> 00:12:24,411
+<i>I.V.A.N., pull up the flight plan,
+please.</i>
+
+189
+00:12:24,578 --> 00:12:25,621
+<i>Hello. I am your internal--</i>
+
+190
+00:12:26,747 --> 00:12:27,873
+<i>Autopilots.</i>
+
+191
+00:12:30,959 --> 00:12:35,088
+<i>Hello, I am your internal
+voice-activated navigator, call me I.V.A.N.</i>
+
+192
+00:12:35,255 --> 00:12:36,632
+<i>Ready the flight plan, please, I.V.A.N.</i>
+
+193
+00:12:36,798 --> 00:12:37,841
+<i>Certainly.</i>
+
+194
+00:12:38,008 --> 00:12:40,093
+<i>Your mission is to accelerate
+through deep space,</i>
+
+195
+00:12:40,260 --> 00:12:42,221
+<i>slingshot around
+Alpha T'Kani,</i>
+
+196
+00:12:42,387 --> 00:12:46,016
+<i>then through the deceleration rings
+back here to T'kani Prime.</i>
+
+197
+00:12:46,183 --> 00:12:49,436
+<i>Target flight time: 4 minutes, 28 seconds.</i>
+
+198
+00:12:49,853 --> 00:12:51,897
+<i>XL-01, you are clear for hyper-launch.</i>
+
+199
+00:12:52,105 --> 00:12:54,358
+<i>Copy, control.
+Initiating hyper-launch.</i>
+
+200
+00:13:17,297 --> 00:13:20,968
+<i>Approaching 50 percent hyper speed.</i>
+
+201
+00:13:26,557 --> 00:13:27,307
+<i>Fuel stable.</i>
+
+202
+00:13:28,267 --> 00:13:30,727
+<i>Increasing speed to 0.6c.</i>
+
+203
+00:13:33,647 --> 00:13:35,858
+<i>Sixty percent hyper-speed.</i>
+
+204
+00:13:43,115 --> 00:13:46,493
+<i>Increasing speed to 0.7c.</i>
+
+205
+00:13:50,873 --> 00:13:52,791
+<i>Seventy percent hyper-speed.</i>
+
+206
+00:13:52,958 --> 00:13:54,042
+<i>Fuel stable.</i>
+
+207
+00:13:56,378 --> 00:13:58,755
+<i>Approaching 0.8c.</i>
+
+208
+00:13:58,922 --> 00:14:00,465
+<i>Pushing to hyper-speed.</i>
+
+209
+00:14:02,676 --> 00:14:04,636
+<i>Failure in Engine 1.</i>
+
+210
+00:14:06,054 --> 00:14:07,806
+<i>Fuel cell unstable.</i>
+
+211
+00:14:07,973 --> 00:14:08,765
+<i>I.V.A.N., status.</i>
+
+212
+00:14:08,932 --> 00:14:11,268
+<i>Trajectory error, plus four degrees.</i>
+
+213
+00:14:11,351 --> 00:14:13,937
+<i>Failure to course-correct
+will result in missing the rings.</i>
+
+214
+00:14:14,104 --> 00:14:16,190
+<i>We'll fly off into deep space</i>
+
+215
+00:14:16,356 --> 00:14:17,608
+<i>resulting in certain death.</i>
+
+216
+00:14:17,774 --> 00:14:19,026
+<i>Yes, thank you.</i>
+
+217
+00:14:19,193 --> 00:14:20,777
+<i>Ejection is your only option.</i>
+
+218
+00:14:21,612 --> 00:14:22,738
+<i>No, no. I can do it.</i>
+
+219
+00:14:23,447 --> 00:14:27,117
+<i>Warning.
+You have 26 seconds to course-correct.</i>
+
+220
+00:14:27,284 --> 00:14:30,412
+<i>You now have 25 seconds
+to course-correct.</i>
+
+221
+00:14:30,579 --> 00:14:32,164
+<i>-You now have--
+-Stop counting, please.</i>
+
+222
+00:14:32,331 --> 00:14:35,626
+<i>I'm sorry. My safety protocols
+prohibit me from terminating countdown.</i>
+
+223
+00:14:35,792 --> 00:14:36,835
+<i>Autopilots.</i>
+
+224
+00:14:37,002 --> 00:14:39,713
+<i>Mission failure imminent.
+Please record your last words.</i>
+
+225
+00:14:39,880 --> 00:14:41,381
+<i>Not today, I.V.A.N.</i>
+
+226
+00:14:41,548 --> 00:14:42,758
+<i>Not today, I.V.A.N.</i>
+
+227
+00:14:42,925 --> 00:14:45,886
+<i>If you are satisfied with this recording,
+speak or select 1.</i>
+
+228
+00:14:46,053 --> 00:14:48,722
+<i>I.V.A.N., push the engines all the way.
+Maximum power.</i>
+
+229
+00:14:48,889 --> 00:14:51,850
+<i>That action is inadvisable.
+Fuel cell detonation--</i>
+
+230
+00:14:52,017 --> 00:14:53,977
+<i>Is exactly what I'm counting on.</i>
+
+231
+00:14:57,022 --> 00:14:59,024
+<i>Situation critical.</i>
+
+232
+00:15:01,068 --> 00:15:02,903
+<i>Fuel cell approaching peak capacity.</i>
+
+233
+00:15:03,070 --> 00:15:04,446
+<i>Open up the Fuel Door, I.V.A.N.</i>
+
+234
+00:15:04,613 --> 00:15:06,156
+<i>I'm sorry. I didn't quite catch that.</i>
+
+235
+00:15:06,323 --> 00:15:08,617
+<i>-Please restate your command.
+-Open fuel door!</i>
+
+236
+00:15:10,327 --> 00:15:12,621
+<i>Detonation in five...</i>
+
+237
+00:15:12,788 --> 00:15:13,664
+<i>...four...</i>
+
+238
+00:15:13,830 --> 00:15:14,998
+<i>...three...</i>
+
+239
+00:15:15,165 --> 00:15:16,416
+<i>...two...</i>
+
+240
+00:15:16,625 --> 00:15:17,459
+<i>-...one.
+-Now!</i>
+
+241
+00:15:30,973 --> 00:15:32,432
+<i>Course corrected.</i>
+
+242
+00:15:32,516 --> 00:15:34,226
+<i>You failed to reach hyper-speed.</i>
+
+243
+00:15:34,852 --> 00:15:35,894
+<i>I didn't need to hear that, I.V.A.N.</i>
+
+244
+00:15:36,061 --> 00:15:37,020
+<i>You didn't hear that?</i>
+
+245
+00:15:37,187 --> 00:15:38,188
+<i>Oh, I'm sorry. I'll repeat.</i>
+
+246
+00:15:38,397 --> 00:15:40,649
+<i>-No, I've heard-- I meant--
+-You failed to reach hyper-speed.</i>
+
+247
+00:15:40,816 --> 00:15:41,859
+<i>-Thank you, I.V.A.N.
+-You failed to reach--</i>
+
+248
+00:16:03,839 --> 00:16:06,091
+Commander, are you okay?
+
+249
+00:16:06,550 --> 00:16:09,261
+Diaz, you grew a beard.
+
+250
+00:16:09,428 --> 00:16:10,637
+How did you grow a beard?
+
+251
+00:16:10,804 --> 00:16:11,847
+Oh, right.
+
+252
+00:16:12,472 --> 00:16:13,640
+First of, welcome back.
+
+253
+00:16:14,766 --> 00:16:15,851
+Secondly...
+
+254
+00:16:16,059 --> 00:16:16,977
+Wait.
+
+255
+00:16:17,352 --> 00:16:19,354
+Wait, what is this?
+
+256
+00:16:19,514 --> 00:16:20,974
+How long was I gone?
+
+257
+00:16:21,190 --> 00:16:23,150
+Four years, two months and three days.
+
+258
+00:16:23,650 --> 00:16:24,735
+What?
+
+259
+00:16:24,902 --> 00:16:26,069
+I thought we've lost you, Buzz.
+
+260
+00:16:26,236 --> 00:16:28,405
+Alisha, what happened?
+
+261
+00:16:28,780 --> 00:16:30,616
+-Time dilation.
+-What?
+
+262
+00:16:30,824 --> 00:16:32,659
+<i>Time dilation is quite simple.</i>
+
+263
+00:16:32,868 --> 00:16:36,705
+<i>As you approached hyper-speed,
+your time slowed relative to our own.</i>
+
+264
+00:16:36,872 --> 00:16:39,208
+<i>So, during your mission
+you aged only minutes,</i>
+
+265
+00:16:39,374 --> 00:16:41,251
+<i>while the rest of us
+have aged years.</i>
+
+266
+00:16:41,418 --> 00:16:43,045
+<i>Simply put:
+The faster you fly--</i>
+
+267
+00:16:43,212 --> 00:16:46,590
+The faster I fly
+the further into the future I travel.
+
+268
+00:16:46,757 --> 00:16:47,883
+I get it.
+
+269
+00:16:51,803 --> 00:16:53,514
+So, what are we gonna do now?
+
+270
+00:16:53,680 --> 00:16:54,806
+I don't know.
+
+271
+00:16:54,973 --> 00:16:57,392
+But I think we should hold off
+on any more test flights
+
+272
+00:16:57,642 --> 00:16:59,436
+until we've figured out something else.
+
+273
+00:16:59,520 --> 00:17:01,730
+Commander, we said finish the mission.
+
+274
+00:17:01,897 --> 00:17:03,106
+That's what Space Rangers do.
+
+275
+00:17:03,273 --> 00:17:04,691
+At what cost, Buzz?
+
+276
+00:17:04,858 --> 00:17:07,319
+Are you willing to lose another four years?
+
+277
+00:17:12,782 --> 00:17:15,953
+So, everyone is just stuck here
+
+278
+00:17:16,578 --> 00:17:18,121
+because of me.
+
+279
+00:17:27,923 --> 00:17:30,300
+Hey, you all right?
+
+280
+00:17:31,134 --> 00:17:33,053
+Yeah. Yeah. I'm fine.
+
+281
+00:17:33,720 --> 00:17:35,430
+Wait, what's that?
+
+282
+00:17:36,014 --> 00:17:37,850
+Oh, I got engaged.
+
+283
+00:17:38,016 --> 00:17:40,853
+Oh, wow. That's great.
+What's her name?
+
+284
+00:17:41,019 --> 00:17:43,647
+Kiko. She's one of the science crew.
+
+285
+00:17:44,391 --> 00:17:47,727
+It's funny, it never would've mattered
+if we hadn't been stranded.
+
+286
+00:17:48,277 --> 00:17:50,112
+You got engaged to someone you just met?
+
+287
+00:17:50,279 --> 00:17:53,031
+Buzz, I met her three years ago.
+
+288
+00:17:54,074 --> 00:17:55,409
+Oh, right. Right.
+
+289
+00:17:56,410 --> 00:17:57,870
+Well, Congratulations.
+I'd love to meet her.
+
+290
+00:17:58,154 --> 00:18:00,873
+Well, there's plenty of time for that.
+Get some rest.
+
+291
+00:18:01,790 --> 00:18:03,292
+That's an order.
+
+292
+00:18:09,381 --> 00:18:11,425
+YOU'RE WELCOME!
+ALISHA
+
+293
+00:18:26,773 --> 00:18:27,649
+<i>Hello, Buzz!</i>
+
+294
+00:18:29,067 --> 00:18:31,486
+<i>I am Sox.
+Your personal companion robot.</i>
+
+295
+00:18:31,553 --> 00:18:32,571
+My what?
+
+296
+00:18:32,738 --> 00:18:33,947
+<i>I was issued by star command</i>
+
+297
+00:18:34,156 --> 00:18:37,117
+<i>to ease your emotional transition
+after your time away.</i>
+
+298
+00:18:38,368 --> 00:18:40,954
+Oh, that's very considerate of you,
+robot feline.
+
+299
+00:18:41,121 --> 00:18:42,331
+But no thank you.
+
+300
+00:18:42,497 --> 00:18:44,249
+<i>I'm afraid it's protocol.</i>
+
+301
+00:18:44,875 --> 00:18:47,419
+<i>Sensors indicate
+you've missed four birthdays.</i>
+
+302
+00:18:47,586 --> 00:18:49,505
+<i>Would you like a frosted snack kit
+to celebrate?</i>
+
+303
+00:18:49,671 --> 00:18:52,299
+Negative. That would compromise
+my nutritional regiment.
+
+304
+00:18:55,260 --> 00:18:57,971
+<i>We can talk about your feelings.
+I am an excellent listener.</i>
+
+305
+00:18:58,180 --> 00:19:02,267
+No, no. Look,
+I've had a very long... day?
+
+306
+00:19:02,434 --> 00:19:03,727
+It did not go as planned.
+
+307
+00:19:03,894 --> 00:19:05,771
+<i>The mission was unsuccessful?</i>
+
+308
+00:19:06,230 --> 00:19:07,356
+Affirmative.
+
+309
+00:19:07,523 --> 00:19:10,984
+<i>Oh, no. I am so sorry to hear that.</i>
+
+310
+00:19:11,652 --> 00:19:12,945
+Thank you, Sox.
+
+311
+00:19:13,153 --> 00:19:14,404
+<i>You're welcome, Buzz.</i>
+
+312
+00:19:14,821 --> 00:19:15,989
+<i>Shall we play a game?</i>
+
+313
+00:19:16,149 --> 00:19:17,400
+-No, thank you.
+<i>-Are you sure?</i>
+
+314
+00:19:17,574 --> 00:19:20,953
+<i>I can create a game specifically for you,
+based on your exact personality profile.</i>
+
+315
+00:19:21,119 --> 00:19:23,580
+Hey, listen, Sox, buddy, I'm pretty tired.
+
+316
+00:19:23,747 --> 00:19:26,250
+So, I'm gonna go ahead
+and hit the rack.
+
+317
+00:19:26,416 --> 00:19:27,960
+<i>Of course.</i>
+
+318
+00:19:30,921 --> 00:19:32,965
+<i>I can provide sleep sounds if you like.</i>
+
+319
+00:19:33,173 --> 00:19:34,633
+<i>I have several options.</i>
+
+320
+00:19:34,800 --> 00:19:37,261
+<i>Summer night,
+ocean ​​paradise, whale calls.</i>
+
+321
+00:19:37,636 --> 00:19:39,263
+No, no. White noise is fine.
+
+322
+00:19:39,429 --> 00:19:40,430
+<i>Very well.</i>
+
+323
+00:19:40,597 --> 00:19:42,140
+-Good night, Sox.
+<i>-Good night, Buzz.</i>
+
+324
+00:19:48,268 --> 00:19:49,147
+<i>Pull up.</i>
+
+325
+00:19:49,731 --> 00:19:51,650
+<i>Pull up.</i>
+
+326
+00:19:52,025 --> 00:19:53,485
+<i>Captain Lightyear,
+do you need help?</i>
+
+327
+00:19:53,652 --> 00:19:54,653
+<i>No. I can do it.</i>
+
+328
+00:19:54,820 --> 00:19:55,821
+Buzz, are you sure?
+
+329
+00:19:55,988 --> 00:19:57,322
+<i>I'm afraid it's protocol.</i>
+
+330
+00:19:57,573 --> 00:19:58,699
+I can do it!
+
+331
+00:20:00,742 --> 00:20:01,743
+I can do it.
+
+332
+00:20:01,910 --> 00:20:03,996
+<i>Censors indicate you had a nightmare.</i>
+
+333
+00:20:04,162 --> 00:20:06,623
+<i>-Would you like to talk about it?</i>
+-Negative.
+
+334
+00:20:06,832 --> 00:20:09,376
+<i>Okay, but remember,
+my mission is to help you.</i>
+
+335
+00:20:09,585 --> 00:20:11,044
+<i>And I'm not giving up on my mission.</i>
+
+336
+00:20:11,253 --> 00:20:12,379
+Yeah?
+
+337
+00:20:13,255 --> 00:20:14,256
+Yeah.
+
+338
+00:20:14,423 --> 00:20:17,342
+You know what, Sox,
+I'm not giving up on my mission either.
+
+339
+00:20:17,843 --> 00:20:19,678
+<i>Great! So what can I do?</i>
+
+340
+00:20:19,845 --> 00:20:23,265
+Well, why won't you engage
+with your mouse buddy.
+
+341
+00:20:24,975 --> 00:20:26,894
+<i>Is there anything more challenging?</i>
+
+342
+00:20:27,060 --> 00:20:28,437
+You want a challenge? Okay.
+
+343
+00:20:28,979 --> 00:20:31,106
+I guess you could work
+on this fuel stability thing.
+
+344
+00:20:32,316 --> 00:20:34,610
+<i>Crystalic fusion. Of course.</i>
+
+345
+00:20:34,818 --> 00:20:36,111
+<i>When should I expect you back?</i>
+
+346
+00:20:36,737 --> 00:20:38,113
+About four years.
+
+347
+00:20:39,865 --> 00:20:41,825
+Hold on. You don't have to do this.
+
+348
+00:20:42,034 --> 00:20:43,619
+Commander, this is my mistake.
+
+349
+00:20:43,785 --> 00:20:45,078
+I need to make it right.
+
+350
+00:20:45,245 --> 00:20:47,456
+Okay, but maybe
+we should think about this.
+
+351
+00:20:47,623 --> 00:20:50,292
+Think about what?
+Come on, we're Space Rangers.
+
+352
+00:20:50,459 --> 00:20:52,044
+We finish the mission.
+
+353
+00:20:53,712 --> 00:20:55,589
+Well, it would be nice
+to wear the suit again.
+
+354
+00:20:55,756 --> 00:20:58,258
+People are starting to forget
+Space Rangers ever mattered.
+
+355
+00:20:58,425 --> 00:21:00,677
+<i>Well, I'm about to fix that.</i>
+
+356
+00:21:00,844 --> 00:21:02,137
+<i>To infinity.</i>
+
+357
+00:21:02,596 --> 00:21:03,764
+And beyond.
+
+358
+00:21:10,521 --> 00:21:11,772
+UNSTABLE
+
+359
+00:22:17,588 --> 00:22:21,884
+HAPPY 40TH ANNIVERSARY
+
+360
+00:22:27,431 --> 00:22:27,931
+UNSTABLE
+
+361
+00:22:54,625 --> 00:22:55,709
+<i>Hi, Buzz.</i>
+
+362
+00:22:57,794 --> 00:23:00,005
+<i>You're back here
+in a year or two...</i>
+
+363
+00:23:00,547 --> 00:23:03,967
+<i>and, well, I won't.</i>
+
+364
+00:23:04,718 --> 00:23:06,386
+<i>I don't know when it happened</i>
+
+365
+00:23:06,553 --> 00:23:10,516
+<i>but I seem to have gone
+and gotten very old.</i>
+
+366
+00:23:11,767 --> 00:23:15,187
+<i>I always thought we'd get to be
+Space Rangers again.</i>
+
+367
+00:23:16,021 --> 00:23:19,274
+<i>I miss being out
+among the stars.</i>
+
+368
+00:23:19,733 --> 00:23:21,360
+<i>All the adventures.</i>
+
+369
+00:23:24,029 --> 00:23:26,031
+<i>But more than any of that</i>
+
+370
+00:23:27,241 --> 00:23:28,242
+<i>I missed you.</i>
+
+371
+00:23:30,661 --> 00:23:31,787
+<i>Hi, Grandma.</i>
+
+372
+00:23:32,371 --> 00:23:34,581
+<i>Hey, sweetheart.</i>
+
+373
+00:23:34,748 --> 00:23:37,459
+<i>I'm leaving a message
+for my friend, Buzz.</i>
+
+374
+00:23:37,626 --> 00:23:38,627
+<i>The Space Ranger?</i>
+
+375
+00:23:39,211 --> 00:23:40,712
+<i>That's right.</i>
+
+376
+00:23:40,921 --> 00:23:42,631
+<i>He's in space right now.</i>
+
+377
+00:23:42,798 --> 00:23:43,799
+<i>Wow.</i>
+
+378
+00:23:43,966 --> 00:23:46,093
+<i>This is my granddaughter, Izzy.</i>
+
+379
+00:23:46,260 --> 00:23:48,220
+<i>I'm gonna be a Space Ranger too.</i>
+
+380
+00:23:48,387 --> 00:23:49,388
+<i>Just like him?</i>
+
+381
+00:23:49,930 --> 00:23:50,931
+<i>Just like you.</i>
+
+382
+00:23:55,352 --> 00:23:56,687
+<i>Goodbye, Buzz.</i>
+
+383
+00:23:57,229 --> 00:24:01,233
+<i>I'm sorry I won't be there
+to see you finish the mission.</i>
+
+384
+00:24:04,278 --> 00:24:05,571
+<i>To infinity.</i>
+
+385
+00:24:08,448 --> 00:24:09,449
+And beyond.
+
+386
+00:24:44,359 --> 00:24:47,237
+Knock. Knock. Sorry to interrupt.
+I'm just moving into my new-
+
+387
+00:24:49,740 --> 00:24:52,743
+Look at that!
+The actual Buzz Lightyear in the flesh.
+
+388
+00:24:52,910 --> 00:24:53,911
+Affirmative.
+
+389
+00:24:54,130 --> 00:24:55,548
+Commander Cal Burnside.
+
+390
+00:24:55,662 --> 00:24:57,414
+I was a big fan of your when I was a kid.
+
+391
+00:24:57,581 --> 00:25:01,585
+Well, then I look forward to working
+with you to finally get us out of here.
+
+392
+00:25:03,045 --> 00:25:04,379
+Did no one tell you?
+
+393
+00:25:04,546 --> 00:25:05,756
+Tell me what?
+
+394
+00:25:05,923 --> 00:25:07,174
+Yeah.
+
+395
+00:25:08,870 --> 00:25:10,288
+That was the last mission, Buzz.
+
+396
+00:25:10,386 --> 00:25:11,238
+What?
+
+397
+00:25:11,322 --> 00:25:13,430
+We've decided we gonna go ahead
+and stay right here.
+
+398
+00:25:13,597 --> 00:25:15,933
+Wait, here? Negative,
+that is not a viable option.
+
+399
+00:25:16,099 --> 00:25:19,061
+It is now. See, we're building this.
+
+400
+00:25:20,479 --> 00:25:22,105
+Laser shield.
+
+401
+00:25:22,856 --> 00:25:24,525
+It'll keep all the creeters out.
+
+402
+00:25:24,691 --> 00:25:27,903
+And we'll just tuck right in here
+and make do with what we've got.
+
+403
+00:25:28,070 --> 00:25:30,864
+Make do? No. Wait.
+But you don't understand, Commander.
+
+404
+00:25:31,031 --> 00:25:33,492
+I can still do it.
+I can get us outta here.
+
+405
+00:25:33,659 --> 00:25:35,577
+Man, it's great you still believe that.
+
+406
+00:25:35,744 --> 00:25:36,995
+But we're good, Buzz.
+
+407
+00:25:37,079 --> 00:25:38,956
+Got the laser shield.
+
+408
+00:25:44,294 --> 00:25:45,754
+<i>Oh. Hello, Buzz.</i>
+
+409
+00:25:47,589 --> 00:25:48,590
+<i>Buzz?</i>
+
+410
+00:25:53,053 --> 00:25:55,597
+<i>Well, I've got some good news, Buzz.</i>
+
+411
+00:25:56,265 --> 00:25:58,183
+<i>I figured out the fuel problem.</i>
+
+412
+00:25:58,517 --> 00:25:59,601
+What?
+
+413
+00:25:59,768 --> 00:26:01,562
+<i>It was an interesting combination.</i>
+
+414
+00:26:01,728 --> 00:26:04,481
+<i>Just the slightest variance,
+but that made all the difference.</i>
+
+415
+00:26:04,648 --> 00:26:07,276
+Sox, how did you do this?
+
+416
+00:26:07,442 --> 00:26:11,530
+<i>It took me 62 years, seven months
+and five days.</i>
+
+417
+00:26:11,697 --> 00:26:13,031
+And it's stable?
+
+418
+00:26:13,198 --> 00:26:14,241
+<i>Theoretically.</i>
+
+419
+00:26:15,033 --> 00:26:17,828
+<i>I look forward to finding out
+on your next mission.</i>
+
+420
+00:26:19,079 --> 00:26:20,289
+Yeah...
+
+421
+00:26:23,959 --> 00:26:24,960
+What?
+
+422
+00:26:25,127 --> 00:26:27,546
+Evening, Captain. We're here
+to pick up your companion robot.
+
+423
+00:26:27,963 --> 00:26:29,131
+What do you mean?
+
+424
+00:26:29,298 --> 00:26:31,592
+Security purposes.
+You understand.
+
+425
+00:26:31,758 --> 00:26:33,510
+No, actually, I don't.
+
+426
+00:26:33,677 --> 00:26:36,889
+Shutting down the program,
+So, we have to decommission your cat.
+
+427
+00:26:37,055 --> 00:26:38,265
+It'll just take a second.
+
+428
+00:26:38,682 --> 00:26:39,850
+Now, hold on, just...
+
+429
+00:26:43,562 --> 00:26:45,063
+At least let me do it.
+
+430
+00:26:55,240 --> 00:26:56,241
+Whoa?
+
+431
+00:27:01,788 --> 00:27:03,165
+<i>Buzz. Where are we going?</i>
+
+432
+00:27:03,332 --> 00:27:04,333
+We're going to space.
+
+433
+00:27:04,499 --> 00:27:05,626
+<i>What?</i>
+
+434
+00:27:06,919 --> 00:27:08,837
+<i>Buzz Lightyear mission log. Star date...</i>
+
+435
+00:27:09,004 --> 00:27:10,005
+<i>I have no idea.</i>
+
+436
+00:27:10,172 --> 00:27:12,257
+<i>In possession of stable fuel formula</i>
+
+437
+00:27:12,424 --> 00:27:15,135
+<i>I plan to reach hyper-speed
+and this time finally finish the mission.</i>
+
+438
+00:27:15,302 --> 00:27:16,637
+<i>Who are you talking to?</i>
+
+439
+00:27:16,803 --> 00:27:17,804
+<i>Doesn't matter.</i>
+
+440
+00:27:18,597 --> 00:27:21,475
+<i>Buzz, my programming compels me
+to notify Star Command that you have gone--</i>
+
+441
+00:27:21,642 --> 00:27:23,227
+<i>Star Command was gonna decommission you.</i>
+
+442
+00:27:23,393 --> 00:27:24,311
+<i>-What?
+-That's right.</i>
+
+443
+00:27:24,478 --> 00:27:26,188
+<i>Lights out.
+No more Sox.</i>
+
+444
+00:27:27,564 --> 00:27:29,149
+Hey! You're not authorized
+to be in this area--
+
+445
+00:27:31,735 --> 00:27:33,612
+<i>Whoa, I didn't know you could do that.</i>
+
+446
+00:27:33,779 --> 00:27:36,114
+<i>Wait a minute, was that for me
+in case I got out of line?</i>
+
+447
+00:27:36,281 --> 00:27:37,407
+<i>I bought you five minutes.</i>
+
+448
+00:27:52,714 --> 00:27:54,842
+<i>-All right, Sox, give me the first one.
+-Roger.</i>
+
+449
+00:28:11,358 --> 00:28:12,901
+<i>Okay, here it goes.</i>
+
+450
+00:28:16,446 --> 00:28:17,698
+<i>Wow.</i>
+
+451
+00:28:20,868 --> 00:28:22,202
+<i>The formula!</i>
+
+452
+00:28:47,060 --> 00:28:50,063
+Tango to Base. Tango to Base.
+Security breach in the launch peg.
+
+453
+00:28:50,397 --> 00:28:51,398
+<i>Blast.</i>
+
+454
+00:28:51,565 --> 00:28:54,026
+We have a guard down. Repeat.
+We have a guard down.
+
+455
+00:28:56,987 --> 00:28:57,988
+<i>Okay.</i>
+
+456
+00:28:58,488 --> 00:28:59,323
+<i>Hello.</i>
+
+457
+00:28:59,489 --> 00:29:02,200
+<i>-I'm your internal voice-activated navigator.
+-No! I.V.A.N.! No.</i>
+
+458
+00:29:02,284 --> 00:29:03,410
+-Do you hear that?
+<i>-Call me I.V.A.N.</i>
+
+459
+00:29:03,577 --> 00:29:06,038
+Mission Control,
+activity detected in XL-15.
+
+460
+00:29:06,538 --> 00:29:07,581
+<i>Investigating.</i>
+
+461
+00:29:07,748 --> 00:29:08,749
+Roger that.
+
+462
+00:29:08,916 --> 00:29:10,626
+XL-15, this is the control.
+
+463
+00:29:10,792 --> 00:29:11,960
+<i>Is there someone in there?</i>
+
+464
+00:29:12,127 --> 00:29:13,712
+<i>-Say something.
+-XL-15.</i>
+
+465
+00:29:13,879 --> 00:29:15,088
+<i>Please respond.</i>
+
+466
+00:29:15,255 --> 00:29:19,092
+<i>Copy, control.
+Just... the cleaning crew.</i>
+
+467
+00:29:19,259 --> 00:29:22,513
+<i>We're cleaning the cockpit.
+Cleaning items in here?</i>
+
+468
+00:29:22,971 --> 00:29:26,517
+Commander, did we authorize
+the cockpit cleaning for the XL-15?
+
+469
+00:29:26,683 --> 00:29:28,268
+What? No.
+
+470
+00:29:31,897 --> 00:29:33,690
+-Stop! Come back!
+-Wait!
+
+471
+00:29:34,942 --> 00:29:38,195
+XL-15, you are in violation
+of Star Command protocol.
+
+472
+00:29:38,362 --> 00:29:39,571
+<i>Cease your actions immediately.</i>
+
+473
+00:29:42,157 --> 00:29:43,575
+<i>Open this hatch!</i>
+
+474
+00:29:43,742 --> 00:29:46,453
+Commander, it's Captain Lightyear.
+
+475
+00:29:46,620 --> 00:29:48,830
+Wait? What? Lightyear?
+Get him out of there!
+
+476
+00:29:49,748 --> 00:29:51,542
+Stop right now and put your hands
+over your head!
+
+477
+00:29:57,214 --> 00:29:58,048
+Back up.
+
+478
+00:29:58,215 --> 00:29:59,591
+<i>-We need back up.</i>
+-Get the Zap patrol.
+
+479
+00:30:02,594 --> 00:30:03,720
+<i>All right, team. Let's go.</i>
+
+480
+00:30:07,683 --> 00:30:10,853
+Override the silo doors.
+He isn't going anywhere.
+
+481
+00:30:13,313 --> 00:30:14,147
+<i>Blast.</i>
+
+482
+00:30:14,481 --> 00:30:16,024
+<i>Unauthorized.</i>
+
+483
+00:30:20,779 --> 00:30:22,906
+<i>-Unauthorized.
+-Come on, we're sitting ducks here.</i>
+
+484
+00:30:23,073 --> 00:30:24,074
+<i>Allow me.</i>
+
+485
+00:30:28,078 --> 00:30:30,372
+-Wait, what's happening?
+-He overrode my override.
+
+486
+00:30:30,539 --> 00:30:31,373
+How?
+
+487
+00:30:44,219 --> 00:30:45,721
+Lightyear!
+
+488
+00:30:45,888 --> 00:30:46,930
+<i>I know you can hear me.</i>
+
+489
+00:30:47,097 --> 00:30:48,307
+Return the ship to base right now!
+
+490
+00:30:48,473 --> 00:30:49,308
+<i>Or so help me--</i>
+
+491
+00:30:49,474 --> 00:30:52,561
+<i>Sox, let's break this hyper-speed barrier
+and get everyone home.</i>
+
+492
+00:31:04,615 --> 00:31:07,743
+<i>Approaching 70 percent hyper-speed.</i>
+
+493
+00:31:13,123 --> 00:31:15,792
+<i>Approaching 80 percent hyper-speed.</i>
+
+494
+00:31:16,168 --> 00:31:17,252
+<i>Fuel stable.</i>
+
+495
+00:31:18,921 --> 00:31:21,465
+<i>Ninety percent hyper-speed.</i>
+
+496
+00:31:27,930 --> 00:31:31,141
+<i>One hundred percent hyper-speed.</i>
+
+497
+00:31:49,993 --> 00:31:51,703
+<i>Congratulations, Captain Lightyear.</i>
+
+498
+00:31:51,870 --> 00:31:53,789
+<i>You have achieved hyper-speed.</i>
+
+499
+00:31:57,167 --> 00:31:58,877
+<i>We did it.
+Sox, we did it!</i>
+
+500
+00:31:59,044 --> 00:32:00,212
+<i>Congratulations, Buzz.</i>
+
+501
+00:32:00,379 --> 00:32:02,798
+<i>That was utterly terrifying,
+and I regret having joined you.</i>
+
+502
+00:32:02,965 --> 00:32:04,007
+<i>No, no.</i>
+
+503
+00:32:06,176 --> 00:32:07,177
+<i>What is it, Buzz?</i>
+
+504
+00:32:07,344 --> 00:32:08,887
+<i>Our velocity is still extremely high.</i>
+
+505
+00:32:09,054 --> 00:32:10,472
+<i>What? Oh no!</i>
+
+506
+00:32:10,639 --> 00:32:11,640
+<i>Are we gonna crash?</i>
+
+507
+00:32:11,807 --> 00:32:12,808
+<i>No.</i>
+
+508
+00:32:12,975 --> 00:32:15,352
+<i>Well, technically yes.
+Just hang on.</i>
+
+509
+00:32:34,705 --> 00:32:37,499
+<i>After all these years.
+Thank you, Sox.</i>
+
+510
+00:32:41,879 --> 00:32:43,088
+<i>Mission log, supplemental.</i>
+
+511
+00:32:43,922 --> 00:32:46,633
+<i>After borrowing a ship from Star Command
+I've achieved hyper-speed.</i>
+
+512
+00:32:46,800 --> 00:32:49,595
+<i>And I'm ready to finally leave
+this planet once and for all.</i>
+
+513
+00:32:51,638 --> 00:32:53,891
+<i>Buzz Lightyear to Star Command.
+Come in, Star Command.</i>
+
+514
+00:32:54,892 --> 00:32:56,101
+<i>Star Command, come in.</i>
+
+515
+00:32:56,727 --> 00:32:58,103
+<i>Why don't they answer?</i>
+
+516
+00:32:58,937 --> 00:32:59,938
+<i>Hey!</i>
+
+517
+00:33:00,105 --> 00:33:01,106
+<i>The robots.</i>
+
+518
+00:33:01,565 --> 00:33:02,441
+<i>The what?</i>
+
+519
+00:33:02,983 --> 00:33:04,776
+<i>The robots.</i>
+
+520
+00:33:20,876 --> 00:33:22,002
+<i>Wait, what's it doing?</i>
+
+521
+00:33:22,441 --> 00:33:23,555
+<i>Zurg.</i>
+
+522
+00:33:25,964 --> 00:33:27,382
+<i>-My ship!
+-Be quiet.</i>
+
+523
+00:33:27,549 --> 00:33:28,550
+<i>Where'd it go?</i>
+
+524
+00:33:29,551 --> 00:33:30,552
+<i>Up there.</i>
+
+525
+00:34:11,078 --> 00:34:12,449
+<i>Zurg.</i>
+
+526
+00:34:20,768 --> 00:34:22,228
+<i>Where is the pilot?</i>
+
+527
+00:34:23,813 --> 00:34:25,065
+What is that?
+What is going on?
+
+528
+00:34:25,232 --> 00:34:26,525
+<i>Get down.</i>
+
+529
+00:34:29,695 --> 00:34:31,405
+<i>Shoot! Come on.</i>
+
+530
+00:34:35,033 --> 00:34:36,577
+<i>They must have seen
+your ship land too.</i>
+
+531
+00:34:36,784 --> 00:34:38,328
+-Who?
+<i>-The robots.</i>
+
+532
+00:34:38,495 --> 00:34:41,206
+Why are there robots?
+Where did the robots come from?
+
+533
+00:34:41,373 --> 00:34:42,248
+<i>Where did you come from?</i>
+
+534
+00:34:42,416 --> 00:34:43,208
+I came from here.
+
+535
+00:34:43,375 --> 00:34:44,751
+<i>Here? Wait.</i>
+
+536
+00:34:49,505 --> 00:34:50,507
+<i>Buzz?</i>
+
+537
+00:34:52,301 --> 00:34:53,177
+Alisha?
+
+538
+00:34:54,094 --> 00:34:56,263
+Oh, no, that's my grandmother. I'm Izzy.
+
+539
+00:34:56,429 --> 00:34:57,431
+Izzy?
+
+540
+00:34:58,515 --> 00:35:00,309
+But you were just a little...
+
+541
+00:35:00,475 --> 00:35:01,560
+Sox, how long
+were we gone?
+
+542
+00:35:01,727 --> 00:35:02,728
+<i>Meow meow.</i>
+
+543
+00:35:02,895 --> 00:35:05,314
+<i>Twenty-two years, 19 weeks and four days.</i>
+
+544
+00:35:05,480 --> 00:35:06,481
+Wow.
+
+545
+00:35:06,648 --> 00:35:07,649
+Wait.
+
+546
+00:35:09,234 --> 00:35:10,360
+Come on.
+
+547
+00:35:12,446 --> 00:35:13,530
+In here.
+
+548
+00:35:18,243 --> 00:35:19,244
+I thought I heard one.
+
+549
+00:35:19,453 --> 00:35:20,787
+-A robot?
+-Yeah.
+
+550
+00:35:21,330 --> 00:35:22,331
+Impressive.
+
+551
+00:35:22,497 --> 00:35:24,291
+Well, I am a Hawthorne.
+
+552
+00:35:24,458 --> 00:35:25,459
+You sure are.
+
+553
+00:35:25,626 --> 00:35:28,462
+You know, your grandma and I could
+practically finish each other's sentences.
+
+554
+00:35:28,629 --> 00:35:30,797
+If you're anything like her,
+you and I are gonna make--
+
+555
+00:35:30,964 --> 00:35:32,466
+-...a great team.
+-...some robots cry.
+
+556
+00:35:33,467 --> 00:35:34,593
+Okay...
+
+557
+00:35:35,135 --> 00:35:37,596
+So, get me up to speed on this.
+
+558
+00:35:37,763 --> 00:35:40,182
+Right. The Zurg ship showed up
+about a week ago.
+
+559
+00:35:40,349 --> 00:35:41,350
+What's a Zurg?
+
+560
+00:35:42,038 --> 00:35:45,312
+That's the only thing the robots say,
+so that's what we call the big ship.
+
+561
+00:35:45,479 --> 00:35:49,525
+The Zurg ship arrived,
+the robots surrounded the base, and then...
+
+562
+00:35:49,691 --> 00:35:53,070
+<i>Citizens of T'kani Prime,
+robot aliens have attacked.</i>
+
+563
+00:35:53,237 --> 00:35:54,821
+<i>Everyone inside the perimeter.</i>
+
+564
+00:35:54,988 --> 00:35:55,864
+<i>Look out!</i>
+
+565
+00:35:56,031 --> 00:35:58,116
+<i>We are activating
+the laser shield immediately.</i>
+
+566
+00:35:59,826 --> 00:36:01,620
+And that's the last we heard.
+
+567
+00:36:04,039 --> 00:36:06,750
+All these people,
+they were counting on me.
+
+568
+00:36:07,960 --> 00:36:09,628
+And now they're trapped.
+
+569
+00:36:09,878 --> 00:36:13,757
+We've tried to reach them,
+but there's no communication, in or out.
+
+570
+00:36:13,924 --> 00:36:14,925
+Sox?
+
+571
+00:36:15,092 --> 00:36:16,844
+<i>Meow meow.
+She's correct.</i>
+
+572
+00:36:17,629 --> 00:36:19,464
+Did you check me against your cat?
+
+573
+00:36:19,638 --> 00:36:21,473
+Well, he's not your standard-issue feline.
+
+574
+00:36:21,640 --> 00:36:23,642
+Actually, Sox was a gift
+from your grandmother.
+
+575
+00:36:23,809 --> 00:36:25,936
+<i>-Hello, Izzy.</i>
+-Hello, Sox.
+
+576
+00:36:27,229 --> 00:36:29,690
+Hey, what's that noise?
+Come on, don't break my cat.
+
+577
+00:36:29,857 --> 00:36:31,608
+He's purring.
+He likes it.
+
+578
+00:36:31,775 --> 00:36:32,776
+Sox, do you like it?
+
+579
+00:36:32,943 --> 00:36:33,944
+<i>I do.</i>
+
+580
+00:36:35,028 --> 00:36:38,031
+Well, I hope you're ready for action.
+Because all we needed was a pilot.
+
+581
+00:36:38,198 --> 00:36:39,199
+For what?
+
+582
+00:36:39,366 --> 00:36:41,410
+I have a plan and I have a team.
+
+583
+00:36:44,496 --> 00:36:45,664
+<i>Come on!</i>
+
+584
+00:37:11,732 --> 00:37:13,692
+All right, team, fall in.
+
+585
+00:37:17,237 --> 00:37:20,574
+I found a pilot.
+Operation Surprise Party is a go.
+
+586
+00:37:23,327 --> 00:37:26,663
+I like this. An elite squad.
+The best of the best.
+
+587
+00:37:26,830 --> 00:37:30,584
+You know, her grandmother was the greatest
+Space Ranger in the history of the Corps.
+
+588
+00:37:30,751 --> 00:37:32,044
+It will be an honor
+to work with you.
+
+589
+00:37:32,211 --> 00:37:33,837
+Come on, gather round, team.
+
+590
+00:37:36,757 --> 00:37:37,966
+Let's review our objectives.
+
+591
+00:37:38,133 --> 00:37:39,134
+<i>Kill the robots.</i>
+
+592
+00:37:39,301 --> 00:37:40,302
+<i>And don't die.</i>
+
+593
+00:37:40,844 --> 00:37:43,597
+<i>"Don't die" is just something
+you wanna do every day.</i>
+
+594
+00:37:43,764 --> 00:37:44,765
+<i>It's still an objective.</i>
+
+595
+00:37:44,932 --> 00:37:46,767
+If I may, we have one objective.
+
+596
+00:37:46,934 --> 00:37:49,853
+We need to put this crystal
+in the turnip and get outta here.
+
+597
+00:37:50,270 --> 00:37:52,606
+So, to do that we have
+to get onto the base.
+
+598
+00:37:52,773 --> 00:37:55,108
+<i>To do that we have to kill
+all the robots.</i>
+
+599
+00:37:55,275 --> 00:37:57,611
+To do that we have to destroy
+the Zurg ship.
+
+600
+00:37:57,778 --> 00:38:00,572
+<i>And to do any of that
+we have to not die.</i>
+
+601
+00:38:02,465 --> 00:38:03,324
+DERIC
+
+602
+00:38:03,408 --> 00:38:05,661
+<i>Allow me to explain
+Operation Surprise Party.</i>
+
+603
+00:38:05,827 --> 00:38:08,580
+<i>It is a variation
+on Operation Thunder Spear.</i>
+
+604
+00:38:08,747 --> 00:38:09,998
+Didn't you get a medal for that one?
+
+605
+00:38:10,165 --> 00:38:11,792
+Two, actually, but...
+
+606
+00:38:12,125 --> 00:38:14,169
+Wait, how do you know
+about Operation Thunder Spear?
+
+607
+00:38:14,336 --> 00:38:16,922
+I've read all my grandma's
+Space Ranger books, from cover to cover.
+
+608
+00:38:17,089 --> 00:38:18,131
+Twice.
+
+609
+00:38:19,835 --> 00:38:21,419
+<i>Excuse me, robot kitty.</i>
+
+610
+00:38:21,593 --> 00:38:22,594
+<i>Oh, sorry.</i>
+
+611
+00:38:23,512 --> 00:38:27,182
+<i>Sensors have indicated that the Zurg ship
+powers the robots on the ground.</i>
+
+612
+00:38:27,349 --> 00:38:31,436
+So, we fly up there, we blow up the ship.
+And surprise, robots!
+
+613
+00:38:31,603 --> 00:38:32,729
+You're toast.
+
+614
+00:38:32,896 --> 00:38:34,940
+Then, we put your crystal in the turnip.
+
+615
+00:38:35,107 --> 00:38:36,525
+And finish the mission.
+
+616
+00:38:37,276 --> 00:38:39,820
+It's a good plan.
+To infinity.
+
+617
+00:38:41,405 --> 00:38:42,698
+Are you trying to get me
+to pull your finger?
+
+618
+00:38:42,865 --> 00:38:43,866
+<i>Don't fall for it.</i>
+
+619
+00:38:44,032 --> 00:38:45,492
+No, not like that, it was...
+
+620
+00:38:46,243 --> 00:38:48,370
+Sorry, it's a thing your grandma
+and I used to do.
+
+621
+00:38:48,537 --> 00:38:49,538
+<i>Ew.</i>
+
+622
+00:38:50,122 --> 00:38:51,790
+I-- We were never--
+She didn't mean to...
+
+623
+00:38:51,957 --> 00:38:53,166
+Anyway, forget it. Moving on.
+
+624
+00:38:54,543 --> 00:38:56,391
+Let's load these munitions
+into the Armadillo
+
+625
+00:38:56,475 --> 00:38:57,796
+and steel ourselves for combat.
+
+626
+00:38:57,880 --> 00:39:00,591
+Operation Surprise Party is on.
+
+627
+00:39:01,717 --> 00:39:03,218
+<i>Buzz, do you hear that?</i>
+
+628
+00:39:03,635 --> 00:39:04,636
+I hear something.
+
+629
+00:39:07,472 --> 00:39:08,599
+You think it's a robot?
+
+630
+00:39:08,765 --> 00:39:11,101
+<i>Nah, we've never seen a robot
+this far from the base.</i>
+
+631
+00:39:11,268 --> 00:39:12,269
+I don't hear anything.
+
+632
+00:39:13,145 --> 00:39:14,146
+Now I do.
+
+633
+00:39:17,437 --> 00:39:18,577
+<i>Zurg.</i>
+
+634
+00:39:22,779 --> 00:39:24,198
+Don't worry, we got you.
+
+635
+00:39:28,160 --> 00:39:28,994
+What?
+
+636
+00:39:29,161 --> 00:39:30,454
+TRAINING AMMO
+
+637
+00:39:31,288 --> 00:39:33,540
+Fear not!
+The Junior Patrol has your back.
+
+638
+00:39:33,707 --> 00:39:34,708
+The Junior what?
+
+639
+00:39:39,004 --> 00:39:40,047
+No! The ship!
+
+640
+00:39:46,762 --> 00:39:47,596
+<i>Did I get it?</i>
+
+641
+00:39:47,763 --> 00:39:48,555
+Pretty close.
+
+642
+00:39:48,722 --> 00:39:50,140
+Sorry, I'm not trained with this weapon.
+
+643
+00:39:50,307 --> 00:39:51,099
+Let me reload.
+
+644
+00:39:51,266 --> 00:39:53,435
+Not trained? Wait, what do you mean
+you're "not trained"?
+
+645
+00:40:05,739 --> 00:40:07,199
+You there. Grab it! Grab it!
+
+646
+00:40:07,366 --> 00:40:09,701
+Grab what?
+
+647
+00:40:09,861 --> 00:40:11,530
+I'm not allowed to handle weapons
+
+648
+00:40:11,703 --> 00:40:13,539
+the violation of my parole.
+
+649
+00:40:13,705 --> 00:40:14,498
+Parole?
+
+650
+00:40:14,665 --> 00:40:15,249
+Buzz!
+
+651
+00:40:15,415 --> 00:40:16,166
+Izzy! Now!
+
+652
+00:40:20,462 --> 00:40:21,547
+No!
+
+653
+00:40:21,713 --> 00:40:22,965
+Okay, new plan.
+
+654
+00:40:23,173 --> 00:40:24,925
+New plan?
+What was the old plan?
+
+655
+00:40:25,092 --> 00:40:26,677
+I need the--
+Anyone seen the harpoons?
+
+656
+00:40:33,350 --> 00:40:35,185
+They came preloaded with a harpoon,
+but I can't find--
+
+657
+00:40:35,352 --> 00:40:36,478
+Oh, I found it.
+
+658
+00:40:36,645 --> 00:40:39,356
+I found the harpoons.
+I'm gonna reload it now. Check this out.
+
+659
+00:40:49,199 --> 00:40:50,033
+Did I get it?
+
+660
+00:40:50,200 --> 00:40:50,993
+A little to the left.
+
+661
+00:41:16,935 --> 00:41:17,936
+What?
+
+662
+00:41:21,565 --> 00:41:22,399
+Did I get it?
+
+663
+00:41:22,566 --> 00:41:23,650
+You got it.
+
+664
+00:41:23,817 --> 00:41:24,860
+Yes!
+
+665
+00:41:27,487 --> 00:41:28,780
+<i>Boom.</i>
+
+666
+00:41:57,184 --> 00:42:00,562
+Okay, okay. What exactly-- How did that--
+
+667
+00:42:00,729 --> 00:42:01,730
+Who are you?
+
+668
+00:42:01,897 --> 00:42:04,066
+We're the Junior Patrol,
+at your service.
+
+669
+00:42:04,233 --> 00:42:06,610
+Right, I'm gonna need more information.
+
+670
+00:42:06,777 --> 00:42:09,655
+We are a volunteer team
+of self-motivated cadets.
+
+671
+00:42:09,821 --> 00:42:12,699
+We train one week in a month
+here at the outpost.
+
+672
+00:42:12,852 --> 00:42:14,973
+Mo and Darby and I
+were the first to arrive last weekend
+
+673
+00:42:15,071 --> 00:42:16,328
+when the robots showed up.
+
+674
+00:42:16,495 --> 00:42:19,289
+So, we cooked up
+Operation Surprise Party.
+
+675
+00:42:19,456 --> 00:42:20,874
+So, you are rookies?
+
+676
+00:42:21,041 --> 00:42:24,461
+Boy, we'd love to be rookies,
+still building up to that.
+
+677
+00:42:24,795 --> 00:42:26,922
+Okay. Do you have munitions training?
+
+678
+00:42:27,089 --> 00:42:28,340
+-Partial.
+-Tactical engagement?
+
+679
+00:42:28,507 --> 00:42:29,716
+-Pending.
+-Combat experience?
+
+680
+00:42:29,883 --> 00:42:33,053
+Yes! If you count the robot situation
+we just went through.
+
+681
+00:42:33,220 --> 00:42:34,888
+Okay. Come on, Sox.
+
+682
+00:42:35,055 --> 00:42:36,139
+What are you doing?
+
+683
+00:42:36,306 --> 00:42:37,793
+Look, you seem nice people.
+
+684
+00:42:37,877 --> 00:42:40,518
+I'm very supportive
+of your training initiatives.
+
+685
+00:42:40,602 --> 00:42:42,563
+But I'm gonna go ahead
+and take it from here.
+
+686
+00:42:42,729 --> 00:42:44,481
+We just saved you from that robot.
+
+687
+00:42:44,648 --> 00:42:46,608
+-Excuse me?
+-Mo made the kill shot.
+
+688
+00:42:46,900 --> 00:42:48,068
+Mo got lucky.
+
+689
+00:42:48,235 --> 00:42:49,236
+Very.
+
+690
+00:42:49,945 --> 00:42:52,698
+So, if you could just point me
+in the direction of another ship.
+
+691
+00:42:52,865 --> 00:42:56,243
+<i>There are operational spacecrafts
+at the abandoned storage depot.</i>
+
+692
+00:42:56,410 --> 00:42:57,619
+Great. Where is that?
+
+693
+00:42:57,786 --> 00:43:01,206
+<i>The storage depot is directly adjacent
+to the Resource Reconstituting Center,</i>
+
+694
+00:43:01,373 --> 00:43:04,751
+<i>which is 4.2 kilometers
+from your current location.</i>
+
+695
+00:43:04,918 --> 00:43:06,253
+Great. Where is that?
+
+696
+00:43:06,420 --> 00:43:07,796
+<i>It's actually quite simple.</i>
+
+697
+00:43:07,963 --> 00:43:09,298
+Okay.
+
+698
+00:43:10,674 --> 00:43:12,885
+<i>You will first head south
+towards the base.</i>
+
+699
+00:43:13,051 --> 00:43:15,012
+<i>After two stop lights you will--</i>
+
+700
+00:43:15,637 --> 00:43:18,515
+<i>Wait, that is not right.
+That is a dead end.</i>
+
+701
+00:43:18,682 --> 00:43:21,018
+<i>Oh, I see, I was in the wrong spot.</i>
+
+702
+00:43:21,185 --> 00:43:23,395
+<i>Apologies. I will start over.</i>
+
+703
+00:43:23,562 --> 00:43:25,967
+<i>You will first head south
+towards the base.</i>
+
+704
+00:43:26,081 --> 00:43:30,110
+<i>After two stop lights
+you'll take a gentle left and--</i>
+
+705
+00:43:30,194 --> 00:43:32,362
+<i>Shoot. I have made another error.</i>
+
+706
+00:43:32,529 --> 00:43:33,530
+We'll just show you.
+
+707
+00:43:33,697 --> 00:43:34,720
+<i>Allow me to restart.</i>
+
+708
+00:43:34,807 --> 00:43:37,158
+<i>You will first head south
+towards the base.</i>
+
+709
+00:43:37,242 --> 00:43:41,079
+<i>After two stop lights
+you'll take a hard right...</i>
+
+710
+00:43:41,413 --> 00:43:43,165
+<i>Buzz Lightyear supplemental mission log.</i>
+
+711
+00:43:43,332 --> 00:43:44,891
+Having finally achieved hyper-speed
+
+712
+00:43:44,975 --> 00:43:47,544
+I now have an additional obstacle
+in my way.
+
+713
+00:43:47,628 --> 00:43:52,591
+In order to flee this planet I'll have
+to destroy a massive alien ship alone.
+
+714
+00:43:52,758 --> 00:43:54,384
+with no assistance of any kind.
+
+715
+00:43:54,551 --> 00:43:57,012
+You know, we can help you. It is our plan.
+
+716
+00:43:57,179 --> 00:43:58,180
+I can't allow that.
+
+717
+00:43:58,347 --> 00:44:00,057
+Star Command Code 2709.3
+
+718
+00:44:00,224 --> 00:44:03,352
+forbids me from placing
+unqualified personnel in harms way.
+
+719
+00:44:03,519 --> 00:44:05,312
+Okay, but I'm a Hawthorne.
+
+720
+00:44:05,479 --> 00:44:06,688
+It's more than just a name, Izzy.
+
+721
+00:44:06,855 --> 00:44:07,731
+You have to know exactly--
+
+722
+00:44:07,898 --> 00:44:10,160
+-...how to react in any sit--
+-...what you gonna say next.
+
+723
+00:44:10,244 --> 00:44:11,254
+I thought I had that one.
+
+724
+00:44:11,338 --> 00:44:12,110
+Okay.
+
+725
+00:44:12,277 --> 00:44:15,155
+And you, you're in a correctional
+situation of some kind?
+
+726
+00:44:15,322 --> 00:44:16,323
+Parole program.
+
+727
+00:44:16,490 --> 00:44:19,451
+I do this and they shave
+a little time off my sentence.
+
+728
+00:44:19,618 --> 00:44:21,411
+But I really learned a lot in there.
+
+729
+00:44:21,578 --> 00:44:23,580
+Darby can take any three things
+and make them explode.
+
+730
+00:44:24,081 --> 00:44:25,958
+Okay. And what about you?
+
+731
+00:44:26,124 --> 00:44:29,753
+Me? I thought this was gonna be
+like a fun boot camp workout thing.
+
+732
+00:44:29,913 --> 00:44:31,248
+But it is not.
+
+733
+00:44:31,414 --> 00:44:33,834
+So, I was actually coming out here
+to turn in my stuff--
+
+734
+00:44:34,007 --> 00:44:35,092
+He's a quitter.
+
+735
+00:44:35,300 --> 00:44:36,385
+I'm not a quitter.
+
+736
+00:44:36,552 --> 00:44:37,427
+You were quitting.
+
+737
+00:44:37,594 --> 00:44:39,805
+What are you talking about?
+I was just going in a different direction.
+
+738
+00:44:39,972 --> 00:44:41,515
+Yeah, the direction of a quitter.
+
+739
+00:44:41,682 --> 00:44:42,850
+You know what, I give up.
+
+740
+00:44:43,016 --> 00:44:45,018
+-See?
+-On your right..
+
+741
+00:44:58,304 --> 00:44:59,199
+<i>Zurg.</i>
+
+742
+00:44:59,283 --> 00:45:00,617
+<i>Now, where was I?</i>
+
+743
+00:45:00,951 --> 00:45:02,411
+<i>Here we are. Let me back up.</i>
+
+744
+00:45:04,204 --> 00:45:07,082
+Hey, keep working on your skills.
+It's the only way to get better.
+
+745
+00:45:07,249 --> 00:45:08,250
+We can help you.
+
+746
+00:45:08,417 --> 00:45:10,919
+And I appreciate that.
+Just go back to your training facility.
+
+747
+00:45:11,086 --> 00:45:12,880
+Stay alert. Stay safe.
+
+748
+00:45:13,046 --> 00:45:15,060
+I'm going to commandeer
+this P-32 Armadillo
+
+749
+00:45:15,144 --> 00:45:16,633
+and go blow up the Zurg ship.
+
+750
+00:45:16,717 --> 00:45:18,302
+So, this is just goodbye?
+
+751
+00:45:18,594 --> 00:45:19,970
+Affirmative. Goodbye.
+
+752
+00:45:22,347 --> 00:45:24,224
+Sorry, I forgot my cat.
+
+753
+00:45:34,818 --> 00:45:36,153
+<i>Life forms detected.</i>
+
+754
+00:45:36,403 --> 00:45:37,362
+What are they?
+
+755
+00:45:37,522 --> 00:45:39,149
+<i>Giant insectoid organisms.</i>
+
+756
+00:45:39,781 --> 00:45:41,825
+<i>The building appears to be
+some sort of hive.</i>
+
+757
+00:45:41,992 --> 00:45:42,910
+Are they a threat?
+
+758
+00:45:43,076 --> 00:45:44,745
+<i>Sensors indicate they are hibernating.</i>
+
+759
+00:45:44,912 --> 00:45:45,913
+Very good.
+
+760
+00:45:46,496 --> 00:45:47,748
+Oh, look!
+
+761
+00:45:47,915 --> 00:45:49,458
+It's the XL-01.
+
+762
+00:45:49,750 --> 00:45:51,293
+It's been a long time since...
+
+763
+00:45:51,793 --> 00:45:52,711
+Whoa.
+
+764
+00:45:52,794 --> 00:45:53,795
+<i>What is it?</i>
+
+765
+00:45:53,962 --> 00:45:55,380
+Come on, I'll show you.
+
+766
+00:46:10,562 --> 00:46:11,855
+Finally.
+
+767
+00:46:15,651 --> 00:46:16,652
+Sorry to interrupt.
+
+768
+00:46:16,818 --> 00:46:18,362
+Looks like you were having
+a real nice moment.
+
+769
+00:46:18,529 --> 00:46:19,905
+What are you doing here?
+It's not safe.
+
+770
+00:46:20,113 --> 00:46:21,406
+You took the keys to our truck.
+
+771
+00:46:21,573 --> 00:46:22,574
+There they are.
+
+772
+00:46:27,913 --> 00:46:29,164
+Come on. Come on.
+
+773
+00:46:29,331 --> 00:46:30,415
+-Quiet.
+-I'm trying.
+
+774
+00:46:32,209 --> 00:46:33,502
+Got it.
+
+775
+00:46:37,005 --> 00:46:38,006
+-Somebody get--
+-Get the door!
+
+776
+00:46:40,384 --> 00:46:41,718
+You were gonna say "get the door",
+and I got the door.
+
+777
+00:46:44,054 --> 00:46:46,515
+Well, I'm gonna be blunt here.
+I wish that hadn't happened.
+
+778
+00:46:46,682 --> 00:46:47,975
+So did the rest of us.
+
+779
+00:46:48,141 --> 00:46:49,142
+Everyone grab a weapon.
+
+780
+00:46:49,309 --> 00:46:51,353
+Boy, I'd love to, but my parole--
+
+781
+00:46:51,520 --> 00:46:53,856
+As a Star Command Officer
+I grant you emergency authority.
+
+782
+00:46:54,022 --> 00:46:55,524
+We're gonna blast our way outta here.
+
+783
+00:46:55,691 --> 00:46:56,608
+Now we're talking!
+
+784
+00:46:56,775 --> 00:47:00,404
+<i>Buzz, the probability of survival
+a frontal attack is 38.2 percent.</i>
+
+785
+00:47:00,571 --> 00:47:01,738
+Seems a bit low.
+
+786
+00:47:01,905 --> 00:47:03,031
+What about Stealth Mode?
+
+787
+00:47:03,198 --> 00:47:04,366
+How do you know about Stealth Mode?
+
+788
+00:47:04,533 --> 00:47:06,535
+Grandma and I used to play
+Stealth Mode all the time.
+
+789
+00:47:06,702 --> 00:47:08,304
+It was like hide-and-seek,
+but with a twist.
+
+790
+00:47:08,495 --> 00:47:11,999
+Okay, well, it's actually good thinking.
+I'll use Stealth Mode to disorient them.
+
+791
+00:47:12,165 --> 00:47:14,084
+Or, and stick with me here.
+
+792
+00:47:14,237 --> 00:47:17,282
+We could all use Stealth Mode
+and just walk right out.
+
+793
+00:47:19,006 --> 00:47:20,883
+You mean, you would wear
+a Space Ranger suit?
+
+794
+00:47:21,049 --> 00:47:22,885
+This one already has my name on it.
+
+795
+00:47:25,470 --> 00:47:26,722
+Okay.
+
+796
+00:47:27,514 --> 00:47:28,515
+Let's review.
+
+797
+00:47:28,682 --> 00:47:29,558
+I'm going--
+
+798
+00:47:29,725 --> 00:47:30,726
+That way.
+
+799
+00:47:30,893 --> 00:47:31,768
+And you're going--
+
+800
+00:47:31,935 --> 00:47:33,020
+That way.
+
+801
+00:47:33,187 --> 00:47:34,188
+Okay. Very good.
+
+802
+00:47:34,354 --> 00:47:36,982
+Check it out,
+I'm Feathers... Feathering...
+
+803
+00:47:38,108 --> 00:47:39,818
+Oh, look, a pen. Cool.
+
+804
+00:47:39,985 --> 00:47:42,029
+-Does yours have a pen?
+-Okay, pay attention.
+
+805
+00:47:42,196 --> 00:47:43,405
+Stealth mode is fairly simple.
+
+806
+00:47:43,739 --> 00:47:45,657
+There are just two parts.
+You press the button--
+
+807
+00:47:45,824 --> 00:47:47,993
+-Is it this button?
+-I will tell you which button.
+
+808
+00:47:48,160 --> 00:47:49,244
+-What about this button?
+-I'm sorry.
+
+809
+00:47:49,453 --> 00:47:51,205
+We're not gonna have time
+to go over all the buttons.
+
+810
+00:47:51,371 --> 00:47:52,831
+Okay, forget the button.
+What about this thing?
+
+811
+00:47:52,998 --> 00:47:53,832
+-It's more--
+-No! No!
+
+812
+00:47:53,999 --> 00:47:56,126
+That's the surrender strand.
+You never pull that.
+
+813
+00:47:56,293 --> 00:47:58,629
+There is no more shameful maneuver
+for a Space Ranger.
+
+814
+00:47:58,795 --> 00:47:59,796
+Excuse me.
+
+815
+00:47:59,963 --> 00:48:02,174
+Did I miss which button
+is the Stealth Mode button?
+
+816
+00:48:02,341 --> 00:48:03,425
+It's this button.
+
+817
+00:48:03,592 --> 00:48:04,635
+Not yet!
+
+818
+00:48:04,801 --> 00:48:07,554
+You push this button,
+then you go out the front door,
+
+819
+00:48:07,721 --> 00:48:09,515
+and I'll go blow up the Zurg ship.
+
+820
+00:48:09,681 --> 00:48:11,099
+-Ready?
+-Ready.
+
+821
+00:48:11,308 --> 00:48:13,101
+No, wait. Not ready. Hang on.
+
+822
+00:48:13,268 --> 00:48:15,187
+Okay, got 'em.
+That would've been embarrassing.
+
+823
+00:48:16,730 --> 00:48:17,731
+Okay.
+
+824
+00:48:17,898 --> 00:48:18,982
+<i>Goodbye again.</i>
+
+825
+00:48:25,279 --> 00:48:27,281
+<i>Sox, you're inhibiting my visual.</i>
+
+826
+00:48:27,449 --> 00:48:28,784
+<i>Sorry. Is this better?</i>
+
+827
+00:48:28,951 --> 00:48:30,786
+<i>-Negative.
+-Okay, how about this?</i>
+
+828
+00:48:31,537 --> 00:48:32,746
+<i>How about this?</i>
+
+829
+00:48:44,758 --> 00:48:46,552
+<i>Okay. Here we go.</i>
+
+830
+00:48:53,642 --> 00:48:56,186
+<i>Very good.
+Stealth Mode working as planned.</i>
+
+831
+00:48:57,623 --> 00:49:01,067
+<i>This is pretty cool.
+These dumb bugs can't even see us.</i>
+
+832
+00:49:01,322 --> 00:49:03,157
+<i>Hey, bug. Hey, bug. Bug.</i>
+
+833
+00:49:03,360 --> 00:49:04,820
+<i>I'm right here, bug.
+Can't you see me?</i>
+
+834
+00:49:06,446 --> 00:49:08,949
+<i>He can't. He can't see me at all.</i>
+
+835
+00:49:09,241 --> 00:49:11,368
+<i>And time has elapsed.</i>
+
+836
+00:49:12,369 --> 00:49:13,662
+<i>Wait, the timer.</i>
+
+837
+00:49:13,871 --> 00:49:15,247
+<i>They don't know about the timer.</i>
+
+838
+00:49:16,874 --> 00:49:18,625
+<i>You don't see me.</i>
+
+839
+00:49:18,792 --> 00:49:20,043
+<i>Wait. I can see you.</i>
+
+840
+00:49:20,794 --> 00:49:21,962
+<i>I can see you too.</i>
+
+841
+00:49:22,588 --> 00:49:23,922
+<i>The bugs can see us.</i>
+
+842
+00:49:24,464 --> 00:49:26,091
+<i>No, no. I surrender.</i>
+
+843
+00:49:28,066 --> 00:49:29,206
+<i>Pull!</i>
+
+844
+00:49:33,974 --> 00:49:35,517
+<i>Back! Back!</i>
+
+845
+00:49:37,686 --> 00:49:39,021
+<i>This isn't working.</i>
+
+846
+00:49:39,188 --> 00:49:40,564
+You have to keep going!
+
+847
+00:49:41,690 --> 00:49:43,609
+<i>We have to turn around.</i>
+
+848
+00:49:45,652 --> 00:49:46,695
+<i>They're headed right for us.</i>
+
+849
+00:49:46,862 --> 00:49:49,072
+No, no. Do not approach the vehicle!
+
+850
+00:50:03,212 --> 00:50:04,213
+All right!
+
+851
+00:50:04,379 --> 00:50:05,839
+-Way to adapt, team.
+-Give it up here.
+
+852
+00:50:06,006 --> 00:50:07,925
+Why are you congratulating yourselves?
+
+853
+00:50:08,077 --> 00:50:10,209
+Because I just Hawthorned us out
+right outta that situation.
+
+854
+00:50:10,293 --> 00:50:11,730
+But you could've made it if--
+
+855
+00:50:11,831 --> 00:50:13,346
+If you had told us
+the Stealth Mode wears off.
+
+856
+00:50:13,430 --> 00:50:14,139
+Well...
+
+857
+00:50:16,099 --> 00:50:18,268
+Okay, everyone just strap in.
+
+858
+00:50:21,730 --> 00:50:22,773
+<i>Hello, I am your--</i>
+
+859
+00:50:35,410 --> 00:50:36,203
+Hold on!
+
+860
+00:50:40,916 --> 00:50:41,959
+Are we going to space?
+
+861
+00:50:42,125 --> 00:50:43,585
+No, I'm gonna drop you somewhere.
+
+862
+00:50:47,256 --> 00:50:49,383
+That was a big swirly turn.
+I think I need a bag.
+
+863
+00:50:49,550 --> 00:50:51,134
+No, no. Do not vomit
+inside the vehicle.
+
+864
+00:50:51,301 --> 00:50:53,470
+I can see starts. That is space.
+
+865
+00:50:53,637 --> 00:50:54,721
+What is happening right now?
+
+866
+00:50:54,888 --> 00:50:55,931
+She's afraid of space.
+
+867
+00:50:56,098 --> 00:50:57,391
+-What?
+<i>-She should be. It's horrible</i>
+
+868
+00:50:57,558 --> 00:50:59,518
+Izzy, remember your exercises.
+
+869
+00:50:59,685 --> 00:51:00,936
+-It's coming.
+-No, no.
+
+870
+00:51:01,103 --> 00:51:02,062
+Engage your helmet.
+That will catch it.
+
+871
+00:51:02,229 --> 00:51:03,772
+-Buzz! Another ship!
+-Izzy, I'm trying--
+
+872
+00:51:26,670 --> 00:51:27,671
+I can't see anything.
+
+873
+00:51:27,838 --> 00:51:29,590
+Oh, no! The dark side
+of the planet.
+
+874
+00:51:29,756 --> 00:51:30,966
+<i>Over there! Three o'clock!</i>
+
+875
+00:51:31,133 --> 00:51:33,385
+Hold on. This isn't gonna be pretty.
+
+876
+00:51:44,146 --> 00:51:45,147
+Is everyone okay?
+
+877
+00:51:45,314 --> 00:51:46,148
+I think so.
+
+878
+00:51:56,450 --> 00:51:57,618
+Sox, give me a damage report.
+
+879
+00:51:57,784 --> 00:51:59,453
+<i>One moment, please.</i>
+
+880
+00:52:01,205 --> 00:52:03,040
+Okay. This is better.
+
+881
+00:52:03,498 --> 00:52:04,625
+Is this better?
+
+882
+00:52:04,791 --> 00:52:08,504
+No, obviously this is worse overall,
+I just meant... You know...
+
+883
+00:52:09,338 --> 00:52:10,756
+How are you afraid of space?
+
+884
+00:52:11,256 --> 00:52:12,341
+Oh, It's pretty easy.
+
+885
+00:52:12,674 --> 00:52:16,178
+Did you know if you let go out there
+you just keep going in the same direction
+
+886
+00:52:16,345 --> 00:52:18,347
+forever, just...
+
+887
+00:52:18,639 --> 00:52:21,141
+Well, then how were you
+going to blow up the Zurg ship?
+
+888
+00:52:21,308 --> 00:52:23,101
+I would've been ground support.
+
+889
+00:52:24,144 --> 00:52:26,188
+I know, grandma wasn't afraid of space.
+
+890
+00:52:26,355 --> 00:52:28,273
+No, because she was a Space Ranger.
+
+891
+00:52:28,440 --> 00:52:30,943
+Astrophobia is an automatic
+disqualification.
+
+892
+00:52:31,109 --> 00:52:32,402
+What was that thing?
+
+893
+00:52:32,611 --> 00:52:34,112
+-I don't know.
+-Is it gonna come back?
+
+894
+00:52:34,279 --> 00:52:35,405
+I don't know.
+
+895
+00:52:35,572 --> 00:52:37,908
+But how did it--
+Okay, you don't know.
+
+896
+00:52:42,037 --> 00:52:45,374
+I was done. I finally had the crystal.
+This was supposed to be over.
+
+897
+00:52:46,208 --> 00:52:47,584
+But who am I kidding?
+
+898
+00:52:48,544 --> 00:52:49,921
+I don't need a crystal.
+
+899
+00:52:50,005 --> 00:52:52,042
+I need a time machine
+to get out of this mess.
+
+900
+00:52:52,756 --> 00:52:54,007
+<i>Assessment complete.</i>
+
+901
+00:52:54,174 --> 00:52:55,175
+How bad is that?
+
+902
+00:52:57,261 --> 00:53:01,306
+<i>The blast was absorbed by the heat shield
+and only caused a minor electrical short.</i>
+
+903
+00:53:01,473 --> 00:53:02,474
+Okay.
+
+904
+00:53:02,641 --> 00:53:04,101
+<i>So, in order to be flight operational</i>
+
+905
+00:53:04,268 --> 00:53:07,646
+<i>the Armadillo will require a material
+of specialized capacitance.</i>
+
+906
+00:53:07,855 --> 00:53:09,106
+Oh, like an electrical thingy.
+
+907
+00:53:09,273 --> 00:53:10,274
+How do you know that?
+
+908
+00:53:10,440 --> 00:53:11,483
+We learned this.
+
+909
+00:53:12,568 --> 00:53:15,904
+Specialized capacitance, remember?
+We built those field radios last month?
+
+910
+00:53:16,071 --> 00:53:17,114
+Oh, yeah. That was fun.
+
+911
+00:53:17,281 --> 00:53:18,407
+Yeah, except Darby messed hers up.
+
+912
+00:53:18,574 --> 00:53:19,575
+I'm gonna mess you up--
+
+913
+00:53:19,741 --> 00:53:21,577
+Please. I'm trying to think here.
+
+914
+00:53:22,035 --> 00:53:23,871
+I messed mine up, but then I fixed it up.
+
+915
+00:53:24,037 --> 00:53:25,372
+But you broke that computer console.
+
+916
+00:53:25,539 --> 00:53:27,624
+I needed that little coil for its...
+What was that?
+
+917
+00:53:27,791 --> 00:53:28,834
+Specialized capacitance.
+
+918
+00:53:29,001 --> 00:53:31,295
+Hey, honestly, there is
+a lot of room out here.
+
+919
+00:53:31,461 --> 00:53:34,214
+If you guys wanna reminisce
+you could go over there,
+
+920
+00:53:34,381 --> 00:53:36,550
+or look, there's no one
+trying to think over there.
+
+921
+00:53:37,593 --> 00:53:38,635
+We can go up there.
+
+922
+00:53:38,802 --> 00:53:39,803
+Fine. Perfect.
+
+923
+00:53:39,970 --> 00:53:42,222
+Yes. Okay, new plan.
+
+924
+00:53:42,389 --> 00:53:43,390
+Wait. What?
+
+925
+00:53:43,557 --> 00:53:45,601
+That mining facility
+will have a console, right?
+
+926
+00:53:45,767 --> 00:53:48,145
+That console will have
+a little coil thing, right?
+
+927
+00:53:48,312 --> 00:53:49,980
+And that little coil thing
+will have the...
+
+928
+00:53:50,147 --> 00:53:51,148
+Specialized capacitance.
+
+929
+00:53:51,315 --> 00:53:53,650
+That we need to fix this ship, right?
+
+930
+00:53:53,817 --> 00:53:54,651
+<i>She's right.</i>
+
+931
+00:53:57,946 --> 00:54:01,116
+Good job. Now that's thinking
+like a Hawthorne.
+
+932
+00:54:02,300 --> 00:54:04,948
+Let's go get that part
+and get outta here
+
+933
+00:54:05,041 --> 00:54:06,990
+before that thing finds us again.
+
+934
+00:54:29,061 --> 00:54:30,312
+Whoa.
+
+935
+00:54:31,271 --> 00:54:32,439
+Over there.
+
+936
+00:54:35,734 --> 00:54:37,277
+Okay, here we go.
+
+937
+00:54:45,702 --> 00:54:47,204
+Buzz Lightyear mission log.
+
+938
+00:54:47,371 --> 00:54:49,998
+In order to repair our ship
+we have to find some way
+
+939
+00:54:50,165 --> 00:54:52,042
+to get inside
+the Command Center and...
+
+940
+00:54:54,211 --> 00:54:56,255
+Nice job, elderly convict.
+
+941
+00:54:58,090 --> 00:55:01,385
+Okay, the activation coil
+should be in here.
+
+942
+00:55:01,552 --> 00:55:02,553
+Sox?
+
+943
+00:55:03,845 --> 00:55:04,846
+Need a pen?
+
+944
+00:55:04,930 --> 00:55:06,640
+<i>Got it.</i>
+
+945
+00:55:07,516 --> 00:55:08,809
+Okay, yeah. Another time.
+
+946
+00:55:10,477 --> 00:55:11,478
+Oh no.
+
+947
+00:55:11,812 --> 00:55:13,605
+<i>Security measures activated.</i>
+
+948
+00:55:14,690 --> 00:55:16,650
+<i>No! Not this again.</i>
+
+949
+00:55:16,817 --> 00:55:18,026
+<i>Not what? What is this?</i>
+
+950
+00:55:18,360 --> 00:55:23,073
+<i>A capture cone. That holds you
+until they come and get you.</i>
+
+951
+00:55:23,240 --> 00:55:25,367
+<i>No one's coming to get us.
+They're all trapped in the base.</i>
+
+952
+00:55:25,534 --> 00:55:26,702
+<i>So, we should just leave, right?</i>
+
+953
+00:55:26,869 --> 00:55:28,287
+<i>We can't just leave.</i>
+
+954
+00:55:28,453 --> 00:55:31,415
+<i>Sure we can. Take it from me,
+we can always just leave.</i>
+
+955
+00:55:32,082 --> 00:55:33,083
+<i>Look, see?</i>
+
+956
+00:55:34,543 --> 00:55:35,627
+<i>Come on!</i>
+
+957
+00:55:36,920 --> 00:55:37,921
+<i>Told you.</i>
+
+958
+00:55:38,422 --> 00:55:41,258
+<i>Now, be careful, because these things--</i>
+
+959
+00:55:42,217 --> 00:55:44,011
+<i>combine if they touch.</i>
+
+960
+00:55:44,178 --> 00:55:46,722
+<i>All right, sorry.
+But maybe if we both try it?</i>
+
+961
+00:55:46,889 --> 00:55:48,599
+<i>That's not gonna work.</i>
+
+962
+00:55:48,765 --> 00:55:50,017
+<i>You haven't even tried.</i>
+
+963
+00:55:51,393 --> 00:55:52,394
+<i>No!</i>
+
+964
+00:55:52,741 --> 00:55:53,574
+<i>Meow.</i>
+
+965
+00:55:55,022 --> 00:55:56,148
+<i>Yeah, that didn't work.</i>
+
+966
+00:55:56,308 --> 00:55:57,642
+<i>-Buzz?
+-Whoa, hold on.</i>
+
+967
+00:55:57,816 --> 00:55:59,943
+<i>I'm no help to anyone
+if I'm stuck in there with you.</i>
+
+968
+00:56:00,110 --> 00:56:01,570
+<i>Sox, can you turn these off?</i>
+
+969
+00:56:02,863 --> 00:56:04,615
+<i>I can't reach the controls.</i>
+
+970
+00:56:05,324 --> 00:56:07,492
+<i>Wait, there's a soft spot
+in the floor here.</i>
+
+971
+00:56:07,659 --> 00:56:09,036
+<i>-Maybe if we could--
+-That's my foot.</i>
+
+972
+00:56:09,620 --> 00:56:10,829
+<i>-Sorry.
+-Wait, watch it!</i>
+
+973
+00:56:11,830 --> 00:56:14,708
+<i>Wait, that's it.
+That thing powers these things.</i>
+
+974
+00:56:14,875 --> 00:56:16,960
+<i>-Then let's hit it again.
+-Wait. Wait.</i>
+
+975
+00:56:17,628 --> 00:56:19,129
+<i>We need the door to be open.</i>
+
+976
+00:56:19,296 --> 00:56:22,299
+<i>So I'll open this.
+You slam into the power source.</i>
+
+977
+00:56:22,466 --> 00:56:24,885
+<i>These things will disappear.
+And we'll walk right out.</i>
+
+978
+00:56:25,052 --> 00:56:25,886
+<i>-Yes, sir.
+-All right.</i>
+
+979
+00:56:26,053 --> 00:56:26,845
+<i>Ready?</i>
+
+980
+00:56:31,099 --> 00:56:31,808
+<i>Keep trying!</i>
+
+981
+00:56:36,355 --> 00:56:37,814
+<i>We're just not heavy enough.</i>
+
+982
+00:56:38,524 --> 00:56:40,275
+<i>Buzz, we need you.</i>
+
+983
+00:56:40,442 --> 00:56:41,735
+<i>Wait, in there?</i>
+
+984
+00:56:41,902 --> 00:56:44,154
+<i>But if it doesn't work
+I won't be able to save you.</i>
+
+985
+00:56:44,321 --> 00:56:47,199
+<i>You don't need to save us,
+you need to join us.</i>
+
+986
+00:56:55,415 --> 00:56:56,416
+<i>Again.</i>
+
+987
+00:56:57,960 --> 00:56:58,961
+<i>Again!</i>
+
+988
+00:57:01,505 --> 00:57:02,464
+<i>Again!</i>
+
+989
+00:57:09,388 --> 00:57:10,472
+No!
+
+990
+00:57:11,265 --> 00:57:12,307
+Go! Go!
+
+991
+00:57:13,767 --> 00:57:14,768
+Watch out!
+
+992
+00:57:19,064 --> 00:57:20,065
+Buzz, no!
+
+993
+00:57:20,232 --> 00:57:21,400
+We need the coil.
+
+994
+00:57:39,418 --> 00:57:40,794
+We got you.
+
+995
+00:57:49,845 --> 00:57:50,971
+Oh, look. Snacks.
+
+996
+00:57:53,182 --> 00:57:54,474
+Anyone going for the snack?
+
+997
+00:57:55,350 --> 00:57:57,853
+MEAT SANDWICH
+
+998
+00:58:04,151 --> 00:58:06,612
+Here. Let's all re-charge a little.
+
+999
+00:58:09,823 --> 00:58:10,949
+Here you go.
+
+1000
+00:58:13,476 --> 00:58:17,164
+Huh, this is, uh--
+What-- What's--
+
+1001
+00:58:17,831 --> 00:58:18,999
+What's happening here?
+
+1002
+00:58:19,416 --> 00:58:20,626
+Something wrong
+with your sandwich?
+
+1003
+00:58:20,792 --> 00:58:23,378
+Why is the meat on the outside?
+
+1004
+00:58:23,712 --> 00:58:25,339
+Because it's a sandwich?
+
+1005
+00:58:25,506 --> 00:58:27,508
+No, the bread is supposed to be
+on the outside.
+
+1006
+00:58:27,674 --> 00:58:29,218
+What, like, bread, meat, bread?
+
+1007
+00:58:29,384 --> 00:58:30,552
+That's too much bread.
+
+1008
+00:58:31,053 --> 00:58:32,804
+Yes, but this is all wet.
+
+1009
+00:58:32,971 --> 00:58:35,015
+Yeah. Juicy fingers.
+That's the best part.
+
+1010
+00:58:35,182 --> 00:58:36,850
+When was the last time
+you had a sandwich?
+
+1011
+00:58:37,010 --> 00:58:39,054
+I don't know, a hundred years ago,
+give or take.
+
+1012
+00:58:39,228 --> 00:58:41,188
+Just a "bread, meat, bread."
+
+1013
+00:58:41,355 --> 00:58:42,356
+That's too much bread.
+
+1014
+00:58:42,523 --> 00:58:44,608
+That would just suck
+all the moisture out of your mouth.
+
+1015
+00:58:45,567 --> 00:58:46,568
+Good one, Darby.
+
+1016
+00:58:46,902 --> 00:58:47,945
+Oh, no!
+
+1017
+00:58:48,153 --> 00:58:49,029
+Sox!
+
+1018
+00:58:50,239 --> 00:58:51,448
+Wake up, Sox.
+
+1019
+00:58:51,990 --> 00:58:53,575
+Come on, little buddy, come back to me.
+
+1020
+00:58:54,201 --> 00:58:55,661
+Please, Sox. I'm sorry.
+
+1021
+00:58:56,495 --> 00:58:57,496
+Sox.
+
+1022
+00:58:59,915 --> 00:59:01,625
+<i>Hello. I require a reboot.</i>
+
+1023
+00:59:06,797 --> 00:59:10,676
+I'm sorry, guys.
+I almost killed Sox.
+
+1024
+00:59:10,968 --> 00:59:13,095
+I almost got us all killed back there.
+
+1025
+00:59:13,262 --> 00:59:16,515
+Hey, listen to me, it was just a mistake.
+
+1026
+00:59:17,140 --> 00:59:18,141
+Right, Buzz?
+
+1027
+00:59:20,519 --> 00:59:24,147
+Just try to get a little better.
+
+1028
+00:59:30,624 --> 00:59:31,667
+Listen.
+
+1029
+00:59:34,491 --> 00:59:36,076
+I just...
+
+1030
+00:59:37,035 --> 00:59:42,624
+When I first went to the Academy
+I was not... you know... good.
+
+1031
+00:59:43,625 --> 00:59:46,170
+I screwed up every day.
+
+1032
+00:59:47,754 --> 00:59:49,131
+I got tangled in the obstacle course.
+
+1033
+00:59:49,298 --> 00:59:51,925
+My hands shook so much
+I couldn't hit the target.
+
+1034
+00:59:52,092 --> 00:59:54,761
+Not the bulls-eye.
+The whole target.
+
+1035
+00:59:55,512 --> 00:59:57,806
+And I was gonna quit
+after the first week, it was...
+
+1036
+00:59:57,973 --> 01:00:00,893
+clear I was not Space Ranger material.
+
+1037
+01:00:01,059 --> 01:00:02,102
+Really?
+
+1038
+01:00:02,519 --> 01:00:03,562
+Yeah.
+
+1039
+01:00:04,021 --> 01:00:06,106
+But her grandma
+saw something in me.
+
+1040
+01:00:08,650 --> 01:00:10,194
+So I started looking for it too.
+
+1041
+01:00:12,362 --> 01:00:13,363
+<i>Recalibrating.</i>
+
+1042
+01:00:14,781 --> 01:00:17,117
+<i>One corrupted file restored.</i>
+
+1043
+01:00:18,911 --> 01:00:20,120
+<i>Hey, he's lighting up.</i>
+
+1044
+01:00:20,996 --> 01:00:23,165
+-Grandma.
+<i>-Hello, Sox.</i>
+
+1045
+01:00:23,332 --> 01:00:25,042
+<i>I need you to do me a favor.</i>
+
+1046
+01:00:25,209 --> 01:00:29,213
+<i>I need you to look after my best friend.
+His name is Buzz.</i>
+
+1047
+01:00:29,796 --> 01:00:33,342
+<i>He's away right now,
+but he'll be back soon.</i>
+
+1048
+01:00:33,509 --> 01:00:35,511
+<i>He's a Space Ranger.</i>
+
+1049
+01:00:35,677 --> 01:00:38,555
+<i>He's going to get us all home.
+Get us all home.</i>
+
+1050
+01:00:53,111 --> 01:00:54,363
+What's wrong?
+
+1051
+01:00:54,905 --> 01:00:56,198
+Did not you hear that?
+
+1052
+01:00:56,573 --> 01:00:58,951
+She believed I could fix
+the mistake I made.
+
+1053
+01:00:59,785 --> 01:01:01,954
+And that belief
+cost her everything.
+
+1054
+01:01:02,829 --> 01:01:04,706
+Everything? No.
+
+1055
+01:01:05,499 --> 01:01:08,836
+She had grandma Kiko,
+my Dad and me, all her friends.
+
+1056
+01:01:09,795 --> 01:01:13,882
+She didn't meant to be here, but she had
+a whole life on this planet, Buzz.
+
+1057
+01:01:14,716 --> 01:01:15,884
+All of us had.
+
+1058
+01:01:17,052 --> 01:01:18,762
+Except for you.
+
+1059
+01:01:21,139 --> 01:01:25,394
+We wanted to be Space Rangers again.
+We wanted to matter.
+
+1060
+01:01:26,603 --> 01:01:29,439
+Believe me, she mattered.
+
+1061
+01:01:42,244 --> 01:01:43,829
+You know, it is pretty good this way.
+
+1062
+01:01:44,413 --> 01:01:48,375
+Yeah? Bread, meat, bread.
+How long did you do it like that?
+
+1063
+01:01:48,917 --> 01:01:49,918
+Forever.
+
+1064
+01:01:52,171 --> 01:01:53,547
+<i>Fully recharged.</i>
+
+1065
+01:01:53,797 --> 01:01:54,965
+Come on.
+
+1066
+01:01:55,132 --> 01:01:57,718
+Let's go put this part in the ship
+and get outta here.
+
+1067
+01:01:58,302 --> 01:01:59,303
+Sox, can you light our way?
+
+1068
+01:01:59,469 --> 01:02:00,470
+<i>Of course.</i>
+
+1069
+01:02:00,572 --> 01:02:03,312
+<i>Click click. Click click.</i>
+
+1070
+01:02:03,932 --> 01:02:06,643
+<i>I see you.
+I'm gonna get ya. I'm gonna get ya.</i>
+
+1071
+01:02:06,803 --> 01:02:07,596
+<i>Oh, I didn't get ya.</i>
+
+1072
+01:02:07,769 --> 01:02:09,438
+-Sox?
+<i>-Where'd you go? I got you!</i>
+
+1073
+01:02:09,605 --> 01:02:10,856
+-Sox.
+<i>-Yeah, sorry.</i>
+
+1074
+01:02:14,060 --> 01:02:17,647
+This is exciting.
+Operation Surprise Party, here we come!
+
+1075
+01:02:17,814 --> 01:02:20,609
+Wait, what? Negative. I can't put you
+in harm's way like that.
+
+1076
+01:02:20,782 --> 01:02:22,492
+What, are you gonna do
+the whole mission alone?
+
+1077
+01:02:22,659 --> 01:02:23,660
+I can do it.
+
+1078
+01:02:23,827 --> 01:02:25,495
+Because you got a Hawthorne right here.
+
+1079
+01:02:25,662 --> 01:02:29,208
+And I appreciate that. Tell you what,
+I'll let you know if I need you.
+
+1080
+01:02:29,374 --> 01:02:33,378
+But until then let's just try to get back
+to the Armadillo without any more--
+
+1081
+01:02:40,761 --> 01:02:41,762
+Run!
+
+1082
+01:02:46,808 --> 01:02:47,518
+No!
+
+1083
+01:02:52,397 --> 01:02:53,232
+What?
+
+1084
+01:02:53,398 --> 01:02:55,150
+It's after me! Go back to the ship!
+
+1085
+01:02:55,317 --> 01:02:56,360
+But Buzz!
+
+1086
+01:02:59,446 --> 01:03:00,864
+<i>Buzz Lightyear mission log.</i>
+
+1087
+01:03:03,909 --> 01:03:05,285
+I'm being pursued by a...
+
+1088
+01:03:07,120 --> 01:03:08,622
+just a massive robot.
+
+1089
+01:03:09,831 --> 01:03:12,793
+I'm leading it away
+while the others escape to the ship.
+
+1090
+01:03:34,857 --> 01:03:36,024
+<i>Buzz.</i>
+
+1091
+01:03:36,650 --> 01:03:38,235
+What? How do you know my name?
+
+1092
+01:03:39,611 --> 01:03:40,654
+<i>Come with me.</i>
+
+1093
+01:03:40,821 --> 01:03:41,822
+What?
+
+1094
+01:03:45,576 --> 01:03:48,203
+This is definitely
+a violation of my parole.
+
+1095
+01:03:52,332 --> 01:03:54,334
+Come on. Let's get outta here.
+
+1096
+01:04:14,556 --> 01:04:15,596
+<i>Zurg.</i>
+
+1097
+01:04:34,333 --> 01:04:37,753
+Ready yourselves for launch.
+Operation Surprise Party is back on.
+
+1098
+01:04:37,920 --> 01:04:38,921
+What? With us?
+
+1099
+01:04:39,087 --> 01:04:40,589
+What, am I gonna do
+the whole mission alone?
+
+1100
+01:04:41,381 --> 01:04:44,301
+<i>We can't launch yet.
+I need five minutes to install the coil.</i>
+
+1101
+01:04:48,305 --> 01:04:49,973
+We can't sit here for five minutes.
+
+1102
+01:04:50,140 --> 01:04:51,715
+<i>The ship still has hover capabilities.</i>
+
+1103
+01:04:51,799 --> 01:04:52,625
+Then let's use them.
+
+1104
+01:05:11,119 --> 01:05:12,704
+We might lose them
+in the fire geysers.
+
+1105
+01:05:12,913 --> 01:05:15,415
+Blink the way.
+You two, blast some robots.
+
+1106
+01:05:15,582 --> 01:05:16,959
+But we haven't even finished
+our munitions training.
+
+1107
+01:05:17,334 --> 01:05:18,836
+How hard can it be? Look.
+
+1108
+01:05:18,981 --> 01:05:21,526
+We got these spiky things.
+And these one probably explode.
+
+1109
+01:05:21,713 --> 01:05:23,090
+Just do whatever feels right.
+
+1110
+01:05:23,257 --> 01:05:24,675
+What? What are you gonna do?
+
+1111
+01:05:24,842 --> 01:05:26,760
+I'm gonna dance with Mister Boom.
+
+1112
+01:05:32,766 --> 01:05:35,310
+Now that's satisfying.
+
+1113
+01:05:35,602 --> 01:05:36,645
+<i>Twenty percent complete.</i>
+
+1114
+01:05:36,812 --> 01:05:37,813
+Out of a hundred?
+
+1115
+01:05:42,317 --> 01:05:44,611
+They're gaining on us.
+Where are those fire geysers?
+
+1116
+01:05:44,778 --> 01:05:45,779
+Dead ahead.
+
+1117
+01:05:45,946 --> 01:05:47,281
+Don't worry,
+I know every last inch of--
+
+1118
+01:05:47,447 --> 01:05:48,448
+Watch out!
+
+1119
+01:05:59,543 --> 01:06:00,878
+Here, throw this.
+
+1120
+01:06:01,044 --> 01:06:02,796
+-Wait, hold on.
+-Throw it!
+
+1121
+01:06:10,218 --> 01:06:11,071
+<i>Zurg.</i>
+
+1122
+01:06:12,556 --> 01:06:14,183
+Fire geyser dead ahead!
+
+1123
+01:06:18,020 --> 01:06:19,438
+<i>Fifty percent complete.</i>
+
+1124
+01:06:20,388 --> 01:06:21,248
+<i>Zurg.</i>
+
+1125
+01:06:23,108 --> 01:06:25,319
+Hey, we have explosives back here!
+
+1126
+01:06:31,491 --> 01:06:32,576
+Quick! Give me something.
+
+1127
+01:06:40,569 --> 01:06:41,732
+<i>Zurg.</i>
+
+1128
+01:06:48,250 --> 01:06:49,793
+<i>Ninety percent complete.</i>
+
+1129
+01:06:49,968 --> 01:06:51,845
+Izzy, do you know how to transfer
+power on the fly?
+
+1130
+01:06:52,012 --> 01:06:53,472
+I've done it in the simulator.
+
+1131
+01:06:53,639 --> 01:06:55,015
+Well, it's about to get real.
+
+1132
+01:06:55,724 --> 01:06:58,143
+-Do you need my help with anything?
+-Absolutely not.
+
+1133
+01:06:58,310 --> 01:06:59,353
+<i>Ninety five percent complete.</i>
+
+1134
+01:06:59,520 --> 01:07:01,396
+Ready thrusters. Green button. Middle.
+
+1135
+01:07:01,855 --> 01:07:02,439
+Done.
+
+1136
+01:07:04,608 --> 01:07:05,651
+Remember from training.
+
+1137
+01:07:05,817 --> 01:07:07,986
+You don't pull the trigger,
+you squeeze the trigger.
+
+1138
+01:07:08,153 --> 01:07:09,029
+I know.
+
+1139
+01:07:09,404 --> 01:07:10,614
+<i>Ninety nine percent complete.</i>
+
+1140
+01:07:10,781 --> 01:07:11,782
+Transfer to Oscillating Power.
+
+1141
+01:07:11,949 --> 01:07:12,783
+Done.
+
+1142
+01:07:15,369 --> 01:07:16,537
+<i>One hundred percent complete.</i>
+
+1143
+01:07:17,663 --> 01:07:19,540
+Reboot. Okay, be ready to launch
+
+1144
+01:07:19,706 --> 01:07:21,208
+when the fuel cell is--
+
+1145
+01:07:21,375 --> 01:07:22,167
+No!
+
+1146
+01:07:29,716 --> 01:07:30,926
+Oh, no.
+
+1147
+01:07:31,134 --> 01:07:31,927
+Blast!
+
+1148
+01:07:37,307 --> 01:07:38,642
+Grab the crystal!
+
+1149
+01:07:57,035 --> 01:07:57,911
+No.
+
+1150
+01:08:07,254 --> 01:08:08,255
+I...
+
+1151
+01:08:18,974 --> 01:08:20,017
+Buzz.
+
+1152
+01:08:20,642 --> 01:08:21,643
+I'm so sorry.
+
+1153
+01:08:22,728 --> 01:08:25,314
+Everything was happening so fast and I...
+
+1154
+01:08:25,479 --> 01:08:26,607
+I just...
+
+1155
+01:08:29,943 --> 01:08:31,737
+I made a mistake.
+
+1156
+01:08:33,029 --> 01:08:34,156
+Yeah.
+
+1157
+01:08:37,033 --> 01:08:39,411
+Okay, but we're not done, right?
+
+1158
+01:08:39,995 --> 01:08:41,622
+We can still do something.
+
+1159
+01:08:41,787 --> 01:08:44,041
+Izzy, look around.
+
+1160
+01:08:44,625 --> 01:08:46,210
+There is nothing to do.
+
+1161
+01:08:46,376 --> 01:08:47,461
+The mission...
+
+1162
+01:08:48,754 --> 01:08:49,921
+It's over.
+
+1163
+01:08:50,671 --> 01:08:51,798
+Buzz.
+
+1164
+01:08:52,256 --> 01:08:53,425
+Buzz!
+
+1165
+01:08:53,591 --> 01:08:55,051
+Where are you going?
+
+1166
+01:08:55,219 --> 01:08:58,388
+I just need to be by myself.
+
+1167
+01:09:01,308 --> 01:09:02,309
+No!
+
+1168
+01:09:08,564 --> 01:09:09,566
+Buzz!
+
+1169
+01:09:12,569 --> 01:09:13,569
+<i>Buzz.</i>
+
+1170
+01:09:46,645 --> 01:09:47,645
+What the...
+
+1171
+01:09:47,979 --> 01:09:50,439
+What is this?
+Where are we?
+
+1172
+01:09:51,483 --> 01:09:52,609
+Who are you?
+
+1173
+01:09:52,901 --> 01:09:54,695
+<i>Now that's the question.</i>
+
+1174
+01:10:05,247 --> 01:10:07,082
+You look good, Buzz.
+
+1175
+01:10:08,208 --> 01:10:09,334
+Dad?
+
+1176
+01:10:09,585 --> 01:10:10,586
+Guess again.
+
+1177
+01:10:25,475 --> 01:10:26,476
+Sox?
+
+1178
+01:10:27,811 --> 01:10:29,313
+<i>Hello, Buzz.</i>
+
+1179
+01:10:30,189 --> 01:10:31,648
+I don't understand.
+
+1180
+01:10:37,863 --> 01:10:39,156
+I messed this all up.
+
+1181
+01:10:39,323 --> 01:10:41,283
+Hey, it was just a mistake.
+
+1182
+01:10:41,783 --> 01:10:43,118
+Remember what you told me?
+
+1183
+01:10:43,994 --> 01:10:45,078
+This one's different.
+
+1184
+01:10:45,245 --> 01:10:46,246
+Why?
+
+1185
+01:10:46,413 --> 01:10:47,831
+Because it's mine!
+
+1186
+01:10:59,676 --> 01:11:02,596
+I'm supposed to be as good as my grandma.
+
+1187
+01:11:03,180 --> 01:11:05,265
+I'm supposed to be a Hawthorne.
+
+1188
+01:11:08,185 --> 01:11:09,353
+But I'm not.
+
+1189
+01:11:22,699 --> 01:11:23,825
+Buzz?
+
+1190
+01:11:25,994 --> 01:11:27,162
+Wait a minute, hold on.
+
+1191
+01:11:27,329 --> 01:11:28,622
+You're not me.
+I am me.
+
+1192
+01:11:28,789 --> 01:11:29,831
+You are you now.
+
+1193
+01:11:29,998 --> 01:11:32,000
+But I'm you 50 years from now.
+
+1194
+01:11:32,167 --> 01:11:33,335
+Well, there can't be two mes.
+
+1195
+01:11:33,502 --> 01:11:35,003
+Yet here we both are.
+
+1196
+01:11:35,671 --> 01:11:37,047
+Okay then. If you're me.
+
+1197
+01:11:37,214 --> 01:11:38,882
+I'm thinking of
+a number between one and--
+
+1198
+01:11:39,049 --> 01:11:40,634
+1273.
+
+1199
+01:11:40,801 --> 01:11:41,802
+Whoa.
+
+1200
+01:11:42,775 --> 01:11:43,678
+<i>Zurg.</i>
+
+1201
+01:11:43,762 --> 01:11:45,097
+Isn't that cute.
+
+1202
+01:11:45,264 --> 01:11:46,974
+Robots can't quite say "Buzz."
+
+1203
+01:11:47,182 --> 01:11:49,429
+So around here I'm just Zurg.
+
+1204
+01:11:49,513 --> 01:11:50,351
+<i>Zurg.</i>
+
+1205
+01:11:50,435 --> 01:11:51,520
+And I guess so are you.
+
+1206
+01:11:51,687 --> 01:11:52,688
+How? I don't understand.
+
+1207
+01:11:52,855 --> 01:11:54,815
+Do not worry about it.
+None of this is gonna matter.
+
+1208
+01:11:54,982 --> 01:11:55,816
+<i>Buzz.</i>
+
+1209
+01:11:55,983 --> 01:11:56,859
+Yes?
+
+1210
+01:11:57,025 --> 01:11:58,569
+<i>You have to explain it all to him.</i>
+
+1211
+01:11:59,361 --> 01:12:00,362
+You're right.
+
+1212
+01:12:00,529 --> 01:12:02,823
+I'm sorry, it's just exciting.
+
+1213
+01:12:02,990 --> 01:12:04,449
+You're finally here.
+
+1214
+01:12:04,616 --> 01:12:07,077
+See, I reached hyper-speed too.
+
+1215
+01:12:07,494 --> 01:12:08,954
+<i>Hyper-speed.</i>
+
+1216
+01:12:09,663 --> 01:12:11,206
+<i>Like you did.</i>
+
+1217
+01:12:12,082 --> 01:12:14,459
+<i>But I wasn't greeted as a hero.</i>
+
+1218
+01:12:15,419 --> 01:12:20,382
+<i>No, that new Commander was gonna
+arrest me for stealing the XL-15.</i>
+
+1219
+01:12:20,549 --> 01:12:24,178
+<i>I'd found a way to get them home,
+and they didn't even care.</i>
+
+1220
+01:12:24,344 --> 01:12:25,304
+<i>So I escaped.</i>
+
+1221
+01:12:30,767 --> 01:12:34,021
+<i>I went as far as I could,
+as fast as I could.</i>
+
+1222
+01:12:34,688 --> 01:12:37,941
+<i>At that speed for that long
+I'd traveled centuries.</i>
+
+1223
+01:12:38,108 --> 01:12:41,904
+<i>And I ended up in a future
+you wouldn’t recognize.</i>
+
+1224
+01:12:42,112 --> 01:12:44,698
+<i>Filled with technology you can't imagine.</i>
+
+1225
+01:12:45,073 --> 01:12:47,534
+<i>And that's when it dawned on me.</i>
+
+1226
+01:12:47,701 --> 01:12:50,954
+<i>If we can use this crystal
+to go forward in time.</i>
+
+1227
+01:12:51,830 --> 01:12:53,373
+Why not use it to go back?
+
+1228
+01:12:53,540 --> 01:12:55,209
+But we can't go back in time.
+
+1229
+01:12:55,375 --> 01:12:57,169
+-We can now.
+-What?
+
+1230
+01:12:57,377 --> 01:13:00,339
+Listen, Buzz, I've broken time.
+
+1231
+01:13:00,506 --> 01:13:03,511
+What's happening to you
+never happened to me.
+
+1232
+01:13:03,717 --> 01:13:07,054
+This is a new now that's never been lived.
+
+1233
+01:13:07,221 --> 01:13:09,681
+You see, we can change things, Buzz.
+
+1234
+01:13:09,848 --> 01:13:13,894
+Well, if we can go back in time
+we can stop ourselves
+
+1235
+01:13:14,061 --> 01:13:15,020
+from ever landing on that planet.
+
+1236
+01:13:15,187 --> 01:13:16,355
+From ever hitting that mountain.
+
+1237
+01:13:16,522 --> 01:13:17,856
+We can just continue the mission home.
+
+1238
+01:13:18,023 --> 01:13:19,650
+And none of this
+will have ever happened.
+
+1239
+01:13:20,317 --> 01:13:21,735
+it's a good plan.
+
+1240
+01:13:22,027 --> 01:13:24,404
+And this crystal is the key to it all.
+
+1241
+01:13:24,571 --> 01:13:26,031
+Wait, don't you already have one?
+
+1242
+01:13:26,198 --> 01:13:27,699
+Well, sort of.
+
+1243
+01:13:28,992 --> 01:13:32,412
+See, I wore my crystal out
+testing the time travel.
+
+1244
+01:13:32,579 --> 01:13:34,748
+Wore myself out too. It took a while.
+
+1245
+01:13:34,915 --> 01:13:37,334
+Turns out this isn't an exact science.
+
+1246
+01:13:37,501 --> 01:13:40,045
+This is as far back in time
+as I could get.
+
+1247
+01:13:40,212 --> 01:13:42,381
+Come on, help me configure the engine.
+
+1248
+01:13:42,548 --> 01:13:43,715
+It should look familiar.
+
+1249
+01:13:43,882 --> 01:13:45,884
+Wait, is this based on the turnip?
+
+1250
+01:13:46,051 --> 01:13:47,719
+Set it for reversed thrusters, full.
+
+1251
+01:13:50,347 --> 01:13:51,849
+So, we designed all of this?
+
+1252
+01:13:52,057 --> 01:13:54,560
+No, this is all borrowed.
+
+1253
+01:13:54,726 --> 01:13:56,436
+I just made some modifications.
+
+1254
+01:14:02,651 --> 01:14:05,320
+She'll get to be
+a Space Ranger again, Buzz.
+
+1255
+01:14:06,905 --> 01:14:07,990
+Yeah.
+
+1256
+01:14:08,407 --> 01:14:09,408
+Although...
+
+1257
+01:14:09,575 --> 01:14:10,409
+What?
+
+1258
+01:14:10,617 --> 01:14:13,537
+Well, she won't have her family.
+
+1259
+01:14:14,121 --> 01:14:15,163
+She won't have Izzy.
+
+1260
+01:14:15,330 --> 01:14:16,456
+Who's Izzy?
+
+1261
+01:14:17,249 --> 01:14:19,272
+Look, she's not gonna miss anyone
+
+1262
+01:14:19,356 --> 01:14:22,598
+if she never meets them
+in the first place, right?
+
+1263
+01:14:23,922 --> 01:14:27,551
+The only thing people are gonna know
+is that we finished our mission.
+
+1264
+01:14:29,052 --> 01:14:31,221
+Here. Hand me your crystal.
+
+1265
+01:14:34,141 --> 01:14:35,142
+Buzz?
+
+1266
+01:14:36,143 --> 01:14:37,603
+I don't know, maybe...
+
+1267
+01:14:38,020 --> 01:14:39,521
+maybe we should think about this.
+
+1268
+01:14:39,688 --> 01:14:41,064
+Think about what?
+
+1269
+01:14:41,231 --> 01:14:44,443
+Commander Hawthorne believed
+we could fix this mistake we made.
+
+1270
+01:14:44,943 --> 01:14:47,321
+And that belief cost her everything.
+
+1271
+01:14:47,946 --> 01:14:50,365
+Oh, no, no.
+We had that all wrong.
+
+1272
+01:14:50,532 --> 01:14:52,242
+She had a whole life down there.
+
+1273
+01:14:52,409 --> 01:14:53,911
+What kind of life?
+
+1274
+01:14:54,870 --> 01:14:57,080
+We're supposed to be Space Rangers.
+
+1275
+01:14:57,706 --> 01:14:59,333
+We suppose to matter.
+
+1276
+01:15:00,083 --> 01:15:02,544
+You don't wanna live like this, Buzz.
+
+1277
+01:15:02,711 --> 01:15:05,839
+Waking up with that same nightmare.
+
+1278
+01:15:06,006 --> 01:15:08,342
+Haunted by your mistake.
+
+1279
+01:15:08,509 --> 01:15:10,886
+But you can finally let go of that.
+
+1280
+01:15:11,345 --> 01:15:13,013
+Starting right now.
+
+1281
+01:15:15,516 --> 01:15:16,517
+You're right.
+
+1282
+01:15:17,643 --> 01:15:19,019
+I can.
+
+1283
+01:15:20,896 --> 01:15:21,897
+Where are you going?
+
+1284
+01:15:22,648 --> 01:15:24,525
+You and me, we're not the same.
+
+1285
+01:15:25,192 --> 01:15:26,777
+I'm sorry.
+
+1286
+01:15:26,944 --> 01:15:28,111
+No, Buzz.
+
+1287
+01:15:28,987 --> 01:15:30,113
+I'm sorry.
+
+1288
+01:15:43,335 --> 01:15:44,294
+Hey, cat.
+
+1289
+01:15:44,461 --> 01:15:45,879
+Do you know how to fly this thing?
+
+1290
+01:15:46,046 --> 01:15:47,339
+<i>There's no fuel.</i>
+
+1291
+01:15:47,506 --> 01:15:50,425
+See, this is why we should
+never have gotten in over our heads.
+
+1292
+01:15:50,592 --> 01:15:51,510
+What did you wanna do?
+
+1293
+01:15:51,677 --> 01:15:53,220
+Wait at the outpost
+until the robots found us?
+
+1294
+01:15:53,387 --> 01:15:55,013
+That's better
+than being stranded out here.
+
+1295
+01:15:55,180 --> 01:15:56,515
+where no one's ever gonna find us.
+
+1296
+01:15:56,688 --> 01:15:59,983
+You are the last person I wanna be
+stuck with in a life-and-death situation.
+
+1297
+01:16:00,143 --> 01:16:01,270
+Well, you're in luck. Okay?
+
+1298
+01:16:01,436 --> 01:16:03,647
+Cause look around.
+This is just a death situation.
+
+1299
+01:16:03,814 --> 01:16:05,566
+<i>Meow meow.</i>
+
+1300
+01:16:07,234 --> 01:16:08,652
+<i>I've completely lost Buzz.</i>
+
+1301
+01:16:09,695 --> 01:16:11,071
+<i>He's too far away to track.</i>
+
+1302
+01:16:27,421 --> 01:16:28,922
+Everybody, inside!
+
+1303
+01:16:29,089 --> 01:16:29,923
+What?
+
+1304
+01:16:31,300 --> 01:16:32,551
+Get inside the ship.
+
+1305
+01:16:35,262 --> 01:16:36,263
+What's after us now?
+
+1306
+01:16:36,430 --> 01:16:37,431
+We don't have any more weapons.
+
+1307
+01:16:37,598 --> 01:16:38,932
+It's okay. We're getting out of here.
+
+1308
+01:16:39,092 --> 01:16:40,177
+<i>Where are we going?</i>
+
+1309
+01:16:40,350 --> 01:16:41,768
+We're going into space.
+
+1310
+01:16:45,397 --> 01:16:47,191
+Hey, let go of me. No!
+
+1311
+01:16:48,609 --> 01:16:51,653
+I don't understand
+what's happening here, Buzz.
+
+1312
+01:16:52,070 --> 01:16:53,530
+You've changed.
+
+1313
+01:16:53,697 --> 01:16:55,699
+And not for the better.
+
+1314
+01:16:55,866 --> 01:16:56,867
+No!
+
+1315
+01:16:57,034 --> 01:16:59,828
+You can't do this.
+You're gonna erase it all.
+
+1316
+01:17:00,370 --> 01:17:01,455
+Exactly.
+
+1317
+01:17:02,497 --> 01:17:04,374
+No, you gonna take away everything.
+
+1318
+01:17:04,541 --> 01:17:06,919
+People's families, their friends.
+
+1319
+01:17:07,085 --> 01:17:08,504
+My friends.
+
+1320
+01:17:08,962 --> 01:17:10,672
+They have lives on that planet.
+
+1321
+01:17:10,839 --> 01:17:12,299
+Everyone does.
+
+1322
+01:17:12,841 --> 01:17:14,092
+Except for us.
+
+1323
+01:17:15,427 --> 01:17:18,055
+I hardly recognize you, Buzz.
+
+1324
+01:17:18,639 --> 01:17:21,058
+All these new ideas...
+
+1325
+01:17:21,600 --> 01:17:22,768
+You know what?
+
+1326
+01:17:22,935 --> 01:17:24,978
+We'll go ahead and erase those too.
+
+1327
+01:17:27,607 --> 01:17:28,815
+-Whoa.
+<i>-I bought you five minutes.</i>
+
+1328
+01:17:28,982 --> 01:17:29,942
+Why?
+
+1329
+01:17:30,108 --> 01:17:31,318
+I like this new you.
+
+1330
+01:17:33,153 --> 01:17:34,988
+We have to destroy this ship.
+
+1331
+01:17:35,405 --> 01:17:36,532
+Can you get me to the bridge?
+
+1332
+01:17:36,698 --> 01:17:37,783
+<i>Certainly. Follow me.</i>
+
+1333
+01:17:45,061 --> 01:17:45,955
+<i>Zurg.</i>
+
+1334
+01:17:49,711 --> 01:17:52,005
+Operation Surprise Party, here we go.
+
+1335
+01:17:52,207 --> 01:17:53,187
+Zap, zap!
+
+1336
+01:17:54,174 --> 01:17:55,676
+We need to protect our escape ship.
+
+1337
+01:17:55,843 --> 01:17:57,678
+So, don't let any robots
+come through that door.
+
+1338
+01:17:57,845 --> 01:17:59,054
+Don't worry, we'll seal it off.
+
+1339
+01:17:59,221 --> 01:18:00,222
+You go find Buzz.
+
+1340
+01:18:00,389 --> 01:18:01,765
+I'll track the chip in his dog tags.
+
+1341
+01:18:01,932 --> 01:18:03,100
+<i>Meow meow.</i>
+
+1342
+01:18:04,309 --> 01:18:05,310
+What's wrong?
+
+1343
+01:18:05,483 --> 01:18:08,069
+<i>I'm getting two Buzz signals.
+That's can't be right.</i>
+
+1344
+01:18:08,230 --> 01:18:10,691
+<i>I'll triangulate.
+That will get us close enough. Come on.</i>
+
+1345
+01:18:11,859 --> 01:18:13,277
+A shortcut back.
+
+1346
+01:18:21,743 --> 01:18:22,744
+This is pretty neat.
+
+1347
+01:18:22,911 --> 01:18:23,704
+We have to go.
+
+1348
+01:18:23,871 --> 01:18:24,872
+Yep, all right.
+
+1349
+01:18:33,213 --> 01:18:34,214
+Oh, great.
+
+1350
+01:18:34,381 --> 01:18:36,175
+I don't know any of these controls.
+
+1351
+01:18:36,383 --> 01:18:37,384
+Wait. I.V.A.N.?
+
+1352
+01:18:37,551 --> 01:18:38,427
+<i>Yes, Captain?</i>
+
+1353
+01:18:38,594 --> 01:18:40,387
+Boy, am I glad to see you.
+
+1354
+01:18:40,554 --> 01:18:42,764
+Initiate self-destruct sequence
+in two minutes.
+
+1355
+01:18:42,931 --> 01:18:45,559
+<i>You got it.
+Self-destruct countdown initiated.</i>
+
+1356
+01:18:45,726 --> 01:18:48,228
+<i>Buzz, you don't want
+any of this cool technology?</i>
+
+1357
+01:18:48,395 --> 01:18:49,980
+Only you, buddy, come on.
+
+1358
+01:18:50,564 --> 01:18:51,815
+<i>-Traitor!</i>
+-No.
+
+1359
+01:18:53,901 --> 01:18:54,902
+<i>Enough!</i>
+
+1360
+01:18:57,446 --> 01:18:59,823
+<i>Just tell me where the crystal is.</i>
+
+1361
+01:19:00,866 --> 01:19:02,618
+Okay, we've gotta protect our escape ship.
+
+1362
+01:19:02,784 --> 01:19:04,119
+So, how do we close this door?
+
+1363
+01:19:04,286 --> 01:19:05,204
+I don't know.
+
+1364
+01:19:05,363 --> 01:19:06,698
+What? You said,
+"don't worry we'll seal it off."
+
+1365
+01:19:06,872 --> 01:19:08,624
+Right, so don't worry. We will.
+
+1366
+01:19:09,917 --> 01:19:10,918
+Here we go.
+
+1367
+01:19:11,210 --> 01:19:12,586
+Look, see?
+
+1368
+01:19:12,920 --> 01:19:13,921
+What?
+
+1369
+01:19:20,344 --> 01:19:21,386
+<i>Meow meow.</i>
+
+1370
+01:19:21,553 --> 01:19:23,138
+<i>The signal is tighter now.</i>
+
+1371
+01:19:23,305 --> 01:19:24,515
+<i>He has to be straight this way.</i>
+
+1372
+01:19:26,642 --> 01:19:28,227
+That's a lot of space.
+
+1373
+01:19:28,393 --> 01:19:30,354
+Keep it together. Keep it together.
+
+1374
+01:19:30,896 --> 01:19:32,314
+No!
+
+1375
+01:19:33,732 --> 01:19:36,860
+<i>I don't understand.
+The signal says Buzz is 50 meters away.</i>
+
+1376
+01:19:37,819 --> 01:19:39,696
+He's over there.
+
+1377
+01:19:41,281 --> 01:19:42,991
+<i>You think we're not the same, Buzz?</i>
+
+1378
+01:19:43,158 --> 01:19:46,161
+<i>You're already me,
+you just don't know it yet.</i>
+
+1379
+01:19:46,328 --> 01:19:47,746
+I'm never gonna be you!
+
+1380
+01:19:47,913 --> 01:19:51,250
+<i>If you're not gonna be me
+you're not gonna be anyone.</i>
+
+1381
+01:19:54,795 --> 01:19:56,797
+<i>Artificial gravity disengaged.</i>
+
+1382
+01:19:57,047 --> 01:19:58,173
+Blast.
+
+1383
+01:19:59,091 --> 01:20:00,092
+No, no.
+
+1384
+01:20:05,472 --> 01:20:07,307
+-Hey, what are you doing?
+-Building a bomb.
+
+1385
+01:20:07,474 --> 01:20:08,559
+Nice, do you need a pen?
+
+1386
+01:20:08,725 --> 01:20:09,643
+No. Here.
+
+1387
+01:20:10,853 --> 01:20:11,854
+Oh, thank you.
+
+1388
+01:20:12,521 --> 01:20:13,522
+Peppermint.
+
+1389
+01:20:13,689 --> 01:20:14,731
+Give me the wrapper.
+
+1390
+01:20:14,898 --> 01:20:17,192
+So, you can just build a bomb
+out of that stuff?
+
+1391
+01:20:17,365 --> 01:20:18,867
+I worked with less.
+Now give me the gum.
+
+1392
+01:20:19,027 --> 01:20:21,029
+Wait, I'm not done,
+there's still a lot of flavor left.
+
+1393
+01:20:21,196 --> 01:20:22,197
+Come on!
+
+1394
+01:20:23,657 --> 01:20:26,285
+There. When they step on it
+it will blow up.
+
+1395
+01:20:26,451 --> 01:20:27,536
+What if they don't step on it?
+
+1396
+01:20:27,703 --> 01:20:29,663
+I mean, I wouldn't step on that,
+would you?
+
+1397
+01:20:30,622 --> 01:20:32,833
+Then we need to drop
+something heavy on it.
+
+1398
+01:20:39,339 --> 01:20:40,883
+-Just gonna...
+<i>-No!</i>
+
+1399
+01:20:50,726 --> 01:20:51,727
+Buzz?
+
+1400
+01:20:51,894 --> 01:20:53,103
+<i>Buzz!</i>
+
+1401
+01:20:53,270 --> 01:20:54,271
+Alisha?
+
+1402
+01:20:55,731 --> 01:20:57,274
+<i>Are you okay?</i>
+
+1403
+01:20:59,234 --> 01:21:02,988
+No. I can't do it alone.
+I need help.
+
+1404
+01:21:03,356 --> 01:21:06,484
+<i>I'm not my grandma.</i>
+
+1405
+01:21:06,658 --> 01:21:11,079
+Izzy, I don't need your grandma,
+I need you.
+
+1406
+01:21:13,415 --> 01:21:14,917
+Sox, how do we get over there?
+
+1407
+01:21:15,083 --> 01:21:16,084
+<i>Through the airlock.</i>
+
+1408
+01:21:17,294 --> 01:21:18,337
+Through there?
+
+1409
+01:21:18,504 --> 01:21:19,630
+There's nothing out there.
+
+1410
+01:21:19,796 --> 01:21:21,590
+<i>Exactly. Nothing in your way.</i>
+
+1411
+01:21:21,757 --> 01:21:23,217
+<i>You just go straight across.</i>
+
+1412
+01:21:23,383 --> 01:21:24,384
+No!
+
+1413
+01:21:27,179 --> 01:21:28,722
+Let me get this straight,
+when this falls on your bomb
+
+1414
+01:21:28,889 --> 01:21:29,973
+-it will definitely explode.
+-Yes.
+
+1415
+01:21:30,140 --> 01:21:31,141
+-And that will seal the door?
+-Yes.
+
+1416
+01:21:31,850 --> 01:21:32,851
+But we better hurry.
+
+1417
+01:21:33,018 --> 01:21:34,228
+I am hurrying.
+
+1418
+01:21:34,853 --> 01:21:36,480
+Why don't you hurry?
+
+1419
+01:21:37,940 --> 01:21:39,066
+Come on.
+
+1420
+01:21:51,703 --> 01:21:52,371
+<i>Okay.</i>
+
+1421
+01:21:55,332 --> 01:21:57,584
+<i>Come on, Izzy.</i>
+
+1422
+01:21:57,751 --> 01:21:59,378
+<i>You got this.</i>
+
+1423
+01:22:00,671 --> 01:22:02,172
+<i>Oh, man.</i>
+
+1424
+01:22:04,675 --> 01:22:06,009
+<i>Oh, no.</i>
+
+1425
+01:22:07,052 --> 01:22:10,722
+<i>Just don't look down, or up.
+It's all space.</i>
+
+1426
+01:22:11,265 --> 01:22:13,225
+<i>It's everywhere. All around you.</i>
+
+1427
+01:22:13,934 --> 01:22:15,853
+<i>I'm sorry, I'm probably not helping.</i>
+
+1428
+01:22:16,019 --> 01:22:17,229
+<i>Just go straight.</i>
+
+1429
+01:22:17,938 --> 01:22:20,774
+<i>Once you push off
+that the direction you'll go.</i>
+
+1430
+01:22:21,733 --> 01:22:23,110
+<i>But what if I miss?</i>
+
+1431
+01:22:23,777 --> 01:22:24,862
+<i>Don't miss.</i>
+
+1432
+01:22:58,270 --> 01:22:59,229
+<i>What? Oh, no.</i>
+
+1433
+01:22:59,605 --> 01:23:00,939
+<i>No, no!</i>
+
+1434
+01:23:09,615 --> 01:23:10,490
+<i>Whoa!</i>
+
+1435
+01:23:11,950 --> 01:23:13,202
+<i>Sox!</i>
+
+1436
+01:23:19,499 --> 01:23:20,501
+<i>Thank you, Izzy.</i>
+
+1437
+01:23:35,724 --> 01:23:37,226
+<i>There is no way in.</i>
+
+1438
+01:23:37,392 --> 01:23:38,644
+<i>Perhaps I could help.</i>
+
+1439
+01:23:46,568 --> 01:23:48,612
+<i>You can't hide for me, Buzz.</i>
+
+1440
+01:23:48,779 --> 01:23:50,822
+<i>It's like hiding from yourself.</i>
+
+1441
+01:23:51,073 --> 01:23:52,866
+I'll always find you.
+
+1442
+01:24:18,350 --> 01:24:20,352
+<i>Manual override activated.</i>
+
+1443
+01:24:33,782 --> 01:24:34,908
+-Buzz!
+-Now!
+
+1444
+01:24:41,874 --> 01:24:43,125
+Come on, let's get outta here!
+
+1445
+01:24:43,292 --> 01:24:44,418
+We have to blow up the ship.
+
+1446
+01:24:44,585 --> 01:24:46,003
+There's no time.
+We'll never make it.
+
+1447
+01:24:46,420 --> 01:24:47,671
+Oh, yes, we will.
+
+1448
+01:24:55,596 --> 01:24:59,141
+<i>Self-destruct sequence complete in ten...</i>
+
+1449
+01:24:59,975 --> 01:25:02,060
+<i>-...nine, eight...
+-I.V.A.N.? I.V.A.N.!</i>
+
+1450
+01:25:02,800 --> 01:25:03,707
+<i>Zurg.</i>
+
+1451
+01:25:05,814 --> 01:25:06,899
+Darby, we have to surrender.
+
+1452
+01:25:07,065 --> 01:25:09,234
+No! I am not giving up.
+
+1453
+01:25:09,401 --> 01:25:11,528
+Yep, neither am I. Hold on.
+
+1454
+01:25:19,453 --> 01:25:21,538
+<i>-...five, four...</i>
+-Let's go.
+
+1455
+01:25:22,206 --> 01:25:24,541
+<i>-...three, two...</i>
+-Everyone, get in.
+
+1456
+01:25:24,958 --> 01:25:25,959
+<i>...one.</i>
+
+1457
+01:26:21,765 --> 01:26:22,933
+<i>Buzz Lightyear mission log.</i>
+
+1458
+01:26:23,100 --> 01:26:25,686
+<i>We've destroyed the Zurg's ship
+and Zurg himself.</i>
+
+1459
+01:26:25,853 --> 01:26:28,272
+<i>Now I just have to catch up
+to the Armadillo in order to--</i>
+
+1460
+01:26:29,690 --> 01:26:31,191
+<i>Going somewhere?</i>
+
+1461
+01:26:32,359 --> 01:26:34,653
+<i>Warning, engine damage is catastrophic.</i>
+
+1462
+01:26:36,738 --> 01:26:40,742
+<i>Buzz Lightyear mission log.
+I now have the crystal in my possession,</i>
+
+1463
+01:26:41,285 --> 01:26:45,914
+<i>and can finally, at long last
+finish the mission.</i>
+
+1464
+01:26:46,164 --> 01:26:48,667
+<i>I'm gonna go back and matter again, Buzz.</i>
+
+1465
+01:26:49,084 --> 01:26:50,210
+<i>And you?</i>
+
+1466
+01:26:50,395 --> 01:26:52,939
+<i>You will be like you have never here.</i>
+
+1467
+01:26:53,589 --> 01:26:56,466
+<i>Prepare to die.</i>
+
+1468
+01:27:02,181 --> 01:27:03,432
+<i>Not today, Zurg.</i>
+
+1469
+01:27:12,232 --> 01:27:14,234
+<i>We've entered
+the planet's gravitational pull.</i>
+
+1470
+01:27:14,401 --> 01:27:15,360
+Are we gonna crash?
+
+1471
+01:27:15,527 --> 01:27:16,653
+<i>I'm afraid so.</i>
+
+1472
+01:27:30,250 --> 01:27:31,293
+Buzz!
+
+1473
+01:27:45,057 --> 01:27:46,225
+<i>I can't do it.</i>
+
+1474
+01:27:46,391 --> 01:27:48,227
+<i>Buzz, it's okay.</i>
+
+1475
+01:27:48,393 --> 01:27:49,228
+<i>We can.</i>
+
+1476
+01:27:50,395 --> 01:27:51,855
+<i>Can you keep the ship steady?</i>
+
+1477
+01:27:52,272 --> 01:27:53,857
+<i>Yeah. I think so.</i>
+
+1478
+01:27:57,402 --> 01:28:01,490
+Okay, Sox, fuse the emergency battery
+the power of flight controls.
+
+1479
+01:28:01,907 --> 01:28:02,908
+<i>Got it.</i>
+
+1480
+01:28:03,992 --> 01:28:04,993
+I'll need a co-pilot.
+
+1481
+01:28:06,042 --> 01:28:08,169
+Okay, but I've only done this
+in the simulator.
+
+1482
+01:28:08,372 --> 01:28:09,957
+Well, it's about to get real.
+
+1483
+01:28:10,214 --> 01:28:12,675
+Remember, pull back on the yoke--
+
+1484
+01:28:14,336 --> 01:28:16,922
+-Easy.
+-Yep. Sorry. Nice and easy from now on.
+
+1485
+01:28:18,966 --> 01:28:20,092
+It's not working!
+
+1486
+01:28:20,259 --> 01:28:21,844
+<i>We're going in too fast.</i>
+
+1487
+01:28:22,010 --> 01:28:23,136
+<i>-I.V.A.N.
+-Yes, Captain?</i>
+
+1488
+01:28:23,303 --> 01:28:25,389
+<i>-We're going too fast.
+-Congratulations!</i>
+
+1489
+01:28:26,849 --> 01:28:28,809
+We don't need confetti, we need brakes!
+
+1490
+01:28:28,969 --> 01:28:29,636
+<i>Oh, I know!</i>
+
+1491
+01:28:29,810 --> 01:28:31,436
+-The air brake!
+<i>-On the floor.</i>
+
+1492
+01:28:31,603 --> 01:28:32,688
+Darby!
+
+1493
+01:28:33,564 --> 01:28:35,357
+-It's stuck.
+<i>-What?</i>
+
+1494
+01:28:35,524 --> 01:28:36,984
+The cover, it's stuck.
+
+1495
+01:28:37,150 --> 01:28:39,111
+I need a screwdriver,
+or a hair clipper
+
+1496
+01:28:39,278 --> 01:28:40,821
+Some sort of a small wedge.
+
+1497
+01:28:41,864 --> 01:28:43,532
+I've got the pen!
+
+1498
+01:29:03,468 --> 01:29:05,012
+-Buzz!
+- Is everyone okay?
+
+1499
+01:29:05,179 --> 01:29:06,885
+-Yeah.
+-I think so.
+
+1500
+01:29:08,515 --> 01:29:10,434
+The cops! Everybody, run!
+
+1501
+01:29:10,601 --> 01:29:13,061
+Wait. It's just the rescue team.
+
+1502
+01:29:13,896 --> 01:29:15,522
+Right. Okay.
+
+1503
+01:29:16,315 --> 01:29:19,610
+You seem like a decent citizen.
+What led to your incarceration?
+
+1504
+01:29:19,776 --> 01:29:21,361
+I stole a ship.
+
+1505
+01:29:22,571 --> 01:29:26,408
+Who among us hasn't stolen a ship
+in a moment of...
+
+1506
+01:29:27,326 --> 01:29:28,327
+relative desperation?
+
+1507
+01:29:28,493 --> 01:29:31,705
+I'm a man of resources.
+My weapon is ingenuity.
+
+1508
+01:29:31,872 --> 01:29:33,248
+I can do anything!
+
+1509
+01:29:33,415 --> 01:29:34,666
+Can you not shout in my ear?
+
+1510
+01:29:34,833 --> 01:29:35,959
+Yep, sorry.
+
+1511
+01:29:46,671 --> 01:29:47,672
+You're okay?
+
+1512
+01:29:47,763 --> 01:29:49,305
+su.b .T
+
+1513
+01:29:49,389 --> 01:29:50,599
+I was in space.
+
+1514
+01:29:52,392 --> 01:29:54,228
+Your grandma would be proud.
+
+1515
+01:29:55,562 --> 01:29:57,147
+She'd be proud of you too.
+
+1516
+01:29:59,066 --> 01:30:00,776
+She always was.
+
+1517
+01:30:03,237 --> 01:30:05,155
+Wait. Where is your crystal?
+
+1518
+01:30:05,781 --> 01:30:06,949
+It's gone.
+
+1519
+01:30:07,115 --> 01:30:08,825
+But your mission...
+
+1520
+01:30:09,576 --> 01:30:10,744
+You wanted to go home.
+
+1521
+01:30:11,745 --> 01:30:14,373
+You know, for the first time
+in a long time
+
+1522
+01:30:15,707 --> 01:30:17,501
+I feel like I am home.
+
+1523
+01:30:25,958 --> 01:30:26,801
+<i>Zurg.</i>
+
+1524
+01:30:26,885 --> 01:30:28,011
+Look out!
+
+1525
+01:30:30,441 --> 01:30:31,306
+Whoa?
+
+1526
+01:30:37,271 --> 01:30:38,647
+<i>Stop right now!</i>
+
+1527
+01:30:40,732 --> 01:30:42,150
+Lightyear.
+
+1528
+01:30:43,694 --> 01:30:48,031
+You absconded with Star Command property,
+stolen experimental spacecraft
+
+1529
+01:30:48,198 --> 01:30:50,450
+and defied a direct order
+from your commander.
+
+1530
+01:30:50,610 --> 01:30:52,696
+I gotta throw you into stockade.
+
+1531
+01:30:54,204 --> 01:30:57,749
+But I have other plans for you.
+
+1532
+01:30:59,126 --> 01:31:02,379
+We want you to start a new version
+of the Space Ranger Corps.
+
+1533
+01:31:02,546 --> 01:31:04,673
+Universe Protection Division.
+
+1534
+01:31:04,882 --> 01:31:07,050
+You're gonna be
+a Space Ranger again, Buzz.
+
+1535
+01:31:09,178 --> 01:31:12,358
+You can hand-select your team
+from the very best of the Zap Patrol
+
+1536
+01:31:12,442 --> 01:31:13,682
+and train them to your liking.
+
+1537
+01:31:13,766 --> 01:31:14,869
+Zap, zap!
+
+1538
+01:31:16,977 --> 01:31:19,220
+Well, that's very kind of you, sir.
+
+1539
+01:31:19,304 --> 01:31:21,361
+But I'm afraid
+I'm going to have to decline.
+
+1540
+01:31:24,735 --> 01:31:26,153
+I already have my team.
+
+1541
+01:31:37,532 --> 01:31:41,036
+These new suits are amazing.
+Arm blaster, rocket wings.
+
+1542
+01:31:41,210 --> 01:31:42,377
+It could use a pen though.
+
+1543
+01:31:42,586 --> 01:31:45,631
+I can't believe I'm allowed to carry this.
+I wish I had two of them.
+
+1544
+01:31:45,797 --> 01:31:48,217
+You got a clean record.
+and you're free and armed.
+
+1545
+01:31:48,383 --> 01:31:49,510
+How are you still complaining?
+
+1546
+01:31:49,676 --> 01:31:52,012
+I got off for good behavior,
+not good attitude.
+
+1547
+01:31:52,179 --> 01:31:53,347
+<i>You know, I never wear pants,</i>
+
+1548
+01:31:53,514 --> 01:31:55,599
+<i>but suddenly it feels weird
+to not be wearing pants.</i>
+
+1549
+01:31:55,766 --> 01:31:56,934
+<i>Does it look weird without pants?</i>
+
+1550
+01:31:57,093 --> 01:31:58,094
+No, you look good.
+
+1551
+01:31:58,435 --> 01:31:59,561
+I wish I could pull that off.
+
+1552
+01:32:06,026 --> 01:32:09,279
+Look, Grandma, I'm a Space Ranger.
+
+1553
+01:32:09,446 --> 01:32:10,906
+Just like you.
+
+1554
+01:32:22,167 --> 01:32:26,713
+All right, team, we've picked up a signal
+in the Gamma Quadrant of Sector 4.
+
+1555
+01:32:26,880 --> 01:32:30,342
+We don't know what it is, but we're not
+gonna wait for it to invade our home.
+
+1556
+01:32:30,509 --> 01:32:32,845
+Copy, Commander.
+You can count on us.
+
+1557
+01:32:34,012 --> 01:32:37,391
+<i>Buzz Lightyear mission log.
+Star date 4071.</i>
+
+1558
+01:32:37,558 --> 01:32:39,935
+<i>As members
+of the Elite Universe Protection Unit</i>
+
+1559
+01:32:40,102 --> 01:32:41,311
+<i>of the Space Ranger Corps,</i>
+
+1560
+01:32:41,478 --> 01:32:44,064
+<i>we've been charged to protect the galaxy
+from the threat of invasion</i>
+
+1561
+01:32:44,231 --> 01:32:47,276
+<i>from any sworn enemies
+of The Galaxy Alliance.</i>
+
+1562
+01:32:47,818 --> 01:32:50,362
+<i>Okay, everyone, make sure
+you're securely fastened.</i>
+
+1563
+01:32:50,529 --> 01:32:52,698
+<i>-Do we have everything? Munitions?
+-Check.</i>
+
+1564
+01:32:52,865 --> 01:32:54,199
+<i>-Sustenance?
+-I brought sandwiches.</i>
+
+1565
+01:32:54,533 --> 01:32:55,993
+<i>And your tummy will be okay?</i>
+
+1566
+01:32:56,326 --> 01:32:57,911
+<i>-All set.
+-All right.</i>
+
+1567
+01:32:58,996 --> 01:33:00,289
+<i>Am I forgetting anything?</i>
+
+1568
+01:33:00,664 --> 01:33:02,082
+<i>I think we're ready.</i>
+
+1569
+01:33:16,972 --> 01:33:20,100
+<i>Hello, I am your internal
+voice-activated navigator.</i>
+
+1570
+01:33:20,267 --> 01:33:21,727
+<i>Good to have you back, I.V.A.N.</i>
+
+1571
+01:33:22,144 --> 01:33:23,645
+<i>Captain Lightyear, ready for launch.</i>
+
+1572
+01:33:23,937 --> 01:33:24,938
+<i>-Sox?
+-Meow?</i>
+
+1573
+01:33:29,318 --> 01:33:31,612
+<i>I.V.A.N., initiate hyper-launch.</i>
+
+1574
+01:33:31,778 --> 01:33:32,654
+<i>Certainly.</i>
+
+1575
+01:33:34,448 --> 01:33:36,909
+<>All right, Space Rangers.
+Here we go.</i>
+
+1576
+01:33:37,075 --> 01:33:38,285
+<i>To infinity</i>
+
+1577
+01:33:39,912 --> 01:33:41,121
+<i>and beyond.</i>
+
+1578
+01:35:57,382 --> 01:35:58,884
+Laser shield.
+
+1579
+01:43:37,217 --> 01:43:39,261
+<i>Now, should you prefer
+a more scenic route</i>
+
+1580
+01:43:39,428 --> 01:43:42,347
+<i>you'll want to head south
+past the bromite swamps,</i>
+
+1581
+01:43:42,514 --> 01:43:45,058
+<i>a breathtaking sight, or so I am told.</i>
+
+1582
+01:43:45,225 --> 01:43:48,604
+<i>But if you are in a hurry,
+this would be your most direct route.</i>
+
+1583
+01:43:48,770 --> 01:43:49,980
+<i>Any questions?</i>
+
+1584
+01:43:51,023 --> 01:43:52,024
+<i>Hello?</i>

@@ -1,0 +1,4085 @@
+1
+00:02:41,704 --> 00:02:47,669
+<i>This yacht is bringing a revolutionary</i>
+<i>scientific invention to Gotham City.</i>
+
+2
+00:02:47,919 --> 00:02:51,756
+<i>On a peaceful motor ride,</i>
+<i>millionaire Bruce Wayne...</i>
+
+3
+00:02:52,006 --> 00:02:56,888
+<i>... and his ward, Dick Grayson,</i>
+<i>have been summoned to Wayne Manor...</i>
+
+4
+00:02:57,136 --> 00:03:01,057
+<i>... by an urgent but anonymous</i>
+<i>call for help.</i>
+
+5
+00:03:01,307 --> 00:03:06,229
+<i>The invention and its custodian</i>
+<i>are reported in grave danger...</i>
+
+6
+00:03:06,437 --> 00:03:08,273
+<i>... aboard the yacht.</i>
+
+7
+00:03:08,523 --> 00:03:11,192
+<i>Never ones</i>
+<i>to shirk responsibility...</i>
+
+8
+00:03:11,442 --> 00:03:16,072
+<i>... Bruce and Dick, with</i>
+<i>characteristic speed and resolve...</i>
+
+9
+00:03:16,322 --> 00:03:19,284
+<i>... descend promptly to the Batcave.</i>
+
+10
+00:03:19,534 --> 00:03:23,454
+<i>And then, as they have done</i>
+<i>many times before...</i>
+
+11
+00:03:23,705 --> 00:03:28,835
+<i>... as Batman and Robin,</i>
+<i>courageous warriors against crime...</i>
+
+12
+00:03:29,085 --> 00:03:33,131
+<i>... they are off, once again,</i>
+<i>to the rescue.</i>
+
+13
+00:03:34,549 --> 00:03:37,302
+Batteries to power.
+Turbines to speed.
+
+14
+00:03:37,552 --> 00:03:39,929
+Roger. Ready to move out.
+
+15
+00:03:56,487 --> 00:04:00,950
+Batmobile to airport, red alert.
+Prepare Batcopter for takeoff.
+
+16
+00:04:19,886 --> 00:04:21,763
+Batmobile approaching.
+
+17
+00:04:23,014 --> 00:04:27,352
+<i>Red Alert! Gotham Tower to all</i>
+<i>aircraft in the control zone.</i>
+
+18
+00:04:27,602 --> 00:04:32,982
+<i>Enter your holding pattern.</i>
+<i>Batcopter cleared for takeoff.</i>
+
+19
+00:05:16,150 --> 00:05:19,779
+It's good to know
+they're up there doing their job.
+
+20
+00:05:41,342 --> 00:05:44,095
+Batdrift angle: 03 to starboard.
+
+21
+00:05:44,554 --> 00:05:46,931
+Roger. Correcting to port.
+
+22
+00:05:51,853 --> 00:05:56,941
+Altitude: 317. Sink rate: 0.49.
+
+23
+00:06:02,572 --> 00:06:06,618
+- Drop Bat ladder.
+- Bat ladder away.
+
+24
+00:06:26,221 --> 00:06:31,017
+Lock computer on afterdeck.
+Set automatic Bathold.
+
+25
+00:06:37,482 --> 00:06:39,901
+Watch out. This could be tricky.
+
+26
+00:06:40,151 --> 00:06:46,616
+Have no fear. I'll keep all my wits
+about me. So long, for a minute.
+
+27
+00:07:19,232 --> 00:07:21,943
+Batman to Robin,
+ease off on the power!
+
+28
+00:07:28,741 --> 00:07:30,201
+Increase sink rate!
+
+29
+00:07:32,245 --> 00:07:34,289
+Roger! Wilco!
+
+30
+00:07:53,266 --> 00:07:54,851
+Take her up!
+
+31
+00:08:02,483 --> 00:08:04,027
+Holy sardine!
+
+32
+00:08:20,460 --> 00:08:23,922
+Hand me down
+the shark-repellent Bat spray!
+
+33
+00:09:29,070 --> 00:09:32,824
+- Enough pictures.
+- This press conference must be brief.
+
+34
+00:09:33,074 --> 00:09:37,996
+- You're lucky they'll talk to you.
+- Mr. Merrick of <i>The Gotham City Times.</i>
+
+35
+00:09:38,663 --> 00:09:42,709
+A yacht approaching the city
+is said to have disappeared.
+
+36
+00:09:43,418 --> 00:09:47,005
+- Nonsense. How can a yacht disappear?
+- It isn't true?
+
+37
+00:09:47,422 --> 00:09:50,842
+I stand on my answer.
+Mr. Stanley of <i>The Globe.</i>
+
+38
+00:09:51,092 --> 00:09:55,221
+This yacht belonged
+to the famous Big Ben Distilleries.
+
+39
+00:09:55,471 --> 00:09:58,266
+Isn't the proprietor,
+Commodore Schmidlapp...
+
+40
+00:09:58,516 --> 00:10:02,103
+...bringing a new invention
+from Big Ben's lab?
+
+41
+00:10:02,353 --> 00:10:06,357
+- No more questions about that ship.
+- What about that shark?
+
+42
+00:10:06,566 --> 00:10:10,987
+An unfortunate animal who chanced
+to swallow a floating mine.
+
+43
+00:10:11,237 --> 00:10:14,574
+I wouldn't worry about that.
+You there, Miss...
+
+44
+00:10:15,074 --> 00:10:19,204
+Comrade Kitanya Irenya Tatanya
+Karenska Alisoff.
+
+45
+00:10:19,454 --> 00:10:20,997
+From <i>The Moscow Bugle.</i>
+
+46
+00:10:21,539 --> 00:10:25,126
+You grace us with your presence.
+May I be of service?
+
+47
+00:10:25,376 --> 00:10:29,130
+Please, take off the mask
+to give the better picture.
+
+48
+00:10:29,923 --> 00:10:33,301
+- Batman take off his mask?
+- The woman must be mad.
+
+49
+00:10:33,551 --> 00:10:35,720
+Please, Chief O'Hara, all of you.
+
+50
+00:10:36,471 --> 00:10:40,934
+This young lady is a stranger.
+Her request is not unnatural...
+
+51
+00:10:41,184 --> 00:10:44,729
+...however, impossible to grant.
+
+52
+00:10:44,979 --> 00:10:46,940
+- Impossible?
+- Indeed.
+
+53
+00:10:48,066 --> 00:10:53,488
+If we were to remove our masks,
+our true identities would be revealed.
+
+54
+00:10:53,988 --> 00:11:00,078
+- Ruining their value as crime fighters.
+- Not even we know who they are.
+
+55
+00:11:00,620 --> 00:11:03,957
+In fact, our own relatives don't know.
+
+56
+00:11:04,207 --> 00:11:07,335
+But your so curious costumes...
+
+57
+00:11:07,585 --> 00:11:11,965
+Don't be put off by them.
+Under this we're ordinary Americans.
+
+58
+00:11:12,257 --> 00:11:15,677
+You're like the masked vigilantes
+in the Westerns?
+
+59
+00:11:16,052 --> 00:11:19,764
+Batman and Robin are
+deputized agents of the law!
+
+60
+00:11:20,014 --> 00:11:24,060
+- "Support your police" is our message.
+- Well said, Robin.
+
+61
+00:11:24,269 --> 00:11:27,146
+And no better way to end
+this conference.
+
+62
+00:11:27,355 --> 00:11:30,692
+- Thank you and good day.
+- Batman...
+
+63
+00:11:30,942 --> 00:11:35,530
+Never mind, everybody out.
+Come on, we're all busy here.
+
+64
+00:11:35,989 --> 00:11:38,867
+A fine job. You allayed their fears.
+
+65
+00:11:39,117 --> 00:11:42,370
+If I'd told the truth,
+panic would grip the city.
+
+66
+00:11:42,954 --> 00:11:45,373
+The truth. And what is the truth?
+
+67
+00:11:45,999 --> 00:11:48,626
+A decoy. An anonymous warning...
+
+68
+00:11:48,877 --> 00:11:52,547
+...that Schmidlapp's in danger,
+to lure me into a trap.
+
+69
+00:11:52,755 --> 00:11:54,340
+An attempt on his life.
+
+70
+00:11:54,716 --> 00:11:57,927
+While they were luring you
+to a watery grave...
+
+71
+00:11:58,178 --> 00:12:00,346
+...the yacht was being hijacked?
+
+72
+00:12:00,972 --> 00:12:03,474
+- Precisely!
+- And who behind it?
+
+73
+00:12:03,725 --> 00:12:07,187
+What known super criminals
+are at large now?
+
+74
+00:12:07,395 --> 00:12:09,480
+I'll check at once, Batman.
+
+75
+00:12:09,689 --> 00:12:14,736
+Let's have the latest status report
+on criminals at large. Thank you.
+
+76
+00:12:14,944 --> 00:12:18,114
+Coming up on
+the closed-circuit TV screen.
+
+77
+00:12:23,161 --> 00:12:28,291
+<i>Status report. Known super criminals</i>
+<i>not currently imprisoned.</i>
+
+78
+00:12:28,541 --> 00:12:29,584
+The Penguin.
+
+79
+00:12:29,792 --> 00:12:33,963
+That pompous waddling
+master of foul play.
+
+80
+00:12:35,924 --> 00:12:38,801
+- The Joker!
+- Devilish clown prince of crime!
+
+81
+00:12:39,010 --> 00:12:42,347
+If I had a nickel
+for every time he baffled us!
+
+82
+00:12:44,098 --> 00:12:45,683
+The Riddler loose too?
+
+83
+00:12:45,934 --> 00:12:50,563
+So it seems.
+To plague us with his conundrums.
+
+84
+00:12:50,855 --> 00:12:55,193
+- Gosh, and the Catwoman!
+<i>- End of status report.</i>
+
+85
+00:12:55,443 --> 00:12:59,739
+Could be any one of them,
+but which one?
+
+86
+00:13:00,198 --> 00:13:02,075
+Which ones?
+
+87
+00:13:02,325 --> 00:13:06,246
+Pretty fishy what happened to me
+on that ladder.
+
+88
+00:13:06,496 --> 00:13:11,251
+- Where there's a fish, there's Penguin.
+- Wait! It happened at sea.
+
+89
+00:13:11,501 --> 00:13:14,087
+See? "C" for Catwoman!
+
+90
+00:13:14,295 --> 00:13:19,551
+Yet, that exploding shark
+was pulling my leg.
+
+91
+00:13:19,759 --> 00:13:24,347
+- The Joker!
+- It all adds up to a sinister riddle.
+
+92
+00:13:24,639 --> 00:13:28,101
+Riddle-er. Riddler?
+
+93
+00:13:28,393 --> 00:13:31,396
+A thought strikes me.
+
+94
+00:13:31,604 --> 00:13:35,859
+So dreadful I scarcely dare
+give it utterance.
+
+95
+00:13:36,067 --> 00:13:40,280
+The four of them.
+Their forces combined.
+
+96
+00:13:40,488 --> 00:13:43,950
+- Holy nightmare!
+- Batman, could it be?
+
+97
+00:13:44,158 --> 00:13:46,244
+I don't know.
+
+98
+00:13:46,870 --> 00:13:50,874
+But I think I know
+where to find a clue.
+
+99
+00:13:51,082 --> 00:13:56,254
+Robin, to the Batcave!
+We haven't one moment to lose!
+
+100
+00:14:38,004 --> 00:14:39,464
+Ahoy, Catwoman.
+
+101
+00:14:39,714 --> 00:14:44,636
+How many times have I told you?
+Never use my real name in public!
+
+102
+00:14:51,935 --> 00:14:55,230
+You and your trained exploding shark!
+
+103
+00:14:55,438 --> 00:14:58,858
+How should I know they'd have a can...
+
+104
+00:14:59,108 --> 00:15:03,571
+...of shark-repellent Bat spray?
+You sniveling sardine!
+
+105
+00:15:03,780 --> 00:15:06,282
+You pompous puffed-up penguin!
+
+106
+00:15:06,533 --> 00:15:11,538
+Friends, make peace.
+Have a shake on me.
+
+107
+00:15:12,789 --> 00:15:15,291
+A joke a day keeps the gloom away!
+
+108
+00:15:15,750 --> 00:15:18,962
+Sic them, Hecate,
+scratch out their eyes.
+
+109
+00:15:20,088 --> 00:15:25,009
+- Take away that ravenous panther!
+- I'll feed him to the birds.
+
+110
+00:15:25,260 --> 00:15:28,054
+I'll incapacitate it
+with my trick confetti!
+
+111
+00:15:28,304 --> 00:15:32,433
+"United Underworld."
+We're about as united...
+
+112
+00:15:32,642 --> 00:15:36,187
+...as the members
+of the United World headquarters.
+
+113
+00:15:36,437 --> 00:15:39,524
+- What's the matter with you all?
+- She's right.
+
+114
+00:15:39,732 --> 00:15:44,696
+If we don't manage to swallow
+our super-criminal pride...
+
+115
+00:15:44,904 --> 00:15:47,699
+Right, Mr. Riddler, quite right!
+
+116
+00:15:47,949 --> 00:15:51,536
+We must hang together,
+or we shall hang separately.
+
+117
+00:15:52,287 --> 00:15:57,667
+What a pity that would be on the eve
+of the greatest criminal coup ever!
+
+118
+00:15:57,876 --> 00:16:03,381
+- How did it go, Catwoman?
+- Purr-fectly. Purr-fectly.
+
+119
+00:16:04,132 --> 00:16:09,470
+In my disguise as Kitka,
+I penetrated their press conference.
+
+120
+00:16:09,721 --> 00:16:13,099
+- The fools are completely baffled.
+- But undrowned.
+
+121
+00:16:13,349 --> 00:16:16,186
+Yes, unfortunately.
+
+122
+00:16:16,394 --> 00:16:19,939
+Batman's boots didn't even look damp!
+
+123
+00:16:21,149 --> 00:16:24,068
+Our prisoner still doesn't know
+he's kidnapped?
+
+124
+00:16:24,277 --> 00:16:29,741
+He hasn't the foggiest.
+He just keeps ringing for his tea.
+
+125
+00:16:30,325 --> 00:16:34,412
+- There he goes again.
+- Take it to him, man.
+
+126
+00:16:43,796 --> 00:16:45,590
+Come in.
+
+127
+00:16:47,008 --> 00:16:48,927
+Your tea, commodore.
+
+128
+00:16:49,177 --> 00:16:53,264
+Thank you, steward.
+Good service aboard this yacht.
+
+129
+00:16:53,473 --> 00:16:56,851
+We strive to give satisfaction, sir.
+
+130
+00:16:57,060 --> 00:17:00,188
+Your face has the most ghastly pallor.
+
+131
+00:17:00,396 --> 00:17:02,857
+Are you getting enough sea air?
+
+132
+00:17:03,107 --> 00:17:06,069
+My duties keep me mostly undercover.
+
+133
+00:17:06,277 --> 00:17:07,946
+Too bad, too bad.
+
+134
+00:17:08,196 --> 00:17:12,367
+How much longer will this yacht
+be fogbound off the Grand Banks?
+
+135
+00:17:12,992 --> 00:17:14,786
+I couldn't say, sir.
+
+136
+00:17:15,453 --> 00:17:18,998
+Well, gives me a chance
+to catch up on my Dickens.
+
+137
+00:17:19,791 --> 00:17:22,126
+Still, I'd like to get to Gotham City.
+
+138
+00:17:22,585 --> 00:17:27,131
+I've a clever invention
+with me, stored in the hold.
+
+139
+00:17:27,382 --> 00:17:31,052
+Should be worth
+millions of dollars, pip-pip!
+
+140
+00:17:31,636 --> 00:17:37,100
+Well, pip-pip to you, sir! If you
+wish anything further, just ring!
+
+141
+00:17:53,324 --> 00:17:56,077
+Schmidlapp's invention in our hands...
+
+142
+00:17:56,327 --> 00:18:01,040
+...the whole world almost literally
+in our grasp!
+
+143
+00:18:01,249 --> 00:18:06,087
+And Batman and Robin
+still alive to block us.
+
+144
+00:18:06,880 --> 00:18:10,508
+Everything pip-pip with the prisoner!
+He hasn't a clue.
+
+145
+00:18:10,717 --> 00:18:12,969
+- I bet the Dynamic Duo has.
+- What?
+
+146
+00:18:13,178 --> 00:18:15,889
+A clue on how we made
+that ship disappear.
+
+147
+00:18:16,097 --> 00:18:19,893
+- And when they solve it...
+- They'll be out to investigate.
+
+148
+00:18:20,143 --> 00:18:24,022
+But we'll be there first.
+If we hurry, that is.
+
+149
+00:18:24,230 --> 00:18:27,108
+Catwoman, you tend
+to this headquarters.
+
+150
+00:18:27,317 --> 00:18:31,112
+- Attention, you unfathomable finks!
+- Yo-ho!
+
+151
+00:18:31,321 --> 00:18:34,741
+Call down to
+our secret river-bottom dock.
+
+152
+00:18:34,991 --> 00:18:37,535
+- Prepare our submarine for sea.
+- Yo-ho!
+
+153
+00:18:37,744 --> 00:18:40,079
+- Yo-ho what?
+- Sir!
+
+154
+00:18:44,167 --> 00:18:48,838
+Holy Merlin magician!
+Get set for a shock.
+
+155
+00:18:50,298 --> 00:18:53,259
+The Batcamera was aimed at the yacht.
+
+156
+00:18:53,593 --> 00:18:56,971
+- My strange hunch was right.
+- I don't get it...
+
+157
+00:18:57,222 --> 00:19:00,350
+Think! As you remarked,
+no one can make...
+
+158
+00:19:00,558 --> 00:19:03,478
+...a seagoing vessel
+simply disappear.
+
+159
+00:19:03,728 --> 00:19:08,191
+Provided it was ever
+really there at all.
+
+160
+00:19:08,399 --> 00:19:10,568
+- You mean...?
+- Precisely!
+
+161
+00:19:10,777 --> 00:19:14,822
+The yacht we thought we saw
+was a mere illusion.
+
+162
+00:19:15,073 --> 00:19:19,536
+A tricky projection akin
+to the common desert mirage.
+
+163
+00:19:19,786 --> 00:19:22,247
+It deceived our naked eyes...
+
+164
+00:19:22,497 --> 00:19:25,625
+...but was blocked
+by the Batcamera's Batfilter!
+
+165
+00:19:25,875 --> 00:19:28,336
+I know where
+that projection came from.
+
+166
+00:19:29,879 --> 00:19:33,007
+- Observe that bell buoy.
+- What about it?
+
+167
+00:19:33,216 --> 00:19:38,012
+The coordinates of our position
+were 10.3 by 69-B.
+
+168
+00:19:38,221 --> 00:19:42,642
+Feed those figures into
+the navigational aid computer.
+
+169
+00:19:51,401 --> 00:19:54,404
+No legal bell buoy at that position.
+
+170
+00:19:54,654 --> 00:19:58,950
+As I surmised, an illegal projection
+buoy cleverly camouflaged.
+
+171
+00:19:59,159 --> 00:20:01,452
+Maybe the crooks left fingerprints!
+
+172
+00:20:01,703 --> 00:20:06,207
+Good thinking, let's find out.
+To the Batboat, fast!
+
+173
+00:21:01,429 --> 00:21:04,140
+One thing I don't dig, Batman.
+
+174
+00:21:04,766 --> 00:21:08,102
+If that ship was a mirage,
+where's the real one?
+
+175
+00:21:08,311 --> 00:21:13,608
+Taken to some secret island hideaway
+with every soul aboard, save one.
+
+176
+00:21:13,858 --> 00:21:16,110
+- Commodore Schmidlapp?
+- Precisely.
+
+177
+00:21:16,486 --> 00:21:19,822
+For some reason
+the hijackers needed him...
+
+178
+00:21:20,031 --> 00:21:24,202
+...or his invention
+as part of their criminal scheme.
+
+179
+00:21:27,664 --> 00:21:31,417
+Keep an eye on the scope.
+Watch for suspicious vessels.
+
+180
+00:21:32,710 --> 00:21:36,881
+It looks like we've got
+the whole ocean to ourselves.
+
+181
+00:21:50,645 --> 00:21:53,773
+Diving planes, Mr. Bluebeard,
+three degrees.
+
+182
+00:21:53,982 --> 00:21:55,525
+Hoist three degrees.
+
+183
+00:21:55,775 --> 00:21:58,987
+I hope you know
+what you're doing, Penguin.
+
+184
+00:21:59,237 --> 00:22:04,033
+Mr. Riddler, I ignore
+your insipid insinuation, sir!
+
+185
+00:22:05,660 --> 00:22:08,663
+Mr. Joker, you're leaning
+on the control!
+
+186
+00:22:08,872 --> 00:22:11,916
+Don't sound so bossy, if you please!
+
+187
+00:22:12,125 --> 00:22:13,877
+As the poet says:
+
+188
+00:22:14,127 --> 00:22:19,048
+"On land, you may command.
+At sea, it is me!"
+
+189
+00:22:23,720 --> 00:22:29,100
+Now hear this. This is your captain
+speaking, my fine pinioned pirates.
+
+190
+00:22:29,350 --> 00:22:34,564
+We're approaching the buoy.
+There may be skullduggery ahead!
+
+191
+00:22:42,155 --> 00:22:44,949
+- Yo-ho!
+- What? What?
+
+192
+00:22:45,200 --> 00:22:49,496
+Unidentified small craft, bearing 113.
+
+193
+00:22:49,704 --> 00:22:54,083
+Mr. Bluebeard, hold her steady!
+Up periscope!
+
+194
+00:23:21,444 --> 00:23:25,198
+Great quivering icebergs!
+Just as I hoped.
+
+195
+00:23:27,492 --> 00:23:28,827
+Watch your step.
+
+196
+00:23:31,079 --> 00:23:35,083
+An underwater shark cage.
+The source of that fish.
+
+197
+00:23:35,333 --> 00:23:39,170
+What cruelty!
+Stuffing a poor shark with deadly TNT!
+
+198
+00:23:39,420 --> 00:23:42,382
+Nothing's sacred to those devils.
+
+199
+00:23:42,590 --> 00:23:45,176
+Torpedoes! What are we waiting for?
+
+200
+00:23:45,385 --> 00:23:49,180
+Chain of command, Mr. Riddler.
+The Penguin runs the ship.
+
+201
+00:23:49,389 --> 00:23:53,309
+Now hear this, Mr. Joker.
+Load the torpedo tubes!
+
+202
+00:23:56,479 --> 00:23:58,022
+Load torpedo tubes!
+
+203
+00:24:01,985 --> 00:24:04,529
+Salt and corrosion.
+
+204
+00:24:04,737 --> 00:24:09,534
+The infamous old enemies of
+the crime fighter. No prints here.
+
+205
+00:24:10,577 --> 00:24:11,870
+Look here, Batman.
+
+206
+00:24:17,250 --> 00:24:23,006
+That tricky mirage projector
+must be behind this plate.
+
+207
+00:24:26,676 --> 00:24:32,515
+Wow! What a set of superpower lenses!
+No wonder we were fooled.
+
+208
+00:24:35,894 --> 00:24:37,604
+Look, Robin.
+
+209
+00:24:39,939 --> 00:24:42,817
+Holy Long John Silver!
+A pirate periscope!
+
+210
+00:24:43,484 --> 00:24:46,529
+He spotted us! Set torpedoes
+to automatic homing.
+
+211
+00:24:46,988 --> 00:24:49,657
+Set torpedoes to automatic homing!
+
+212
+00:24:51,367 --> 00:24:55,455
+You crazy bird.
+Fire them off, quickly!
+
+213
+00:24:56,039 --> 00:25:02,337
+Activate the remote control
+Penguin magnet inside that buoy.
+
+214
+00:25:05,340 --> 00:25:07,967
+Holy glue pot! What's going on?
+
+215
+00:25:08,176 --> 00:25:13,223
+The fiends! They've converted
+this buoy into a gigantic magnet!
+
+216
+00:25:13,473 --> 00:25:17,852
+It's got us by the metallic objects
+in our utility belts.
+
+217
+00:25:18,436 --> 00:25:21,439
+Torpedo tubes armed!
+
+218
+00:25:22,315 --> 00:25:26,152
+Batman! We're helpless
+in this monstrous, invisible grip!
+
+219
+00:25:26,402 --> 00:25:31,199
+- Steady, Robin. I see one hope.
+- What, Batman?
+
+220
+00:25:31,407 --> 00:25:37,497
+If I could just pry loose
+my utility belt transmitter!
+
+221
+00:25:38,957 --> 00:25:43,378
+- Mr. Joker, are you ready to fire?
+- Yo-ho, ready to fire!
+
+222
+00:25:43,628 --> 00:25:49,300
+Five, four, three, two.
+
+223
+00:25:49,551 --> 00:25:51,678
+- Fire 1!
+- Fire 1!
+
+224
+00:25:58,142 --> 00:26:00,311
+Torpedoes!
+
+225
+00:26:03,731 --> 00:26:10,029
+If I can just reverse the polarity,
+send out waves of super energy.
+
+226
+00:26:20,540 --> 00:26:23,585
+- What happened?
+- Mr. Joker, fire 2!
+
+227
+00:26:23,835 --> 00:26:25,420
+Fire 2!
+
+228
+00:26:31,342 --> 00:26:33,094
+Here comes another one!
+
+229
+00:26:43,104 --> 00:26:46,107
+You and your reconditioned
+surplus torpedoes!
+
+230
+00:26:46,357 --> 00:26:52,113
+He must be using a super energy
+reverse polarizer! Mr. Joker, fire 3!
+
+231
+00:26:52,614 --> 00:26:54,574
+Fire 3!
+
+232
+00:27:02,707 --> 00:27:05,585
+Here comes a third one!
+
+233
+00:27:13,092 --> 00:27:17,347
+Confound it, the batteries are dead!
+
+234
+00:27:22,227 --> 00:27:24,812
+This one's getting through!
+
+235
+00:27:25,063 --> 00:27:27,690
+It is. It's getting through.
+
+236
+00:27:35,907 --> 00:27:37,951
+Surface, Mr. Bluebeard!
+
+237
+00:27:38,159 --> 00:27:42,914
+Let us feast our eyes
+on the watery remains!
+
+238
+00:27:58,638 --> 00:28:02,475
+Gosh, the nobility
+of the almost-human porpoise.
+
+239
+00:28:02,976 --> 00:28:06,563
+True, Robin.
+It was noble of that animal...
+
+240
+00:28:06,813 --> 00:28:10,817
+...to hurl himself into
+the path of that torpedo.
+
+241
+00:28:11,025 --> 00:28:13,027
+He gave his life for ours.
+
+242
+00:28:20,827 --> 00:28:24,581
+Operator, give me the Pentagon,
+Navy department.
+
+243
+00:28:27,417 --> 00:28:29,210
+Too bad.
+
+244
+00:28:30,712 --> 00:28:33,798
+Admiral Fangschliester's office.
+
+245
+00:28:34,799 --> 00:28:36,676
+Hello, Batman speaking.
+
+246
+00:28:38,428 --> 00:28:39,971
+- Who is it?
+- Batman.
+
+247
+00:28:40,680 --> 00:28:42,682
+Oh, Batman.
+
+248
+00:28:42,891 --> 00:28:45,977
+Hello, Batman. Ahoy!
+What can I do for you?
+
+249
+00:28:46,352 --> 00:28:48,438
+Hello, admiral.
+A routine question.
+
+250
+00:28:48,688 --> 00:28:52,775
+Have you recently sold surplus
+submarines? If so, to whom?
+
+251
+00:28:53,651 --> 00:28:56,946
+Just a moment,
+I'll have to look that up.
+
+252
+00:29:01,534 --> 00:29:03,411
+Keep practicing.
+
+253
+00:29:05,705 --> 00:29:11,336
+Answer: Affirmative. We disposed
+of a surplus submarine on Friday.
+
+254
+00:29:11,544 --> 00:29:15,882
+A pre-atomic model.
+To some chap named P.N. Gwynne.
+
+255
+00:29:16,925 --> 00:29:19,385
+- P.N. Gwynne?
+- The Penguin!
+
+256
+00:29:20,053 --> 00:29:23,431
+Did this P.N. Gwynne leave an address?
+
+257
+00:29:23,681 --> 00:29:27,185
+Just a post office box number.
+Would you like it?
+
+258
+00:29:27,393 --> 00:29:31,022
+No, thank you, admiral.
+You've been very helpful.
+
+259
+00:29:31,523 --> 00:29:36,110
+Your tone sounds grim.
+We haven't done anything foolish?
+
+260
+00:29:36,653 --> 00:29:42,158
+Disposing of submarines to persons
+who don't even leave their addresses?
+
+261
+00:29:42,367 --> 00:29:46,871
+<i>- Good day, admiral.</i>
+- Gosh!
+
+262
+00:29:47,747 --> 00:29:50,917
+The Penguin in command
+of a pre-atomic submarine!
+
+263
+00:29:51,125 --> 00:29:56,798
+- Grave situation, Robin.
+- If only we knew what he was up to!
+
+264
+00:29:57,799 --> 00:30:00,343
+Holy Polaris!
+
+265
+00:30:03,054 --> 00:30:05,974
+From that submarine, no doubt.
+
+266
+00:30:20,947 --> 00:30:24,742
+That missile, it's written something.
+
+267
+00:30:29,831 --> 00:30:32,417
+A riddle, in the form of a joke!
+
+268
+00:30:33,209 --> 00:30:38,631
+Let's race back to headquarters.
+You know what this means, don't you?
+
+269
+00:30:48,933 --> 00:30:54,522
+Our fear is confirmed. Penguin,
+Joker, Riddler, their forces combined.
+
+270
+00:30:54,731 --> 00:30:59,402
+- Heaven only knows the objective!
+- It may be worse.
+
+271
+00:30:59,611 --> 00:31:04,407
+- Saints alive, how can that be?
+- Look at this pair of riddles.
+
+272
+00:31:04,657 --> 00:31:08,995
+"What does a turkey do
+when he flies upside down?"
+
+273
+00:31:09,204 --> 00:31:13,166
+- He gobbles up.
+- And number two.
+
+274
+00:31:13,416 --> 00:31:16,711
+"What weighs 6 ounces,
+sits in a tree and is dangerous?"
+
+275
+00:31:16,961 --> 00:31:20,215
+- A sparrow with a machine gun.
+- Of course.
+
+276
+00:31:20,423 --> 00:31:23,593
+Now, combine both answers.
+
+277
+00:31:23,843 --> 00:31:29,182
+What kind of creature would
+gobble up a bird in a tree?
+
+278
+00:31:29,390 --> 00:31:31,893
+Heaven protect us, a cat!
+
+279
+00:31:32,101 --> 00:31:35,855
+Yes, the criminal catalyst
+in this entire affair...
+
+280
+00:31:36,064 --> 00:31:40,652
+...our old archenemy, Catwoman.
+
+281
+00:31:41,444 --> 00:31:45,824
+Penguin, Joker, Riddler
+and Catwoman too!
+
+282
+00:31:46,908 --> 00:31:50,537
+The sum of the angles
+of that rectangle is monstrous.
+
+283
+00:31:50,745 --> 00:31:54,624
+We've been given warning.
+They work to take over...
+
+284
+00:31:54,833 --> 00:31:58,545
+- Gotham City?
+- Any two of them might try that!
+
+285
+00:31:58,795 --> 00:32:03,216
+- The whole country?
+- If it were three, I'd say yes.
+
+286
+00:32:03,424 --> 00:32:08,596
+But four?
+Their minimum objective must be...
+
+287
+00:32:09,013 --> 00:32:11,057
+...the entire world.
+
+288
+00:32:13,226 --> 00:32:16,437
+The United World building,
+dear comrades in crime.
+
+289
+00:32:16,646 --> 00:32:20,692
+Our objective, the Security Council.
+
+290
+00:32:20,942 --> 00:32:25,905
+Sitting like fat birds in a tree
+just waiting to be snatched.
+
+291
+00:32:26,114 --> 00:32:30,076
+And you bungled it!
+The Dynamic Duo escaped our trap!
+
+292
+00:32:30,326 --> 00:32:34,038
+Passing porpoises
+which intercept torpedoes!
+
+293
+00:32:34,247 --> 00:32:36,916
+There ought to be
+a piscatorial statute!
+
+294
+00:32:37,834 --> 00:32:42,422
+Time is short! We've got
+to get Batman before he gets us.
+
+295
+00:32:42,672 --> 00:32:46,384
+I could lure him into
+a giant exploding octopus...
+
+296
+00:32:46,593 --> 00:32:51,514
+After one of your fishy explosions,
+they're still in one piece.
+
+297
+00:32:51,723 --> 00:32:55,727
+I suppose they'll be broken up
+by your moldy jokes!
+
+298
+00:32:55,935 --> 00:33:01,107
+Shut up, all of you!
+I see the way to do it.
+
+299
+00:33:01,316 --> 00:33:05,528
+We'll play each of our treacherous
+trumps in one hand.
+
+300
+00:33:05,778 --> 00:33:08,781
+And we'll do it right here!
+
+301
+00:33:09,407 --> 00:33:11,784
+- How?
+- How?
+
+302
+00:33:12,702 --> 00:33:14,704
+The end.
+
+303
+00:33:14,996 --> 00:33:19,083
+The end of...
+
+304
+00:33:22,045 --> 00:33:25,882
+We shall spring them from
+the Joker's jack-in-the-box...
+
+305
+00:33:26,132 --> 00:33:29,802
+...through that window,
+out over the sea...
+
+306
+00:33:30,053 --> 00:33:36,601
+...and into the waiting arms
+of the Penguin's exploding octopus!
+
+307
+00:33:38,019 --> 00:33:40,522
+The trigger? One of my riddles.
+
+308
+00:33:40,730 --> 00:33:44,526
+And the bait? You, Catwoman.
+
+309
+00:33:44,984 --> 00:33:48,279
+You're mad.
+The minute Batman spots her...
+
+310
+00:33:48,530 --> 00:33:50,990
+...he'll bop her with a Batarang.
+
+311
+00:33:51,199 --> 00:33:54,911
+You don't understand.
+She will be disguised as Kitka.
+
+312
+00:33:55,119 --> 00:34:00,792
+And as Kitka, she shall lure
+some millionaire into a kidnap trap.
+
+313
+00:34:01,084 --> 00:34:04,712
+Of course!
+With a clever clue pointing here.
+
+314
+00:34:04,921 --> 00:34:09,133
+- Batman will race to the rescue.
+- Capital!
+
+315
+00:34:09,384 --> 00:34:12,679
+But who are we going to kidnap?
+
+316
+00:34:12,887 --> 00:34:15,598
+I know the perfect victim.
+
+317
+00:34:15,849 --> 00:34:19,394
+I know the perfect victim! I know!
+
+318
+00:34:19,644 --> 00:34:22,230
+Bruce Wayne, the millionaire head...
+
+319
+00:34:22,480 --> 00:34:27,277
+...of that disgusting do-gooding
+Wayne Foundation.
+
+320
+00:34:28,653 --> 00:34:33,867
+Delicious! Just the sort of square
+citizen Batman will dash to rescue.
+
+321
+00:34:34,409 --> 00:34:37,203
+- Then snap!
+- Into the combination trap.
+
+322
+00:34:37,996 --> 00:34:42,458
+Purr-fect, Riddler, purr-fect.
+
+323
+00:34:44,836 --> 00:34:50,300
+Comrade Wayne? My name is Kitanya
+Irenya Tatanya Karenska Alisoff.
+
+324
+00:34:50,550 --> 00:34:54,262
+I'm from <i>The Moscow Bugle.</i>
+My friends call me Kitka.
+
+325
+00:34:54,596 --> 00:34:59,601
+Kitka. Kitka, a charming acronym.
+
+326
+00:34:59,809 --> 00:35:01,936
+Thank you, Comrade Wayne.
+
+327
+00:35:02,187 --> 00:35:06,941
+The Wayne Foundation is known
+from Leningrad to Kamchatka.
+
+328
+00:35:07,192 --> 00:35:09,652
+It works for peace and understanding.
+
+329
+00:35:09,903 --> 00:35:15,658
+Your picture has appeared
+countless times in <i>The Moscow Bugle.</i>
+
+330
+00:35:16,493 --> 00:35:19,829
+I'm most grateful,
+I wasn't aware of that.
+
+331
+00:35:22,207 --> 00:35:28,004
+You found these riddles on Wayne
+Foundation stationery under your door?
+
+332
+00:35:28,379 --> 00:35:32,300
+Yes, Comrade Wayne.
+That's why I brought them to you.
+
+333
+00:35:32,509 --> 00:35:36,513
+I thought it was some foolishness,
+then I remembered:
+
+334
+00:35:36,721 --> 00:35:39,516
+Is there not
+a bourgeois criminal cad...
+
+335
+00:35:39,724 --> 00:35:42,727
+...the Riddler,
+who preys upon the workers?
+
+336
+00:35:42,936 --> 00:35:45,396
+Your jargon is quaint, Miss Kitka.
+
+337
+00:35:45,647 --> 00:35:48,942
+But there is such a creature.
+
+338
+00:35:49,734 --> 00:35:53,988
+What do we do now? Report
+these riddles to your police...
+
+339
+00:35:54,239 --> 00:35:57,200
+...or perhaps
+to that Cossack Batman?
+
+340
+00:35:57,408 --> 00:36:00,245
+That's hardly necessary at the moment.
+
+341
+00:36:00,495 --> 00:36:04,457
+Doubtless it's the work
+of some harmless crank.
+
+342
+00:36:07,335 --> 00:36:11,923
+Nevertheless, shall we give
+this matter further consideration...
+
+343
+00:36:12,173 --> 00:36:14,676
+...over dinner tonight?
+
+344
+00:36:15,927 --> 00:36:20,098
+What a purr-fectly lovely idea.
+
+345
+00:36:20,765 --> 00:36:24,561
+I'll telephone to cancel
+a previous engagement.
+
+346
+00:36:25,186 --> 00:36:28,022
+Alfred will see you to the door.
+
+347
+00:36:33,486 --> 00:36:34,904
+<i>Do vechera.</i>
+
+348
+00:36:42,287 --> 00:36:44,956
+<i>Do vechera,</i> Comrade Wayne.
+
+349
+00:36:45,206 --> 00:36:51,004
+Alfred, see Miss Kitka out, please.
+Meet me in the Batcave. Emergency.
+
+350
+00:36:51,212 --> 00:36:52,922
+Very good, sir.
+
+351
+00:37:10,231 --> 00:37:14,819
+Listen to these riddles.
+Tell me if you interpret them as I do.
+
+352
+00:37:15,069 --> 00:37:19,324
+- "What has yellow skin and writes?"
+- A ballpoint banana.
+
+353
+00:37:19,532 --> 00:37:24,329
+Right. "What people are
+always in a hurry?"
+
+354
+00:37:24,537 --> 00:37:27,165
+Rushing people? Russians!
+
+355
+00:37:27,957 --> 00:37:31,377
+Right again.
+What would you say they mean?
+
+356
+00:37:31,586 --> 00:37:33,963
+Banana, Russian...
+
+357
+00:37:34,172 --> 00:37:38,134
+A Russian will slip on a banana peel
+and break their neck!
+
+358
+00:37:38,384 --> 00:37:41,763
+Precisely, the only possible meaning.
+
+359
+00:37:41,971 --> 00:37:45,266
+- A clear threat to Miss Kitka's life.
+- Who?
+
+360
+00:37:45,517 --> 00:37:50,563
+Miss Kitka, the charming Russian
+journalist for <i>The Moscow Bugle.</i>
+
+361
+00:37:50,772 --> 00:37:56,110
+In some way she must have unwittingly
+stumbled on the criminals' plot!
+
+362
+00:37:58,780 --> 00:38:00,448
+What is the scheme?
+
+363
+00:38:00,698 --> 00:38:05,245
+Tonight Bruce Wayne will go out
+on the town with Miss Kitka.
+
+364
+00:38:05,495 --> 00:38:07,747
+- A not displeasing chore.
+- Indeed.
+
+365
+00:38:07,997 --> 00:38:09,749
+I've rarely met a girl...
+
+366
+00:38:09,958 --> 00:38:14,212
+...who's a potent argument
+in favor of international relations.
+
+367
+00:38:14,462 --> 00:38:17,215
+You will dog our footsteps
+in the Batmobile.
+
+368
+00:38:17,423 --> 00:38:20,760
+You'll keep watch via the Batscanner.
+
+369
+00:38:21,010 --> 00:38:25,390
+- If the Riddler tries to make good...
+- I'll bash him brutally.
+
+370
+00:38:25,598 --> 00:38:28,184
+Then we close in with the police.
+
+371
+00:38:28,434 --> 00:38:31,312
+- Got your driver's license?
+- In my wallet.
+
+372
+00:38:31,938 --> 00:38:37,652
+Good man. Drive carefully. Good luck!
+This may be a memorable night.
+
+373
+00:40:16,209 --> 00:40:22,173
+This curtain which separates
+our countries is so foolish.
+
+374
+00:40:22,382 --> 00:40:25,301
+If we could just contrive...
+
+375
+00:40:25,552 --> 00:40:30,265
+...some way of getting more
+deeply involved with each other.
+
+376
+00:40:30,515 --> 00:40:36,604
+<i>Da,</i> we must search for such a method.
+
+377
+00:40:53,037 --> 00:40:55,415
+It's wrong to listen to this.
+
+378
+00:40:55,665 --> 00:40:59,586
+Some things have to be private,
+even for a crime fighter.
+
+379
+00:40:59,836 --> 00:41:05,008
+Your discretion is admirable,
+Master Robin, yes.
+
+380
+00:41:05,258 --> 00:41:08,887
+- Time for another check-in.
+- Roger.
+
+381
+00:41:10,597 --> 00:41:12,891
+- Commissioner.
+- Yes?
+
+382
+00:41:15,768 --> 00:41:18,855
+- Yes, Boy Wonder.
+- Batmobile position:
+
+383
+00:41:19,063 --> 00:41:22,317
+Gotham Park,
+proceeding south on West Drive.
+
+384
+00:41:22,567 --> 00:41:25,153
+About to pass
+Benedict Arnold monument.
+
+385
+00:41:25,653 --> 00:41:31,159
+Still in the park? It's been
+almost an hour. What are they doing?
+
+386
+00:41:32,994 --> 00:41:38,416
+No comment, commissioner. Let's just
+say, no sign of criminal activity.
+
+387
+00:41:39,751 --> 00:41:42,086
+Yes, I understand.
+
+388
+00:41:42,962 --> 00:41:46,216
+I've just thought of a clever ruse.
+
+389
+00:41:46,466 --> 00:41:49,511
+Have Chief O'Hara
+flash the Batsignal.
+
+390
+00:41:50,094 --> 00:41:52,305
+If you say so, but why?
+
+391
+00:41:52,972 --> 00:41:56,518
+The crooks will think
+we're racing to headquarters.
+
+392
+00:41:56,768 --> 00:42:01,523
+Thinking we're out of the way,
+they might strike at Miss Kitka!
+
+393
+00:42:02,148 --> 00:42:03,858
+Devilishly clever!
+
+394
+00:42:05,318 --> 00:42:09,113
+- Thank you. Batmobile over and out.
+- Right.
+
+395
+00:42:10,073 --> 00:42:14,786
+- Chief O'Hara, flash the Batsignal.
+- Yes, sir.
+
+396
+00:42:21,626 --> 00:42:24,838
+Shades of Smolensk, what is that?
+
+397
+00:42:25,046 --> 00:42:27,340
+Incredible, I don't...
+
+398
+00:42:29,467 --> 00:42:33,555
+- Of course! How clever.
+- Clever, Comrade Wayne?
+
+399
+00:42:33,763 --> 00:42:37,350
+I mean, clever device, Miss Kitka.
+
+400
+00:42:37,600 --> 00:42:41,688
+It's the Batsignal,
+from the roof of police headquarters.
+
+401
+00:42:41,938 --> 00:42:44,899
+Batman must be racing
+there in response.
+
+402
+00:42:45,150 --> 00:42:50,738
+Then you did get the police
+to call them in for my protection.
+
+403
+00:42:50,989 --> 00:42:53,408
+Yes, yes.
+
+404
+00:42:54,033 --> 00:42:59,038
+How purr-fectly wonderful of you!
+
+405
+00:43:00,165 --> 00:43:04,919
+I close my eyes and I dream
+of those savage Cossacks...
+
+406
+00:43:05,128 --> 00:43:08,840
+...racing over the steps
+on their mission.
+
+407
+00:43:11,759 --> 00:43:13,845
+How strange.
+
+408
+00:43:14,554 --> 00:43:19,058
+I close my eyes,
+and I dream of something...
+
+409
+00:43:19,267 --> 00:43:23,646
+...quite astonishingly different.
+
+410
+00:43:27,066 --> 00:43:32,822
+Keep your eyes closed.
+Continue with this dream.
+
+411
+00:43:37,785 --> 00:43:41,581
+The dream continues.
+
+412
+00:43:51,674 --> 00:43:54,093
+It approaches a climax.
+
+413
+00:43:54,344 --> 00:43:58,681
+Not so fast. Be more slow.
+
+414
+00:44:01,976 --> 00:44:04,062
+Miss Kitka?
+
+415
+00:44:05,313 --> 00:44:09,943
+May I see you home
+to that penthouse apartment?
+
+416
+00:44:17,075 --> 00:44:21,454
+- He swallowed the Catbait!
+- And now to make him Batbait.
+
+417
+00:44:21,704 --> 00:44:26,626
+Finks, Morgan, Bluebeard, Quetch,
+the jetpack umbrellas!
+
+418
+00:44:48,106 --> 00:44:51,484
+I'll slip into something
+more comfortable...
+
+419
+00:44:51,734 --> 00:44:54,988
+...while your cocoa is warming.
+
+420
+00:45:14,257 --> 00:45:18,887
+Is that prudent?
+Our instructions were to keep watch.
+
+421
+00:45:19,095 --> 00:45:24,601
+I don't know about prudent.
+But it's the only decent thing to do.
+
+422
+00:45:26,144 --> 00:45:30,231
+Perhaps. Yes, yes.
+
+423
+00:45:48,291 --> 00:45:54,255
+There it is, 73rd Street
+and Concord Avenue.
+
+424
+00:45:54,464 --> 00:45:57,509
+Follow me down to the terrace.
+
+425
+00:46:17,028 --> 00:46:21,574
+<i>And all my days are trances</i>
+<i>And all my nightly dreams</i>
+
+426
+00:46:21,825 --> 00:46:24,494
+<i>Are where thy dark eye glances</i>
+
+427
+00:46:24,744 --> 00:46:28,998
+<i>And where thy footstep gleams</i>
+
+428
+00:46:33,044 --> 00:46:36,548
+Edgar Allan Poe, Miss Kitka.
+
+429
+00:46:36,798 --> 00:46:40,927
+"To One in Paradise," first stanza.
+
+430
+00:46:41,761 --> 00:46:45,473
+About that dream you had...
+
+431
+00:46:45,765 --> 00:46:49,060
+- Do we dare?
+- Why not?
+
+432
+00:46:49,394 --> 00:46:51,271
+Yes, of course. Why not?
+
+433
+00:46:51,479 --> 00:46:56,609
+Of what use is a dream if not
+a blueprint for courageous action?
+
+434
+00:46:56,860 --> 00:47:00,530
+Into action, comrade.
+
+435
+00:47:01,322 --> 00:47:05,368
+Miss Kitka,
+I have the strangest feeling...
+
+436
+00:47:05,577 --> 00:47:11,166
+...that I am about to be utterly
+and madly carried away.
+
+437
+00:47:15,920 --> 00:47:18,673
+- This is a kidnapping!
+- Our joke's on you!
+
+438
+00:47:20,008 --> 00:47:23,887
+You filthy criminals!
+
+439
+00:48:07,764 --> 00:48:11,059
+- Much as one deplores indiscretion...
+- Right.
+
+440
+00:48:11,309 --> 00:48:14,270
+I'll just take one tiny, tiny peek.
+
+441
+00:48:17,315 --> 00:48:19,400
+- Holy demolition!
+- Bless my dustpan!
+
+442
+00:48:19,651 --> 00:48:23,530
+Cover the exits.
+I'll race up with my Batrope!
+
+443
+00:48:24,113 --> 00:48:25,990
+Holy Halloween!
+
+444
+00:48:52,392 --> 00:48:55,687
+Strange, Batman should've
+been here hours ago.
+
+445
+00:48:55,937 --> 00:48:58,565
+Maybe you didn't leave
+a clear enough clue.
+
+446
+00:48:58,773 --> 00:49:04,237
+I did! I can't understand why
+Batman hasn't dashed into our trap.
+
+447
+00:49:04,487 --> 00:49:08,533
+He puts his foot here,
+my secret jack-in-the-box fires...
+
+448
+00:49:08,783 --> 00:49:11,411
+...shooting him over the sea...
+
+449
+00:49:11,661 --> 00:49:15,582
+...into the waiting arms
+of Penguin's exploding octopus.
+
+450
+00:49:15,790 --> 00:49:18,418
+What a deliciously
+humorous trajectory!
+
+451
+00:49:18,626 --> 00:49:22,547
+And nothing
+to link us with the crime.
+
+452
+00:49:28,428 --> 00:49:33,391
+You abominable outlaws!
+What have you done with Miss Kitka?
+
+453
+00:49:33,641 --> 00:49:36,102
+She's quite well, Mr. Wayne.
+
+454
+00:49:36,978 --> 00:49:41,065
+I swear by heaven,
+if you've harmed that girl...
+
+455
+00:49:41,274 --> 00:49:43,860
+...I'll kill you all.
+
+456
+00:49:44,110 --> 00:49:48,198
+I'll rend you limb from limb!
+
+457
+00:49:51,993 --> 00:49:55,371
+Mr. Wayne, must you be so impulsive?
+
+458
+00:50:03,004 --> 00:50:05,715
+Where is she?
+Show me Miss Kitka...
+
+459
+00:50:05,924 --> 00:50:09,636
+...or I'll wreck this place
+with my dying breath!
+
+460
+00:50:09,844 --> 00:50:12,013
+Blindfold the captive.
+
+461
+00:50:12,222 --> 00:50:17,185
+Lead him down the labyrinthine path
+to chamber 17.
+
+462
+00:50:32,325 --> 00:50:34,911
+Two minutes, no more.
+
+463
+00:50:38,665 --> 00:50:41,960
+- Turn on the secret microphone.
+- Quiet, quiet!
+
+464
+00:50:43,461 --> 00:50:45,755
+- Miss Kitka.
+- Comrade Wayne.
+
+465
+00:50:45,964 --> 00:50:48,049
+Are you all right?
+
+466
+00:50:50,009 --> 00:50:52,846
+I'll curse myself forever.
+
+467
+00:50:53,054 --> 00:50:57,016
+This nasty soup we're in
+is of my brewing.
+
+468
+00:51:01,396 --> 00:51:05,400
+If I hadn't let your beauty
+lull me off guard...
+
+469
+00:51:05,608 --> 00:51:07,819
+Off guard, comrade?
+
+470
+00:51:08,027 --> 00:51:11,406
+There are some things
+I cannot disclose.
+
+471
+00:51:11,614 --> 00:51:14,951
+But we're in the hands
+of the most vicious foursome.
+
+472
+00:51:15,577 --> 00:51:20,456
+<i>I fear we have nothing</i>
+<i>to look forward to but death.</i>
+
+473
+00:51:26,754 --> 00:51:29,716
+It may not be that black,
+Comrade Wayne.
+
+474
+00:51:29,924 --> 00:51:33,136
+Batman and Robin are
+probably hot on our trail.
+
+475
+00:51:33,344 --> 00:51:36,055
+From something
+I happened to overhear...
+
+476
+00:51:36,306 --> 00:51:39,601
+<i>... I think we are merely</i>
+<i>bait for Batman.</i>
+
+477
+00:51:39,809 --> 00:51:42,645
+<i>Once he's in their trap,</i>
+<i>we'll be released.</i>
+
+478
+00:51:42,896 --> 00:51:48,860
+A slender hope, Miss Kitka.
+More slender than you can know.
+
+479
+00:51:49,068 --> 00:51:52,697
+You do not think
+Batman will get here?
+
+480
+00:51:53,364 --> 00:51:55,450
+That I cannot say.
+
+481
+00:51:55,700 --> 00:51:58,369
+Did you overhear any mention...
+
+482
+00:51:58,578 --> 00:52:02,040
+...of any other prisoner
+of this rotten gang?
+
+483
+00:52:02,248 --> 00:52:04,042
+No, I did not.
+
+484
+00:52:05,001 --> 00:52:07,712
+<i>Who on earth could you mean?</i>
+
+485
+00:52:09,881 --> 00:52:12,634
+Commodore Schmidlapp
+ringing for his tea.
+
+486
+00:52:12,884 --> 00:52:17,764
+Just a thought, it doesn't matter.
+Speedy escape is our only hope.
+
+487
+00:52:18,014 --> 00:52:20,350
+A moment, while I think...
+
+488
+00:52:21,267 --> 00:52:23,812
+<i>Why didn 't I think of it sooner?</i>
+
+489
+00:52:24,020 --> 00:52:25,688
+Of what?
+
+490
+00:52:25,939 --> 00:52:30,860
+Up my sleeve I have a radio
+transmitter strapped above my elbow.
+
+491
+00:52:31,069 --> 00:52:34,656
+- What a curious device to carry.
+- Not at all.
+
+492
+00:52:34,864 --> 00:52:39,369
+Capitalists who carry a lot of money
+have safety contrivances.
+
+493
+00:52:39,577 --> 00:52:42,956
+If I can just get at it...
+
+494
+00:52:43,373 --> 00:52:46,209
+Wiggle around back-to-back.
+
+495
+00:52:46,459 --> 00:52:50,046
+Maybe you can reach it
+with your fingers.
+
+496
+00:52:55,051 --> 00:52:57,345
+Let's get him.
+
+497
+00:52:59,013 --> 00:53:00,932
+There we are.
+
+498
+00:53:01,182 --> 00:53:04,394
+You think you're pretty clever,
+don't you?
+
+499
+00:53:04,602 --> 00:53:08,481
+- Clever enough to outwit you.
+- We'll see about that.
+
+500
+00:53:08,731 --> 00:53:14,154
+Dear colleagues, let's see
+what's strapped above his left elbow.
+
+501
+00:53:16,406 --> 00:53:20,326
+Cretinous creatures!
+I knew you'd been listening in!
+
+502
+00:53:20,577 --> 00:53:24,164
+I told you that fish story
+about a radio...
+
+503
+00:53:36,968 --> 00:53:38,261
+Get him!
+
+504
+00:54:08,958 --> 00:54:12,587
+Miss Kitka! Where are you?
+
+505
+00:54:42,200 --> 00:54:44,536
+- Great day!
+- Hello, commissioner.
+
+506
+00:54:44,744 --> 00:54:48,540
+Dick, we're late for
+that demonstration. Excuse us.
+
+507
+00:54:48,748 --> 00:54:52,001
+But you can't dash off now.
+How did you escape?
+
+508
+00:54:52,210 --> 00:54:56,256
+- With the aid of Batman.
+- Thank goodness for the Caped Crusader.
+
+509
+00:54:56,506 --> 00:55:01,427
+Return to police headquarters.
+He may wish to call you.
+
+510
+00:55:39,674 --> 00:55:44,637
+My fine finkish friends, you have
+heard my astounding proposal.
+
+511
+00:55:44,888 --> 00:55:49,559
+What do you say?
+What do you say?!
+
+512
+00:55:49,767 --> 00:55:52,312
+Our strike cannot be postponed.
+
+513
+00:55:52,520 --> 00:55:56,483
+We're at the mercy
+of the Gotham River tide.
+
+514
+00:55:56,691 --> 00:56:00,153
+It's now or never
+to get through the channel.
+
+515
+00:56:00,361 --> 00:56:06,201
+Batman will never come here now.
+But the police will, any instant.
+
+516
+00:56:06,451 --> 00:56:11,748
+So, to the Penguin's princely plan.
+Is it yes or no?
+
+517
+00:56:12,540 --> 00:56:18,755
+It's crazy, but let's try it.
+We have to get Batman out of the way.
+
+518
+00:56:18,963 --> 00:56:21,090
+Oh, go ahead, Penguin.
+
+519
+00:56:21,341 --> 00:56:27,597
+Would you drop one of your dream pills
+into Commodore Schmidlapp's tea?
+
+520
+00:56:27,805 --> 00:56:32,143
+- Presto!
+- Then carry him to the submarine!
+
+521
+00:56:33,061 --> 00:56:35,897
+Mr. Riddler,
+will you tell Mr. Quetch...
+
+522
+00:56:36,105 --> 00:56:40,693
+...to fetch the five guinea pigs?
+
+523
+00:56:43,196 --> 00:56:46,115
+Fetch the guinea pigs.
+
+524
+00:57:02,298 --> 00:57:03,758
+Yo-ho-ho, sir!
+
+525
+00:57:04,008 --> 00:57:06,719
+Now, my fine fishy finks...
+
+526
+00:57:06,928 --> 00:57:10,765
+...you see the commodore's
+pièce de "no-résistance"...
+
+527
+00:57:11,015 --> 00:57:13,810
+...an instant whiskey maker.
+
+528
+00:57:14,018 --> 00:57:18,857
+Waiting for us to put it
+to more universal use.
+
+529
+00:57:19,566 --> 00:57:23,653
+Don't be afraid.
+You'll feel nothing.
+
+530
+00:57:24,320 --> 00:57:27,699
+I am merely going
+to temporarily extract...
+
+531
+00:57:27,907 --> 00:57:31,452
+...every bit of moisture
+from your bodies!
+
+532
+00:57:31,828 --> 00:57:33,830
+It's a painless operation.
+
+533
+00:58:06,571 --> 00:58:09,073
+- Delightful!
+- Dehydrated!
+
+534
+00:58:09,282 --> 00:58:12,660
+Catwoman, will you get a dustpan...
+
+535
+00:58:12,869 --> 00:58:18,374
+...and put every one of them
+very carefully into separate vials?
+
+536
+00:58:20,126 --> 00:58:24,547
+Mr. Riddler, would you prepare
+the submarine to get underway...
+
+537
+00:58:24,756 --> 00:58:30,303
+...while I prepare a terrifying
+demolition charge for the police?
+
+538
+00:58:30,553 --> 00:58:34,265
+- Where do we meet?
+- United World building.
+
+539
+00:58:34,474 --> 00:58:37,352
+Gotham River.
+39th floor. The elevator.
+
+540
+00:58:37,560 --> 00:58:39,646
+- One hour?
+- One hour.
+
+541
+00:58:42,524 --> 00:58:46,236
+What criminal genius, Catwoman!
+
+542
+00:58:46,444 --> 00:58:50,573
+Who but a genius could conceive
+such an audacious plot?
+
+543
+00:58:51,074 --> 00:58:56,579
+To trick Batman and Robin into
+inviting me to their Batcave...
+
+544
+00:58:56,830 --> 00:59:03,002
+...with five dehydrated
+death-dealing pirates at my command.
+
+545
+00:59:03,920 --> 00:59:09,259
+Careful, careful.
+Every one of them has a mother.
+
+546
+00:59:35,243 --> 00:59:38,872
+Out, Batarang and Batrope.
+Stand clear.
+
+547
+00:59:52,844 --> 00:59:58,308
+With people in weird outfits
+like the supercrooks around here...
+
+548
+00:59:58,558 --> 01:00:02,270
+...it's amazing no one reports
+this place to the police!
+
+549
+01:00:02,479 --> 01:00:06,816
+It's a low neighborhood,
+full of rum pots.
+
+550
+01:00:07,108 --> 01:00:10,570
+They attribute curious sights
+to alcoholic delusions.
+
+551
+01:00:10,778 --> 01:00:12,780
+Drink is a filthy thing.
+
+552
+01:00:12,989 --> 01:00:16,618
+I'd rather be dead than unable
+to trust my own eyes.
+
+553
+01:00:22,874 --> 01:00:26,628
+Yes, honey. There was someone
+walking up the wall.
+
+554
+01:00:40,600 --> 01:00:43,728
+Ready with super-blinding Batpellets.
+
+555
+01:00:46,314 --> 01:00:48,483
+- Away, Robin. Away!
+- But...
+
+556
+01:00:54,239 --> 01:00:55,865
+Come on, Batman.
+
+557
+01:00:56,115 --> 01:00:57,492
+Batman!
+
+558
+01:01:02,497 --> 01:01:04,374
+Miss Kitka!
+
+559
+01:01:31,943 --> 01:01:37,532
+Quick, everyone!
+Flee for your lives! Into the street!
+
+560
+01:03:07,622 --> 01:03:11,167
+Some days you just can't
+get rid of a bomb.
+
+561
+01:03:36,484 --> 01:03:39,737
+- It's all right.
+- Holy heart failure!
+
+562
+01:03:39,988 --> 01:03:43,825
+I was able to dispose
+of that bomb just in time...
+
+563
+01:03:44,033 --> 01:03:47,537
+...and shield myself
+behind these iron pipes.
+
+564
+01:03:47,745 --> 01:03:51,541
+You risked your life to save
+that riffraff in the bar?
+
+565
+01:03:51,749 --> 01:03:55,962
+They may be drinkers,
+but they're also human beings...
+
+566
+01:03:56,171 --> 01:03:58,548
+...and may be salvaged.
+
+567
+01:03:58,756 --> 01:04:00,633
+I had to do it!
+
+568
+01:04:00,884 --> 01:04:05,930
+But we lost the trail of Miss Kitka.
+Stranded without a clue!
+
+569
+01:04:06,264 --> 01:04:10,185
+Ahoy there! Could you chaps
+direct me to a policeman?
+
+570
+01:04:10,435 --> 01:04:16,441
+Commodore Schmidlapp's the name.
+Big Ben Distilleries, you know.
+
+571
+01:04:17,317 --> 01:04:20,570
+- Holy costume party. The Penguin!
+- Obviously.
+
+572
+01:04:20,778 --> 01:04:22,197
+What's his game?
+
+573
+01:04:23,114 --> 01:04:26,659
+- What's your game, Penguin?
+- Penguin?
+
+574
+01:04:27,160 --> 01:04:30,497
+No, my name's Schmidlapp,
+old boy, Schmidlapp.
+
+575
+01:04:31,247 --> 01:04:33,958
+Your fingerprints will
+settle that hash.
+
+576
+01:04:34,167 --> 01:04:39,380
+We'll check them against our mobile
+anti-crime file in our Batmobile.
+
+577
+01:04:39,589 --> 01:04:42,300
+Let's see your hands.
+
+578
+01:04:44,093 --> 01:04:46,721
+Looks like plastic-coated fingertips!
+
+579
+01:04:46,930 --> 01:04:50,183
+Yes, I scorched myself
+pressing a waistcoat.
+
+580
+01:04:50,391 --> 01:04:56,064
+I do believe the attending
+surgeon did use plastic, yes.
+
+581
+01:04:57,524 --> 01:05:01,611
+It looks bad.
+This brassy bird has us buffaloed.
+
+582
+01:05:01,820 --> 01:05:03,988
+Not quite.
+
+583
+01:05:04,197 --> 01:05:07,992
+There's one method of identification
+no one can evade.
+
+584
+01:05:08,243 --> 01:05:11,079
+Retinal eye patterns?
+
+585
+01:05:11,704 --> 01:05:14,874
+He's right. The pattern
+of blood vessels...
+
+586
+01:05:15,124 --> 01:05:18,795
+...in the retina,
+as individual as a fingerprint.
+
+587
+01:05:19,295 --> 01:05:23,508
+Don't you have an anti-criminal,
+eye-pattern master file...
+
+588
+01:05:23,716 --> 01:05:27,387
+...in your Batcave?
+Why don't you take me there?
+
+589
+01:05:27,637 --> 01:05:33,309
+- You'll submit yourself to a test?
+- It might be an amusing experience.
+
+590
+01:05:34,310 --> 01:05:38,273
+Stand by to catch him, Robin.
+I'll give him the Batgas.
+
+591
+01:05:38,815 --> 01:05:40,483
+What? Batgas?
+
+592
+01:05:40,900 --> 01:05:44,904
+An anesthetic, necessary
+to prevent you from seeing...
+
+593
+01:05:45,113 --> 01:05:47,157
+...the entrance to the Batcave.
+
+594
+01:05:47,365 --> 01:05:51,911
+If anyone knew that, they could
+pierce the secret of our identities.
+
+595
+01:05:52,120 --> 01:05:53,621
+Ready, commodore?
+
+596
+01:05:53,872 --> 01:05:59,127
+Oh, I say, what deucedly strange
+customs you colonials have!
+
+597
+01:05:59,335 --> 01:06:01,337
+Well, I'm ready.
+
+598
+01:06:08,595 --> 01:06:11,806
+To the Batmobile.
+This could be our break.
+
+599
+01:06:24,068 --> 01:06:27,572
+- I wonder why he let us take him?
+- We'll soon know.
+
+600
+01:06:27,780 --> 01:06:31,201
+- I've got the eye checker.
+- Stay on the alert.
+
+601
+01:06:31,618 --> 01:06:36,998
+After I give him the Batwake,
+we must be ready for anything.
+
+602
+01:06:43,421 --> 01:06:48,510
+Oh, it's you.
+We're here, eh? I see.
+
+603
+01:06:49,093 --> 01:06:54,015
+Oh, what's this? Oh, say!
+
+604
+01:06:54,224 --> 01:07:00,146
+This is extraordinary!
+It's absolutely extraordinary!
+
+605
+01:07:00,355 --> 01:07:03,983
+I must say that your laboratory
+exceeds the limits...
+
+606
+01:07:04,192 --> 01:07:07,654
+...of man's wildest imagination.
+
+607
+01:07:07,862 --> 01:07:10,824
+Could I trouble you
+for a glass of water?
+
+608
+01:07:11,032 --> 01:07:15,286
+Your Batgas has left me
+with a parched sensation.
+
+609
+01:07:15,829 --> 01:07:18,706
+The water dispenser is clearly marked.
+
+610
+01:07:19,207 --> 01:07:22,961
+All right, thank you.
+Thank you, sir.
+
+611
+01:07:25,421 --> 01:07:29,259
+Help yourself, commodore.
+Slake your thirst.
+
+612
+01:07:29,467 --> 01:07:33,930
+You'll have worse than a parched
+sensation when we're through.
+
+613
+01:07:35,723 --> 01:07:41,020
+Perhaps, perhaps. But I am
+appalled by your attitude, sir.
+
+614
+01:07:41,229 --> 01:07:47,360
+Condemning me before the facts have
+been authoritatively established!
+
+615
+01:07:48,361 --> 01:07:53,783
+You are abrogating
+my constitutional rights, sir.
+
+616
+01:07:54,450 --> 01:07:55,702
+All set, Batman.
+
+617
+01:07:56,035 --> 01:07:59,956
+Come on, Penguin.
+Time to rip off your false feathers.
+
+618
+01:08:03,001 --> 01:08:07,255
+Coming, Batman.
+I'm coming at once.
+
+619
+01:08:13,428 --> 01:08:15,180
+Holy hallucination!
+
+620
+01:08:15,388 --> 01:08:19,726
+I wish it were, but it's five
+dehydrated pirates, rehydrated!
+
+621
+01:08:20,018 --> 01:08:25,023
+At them, me hearties!
+Shiver them from stem to stern!
+
+622
+01:08:35,867 --> 01:08:38,786
+Attack them, you faltering fink!
+
+623
+01:08:42,790 --> 01:08:47,045
+They're gone! Popped like balloons.
+How did it happen?
+
+624
+01:08:47,253 --> 01:08:50,298
+Whoever dehydrated those pirates...
+
+625
+01:08:50,548 --> 01:08:55,512
+...couldn't have foreseen their
+rehydration with the heavy water...
+
+626
+01:08:55,762 --> 01:08:58,097
+...we use to recharge
+the atomic pile!
+
+627
+01:08:58,306 --> 01:09:01,309
+It left them in an unstable condition!
+
+628
+01:09:01,518 --> 01:09:06,689
+You saw it yourself. The slightest
+impact was sufficient...
+
+629
+01:09:06,898 --> 01:09:10,693
+...to instantly reduce them
+to antimatter.
+
+630
+01:09:11,194 --> 01:09:15,907
+Antimatter?
+You mean, they won't be coming back?
+
+631
+01:09:17,867 --> 01:09:22,205
+No, Robin. Not in this universe.
+
+632
+01:09:26,626 --> 01:09:29,712
+Let that be a lesson in the dangers...
+
+633
+01:09:29,921 --> 01:09:34,008
+...of tampering with the laws
+of Mother Nature.
+
+634
+01:09:34,217 --> 01:09:40,181
+My apologies, commodore.
+I've done you a cruel injustice.
+
+635
+01:09:41,182 --> 01:09:44,853
+- You have?
+- You were duped. Brainwashed.
+
+636
+01:09:45,061 --> 01:09:49,732
+The criminals planted
+those dehydrated thugs on you.
+
+637
+01:09:49,941 --> 01:09:52,527
+You were obviously
+under the influence...
+
+638
+01:09:52,735 --> 01:09:57,240
+...of post-hypnotic suggestion
+when you rehydrated them.
+
+639
+01:09:57,490 --> 01:10:00,577
+Come on down, commodore.
+
+640
+01:10:00,785 --> 01:10:05,707
+Another sniff of Batgas,
+and we'll all return to the city.
+
+641
+01:10:15,800 --> 01:10:18,511
+Are you sure you didn't
+hurt your head?
+
+642
+01:10:18,720 --> 01:10:22,849
+Perfectly. Swallow this pill.
+
+643
+01:10:24,350 --> 01:10:28,688
+Now, give our friend here
+a whiff of Batwake.
+
+644
+01:10:31,232 --> 01:10:33,067
+Good morning.
+
+645
+01:10:33,776 --> 01:10:35,028
+What's wrong?
+
+646
+01:10:35,236 --> 01:10:39,949
+Manifold pressure's dropping.
+We'd better stop and check it.
+
+647
+01:10:46,831 --> 01:10:51,836
+- Sorry about that. Won't take long.
+- Yes, you will!
+
+648
+01:10:58,051 --> 01:11:03,306
+And away we go in my Birdmobile!
+One side kick for a sailor.
+
+649
+01:11:13,733 --> 01:11:17,320
+- You okay?
+- Thanks to that anti-Penguin gas pill!
+
+650
+01:11:17,529 --> 01:11:22,450
+He's played right into our hands.
+Via Batcycle to the Batcopter!
+
+651
+01:11:22,659 --> 01:11:25,829
+We'll track him
+to the gang's new hideout.
+
+652
+01:11:56,943 --> 01:11:59,195
+Disengage go-cart.
+
+653
+01:12:13,251 --> 01:12:16,004
+Batscanner tracking
+the stolen Batmobile.
+
+654
+01:12:16,588 --> 01:12:19,257
+Port two degrees,
+then steady as she goes!
+
+655
+01:12:19,465 --> 01:12:21,926
+Yo-ho, port two degrees!
+
+656
+01:12:22,135 --> 01:12:24,429
+We're almost there!
+
+657
+01:12:25,555 --> 01:12:29,726
+- Where are you going?
+- To fire off more riddling clues.
+
+658
+01:12:29,934 --> 01:12:34,147
+Riddler! You're mad!
+Penguin's finished Batman by now.
+
+659
+01:12:34,355 --> 01:12:37,817
+That miserable, waddling
+mountebank of a bird!
+
+660
+01:12:38,026 --> 01:12:42,155
+He couldn't finish a bag of popcorn!
+
+661
+01:12:42,947 --> 01:12:47,827
+Say Penguin failed. All the more
+reason not to hand them clues.
+
+662
+01:12:48,077 --> 01:12:52,207
+But I must! Outwitting Batman
+is my sole delight...
+
+663
+01:12:52,457 --> 01:12:57,587
+...my joy, my heaven on earth,
+my very paradise.
+
+664
+01:12:58,463 --> 01:13:00,173
+Riddler, come back!
+
+665
+01:13:03,885 --> 01:13:07,764
+Stolen Batmobile turning,
+heading up Gotham River Drive.
+
+666
+01:13:19,067 --> 01:13:22,070
+Polaris-type missile
+coming right for us!
+
+667
+01:13:22,695 --> 01:13:24,739
+Hold on! This may be tricky.
+
+668
+01:13:29,911 --> 01:13:33,164
+- Damage?
+- The tail rotor's disengaged.
+
+669
+01:13:33,915 --> 01:13:38,002
+Brace yourself, Robin,
+we're going down.
+
+670
+01:13:38,211 --> 01:13:40,088
+This could be the end.
+
+671
+01:13:47,887 --> 01:13:52,225
+Now, to find my riddling
+Polaris skywriter!
+
+672
+01:14:00,233 --> 01:14:04,946
+Look! Look, the Dynamic Duo!
+
+673
+01:14:08,199 --> 01:14:11,202
+I got them. I got them.
+
+674
+01:14:24,924 --> 01:14:26,426
+Holy horseshoe!
+
+675
+01:14:35,643 --> 01:14:38,771
+Some luck, landing
+on top of foam rubber!
+
+676
+01:14:39,022 --> 01:14:44,360
+The odds against it would make even
+the most reckless gambler cringe.
+
+677
+01:14:44,569 --> 01:14:49,991
+True, I did think I'd spotted it
+out of the corner of my eye, but...
+
+678
+01:14:51,326 --> 01:14:54,245
+That crazy missile wrote
+two more riddles.
+
+679
+01:14:54,454 --> 01:14:58,625
+"What goes up white and comes down
+yellow and white?"
+
+680
+01:14:58,833 --> 01:15:00,627
+An egg!
+
+681
+01:15:01,544 --> 01:15:07,884
+"How do you divide 17 apples
+among 16 people?"
+
+682
+01:15:08,301 --> 01:15:09,552
+Make applesauce.
+
+683
+01:15:09,761 --> 01:15:14,140
+Apples into applesauce.
+A unification into one smooth mixture.
+
+684
+01:15:14,349 --> 01:15:19,646
+An egg, nature's perfect container.
+The container of our future hopes.
+
+685
+01:15:19,896 --> 01:15:24,359
+A unification in a container of hope?
+United World Organization!
+
+686
+01:15:24,567 --> 01:15:28,947
+Precisely!
+And the Security Council meets today.
+
+687
+01:15:29,155 --> 01:15:33,201
+- If what I fear is true...
+- Let's commandeer a taxi.
+
+688
+01:15:33,409 --> 01:15:38,373
+No, not at this time of day.
+Luckily we're in tip-top condition.
+
+689
+01:15:38,581 --> 01:15:41,543
+It'll be faster if we run. Let's go!
+
+690
+01:15:54,097 --> 01:15:56,766
+We are now passing
+through the grotto.
+
+691
+01:15:56,975 --> 01:16:01,271
+- Depth, a half-fathom.
+- Engines, dead slow astern.
+
+692
+01:16:01,479 --> 01:16:04,149
+Dead slow astern.
+
+693
+01:16:52,697 --> 01:16:56,618
+As the blueprint said,
+an abandoned construction elevator.
+
+694
+01:16:56,868 --> 01:16:59,871
+Hecate, sniff out the weak spot.
+
+695
+01:17:03,416 --> 01:17:07,003
+- I hope Penguin made it.
+- Who needs him?
+
+696
+01:17:07,420 --> 01:17:09,506
+Stand back.
+
+697
+01:17:25,939 --> 01:17:27,857
+Hey! Can't you read?
+
+698
+01:17:28,066 --> 01:17:30,777
+A fine day for penguins.
+
+699
+01:18:10,775 --> 01:18:13,570
+My co-conspirators,
+we meet as planned.
+
+700
+01:18:13,820 --> 01:18:17,866
+No thanks to you, the Dynamic Duo
+has been silenced forever.
+
+701
+01:18:18,074 --> 01:18:21,119
+Blasted out of the sky
+by a coincidence!
+
+702
+01:18:21,327 --> 01:18:26,082
+The delicious irony of it!
+Downed by Riddler's Polaris skywriter.
+
+703
+01:18:26,332 --> 01:18:30,795
+Happy happenstance! Hold your
+breath till we cross the hall.
+
+704
+01:18:31,004 --> 01:18:36,468
+There are still lingering traces
+of my finely filtered Penguin gas.
+
+705
+01:18:40,680 --> 01:18:43,183
+Holy marathon! I'm getting a stitch!
+
+706
+01:18:43,433 --> 01:18:46,936
+Let's hope it's a stitch in time
+that saves nine.
+
+707
+01:18:47,145 --> 01:18:50,732
+The nine members
+of the Security Council.
+
+708
+01:19:03,411 --> 01:19:08,416
+It is the opinion of Her Majesty
+that we pursue peace at all costs.
+
+709
+01:19:17,550 --> 01:19:21,721
+Our poor united world in microcosm.
+
+710
+01:19:21,971 --> 01:19:25,725
+I'm afraid they'll find our humor
+very, very dry.
+
+711
+01:19:27,185 --> 01:19:30,480
+We understand your position,
+but for peace...
+
+712
+01:20:03,179 --> 01:20:05,974
+It has always been our policy...
+
+713
+01:20:24,659 --> 01:20:27,829
+Quickly now!
+Each one in a separate vial.
+
+714
+01:20:28,037 --> 01:20:32,625
+And, boys, don't anybody sneeze.
+
+715
+01:20:43,761 --> 01:20:47,307
+- Seal the building!
+- Turn off the ventilating system!
+
+716
+01:20:47,515 --> 01:20:50,852
+The Security Council
+may have been dehydrated!
+
+717
+01:20:51,478 --> 01:20:54,272
+Emergency, operator.
+Get me security.
+
+718
+01:20:54,481 --> 01:20:56,649
+Emergency, operator, emergency!
+
+719
+01:20:56,900 --> 01:20:59,694
+Up, up, up, up!
+
+720
+01:21:09,871 --> 01:21:14,584
+- Surrender! You criminals!
+- The United Underworld is through!
+
+721
+01:21:15,043 --> 01:21:17,712
+What's this, an apparition?
+
+722
+01:21:18,379 --> 01:21:23,092
+One false move, and you'll find out.
+We'll hurl our Batarangs!
+
+723
+01:21:23,551 --> 01:21:26,346
+- To the elevator!
+- Catwoman! Stop, I said!
+
+724
+01:21:26,554 --> 01:21:28,932
+I don't think you mean that.
+
+725
+01:21:29,140 --> 01:21:34,771
+Miss Kitka dies
+if you take one more step! Go!
+
+726
+01:21:38,566 --> 01:21:40,610
+This way, Robin!
+
+727
+01:21:43,738 --> 01:21:46,324
+The Security Council, gone!
+
+728
+01:21:46,533 --> 01:21:49,994
+What a fiendishly clever way
+to abduct nine men...
+
+729
+01:21:50,245 --> 01:21:53,122
+...from a heavily guarded building!
+
+730
+01:21:54,249 --> 01:21:56,334
+Where does that elevator go?
+
+731
+01:21:56,543 --> 01:22:01,089
+Downstairs, to an abandoned
+submarine dock on the river.
+
+732
+01:22:01,297 --> 01:22:06,427
+Holy Captain Nemo! They'll head
+for sea by way of Short Island Sound.
+
+733
+01:22:06,636 --> 01:22:10,390
+We have just one trump card left.
+
+734
+01:22:10,598 --> 01:22:13,560
+Heaven help the world if we fail.
+
+735
+01:22:14,185 --> 01:22:15,645
+Come on!
+
+736
+01:22:29,075 --> 01:22:30,869
+Down periscope.
+
+737
+01:22:31,077 --> 01:22:35,748
+We're over the last bar.
+Mr. Bluebeard, all engines full ahead.
+
+738
+01:22:35,957 --> 01:22:39,210
+Yo-ho, all engines full ahead!
+
+739
+01:22:41,004 --> 01:22:43,548
+What a delightful haul!
+
+740
+01:22:43,756 --> 01:22:49,012
+Mr. Riddler, will you prepare
+those nine radio ransom messages?
+
+741
+01:22:49,220 --> 01:22:53,141
+And no stupid riddles.
+Make those messages plain.
+
+742
+01:22:53,558 --> 01:22:57,812
+One billion dollars cash,
+from each country.
+
+743
+01:22:58,021 --> 01:23:02,233
+Precisely! To be delivered
+to our secret island...
+
+744
+01:23:02,442 --> 01:23:06,988
+...by the horde of trained carrier
+pigeons which I shall provide.
+
+745
+01:23:07,238 --> 01:23:12,577
+No whimsical embellishments.
+Make those messages clear!
+
+746
+01:23:13,244 --> 01:23:16,122
+Make those messages clear!
+
+747
+01:23:20,168 --> 01:23:23,171
+It's like a dream, Pengy-sweet.
+
+748
+01:23:23,379 --> 01:23:26,800
+Nothing can stop us now.
+
+749
+01:23:31,805 --> 01:23:36,267
+Sonar contact.
+Range 8000. Bearing 181.
+
+750
+01:23:43,149 --> 01:23:47,904
+Yo-ho, sonar contact.
+Small craft at 7500, bearing 01.
+
+751
+01:23:48,112 --> 01:23:49,739
+Small craft?
+
+752
+01:23:49,948 --> 01:23:52,826
+It's moving fast.
+Range is down to 7000.
+
+753
+01:23:53,034 --> 01:23:56,246
+- The Batboat!
+- Drat that cockleshell!
+
+754
+01:23:56,454 --> 01:24:00,500
+Mr. Bluebeard,
+steady on the diving planes.
+
+755
+01:24:00,750 --> 01:24:03,002
+I'll man the torpedo tubes.
+
+756
+01:24:03,211 --> 01:24:09,008
+Would you fire a surface-to-surface
+underwater homing missile?
+
+757
+01:24:24,232 --> 01:24:26,651
+Missile ahoy!
+
+758
+01:24:32,532 --> 01:24:36,995
+It has a homing device in
+its nose cone. Take evasive action.
+
+759
+01:25:00,435 --> 01:25:02,645
+No use. It's tracking us!
+
+760
+01:25:03,521 --> 01:25:07,108
+Take my Batradio.
+I looked it up this morning.
+
+761
+01:25:07,692 --> 01:25:12,697
+That class of missile receives
+on a wavelength of 164. 1.
+
+762
+01:25:13,656 --> 01:25:18,036
+- 164. 1.
+- Quickly! Send a jamming signal.
+
+763
+01:25:27,420 --> 01:25:29,005
+It's starting down.
+
+764
+01:25:35,178 --> 01:25:38,056
+Farewell, Batman!
+
+765
+01:25:38,515 --> 01:25:41,351
+Farewell, Dynamic Duo!
+
+766
+01:25:41,810 --> 01:25:44,103
+Holy bikini, that was close!
+
+767
+01:25:46,397 --> 01:25:51,110
+Yo-ho, small craft still closing.
+Range 4000. Bearing 88.
+
+768
+01:25:51,319 --> 01:25:56,866
+They know how to jam our missiles.
+Up to periscope depth!
+
+769
+01:25:57,075 --> 01:25:59,953
+Yo-ho, up to periscope depth.
+
+770
+01:26:04,999 --> 01:26:08,753
+- Range 3500.
+- Get the Batcharge launcher.
+
+771
+01:26:09,587 --> 01:26:11,005
+Roger!
+
+772
+01:26:11,381 --> 01:26:17,053
+They hold nine of the world's most
+eminent men in dehydrated condition.
+
+773
+01:26:17,262 --> 01:26:22,392
+Our task is not to sink that sub,
+merely to drive it to the surface.
+
+774
+01:26:33,403 --> 01:26:36,531
+Forward torpedo tubes,
+prepare to fire.
+
+775
+01:26:36,739 --> 01:26:40,577
+Yo-ho! Forward torpedo tubes,
+prepare to fire.
+
+776
+01:26:41,119 --> 01:26:46,541
+Five, four, three, two...
+
+777
+01:26:47,250 --> 01:26:50,545
+...torpedoes, fire!
+
+778
+01:26:51,129 --> 01:26:53,381
+Torpedoes, fire!
+
+779
+01:26:59,179 --> 01:27:01,681
+Torpedoes away!
+
+780
+01:27:02,682 --> 01:27:05,685
+- Dive, Mr. Bluebeard, dive!
+- Yo-ho, dive.
+
+781
+01:27:05,935 --> 01:27:09,147
+Down periscope.
+
+782
+01:27:11,900 --> 01:27:13,818
+Torpedo off the port bow!
+
+783
+01:27:14,027 --> 01:27:17,530
+Prepare to fire Batcharges
+in front of torpedoes.
+
+784
+01:27:27,624 --> 01:27:31,753
+That's too soon!
+It must be Batcharges!
+
+785
+01:27:32,003 --> 01:27:36,841
+And that means there'll be more
+of the dread things meant for us!
+
+786
+01:27:37,091 --> 01:27:39,761
+You dismal bird!
+You and your submarine!
+
+787
+01:27:40,011 --> 01:27:42,388
+Shut up, you feline floozy!
+
+788
+01:27:42,597 --> 01:27:46,351
+Mr. Bluebeard, down 30 fathoms.
+
+789
+01:27:46,601 --> 01:27:50,063
+Run silent, run deep.
+
+790
+01:27:56,611 --> 01:27:58,822
+They're diving, silent engines.
+
+791
+01:27:59,113 --> 01:28:04,285
+I'll circle them at full-thrust speed,
+diminishing radius of curvature.
+
+792
+01:28:04,494 --> 01:28:05,537
+Roger.
+
+793
+01:28:08,790 --> 01:28:11,376
+What's their bearing?
+
+794
+01:28:11,584 --> 01:28:14,629
+- I don't know, sir.
+- You don't know?
+
+795
+01:28:14,838 --> 01:28:18,800
+It's changing every second.
+They must be circling us.
+
+796
+01:28:21,845 --> 01:28:23,304
+Fire when ready.
+
+797
+01:28:26,432 --> 01:28:28,810
+I'll maintain curvature.
+
+798
+01:29:37,170 --> 01:29:42,509
+Yo-ho! Compartments A, B and C
+taking in water, sir!
+
+799
+01:29:42,717 --> 01:29:45,637
+Penguin, you know I can't take water!
+
+800
+01:29:45,887 --> 01:29:51,226
+You cowardly kitten,
+you want to live forever?
+
+801
+01:29:52,060 --> 01:29:57,065
+- This bird has flown around the bend!
+- To cuckooland!
+
+802
+01:29:57,273 --> 01:30:03,947
+Riddler, Joker, do something!
+We weren't meant for a watery grave!
+
+803
+01:30:08,993 --> 01:30:11,454
+Now hear this! Now hear this!
+
+804
+01:30:11,704 --> 01:30:17,001
+Blow all tanks! Surface! Surface!
+
+805
+01:30:19,254 --> 01:30:23,466
+Cut the Batcharges.
+They've had enough, I imagine.
+
+806
+01:30:26,553 --> 01:30:28,763
+They're surfacing fast.
+
+807
+01:30:29,013 --> 01:30:32,392
+- Estimated surfacing position?
+- 200 yards.
+
+808
+01:30:35,937 --> 01:30:37,939
+Here they come.
+
+809
+01:30:41,276 --> 01:30:44,445
+Diminishing speed. Ready to board.
+
+810
+01:30:44,696 --> 01:30:46,281
+Roger.
+
+811
+01:31:12,807 --> 01:31:14,851
+Pirates! To arms!
+
+812
+01:31:15,059 --> 01:31:19,063
+Prepare to repel boarders!
+
+813
+01:31:20,565 --> 01:31:22,025
+Strike your colors!
+
+814
+01:31:22,442 --> 01:31:27,155
+We have not yet begun to fight!
+Attack!
+
+815
+01:33:04,294 --> 01:33:06,504
+Bon voyage, pussy.
+
+816
+01:34:34,217 --> 01:34:36,845
+Holy heartbreak! Miss Kitka!
+
+817
+01:35:06,332 --> 01:35:08,001
+Batman, I...
+
+818
+01:35:08,251 --> 01:35:11,921
+Say no more, Robin.
+It could be compromising.
+
+819
+01:35:12,589 --> 01:35:14,674
+Of course.
+
+820
+01:35:15,508 --> 01:35:21,389
+It's just one of those things
+in the life of every crime fighter.
+
+821
+01:35:21,598 --> 01:35:24,476
+It means nothing.
+Snap on the Batcuffs.
+
+822
+01:35:31,816 --> 01:35:34,527
+Batman to coast guard.
+
+823
+01:35:34,777 --> 01:35:38,490
+There's a submarine
+two miles east of Sandy Nose.
+
+824
+01:35:38,740 --> 01:35:43,453
+It's filled with human jetsam.
+Come, take it in tow.
+
+825
+01:35:52,796 --> 01:35:55,757
+Robin. Over here, look.
+
+826
+01:35:58,009 --> 01:36:01,221
+The hope of the world,
+tottering on the brink!
+
+827
+01:36:01,429 --> 01:36:03,097
+Holy almost!
+
+828
+01:36:03,348 --> 01:36:08,061
+To think, it might have been shattered
+before our very eyes.
+
+829
+01:36:08,937 --> 01:36:13,274
+- Up, Catwoman.
+- The service here has gone to pot.
+
+830
+01:36:13,525 --> 01:36:17,153
+What the devil is this?
+The captain's costume party?
+
+831
+01:36:25,411 --> 01:36:30,166
+Holy jumble!
+Where's the hope of the world now?
+
+832
+01:36:36,256 --> 01:36:38,967
+Batcentrifuge at 32,000 rpm.
+
+833
+01:36:39,175 --> 01:36:42,095
+Increase angstrom force in vector X.
+
+834
+01:36:42,345 --> 01:36:44,973
+Vector X up one notch.
+
+835
+01:36:51,312 --> 01:36:54,816
+- Yes, commissioner?
+- What progress? Is there hope?
+
+836
+01:36:56,109 --> 01:36:58,153
+There's always hope.
+
+837
+01:36:58,611 --> 01:37:03,324
+But do you think you and Robin
+can separate that mingled dust...
+
+838
+01:37:03,533 --> 01:37:06,161
+...back into its constituent members?
+
+839
+01:37:06,661 --> 01:37:09,789
+With all modesty, commissioner...
+
+840
+01:37:10,039 --> 01:37:13,460
+...if we can't, heaven knows who can.
+
+841
+01:37:13,668 --> 01:37:17,297
+Truer words were never spoken.
+
+842
+01:37:18,590 --> 01:37:22,218
+<i>Howdy, you all.</i>
+<i>How are those boys doing up there?</i>
+
+843
+01:37:22,469 --> 01:37:27,056
+Batman says there's hope,
+Mr. President. What more can one ask?
+
+844
+01:37:27,599 --> 01:37:33,563
+The free world is waiting. Tell Batman
+I salute him and wish him luck.
+
+845
+01:37:38,234 --> 01:37:42,280
+<i>I needn 't tell you</i>
+<i>with whom I have just spoken.</i>
+
+846
+01:37:49,037 --> 01:37:50,705
+Ready for separation.
+
+847
+01:37:50,914 --> 01:37:54,793
+All right.
+I'll activate the computer link.
+
+848
+01:37:55,001 --> 01:37:57,837
+Input the ethnic and national factors.
+
+849
+01:37:58,421 --> 01:38:01,424
+- Batman, wait a minute!
+- What?
+
+850
+01:38:02,091 --> 01:38:05,178
+Well, with the way
+the world is and all...
+
+851
+01:38:05,428 --> 01:38:09,265
+...maybe we ought to try
+to improve those factors?
+
+852
+01:38:09,516 --> 01:38:11,768
+- Reshuffle them a little.
+- No.
+
+853
+01:38:11,976 --> 01:38:16,356
+It's not for us to tamper
+with the laws of nature.
+
+854
+01:38:16,606 --> 01:38:20,610
+In this very Batcave,
+you saw a ghastly example...
+
+855
+01:38:20,860 --> 01:38:24,030
+...of what happens
+when one tries to do that.
+
+856
+01:38:24,656 --> 01:38:27,492
+Gosh, yes.
+When you put it that way...
+
+857
+01:38:28,243 --> 01:38:29,869
+Here we go.
+
+858
+01:39:16,958 --> 01:39:20,962
+Separation accomplished.
+Ready to rehydrate.
+
+859
+01:39:25,133 --> 01:39:26,968
+Separation accomplished.
+
+860
+01:39:27,469 --> 01:39:30,346
+<i>They are ready to rehydrate.</i>
+
+861
+01:39:30,597 --> 01:39:32,640
+We are ready to rehydrate.
+
+862
+01:39:43,359 --> 01:39:45,153
+<i>They are ready to rehydrate.</i>
+
+863
+01:40:52,387 --> 01:40:55,849
+A solemn moment, gentlemen.
+
+864
+01:40:58,434 --> 01:41:02,063
+One of dedication
+and humble supplication.
+
+865
+01:41:06,901 --> 01:41:12,115
+Robin, prepare to rehydrate.
+
+866
+01:41:17,996 --> 01:41:20,248
+Ready to rehydrate.
+
+867
+01:41:21,291 --> 01:41:24,002
+Turn on the water faucet.
+
+868
+01:42:13,510 --> 01:42:15,261
+Success! Success!
+
+869
+01:42:16,137 --> 01:42:18,556
+<i>They've done it!</i>
+<i>They've done it!</i>
+
+870
+01:42:18,807 --> 01:42:22,477
+Success, success!
+We've done it, we've done it!
+
+871
+01:42:30,151 --> 01:42:33,029
+<i>Success! Success!</i>
+
+872
+01:42:44,874 --> 01:42:46,459
+What the...?
+
+873
+01:42:46,668 --> 01:42:50,088
+In the interest of peace,
+you must hear me out!
+
+874
+01:43:07,939 --> 01:43:13,153
+Gentlemen, it is imperative that
+we limit our conversation to peace.
+
+875
+01:43:19,826 --> 01:43:21,536
+Who knows, Robin?
+
+876
+01:43:21,786 --> 01:43:27,041
+This strange mixing of minds...
+
+877
+01:43:27,250 --> 01:43:32,255
+...may be the greatest single service
+ever performed for humanity.
+
+878
+01:43:33,673 --> 01:43:38,303
+Let's go, but inconspicuously.
+
+879
+01:43:38,678 --> 01:43:42,682
+Through the window.
+We'll use our Batropes.
+
+880
+01:43:45,018 --> 01:43:47,687
+Our job is finished.
+
+881
+01:44:48,081 --> 01:44:49,124
+Subtitles by
+SDI Media Group
+
+882
+01:44:49,290 --> 01:44:50,333
+[ENGLISH]

@@ -1,0 +1,7011 @@
+1
+00:01:59,752 --> 00:02:04,224
+♪ Revvin' up your engine
+Listen to her howlin' roar ♪
+
+2
+00:02:05,758 --> 00:02:09,796
+♪ Metal under tension
+Beggin' you to touch and go ♪
+
+3
+00:02:12,231 --> 00:02:16,636
+♪ Highway to the Danger Zone ♪
+
+4
+00:02:17,803 --> 00:02:22,675
+♪ Ride into the Danger Zone ♪
+
+5
+00:02:24,310 --> 00:02:25,711
+♪ Headin' into twilight ♪
+
+6
+00:02:25,844 --> 00:02:28,548
+♪ Spreadin' out
+Her wings tonight ♪
+
+7
+00:02:29,849 --> 00:02:31,717
+♪ She got you
+Jumpin' off the deck ♪
+
+8
+00:02:31,851 --> 00:02:34,587
+♪ Shovin' into overdrive ♪
+
+9
+00:02:36,555 --> 00:02:41,760
+♪ Highway to the Danger Zone ♪
+
+10
+00:02:41,894 --> 00:02:48,468
+♪ I'll take you right
+Into the Danger Zone ♪
+
+11
+00:03:06,585 --> 00:03:09,385
+<i>Today, we're looking at
+some of the hottest weather...</i>
+
+12
+00:05:04,785 --> 00:05:05,985
+Hey.
+
+13
+00:05:10,385 --> 00:05:11,685
+What is it?
+
+14
+00:05:13,985 --> 00:05:14,985
+What?
+
+15
+00:05:15,085 --> 00:05:16,885
+We've been ordered
+to stand down.
+
+16
+00:05:16,985 --> 00:05:18,685
+They're scrapping the program.
+
+17
+00:05:19,585 --> 00:05:21,585
+They say we fell short.
+
+18
+00:05:21,685 --> 00:05:23,785
+The contract threshold
+is Mach 10.
+
+19
+00:05:23,885 --> 00:05:26,185
+Mach 10 is supposed to be
+in two months.
+
+20
+00:05:26,385 --> 00:05:28,185
+Today's test point is Mach 9.
+
+21
+00:05:28,285 --> 00:05:30,085
+Well, that's not good enough.
+
+22
+00:05:30,185 --> 00:05:31,485
+Says who?
+
+23
+00:05:31,585 --> 00:05:33,485
+Admiral Cain.
+
+24
+00:05:34,485 --> 00:05:35,785
+The Drone Ranger.
+
+25
+00:05:35,885 --> 00:05:38,285
+He wants our budget for
+his unmanned program.
+
+26
+00:05:38,385 --> 00:05:42,385
+He's on his way to kill the test
+and shut us down personally.
+
+27
+00:05:55,785 --> 00:05:57,685
+Well, he isn't here yet.
+
+28
+00:06:01,585 --> 00:06:02,985
+They want Mach 10,
+
+29
+00:06:03,685 --> 00:06:05,085
+let's give 'em Mach 10.
+
+30
+00:06:22,885 --> 00:06:25,685
+Now remember, the
+contract threshold is Mach 10.
+
+31
+00:06:25,885 --> 00:06:29,385
+Not 10.1. Not 10.2.
+Mach 10.
+
+32
+00:06:29,485 --> 00:06:31,785
+That should keep
+the program alive.
+
+33
+00:06:34,485 --> 00:06:36,085
+I don't like that look, Mav.
+
+34
+00:06:37,885 --> 00:06:39,785
+It's the only one I got.
+
+35
+00:06:48,285 --> 00:06:50,885
+<i>Control, this is Dark star.
+How do you read?</i>
+
+36
+00:06:51,085 --> 00:06:53,285
+<i>Dark star, Control.
+Loud and clear. How me?</i>
+
+37
+00:06:53,385 --> 00:06:56,785
+Loud and clear. Takeoff precheck's
+complete. Ready for APU start.
+
+38
+00:06:56,885 --> 00:06:59,885
+<i>Ready left engine start.</i>
+
+39
+00:07:01,385 --> 00:07:02,985
+<i>Ready right engine start.</i>
+
+40
+00:07:04,085 --> 00:07:05,185
+Thumbs for taxi.
+
+41
+00:07:07,585 --> 00:07:09,285
+We are ready for taxi.
+
+42
+00:07:10,585 --> 00:07:14,085
+<i>Tower, this is Dark star. We
+are taxiing with information Alpha.</i>
+
+43
+00:07:14,185 --> 00:07:16,285
+<i>Dark star, you are clear to taxi.</i>
+
+44
+00:07:16,385 --> 00:07:19,085
+<i>Runway 21. Winds 210, 10.</i>
+
+45
+00:07:19,185 --> 00:07:21,485
+<i>- Fuel temps are looking good.
+- Control concurs.</i>
+
+46
+00:07:21,685 --> 00:07:24,285
+<i>Battery's holding at 95%.
+Cabin pressure looks good.</i>
+
+47
+00:07:24,485 --> 00:07:27,285
+<i>Control concurs. Tower, this is
+Dark star. We're ready for takeoff.</i>
+
+48
+00:07:27,485 --> 00:07:30,385
+<i>Requesting an unrestricted
+climb to 600 and above.</i>
+
+49
+00:07:30,485 --> 00:07:32,985
+<i>Dark star, the runway
+and skies are yours.</i>
+
+50
+00:07:33,085 --> 00:07:35,485
+Rear Admiral Chester Cain.
+
+51
+00:07:35,685 --> 00:07:38,685
+Maverick,
+Cain just pulled up to the gate.
+
+52
+00:07:38,785 --> 00:07:40,985
+It's not too late to stop,
+buddy.
+
+53
+00:07:41,985 --> 00:07:45,085
+<i>You know what happens to you
+if you go through with this.</i>
+
+54
+00:07:46,485 --> 00:07:49,285
+I know what happens
+to everyone else if I don't.
+
+55
+00:07:51,485 --> 00:07:53,685
+<i>Dark star is ready for takeoff.</i>
+
+56
+00:07:56,385 --> 00:07:57,585
+Everyone,
+
+57
+00:07:57,785 --> 00:08:00,285
+go for takeoff,
+starting with engine.
+
+58
+00:08:00,385 --> 00:08:02,185
+Engine, go.
+Thermals, go.
+
+59
+00:08:02,285 --> 00:08:04,185
+Fuel, go.
+Electric, go.
+
+60
+00:08:04,385 --> 00:08:05,885
+Control surfaces, go.
+
+61
+00:08:06,085 --> 00:08:08,485
+<i>Dark star, Control.
+You're cleared for takeoff.</i>
+
+62
+00:08:08,585 --> 00:08:10,285
+All right, sweetheart,
+
+63
+00:08:10,785 --> 00:08:11,985
+one last ride.
+
+64
+00:08:37,485 --> 00:08:41,585
+<i>Dark star, you are cleared
+above 600. Increase to Mach 3.5.</i>
+
+65
+00:08:41,785 --> 00:08:45,885
+Cleared above 600.
+Increase to Mach 3.5.
+
+66
+00:08:52,085 --> 00:08:53,185
+Admiral.
+
+67
+00:08:53,285 --> 00:08:56,385
+Uh, just in time, sir.
+I'm early. So are you.
+
+68
+00:08:56,485 --> 00:08:57,785
+You care to explain?
+
+69
+00:08:57,885 --> 00:09:00,085
+Transitioning to scramjet.
+
+70
+00:09:13,685 --> 00:09:15,685
+Uh, Mav,
+Admiral Cain is asking...
+
+71
+00:09:15,785 --> 00:09:18,085
+Ordering. Ordering
+that we bring her down.
+
+72
+00:09:18,185 --> 00:09:20,585
+<i>...op... oop... alpha...</i>
+
+73
+00:09:20,685 --> 00:09:21,885
+<i>...three, oh...</i>
+
+74
+00:09:21,985 --> 00:09:25,285
+...as sing... ach...
+ive...4, and...
+
+75
+00:09:25,385 --> 00:09:27,185
+<i>...within six...</i>
+
+76
+00:09:27,285 --> 00:09:29,185
+This is where we've had
+trouble with comms, sir.
+
+77
+00:09:29,185 --> 00:09:31,585
+It's the Earth's curvature.
+It's called "Earth Bulge."
+
+78
+00:09:31,685 --> 00:09:33,185
+Did anyone offer you a coffee?
+
+79
+00:09:34,985 --> 00:09:35,985
+Okay.
+
+80
+00:09:43,585 --> 00:09:45,485
+He's at Mach 7, pushing 8.
+
+81
+00:09:45,585 --> 00:09:47,985
+Flight data?
+Receiving. Data is good.
+
+82
+00:09:52,885 --> 00:09:56,385
+Temperature's climbing. Response
+is still stable. We're feeling good.
+
+83
+00:10:00,385 --> 00:10:01,785
+<i>Mach 8.8.</i>
+
+84
+00:10:02,485 --> 00:10:03,785
+8.9.
+
+85
+00:10:04,185 --> 00:10:05,385
+Mach 9.
+
+86
+00:10:05,485 --> 00:10:07,285
+He's the fastest man alive.
+
+87
+00:10:26,485 --> 00:10:28,185
+Talk to me, Goose.
+
+88
+00:10:30,185 --> 00:10:31,285
+Mach 9.1.
+
+89
+00:10:32,285 --> 00:10:33,385
+9.2.
+
+90
+00:10:40,585 --> 00:10:41,985
+Mach 9.3.
+
+91
+00:10:44,485 --> 00:10:45,885
+9.4.
+
+92
+00:10:47,085 --> 00:10:49,285
+Approaching high hypersonic.
+
+93
+00:11:01,485 --> 00:11:03,185
+Windshield hot caution.
+
+94
+00:11:11,385 --> 00:11:13,985
+Surface temp rising.
+
+95
+00:11:19,085 --> 00:11:21,285
+Come on, sweetheart,
+just a little more.
+
+96
+00:11:21,885 --> 00:11:23,985
+Just a little.
+
+97
+00:11:26,785 --> 00:11:27,885
+Come on!
+
+98
+00:11:34,385 --> 00:11:35,385
+Come on!
+
+99
+00:11:40,685 --> 00:11:43,285
+Mach 10!
+
+100
+00:11:44,185 --> 00:11:46,285
+Put that
+in your Pentagon budget!
+
+101
+00:11:48,185 --> 00:11:49,385
+Sir.
+
+102
+00:12:00,285 --> 00:12:02,185
+Oh, don't do it.
+Don't do it.
+
+103
+00:12:02,285 --> 00:12:03,285
+Just...
+
+104
+00:12:04,985 --> 00:12:07,385
+a little push.
+
+105
+00:12:10,885 --> 00:12:13,185
+Holy shit.
+
+106
+00:12:22,485 --> 00:12:25,585
+You got some balls,
+stick jockey.
+
+107
+00:12:25,785 --> 00:12:26,985
+I'll give you that.
+
+108
+00:12:31,485 --> 00:12:32,885
+Oh, shit.
+
+109
+00:12:37,985 --> 00:12:39,085
+Maverick.
+
+110
+00:12:40,885 --> 00:12:42,385
+Maverick!
+
+111
+00:13:32,585 --> 00:13:33,885
+Thank you.
+
+112
+00:13:34,485 --> 00:13:36,185
+Where am I?
+
+113
+00:13:36,985 --> 00:13:38,385
+Earth.
+
+114
+00:13:52,885 --> 00:13:54,085
+<i>Maverick.</i>
+
+115
+00:13:54,185 --> 00:13:56,885
+Thirty-plus years of service.
+
+116
+00:13:57,785 --> 00:13:59,285
+Combat medals.
+
+117
+00:13:59,385 --> 00:14:00,885
+Citations.
+
+118
+00:14:00,985 --> 00:14:05,885
+Only man to shoot down three
+enemy planes in the last 40 years.
+
+119
+00:14:06,485 --> 00:14:07,685
+"Distinguished."
+
+120
+00:14:07,785 --> 00:14:11,385
+"Distinguished."
+"Distinguished."
+
+121
+00:14:12,885 --> 00:14:16,285
+Yet you can't get a promotion,
+you won't retire,
+
+122
+00:14:16,385 --> 00:14:19,385
+and despite your best efforts,
+you refuse to die.
+
+123
+00:14:19,485 --> 00:14:24,585
+You should be at least a two-star
+admiral by now, if not a senator.
+
+124
+00:14:24,785 --> 00:14:26,485
+Yet here you are:
+
+125
+00:14:27,985 --> 00:14:29,285
+Captain.
+
+126
+00:14:30,185 --> 00:14:31,485
+Why is that?
+
+127
+00:14:32,285 --> 00:14:33,685
+It's one of
+life's mysteries, sir.
+
+128
+00:14:33,785 --> 00:14:37,285
+This isn't a joke.
+I asked you a question.
+
+129
+00:14:39,285 --> 00:14:41,285
+I'm where I belong, sir.
+
+130
+00:14:41,485 --> 00:14:44,585
+Well, the navy
+doesn't see it that way.
+
+131
+00:14:45,585 --> 00:14:46,685
+Not anymore.
+
+132
+00:14:47,985 --> 00:14:49,985
+These planes
+you've been testing,
+
+133
+00:14:50,585 --> 00:14:51,885
+Captain,
+
+134
+00:14:51,985 --> 00:14:55,485
+one day, sooner than later,
+they won't need pilots at all.
+
+135
+00:14:55,585 --> 00:14:59,385
+Pilots that need to sleep,
+eat, take a piss.
+
+136
+00:15:01,285 --> 00:15:03,685
+Pilots that disobey orders.
+
+137
+00:15:04,785 --> 00:15:08,185
+All you did was buy some
+time for those men out there.
+
+138
+00:15:09,985 --> 00:15:11,485
+The future is coming,
+
+139
+00:15:12,285 --> 00:15:14,385
+and you're not in it.
+
+140
+00:15:16,085 --> 00:15:18,385
+Escort this man off the base.
+
+141
+00:15:19,285 --> 00:15:20,985
+Take him to his quarters.
+
+142
+00:15:21,185 --> 00:15:23,985
+Wait with him
+while he packs his gear.
+
+143
+00:15:25,785 --> 00:15:29,285
+I want him on the road to
+North Island within the hour.
+
+144
+00:15:32,685 --> 00:15:34,185
+North Island, sir?
+
+145
+00:15:34,985 --> 00:15:36,985
+Call came in
+with impeccable timing,
+
+146
+00:15:37,185 --> 00:15:41,985
+right as I was driving here to
+ground your ass once and for all.
+
+147
+00:15:42,085 --> 00:15:45,285
+It galls me to say it, but...
+
+148
+00:15:46,585 --> 00:15:50,485
+for reasons known only to the
+Almighty and your guardian angel...
+
+149
+00:15:52,285 --> 00:15:54,985
+you've been called back
+to TOPGUN.
+
+150
+00:15:58,885 --> 00:16:02,485
+Sir? You are dismissed, Captain.
+
+151
+00:16:07,485 --> 00:16:10,085
+The end is inevitable, Maverick.
+
+152
+00:16:10,285 --> 00:16:12,485
+Your kind is headed
+for extinction.
+
+153
+00:16:16,085 --> 00:16:17,685
+Maybe so, sir.
+
+154
+00:16:19,185 --> 00:16:20,985
+But not today.
+
+155
+00:17:25,685 --> 00:17:29,085
+<i>Captain Pete
+"Maverick" Mitchell.</i>
+
+156
+00:17:29,285 --> 00:17:31,385
+Your reputation precedes you.
+
+157
+00:17:32,385 --> 00:17:33,685
+Thank you, sir.
+
+158
+00:17:34,885 --> 00:17:36,485
+Wasn't a compliment.
+
+159
+00:17:37,785 --> 00:17:40,185
+I'm Admiral Beau Simpson.
+I'm the Air Boss.
+
+160
+00:17:40,285 --> 00:17:42,785
+I believe you know
+Admiral Bates. Warlock, sir.
+
+161
+00:17:42,885 --> 00:17:45,685
+Must admit, I wasn't
+expecting an invitation back.
+
+162
+00:17:45,785 --> 00:17:47,885
+They're called orders, Maverick.
+
+163
+00:17:49,085 --> 00:17:50,485
+You two have
+something in common.
+
+164
+00:17:50,585 --> 00:17:53,385
+Cyclone here was first
+in his class back in '88.
+
+165
+00:17:53,485 --> 00:17:55,585
+Actually, sir,
+I finished second.
+
+166
+00:17:55,785 --> 00:17:58,385
+Just want to manage
+expectations.
+
+167
+00:18:02,385 --> 00:18:03,785
+The target...
+
+168
+00:18:05,685 --> 00:18:08,385
+is an unsanctioned
+uranium enrichment plant
+
+169
+00:18:08,485 --> 00:18:10,785
+built in violation
+of a multilateral NATO treaty.
+
+170
+00:18:10,885 --> 00:18:13,985
+The uranium produced there
+represents a direct threat
+
+171
+00:18:14,185 --> 00:18:15,285
+to our allies in the region.
+
+172
+00:18:15,485 --> 00:18:16,885
+The Pentagon has tasked us
+
+173
+00:18:17,085 --> 00:18:19,585
+with assembling a strike
+team and taking it out
+
+174
+00:18:19,785 --> 00:18:22,185
+before it becomes
+fully operational.
+
+175
+00:18:22,385 --> 00:18:26,385
+The plant sits in an underground
+bunker at the end of this valley.
+
+176
+00:18:26,485 --> 00:18:27,985
+Said valley is GPS-jammed
+
+177
+00:18:28,085 --> 00:18:30,885
+and defended by an extensive
+surface-to-air missile array
+
+178
+00:18:30,985 --> 00:18:33,685
+serving a limited number
+of fifth-generation fighters,
+
+179
+00:18:33,785 --> 00:18:37,885
+which in turn are backed up by a
+plentiful reserve of surplus aircraft.
+
+180
+00:18:38,085 --> 00:18:40,085
+Even a few old F-14s.
+
+181
+00:18:40,185 --> 00:18:42,785
+Seems like we're not the only
+ones holding on to old relics.
+
+182
+00:18:44,485 --> 00:18:46,685
+What's your read, Captain?
+
+183
+00:18:47,985 --> 00:18:51,885
+Well, sir, normally this would be
+a cakewalk for the F-35's stealth,
+
+184
+00:18:52,085 --> 00:18:54,385
+but the GPS-jamming
+negates that.
+
+185
+00:18:54,485 --> 00:18:58,485
+And a surface-to-air threat necessitates
+a low-level laser-guided strike
+
+186
+00:18:58,585 --> 00:19:00,085
+tailor-made for the F-18.
+
+187
+00:19:00,185 --> 00:19:01,585
+I figure,
+
+188
+00:19:01,785 --> 00:19:03,685
+two precision bombs, minimum.
+
+189
+00:19:03,785 --> 00:19:06,685
+Makes it four aircraft
+flying in pairs.
+
+190
+00:19:06,785 --> 00:19:08,885
+That is one hell of a
+steep climb out of there,
+
+191
+00:19:08,985 --> 00:19:11,685
+exposing you to all
+the surface-to-air missiles.
+
+192
+00:19:12,285 --> 00:19:13,685
+You survive that,
+
+193
+00:19:14,685 --> 00:19:16,085
+it's a dogfight
+all the way home.
+
+194
+00:19:16,185 --> 00:19:19,485
+All requirements for which
+you have real-world experience.
+
+195
+00:19:19,685 --> 00:19:22,185
+Not in the same mission, sir.
+
+196
+00:19:24,785 --> 00:19:25,885
+No.
+
+197
+00:19:28,485 --> 00:19:30,985
+No, someone's
+not coming back from this.
+
+198
+00:19:31,085 --> 00:19:32,385
+Can it be done or not?
+
+199
+00:19:32,585 --> 00:19:34,985
+How soon before the plant
+becomes operational?
+
+200
+00:19:35,185 --> 00:19:36,985
+Three weeks. Maybe less.
+
+201
+00:19:38,185 --> 00:19:40,985
+Well, it's been a while since
+I've flown an F-18, and...
+
+202
+00:19:41,985 --> 00:19:44,285
+I'm not sure who I'd trust
+to fly the other three.
+
+203
+00:19:44,385 --> 00:19:46,485
+But I'll find a way
+to make it work.
+
+204
+00:19:46,585 --> 00:19:48,585
+I think you misunderstand,
+Captain.
+
+205
+00:19:48,985 --> 00:19:49,985
+Sir?
+
+206
+00:19:50,085 --> 00:19:51,885
+We don't want you to fly it.
+
+207
+00:19:52,085 --> 00:19:53,485
+We want you to teach it.
+
+208
+00:19:56,185 --> 00:19:57,585
+Teach, sir?
+
+209
+00:19:58,885 --> 00:20:02,385
+We've recalled 12 TOPGUN
+graduates from their squadrons.
+
+210
+00:20:02,485 --> 00:20:04,885
+We want you to narrow
+that pool down to six.
+
+211
+00:20:05,785 --> 00:20:07,685
+They'll fly the mission.
+
+212
+00:20:09,285 --> 00:20:10,785
+Is there a problem, Captain?
+
+213
+00:20:12,485 --> 00:20:14,985
+You know there is, sir.
+
+214
+00:20:16,185 --> 00:20:17,185
+Yeah.
+
+215
+00:20:17,385 --> 00:20:19,785
+Bradley Bradshaw,
+aka "Rooster."
+
+216
+00:20:19,885 --> 00:20:21,985
+I understand you used to fly
+with his old man.
+
+217
+00:20:22,085 --> 00:20:23,985
+What was his call sign?
+
+218
+00:20:24,785 --> 00:20:26,185
+"Goose," sir.
+
+219
+00:20:26,285 --> 00:20:27,585
+Tragic what happened.
+
+220
+00:20:27,785 --> 00:20:29,585
+Captain Mitchell was
+cleared of any wrongdoing.
+
+221
+00:20:29,685 --> 00:20:31,485
+Goose's death was an accident.
+
+222
+00:20:31,585 --> 00:20:33,285
+Is that how you see it, Captain?
+
+223
+00:20:33,385 --> 00:20:35,685
+Is that how Goose's son sees it?
+
+224
+00:20:38,485 --> 00:20:41,385
+With all due respect, sir,
+I'm not a teacher.
+
+225
+00:20:41,485 --> 00:20:42,985
+You were a TOPGUN
+instructor before.
+
+226
+00:20:43,085 --> 00:20:45,585
+That was almost 30 years ago.
+I lasted two months.
+
+227
+00:20:45,685 --> 00:20:47,085
+It's not where I belong.
+
+228
+00:20:47,185 --> 00:20:49,085
+Then let me be perfectly blunt.
+
+229
+00:20:49,185 --> 00:20:53,385
+You were not my first choice. In
+fact, you weren't even on the list.
+
+230
+00:20:53,485 --> 00:20:56,485
+You are here at the request
+of Admiral Kazansky.
+
+231
+00:20:56,585 --> 00:21:00,085
+Now, Iceman happens to be
+a man I deeply admire,
+
+232
+00:21:00,185 --> 00:21:03,685
+and he seems to think that you
+have something left to offer the navy.
+
+233
+00:21:04,385 --> 00:21:06,385
+What that is, I can't imagine.
+
+234
+00:21:07,785 --> 00:21:09,785
+You don't have to take this job.
+
+235
+00:21:09,885 --> 00:21:10,885
+But let me be clear:
+
+236
+00:21:10,985 --> 00:21:14,185
+This will be your last post,
+Captain.
+
+237
+00:21:15,485 --> 00:21:19,485
+You fly for TOPGUN, or you
+don't fly for the navy ever again.
+
+238
+00:21:27,685 --> 00:21:29,785
+Twenty bucks
+you can't get three in a row.
+
+239
+00:22:10,885 --> 00:22:13,285
+Oh, you've got to be kidding me.
+
+240
+00:22:15,985 --> 00:22:17,085
+Pete.
+
+241
+00:22:18,385 --> 00:22:19,385
+Penny?
+
+242
+00:22:19,485 --> 00:22:21,685
+What are you doing here?
+
+243
+00:22:21,885 --> 00:22:23,985
+I should ask you the same thing.
+
+244
+00:22:24,985 --> 00:22:27,285
+Well, that is a long story.
+I doubt that.
+
+245
+00:22:27,385 --> 00:22:28,385
+Yeah.
+
+246
+00:22:28,485 --> 00:22:30,085
+Who'd you piss off this time?
+
+247
+00:22:30,185 --> 00:22:31,685
+Another admiral.
+
+248
+00:22:31,785 --> 00:22:32,885
+Exactly.
+
+249
+00:22:35,485 --> 00:22:38,085
+Are you mad at me?
+Oh, Pete.
+
+250
+00:22:38,185 --> 00:22:41,785
+I can never stay mad at you.
+That's the problem.
+
+251
+00:22:41,885 --> 00:22:42,885
+Huh.
+
+252
+00:22:42,985 --> 00:22:45,585
+I got to say, North Island
+is the one place
+
+253
+00:22:45,685 --> 00:22:47,485
+I thought for sure
+I'd never run into you.
+
+254
+00:22:47,685 --> 00:22:49,585
+Mmm.
+How long you been here?
+
+255
+00:22:49,685 --> 00:22:51,485
+Bought this place
+about three years ago.
+
+256
+00:22:51,585 --> 00:22:53,685
+Three years?
+Mm-hmm. Yeah.
+
+257
+00:22:53,785 --> 00:22:58,185
+Not long after you got shipped off to the
+desert for pissing off that other admiral.
+
+258
+00:22:58,885 --> 00:23:01,185
+That was three years ago?
+
+259
+00:23:02,085 --> 00:23:04,285
+You must be in a lot of trouble.
+
+260
+00:23:04,485 --> 00:23:07,185
+No way you'd come
+back here willingly.
+
+261
+00:23:08,985 --> 00:23:09,985
+Well,
+
+262
+00:23:10,685 --> 00:23:12,585
+you'll sort it out.
+
+263
+00:23:13,085 --> 00:23:14,485
+No, I think, uh...
+
+264
+00:23:15,485 --> 00:23:17,885
+I think this is it.
+Come on, Pete.
+
+265
+00:23:17,985 --> 00:23:20,585
+You've been saying that
+as long as I've known you.
+
+266
+00:23:20,685 --> 00:23:24,285
+You said it after they busted you
+for taking me on a joyride in that F-18.
+
+267
+00:23:24,485 --> 00:23:27,485
+Then the next thing I know,
+you're off to Bosnia.
+
+268
+00:23:27,685 --> 00:23:30,685
+Then Iraq. Both times.
+
+269
+00:23:30,785 --> 00:23:32,485
+You get yourself in trouble,
+
+270
+00:23:33,385 --> 00:23:36,485
+Iceman makes a call,
+and you're back in the air.
+
+271
+00:23:36,585 --> 00:23:38,185
+Penny, this is different.
+
+272
+00:23:38,285 --> 00:23:39,585
+Pete, trust me,
+
+273
+00:23:39,785 --> 00:23:41,885
+as improbable
+as it seems right now,
+
+274
+00:23:41,985 --> 00:23:45,685
+somehow you'll be back in a
+fighter plane with your tail on fire.
+
+275
+00:23:46,585 --> 00:23:48,385
+Penny...
+Too late.
+
+276
+00:23:48,485 --> 00:23:49,685
+What?
+
+277
+00:23:49,785 --> 00:23:51,985
+You were about to ask me
+what time I get off.
+
+278
+00:23:55,485 --> 00:23:57,185
+Don't give me that look.
+
+279
+00:23:58,085 --> 00:24:01,285
+I'm not giving you any look.
+I swear.
+
+280
+00:24:01,485 --> 00:24:04,085
+It always ends
+the same with us, Pete.
+
+281
+00:24:05,485 --> 00:24:07,585
+Let's not start this time.
+
+282
+00:24:11,885 --> 00:24:12,885
+Okay.
+
+283
+00:24:13,385 --> 00:24:14,885
+Okay.
+
+284
+00:24:15,019 --> 00:24:18,190
+♪ Put on your red shoes
+And dance the blues... ♪
+
+285
+00:24:19,285 --> 00:24:20,785
+You look good.
+
+286
+00:24:30,785 --> 00:24:32,685
+Much appreciated, pal.
+
+287
+00:24:35,185 --> 00:24:36,485
+What am I missing?
+
+288
+00:24:38,385 --> 00:24:42,485
+"Disrespect a lady, the navy, or
+put your cell phone on my bar..."
+
+289
+00:24:42,585 --> 00:24:44,485
+"...and you buy a round."
+
+290
+00:24:44,585 --> 00:24:46,085
+For everyone?
+
+291
+00:24:46,285 --> 00:24:49,185
+I'm afraid rules are rules.
+You're lucky it's early.
+
+292
+00:24:50,285 --> 00:24:52,185
+Oh, come on!
+
+293
+00:24:52,285 --> 00:24:54,685
+What do we have here?
+
+294
+00:24:56,185 --> 00:24:58,185
+If it ain't Phoenix!
+
+295
+00:24:58,285 --> 00:25:01,085
+And here I thought
+we were special, Coyote.
+
+296
+00:25:02,185 --> 00:25:05,285
+Turns out the invite
+went to anyone.
+
+297
+00:25:06,085 --> 00:25:07,585
+Fellas, this here's Bagman.
+
+298
+00:25:07,685 --> 00:25:09,385
+Hangman.
+Whatever.
+
+299
+00:25:09,585 --> 00:25:12,085
+You're looking at the only
+naval aviator on active duty
+
+300
+00:25:12,185 --> 00:25:13,885
+with a confirmed
+air-to-air kill.
+
+301
+00:25:14,085 --> 00:25:15,085
+Stop.
+
+302
+00:25:15,185 --> 00:25:17,285
+Mind you, the other guy
+was in a museum piece
+
+303
+00:25:17,485 --> 00:25:18,685
+from the Korean War.
+
+304
+00:25:18,885 --> 00:25:21,585
+Cold War. Different
+wars, same century.
+
+305
+00:25:21,685 --> 00:25:22,685
+Not this one.
+
+306
+00:25:22,785 --> 00:25:24,185
+Who are your friends?
+
+307
+00:25:24,385 --> 00:25:26,285
+Payback.
+Fanboy.
+
+308
+00:25:26,385 --> 00:25:28,385
+Hey, Coyote.
+Hey.
+
+309
+00:25:28,485 --> 00:25:30,185
+Who's he?
+Who's who?
+
+310
+00:25:33,185 --> 00:25:34,885
+When did you get in?
+
+311
+00:25:35,085 --> 00:25:36,985
+Oh, I've been here
+the whole time.
+
+312
+00:25:37,085 --> 00:25:39,685
+The man's a stealth pilot.
+Literally.
+
+313
+00:25:39,885 --> 00:25:42,285
+Weapons systems officer,
+actually.
+
+314
+00:25:42,385 --> 00:25:44,285
+With no sense of humor.
+
+315
+00:25:46,385 --> 00:25:47,785
+What do they call you?
+
+316
+00:25:48,285 --> 00:25:49,485
+Bob.
+
+317
+00:25:49,585 --> 00:25:51,085
+No, your call sign.
+
+318
+00:25:51,585 --> 00:25:52,785
+Uh...
+
+319
+00:25:53,985 --> 00:25:55,185
+Bob.
+
+320
+00:25:55,285 --> 00:25:56,985
+Bob Floyd.
+
+321
+00:25:57,085 --> 00:26:00,085
+You're my new backs eater?
+From Lemoore?
+
+322
+00:26:01,185 --> 00:26:03,085
+Looks like it. Yeah.
+
+323
+00:26:03,160 --> 00:26:05,730
+♪ Bang a gong, get it on ♪
+
+324
+00:26:05,885 --> 00:26:07,185
+Nine-ball, Bob.
+
+325
+00:26:08,485 --> 00:26:09,585
+Rack 'em.
+
+326
+00:26:11,385 --> 00:26:12,485
+Okay.
+
+327
+00:26:12,685 --> 00:26:15,085
+- Penny, my dear.
+- Yeah.
+
+328
+00:26:15,185 --> 00:26:17,785
+I'll have four more
+on the old-timer.
+
+329
+00:26:26,285 --> 00:26:28,885
+<i>That's all right, Mama.
+Uh, what's up?</i>
+
+330
+00:26:29,854 --> 00:26:32,857
+♪ And I'm the only
+Son of a gun ♪
+
+331
+00:26:34,385 --> 00:26:35,685
+Bradshaw!
+
+332
+00:26:36,585 --> 00:26:38,185
+Is that you?
+
+333
+00:26:43,685 --> 00:26:45,785
+This is how I find out
+you're stateside?
+
+334
+00:26:45,885 --> 00:26:47,985
+Yeah, I just thought
+I'd surprise you. Hmm.
+
+335
+00:26:50,685 --> 00:26:52,985
+I guess I surprised you back.
+
+336
+00:26:54,185 --> 00:26:56,385
+It's good to see you.
+Good to see you too.
+
+337
+00:26:58,885 --> 00:27:00,585
+- Here you go.
+- Thank you.
+
+338
+00:27:00,785 --> 00:27:02,785
+Much appreciated, Pops.
+
+339
+00:27:10,385 --> 00:27:12,985
+How about ringing me up
+before the evening rush?
+
+340
+00:27:26,885 --> 00:27:28,185
+Bradshaw.
+
+341
+00:27:28,385 --> 00:27:30,085
+As I live and breathe.
+
+342
+00:27:30,685 --> 00:27:31,685
+Hangman.
+
+343
+00:27:31,785 --> 00:27:34,085
+You look... good.
+
+344
+00:27:34,985 --> 00:27:37,085
+Well, I am good, Rooster.
+
+345
+00:27:38,685 --> 00:27:40,185
+I'm very good.
+
+346
+00:27:40,385 --> 00:27:41,685
+In fact,
+
+347
+00:27:41,885 --> 00:27:43,585
+I am too good to be true.
+
+348
+00:27:43,785 --> 00:27:45,085
+So,
+
+349
+00:27:45,285 --> 00:27:47,385
+anybody know what this special
+detachment is all about?
+
+350
+00:27:47,585 --> 00:27:50,985
+No, mission's a mission.
+They don't confront me.
+
+351
+00:27:51,085 --> 00:27:53,785
+What I want to know:
+Who's gonna be team leader?
+
+352
+00:27:55,085 --> 00:27:56,185
+And which one of y'all
+
+353
+00:27:56,385 --> 00:27:59,385
+has what it takes to follow me?
+
+354
+00:28:00,485 --> 00:28:03,885
+Hangman, the only place you'll
+lead anyone is an early grave.
+
+355
+00:28:04,385 --> 00:28:05,885
+Whoo!
+
+356
+00:28:13,085 --> 00:28:16,985
+Well, anyone who follows you
+is just gonna run out of fuel.
+
+357
+00:28:17,185 --> 00:28:19,485
+But that's just you,
+ain't it, Rooster?
+
+358
+00:28:20,785 --> 00:28:22,685
+You're snug on that perch,
+
+359
+00:28:22,785 --> 00:28:25,785
+waiting for just
+the right moment...
+
+360
+00:28:27,685 --> 00:28:29,485
+that never comes.
+
+361
+00:28:29,573 --> 00:28:31,142
+♪ Slow ride ♪
+
+362
+00:28:32,485 --> 00:28:33,785
+I love this song!
+
+363
+00:28:33,844 --> 00:28:35,914
+♪ Slow ride ♪
+
+364
+00:28:37,182 --> 00:28:39,951
+♪ Take it easy ♪
+
+365
+00:28:41,385 --> 00:28:43,285
+Well, he hasn't changed.
+
+366
+00:28:44,085 --> 00:28:45,885
+Nope. Sure hasn't.
+
+367
+00:28:45,990 --> 00:28:48,293
+♪ Take it easy ♪
+
+368
+00:28:50,885 --> 00:28:52,885
+Check it out.
+
+369
+00:28:52,985 --> 00:28:54,685
+More patches.
+
+370
+00:28:54,785 --> 00:28:57,785
+That's Harvard, Yale, Omaha.
+Shit, that's Fritz.
+
+371
+00:28:57,885 --> 00:28:59,985
+What the hell
+kind of mission is this?
+
+372
+00:29:01,085 --> 00:29:03,785
+That's not the question
+we should be asking.
+
+373
+00:29:03,885 --> 00:29:06,085
+Everyone here
+is the best there is.
+
+374
+00:29:07,285 --> 00:29:09,485
+Who the hell are they
+gonna get to teach us?
+
+375
+00:29:12,785 --> 00:29:14,385
+It's been declined.
+
+376
+00:29:14,485 --> 00:29:15,985
+You're kidding.
+
+377
+00:29:31,485 --> 00:29:33,385
+Hey, guys. Come on.
+
+378
+00:29:47,785 --> 00:29:49,085
+How about...
+
+379
+00:29:50,285 --> 00:29:52,085
+That won't cover it.
+
+380
+00:29:56,285 --> 00:29:59,985
+Uh, I'll come by tomorrow
+and bring you the cash.
+
+381
+00:30:00,085 --> 00:30:02,985
+I'm afraid
+rules are rules, Pete.
+
+382
+00:30:09,085 --> 00:30:12,785
+Overboard! Overboard!
+Overboard!
+
+383
+00:30:12,885 --> 00:30:13,885
+Really?
+
+384
+00:30:14,085 --> 00:30:15,185
+Overboard!
+
+385
+00:30:15,385 --> 00:30:18,385
+Overboard! Overboard!
+
+386
+00:30:18,585 --> 00:30:21,085
+Overboard! Overboard!
+
+387
+00:30:21,285 --> 00:30:24,185
+Overboard! Overboard!
+
+388
+00:30:24,285 --> 00:30:25,285
+Overboard!
+
+389
+00:30:25,385 --> 00:30:27,885
+Great to see you, Pete!
+Overboard!
+
+390
+00:30:27,985 --> 00:30:31,385
+Overboard! Overboard!
+
+391
+00:30:31,485 --> 00:30:32,585
+Overboard!
+
+392
+00:30:34,385 --> 00:30:37,185
+Thanks for the beers!
+Come back anytime!
+
+393
+00:30:47,778 --> 00:30:50,715
+♪ You shake my nerves
+And you rattle my brain ♪
+
+394
+00:30:50,848 --> 00:30:53,684
+♪ Too much love
+Drives a man insane ♪
+
+395
+00:30:53,817 --> 00:30:56,487
+♪ You broke my will
+But what a thrill ♪
+
+396
+00:30:56,621 --> 00:30:59,723
+♪ Goodness gracious
+Great balls of fire! ♪
+
+397
+00:30:59,857 --> 00:31:02,526
+♪ I laughed at love
+'Cause I thought it was funny ♪
+
+398
+00:31:02,660 --> 00:31:05,696
+♪ But you came along
+And you moved me, honey ♪
+
+399
+00:31:05,829 --> 00:31:08,565
+♪ I changed my mind
+This love is fine ♪
+
+400
+00:31:08,699 --> 00:31:11,635
+♪ Goodness gracious
+Great balls of fire! ♪
+
+401
+00:31:11,769 --> 00:31:13,938
+♪ Kiss me, baby ♪
+
+402
+00:31:19,476 --> 00:31:23,248
+♪ Goodness gracious
+Great balls of fire! ♪
+
+403
+00:31:38,985 --> 00:31:41,785
+<i>Altitude 8,000... 7,000...</i>
+
+404
+00:31:41,885 --> 00:31:44,485
+<i>Goose, I can't reach
+the ejection handle.</i>
+
+405
+00:31:44,685 --> 00:31:46,685
+<i>Eject, eject, eject!</i>
+
+406
+00:31:52,585 --> 00:31:53,885
+Goose! Oh, no!
+
+407
+00:31:54,085 --> 00:31:57,085
+God, he loved flying
+with you, Maverick.
+
+408
+00:32:31,616 --> 00:32:34,184
+♪ Come on, baby
+You're driving me crazy ♪
+
+409
+00:32:34,318 --> 00:32:37,622
+♪ Goodness gracious
+Great balls of fire! ♪
+
+410
+00:32:40,985 --> 00:32:42,085
+<i>Attention on deck!</i>
+
+411
+00:32:53,085 --> 00:32:54,485
+Morning.
+
+412
+00:32:54,685 --> 00:32:56,885
+Welcome to your special
+training detachment.
+
+413
+00:32:57,085 --> 00:32:58,185
+Be seated.
+
+414
+00:32:58,385 --> 00:33:01,185
+I'm Admiral Bates,
+NAWDC commander.
+
+415
+00:33:01,385 --> 00:33:03,385
+You're all TOPGUN graduates.
+
+416
+00:33:03,985 --> 00:33:05,185
+The elite.
+
+417
+00:33:05,285 --> 00:33:07,785
+The best of the best.
+
+418
+00:33:07,985 --> 00:33:10,485
+That was yesterday.
+
+419
+00:33:10,685 --> 00:33:14,585
+The enemy's new fifth-generation
+fighter has leveled the playing field.
+
+420
+00:33:14,685 --> 00:33:16,385
+Details are few,
+but you can be sure
+
+421
+00:33:16,485 --> 00:33:18,685
+we no longer possess
+the technological advantage.
+
+422
+00:33:18,785 --> 00:33:21,985
+Success, now more than ever,
+
+423
+00:33:22,085 --> 00:33:25,385
+comes down to the man or woman
+in the box.
+
+424
+00:33:26,185 --> 00:33:28,385
+Half of you will make the cut.
+
+425
+00:33:28,485 --> 00:33:30,285
+One of you will
+be named mission leader.
+
+426
+00:33:30,485 --> 00:33:33,485
+The other half
+will remain in reserve.
+
+427
+00:33:34,585 --> 00:33:36,485
+Your instructor
+is a TOPGUN graduate
+
+428
+00:33:36,685 --> 00:33:39,185
+with real-world experience
+in every mission aspect
+
+429
+00:33:39,385 --> 00:33:41,185
+you will be expected to master.
+
+430
+00:33:41,985 --> 00:33:44,385
+His exploits are legendary.
+
+431
+00:33:45,485 --> 00:33:47,785
+And he's considered
+to be one of the finest pilots
+
+432
+00:33:47,885 --> 00:33:50,185
+this program has ever produced.
+
+433
+00:33:51,285 --> 00:33:52,785
+What he has to teach you
+
+434
+00:33:52,885 --> 00:33:56,585
+may very well mean the
+difference between life and death.
+
+435
+00:33:57,285 --> 00:33:59,785
+I give you
+Captain Pete Mitchell.
+
+436
+00:33:59,885 --> 00:34:02,585
+Call sign: "Maverick."
+
+437
+00:34:07,285 --> 00:34:08,585
+Good morning.
+
+438
+00:34:16,785 --> 00:34:18,485
+The F-18 NATOPS.
+
+439
+00:34:19,785 --> 00:34:24,285
+It contains everything they want
+you to know about your aircraft.
+
+440
+00:34:24,385 --> 00:34:27,185
+I'm assuming you know the book
+inside and out.
+
+441
+00:34:27,385 --> 00:34:28,685
+Damn right.
+Damn straight.
+
+442
+00:34:28,785 --> 00:34:30,185
+You got it.
+
+443
+00:34:37,985 --> 00:34:39,285
+So does your enemy.
+
+444
+00:34:39,485 --> 00:34:41,685
+And we're off.
+
+445
+00:34:42,685 --> 00:34:45,885
+But what the enemy
+doesn't know is your limits.
+
+446
+00:34:46,485 --> 00:34:48,185
+I intend to find them,
+
+447
+00:34:48,385 --> 00:34:50,185
+test them,
+
+448
+00:34:50,685 --> 00:34:51,885
+push beyond.
+
+449
+00:34:52,985 --> 00:34:56,785
+Today we'll start with
+what you only think you know.
+
+450
+00:34:58,485 --> 00:35:00,285
+You show me what you're made of.
+
+451
+00:35:05,485 --> 00:35:06,685
+Rooster.
+
+452
+00:35:07,785 --> 00:35:08,785
+Bradley.
+
+453
+00:35:08,885 --> 00:35:10,785
+Lieutenant Bradshaw!
+
+454
+00:35:13,185 --> 00:35:14,385
+Yes, sir.
+
+455
+00:35:15,185 --> 00:35:17,185
+Let's not do it like this.
+
+456
+00:35:18,085 --> 00:35:19,685
+You gonna wash me out?
+
+457
+00:35:20,585 --> 00:35:22,585
+That'll be up to you, not me.
+
+458
+00:35:24,785 --> 00:35:26,285
+Am I dismissed?
+
+459
+00:35:43,485 --> 00:35:45,985
+Good morning, aviators.
+This is your captain speaking.
+
+460
+00:35:46,085 --> 00:35:48,485
+Welcome to basic
+fighter maneuvers.
+
+461
+00:35:49,685 --> 00:35:52,585
+<i>As briefed, today's exercise
+is dog fighting.</i>
+
+462
+00:35:52,685 --> 00:35:54,585
+<i>Guns only, no missiles.</i>
+
+463
+00:35:55,585 --> 00:35:58,385
+We do not go below the hard deck
+of 5,000 feet.
+
+464
+00:35:58,585 --> 00:36:01,385
+<i>Working as a team, you have
+to shoot me down, or else.</i>
+
+465
+00:36:01,585 --> 00:36:04,785
+Or else what, sir?
+Or else I shoot back.
+
+466
+00:36:04,885 --> 00:36:07,785
+<i>If I shoot either one of
+you down, you both lose.</i>
+
+467
+00:36:07,885 --> 00:36:11,085
+This guy needs an ego check.
+We'll see to that.
+
+468
+00:36:11,185 --> 00:36:13,885
+What say we put some skin in the
+game? What do you have in mind?
+
+469
+00:36:13,985 --> 00:36:17,085
+Whoever gets shot down first
+has to do 200 push-ups.
+
+470
+00:36:17,185 --> 00:36:19,685
+Guys. That's a lot of push-ups.
+
+471
+00:36:19,885 --> 00:36:22,085
+They don't call it an
+exercise for nothing, sir.
+
+472
+00:36:22,185 --> 00:36:24,085
+You got yourself a deal,
+gentlemen.
+
+473
+00:36:24,185 --> 00:36:26,685
+Fight's on.
+Let's turn and burn.
+
+474
+00:36:27,885 --> 00:36:30,685
+Fanboy, you see him?
+Nothing on radar up ahead.
+
+475
+00:36:30,785 --> 00:36:32,585
+He must be somewhere behind us.
+
+476
+00:36:34,185 --> 00:36:34,985
+<i>Yeah!</i>
+
+477
+00:36:35,085 --> 00:36:36,685
+Damn it!
+What the hell?
+
+478
+00:36:36,885 --> 00:36:37,885
+Shit!
+
+479
+00:36:39,530 --> 00:36:41,898
+♪ We don't get fooled again ♪
+
+480
+00:36:42,085 --> 00:36:43,385
+<i>Easy, Maverick.</i>
+
+481
+00:36:43,485 --> 00:36:46,085
+Let's try not to get fired
+on the first day.
+
+482
+00:36:46,185 --> 00:36:49,285
+Tally, tally, tally! Maverick's
+coming in! Break left!
+
+483
+00:36:49,385 --> 00:36:50,785
+Breaking left.
+
+484
+00:36:52,485 --> 00:36:54,485
+Payback, where's your wing man?
+
+485
+00:36:54,585 --> 00:36:56,685
+Rooster, where are you?
+I got your back.
+
+486
+00:36:56,885 --> 00:36:59,385
+I'm coming. Hang in there.
+Hang in there.
+
+487
+00:36:59,485 --> 00:37:00,985
+Hurry up, man! Hurry up!
+
+488
+00:37:04,585 --> 00:37:07,685
+Payback, break right.
+Breaking right.
+
+489
+00:37:07,885 --> 00:37:11,285
+Rooster just saved your life,
+fellas. But it's gonna cost him.
+
+490
+00:37:11,485 --> 00:37:13,485
+Not this time, old man.
+
+491
+00:37:15,785 --> 00:37:17,685
+Don't let him
+get to you, Maverick.
+
+492
+00:37:24,185 --> 00:37:26,885
+Rooster, you're too low! Pull
+up! You're hitting the hard deck!
+
+493
+00:37:26,985 --> 00:37:29,785
+<i>- Altitude. Altitude.
+- Oh, shit.</i>
+
+494
+00:37:30,848 --> 00:37:33,250
+♪ Get on my knees and pray ♪
+
+495
+00:37:33,385 --> 00:37:34,885
+That's a kill.
+
+496
+00:37:34,951 --> 00:37:37,654
+Down! 109.
+♪ We don't get fooled again ♪
+
+497
+00:37:38,485 --> 00:37:41,385
+Down! 110.
+
+498
+00:37:42,885 --> 00:37:44,585
+- That should be us down there.
+- 111!
+
+499
+00:37:44,785 --> 00:37:46,085
+But it's not.
+Down!
+
+500
+00:37:46,285 --> 00:37:49,585
+And now you know a little
+something about Rooster.
+
+501
+00:37:50,185 --> 00:37:51,785
+Whoo!
+Wow.
+
+502
+00:37:51,885 --> 00:37:54,285
+Hold that tarmac down till
+we get back, brother, all right?
+
+503
+00:37:54,385 --> 00:37:55,985
+Get in there, boys.
+
+504
+00:37:58,385 --> 00:38:00,385
+That's a kill.
+Damn!
+
+505
+00:38:00,985 --> 00:38:02,285
+Smoked.
+Damn it.
+
+506
+00:38:02,485 --> 00:38:05,485
+It was all fun and games in
+that selfie, wasn't it? Down!
+
+507
+00:38:05,585 --> 00:38:06,685
+<i>Say, Phoenix.</i>
+
+508
+00:38:06,785 --> 00:38:07,785
+How's about we tell everybody
+
+509
+00:38:07,785 --> 00:38:09,585
+"Bob" stands for something?
+
+510
+00:38:09,685 --> 00:38:11,885
+<i>- Other than Robert, I mean.
+- Don't take the bait, Bob.</i>
+
+511
+00:38:11,985 --> 00:38:14,085
+Want to know why
+we call him Hangman?
+
+512
+00:38:14,285 --> 00:38:16,385
+I got it. "Baby On Board."
+
+513
+00:38:18,985 --> 00:38:20,585
+Shit!
+
+514
+00:38:21,585 --> 00:38:23,285
+Greetings, aviators.
+Fight's on.
+
+515
+00:38:23,385 --> 00:38:26,385
+<i>All right, Phoenix,
+let's take this guy out!</i>
+
+516
+00:38:26,485 --> 00:38:27,585
+Watch your back, Phoenix.
+
+517
+00:38:27,685 --> 00:38:29,885
+Break right!
+Breaking right.
+
+518
+00:38:32,185 --> 00:38:33,185
+Where's he going?
+
+519
+00:38:33,285 --> 00:38:34,685
+That's why we call him Hangman.
+
+520
+00:38:34,785 --> 00:38:36,485
+He'll always
+hang you out to dry.
+
+521
+00:38:37,285 --> 00:38:38,585
+Leaving your wing man.
+
+522
+00:38:38,785 --> 00:38:40,485
+There's a strategy
+I haven't seen in a while.
+
+523
+00:38:40,585 --> 00:38:42,785
+He called you a man, Phoenix.
+You gonna take that?
+
+524
+00:38:42,985 --> 00:38:44,385
+So long as he doesn't
+call you a man.
+
+525
+00:38:44,585 --> 00:38:46,485
+Talk to me, Bob.
+Where's Maverick?
+
+526
+00:38:46,585 --> 00:38:48,485
+Jesus, his nose
+is already coming around!
+
+527
+00:38:48,685 --> 00:38:50,285
+Get him off me, Hangman!
+
+528
+00:38:50,385 --> 00:38:53,985
+For all you folks at home,
+this is how you bury a fossil.
+
+529
+00:38:54,085 --> 00:38:56,685
+All right, Hangman.
+Time to teach you a lesson.
+
+530
+00:38:56,885 --> 00:38:58,885
+You're out, Phoenix.
+Son of a bitch!
+
+531
+00:39:00,185 --> 00:39:01,385
+That's it.
+
+532
+00:39:01,585 --> 00:39:02,985
+Let's go, Mav.
+Let's see what you got.
+
+533
+00:39:03,085 --> 00:39:04,485
+Come get me.
+
+534
+00:39:05,985 --> 00:39:07,985
+Evil be gone.
+Hangman's coming.
+
+535
+00:39:08,885 --> 00:39:11,485
+Yeah, you're good.
+I'll give you that.
+
+536
+00:39:13,284 --> 00:39:16,020
+♪ Meet the new boss ♪
+
+537
+00:39:17,121 --> 00:39:18,789
+♪ Same as the old boss ♪
+Shit.
+
+538
+00:39:18,985 --> 00:39:20,785
+Phoenix, I can't see him.
+How close am I?
+
+539
+00:39:20,985 --> 00:39:23,385
+Phoenix?
+I'm dead, dickhead.
+
+540
+00:39:23,485 --> 00:39:25,385
+See you in the afterlife,
+Bagman.
+
+541
+00:39:26,885 --> 00:39:29,085
+Where is he?
+Where is he?
+
+542
+00:39:29,185 --> 00:39:30,385
+That's a kill.
+
+543
+00:39:30,485 --> 00:39:34,485
+Seventy-nine. Down.
+Eighty. Down.
+
+544
+00:39:34,685 --> 00:39:36,085
+<i>Let's go. Who's next?</i>
+
+545
+00:39:37,285 --> 00:39:39,085
+I got you, Omaha.
+Damn it!
+
+546
+00:39:41,885 --> 00:39:44,285
+Lights out, Coyote.
+Copy kill.
+
+547
+00:39:44,385 --> 00:39:48,985
+Down. Fifty-one.
+Down. Fifty-two.
+
+548
+00:39:51,585 --> 00:39:54,585
+So, Rooster, mind if I ask you
+a personal question?
+
+549
+00:39:54,685 --> 00:39:55,885
+Would it matter if I did?
+
+550
+00:39:55,985 --> 00:39:58,085
+What's the story
+with you and Maverick?
+
+551
+00:39:58,285 --> 00:40:01,485
+It seems like he's got you rattled.
+That's none of your business.
+
+552
+00:40:01,585 --> 00:40:03,385
+Now where the hell is he?
+
+553
+00:40:03,485 --> 00:40:05,485
+<i>Been here the whole time.</i>
+
+554
+00:40:06,285 --> 00:40:08,185
+Holy shit.
+
+555
+00:40:10,285 --> 00:40:11,385
+You see me now?
+
+556
+00:40:12,085 --> 00:40:14,185
+Come on, let's get it over with.
+
+557
+00:40:14,685 --> 00:40:16,185
+Fight's on!
+
+558
+00:40:17,785 --> 00:40:20,485
+What is with these two?
+
+559
+00:40:24,485 --> 00:40:28,185
+All right, you put us here.
+How you gonna get yourself out?
+
+560
+00:40:28,285 --> 00:40:30,685
+You can bail out anytime.
+
+561
+00:40:30,785 --> 00:40:32,385
+How low you want to go, Rooster?
+
+562
+00:40:32,485 --> 00:40:35,785
+I can go as low as you, sir!
+And that's saying something.
+
+563
+00:40:39,185 --> 00:40:41,185
+What's past is past.
+For both of us.
+
+564
+00:40:41,285 --> 00:40:43,085
+You'd like to believe that,
+wouldn't you?
+
+565
+00:40:43,285 --> 00:40:47,185
+Hard deck is 5,000 feet, fellas.
+You are running out of room.
+
+566
+00:40:47,285 --> 00:40:50,285
+<i>Altitude. Your strategy is
+about to run us into the ground.</i>
+
+567
+00:40:50,485 --> 00:40:53,185
+<i>- What's your move?
+- Altitude. Altitude.</i>
+
+568
+00:40:53,285 --> 00:40:54,785
+<i>Altitude.</i>
+
+569
+00:40:56,285 --> 00:40:59,285
+<i>Altitude. Altitude. Altitude.</i>
+
+570
+00:40:59,385 --> 00:41:01,985
+<i>Altitude. Altitude.</i>
+
+571
+00:41:03,785 --> 00:41:06,685
+<i>Pull up! Pull up!
+Pull up! Pull up!</i>
+
+572
+00:41:07,285 --> 00:41:08,485
+<i>Pull up! Pull up!</i>
+
+573
+00:41:11,485 --> 00:41:13,385
+You got it.
+Don't think, just do.
+
+574
+00:41:13,585 --> 00:41:17,085
+Come on, Rooster, you got him!
+Drop down and take the shot!
+
+575
+00:41:18,485 --> 00:41:19,685
+It's too low.
+
+576
+00:41:20,485 --> 00:41:22,285
+Too late. You had your chance.
+
+577
+00:41:28,385 --> 00:41:31,185
+That's a kill. Knock it off.
+
+578
+00:41:32,185 --> 00:41:33,185
+Damn it!
+
+579
+00:41:33,285 --> 00:41:35,285
+Same old Rooster.
+
+580
+00:41:37,685 --> 00:41:40,185
+Go see Hondo
+about your push-ups.
+
+581
+00:41:48,085 --> 00:41:49,685
+All right, that's enough.
+
+582
+00:41:49,785 --> 00:41:52,785
+Rooster.
+That's enough, man.
+
+583
+00:42:06,585 --> 00:42:10,485
+Breaking the hard deck, insubordination.
+Are you trying to get kicked out?
+
+584
+00:42:10,585 --> 00:42:12,085
+Don't worry about it.
+
+585
+00:42:12,185 --> 00:42:15,085
+Look, I'm going on this mission.
+
+586
+00:42:16,285 --> 00:42:18,585
+But if you get kicked out, you
+leave us flying with Hangman.
+
+587
+00:42:18,685 --> 00:42:23,185
+Talk to me. What the hell
+was that? He pulled my papers.
+
+588
+00:42:23,285 --> 00:42:26,885
+What? Who?
+Maverick.
+
+589
+00:42:27,885 --> 00:42:30,685
+He pulled my application
+to the Naval Academy.
+
+590
+00:42:31,485 --> 00:42:33,685
+Set me back four years.
+
+591
+00:42:35,885 --> 00:42:37,685
+Why would he do that?
+
+592
+00:42:43,085 --> 00:42:45,485
+The hard deck is 5,000 feet
+above ground level.
+
+593
+00:42:45,585 --> 00:42:47,885
+A parameter is set not just
+for the safety of our pilots,
+
+594
+00:42:48,085 --> 00:42:49,685
+but for the safety
+of their aircraft.
+
+595
+00:42:49,885 --> 00:42:53,985
+5,000 feet is not just a rule. It is
+a law, as immutable as gravity.
+
+596
+00:42:54,085 --> 00:42:56,785
+The hard deck will be much
+lower for the mission, sir.
+
+597
+00:42:56,885 --> 00:42:59,885
+And it will not change
+without my approval!
+
+598
+00:43:00,085 --> 00:43:01,885
+Especially not
+in the middle of an exercise.
+
+599
+00:43:02,085 --> 00:43:05,885
+And that Cobra maneuver of yours?
+That could've got all three of you killed.
+
+600
+00:43:05,985 --> 00:43:07,885
+I never want to see
+that shit again.
+
+601
+00:43:08,085 --> 00:43:11,185
+What exactly do you suppose
+you were teaching, Captain?
+
+602
+00:43:11,285 --> 00:43:13,685
+That as good as they are, sir,
+they still have something to learn.
+
+603
+00:43:13,685 --> 00:43:16,485
+You are talking about the best
+fighter pilots on the planet, Captain.
+
+604
+00:43:16,485 --> 00:43:18,285
+And they've been told that
+their entire career,
+
+605
+00:43:18,285 --> 00:43:20,185
+while they've been dropping
+bombs from a high altitude
+
+606
+00:43:20,185 --> 00:43:22,285
+with little to no dog fighting.
+
+607
+00:43:22,385 --> 00:43:24,885
+The parameters of this mission call for
+something they have never encountered.
+
+608
+00:43:24,885 --> 00:43:29,485
+Okay, you have less than three weeks
+to teach them how to fight as a team
+
+609
+00:43:29,685 --> 00:43:30,885
+and how to strike the target.
+
+610
+00:43:30,985 --> 00:43:32,985
+And how to come home.
+
+611
+00:43:35,685 --> 00:43:37,885
+And how to come home, sir.
+
+612
+00:43:43,185 --> 00:43:45,785
+Every mission has its risks.
+
+613
+00:43:45,885 --> 00:43:47,685
+These pilots accept that.
+
+614
+00:43:47,785 --> 00:43:49,685
+I don't, sir.
+
+615
+00:43:53,285 --> 00:43:54,985
+Every morning,
+from this day forward,
+
+616
+00:43:55,085 --> 00:43:57,485
+you will brief us on your
+instructional plans in writing.
+
+617
+00:43:57,585 --> 00:44:00,485
+And nothing will change
+without my express approval.
+
+618
+00:44:00,585 --> 00:44:04,185
+Including the hard deck, sir?
+Especially the hard deck, Captain.
+
+619
+00:44:06,185 --> 00:44:07,285
+Sir.
+
+620
+00:44:08,185 --> 00:44:09,285
+What is this?
+
+621
+00:44:09,385 --> 00:44:11,185
+It's a request to lower
+the hard deck, sir,
+
+622
+00:44:11,385 --> 00:44:13,785
+to practice a low-level bombing
+run per the mission parameters.
+
+623
+00:44:19,485 --> 00:44:22,385
+You could learn a thing or two
+about timing, Captain.
+
+624
+00:44:22,985 --> 00:44:24,185
+<i>Yo, Coyote.</i>
+
+625
+00:44:24,785 --> 00:44:26,285
+Take a look at this.
+
+626
+00:44:29,985 --> 00:44:32,685
+The man, the legend.
+There he is.
+
+627
+00:44:32,785 --> 00:44:34,985
+No, no, no.
+Next to him.
+
+628
+00:44:35,785 --> 00:44:37,985
+He look familiar to you?
+
+629
+00:44:39,685 --> 00:44:41,485
+What have we here?
+
+630
+00:44:42,085 --> 00:44:44,085
+Bradshaw.
+
+631
+00:44:44,785 --> 00:44:46,785
+As I live and breathe.
+
+632
+00:44:49,685 --> 00:44:52,385
+Hey, Theo, you got big.
+
+633
+00:44:52,985 --> 00:44:53,985
+Hey, Mav.
+
+634
+00:45:01,385 --> 00:45:02,385
+Amelia?
+
+635
+00:45:02,485 --> 00:45:03,885
+I know. I got big.
+
+636
+00:45:03,985 --> 00:45:05,385
+Yes.
+
+637
+00:45:06,485 --> 00:45:07,585
+Bar opens at 5:00.
+
+638
+00:45:07,785 --> 00:45:10,485
+No, I just came by
+to pay off a debt.
+
+639
+00:45:10,585 --> 00:45:12,085
+Mom!
+
+640
+00:45:16,385 --> 00:45:19,485
+Hey, how's your dad?
+With his wife, in Hawaii.
+
+641
+00:45:19,585 --> 00:45:21,185
+Mom!
+
+642
+00:45:21,885 --> 00:45:24,385
+Mav says he owes you money.
+
+643
+00:45:24,585 --> 00:45:27,785
+Oh. Don't worry
+about it. I insist.
+
+644
+00:45:30,585 --> 00:45:34,585
+Thank you, Captain.
+Consider your tab closed.
+
+645
+00:45:35,485 --> 00:45:37,185
+Captain? Still?
+
+646
+00:45:37,285 --> 00:45:40,185
+A highly decorated captain.
+
+647
+00:45:40,285 --> 00:45:41,185
+Finish up.
+
+648
+00:45:41,285 --> 00:45:42,985
+We have to get the boat
+to the yard.
+
+649
+00:45:43,085 --> 00:45:44,985
+I can't go. What do
+you mean, you can't go?
+
+650
+00:45:45,085 --> 00:45:48,285
+Test tomorrow. I have to
+study. They only told us today.
+
+651
+00:45:48,485 --> 00:45:50,585
+Well, I can't sail her alone.
+
+652
+00:45:50,685 --> 00:45:51,985
+Just use the engine.
+
+653
+00:45:52,085 --> 00:45:54,385
+Why are we taking her
+to the yard?
+
+654
+00:45:54,485 --> 00:45:56,085
+To fix the engine.
+
+655
+00:45:56,185 --> 00:45:58,385
+Mm-hmm.
+I can help.
+
+656
+00:46:04,285 --> 00:46:07,485
+Little rougher than I was expecting.
+You don't say.
+
+657
+00:46:07,585 --> 00:46:11,385
+Pull on the back stay.
+We'll de-power the sails.
+
+658
+00:46:11,485 --> 00:46:12,785
+Okay.
+
+659
+00:46:12,985 --> 00:46:14,885
+What does that mean?
+
+660
+00:46:15,985 --> 00:46:18,085
+You're supposed to be
+in the navy!
+
+661
+00:46:18,185 --> 00:46:21,985
+I don't sail boats, Penny.
+I land on them.
+
+662
+00:46:22,085 --> 00:46:25,385
+It's sort of like raising
+the flaps on an airplane.
+
+663
+00:46:25,585 --> 00:46:27,085
+So how do I do that?
+
+664
+00:46:27,285 --> 00:46:29,885
+You pull on that
+green line up there.
+
+665
+00:46:29,985 --> 00:46:31,485
+Green line.
+
+666
+00:46:33,885 --> 00:46:35,185
+Yep. Pull it hard.
+
+667
+00:46:35,385 --> 00:46:38,385
+Yep. Crank that winch
+right there,
+
+668
+00:46:38,585 --> 00:46:40,485
+tighten the jib.
+
+669
+00:46:41,085 --> 00:46:43,485
+Crank it. You okay? Yeah.
+
+670
+00:46:44,885 --> 00:46:46,085
+Good.
+
+671
+00:46:47,285 --> 00:46:48,285
+Now,
+
+672
+00:46:49,585 --> 00:46:50,985
+you ready?
+
+673
+00:46:52,885 --> 00:46:54,485
+For what?
+
+674
+00:46:54,585 --> 00:46:56,285
+The afterburner.
+
+675
+00:47:16,285 --> 00:47:18,385
+Now you're in the navy.
+
+676
+00:47:40,385 --> 00:47:42,485
+Thanks for helping out today.
+
+677
+00:47:43,985 --> 00:47:45,585
+I'm not exactly sure I helped.
+
+678
+00:47:47,385 --> 00:47:48,585
+Hmm.
+
+679
+00:47:50,885 --> 00:47:52,485
+Don't give me that look.
+
+680
+00:47:52,585 --> 00:47:53,785
+What look?
+
+681
+00:47:53,885 --> 00:47:55,685
+That one.
+
+682
+00:47:58,885 --> 00:48:00,285
+Good night, Pete.
+
+683
+00:48:00,885 --> 00:48:02,385
+Night, Penny.
+
+684
+00:48:17,785 --> 00:48:19,785
+Mom, is that you?
+
+685
+00:48:19,885 --> 00:48:21,385
+Yeah, it's me.
+
+686
+00:48:22,085 --> 00:48:23,785
+I'll make you dinner.
+
+687
+00:48:23,985 --> 00:48:25,185
+Okay.
+
+688
+00:48:31,085 --> 00:48:33,485
+Time is your greatest enemy.
+
+689
+00:48:34,685 --> 00:48:36,885
+Phase one of the mission
+will be a low-level ingress
+
+690
+00:48:36,985 --> 00:48:38,585
+attacking in two-plane teams.
+
+691
+00:48:38,685 --> 00:48:41,385
+You'll fly along this narrow
+canyon to your target.
+
+692
+00:48:41,485 --> 00:48:44,985
+Radar-guided surface-to-air
+missiles defend the area.
+
+693
+00:48:45,085 --> 00:48:47,685
+These SAMs, they're lethal.
+
+694
+00:48:47,885 --> 00:48:51,685
+But they were designed to protect
+the skies above, not the canyon below.
+
+695
+00:48:51,885 --> 00:48:55,785
+That's because the enemy knows no one
+is insane enough to try and fly below them.
+
+696
+00:48:56,785 --> 00:48:59,485
+That's exactly what
+I'm gonna train you to do.
+
+697
+00:48:59,585 --> 00:49:03,985
+On the day, your altitude
+will be 100 feet maximum.
+
+698
+00:49:04,085 --> 00:49:05,485
+You exceed this altitude...
+
+699
+00:49:05,585 --> 00:49:07,985
+...radar will spot you
+
+700
+00:49:08,085 --> 00:49:10,485
+and you're dead.
+
+701
+00:49:10,585 --> 00:49:12,985
+Your airspeed will be 660 knots
+
+702
+00:49:13,685 --> 00:49:14,685
+minimum.
+
+703
+00:49:14,685 --> 00:49:16,985
+Time to target:
+two and a half minutes.
+
+704
+00:49:17,085 --> 00:49:22,085
+That's because fifth-generation
+fighters wait at an air base nearby.
+
+705
+00:49:22,185 --> 00:49:26,485
+In a head-to-head with these
+planes in your F-18s, you're dead.
+
+706
+00:49:27,685 --> 00:49:30,385
+That's why you need to get in,
+hit your target and be gone
+
+707
+00:49:30,585 --> 00:49:33,585
+before these planes even
+have a chance of catching you.
+
+708
+00:49:33,785 --> 00:49:36,885
+This makes time
+your greatest adversary.
+
+709
+00:49:38,285 --> 00:49:42,285
+<i>You'll fly a route in your nav
+system that simulates the canyon.</i>
+
+710
+00:49:42,485 --> 00:49:44,285
+<i>The faster you navigate
+this canyon,</i>
+
+711
+00:49:44,485 --> 00:49:46,985
+<i>the harder it'll be to stay under
+the radar of these enemy SAMs.</i>
+
+712
+00:49:47,185 --> 00:49:49,085
+<i>The tighter the turns,</i>
+
+713
+00:49:49,285 --> 00:49:50,985
+<i>the more intensely
+the force of gravity</i>
+
+714
+00:49:51,085 --> 00:49:52,985
+<i>on your body multiplies...</i>
+
+715
+00:49:53,185 --> 00:49:54,685
+<i>...compressing your lungs...</i>
+
+716
+00:49:54,785 --> 00:49:57,285
+<i>...forcing the blood
+from your brain...</i>
+
+717
+00:49:57,385 --> 00:49:59,585
+<i>...impairing your judgment
+and reaction time.</i>
+
+718
+00:49:59,685 --> 00:50:02,085
+So for today's lesson, we're
+gonna take it easy on you.
+
+719
+00:50:02,285 --> 00:50:05,485
+Max ceiling: 300 feet.
+Time to target: three minutes.
+
+720
+00:50:07,185 --> 00:50:08,585
+Good luck.
+
+721
+00:50:16,685 --> 00:50:18,485
+Time to target is one minute 30.
+
+722
+00:50:18,585 --> 00:50:20,985
+We are two seconds behind.
+Increase to 480 knots.
+
+723
+00:50:21,185 --> 00:50:22,585
+We got to move, Coyote.
+
+724
+00:50:23,285 --> 00:50:24,885
+Copy. Increasing speed.
+
+725
+00:50:25,085 --> 00:50:26,285
+Oh!
+
+726
+00:50:27,485 --> 00:50:28,485
+Oh, shit!
+
+727
+00:50:31,685 --> 00:50:32,885
+Why are they dead?
+
+728
+00:50:32,985 --> 00:50:35,985
+We broke the 300-foot ceiling,
+and a SAM took us out.
+
+729
+00:50:36,085 --> 00:50:37,685
+No. Why are they dead?
+
+730
+00:50:37,885 --> 00:50:40,085
+I slowed down and didn't give
+her a warning. It was my fault.
+
+731
+00:50:40,085 --> 00:50:43,185
+Was there a reason you didn't communicate
+with your team? I was focusing on...
+
+732
+00:50:43,285 --> 00:50:45,985
+One that their family
+will accept at the funeral.
+
+733
+00:50:46,085 --> 00:50:47,285
+None, sir.
+
+734
+00:50:48,285 --> 00:50:49,685
+Why didn't you
+anticipate the turn?
+
+735
+00:50:49,685 --> 00:50:51,285
+You were briefed on the terrain.
+
+736
+00:50:51,385 --> 00:50:54,585
+Don't tell me.
+Tell it to his family.
+
+737
+00:50:59,685 --> 00:51:02,285
+Hangman, ease up.
+The canyon's getting tighter.
+
+738
+00:51:02,385 --> 00:51:05,085
+Negative, Payback.
+Increase your speed.
+
+739
+00:51:06,385 --> 00:51:10,285
+You're going too fast, man. No
+harm in being ahead of schedule.
+
+740
+00:51:11,985 --> 00:51:14,885
+Damn it, slow down!
+I can't stay on the course!
+
+741
+00:51:15,085 --> 00:51:18,185
+You're gonna hit the wall!
+Watch out! Watch out!
+
+742
+00:51:21,485 --> 00:51:24,185
+- What happened?
+- I flew as fast as I could.
+
+743
+00:51:24,285 --> 00:51:26,085
+Kind of like my ass
+depended on it.
+
+744
+00:51:26,285 --> 00:51:29,885
+And you put your team in danger,
+and your wing man's dead.
+
+745
+00:51:30,985 --> 00:51:32,685
+They couldn't keep up.
+
+746
+00:51:38,285 --> 00:51:41,185
+<i>Rooster, we're 20 seconds
+behind and dropping.</i>
+
+747
+00:51:41,285 --> 00:51:43,885
+We're fine. Speed is good.
+
+748
+00:51:44,085 --> 00:51:45,685
+Increase to 500 knots.
+
+749
+00:51:45,785 --> 00:51:48,485
+<i>Negative, Yale. Hold your
+speed. Rooster, we're late!</i>
+
+750
+00:51:48,685 --> 00:51:51,385
+We're alive. We'll make
+up time in the straightaway.
+
+751
+00:51:51,585 --> 00:51:52,985
+<i>We are not gonna make it.</i>
+
+752
+00:51:53,085 --> 00:51:56,185
+Just trust me. Maintain
+your speed. We can make it.
+
+753
+00:51:56,385 --> 00:51:58,485
+Why are you dead?
+
+754
+00:51:58,585 --> 00:52:00,085
+You're team leader up there.
+
+755
+00:52:00,185 --> 00:52:02,585
+Why are you,
+why is your team dead?
+
+756
+00:52:02,785 --> 00:52:05,385
+Sir, he's the only one
+who made it to the target.
+
+757
+00:52:05,585 --> 00:52:07,585
+A minute late.
+
+758
+00:52:07,685 --> 00:52:10,185
+He gave enemy aircraft
+time to shoot him down.
+
+759
+00:52:10,285 --> 00:52:12,085
+He is dead.
+You don't know that.
+
+760
+00:52:12,185 --> 00:52:15,785
+You're not flying fast enough.
+You don't have a second to waste.
+
+761
+00:52:15,885 --> 00:52:17,585
+We made it to the target.
+
+762
+00:52:17,685 --> 00:52:20,685
+And superior enemy aircraft
+intercepted you on your way out.
+
+763
+00:52:20,785 --> 00:52:23,785
+Then it's a dogfight. Against
+fifth-generation fighters.
+
+764
+00:52:23,885 --> 00:52:26,485
+Yeah. We'd still have
+a chance. In an F-18.
+
+765
+00:52:26,585 --> 00:52:29,185
+It's not the plane, sir,
+it's the pilot.
+
+766
+00:52:29,285 --> 00:52:30,585
+Exactly!
+
+767
+00:52:37,485 --> 00:52:40,185
+There's more than one way
+to fly this mission.
+
+768
+00:52:40,285 --> 00:52:41,885
+You really don't get it.
+
+769
+00:52:43,085 --> 00:52:45,985
+On this mission,
+a man flies like Maverick here,
+
+770
+00:52:46,085 --> 00:52:47,985
+or a man does not come back.
+
+771
+00:52:48,985 --> 00:52:50,385
+No offense intended.
+
+772
+00:52:51,185 --> 00:52:53,585
+Yet somehow you always manage.
+
+773
+00:52:54,785 --> 00:52:56,485
+Look, I don't mean to criticize.
+
+774
+00:52:56,585 --> 00:52:58,485
+You're conservative, that's all.
+Lieutenant.
+
+775
+00:52:58,585 --> 00:53:03,485
+We're going into combat, son, on
+a level no living pilot's ever seen.
+
+776
+00:53:04,885 --> 00:53:06,185
+Not even him.
+
+777
+00:53:07,785 --> 00:53:09,885
+That's no time to be
+thinking about the past.
+
+778
+00:53:13,685 --> 00:53:15,485
+What's that supposed
+to mean? Rooster.
+
+779
+00:53:15,585 --> 00:53:18,385
+I can't be the only one that knows
+that Maverick flew with his old man.
+
+780
+00:53:18,385 --> 00:53:20,985
+That's enough. Or that Maverick
+was flying when his old man...
+
+781
+00:53:21,185 --> 00:53:23,585
+Lieutenant, that's enough!
+
+782
+00:53:23,785 --> 00:53:25,785
+That's enough.
+You son of a bitch!
+
+783
+00:53:25,885 --> 00:53:27,285
+Hey, come on!
+
+784
+00:53:27,485 --> 00:53:29,185
+I'm cool,
+I'm cool. Hey, hey.
+
+785
+00:53:29,285 --> 00:53:31,585
+- That's enough.
+- He's not cut out for this mission.
+
+786
+00:53:31,685 --> 00:53:34,285
+That's enough!
+You know it.
+
+787
+00:53:36,885 --> 00:53:37,985
+You know I'm right.
+
+788
+00:53:44,285 --> 00:53:45,585
+You're all dismissed.
+
+789
+00:54:49,885 --> 00:54:51,385
+Maverick.
+
+790
+00:54:53,385 --> 00:54:54,885
+It's come back?
+
+791
+00:54:55,385 --> 00:54:56,985
+No one knows.
+
+792
+00:54:58,885 --> 00:55:01,485
+There's nothing else
+they can do.
+
+793
+00:55:01,585 --> 00:55:04,785
+Even speaking is painful now.
+
+794
+00:55:10,485 --> 00:55:12,585
+Sarah, I'm so sorry.
+
+795
+00:55:32,085 --> 00:55:33,185
+Admiral.
+
+796
+00:55:44,585 --> 00:55:45,985
+How's my wing man?
+
+797
+00:55:57,485 --> 00:55:59,885
+Please, don't worry about me.
+
+798
+00:56:00,585 --> 00:56:02,685
+What can I do for you?
+
+799
+00:56:10,985 --> 00:56:12,085
+All right.
+
+800
+00:56:14,785 --> 00:56:18,085
+Well, Rooster's still angry
+with me about what I did.
+
+801
+00:56:19,285 --> 00:56:22,485
+I thought eventually
+he would understand why.
+
+802
+00:56:24,485 --> 00:56:26,385
+I hoped he'd forgive me.
+
+803
+00:56:34,485 --> 00:56:36,385
+The mission is less
+than three weeks away.
+
+804
+00:56:36,485 --> 00:56:38,785
+The kid's not ready.
+
+805
+00:56:46,885 --> 00:56:49,085
+He doesn't want
+what I have to give.
+
+806
+00:56:50,185 --> 00:56:51,385
+Ice, please,
+
+807
+00:56:51,585 --> 00:56:53,685
+don't ask me to send
+someone else to die.
+
+808
+00:56:53,785 --> 00:56:55,185
+Please don't...
+
+809
+00:56:55,885 --> 00:56:57,685
+Don't ask me to send him.
+
+810
+00:56:57,885 --> 00:56:59,585
+Send me.
+
+811
+00:57:31,185 --> 00:57:32,885
+I don't know how.
+
+812
+00:57:45,885 --> 00:57:47,885
+I'm not a teacher, Ice.
+
+813
+00:57:50,185 --> 00:57:52,085
+I'm a fighter pilot.
+
+814
+00:57:54,585 --> 00:57:56,085
+A naval aviator.
+
+815
+00:57:58,485 --> 00:58:00,785
+It's not what I am.
+
+816
+00:58:01,785 --> 00:58:03,685
+It's who I am.
+
+817
+00:58:05,185 --> 00:58:07,085
+How do I teach that?
+
+818
+00:58:08,485 --> 00:58:12,085
+Even if I could teach it,
+it's not what Rooster wants.
+
+819
+00:58:12,185 --> 00:58:14,485
+It's not what the navy wants.
+
+820
+00:58:14,585 --> 00:58:17,085
+That's why they canned me
+the last time.
+
+821
+00:58:19,785 --> 00:58:22,985
+The only reason I'm here is you.
+
+822
+00:58:29,985 --> 00:58:32,085
+If I send him on this mission,
+
+823
+00:58:33,385 --> 00:58:35,285
+he might never come home.
+
+824
+00:58:38,885 --> 00:58:41,185
+And if I don't send him,
+
+825
+00:58:41,385 --> 00:58:43,285
+he'll never forgive me.
+
+826
+00:58:45,785 --> 00:58:48,585
+Either way,
+I could lose him forever.
+
+827
+00:58:58,785 --> 00:58:59,985
+I know.
+
+828
+00:59:00,585 --> 00:59:02,085
+I know.
+
+829
+00:59:12,985 --> 00:59:16,985
+The navy needs Maverick.
+
+830
+00:59:18,785 --> 00:59:22,385
+The kid needs Maverick.
+
+831
+00:59:23,285 --> 00:59:25,885
+That's why I fought for you.
+
+832
+00:59:27,685 --> 00:59:30,185
+That's why you're still here.
+
+833
+00:59:38,185 --> 00:59:39,685
+Thank you, Ice,
+
+834
+00:59:39,885 --> 00:59:42,085
+for everything.
+
+835
+00:59:46,785 --> 00:59:48,285
+One last thing.
+
+836
+00:59:48,385 --> 00:59:50,585
+Who's the better pilot?
+
+837
+00:59:50,785 --> 00:59:52,185
+You or me?
+
+838
+00:59:55,085 --> 00:59:57,685
+This is a nice moment.
+Let's not ruin it.
+
+839
+01:00:26,489 --> 01:00:29,325
+♪ I don't know
+What you've been told ♪
+
+840
+01:00:29,459 --> 01:00:33,129
+♪ But time is running out
+No need to take it slow ♪
+
+841
+01:00:33,262 --> 01:00:36,298
+♪ I'm steppin' to ya
+Toe to toe ♪
+
+842
+01:00:38,085 --> 01:00:39,785
+All right, all right.
+
+843
+01:00:42,071 --> 01:00:45,908
+♪ Keepin' dreams alive
+1999 heroes ♪
+
+844
+01:00:46,042 --> 01:00:48,744
+♪ I ain't worried 'bout it
+Right now ♪
+
+845
+01:00:48,878 --> 01:00:51,947
+♪ Swimmin' in the floods ♪
+Touchdown!
+
+846
+01:00:52,782 --> 01:00:54,650
+♪ I ain't worried 'bout it ♪
+
+847
+01:00:56,152 --> 01:00:57,987
+♪ I ain't worried 'bout it ♪
+
+848
+01:01:07,230 --> 01:01:08,765
+Yeah!
+
+849
+01:01:11,034 --> 01:01:13,669
+♪ I don't know
+What you've been told ♪
+
+850
+01:01:13,803 --> 01:01:17,640
+♪ But time is running out
+So spend it like it's gold ♪
+
+851
+01:01:17,774 --> 01:01:21,143
+♪ I'm livin' like
+I'm nine zeros ♪
+
+852
+01:01:21,277 --> 01:01:23,980
+♪ Got no regrets
+Even when I'm broke ♪
+
+853
+01:01:25,381 --> 01:01:28,016
+♪ I ain't worried 'bout it
+Right now ♪
+
+854
+01:01:28,150 --> 01:01:32,154
+♪ Keepin' dreams alive
+1999 heroes ♪
+
+855
+01:01:32,288 --> 01:01:35,124
+♪ I ain't worried 'bout it
+Right now ♪
+
+856
+01:01:35,258 --> 01:01:38,961
+♪ Swimming in the floods
+Dancing on the path, hero ♪
+
+857
+01:01:39,095 --> 01:01:40,996
+♪ I ain't worried 'bout it ♪
+
+858
+01:01:49,438 --> 01:01:51,407
+♪ I ain't worried 'bout it ♪
+
+859
+01:01:52,909 --> 01:01:54,610
+♪ I ain't worried 'bout it ♪
+
+860
+01:01:59,582 --> 01:02:01,317
+♪ I ain't worried 'bout it ♪
+
+861
+01:02:01,485 --> 01:02:02,585
+Sir.
+
+862
+01:02:02,785 --> 01:02:04,285
+What is this?
+This is dogfight football.
+
+863
+01:02:04,485 --> 01:02:06,985
+Offense and defense
+at the same time.
+
+864
+01:02:07,485 --> 01:02:08,685
+Who's winning?
+
+865
+01:02:08,885 --> 01:02:11,385
+I think they stopped
+keeping score a while ago.
+
+866
+01:02:11,485 --> 01:02:14,485
+This detachment still has some
+training to complete, Captain.
+
+867
+01:02:14,685 --> 01:02:16,985
+Every available
+minute matters. Yes, sir.
+
+868
+01:02:17,085 --> 01:02:19,185
+So why are we out here
+playing games?
+
+869
+01:02:19,285 --> 01:02:21,485
+You said to create a team, sir.
+
+870
+01:02:22,785 --> 01:02:24,085
+There's your team.
+
+871
+01:02:24,140 --> 01:02:25,975
+♪ I ain't worried 'bout it ♪
+
+872
+01:02:37,453 --> 01:02:40,355
+♪ I ain't worried 'bout it
+Right now ♪
+
+873
+01:02:40,489 --> 01:02:44,192
+♪ Keepin' dreams alive
+1999 heroes ♪
+
+874
+01:02:44,326 --> 01:02:47,129
+♪ I ain't worried 'bout it
+Right now ♪
+
+875
+01:02:47,263 --> 01:02:51,033
+♪ Swimming in the floods
+Dancing on the path, hero ♪
+
+876
+01:02:51,167 --> 01:02:53,069
+♪ I ain't worried 'bout it ♪
+
+877
+01:04:03,585 --> 01:04:06,185
+Should I go?
+Before Amelia gets back?
+
+878
+01:04:06,285 --> 01:04:08,985
+She'll be at her friend's
+house tonight. Oh, good.
+
+879
+01:04:11,885 --> 01:04:13,885
+You and Amelia, you seem...
+
+880
+01:04:16,285 --> 01:04:18,685
+a lot closer
+than when I last saw you.
+
+881
+01:04:18,885 --> 01:04:21,385
+Yeah. Yeah, we are.
+How do you manage?
+
+882
+01:04:23,485 --> 01:04:25,485
+Well,
+
+883
+01:04:25,685 --> 01:04:29,185
+you know, she always wanted more
+freedom than I thought she was ready for.
+
+884
+01:04:29,285 --> 01:04:32,385
+Hmm. Where'd she
+get that from, I wonder?
+
+885
+01:04:35,785 --> 01:04:37,385
+I guess I realized
+
+886
+01:04:38,085 --> 01:04:40,385
+I also had to trust her.
+
+887
+01:04:41,685 --> 01:04:44,985
+Let her make some of her
+own mistakes sometimes.
+
+888
+01:04:46,785 --> 01:04:48,685
+Not an easy choice.
+Mmm.
+
+889
+01:04:52,685 --> 01:04:55,085
+Is that what happened
+with Rooster?
+
+890
+01:04:58,385 --> 01:05:01,385
+I pulled his papers
+from the Naval Academy.
+
+891
+01:05:04,185 --> 01:05:06,185
+Took years off his career.
+
+892
+01:05:12,385 --> 01:05:13,485
+Why?
+
+893
+01:05:15,985 --> 01:05:19,985
+His mother never wanted him to
+fly, not after what happened to Goose.
+
+894
+01:05:22,385 --> 01:05:25,885
+She made me promise
+before she died, so...
+
+895
+01:05:25,985 --> 01:05:28,185
+Does Rooster know that?
+
+896
+01:05:31,385 --> 01:05:34,685
+He will always resent me
+for what I did.
+
+897
+01:05:36,385 --> 01:05:39,185
+Why should he resent her too?
+
+898
+01:05:43,385 --> 01:05:45,685
+Not an easy choice.
+Hmm.
+
+899
+01:05:48,085 --> 01:05:50,685
+I was trying to be
+the father he lost.
+
+900
+01:05:53,785 --> 01:05:54,985
+I just...
+
+901
+01:05:57,485 --> 01:05:59,985
+I wish I would've
+done it better.
+
+902
+01:06:01,985 --> 01:06:05,085
+But the truth is...
+
+903
+01:06:07,285 --> 01:06:09,385
+I didn't think he was ready.
+
+904
+01:06:12,885 --> 01:06:14,685
+Is he ready now?
+
+905
+01:06:17,285 --> 01:06:19,585
+Mom, I'm home!
+
+906
+01:06:20,885 --> 01:06:23,385
+I thought you were staying
+at Karen's tonight.
+
+907
+01:06:23,485 --> 01:06:26,285
+Karen's sick.
+And I've got homework to do.
+
+908
+01:06:26,385 --> 01:06:28,685
+I should go.
+You should go.
+
+909
+01:06:28,785 --> 01:06:32,185
+Have you had dinner yet?
+Not yet. You wanna go out?
+
+910
+01:06:32,285 --> 01:06:35,185
+No, it's okay.
+I'll make you something.
+
+911
+01:06:35,285 --> 01:06:37,185
+I'll be down in a sec!
+
+912
+01:06:37,285 --> 01:06:39,485
+Wait! Not that way.
+What?
+
+913
+01:06:40,985 --> 01:06:43,085
+Look, I have an example to set.
+
+914
+01:06:43,285 --> 01:06:45,785
+I can't be bringing guys
+home on a first date.
+
+915
+01:06:45,885 --> 01:06:47,385
+This is not our first date.
+
+916
+01:06:48,285 --> 01:06:50,185
+You know what I mean.
+
+917
+01:06:52,685 --> 01:06:53,785
+Okay.
+
+918
+01:06:54,885 --> 01:06:56,685
+Fine.
+
+919
+01:06:56,785 --> 01:06:59,085
+But this is the last time
+I go out your window.
+
+920
+01:06:59,185 --> 01:07:00,685
+We'll see.
+
+921
+01:07:00,885 --> 01:07:02,885
+No. No, I mean it.
+
+922
+01:07:02,985 --> 01:07:05,185
+I'm never gonna leave you again.
+
+923
+01:07:06,885 --> 01:07:08,385
+Oh, shut up.
+
+924
+01:07:08,485 --> 01:07:10,585
+Go on, get out of here.
+
+925
+01:07:24,085 --> 01:07:26,285
+Just don't
+break her heart again.
+
+926
+01:07:37,585 --> 01:07:38,885
+<i>Good morning.</i>
+
+927
+01:07:38,985 --> 01:07:41,085
+The uranium enrichment plant
+that is your target
+
+928
+01:07:41,185 --> 01:07:43,485
+will be operational
+earlier than expected.
+
+929
+01:07:43,685 --> 01:07:47,485
+Raw uranium will be delivered
+to the plant in ten days' time.
+
+930
+01:07:47,585 --> 01:07:50,585
+As a result, your mission
+has been moved up one week
+
+931
+01:07:50,685 --> 01:07:54,085
+in order to avoid contaminating
+the target valley with radiation.
+
+932
+01:07:54,285 --> 01:07:57,285
+Sir, no one here has successfully
+flown a low-level course.
+
+933
+01:07:57,385 --> 01:07:59,585
+Nevertheless, you've
+been ordered to move on.
+
+934
+01:08:00,685 --> 01:08:01,685
+Captain.
+
+935
+01:08:04,485 --> 01:08:06,785
+We have one week left
+to focus on phase two.
+
+936
+01:08:06,885 --> 01:08:08,785
+It's the most difficult stage
+of the mission.
+
+937
+01:08:08,885 --> 01:08:10,585
+It's a pop-up strike
+with a steep dive,
+
+938
+01:08:10,785 --> 01:08:14,085
+requiring nothing less
+than two consecutive miracles.
+
+939
+01:08:15,085 --> 01:08:16,285
+<i>Two pairs of F-18s will fly</i>
+
+940
+01:08:16,485 --> 01:08:17,885
+<i>in a welded wing formation.</i>
+
+941
+01:08:18,085 --> 01:08:21,885
+<i>Teamwork. Precise coordination
+of these aircraft is essential</i>
+
+942
+01:08:21,985 --> 01:08:24,685
+<i>to both the mission's success
+and your survival.</i>
+
+943
+01:08:24,785 --> 01:08:27,485
+As you know, the plant rests
+between two mountains.
+
+944
+01:08:27,685 --> 01:08:32,585
+On final approach, you'll
+invert directly into a steep dive.
+
+945
+01:08:32,685 --> 01:08:35,685
+<i>This allows you to maintain
+the lowest possible altitude</i>
+
+946
+01:08:36,585 --> 01:08:38,685
+<i>and the only possible
+attack angle.</i>
+
+947
+01:08:42,085 --> 01:08:46,985
+Your target is an impact point
+less than three meters wide.
+
+948
+01:08:47,085 --> 01:08:49,085
+<i>The two-seat aircraft
+will paint the target</i>
+
+949
+01:08:49,285 --> 01:08:51,485
+<i>with a laser bull's-eye.</i>
+
+950
+01:08:51,585 --> 01:08:53,485
+The first pair
+will breach the reactor
+
+951
+01:08:53,585 --> 01:08:57,285
+by dropping a laser-guided bomb
+on an exposed ventilation hatch.
+
+952
+01:08:57,385 --> 01:09:00,285
+This will create an opening
+for the second pair.
+
+953
+01:09:00,485 --> 01:09:02,285
+That's miracle number one.
+
+954
+01:09:04,085 --> 01:09:07,085
+<i>The second team
+will deliver the kill shot...</i>
+
+955
+01:09:08,385 --> 01:09:10,485
+...and destroy the target.
+
+956
+01:09:11,485 --> 01:09:12,985
+That's miracle number two.
+
+957
+01:09:14,285 --> 01:09:16,685
+<i>If either team
+misses the target...</i>
+
+958
+01:09:18,685 --> 01:09:20,985
+<i>- That's a miss.
+- ...the mission is a failure.</i>
+
+959
+01:09:21,185 --> 01:09:22,385
+Damn it!
+
+960
+01:09:22,585 --> 01:09:24,985
+Egress
+is a steep high-G climb out
+
+961
+01:09:25,185 --> 01:09:26,885
+to avoid hitting this mountain.
+
+962
+01:09:28,985 --> 01:09:32,285
+A steep climb at that speed,
+you're pulling at least eight G's.
+
+963
+01:09:32,485 --> 01:09:33,785
+Nine, minimum.
+
+964
+01:09:33,885 --> 01:09:36,585
+The stress limit
+of the F-18's airframe is 7.5.
+
+965
+01:09:36,785 --> 01:09:38,285
+That's the accepted limit.
+
+966
+01:09:38,385 --> 01:09:40,485
+To survive this mission,
+you'll pull beyond that,
+
+967
+01:09:40,585 --> 01:09:43,585
+even if it means
+bending your airframe.
+
+968
+01:09:43,685 --> 01:09:47,885
+<i>You'll be pulling so hard, you'll
+weigh close to 2,000 pounds,</i>
+
+969
+01:09:47,985 --> 01:09:50,585
+<i>your skull
+crushing your spine...</i>
+
+970
+01:09:50,785 --> 01:09:53,985
+<i>...your lungs imploding like an
+elephant's sitting on your chest,</i>
+
+971
+01:09:54,085 --> 01:09:57,785
+<i>fighting with everything you
+have just to keep from blacking out.</i>
+
+972
+01:09:59,685 --> 01:10:02,585
+And this is where you'll be
+at your most vulnerable.
+
+973
+01:10:03,285 --> 01:10:05,885
+This is Coffin Corner.
+
+974
+01:10:06,085 --> 01:10:08,585
+Assuming you avoid crashing
+into this mountain,
+
+975
+01:10:08,685 --> 01:10:12,485
+you'll climb straight up into enemy
+radar while losing all of your airspeed.
+
+976
+01:10:12,685 --> 01:10:15,985
+Within seconds, you'll be
+fired upon by enemy SAMs.
+
+977
+01:10:17,185 --> 01:10:19,985
+You've all faced sustained
+G's before, but this...
+
+978
+01:10:20,085 --> 01:10:23,985
+This is gonna take you and
+your aircraft to the breaking point.
+
+979
+01:10:24,085 --> 01:10:26,885
+Sir, is this even achievable?
+
+980
+01:10:26,985 --> 01:10:28,885
+The answer to that question
+
+981
+01:10:28,985 --> 01:10:31,485
+will come down
+to the pilot in the box.
+
+982
+01:10:40,985 --> 01:10:43,085
+Talk to me, Bob. We are
+12 seconds late on target.
+
+983
+01:10:43,185 --> 01:10:46,085
+We gotta move! We gotta
+move! Copy. Try to stay with me.
+
+984
+01:10:49,185 --> 01:10:51,585
+Huh? Wait, who's that?
+
+985
+01:10:52,485 --> 01:10:53,985
+<i>Blue Team, you've been spotted.</i>
+
+986
+01:10:54,085 --> 01:10:56,385
+Shit, it's Maverick.
+What the hell is he doing here?
+
+987
+01:10:56,485 --> 01:10:59,785
+I'm a bandit on course to intercept.
+Blue Team, what are you gonna do?
+
+988
+01:10:59,885 --> 01:11:03,185
+He's 20 miles left. Ten o'clock.
+700 knots closure.
+
+989
+01:11:03,285 --> 01:11:04,885
+Your call.
+What do you want to do?
+
+990
+01:11:05,085 --> 01:11:07,785
+Continue. We're close.
+Stay on target.
+
+991
+01:11:07,885 --> 01:11:10,985
+He's swinging around to the
+north! Stand by for pop-up.
+
+992
+01:11:11,185 --> 01:11:14,385
+Be ready on that laser, Bob.
+Copy. I'm on it.
+
+993
+01:11:15,585 --> 01:11:17,285
+Blue Team,
+bandit is still closing.
+
+994
+01:11:17,485 --> 01:11:18,485
+Popping now.
+
+995
+01:11:24,685 --> 01:11:26,785
+Talk to me, Bob.
+Where's Maverick?
+
+996
+01:11:26,885 --> 01:11:29,385
+He's five miles out.
+He's coming fast.
+
+997
+01:11:34,785 --> 01:11:37,985
+Target's in sight.
+Where's my laser, Bob?
+
+998
+01:11:38,085 --> 01:11:41,585
+Dead eye! Dead eye! It's no good.
+Sorry, I can't get a lock.
+
+999
+01:11:41,685 --> 01:11:43,785
+We're out of time.
+I'm dropping blind.
+
+1000
+01:11:46,985 --> 01:11:48,485
+Damn it, missed!
+
+1001
+01:11:59,085 --> 01:12:00,785
+That's tone.
+
+1002
+01:12:00,985 --> 01:12:03,385
+Maverick's got missile
+lock on us. Shit! We're dead.
+
+1003
+01:12:04,185 --> 01:12:05,585
+Blue Team, that's a fail.
+
+1004
+01:12:05,685 --> 01:12:06,885
+Level out, Coyote.
+
+1005
+01:12:09,385 --> 01:12:11,585
+<i>Coyote? Do you copy?</i>
+
+1006
+01:12:14,185 --> 01:12:16,185
+<i>Coyote, come in.</i>
+
+1007
+01:12:16,285 --> 01:12:18,185
+<i>Coyote, level wings.</i>
+
+1008
+01:12:18,285 --> 01:12:19,685
+Oh, God. He's in G-LOC.
+
+1009
+01:12:19,785 --> 01:12:22,885
+<i>Coyote? Coyote?</i>
+
+1010
+01:12:23,085 --> 01:12:25,685
+He's gonna burn in!
+I'm going after him.
+
+1011
+01:12:28,585 --> 01:12:30,985
+Come on. Give me tone,
+give me tone, give me tone.
+
+1012
+01:12:31,085 --> 01:12:34,585
+Snap out of it, Coyote.
+Come on! Come on!
+
+1013
+01:12:37,385 --> 01:12:39,985
+Come on, Coyote, come on.
+Come on!
+
+1014
+01:12:40,085 --> 01:12:42,185
+<i>- Damn it! Coyote! Coyote!
+- Pull up!</i>
+
+1015
+01:12:42,285 --> 01:12:45,385
+<i>- Coyote! Coyote!
+- Pull up! Pull up!</i>
+
+1016
+01:12:50,385 --> 01:12:51,985
+Coyote, you okay? You okay?
+
+1017
+01:12:52,085 --> 01:12:55,085
+I'm okay. I'm good.
+
+1018
+01:12:55,885 --> 01:12:58,985
+Good. Good.
+That's enough for today.
+
+1019
+01:13:01,085 --> 01:13:02,185
+That was close.
+
+1020
+01:13:02,285 --> 01:13:03,885
+Too close.
+
+1021
+01:13:04,585 --> 01:13:06,585
+Bird strike! Bird strike!
+
+1022
+01:13:06,785 --> 01:13:08,685
+Bird strike!
+
+1023
+01:13:11,085 --> 01:13:14,085
+Phoenix, left engine's
+on fire! Climbing.
+
+1024
+01:13:15,885 --> 01:13:18,385
+Throttling back. Shutting
+off fuel to left engine.
+
+1025
+01:13:18,485 --> 01:13:20,485
+Extinguishing fire.
+
+1026
+01:13:21,585 --> 01:13:23,485
+Right engine is out!
+
+1027
+01:13:23,585 --> 01:13:25,285
+It's still spinning.
+Trying to restart it.
+
+1028
+01:13:27,785 --> 01:13:28,785
+Phoenix, it's on fire.
+
+1029
+01:13:28,885 --> 01:13:30,685
+Don't start... Throttling up.
+
+1030
+01:13:32,085 --> 01:13:33,585
+Oh, my God.
+
+1031
+01:13:36,585 --> 01:13:38,885
+We're on fire! We're on fire!
+Damn it!
+
+1032
+01:13:38,985 --> 01:13:42,085
+<i>Engine fire. Right.
+Extinguishing right engine.</i>
+
+1033
+01:13:45,085 --> 01:13:46,985
+Phoenix, Bob,
+punch out, punch out!
+
+1034
+01:13:47,085 --> 01:13:49,185
+Warning lights everywhere!
+Hydraulic failure!
+
+1035
+01:13:49,285 --> 01:13:51,285
+<i>Flight controls.
+I can't control it.</i>
+
+1036
+01:13:51,385 --> 01:13:53,885
+We're going down, Phoenix!
+We're going in! We're going in!
+
+1037
+01:13:53,985 --> 01:13:56,685
+You can't save it.
+Eject, eject!
+
+1038
+01:13:56,785 --> 01:13:57,985
+Eject, eject, eject!
+
+1039
+01:13:58,085 --> 01:14:01,085
+<i>Altitude. Altitude.</i>
+
+1040
+01:14:22,285 --> 01:14:25,385
+They'll keep Phoenix and Bob in
+the hospital overnight for observation.
+
+1041
+01:14:25,485 --> 01:14:27,185
+They're gonna be okay.
+
+1042
+01:14:31,185 --> 01:14:32,685
+That's good.
+
+1043
+01:14:35,785 --> 01:14:37,785
+I've never lost a wing man.
+
+1044
+01:14:38,385 --> 01:14:39,885
+You're lucky.
+
+1045
+01:14:40,085 --> 01:14:42,085
+Fly long enough, it'll happen.
+
+1046
+01:14:44,685 --> 01:14:46,685
+There will be others.
+
+1047
+01:14:48,985 --> 01:14:51,285
+Easy for you to say.
+No wife.
+
+1048
+01:14:53,185 --> 01:14:54,985
+No kids.
+
+1049
+01:14:55,085 --> 01:14:57,885
+Nobody to mourn you
+when you burn in.
+
+1050
+01:15:01,085 --> 01:15:02,585
+Go home.
+
+1051
+01:15:03,385 --> 01:15:04,985
+Just get some sleep.
+
+1052
+01:15:07,185 --> 01:15:09,485
+Why'd you pull my papers
+at the Academy?
+
+1053
+01:15:09,685 --> 01:15:11,585
+Why did you stand in my way?
+
+1054
+01:15:13,785 --> 01:15:15,185
+You weren't ready.
+
+1055
+01:15:15,385 --> 01:15:16,785
+Ready for what?
+
+1056
+01:15:17,685 --> 01:15:19,885
+Huh? Ready to fly like you? No.
+
+1057
+01:15:19,985 --> 01:15:21,685
+Ready to forget the book.
+
+1058
+01:15:21,785 --> 01:15:24,285
+Trust your instincts.
+Don't think, just do.
+
+1059
+01:15:24,385 --> 01:15:27,585
+You think up there,
+you're dead. Believe me.
+
+1060
+01:15:28,585 --> 01:15:30,585
+My dad believed in you.
+
+1061
+01:15:32,885 --> 01:15:35,685
+I'm not gonna make
+the same mistake.
+
+1062
+01:15:41,185 --> 01:15:42,885
+Maverick.
+
+1063
+01:15:53,085 --> 01:15:56,185
+Ready, aim, fire.
+
+1064
+01:16:00,985 --> 01:16:02,085
+Ready,
+
+1065
+01:16:02,485 --> 01:16:03,785
+aim,
+
+1066
+01:16:03,985 --> 01:16:05,685
+fire.
+
+1067
+01:16:15,485 --> 01:16:16,885
+Ready,
+
+1068
+01:16:17,685 --> 01:16:19,085
+aim,
+
+1069
+01:16:19,285 --> 01:16:20,685
+fire.
+
+1070
+01:16:54,085 --> 01:16:57,185
+I can only imagine what
+you must be feeling right now.
+
+1071
+01:16:57,285 --> 01:17:00,585
+Take some time.
+Whatever you need.
+
+1072
+01:17:00,685 --> 01:17:03,185
+I appreciate that, sir, but
+there is no time. The mission...
+
+1073
+01:17:03,285 --> 01:17:05,785
+I'll be taking over
+the training from here.
+
+1074
+01:17:06,585 --> 01:17:07,785
+Sir?
+
+1075
+01:17:08,885 --> 01:17:10,585
+We both know you didn't
+want this job, Captain.
+
+1076
+01:17:10,585 --> 01:17:12,985
+Sir, they're not ready. It was
+your job to get them ready.
+
+1077
+01:17:13,185 --> 01:17:16,485
+Sir, they have to believe
+that this mission can be flown.
+
+1078
+01:17:16,585 --> 01:17:19,785
+And all you've managed to do
+is teach them that it can't.
+
+1079
+01:17:20,585 --> 01:17:22,685
+Sir... You're grounded, Captain.
+
+1080
+01:17:22,785 --> 01:17:24,385
+Permanently.
+
+1081
+01:17:28,085 --> 01:17:29,885
+Sir... That is all.
+
+1082
+01:17:48,185 --> 01:17:49,185
+I heard.
+
+1083
+01:17:51,385 --> 01:17:52,785
+I'm sorry.
+
+1084
+01:17:53,485 --> 01:17:55,185
+What are you gonna do?
+
+1085
+01:17:56,285 --> 01:17:57,785
+Ice is gone.
+
+1086
+01:17:59,985 --> 01:18:01,985
+What choice do I have?
+
+1087
+01:18:02,985 --> 01:18:05,485
+You'll have to find a
+way back on your own.
+
+1088
+01:18:05,585 --> 01:18:07,085
+No, Penny.
+
+1089
+01:18:08,685 --> 01:18:10,185
+I'm out.
+
+1090
+01:18:11,685 --> 01:18:13,185
+This is over.
+
+1091
+01:18:13,585 --> 01:18:14,585
+Pete.
+
+1092
+01:18:14,785 --> 01:18:17,085
+If you lost
+your wing man up there,
+
+1093
+01:18:17,785 --> 01:18:19,485
+you'd keep fighting.
+
+1094
+01:18:19,685 --> 01:18:21,085
+You wouldn't just give up.
+
+1095
+01:18:21,685 --> 01:18:23,885
+Those are your pilots.
+
+1096
+01:18:24,885 --> 01:18:27,685
+If anything happens to them,
+
+1097
+01:18:27,885 --> 01:18:30,185
+you'll never forgive yourself.
+
+1098
+01:18:33,985 --> 01:18:36,085
+I don't know what to do.
+
+1099
+01:18:39,985 --> 01:18:41,785
+But you'll find a way.
+
+1100
+01:18:43,885 --> 01:18:45,285
+I know you will.
+
+1101
+01:18:47,185 --> 01:18:49,385
+<i>Captain Mitchell
+is no longer your instructor.</i>
+
+1102
+01:18:49,585 --> 01:18:52,785
+And as of today, there are
+new mission parameters.
+
+1103
+01:18:52,885 --> 01:18:55,285
+Time to target
+is now four minutes.
+
+1104
+01:18:55,385 --> 01:18:57,985
+You'll be entering the
+valley level at reduced speed.
+
+1105
+01:18:58,085 --> 01:19:00,785
+Not to exceed 420 knots.
+
+1106
+01:19:00,985 --> 01:19:03,685
+Sir, won't we be giving
+their planes time to intercept?
+
+1107
+01:19:03,785 --> 01:19:06,485
+Well, Lieutenant, you have a
+fighting chance against enemy aircraft.
+
+1108
+01:19:06,485 --> 01:19:09,485
+What are the odds of surviving a
+head-on collision with a mountain?
+
+1109
+01:19:09,685 --> 01:19:12,385
+You'll be attacking the target
+from a higher altitude,
+
+1110
+01:19:12,485 --> 01:19:13,885
+level with the north wall.
+
+1111
+01:19:13,985 --> 01:19:16,085
+Gonna be a little harder
+to keep your lase on target,
+
+1112
+01:19:16,185 --> 01:19:18,085
+but you will avoid
+the high-G climb out.
+
+1113
+01:19:18,185 --> 01:19:20,785
+We'll be sitting ducks
+for enemy missiles.
+
+1114
+01:19:25,885 --> 01:19:27,385
+Who the hell is that?
+
+1115
+01:19:28,785 --> 01:19:31,785
+<i>Maverick to Range Control.
+Entering Point Alpha.</i>
+
+1116
+01:19:31,885 --> 01:19:33,885
+Confirm green range.
+
+1117
+01:19:33,985 --> 01:19:38,085
+<i>Uh, Maverick, Range Control,
+uh, green range is confirmed.</i>
+
+1118
+01:19:38,285 --> 01:19:41,485
+<i>I don't see an event scheduled
+for you, sir.</i>
+
+1119
+01:19:41,585 --> 01:19:43,585
+<i>Well, I'm going anyway.</i>
+
+1120
+01:19:43,685 --> 01:19:44,885
+Nice.
+
+1121
+01:19:44,985 --> 01:19:46,785
+<i>Setting time to target:</i>
+
+1122
+01:19:46,885 --> 01:19:48,685
+<i>Two minutes 15 seconds.</i>
+
+1123
+01:19:48,785 --> 01:19:50,385
+2:15? That's impossible.
+
+1124
+01:19:50,485 --> 01:19:53,385
+Final attack point.
+Maverick's inbound.
+
+1125
+01:21:30,885 --> 01:21:34,285
+Popping in three, two, one.
+
+1126
+01:22:00,685 --> 01:22:01,885
+Bombs away.
+
+1127
+01:22:19,585 --> 01:22:22,185
+Bull's-eye! Holy shit!
+
+1128
+01:22:22,685 --> 01:22:24,385
+Yes.
+
+1129
+01:22:27,085 --> 01:22:28,085
+Damn.
+
+1130
+01:22:40,785 --> 01:22:43,785
+You have put me in a
+difficult position, Captain.
+
+1131
+01:22:43,885 --> 01:22:47,685
+On the one hand, you have demonstrated
+that this mission can be flown.
+
+1132
+01:22:47,785 --> 01:22:50,485
+Perhaps the only way
+it can be survived.
+
+1133
+01:22:51,585 --> 01:22:52,985
+On the other hand,
+
+1134
+01:22:53,085 --> 01:22:55,885
+you did it by stealing a
+multimillion-dollar military aircraft
+
+1135
+01:22:55,985 --> 01:22:59,385
+and flying it in such a manner
+that it may never be airworthy again.
+
+1136
+01:23:00,485 --> 01:23:03,385
+Iceman is no longer here
+to protect you.
+
+1137
+01:23:03,585 --> 01:23:06,185
+I have everything I need
+to have you court-martialed
+
+1138
+01:23:06,285 --> 01:23:08,385
+and dishonorably discharged.
+
+1139
+01:23:08,985 --> 01:23:10,485
+So what do I do?
+
+1140
+01:23:11,285 --> 01:23:12,385
+Risk the lives of my pilots
+
+1141
+01:23:12,585 --> 01:23:14,585
+and perhaps the success
+of this mission
+
+1142
+01:23:15,985 --> 01:23:17,185
+or...
+
+1143
+01:23:18,585 --> 01:23:20,185
+risk my career
+
+1144
+01:23:21,085 --> 01:23:23,085
+by appointing you team leader?
+
+1145
+01:23:26,385 --> 01:23:31,085
+Sir... I think the admiral's asking
+a rhetorical question, Captain.
+
+1146
+01:25:11,785 --> 01:25:13,485
+Talk to me, Goose.
+
+1147
+01:25:16,485 --> 01:25:18,385
+Captain Mitchell!
+
+1148
+01:25:25,085 --> 01:25:26,885
+You're where you belong.
+
+1149
+01:25:31,785 --> 01:25:33,385
+Make us proud.
+
+1150
+01:25:59,285 --> 01:26:01,585
+It has been an honor
+flying with you.
+
+1151
+01:26:02,585 --> 01:26:06,485
+Each one of you represents
+the best of the best.
+
+1152
+01:26:06,685 --> 01:26:09,985
+This is a very specific mission.
+
+1153
+01:26:10,085 --> 01:26:13,485
+My choice is a reflection
+of that and nothing more.
+
+1154
+01:26:13,585 --> 01:26:15,685
+Choose your two Foxtrot teams.
+
+1155
+01:26:17,085 --> 01:26:18,885
+Payback and Fanboy.
+
+1156
+01:26:19,885 --> 01:26:21,385
+Phoenix and Bob.
+
+1157
+01:26:25,385 --> 01:26:27,385
+And your wing man.
+
+1158
+01:26:31,685 --> 01:26:32,685
+Rooster.
+
+1159
+01:26:36,885 --> 01:26:39,285
+The rest of you will stand by
+on the carrier
+
+1160
+01:26:39,385 --> 01:26:42,585
+for any reserve role
+that's required.
+
+1161
+01:26:43,185 --> 01:26:44,585
+Dismissed.
+
+1162
+01:26:51,985 --> 01:26:55,085
+Your target
+is a clear and present threat.
+
+1163
+01:26:56,385 --> 01:27:00,285
+<i>A secret uranium enrichment
+site under rogue state control.</i>
+
+1164
+01:27:00,385 --> 01:27:02,285
+<i>It's an underground bunker,</i>
+
+1165
+01:27:02,385 --> 01:27:04,485
+tucked between
+these two mountains.
+
+1166
+01:27:05,985 --> 01:27:09,385
+<i>Your route of ingress is heavily
+defended by surface-to-air missiles</i>
+
+1167
+01:27:09,485 --> 01:27:11,785
+<i>backed up
+by fifth-generation fighters.</i>
+
+1168
+01:27:11,985 --> 01:27:14,685
+Once your F-18 strike team
+crosses the border,
+
+1169
+01:27:14,885 --> 01:27:16,785
+<i>Tomahawk missiles
+from the USS Leyte Gulf</i>
+
+1170
+01:27:16,885 --> 01:27:20,785
+will launch a synchronized
+strike on the enemy's airfield here.
+
+1171
+01:27:21,885 --> 01:27:24,385
+<i>This will knock out
+their runway.</i>
+
+1172
+01:27:25,885 --> 01:27:29,085
+<i>But you'll have to contend with
+any planes already in the air.</i>
+
+1173
+01:27:29,185 --> 01:27:32,485
+The moment those Tomahawks hit,
+the enemy will know you're coming.
+
+1174
+01:27:33,485 --> 01:27:34,685
+Your time to target
+
+1175
+01:27:34,785 --> 01:27:37,685
+will be two minutes
+and 30 seconds.
+
+1176
+01:27:38,985 --> 01:27:40,985
+<i>Any longer than that,
+and you will be exposed</i>
+
+1177
+01:27:41,085 --> 01:27:43,985
+<i>to any aircraft
+the Tomahawks may have missed.</i>
+
+1178
+01:27:47,085 --> 01:27:49,885
+This is what you've all
+been training for.
+
+1179
+01:27:51,585 --> 01:27:53,485
+Come home safely.
+
+1180
+01:28:07,985 --> 01:28:09,785
+You give 'em hell!
+
+1181
+01:28:22,285 --> 01:28:23,485
+Sir.
+
+1182
+01:28:23,885 --> 01:28:24,885
+Sir?
+
+1183
+01:28:27,085 --> 01:28:28,085
+I...
+
+1184
+01:28:30,785 --> 01:28:32,785
+I just want to say...
+
+1185
+01:28:41,685 --> 01:28:43,085
+We'll talk
+
+1186
+01:28:44,485 --> 01:28:45,985
+when we get back.
+
+1187
+01:28:51,985 --> 01:28:53,885
+Hey, Bradley! Bradley!
+
+1188
+01:28:54,985 --> 01:28:55,985
+Hey.
+
+1189
+01:28:59,385 --> 01:29:00,985
+You got this.
+
+1190
+01:29:09,285 --> 01:29:10,485
+<i>Maverick.</i>
+
+1191
+01:29:12,985 --> 01:29:13,985
+Maverick?
+
+1192
+01:29:15,285 --> 01:29:17,485
+Hey, you with me?
+
+1193
+01:29:18,685 --> 01:29:20,785
+I don't like that look, Mav.
+
+1194
+01:29:23,385 --> 01:29:25,085
+It's the only one I got.
+
+1195
+01:29:29,585 --> 01:29:31,085
+Thank you.
+
+1196
+01:29:32,385 --> 01:29:34,385
+If I don't see you again, Hondo,
+
+1197
+01:29:34,585 --> 01:29:36,085
+thank you.
+
+1198
+01:29:43,585 --> 01:29:45,685
+It's been an honor, Captain.
+
+1199
+01:30:18,585 --> 01:30:21,585
+Dagger One,
+up and ready on Catapult One.
+
+1200
+01:30:21,685 --> 01:30:23,785
+Dagger Spare standing by.
+
+1201
+01:30:23,885 --> 01:30:25,685
+Dagger Four, up and ready.
+
+1202
+01:30:25,785 --> 01:30:27,285
+Dagger Three, up and ready.
+
+1203
+01:30:27,485 --> 01:30:29,785
+Dagger Two, up and ready.
+
+1204
+01:30:30,685 --> 01:30:32,085
+Support assets airborne.
+
+1205
+01:30:32,185 --> 01:30:33,385
+Strike package ready.
+
+1206
+01:30:33,485 --> 01:30:35,985
+Standing by for launch decision.
+
+1207
+01:30:36,085 --> 01:30:37,185
+Send them.
+
+1208
+01:30:57,585 --> 01:30:59,085
+Dagger Two away.
+
+1209
+01:31:00,085 --> 01:31:01,985
+Dagger Three away.
+
+1210
+01:31:02,085 --> 01:31:04,085
+Dagger Four away.
+
+1211
+01:31:14,885 --> 01:31:17,585
+Comanche, Dagger One.
+Standby check in.
+
+1212
+01:31:18,685 --> 01:31:19,985
+<i>Comanche 11, set.</i>
+
+1213
+01:31:20,085 --> 01:31:22,485
+Picture clean.
+Recommend Dagger continue.
+
+1214
+01:31:22,585 --> 01:31:24,785
+Copy. Daggers descending
+below radar.
+
+1215
+01:31:44,385 --> 01:31:47,285
+Daggers now below radar.
+Switching to E-2 picture.
+
+1216
+01:31:55,585 --> 01:31:57,985
+Here we go.
+Enemy territory up ahead.
+
+1217
+01:31:58,185 --> 01:32:01,085
+Feet dry in 60 seconds.
+Comanche, Dagger One. Picture.
+
+1218
+01:32:01,185 --> 01:32:04,185
+Comanche. Picture clean.
+Decision is yours.
+
+1219
+01:32:04,285 --> 01:32:05,785
+Copy.
+
+1220
+01:32:13,785 --> 01:32:15,085
+Dagger attack.
+
+1221
+01:32:19,685 --> 01:32:21,485
+Tomahawks airborne.
+
+1222
+01:32:21,585 --> 01:32:23,885
+No turning back now.
+
+1223
+01:32:29,485 --> 01:32:31,785
+Daggers,
+assume attack formation.
+
+1224
+01:32:40,385 --> 01:32:42,285
+<i>Daggers set.
+Proceeding to target.</i>
+
+1225
+01:32:42,485 --> 01:32:47,185
+Two minutes and 30 seconds
+in three, two, one, mark.
+
+1226
+01:32:47,385 --> 01:32:48,585
+Two mark.
+Three mark.
+
+1227
+01:32:48,685 --> 01:32:49,785
+Four mark.
+
+1228
+01:32:53,985 --> 01:32:55,685
+Going in.
+
+1229
+01:33:10,985 --> 01:33:13,385
+First SAM site overhead.
+
+1230
+01:33:17,685 --> 01:33:19,085
+Looks like we're clear
+on radar, Mav.
+
+1231
+01:33:19,185 --> 01:33:21,185
+Let's not take it for granted.
+
+1232
+01:33:24,585 --> 01:33:26,685
+More SAMs! Three o'clock high!
+
+1233
+01:33:28,985 --> 01:33:31,185
+<i>- We got two minutes to target.
+- Copy.</i>
+
+1234
+01:33:31,385 --> 01:33:34,385
+We're a few seconds behind,
+Rooster. We got to move.
+
+1235
+01:33:34,485 --> 01:33:38,385
+Thirty seconds to Tomahawk
+impact on enemy airstrip.
+
+1236
+01:33:45,785 --> 01:33:47,385
+Dagger, Comanche.
+
+1237
+01:33:47,485 --> 01:33:49,785
+We're picking up two bandits.
+Single group, two contacts.
+
+1238
+01:33:49,785 --> 01:33:52,985
+Where the hell'd they come
+from? Long-range patrol?
+
+1239
+01:33:57,785 --> 01:33:59,285
+Comanche, what's their heading?
+
+1240
+01:33:59,385 --> 01:34:01,485
+<i>Bull's-eye 090, 50,
+tacked southwest.</i>
+
+1241
+01:34:01,685 --> 01:34:03,885
+They're headed away from us.
+They don't know we're here.
+
+1242
+01:34:03,985 --> 01:34:05,885
+The second those Tomahawks
+hit the air base,
+
+1243
+01:34:05,985 --> 01:34:08,085
+those bandits are gonna move
+to defend the target.
+
+1244
+01:34:08,185 --> 01:34:11,085
+We have to get there before
+they do. Increase speed.
+
+1245
+01:34:12,185 --> 01:34:14,885
+We got you, Mav.
+Don't wait for me.
+
+1246
+01:34:20,385 --> 01:34:23,485
+Sir, Daggers Two and Four
+are behind schedule.
+
+1247
+01:34:23,685 --> 01:34:25,985
+Time to target, one minute 20.
+
+1248
+01:34:26,185 --> 01:34:29,185
+Tomahawk impact in three, two...
+
+1249
+01:34:33,285 --> 01:34:36,085
+Impact.
+Enemy runway is destroyed.
+
+1250
+01:34:36,785 --> 01:34:38,485
+They know we're coming now.
+
+1251
+01:34:40,885 --> 01:34:43,885
+Bandits are switching course
+to defend the target.
+
+1252
+01:34:44,085 --> 01:34:45,385
+Rooster, where are you?
+
+1253
+01:34:46,885 --> 01:34:48,485
+<i>Come on, Rooster.
+Bandits inbound.</i>
+
+1254
+01:34:48,585 --> 01:34:51,185
+We got to make up time now.
+Let's turn and burn.
+
+1255
+01:34:58,885 --> 01:35:00,185
+Heads up, Phoenix.
+
+1256
+01:35:03,785 --> 01:35:05,085
+Whoa!
+
+1257
+01:35:09,585 --> 01:35:12,485
+Sir, bandits are two minutes
+from target.
+
+1258
+01:35:12,685 --> 01:35:13,985
+Daggers are one minute
+from target.
+
+1259
+01:35:14,185 --> 01:35:16,785
+Come on, Rooster.
+Move it or lose it.
+
+1260
+01:35:18,585 --> 01:35:21,385
+Guys, we're falling behind.
+We really gotta move.
+
+1261
+01:35:21,485 --> 01:35:23,385
+If we don't increase our speed
+right now,
+
+1262
+01:35:23,485 --> 01:35:26,485
+those bandits are gonna be waiting
+for us when we reach the target.
+
+1263
+01:35:28,285 --> 01:35:29,485
+Talk to me, Dad.
+
+1264
+01:35:30,685 --> 01:35:32,085
+Come on, kid, you can do it.
+
+1265
+01:35:32,185 --> 01:35:34,485
+Don't think, just do.
+
+1266
+01:35:42,885 --> 01:35:44,385
+Jesus, Rooster, not that fast!
+
+1267
+01:35:44,485 --> 01:35:47,185
+That's it, kid, that's it.
+All right, let's go.
+
+1268
+01:35:50,985 --> 01:35:52,485
+Damn, Rooster, take it easy.
+
+1269
+01:35:52,685 --> 01:35:55,985
+Sir, Dagger Two is reengaging.
+
+1270
+01:35:56,085 --> 01:35:58,785
+All right, now hit your target
+and come home.
+
+1271
+01:36:02,885 --> 01:36:05,385
+Thirty seconds to target.
+Bob, check your laser.
+
+1272
+01:36:05,585 --> 01:36:09,285
+Air-to-ground check complete.
+Laser code verified, 1688.
+
+1273
+01:36:09,485 --> 01:36:10,585
+<i>Laser is a go!</i>
+
+1274
+01:36:12,785 --> 01:36:14,285
+Watch your heads.
+
+1275
+01:36:15,885 --> 01:36:17,185
+Holy shit! Shit!
+
+1276
+01:36:17,285 --> 01:36:19,485
+Payback, you with me?
+Right behind you.
+
+1277
+01:36:20,285 --> 01:36:22,085
+Phoenix, stand by
+for pop-up strike.
+
+1278
+01:36:22,285 --> 01:36:23,885
+Dagger Three in position.
+
+1279
+01:36:24,685 --> 01:36:27,185
+Popping in three, two, one.
+
+1280
+01:36:54,985 --> 01:36:57,485
+Get me eyes on that
+target, Bob. Dagger Three.
+
+1281
+01:36:58,485 --> 01:37:00,285
+<i>Stand by, Mav.
+Come on, Bob, come on.</i>
+
+1282
+01:37:00,485 --> 01:37:02,285
+Stand by.
+
+1283
+01:37:02,385 --> 01:37:05,485
+I've got it. Captured!
+Target acquired. Bombs away.
+
+1284
+01:37:26,285 --> 01:37:29,685
+We've got impact!
+Check, direct hit! Direct hit!
+
+1285
+01:37:29,885 --> 01:37:31,685
+That's miracle number one.
+
+1286
+01:37:32,285 --> 01:37:33,685
+Dagger Two, status.
+
+1287
+01:37:33,885 --> 01:37:35,485
+Almost there, Mav. Almost there.
+
+1288
+01:37:37,985 --> 01:37:39,385
+Fanboy, where's my laser?
+
+1289
+01:37:39,485 --> 01:37:42,185
+Rooster, there's something wrong
+with this laser!
+
+1290
+01:37:42,285 --> 01:37:43,785
+Shit! Dead eye, dead eye, dead eye!
+
+1291
+01:37:43,985 --> 01:37:46,285
+Come on, guys, we're
+running out of time. Get it online!
+
+1292
+01:37:46,385 --> 01:37:47,885
+<i>I'm trying!
+Come on, Fanboy!</i>
+
+1293
+01:37:48,085 --> 01:37:49,985
+Nearly there! Nearly there!
+
+1294
+01:37:58,885 --> 01:38:01,185
+Come on, Fanboy, get it online.
+There's no time. I'm dropping blind.
+
+1295
+01:38:01,185 --> 01:38:03,285
+Rooster, I got this!
+No time. Pull up.
+
+1296
+01:38:03,485 --> 01:38:05,585
+- Wait!
+- Bombs away! Bombs away!
+
+1297
+01:38:18,185 --> 01:38:20,485
+Bull's-eye, bull's-eye,
+bull's-eye!
+
+1298
+01:38:24,285 --> 01:38:25,385
+Miracle number two.
+
+1299
+01:38:25,585 --> 01:38:27,185
+Now they're in Coffin Corner.
+
+1300
+01:38:27,285 --> 01:38:29,585
+We're not out of this yet.
+
+1301
+01:38:31,485 --> 01:38:32,985
+Here it comes.
+
+1302
+01:38:35,585 --> 01:38:37,885
+Radar warning! Smoke in
+the air. Phoenix, break right.
+
+1303
+01:38:37,985 --> 01:38:40,185
+Emergency jettison.
+Dagger Three defending.
+
+1304
+01:38:40,285 --> 01:38:42,085
+Here comes another one!
+
+1305
+01:38:42,185 --> 01:38:44,185
+Dagger One defending.
+
+1306
+01:38:50,185 --> 01:38:51,485
+Rooster, status.
+
+1307
+01:38:59,685 --> 01:39:00,685
+Oh, my God.
+
+1308
+01:39:02,585 --> 01:39:04,385
+Smoke in the air!
+Smoke in the air!
+
+1309
+01:39:05,485 --> 01:39:07,585
+Break right, Payback!
+Breaking right.
+
+1310
+01:39:08,685 --> 01:39:10,685
+Oh, my God, here they come!
+
+1311
+01:39:10,785 --> 01:39:12,385
+SAM on your six, Rooster!
+
+1312
+01:39:13,685 --> 01:39:15,185
+Deploying countermeasures.
+
+1313
+01:39:17,885 --> 01:39:19,485
+Negative contact.
+
+1314
+01:39:21,285 --> 01:39:22,585
+Dagger One defending.
+
+1315
+01:39:23,685 --> 01:39:26,585
+Talk to me, Bob. Break right,
+Phoenix! Break right! Mav!
+
+1316
+01:39:26,685 --> 01:39:28,485
+<i>Nine o'clock! Nine o'clock!</i>
+
+1317
+01:39:29,585 --> 01:39:31,085
+<i>Rooster, two more on your six.</i>
+
+1318
+01:39:31,185 --> 01:39:32,785
+Dagger Two, defending.
+
+1319
+01:39:37,185 --> 01:39:39,385
+Payback, SAM on your nose.
+Dagger Four defending.
+
+1320
+01:39:39,585 --> 01:39:41,285
+Rooster, tally, seven o'clock!
+Talk to me, Bob!
+
+1321
+01:39:41,285 --> 01:39:42,585
+On our six!
+Dagger Two defending.
+
+1322
+01:39:42,685 --> 01:39:44,285
+<i>- Phoenix, break right!
+- I see it!</i>
+
+1323
+01:39:51,885 --> 01:39:53,385
+Dagger Two defending.
+
+1324
+01:39:54,485 --> 01:39:55,685
+Shit, I'm out of flares!
+
+1325
+01:39:55,885 --> 01:39:57,885
+Rooster, evade, evade!
+
+1326
+01:39:57,985 --> 01:40:00,685
+I can't shake 'em!
+They're on me! They're on me!
+
+1327
+01:40:10,685 --> 01:40:12,485
+Mav! No!
+
+1328
+01:40:14,185 --> 01:40:17,785
+Dagger One is hit!
+I repeat, Dagger One is hit!
+
+1329
+01:40:17,885 --> 01:40:19,185
+<i>Maverick is down.</i>
+
+1330
+01:40:19,385 --> 01:40:20,585
+<i>Dagger One, status.</i>
+
+1331
+01:40:20,785 --> 01:40:22,185
+<i>Status!</i>
+
+1332
+01:40:22,285 --> 01:40:24,385
+<i>Anyone see him?
+Does anyone see him?</i>
+
+1333
+01:40:24,485 --> 01:40:26,785
+Dagger One, come in!
+I didn't see a parachute.
+
+1334
+01:40:26,985 --> 01:40:28,385
+We have to circle back.
+
+1335
+01:40:28,485 --> 01:40:31,085
+Comanche. Bandits inbound.
+Single group, hot.
+
+1336
+01:40:31,185 --> 01:40:32,885
+Recommend Dagger flow south.
+
+1337
+01:40:33,885 --> 01:40:35,685
+<i>One minute to intercept.</i>
+
+1338
+01:40:38,685 --> 01:40:41,885
+Get 'em back to the carrier
+now. All Daggers flow to ECP.
+
+1339
+01:40:41,985 --> 01:40:44,085
+<i>You have bandits headed
+for you. What about Maverick?</i>
+
+1340
+01:40:44,085 --> 01:40:46,885
+Tell him there's nothing he can do
+for Maverick, not in a goddamn F-18.
+
+1341
+01:40:47,085 --> 01:40:50,385
+Dagger Spare request permission
+to launch and fly air cover.
+
+1342
+01:40:52,385 --> 01:40:53,685
+Negative, Spare.
+
+1343
+01:40:54,485 --> 01:40:55,585
+Launch search and rescue.
+
+1344
+01:40:55,685 --> 01:40:57,185
+Negative.
+Not with bandits in the air.
+
+1345
+01:40:57,185 --> 01:40:58,585
+But, sir,
+Maverick is still out there.
+
+1346
+01:40:58,585 --> 01:41:00,885
+We are not losing
+anyone else today.
+
+1347
+01:41:02,785 --> 01:41:04,085
+Get 'em home now.
+
+1348
+01:41:04,285 --> 01:41:06,885
+Dagger, you are not to engage.
+
+1349
+01:41:06,985 --> 01:41:08,785
+Repeat, do not engage.
+
+1350
+01:41:08,885 --> 01:41:12,085
+<i>Dagger Two, return to carrier.
+Acknowledge.</i>
+
+1351
+01:41:12,285 --> 01:41:13,285
+<i>Acknowledge.</i>
+
+1352
+01:41:13,385 --> 01:41:15,685
+Rooster,
+those bandits are closing.
+
+1353
+01:41:15,785 --> 01:41:16,785
+We can't go back.
+
+1354
+01:41:16,985 --> 01:41:19,885
+Rooster, he's gone.
+
+1355
+01:41:21,385 --> 01:41:23,185
+<i>Maverick's gone.</i>
+
+1356
+01:42:53,385 --> 01:42:54,585
+Oh, no, no.
+
+1357
+01:43:00,885 --> 01:43:02,785
+<i>Dagger Two is hit.</i>
+
+1358
+01:43:03,885 --> 01:43:04,985
+Dagger Two is hit.
+
+1359
+01:43:06,385 --> 01:43:08,285
+Dagger Two, come in.
+
+1360
+01:43:09,485 --> 01:43:11,585
+Dagger Two, do you copy?
+
+1361
+01:43:12,485 --> 01:43:14,585
+<i>Dagger Two, come in.</i>
+
+1362
+01:43:39,785 --> 01:43:40,785
+You all right?
+
+1363
+01:43:40,785 --> 01:43:42,685
+Yeah, I'm good.
+You all right?
+
+1364
+01:43:44,885 --> 01:43:47,085
+What the hell?
+What are you doing here?
+
+1365
+01:43:47,285 --> 01:43:49,485
+What am I doing here?
+You think I took that missile
+
+1366
+01:43:49,585 --> 01:43:51,085
+so you could be
+down here with me?
+
+1367
+01:43:51,285 --> 01:43:52,985
+You should be back
+on the carrier by now!
+
+1368
+01:43:53,185 --> 01:43:54,685
+I saved your life!
+
+1369
+01:43:54,785 --> 01:43:57,785
+I saved your life.
+That's the whole point.
+
+1370
+01:43:57,985 --> 01:43:59,885
+What the hell
+were you even thinking?
+
+1371
+01:44:00,085 --> 01:44:02,385
+You told me not to think!
+
+1372
+01:44:18,885 --> 01:44:19,985
+Well,
+
+1373
+01:44:21,385 --> 01:44:22,685
+it's good to see you.
+
+1374
+01:44:25,185 --> 01:44:26,785
+It's good to see you too.
+
+1375
+01:44:30,585 --> 01:44:32,385
+So what's the plan?
+
+1376
+01:44:43,285 --> 01:44:44,685
+You're not serious.
+
+1377
+01:44:59,685 --> 01:45:01,785
+You've got to be shitting me.
+
+1378
+01:45:03,785 --> 01:45:05,185
+An F-14?
+
+1379
+01:45:05,385 --> 01:45:06,885
+I shot down three MiGs
+in one of those.
+
+1380
+01:45:07,085 --> 01:45:09,785
+We don't even know
+if that bag of ass can fly.
+
+1381
+01:45:12,385 --> 01:45:14,585
+Let's find out.
+Mav!
+
+1382
+01:45:16,185 --> 01:45:17,485
+Okay.
+
+1383
+01:45:26,685 --> 01:45:29,785
+There's guys up there, Mav.
+Yeah.
+
+1384
+01:45:29,885 --> 01:45:32,885
+- There's more over there.
+- Okay.
+
+1385
+01:45:32,985 --> 01:45:35,585
+- Let's start running.
+- Yeah, run. Run.
+
+1386
+01:45:44,785 --> 01:45:47,685
+Once... Once I give you
+the signal for air,
+
+1387
+01:45:47,785 --> 01:45:50,485
+you're gonna flip this switch
+until the needle gets to 120.
+
+1388
+01:45:50,585 --> 01:45:51,985
+When the engine starts,
+
+1389
+01:45:52,085 --> 01:45:54,385
+you got to pull out the pins
+and disconnect everything.
+
+1390
+01:45:54,485 --> 01:45:56,185
+You understand?
+Yeah.
+
+1391
+01:45:58,385 --> 01:45:59,585
+Yes!
+
+1392
+01:46:01,285 --> 01:46:03,685
+Once I'm up, stow the ladder.
+
+1393
+01:46:11,385 --> 01:46:13,685
+Okay. Wow.
+
+1394
+01:46:14,585 --> 01:46:16,685
+It's been a minute, huh, Mav?
+
+1395
+01:46:45,085 --> 01:46:48,485
+Oh, my God.
+This thing is so old.
+
+1396
+01:46:49,285 --> 01:46:50,485
+All right.
+
+1397
+01:46:55,385 --> 01:46:56,985
+Canopy?
+Clear.
+
+1398
+01:47:15,185 --> 01:47:17,485
+Both runways are cratered.
+
+1399
+01:47:17,685 --> 01:47:19,985
+How we gonna get this
+museum piece in the air?
+
+1400
+01:47:29,985 --> 01:47:31,785
+Why are the wings
+coming out, Mav?
+
+1401
+01:47:38,085 --> 01:47:40,785
+Mav, this is a taxiway,
+not a runway.
+
+1402
+01:47:40,885 --> 01:47:44,385
+This is a very short
+taxiway, Mav.
+
+1403
+01:47:44,485 --> 01:47:45,985
+Just hang on.
+
+1404
+01:47:47,185 --> 01:47:48,685
+Holy shit!
+
+1405
+01:47:54,485 --> 01:47:55,685
+Come on, come on, come on.
+
+1406
+01:47:55,785 --> 01:47:57,785
+Needle's alive. Come on.
+
+1407
+01:48:00,185 --> 01:48:02,485
+Mav?
+That's it. Come on, come on!
+
+1408
+01:48:02,685 --> 01:48:03,885
+All right.
+
+1409
+01:48:04,585 --> 01:48:06,885
+Mav!
+Here we go.
+
+1410
+01:48:08,185 --> 01:48:09,785
+Holy shit.
+
+1411
+01:48:23,185 --> 01:48:26,385
+Sir, we're receiving a signal
+from Rooster's ESAT.
+
+1412
+01:48:26,485 --> 01:48:28,385
+But there seems to be
+a malfunction.
+
+1413
+01:48:28,485 --> 01:48:29,985
+Have you lost him?
+No, sir.
+
+1414
+01:48:30,885 --> 01:48:32,285
+He's supersonic.
+
+1415
+01:48:32,885 --> 01:48:34,085
+He's airborne.
+
+1416
+01:48:35,285 --> 01:48:37,185
+In what?
+Sir.
+
+1417
+01:48:37,285 --> 01:48:41,885
+Over watch reports an F-14 Tomcat is
+airborne and on course for our position.
+
+1418
+01:48:42,685 --> 01:48:45,285
+Can't be. It can't be!
+
+1419
+01:48:47,085 --> 01:48:48,085
+Maverick.
+
+1420
+01:48:50,085 --> 01:48:52,485
+Okay, Rooster,
+get us in touch with the boat.
+
+1421
+01:48:52,585 --> 01:48:54,085
+I'm working on it.
+
+1422
+01:48:54,185 --> 01:48:57,285
+Radio's out. No radar.
+Everything's dead back here.
+
+1423
+01:48:57,485 --> 01:49:00,585
+What do I do? Talk me
+through it. Okay, first the radio.
+
+1424
+01:49:00,685 --> 01:49:02,585
+Throw the, uh...
+
+1425
+01:49:02,685 --> 01:49:05,885
+The UHF-2 circuit breaker.
+Try that.
+
+1426
+01:49:05,985 --> 01:49:08,885
+There's 300 breakers back here.
+Anything more specific?
+
+1427
+01:49:08,985 --> 01:49:11,085
+I don't know.
+That was your dad's department.
+
+1428
+01:49:11,285 --> 01:49:12,885
+I'll figure it out.
+
+1429
+01:49:15,885 --> 01:49:18,285
+Mav, tally two, 5:00 low.
+
+1430
+01:49:23,485 --> 01:49:24,785
+What do we do?
+
+1431
+01:49:25,485 --> 01:49:27,385
+Okay, listen. Just be cool.
+
+1432
+01:49:27,485 --> 01:49:30,185
+If they knew who we were,
+we'd be dead already.
+
+1433
+01:49:31,785 --> 01:49:33,685
+Well, here they come.
+
+1434
+01:49:33,785 --> 01:49:37,085
+What's your plan?
+Just put your mask on.
+
+1435
+01:49:38,085 --> 01:49:40,785
+Remember,
+we're on the same team.
+
+1436
+01:49:43,285 --> 01:49:45,185
+Just wave and smile.
+
+1437
+01:49:45,785 --> 01:49:47,385
+<i>Just wave and smile.</i>
+
+1438
+01:49:54,285 --> 01:49:55,985
+What's that signal?
+What's he saying?
+
+1439
+01:49:56,185 --> 01:49:59,685
+No idea.
+I have no idea what he's saying.
+
+1440
+01:49:59,785 --> 01:50:03,685
+What about that one? Any idea?
+No, never seen that one either.
+
+1441
+01:50:06,585 --> 01:50:10,785
+Oh, shit. His wing man is moving
+into weapons envelope.
+
+1442
+01:50:11,485 --> 01:50:12,985
+All right, listen up.
+
+1443
+01:50:13,085 --> 01:50:15,685
+When I tell you, you grab
+those rings above your head.
+
+1444
+01:50:15,785 --> 01:50:17,485
+That's the ejection handle.
+
+1445
+01:50:18,385 --> 01:50:20,885
+<i>Mav, can we outrun these guys?</i>
+
+1446
+01:50:21,585 --> 01:50:23,685
+Not their missiles and guns.
+
+1447
+01:50:27,985 --> 01:50:29,885
+Then it's a dogfight.
+
+1448
+01:50:29,985 --> 01:50:33,185
+An F-14 against
+fifth-gen fighters?
+
+1449
+01:50:34,385 --> 01:50:36,985
+It's not the plane,
+it's the pilot.
+
+1450
+01:50:38,185 --> 01:50:40,385
+You'd go after 'em
+if I wasn't here.
+
+1451
+01:50:40,885 --> 01:50:42,885
+But you are here.
+
+1452
+01:50:43,485 --> 01:50:44,985
+Come on, Mav.
+
+1453
+01:50:45,885 --> 01:50:47,185
+Don't think.
+
+1454
+01:50:48,385 --> 01:50:49,485
+Just do.
+
+1455
+01:51:04,885 --> 01:51:07,185
+Tell me when you see
+smoke in the air.
+
+1456
+01:51:11,185 --> 01:51:13,685
+Smoke in the air!
+Smoke in the air! Hang on.
+
+1457
+01:51:16,185 --> 01:51:18,985
+Yeah, Mav! Splash one!
+Splash one!
+
+1458
+01:51:23,985 --> 01:51:26,085
+Here comes another one.
+
+1459
+01:51:28,585 --> 01:51:30,885
+Rooster, flares!
+Now, now, now!
+
+1460
+01:51:33,985 --> 01:51:35,385
+Splitting the throttles.
+
+1461
+01:51:37,485 --> 01:51:38,785
+Coming around.
+
+1462
+01:51:42,885 --> 01:51:44,485
+Give me tone, give me tone.
+
+1463
+01:51:44,585 --> 01:51:47,185
+You got him, Mav! You
+got him! Taking the shot.
+
+1464
+01:51:53,185 --> 01:51:54,385
+What the...
+
+1465
+01:51:55,185 --> 01:51:57,485
+Holy shit!
+What the fuck was that?
+
+1466
+01:51:58,785 --> 01:52:00,985
+Hang on. We gotta get low.
+
+1467
+01:52:01,085 --> 01:52:03,785
+The terrain will confuse
+his targeting system.
+
+1468
+01:52:05,585 --> 01:52:06,785
+Here he comes!
+
+1469
+01:52:19,185 --> 01:52:21,085
+Talk to me, Rooster.
+Where is he?
+
+1470
+01:52:21,185 --> 01:52:23,185
+He's still on us!
+
+1471
+01:52:30,085 --> 01:52:32,385
+We took a hit! We took a hit!
+Damn it!
+
+1472
+01:52:37,185 --> 01:52:39,685
+Come on, Mav. Do some of
+that pilot shit. Brace yourself.
+
+1473
+01:52:50,385 --> 01:52:51,385
+Holy shit.
+
+1474
+01:52:58,185 --> 01:53:00,285
+I got tone. Taking the shot.
+
+1475
+01:53:04,685 --> 01:53:06,085
+Damn it!
+
+1476
+01:53:06,885 --> 01:53:09,885
+Out of missiles.
+Switching to guns.
+
+1477
+01:53:15,485 --> 01:53:16,885
+Come on, Mav, come on.
+
+1478
+01:53:19,185 --> 01:53:21,085
+You got him, Mav!
+It's not over yet.
+
+1479
+01:53:25,485 --> 01:53:27,585
+One last chance.
+You can do this.
+
+1480
+01:53:28,685 --> 01:53:30,585
+Come on, Maverick.
+
+1481
+01:53:39,885 --> 01:53:42,085
+Yes! Splash two!
+
+1482
+01:53:52,885 --> 01:53:54,585
+Mav, I got the radio on.
+Outstanding.
+
+1483
+01:53:54,685 --> 01:53:56,785
+Get us in touch with
+the boat. Copy that.
+
+1484
+01:53:58,985 --> 01:54:00,385
+Oh, my God.
+
+1485
+01:54:02,185 --> 01:54:04,185
+Where the hell is this guy?
+
+1486
+01:54:05,185 --> 01:54:07,085
+He's on our nose.
+
+1487
+01:54:09,485 --> 01:54:11,585
+Damn it, we're out of ammo.
+
+1488
+01:54:13,485 --> 01:54:16,185
+Smoke in the air!
+Rooster, flares!
+
+1489
+01:54:18,585 --> 01:54:19,985
+That was close.
+
+1490
+01:54:22,185 --> 01:54:24,285
+We're out of flares, Mav.
+
+1491
+01:54:28,285 --> 01:54:30,485
+Shit, he's already on us.
+
+1492
+01:54:34,685 --> 01:54:37,085
+This is not good.
+
+1493
+01:54:44,985 --> 01:54:47,185
+We took another hit!
+No, no, no, no, no!
+
+1494
+01:54:51,785 --> 01:54:53,985
+We can't take much more of this.
+
+1495
+01:54:54,085 --> 01:54:55,885
+We can't outrun this guy.
+We got to eject.
+
+1496
+01:54:55,985 --> 01:54:57,285
+What?
+We need altitude.
+
+1497
+01:54:57,385 --> 01:54:59,385
+Pull the ejection handles
+the second I tell you.
+
+1498
+01:54:59,585 --> 01:55:01,685
+Mav, wait! Rooster,
+there's no other way.
+
+1499
+01:55:04,885 --> 01:55:06,285
+Eject, eject, eject!
+
+1500
+01:55:06,385 --> 01:55:09,185
+Rooster, pull the handle!
+Eject!
+
+1501
+01:55:09,285 --> 01:55:11,185
+It's not working!
+
+1502
+01:55:21,085 --> 01:55:24,285
+Mav!
+
+1503
+01:55:25,285 --> 01:55:26,985
+I'm sorry.
+
+1504
+01:55:28,085 --> 01:55:29,985
+I'm sorry, Goose.
+
+1505
+01:55:42,285 --> 01:55:44,085
+Good afternoon,
+ladies and gentlemen.
+
+1506
+01:55:44,285 --> 01:55:46,285
+This is your savior speaking.
+
+1507
+01:55:46,385 --> 01:55:48,185
+<i>Please fasten your seat belts,</i>
+
+1508
+01:55:48,285 --> 01:55:50,885
+<i>return your tray tables to their
+locked and upright positions...</i>
+
+1509
+01:55:52,085 --> 01:55:54,485
+<i>...and prepare for landing.</i>
+
+1510
+01:55:56,785 --> 01:55:58,885
+Hey, Hangman, you look good.
+
+1511
+01:55:58,985 --> 01:56:02,485
+I am good, Rooster.
+I'm very good.
+
+1512
+01:56:04,185 --> 01:56:06,185
+<i>I'll see you back on deck.</i>
+
+1513
+01:56:27,685 --> 01:56:30,285
+Maverick is downwind.
+No front landing gear.
+
+1514
+01:56:30,385 --> 01:56:32,585
+No tail hook. Pull the cable
+and raise the barricade.
+
+1515
+01:56:32,785 --> 01:56:35,285
+Foul deck! Foul deck!
+Raise the barricade!
+
+1516
+01:56:36,085 --> 01:56:37,585
+Go!
+
+1517
+01:56:59,785 --> 01:57:02,085
+Please don't tell me
+we lost an engine.
+
+1518
+01:57:02,185 --> 01:57:05,085
+All right, I won't
+tell you that. Okay.
+
+1519
+01:57:29,085 --> 01:57:30,085
+You good?
+
+1520
+01:57:30,285 --> 01:57:32,185
+Yeah. I'm good.
+
+1521
+01:58:17,485 --> 01:58:20,385
+Chalked yourself another
+kill. That makes two.
+
+1522
+01:58:20,985 --> 01:58:22,185
+Mav has five.
+
+1523
+01:58:22,285 --> 01:58:23,785
+Makes him an ace.
+
+1524
+01:58:41,785 --> 01:58:44,285
+Captain Mitchell!
+Captain Mitchell!
+
+1525
+01:58:50,985 --> 01:58:52,385
+Sir.
+
+1526
+01:58:59,685 --> 01:59:01,585
+Thank you for saving my life.
+
+1527
+01:59:02,685 --> 01:59:04,785
+It's what my dad would've done.
+
+1528
+01:59:43,985 --> 01:59:45,185
+Hey, Mav.
+
+1529
+01:59:46,085 --> 01:59:47,385
+Jimmy.
+
+1530
+01:59:48,285 --> 01:59:49,485
+Is, uh...
+
+1531
+01:59:50,185 --> 01:59:51,585
+Is Penny around?
+
+1532
+01:59:51,685 --> 01:59:55,285
+Uh, she took Amelia
+on a sailing trip.
+
+1533
+01:59:57,585 --> 01:59:59,685
+Did she say when she'd be back?
+
+1534
+01:59:59,885 --> 02:00:01,685
+You know, she didn't.
+
+1535
+02:00:03,885 --> 02:00:05,685
+Can I get you anything?
+
+1536
+02:00:18,885 --> 02:00:19,985
+Get in there.
+
+1537
+02:00:54,413 --> 02:00:56,615
+♪ Hold my hand ♪
+
+1538
+02:00:56,749 --> 02:00:59,552
+♪ Everything will be okay ♪
+
+1539
+02:00:59,685 --> 02:01:03,955
+♪ I heard from the heavens
+That clouds have been gray ♪
+
+1540
+02:01:04,089 --> 02:01:06,291
+♪ Hold me close ♪
+
+1541
+02:01:06,425 --> 02:01:09,328
+♪ Wrap me in your aching arms ♪
+
+1542
+02:01:09,462 --> 02:01:11,664
+♪ I see that you're hurtin' ♪
+
+1543
+02:01:11,797 --> 02:01:14,132
+♪ Why'd you take so long ♪
+
+1544
+02:01:14,266 --> 02:01:16,835
+♪ To tell me you need me? ♪
+
+1545
+02:01:16,968 --> 02:01:18,938
+♪ I see that you're bleeding ♪
+
+1546
+02:01:19,071 --> 02:01:23,709
+♪ You don't need
+To show me again ♪
+
+1547
+02:01:23,842 --> 02:01:26,112
+♪ But if you decide to ♪
+
+1548
+02:01:26,245 --> 02:01:29,281
+♪ I'll ride in this life
+With you ♪
+
+1549
+02:01:29,414 --> 02:01:33,919
+♪ I won't let go till the end ♪
+
+1550
+02:01:36,155 --> 02:01:40,893
+♪ So cry tonight ♪
+
+1551
+02:01:41,026 --> 02:01:44,863
+♪ But don't you
+Let go of my hand ♪
+
+1552
+02:01:44,997 --> 02:01:50,702
+♪ You can cry every last tear ♪
+
+1553
+02:01:50,835 --> 02:01:55,841
+♪ I won't leave
+Till I understand ♪
+
+1554
+02:01:55,974 --> 02:02:01,347
+♪ Promise me
+Just hold my hand ♪
+
+1555
+02:02:09,888 --> 02:02:12,358
+♪ Hold my hand, hold my ♪
+
+1556
+02:02:12,491 --> 02:02:14,693
+♪ Hold my hand, hold my hand ♪
+
+1557
+02:02:14,826 --> 02:02:19,531
+♪ I'll be right here
+Hold my hand ♪
+
+1558
+02:02:19,664 --> 02:02:21,901
+♪ Hold my hand, hold my ♪
+
+1559
+02:02:22,034 --> 02:02:24,437
+♪ Hold my hand, hold my hand ♪
+
+1560
+02:02:24,570 --> 02:02:29,842
+♪ I'll be right here
+Hold my hand ♪
+
+1561
+02:02:31,444 --> 02:02:38,684
+♪ Hold my hand ♪
+
+1562
+02:02:41,253 --> 02:02:44,422
+♪ Hold my hand ♪
+
+1563
+02:02:44,556 --> 02:02:49,828
+♪ My hand ♪
+
+1564
+02:02:49,961 --> 02:02:52,431
+♪ Hold my hand, hold my hand ♪
+
+1565
+02:02:52,564 --> 02:02:54,800
+♪ Hold my hand, hold my hand ♪
+
+1566
+02:02:54,933 --> 02:03:00,572
+♪ Hold my hand, hold my hand ♪
+
+1567
+02:03:00,706 --> 02:03:05,010
+♪ I heard from the heavens ♪

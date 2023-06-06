@@ -1,0 +1,1852 @@
+1
+00:05:03,000 --> 00:05:05,468
+I thought you'd never get back.
+
+2
+00:05:05,600 --> 00:05:07,955
+There was a heck of a crowd on the piste.
+
+3
+00:05:08,080 --> 00:05:10,196
+So I see.
+
+4
+00:05:10,480 --> 00:05:14,359
+- Mission accomplished?
+- Best beluga.
+
+5
+00:05:14,800 --> 00:05:19,510
+Vodka - rather shaken -
+and one microchip.
+
+6
+00:05:19,640 --> 00:05:22,837
+Good. I'll make a signal to M.
+
+7
+00:05:27,400 --> 00:05:31,552
+Be a good girl, would you,
+and put her on automatic.
+
+8
+00:05:35,080 --> 00:05:38,755
+And we could do with a couple of glasses.
+
+9
+00:05:38,880 --> 00:05:42,077
+They're in the overhead rack.
+
+10
+00:05:45,760 --> 00:05:47,557
+Commander Bond...!
+
+11
+00:05:47,680 --> 00:05:50,911
+Call me James. It's five days to Alaska.
+
+12
+00:09:28,720 --> 00:09:32,838
+- Thank goodness you're here, James.
+- That's very nice, Moneypenny.
+
+13
+00:09:32,960 --> 00:09:34,837
+A little over the top for the office?
+
+14
+00:09:34,960 --> 00:09:38,714
+I've been trying to reach you all morning.
+What have you been up to?
+
+15
+00:09:38,840 --> 00:09:41,400
+Rest and recreation, my darling.
+
+16
+00:09:41,520 --> 00:09:44,637
+The trip back from Siberia
+took a lot out of me.
+
+17
+00:09:44,760 --> 00:09:48,389
+Your dedication when you're on the job
+is most commendable, James.
+
+18
+00:09:48,520 --> 00:09:52,672
+Omit the customary pleasantries, Miss
+Moneypenny. We're pressed for time.
+
+19
+00:09:52,800 --> 00:09:55,155
+I'll fill you in later, Moneypenny.
+
+20
+00:10:04,800 --> 00:10:06,313
+- Minister.
+- Commander.
+
+21
+00:10:06,440 --> 00:10:08,396
+Good morning, sir.
+
+22
+00:10:09,080 --> 00:10:10,593
+A new pet, Q?
+
+23
+00:10:10,720 --> 00:10:14,918
+If, 007, you'd ever bothered to read
+any memos sent from my department,
+
+24
+00:10:15,040 --> 00:10:19,556
+you would realise this is a prototype
+of a sophisticated surveillance machine.
+
+25
+00:10:19,680 --> 00:10:22,114
+Now we're all here
+you can get on with the briefing, Q.
+
+26
+00:10:22,240 --> 00:10:24,196
+Very good, sir.
+
+27
+00:10:25,720 --> 00:10:27,392
+Gentlemen...
+
+28
+00:10:28,040 --> 00:10:31,237
+A silicon integrated circuit:
+
+29
+00:10:31,600 --> 00:10:33,955
+the essential part
+of all modern computers.
+
+30
+00:10:34,080 --> 00:10:36,878
+No lecture, Q.
+We're all aware of the microchip.
+
+31
+00:10:37,480 --> 00:10:41,996
+Until recently, all microchips
+were susceptible to damage
+
+32
+00:10:42,120 --> 00:10:45,829
+from the intense magnetic pulse
+of a nuclear explosion.
+
+33
+00:10:45,960 --> 00:10:48,110
+- Magnetic pulse?
+- Yes, Minister.
+
+34
+00:10:48,240 --> 00:10:52,199
+One burst in outer space over the UK
+and everything with a microchip in it,
+
+35
+00:10:52,320 --> 00:10:56,472
+from the modern toaster to sophisticated
+computers and our defence systems,
+
+36
+00:10:56,600 --> 00:10:58,591
+would be rendered useless.
+
+37
+00:10:59,040 --> 00:11:01,270
+We'd be paralysed -
+at the Russians' mercy.
+
+38
+00:11:01,400 --> 00:11:04,676
+That is why a private defence
+contractor came up with this:
+
+39
+00:11:05,120 --> 00:11:09,318
+a chip totally impervious
+to magnetic pulse damage.
+
+40
+00:11:09,440 --> 00:11:12,750
+Now - if I place it on the micro-comparator
+
+41
+00:11:12,880 --> 00:11:15,394
+and compare it with
+the chip Bond recovered
+
+42
+00:11:15,520 --> 00:11:19,274
+from the body of 003 in Siberia...
+
+43
+00:11:21,720 --> 00:11:25,759
+- When I bring the two images together...
+- They're identical.
+
+44
+00:11:25,880 --> 00:11:29,190
+The KGB must have a pipeline
+into that research company.
+
+45
+00:11:29,320 --> 00:11:30,833
+It would appear so.
+
+46
+00:11:30,960 --> 00:11:34,999
+Six months ago that company was
+acquired by an Anglo-French combine:
+
+47
+00:11:35,120 --> 00:11:36,758
+Zorin lndustries.
+
+48
+00:11:37,280 --> 00:11:40,033
+There has been a security
+check of the plant?
+
+49
+00:11:40,640 --> 00:11:43,029
+A very extensive one.
+But we have no leads.
+
+50
+00:11:43,560 --> 00:11:45,232
+What about Zorin himself?
+
+51
+00:11:45,360 --> 00:11:48,989
+Max Zorin? lmpossible.
+He's a leading French industrialist.
+
+52
+00:11:49,120 --> 00:11:53,079
+A staunch anti-communist with
+influential friends in the government.
+
+53
+00:11:53,200 --> 00:11:55,191
+With due respect, Minister,
+
+54
+00:11:55,320 --> 00:11:58,039
+the leak did occur
+after Zorin bought the company.
+
+55
+00:11:58,160 --> 00:12:00,628
+Precisely why
+I've initiated an investigation.
+
+56
+00:12:00,760 --> 00:12:03,399
+All right, but let's be discreet about it.
+
+57
+00:12:03,640 --> 00:12:05,676
+But of course, Minister.
+
+58
+00:12:07,720 --> 00:12:13,192
+You have exactly 35 minutes
+to get properly dressed, 007.
+
+59
+00:12:14,040 --> 00:12:18,909
+They round the turn.
+Just under a mile to race from this point.
+
+60
+00:12:21,640 --> 00:12:24,200
+Come on, Fluke! Move your ar...
+
+61
+00:12:24,680 --> 00:12:30,198
+- Who is number one? The grey with him?
+- Oh, that's Pegasus. Zorin's horse.
+
+62
+00:12:30,320 --> 00:12:31,912
+With the cane. Max Zorin?
+
+63
+00:12:32,040 --> 00:12:35,874
+Yes. Born in Dresden.
+Fled from East Germany in the sixties.
+
+64
+00:12:36,480 --> 00:12:40,109
+French passport.
+Speaks at least five languages, no accent.
+
+65
+00:12:40,240 --> 00:12:43,232
+Now the talk of the City and the Bourse.
+
+66
+00:12:43,360 --> 00:12:47,512
+- The old rags-to-riches story.
+- Made his first fortune in oil and gas.
+
+67
+00:12:47,640 --> 00:12:49,995
+Now a second in electronics and hi-tech.
+
+68
+00:12:50,120 --> 00:12:54,432
+Who's that with him under the hat?
+With the red dress. A girlfriend?
+
+69
+00:12:56,080 --> 00:12:58,389
+We're not sure about her.
+
+70
+00:12:58,520 --> 00:13:03,833
+American. She's never far from him.
+Name's May Day.
+
+71
+00:13:04,360 --> 00:13:06,828
+And dressed for the occasion.
+
+72
+00:13:08,080 --> 00:13:10,799
+Come on, Fluke! Get a wiggle on!
+
+73
+00:13:13,960 --> 00:13:17,919
+Pegasus has come from nowhere,
+and as they go for the line
+
+74
+00:13:18,040 --> 00:13:22,875
+it's Pegasus who storms clear
+off Fluke and Cooper Girl.
+
+75
+00:13:27,160 --> 00:13:32,029
+First, number one, second, number two,
+and third, number five.
+
+76
+00:13:32,160 --> 00:13:35,709
+First number one, Pegasus,
+second number two, Fluke,
+
+77
+00:13:35,840 --> 00:13:38,991
+and third number five, Cooper Girl.
+
+78
+00:13:45,920 --> 00:13:48,992
+Unbelievable! ln all my years as a trainer
+
+79
+00:13:49,120 --> 00:13:51,918
+I've never seen a horse
+run such a fast last furlong.
+
+80
+00:13:52,040 --> 00:13:54,998
+Sir Godfrey Tibbett. Our department.
+
+81
+00:13:56,680 --> 00:13:59,717
+- Many congratulations.
+- Thank you.
+
+82
+00:14:01,400 --> 00:14:04,949
+- Lucky man, Zorin.
+- Could be more than luck, Admiral.
+
+83
+00:14:05,080 --> 00:14:08,072
+- Fixed?
+- Your guess is as good as mine.
+
+84
+00:14:08,200 --> 00:14:13,832
+The French Jockey Club have hired
+a detective, Aubergine, to look into it.
+
+85
+00:14:14,000 --> 00:14:16,036
+Easy, Pegasus.
+
+86
+00:14:17,080 --> 00:14:18,911
+Calm down, Pegasus.
+
+87
+00:14:20,440 --> 00:14:22,351
+Steady.
+
+88
+00:14:22,880 --> 00:14:25,519
+She must take a lot of vitamins.
+
+89
+00:14:25,640 --> 00:14:27,790
+Perhaps Pegasus does too.
+
+90
+00:14:29,600 --> 00:14:32,751
+I think I should meet with
+this detective friend of yours.
+
+91
+00:14:32,880 --> 00:14:37,351
+Yes. Might have some interesting
+information for us. Set it up, Tibbett.
+
+92
+00:14:37,480 --> 00:14:38,833
+Right you are.
+
+93
+00:14:38,960 --> 00:14:42,077
+Moneypenny - be a darling, would you,
+and collect that for me.
+
+94
+00:14:42,200 --> 00:14:44,919
+- I'll buy you dinner when we get back.
+- Pegasus!
+
+95
+00:15:04,040 --> 00:15:05,792
+Bollinger, '75.
+
+96
+00:15:05,920 --> 00:15:08,957
+I see you are a connoisseur,
+Monsieur Bond.
+
+97
+00:15:09,080 --> 00:15:13,232
+- Ensuite, Lafite Rothschild '59.
+- Another excellent choice.
+
+98
+00:15:13,360 --> 00:15:17,751
+I'm pleased you approve -
+since you're paying the bill.
+
+99
+00:15:17,880 --> 00:15:20,599
+- Cheers.
+- Santé, Monsieur Aubergine.
+
+100
+00:15:21,000 --> 00:15:25,471
+The Sûreté has no information on Zorin
+before he came over from East Germany?
+
+101
+00:15:25,840 --> 00:15:29,196
+Through a personal connection
+I saw his dossier myself.
+
+102
+00:15:29,320 --> 00:15:33,552
+But even Sûreté records
+are sometimes incomplete!
+
+103
+00:15:36,280 --> 00:15:42,435
+Et voici maintenant the fabulous
+Dominique and the enchanted papillons!
+
+104
+00:16:12,440 --> 00:16:17,389
+Perhaps we should add this
+butterfly to our collection, no?
+
+105
+00:16:18,400 --> 00:16:23,235
+Tell me, why do Zorin's horses
+beat others with superior bloodlines?
+
+106
+00:16:23,360 --> 00:16:25,237
+This is a mystery.
+
+107
+00:16:25,360 --> 00:16:30,115
+- Could he be using drugs?
+- Nothing showed up in the tests.
+
+108
+00:16:35,080 --> 00:16:39,949
+Later this month, Zorin will hold his
+annual sales at his stud near Paris.
+
+109
+00:16:40,840 --> 00:16:45,914
+Security is formidable
+but the key to this mystery is there.
+
+110
+00:16:46,800 --> 00:16:50,759
+And l, Achille Aubergine,
+intend to find it.
+
+111
+00:16:58,360 --> 00:17:01,909
+- Qu'est-ce qu'il y a?
+- There's a fly in his soup.
+
+112
+00:18:46,720 --> 00:18:49,280
+- Follow that parachute.
+- Crazy English!
+
+113
+00:18:49,400 --> 00:18:51,550
+Out.
+
+114
+00:19:00,840 --> 00:19:02,956
+My car!
+
+115
+00:19:08,200 --> 00:19:10,555
+My car!
+
+116
+00:20:12,680 --> 00:20:14,636
+Congratulations.
+
+117
+00:20:29,600 --> 00:20:31,556
+So?
+
+118
+00:20:39,120 --> 00:20:41,953
+This operation was to be
+conducted discreetly.
+
+119
+00:20:42,560 --> 00:20:45,632
+It took six million francs
+in damages and penalties
+
+120
+00:20:45,760 --> 00:20:47,876
+for violating most of the Napoleonic Code.
+
+121
+00:20:48,000 --> 00:20:51,675
+Under the circumstances it was
+more important to identify the assassin.
+
+122
+00:20:52,360 --> 00:20:55,158
+What did you learn from Aubergine
+before his demise?
+
+123
+00:20:55,520 --> 00:20:59,798
+Only that Zorin is having a thoroughbred
+sale at his stud not far from here.
+
+124
+00:20:59,920 --> 00:21:01,433
+I should be there.
+
+125
+00:21:01,560 --> 00:21:05,348
+- Can you help me, Sir Godfrey?
+- I may be able to arrange an invitation.
+
+126
+00:21:05,480 --> 00:21:09,189
+It's a bit short notice...
+but I might just be able to squeeze you in.
+
+127
+00:21:09,320 --> 00:21:10,196
+Thank you.
+
+128
+00:21:20,480 --> 00:21:22,436
+Sir Godfrey, your hat.
+
+129
+00:21:33,800 --> 00:21:35,950
+Mr Saint John Smith?
+
+130
+00:21:36,680 --> 00:21:38,272
+St John Smythe, my dear.
+
+131
+00:21:38,400 --> 00:21:42,075
+- My name is Scarpine. Head of security.
+- How do you do.
+
+132
+00:21:42,200 --> 00:21:45,909
+- We have a room for you at the chateau.
+- Oh, splendid.
+
+133
+00:21:46,040 --> 00:21:49,350
+By the way, the preview is in progress
+at the main stables.
+
+134
+00:21:49,480 --> 00:21:52,552
+- Is that it?
+- No, no, those are the servants' quarters.
+
+135
+00:21:52,680 --> 00:21:54,830
+The stables are over here.
+
+136
+00:21:55,600 --> 00:21:57,556
+Let me escort you there.
+
+137
+00:22:12,320 --> 00:22:15,517
+- Catalogue of the sales.
+- Thank you.
+
+138
+00:22:15,640 --> 00:22:19,110
+Tell me - the lthacus colt. Is it here?
+
+139
+00:22:19,240 --> 00:22:21,800
+- You mean the full brother of Pegasus?
+- Yes.
+
+140
+00:22:21,920 --> 00:22:24,673
+He's the outstanding horse of the sales.
+
+141
+00:22:24,800 --> 00:22:29,351
+He'll be shown last. We expect him
+to fetch over three million dollars.
+
+142
+00:22:29,480 --> 00:22:31,630
+Sounds quite reasonable.
+
+143
+00:22:32,920 --> 00:22:35,718
+If you need any further assistance
+please call me.
+
+144
+00:22:35,840 --> 00:22:37,796
+Thank you.
+
+145
+00:22:45,680 --> 00:22:48,240
+Steady! Steady, Pegasus.
+
+146
+00:22:52,800 --> 00:22:54,756
+Keep him on a tight rein!
+
+147
+00:23:00,280 --> 00:23:02,953
+Steady now, Pegasus.
+
+148
+00:23:17,600 --> 00:23:23,470
+We are now very proud to present
+the full brother ofPegasus.
+
+149
+00:23:23,600 --> 00:23:25,795
+This colt is born in the purple.
+
+150
+00:24:00,320 --> 00:24:02,356
+Monsieur Smythe.
+
+151
+00:24:02,480 --> 00:24:04,516
+Monsieur Zorin has been detained.
+
+152
+00:24:04,640 --> 00:24:08,679
+He's anxious to meet you at the
+reception in the chateau gardens later.
+
+153
+00:24:08,800 --> 00:24:10,233
+I look forward to it.
+
+154
+00:24:10,360 --> 00:24:14,069
+- I wish you wouldn't keep wandering off.
+- I'm sorry, sir.
+
+155
+00:24:14,200 --> 00:24:16,430
+Your driver may stay
+in the servants' quarters.
+
+156
+00:24:16,560 --> 00:24:21,918
+I'm sure that'll be more than adequate.
+What do you say, Tibbett?
+
+157
+00:24:45,240 --> 00:24:48,949
+- Welcome, sir. I'm Jenny Flex.
+- Of course you are.
+
+158
+00:24:49,080 --> 00:24:53,232
+- I'll call a porter.
+- Oh, no need. My man'll take care of it.
+
+159
+00:24:53,360 --> 00:24:57,239
+- Let me show you to your room.
+- Thank you.
+
+160
+00:24:57,360 --> 00:24:59,271
+When you're ready, Tibbett.
+
+161
+00:25:03,440 --> 00:25:06,591
+Well, my dear, I take it you spend
+a lot of time in the saddle.
+
+162
+00:25:06,720 --> 00:25:12,158
+- Yes, I love an early morning ride.
+- I'm an early riser myself.
+
+163
+00:25:12,280 --> 00:25:15,397
+Come along, Tibbett. Stop wheezing.
+
+164
+00:25:36,200 --> 00:25:39,033
+Don't stand there panting, Tibbett.
+Start unpacking.
+
+165
+00:25:39,160 --> 00:25:41,196
+Yes, sir. Thank you, sir.
+
+166
+00:25:45,200 --> 00:25:48,954
+- The reception is at six.
+- Thank you, my dear.
+
+167
+00:25:51,280 --> 00:25:54,875
+Well, you heard what Miss Jenny Flex
+said: there is a reception at six.
+
+168
+00:25:55,000 --> 00:25:58,515
+- Yes, sir.
+- So I need a white jacket and a black tie.
+
+169
+00:25:58,760 --> 00:26:00,239
+Yes, sir.
+
+170
+00:26:00,360 --> 00:26:03,477
+- And if possible, a clean shirt.
+- Yes, sir.
+
+171
+00:26:03,600 --> 00:26:07,070
+Oh, my Lord, Tibbett!
+Look at the state of my clothes.
+
+172
+00:26:07,200 --> 00:26:10,795
+- How on earth do you pack my bags?
+- Sorry, sir.
+
+173
+00:26:15,640 --> 00:26:19,235
+Mr Faras told his trainer
+he'll go to a million for the lthacus colt.
+
+174
+00:26:19,360 --> 00:26:22,636
+- Good. Anything from St John Smythe?
+- Nothing about the sale, sir.
+
+175
+00:26:22,760 --> 00:26:26,514
+- But I'd hate to be his valet.
+- You'll have to buck up your ideas.
+
+176
+00:26:26,640 --> 00:26:29,552
+- I'm sorry, sir.
+- Don't be so damned obsequious.
+
+177
+00:26:35,320 --> 00:26:38,517
+Oh, my Lord.
+What the devil's wrong with these shoes?
+
+178
+00:26:38,640 --> 00:26:42,633
+- Were they wiped over with an oily rag?
+- Terribly sorry, sir.
+
+179
+00:26:42,760 --> 00:26:44,478
+You blasted well should be.
+
+180
+00:26:44,600 --> 00:26:49,674
+I don't know how long
+you expect to remain in my employ...
+
+181
+00:26:49,800 --> 00:26:54,999
+- Well done, my good man.
+- Must we keep this up when we're alone?
+
+182
+00:26:55,120 --> 00:26:59,079
+A successful cover becomes
+almost second nature.
+
+183
+00:26:59,200 --> 00:27:01,839
+What's all this about
+Pegasus disappearing?
+
+184
+00:27:01,960 --> 00:27:05,350
+One minute he's in his stall -
+the next, neither hide nor hair of him.
+
+185
+00:27:05,480 --> 00:27:07,118
+We should look into it.
+
+186
+00:27:07,240 --> 00:27:10,869
+Well, don't you concern yourself with that.
+
+187
+00:27:20,760 --> 00:27:24,196
+There's the man I saw
+at the Pegasus stable
+
+188
+00:27:43,040 --> 00:27:46,715
+- Another wealthy owner?
+- Who knows?
+
+189
+00:27:46,840 --> 00:27:51,072
+- But she'd bear closer inspection.
+- We're on a mission.
+
+190
+00:27:51,200 --> 00:27:55,193
+Sir Godfrey, on a mission
+I am expected to sacrifice myself.
+
+191
+00:28:40,440 --> 00:28:42,795
+Lovely party.
+
+192
+00:29:01,360 --> 00:29:05,239
+Enjoying our little party,
+Monsieur... Saint John Smythe?
+
+193
+00:29:05,360 --> 00:29:07,794
+Immensely. St John Smythe.
+
+194
+00:29:07,920 --> 00:29:12,789
+Looks as though you'll have
+a good turnout for the sale tomorrow.
+
+195
+00:29:35,720 --> 00:29:39,633
+May I introduce Miss Sutton?
+Sheikh Farouk.
+
+196
+00:30:16,800 --> 00:30:20,873
+- Welcome.
+- Mr Zorin. Main Strike all set?
+
+197
+00:30:21,000 --> 00:30:23,150
+We'll know after the 22nd.
+
+198
+00:30:26,040 --> 00:30:27,712
+- Thank you.
+- Enjoy yourself.
+
+199
+00:30:35,520 --> 00:30:37,715
+You were looking for something?
+
+200
+00:30:37,840 --> 00:30:40,513
+Yes, l... was looking for the bar.
+
+201
+00:30:40,640 --> 00:30:43,108
+Come. I will show you.
+
+202
+00:30:48,320 --> 00:30:52,279
+Oh, by the way, the name is
+St John Smythe. James St John Smythe.
+
+203
+00:30:52,400 --> 00:30:55,312
+Dr Carl Mortner. At your service.
+
+204
+00:30:55,440 --> 00:30:58,796
+- Hiya, doc!
+- Good afternoon, Mr Conley.
+
+205
+00:30:59,600 --> 00:31:02,239
+Mr Conley, Mr Smythe.
+
+206
+00:31:02,640 --> 00:31:04,835
+Bob Conley.
+
+207
+00:31:04,960 --> 00:31:08,635
+- Are you a trainer?
+- Horses? Hell, I can't even ride.
+
+208
+00:31:08,760 --> 00:31:11,513
+- I'm in the oil business.
+- Oh. Texas?
+
+209
+00:31:11,640 --> 00:31:15,315
+Frisco. I handle Mr Zorin's
+oil interests there.
+
+210
+00:31:15,440 --> 00:31:18,398
+Would you excuse us? Come on, honey.
+
+211
+00:31:19,600 --> 00:31:21,352
+Are you a doctor of medicine?
+
+212
+00:31:21,480 --> 00:31:26,474
+Oh, no, no.
+I am Mr Zorin's breeding consultant.
+
+213
+00:31:26,600 --> 00:31:29,353
+Oh, really?
+Then you can let me into a little secret.
+
+214
+00:31:29,480 --> 00:31:35,157
+How is it you succeed with breeding
+bloodlines other experts think inferior?
+
+215
+00:31:35,280 --> 00:31:37,635
+Selective breeding is important.
+
+216
+00:31:37,760 --> 00:31:42,675
+But more important
+is conditioning and a desire, ja?
+
+217
+00:31:42,800 --> 00:31:45,360
+Are you talking about people or horses?
+
+218
+00:31:46,960 --> 00:31:49,190
+My principles apply equally
+to human beings.
+
+219
+00:31:49,320 --> 00:31:52,039
+Mr St John Smythe.
+Allow me to introduce myself.
+
+220
+00:31:52,160 --> 00:31:53,752
+Mr Zorin, it's a great pleasure.
+
+221
+00:31:53,880 --> 00:31:57,555
+- A groom asked if you'd go to the stables.
+- Of course.
+
+222
+00:31:57,680 --> 00:31:59,636
+You will excuse me?
+
+223
+00:32:01,240 --> 00:32:04,835
+I must congratulate you, Mr Zorin.
+Your stables are magnificent.
+
+224
+00:32:04,960 --> 00:32:09,192
+Built in the 16th century by a duke who
+believed he'd be reincarnated as a horse.
+
+225
+00:32:09,320 --> 00:32:11,231
+Have thoroughbreds interested you long?
+
+226
+00:32:11,360 --> 00:32:16,514
+Oh, no. As a matter of fact I had a dotty
+old aunt die and leave me some stables.
+
+227
+00:32:16,640 --> 00:32:19,996
+So I thought it might be rather fun
+to breed and raise horses.
+
+228
+00:32:20,120 --> 00:32:24,477
+- I take it you ride?
+- I'm happiest in the saddle.
+
+229
+00:32:25,000 --> 00:32:27,309
+A fellow-sportsman.
+
+230
+00:32:27,440 --> 00:32:29,635
+What about fishing?
+
+231
+00:32:30,320 --> 00:32:32,276
+Fly casting?
+
+232
+00:32:33,560 --> 00:32:38,680
+I'm neglecting my other guests. You'll find
+the young ladies stimulating company.
+
+233
+00:32:38,800 --> 00:32:40,756
+I'm sure they are.
+
+234
+00:32:52,800 --> 00:32:56,839
+Hello. I thought you might
+like to join the party.
+
+235
+00:32:57,440 --> 00:33:02,594
+By the way, the name is
+James St John Smythe. I'm English.
+
+236
+00:33:03,760 --> 00:33:06,797
+- I never would have guessed.
+- Really?
+
+237
+00:33:10,000 --> 00:33:12,639
+Well, are you buying or selling?
+
+238
+00:33:13,560 --> 00:33:15,915
+- Selling?!
+- Horses.
+
+239
+00:33:17,840 --> 00:33:20,593
+No, I'm not interested in horses.
+
+240
+00:33:21,560 --> 00:33:24,154
+Well, you came to the wrong place,
+didn't you?
+
+241
+00:33:25,200 --> 00:33:27,156
+May Day.
+
+242
+00:33:29,120 --> 00:33:31,634
+Get her away from him.
+
+243
+00:33:31,760 --> 00:33:35,116
+I'm sure I've seen him somewhere before.
+
+244
+00:33:36,280 --> 00:33:38,396
+Have Security keep a good eye on him.
+
+245
+00:33:38,880 --> 00:33:42,350
+You didn't say what part
+of the States you come from, Miss...
+
+246
+00:33:42,760 --> 00:33:44,716
+No. I didn't.
+
+247
+00:33:45,280 --> 00:33:46,952
+I suppose you travel a lot?
+
+248
+00:33:47,080 --> 00:33:49,640
+Your helicopter leaves in 20 minutes.
+
+249
+00:33:49,760 --> 00:33:53,912
+You're not staying the night? I was hoping
+we'd spend the evening together.
+
+250
+00:33:54,240 --> 00:33:56,435
+Now I shall be all alone.
+
+251
+00:33:56,560 --> 00:33:59,199
+I doubt that.
+
+252
+00:33:59,320 --> 00:34:02,949
+- Well, let me walk you to the chopper.
+- That won't be necessary.
+
+253
+00:34:03,080 --> 00:34:09,110
+- Someone will take care of you.
+- You'll see to that personally, will you?
+
+254
+00:35:22,280 --> 00:35:24,316
+Are you looking for this?
+
+255
+00:35:25,360 --> 00:35:27,316
+Quite a letdown.
+
+256
+00:36:07,920 --> 00:36:10,912
+- St John Smythe?
+- Sleeping like a baby.
+
+257
+00:36:35,480 --> 00:36:38,358
+That's a boy. There we are.
+
+258
+00:36:52,400 --> 00:36:55,437
+It's interesting. He's had surgery.
+
+259
+00:36:56,920 --> 00:37:01,311
+Surgery? That is how Zorin won the race.
+
+260
+00:37:01,440 --> 00:37:04,591
+Mortner implanted one of
+these microchips into Pegasus.
+
+261
+00:37:05,080 --> 00:37:09,312
+You see, these microchips are
+programmed to control an injection
+
+262
+00:37:09,440 --> 00:37:12,000
+of additional natural horse steroids.
+
+263
+00:37:12,320 --> 00:37:15,312
+- To overcome fatigue during the race.
+- How?
+
+264
+00:37:15,800 --> 00:37:18,951
+The injection itself,
+with that small needle,
+
+265
+00:37:19,080 --> 00:37:22,311
+is triggered by
+a remote-control transmitter
+
+266
+00:37:22,440 --> 00:37:26,353
+small enough to fit into
+the tip of a jockey's whip -
+
+267
+00:37:26,480 --> 00:37:28,232
+or a cane.
+
+268
+00:37:28,960 --> 00:37:30,393
+The lights!
+
+269
+00:38:04,280 --> 00:38:09,718
+There's a world surplus of microchips
+and Zorin is hoarding them!
+
+270
+00:38:56,040 --> 00:38:59,874
+- I'm afraid I wasn't much help.
+- Don't worry. It's all wrapped up.
+
+271
+00:39:19,480 --> 00:39:23,712
+Keep your guard up higher.
+And retain your balance.
+
+272
+00:40:10,240 --> 00:40:12,595
+- What now?
+- We'd better get back.
+
+273
+00:40:12,720 --> 00:40:14,870
+The tape ran out five minutes ago.
+
+274
+00:40:26,960 --> 00:40:28,712
+I told you not to disturb us.
+
+275
+00:40:28,840 --> 00:40:32,196
+It's important.
+There's been intruders in the warehouse.
+
+276
+00:40:32,320 --> 00:40:34,550
+Put Security on full alert.
+
+277
+00:40:36,240 --> 00:40:38,629
+Let's see where Mr St John Smythe is.
+
+278
+00:41:13,960 --> 00:41:16,713
+He was the man at the Eiffel Tower.
+
+279
+00:41:17,600 --> 00:41:20,637
+- We must find him.
+- I'll get dressed.
+
+280
+00:41:28,840 --> 00:41:33,356
+May Day, where have you been?
+I've been waiting for you.
+
+281
+00:41:33,480 --> 00:41:36,916
+To take care of me personally.
+
+282
+00:41:50,120 --> 00:41:53,271
+I see you're a woman of very few words.
+
+283
+00:41:56,120 --> 00:41:58,076
+What's there to say?
+
+284
+00:42:18,200 --> 00:42:21,078
+- Is everything here?
+- Ja, ja.
+
+285
+00:42:21,200 --> 00:42:23,156
+Except this.
+
+286
+00:42:23,960 --> 00:42:26,235
+It is in the wrong place.
+
+287
+00:42:26,360 --> 00:42:31,195
+Bring St John Smythe to my study
+first thing in the morning.
+
+288
+00:42:39,520 --> 00:42:42,193
+Good morning.
+
+289
+00:42:42,320 --> 00:42:45,232
+I understand you wish to see me.
+
+290
+00:42:45,360 --> 00:42:50,593
+- You slept well?
+- A little restless, but I got off eventually.
+
+291
+00:42:50,720 --> 00:42:53,393
+I have the Progeny lndex
+on the computer:
+
+292
+00:42:53,520 --> 00:42:55,875
+a compilation of thoroughbred bloodlines.
+
+293
+00:42:56,000 --> 00:43:01,358
+Might be helpful to you in selecting
+your purchase this afternoon.
+
+294
+00:43:01,480 --> 00:43:04,677
+As I see it, you need a stallion.
+For breeding.
+
+295
+00:43:04,800 --> 00:43:07,997
+A stallion sounds right to me.
+
+296
+00:43:08,120 --> 00:43:10,680
+I find a computer indispensable.
+
+297
+00:43:16,360 --> 00:43:21,150
+I have a stallion.
+Descended from that horse there.
+
+298
+00:43:21,600 --> 00:43:23,556
+Misty.
+
+299
+00:43:33,080 --> 00:43:36,675
+We have several horses
+that might interest you.
+
+300
+00:43:36,800 --> 00:43:37,391
+Splendid.
+
+301
+00:43:43,560 --> 00:43:47,314
+Would you be interested
+primarily in stamina?
+
+302
+00:43:47,440 --> 00:43:51,353
+- Or speed?
+- Well, a little of both would be ideal.
+
+303
+00:43:55,360 --> 00:43:57,999
+I think I have just the horse for you.
+
+304
+00:43:59,840 --> 00:44:02,195
+It's time for my morning ride.
+
+305
+00:44:02,320 --> 00:44:05,869
+- Why don't you try him out?
+- That sounds a very good idea.
+
+306
+00:44:06,520 --> 00:44:09,159
+- I shall get into some riding clothes.
+- Good.
+
+307
+00:44:09,280 --> 00:44:11,794
+Half an hour, then.
+Scarpine will collect you.
+
+308
+00:44:11,920 --> 00:44:13,876
+Thank you.
+
+309
+00:44:21,880 --> 00:44:25,759
+Tibbett, get into town, call M
+and ask him to put a trace on this cheque.
+
+310
+00:44:25,880 --> 00:44:29,509
+Be quick. If those guards we laid out
+identify us we'll have to move fast.
+
+311
+00:44:29,880 --> 00:44:32,474
+What shall I say
+if they ask where I'm going?
+
+312
+00:44:32,600 --> 00:44:36,229
+Just tell them
+you have to get the car washed.
+
+313
+00:44:58,440 --> 00:45:01,671
+Just going to town to get the car washed.
+
+314
+00:45:24,400 --> 00:45:28,632
+- Your mount, Mr St John Smythe.
+- A beautiful beast.
+
+315
+00:45:30,520 --> 00:45:33,876
+A little spirited. What's his name?
+
+316
+00:45:34,000 --> 00:45:35,956
+Inferno.
+
+317
+00:47:00,360 --> 00:47:03,113
+- Friends of yours?
+- Exercise boys.
+
+318
+00:47:03,240 --> 00:47:07,153
+Jumping together
+is more realistic training.
+
+319
+00:47:07,280 --> 00:47:09,999
+Frankly, I prefer cross-country
+to steeplechase.
+
+320
+00:47:10,120 --> 00:47:13,829
+As one sportsman to another,
+I'll make you a proposition.
+
+321
+00:47:13,960 --> 00:47:18,988
+You can have that lthacus colt gratis
+if you stay this course.
+
+322
+00:47:19,480 --> 00:47:21,994
+- And if I'm thrown?
+- Then you lose.
+
+323
+00:47:24,200 --> 00:47:26,430
+You leave me little choice.
+
+324
+00:47:27,800 --> 00:47:30,553
+Splendid. Scarpine will start us.
+
+325
+00:48:42,120 --> 00:48:43,473
+Steady!
+
+326
+00:49:08,760 --> 00:49:10,716
+Keep going!
+
+327
+00:49:12,480 --> 00:49:14,630
+Sir Godfrey. Let's get...
+
+328
+00:49:31,800 --> 00:49:33,756
+You lost, 007.
+
+329
+00:49:34,720 --> 00:49:38,952
+- Killing Tibbett was a mistake.
+- I'm about to make the same one twice.
+
+330
+00:49:39,080 --> 00:49:41,674
+My department know I'm here.
+They'll retaliate.
+
+331
+00:49:42,080 --> 00:49:44,116
+If you're the best they have,
+
+332
+00:49:44,240 --> 00:49:47,391
+they'll more likely try
+to cover up your incompetence.
+
+333
+00:49:47,520 --> 00:49:49,670
+Don't count on it, Zorin.
+
+334
+00:49:49,800 --> 00:49:53,395
+- You amuse me, Mr Bond.
+- Well, it's not mutual.
+
+335
+00:49:54,200 --> 00:49:56,156
+Other side.
+
+336
+00:50:00,440 --> 00:50:02,396
+Open up.
+
+337
+00:52:15,120 --> 00:52:18,112
+- Good morning, Comrade Zorin.
+- General Gogol.
+
+338
+00:52:18,520 --> 00:52:21,876
+- This meeting is ill-advised.
+- A calculated risk.
+
+339
+00:52:22,000 --> 00:52:24,514
+But necessary,
+as you refuse to answer your control.
+
+340
+00:52:24,640 --> 00:52:26,835
+Come to the point, General.
+
+341
+00:52:26,960 --> 00:52:28,996
+You disregard procedure.
+
+342
+00:52:29,120 --> 00:52:33,432
+You did not request approval
+before eliminating 007.
+
+343
+00:52:33,560 --> 00:52:38,998
+- Reprisals might jeopardise operations.
+- You jeopardise mine!
+
+344
+00:52:40,120 --> 00:52:42,793
+Letting the British penetrate
+the Siberian research centre.
+
+345
+00:52:42,920 --> 00:52:44,319
+That was regrettable.
+
+346
+00:52:44,440 --> 00:52:48,319
+Your racing activities
+attract unnecessary attention,
+
+347
+00:52:48,440 --> 00:52:52,911
+but more disturbing are your
+unauthorised commercial ventures.
+
+348
+00:52:53,040 --> 00:52:54,996
+We cannot tolerate that.
+
+349
+00:52:55,120 --> 00:52:58,430
+The issue is irrelevant.
+I've made new associations.
+
+350
+00:52:58,560 --> 00:53:00,710
+I no longer consider myself a KGB agent.
+
+351
+00:53:00,840 --> 00:53:03,673
+We trained you. Financed you.
+
+352
+00:53:04,840 --> 00:53:10,631
+What would you be without us?
+A biological experiment. A freak.
+
+353
+00:53:17,480 --> 00:53:20,517
+Enough of this! Control yourselves.
+
+354
+00:53:25,960 --> 00:53:31,592
+You will come back to us, Comrade.
+No one ever leaves the KGB.
+
+355
+00:53:34,800 --> 00:53:35,596
+Gentlemen.
+
+356
+00:53:35,640 --> 00:53:41,192
+For centuries alchemists
+tried to make gold from base metals.
+
+357
+00:53:41,320 --> 00:53:46,348
+Today we make microchips from silicon,
+which is common sand.
+
+358
+00:53:47,000 --> 00:53:49,275
+But far better than gold.
+
+359
+00:53:50,160 --> 00:53:52,833
+For several years we've had
+a profitable partnership:
+
+360
+00:53:52,960 --> 00:53:58,478
+you as manufacturers, while I passed on
+to you industrial information
+
+361
+00:53:58,600 --> 00:54:02,149
+that made you competitive, successful.
+
+362
+00:54:04,560 --> 00:54:10,430
+We are now in the unique position
+to form an international cartel
+
+363
+00:54:10,560 --> 00:54:16,590
+to control not only production
+but distribution of these microchips.
+
+364
+00:54:18,080 --> 00:54:20,036
+There is one obstacle.
+
+365
+00:54:31,880 --> 00:54:33,836
+Silicon Valley.
+
+366
+00:54:33,960 --> 00:54:36,030
+Near San Francisco.
+
+367
+00:54:36,160 --> 00:54:40,950
+Over 250 plants employing
+thousands of scientists, technicians.
+
+368
+00:54:41,080 --> 00:54:44,516
+This is the heartland of electronic
+production in the United States,
+
+369
+00:54:44,640 --> 00:54:49,395
+which accounts for what -
+80% of the world microchip market.
+
+370
+00:54:49,520 --> 00:54:51,476
+I propose to end
+
+371
+00:54:53,360 --> 00:54:56,557
+the domination of Silicon Valley.
+
+372
+00:54:57,680 --> 00:55:01,753
+- And to leave us in control of that market.
+- What is it you propose?
+
+373
+00:55:01,880 --> 00:55:04,235
+Project Main Strike.
+
+374
+00:55:05,200 --> 00:55:09,193
+For which, each of you will pay me
+one hundred million dollars.
+
+375
+00:55:09,320 --> 00:55:11,834
+A hundred million dollars?!
+
+376
+00:55:11,960 --> 00:55:15,430
+Plus half our net income?
+
+377
+00:55:15,760 --> 00:55:18,797
+Under an exclusive
+marketing agreement with me.
+
+378
+00:55:18,920 --> 00:55:20,638
+These are outrageous terms!
+
+379
+00:55:20,760 --> 00:55:23,832
+Perhaps a demonstration
+would convince you.
+
+380
+00:55:23,960 --> 00:55:26,997
+- I want no part of it, thank you.
+- As you wish.
+
+381
+00:55:29,520 --> 00:55:32,637
+The rest of our discussion
+must of course be confidential.
+
+382
+00:55:32,760 --> 00:55:37,038
+- Would you wait outside?
+- If you'd like me to, yes. Excuse me.
+
+383
+00:55:37,160 --> 00:55:40,197
+May Day will provide you with a drink.
+
+384
+00:55:45,240 --> 00:55:47,196
+This way.
+
+385
+00:56:12,880 --> 00:56:15,075
+So, does anybody else want to drop out?
+
+386
+00:56:25,360 --> 00:56:27,316
+Wow!
+
+387
+00:56:28,920 --> 00:56:30,638
+What a view!
+
+388
+00:56:30,760 --> 00:56:33,115
+To a kill.
+
+389
+00:57:03,080 --> 00:57:04,832
+Five dollars.
+
+390
+00:57:04,960 --> 00:57:06,916
+Thank you.
+
+391
+00:57:10,000 --> 00:57:15,074
+- Looking for something special?
+- Yes. Soft-shell crabs.
+
+392
+00:57:15,200 --> 00:57:17,111
+Might have some in the back.
+
+393
+00:57:18,120 --> 00:57:20,031
+I'll be a few minutes.
+
+394
+00:57:27,600 --> 00:57:31,309
+Chuck Lee, CIA.
+It's a pleasure working with 007.
+
+395
+00:57:31,440 --> 00:57:35,149
+- Thanks. Now what about Zorin?
+- He's in town. I can have him tailed.
+
+396
+00:57:35,280 --> 00:57:37,430
+No, not yet.
+
+397
+00:57:37,560 --> 00:57:42,156
+Conley is a geologist. Runs Zorin's
+oil reclamation project in the East Bay.
+
+398
+00:57:42,280 --> 00:57:45,352
+Last job: chief engineer
+in a South African gold mine.
+
+399
+00:57:45,480 --> 00:57:48,358
+Left in a hurry
+after a cave-in killed 20 miners.
+
+400
+00:57:48,480 --> 00:57:51,631
+Zorin's kind of man!
+What about the girl? And the cheque?
+
+401
+00:57:51,760 --> 00:57:53,955
+You know how many S Suttons
+there are in the US?
+
+402
+00:57:54,080 --> 00:57:56,913
+We watch Zorin's account.
+The cheque hasn't been cashed.
+
+403
+00:57:57,320 --> 00:57:59,959
+- Mortner?
+- Got a real winner here.
+
+404
+00:58:00,080 --> 00:58:05,200
+His real name is Hans Glaub, a German
+pioneer in the development of steroids.
+
+405
+00:58:05,320 --> 00:58:08,118
+That ties in with the horse injections.
+
+406
+00:58:08,240 --> 00:58:12,950
+In World War Il he used steroids on
+pregnant women in concentration camps

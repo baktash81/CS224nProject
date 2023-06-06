@@ -1,0 +1,4705 @@
+1
+00:01:37,087 --> 00:01:39,047
+# Mud #
+
+2
+00:01:40,087 --> 00:01:42,007
+# Sand #
+
+3
+00:01:43,167 --> 00:01:45,487
+# Water #
+
+4
+00:01:45,522 --> 00:01:47,504
+# Straw #
+
+5
+00:01:47,539 --> 00:01:49,452
+# Faster #
+
+6
+00:01:49,487 --> 00:01:52,267
+# Mud, and lift #
+
+7
+00:01:52,302 --> 00:01:54,932
+# Sand, and pull #
+
+8
+00:01:54,967 --> 00:01:57,927
+# Water, and raise up #
+
+9
+00:01:57,962 --> 00:02:00,852
+- # Straw #
+- Faster!
+
+10
+00:02:00,887 --> 00:02:04,187
+# With the sting
+of the whip #
+
+11
+00:02:04,222 --> 00:02:07,314
+- # On my shoulder #
+- Aah!
+
+12
+00:02:07,349 --> 00:02:10,407
+# With the salt of my sweat #
+
+13
+00:02:10,442 --> 00:02:13,532
+# On my brow #
+
+14
+00:02:13,567 --> 00:02:16,612
+# Elohim, God on high #
+
+15
+00:02:16,647 --> 00:02:19,927
+# Can You hear
+Your people cry #
+
+16
+00:02:19,962 --> 00:02:23,304
+# Help us now #
+
+17
+00:02:23,339 --> 00:02:26,013
+# This dark hour #
+
+18
+00:02:26,048 --> 00:02:28,612
+# Deliver us #
+
+19
+00:02:28,647 --> 00:02:31,887
+# Hear our call
+Deliver us #
+
+20
+00:02:31,922 --> 00:02:35,544
+# Lord of all
+remember us #
+
+21
+00:02:35,579 --> 00:02:39,167
+# Here in this burning sand #
+
+22
+00:02:39,202 --> 00:02:41,252
+# Deliver us #
+
+23
+00:02:41,287 --> 00:02:46,527
+# There's a land
+You promised us #
+
+24
+00:02:46,562 --> 00:02:51,767
+# Deliver us
+to the Promised Land #
+
+25
+00:03:02,927 --> 00:03:07,407
+# Yal-di ha-tov
+veh ha-rach #
+
+26
+00:03:09,447 --> 00:03:12,412
+# Al ti-ra veh
+al tif-cha-d #
+
+27
+00:03:12,447 --> 00:03:16,747
+# My son
+I have nothing I can give #
+
+28
+00:03:16,782 --> 00:03:21,047
+# But this chance
+that you may live #
+
+29
+00:03:21,082 --> 00:03:24,372
+# I pray
+we'll meet again #
+
+30
+00:03:24,407 --> 00:03:28,007
+- # If He will deliver us #
+- # Deliver us #
+
+31
+00:03:28,042 --> 00:03:30,292
+- # Hear our prayer #
+- Ohh!
+
+32
+00:03:30,327 --> 00:03:35,687
+- # Deliver us from despair
+These years of slavery #
+
+33
+00:03:35,722 --> 00:03:37,807
+# Grow too cruel to stand #
+
+34
+00:03:38,807 --> 00:03:40,447
+# Deliver us #
+
+35
+00:03:40,487 --> 00:03:44,167
+# There's a land
+You promised us #
+
+36
+00:03:44,202 --> 00:03:46,344
+# Deliver us #
+
+37
+00:03:46,379 --> 00:03:48,487
+# Out of bondage #
+
+38
+00:03:48,522 --> 00:03:51,012
+# And #
+
+39
+00:03:51,047 --> 00:03:52,452
+# Deliver us #
+
+40
+00:03:52,487 --> 00:03:59,927
+# To the Promised Land #
+
+41
+00:04:09,687 --> 00:04:13,052
+# Hush now, my baby #
+
+42
+00:04:13,087 --> 00:04:15,807
+# Be still, love
+Don't cry #
+
+43
+00:04:15,842 --> 00:04:18,527
+# Sleep
+as you're rocked #
+
+44
+00:04:18,562 --> 00:04:23,612
+# By the stream #
+
+45
+00:04:23,647 --> 00:04:26,927
+# Sleep and remember #
+
+46
+00:04:26,962 --> 00:04:30,092
+# My last lullaby #
+
+47
+00:04:30,127 --> 00:04:33,047
+# So I'll be
+with you #
+
+48
+00:04:33,082 --> 00:04:37,447
+# When you dream #
+
+49
+00:04:43,607 --> 00:04:46,987
+# River, oh, river #
+
+50
+00:04:47,022 --> 00:04:50,134
+# Flow gently for me #
+
+51
+00:04:50,169 --> 00:04:53,247
+# Such precious cargo #
+
+52
+00:04:53,282 --> 00:04:56,452
+# You bear #
+
+53
+00:04:56,487 --> 00:04:59,927
+# Do you know somewhere #
+
+54
+00:04:59,962 --> 00:05:03,287
+# He can live free #
+
+55
+00:05:03,322 --> 00:05:05,092
+# River #
+
+56
+00:05:05,127 --> 00:05:10,807
+# Deliver him there #
+
+57
+00:06:32,967 --> 00:06:34,852
+# Brother #
+
+58
+00:06:34,887 --> 00:06:39,807
+# You're safe now
+and safe may you stay #
+
+59
+00:06:39,842 --> 00:06:45,607
+# For I have a prayer
+&ust for you #
+
+60
+00:06:46,727 --> 00:06:49,812
+# Grow, baby brother #
+
+61
+00:06:49,847 --> 00:06:54,467
+- # Come back someday #
+- Mmm.
+
+62
+00:06:54,502 --> 00:06:59,087
+# Come and deliver us too #
+
+63
+00:07:05,767 --> 00:07:07,687
+Mommy!
+
+64
+00:07:09,167 --> 00:07:13,287
+Come, Rameses. We will show Pharaoh
+your new baby brother-
+
+65
+00:07:13,322 --> 00:07:16,292
+Moses.
+
+66
+00:07:16,327 --> 00:07:18,372
+# Deliver us #
+
+67
+00:07:18,407 --> 00:07:22,927
+# Send a shepherd
+to shepherd us #
+
+68
+00:07:22,962 --> 00:07:25,172
+# And deliver us #
+
+69
+00:07:25,207 --> 00:07:31,687
+# To the Promised Land #
+
+70
+00:07:31,722 --> 00:07:33,892
+# Deliver us #
+
+71
+00:07:33,927 --> 00:07:38,047
+# To the Promised #
+
+72
+00:07:38,082 --> 00:07:44,532
+# Land #
+
+73
+00:07:44,567 --> 00:07:49,607
+# Deliver us ##
+
+74
+00:07:55,007 --> 00:07:57,687
+- Ha, ha!
+- Faster, you beasts!
+
+75
+00:07:57,722 --> 00:07:59,567
+You run like mules.
+
+76
+00:08:03,567 --> 00:08:08,687
+- Hey, Rameses, how'd you like your
+face carved on a wall? - Someday, yes.
+
+77
+00:08:08,722 --> 00:08:11,447
+How about now?
+
+78
+00:08:12,647 --> 00:08:16,132
+You almost killed me!
+
+79
+00:08:16,167 --> 00:08:18,527
+Oh, come on.
+Where's your sense of fun?
+
+80
+00:08:18,562 --> 00:08:22,367
+Oh, it's fun you want?
+
+81
+00:08:22,402 --> 00:08:25,367
+Whoa!
+
+82
+00:08:28,047 --> 00:08:30,967
+Whoa! Aah!
+
+83
+00:08:34,407 --> 00:08:36,327
+Ohh. Moses?
+
+84
+00:08:36,362 --> 00:08:39,487
+Whoa!
+
+85
+00:08:42,647 --> 00:08:46,247
+Whoa!
+
+86
+00:08:49,127 --> 00:08:51,047
+Whoa!
+
+87
+00:08:54,207 --> 00:08:57,052
+Come on, you.
+Whoa!
+
+88
+00:08:57,087 --> 00:09:00,087
+Come on, Moses. Admit it.
+You've always looked up to me.
+
+89
+00:09:00,122 --> 00:09:02,727
+Yes, but it's
+not much of a view.
+
+90
+00:09:02,762 --> 00:09:06,404
+Hyah! Whoo!
+
+91
+00:09:06,439 --> 00:09:09,972
+Hey!
+
+92
+00:09:10,007 --> 00:09:13,447
+- Second born, second place.
+- Not for long.
+
+93
+00:09:24,007 --> 00:09:25,527
+Whoa!
+
+94
+00:09:29,887 --> 00:09:33,727
+- Whoa!
+- Aah! Aaah!
+
+95
+00:09:50,247 --> 00:09:53,167
+&ump!
+
+96
+00:10:10,567 --> 00:10:14,487
+Whoa!
+
+97
+00:10:29,567 --> 00:10:32,527
+Whoo!
+
+98
+00:10:34,247 --> 00:10:37,207
+You don't think we'll
+get in trouble for this, do you?
+
+99
+00:10:37,242 --> 00:10:39,087
+No, not a chance.
+
+100
+00:10:39,207 --> 00:10:42,247
+Why do the gods
+torment me...
+
+101
+00:10:42,282 --> 00:10:45,172
+with such reckless,
+destructive,
+
+102
+00:10:45,207 --> 00:10:47,767
+- blasphemous sons?
+- Father, hear what I-
+
+103
+00:10:47,802 --> 00:10:50,367
+Be still!
+Pharaoh speaks.
+
+104
+00:10:51,647 --> 00:10:54,212
+I seek to build
+an empire,
+
+105
+00:10:54,247 --> 00:10:57,047
+and your only thought
+is to amuse yourselves...
+
+106
+00:10:57,082 --> 00:10:58,892
+by tearing it down.
+
+107
+00:10:58,927 --> 00:11:00,812
+Have I taught you nothing?
+
+108
+00:11:00,847 --> 00:11:04,847
+You mustn't be so hard on yourself, Your
+Ma&esty. You're an excellent teacher.
+
+109
+00:11:04,882 --> 00:11:07,847
+It's not your fault
+your sons learned nothing.
+
+110
+00:11:07,882 --> 00:11:09,767
+- They learned blasphemy.
+- True.
+
+111
+00:11:09,802 --> 00:11:12,812
+Father,
+the fault is mine.
+
+112
+00:11:12,847 --> 00:11:15,847
+I goaded Rameses on,
+and so I am responsible.
+
+113
+00:11:15,882 --> 00:11:18,332
+Hmm.
+Responsible.
+
+114
+00:11:18,367 --> 00:11:21,367
+Do you know the meaning
+of that word, Rameses?
+
+115
+00:11:21,402 --> 00:11:23,212
+I understand, Father.
+
+116
+00:11:23,247 --> 00:11:27,287
+And do you understand the task for which
+your birth has destined you?
+
+117
+00:11:27,322 --> 00:11:29,612
+The ancient traditions.
+
+118
+00:11:29,647 --> 00:11:31,852
+When I pass
+into the next world,
+
+119
+00:11:31,887 --> 00:11:34,892
+then you will be
+the morning and evening star.
+
+120
+00:11:34,927 --> 00:11:37,607
+One damaged temple does not
+destroy centuries of tradition.
+
+121
+00:11:37,642 --> 00:11:40,727
+But one weak link
+can break the chain...
+
+122
+00:11:40,762 --> 00:11:44,607
+of a mighty dynasty!
+
+123
+00:11:52,287 --> 00:11:54,767
+You have my leave to go.
+
+124
+00:11:54,802 --> 00:11:56,687
+Father.
+
+125
+00:12:09,447 --> 00:12:11,332
+Father?
+
+126
+00:12:11,367 --> 00:12:14,567
+You know it was
+really my fault.
+
+127
+00:12:14,602 --> 00:12:17,692
+Must you be
+so hard on him?
+
+128
+00:12:17,727 --> 00:12:21,487
+Moses, you will never
+have to carry a burden...
+
+129
+00:12:21,522 --> 00:12:24,492
+like the crown
+I will pass to Rameses.
+
+130
+00:12:24,527 --> 00:12:29,447
+He must not allow himself
+to be led astray,
+
+131
+00:12:29,482 --> 00:12:32,247
+not even by you, my son.
+
+132
+00:12:33,767 --> 00:12:37,107
+All he cares about is-
+is your approval.
+
+133
+00:12:37,142 --> 00:12:40,447
+I know he will live up
+to your expectations.
+
+134
+00:12:40,482 --> 00:12:42,927
+He only needs
+the opportunity.
+
+135
+00:12:42,962 --> 00:12:45,727
+Maybe. Maybe so.
+
+136
+00:12:47,247 --> 00:12:50,447
+Go now. I shall
+see you both tonight.
+
+137
+00:13:04,087 --> 00:13:06,927
+- Well, that went well.
+- &ust go away.
+
+138
+00:13:06,962 --> 00:13:08,772
+Could have been worse.
+
+139
+00:13:08,807 --> 00:13:12,367
+"The weak link in the chain. "
+That's what he called me.
+
+140
+00:13:14,327 --> 00:13:17,252
+Well, you are
+rather pathetic.
+
+141
+00:13:17,287 --> 00:13:20,212
+Irresponsible,
+ignorant of the traditions.
+
+142
+00:13:20,247 --> 00:13:23,167
+He practically accused me
+of bringing down the dynasty.
+
+143
+00:13:23,202 --> 00:13:25,807
+Yeah, I can see it now.
+There go the pyramids!
+
+144
+00:13:25,842 --> 00:13:29,052
+You can laugh about it.
+
+145
+00:13:29,087 --> 00:13:32,652
+Statues cracking and toppling over.
+The Nile drying up.
+
+146
+00:13:32,687 --> 00:13:37,527
+Single-handedly, you will manage to bring
+the greatest kingdom on Earth to ruin.
+
+147
+00:13:37,562 --> 00:13:39,292
+Tell me this, Moses.
+
+148
+00:13:39,327 --> 00:13:41,687
+Why is it that every time
+you start something,
+
+149
+00:13:41,722 --> 00:13:44,407
+I'm the one
+who ends up in trouble?
+
+150
+00:13:44,442 --> 00:13:47,172
+Ah, man! Oh.
+
+151
+00:13:47,207 --> 00:13:51,107
+- Ah, it's Rameses. You're in trouble.
+- Get down here!
+
+152
+00:13:51,142 --> 00:13:55,007
+- I think you owe us an apology.
+- Oh, my new thing!
+
+153
+00:13:55,042 --> 00:13:57,732
+- I am so upset!
+- You might as well.
+
+154
+00:13:57,767 --> 00:14:00,287
+- You'll pay for this.
+- We're gonna tell the Pharaoh!
+
+155
+00:14:00,322 --> 00:14:03,332
+Hmm.
+
+156
+00:14:03,367 --> 00:14:07,367
+- Oh, look at me. I'm drenched again.
+- Hey. I figured it out.
+
+157
+00:14:07,402 --> 00:14:09,892
+- You know what your problem is, Rameses?
+- What?
+
+158
+00:14:09,927 --> 00:14:13,807
+- You care too much. - And your
+problem is, you don't care at all.
+
+159
+00:14:13,842 --> 00:14:16,647
+Oh, in that case, I suppose
+you care a lot more than I do...
+
+160
+00:14:16,682 --> 00:14:20,367
+that we're late for the banquet,
+for example.
+
+161
+00:14:20,447 --> 00:14:23,532
+I'm done for.
+
+162
+00:14:23,567 --> 00:14:26,407
+- Father will kill me.
+- Don't worry.
+
+163
+00:14:26,442 --> 00:14:29,247
+Nobody will even
+notice us coming in.
+
+164
+00:14:33,727 --> 00:14:37,087
+"Nobody will
+even notice. "
+
+165
+00:14:39,887 --> 00:14:41,972
+Ah, the young princes.
+
+166
+00:14:42,007 --> 00:14:44,932
+Rameses, you were &ust
+named prince regent.
+
+167
+00:14:44,967 --> 00:14:49,207
+You are now responsible
+for overseeing all the temples.
+
+168
+00:14:49,242 --> 00:14:51,927
+I suggest
+you get over there...
+
+169
+00:14:51,962 --> 00:14:54,564
+and thank your father.
+
+170
+00:14:54,599 --> 00:14:56,883
+Apparently, Moses,
+
+171
+00:14:56,918 --> 00:14:59,132
+someone thought he...
+
+172
+00:14:59,167 --> 00:15:02,127
+&ust needed
+the opportunity.
+
+173
+00:15:03,247 --> 00:15:05,732
+My lord Pharaoh.
+
+174
+00:15:05,767 --> 00:15:08,487
+I propose that the high priests
+offer tribute...
+
+175
+00:15:08,522 --> 00:15:10,332
+to their new regent.
+
+176
+00:15:10,367 --> 00:15:12,967
+An excellent idea.
+Hotep! Huy!
+
+177
+00:15:13,002 --> 00:15:14,732
+- Huy.
+- Hmm?
+
+178
+00:15:14,767 --> 00:15:16,807
+- The Midian girl.
+- That's a good idea!
+
+179
+00:15:16,842 --> 00:15:18,727
+Go get her.
+
+180
+00:15:19,687 --> 00:15:22,052
+By the power of Ra,
+
+181
+00:15:22,087 --> 00:15:25,727
+we present for your
+delectation and delight...
+
+182
+00:15:25,762 --> 00:15:29,367
+an exotic apparition
+stolen from a faraway land.
+
+183
+00:15:36,767 --> 00:15:40,767
+- We offer you this
+delicate desert flower.
+
+184
+00:15:47,207 --> 00:15:50,007
+Let us inspect
+this... desert flower.
+
+185
+00:15:51,407 --> 00:15:53,972
+More like a desert cobra.
+
+186
+00:15:54,007 --> 00:15:56,767
+Not much of a snake
+charmer, are you?
+
+187
+00:15:56,802 --> 00:15:59,012
+That's why I
+give her to you.
+
+188
+00:15:59,047 --> 00:16:02,647
+- No, that's generous, but-
+- I won't be given to anyone.
+
+189
+00:16:02,682 --> 00:16:05,764
+Especially an arrogant,
+pampered palace brat!
+
+190
+00:16:05,799 --> 00:16:08,772
+Are you going to
+let her talk to you like that?
+
+191
+00:16:08,807 --> 00:16:11,887
+You will show the proper respect
+for a prince of Egypt.
+
+192
+00:16:11,922 --> 00:16:14,367
+But I am showing you
+all the respect you deserve-
+
+193
+00:16:14,402 --> 00:16:15,732
+none!
+
+194
+00:16:15,767 --> 00:16:18,972
+No. Wait!
+
+195
+00:16:19,007 --> 00:16:21,252
+- Be still.
+- Untie this rope!
+
+196
+00:16:21,287 --> 00:16:23,207
+- I demand you set me free!
+- Be still.
+
+197
+00:16:23,242 --> 00:16:26,247
+- Let go!
+- As you wish.
+
+198
+00:16:26,282 --> 00:16:28,567
+Aah! Ohh!
+
+199
+00:16:36,607 --> 00:16:39,972
+You there!
+
+200
+00:16:40,007 --> 00:16:41,932
+Have her dried off...
+
+201
+00:16:41,967 --> 00:16:45,372
+and sent to
+Prince Moses' chambers.
+
+202
+00:16:45,407 --> 00:16:49,167
+If it pleases you,
+Father, my first act as regent...
+
+203
+00:16:49,202 --> 00:16:51,087
+is to appoint Moses...
+
+204
+00:16:51,122 --> 00:16:53,647
+as royal chief...
+
+205
+00:16:53,682 --> 00:16:55,687
+architect.
+
+206
+00:17:21,167 --> 00:17:23,827
+Well-
+
+207
+00:17:23,862 --> 00:17:26,487
+Right.
+
+208
+00:17:41,167 --> 00:17:44,047
+Shh. Come on.
+
+209
+00:17:52,647 --> 00:17:54,492
+Guards.
+
+210
+00:17:54,527 --> 00:17:57,047
+Prince Moses.
+
+211
+00:17:59,607 --> 00:18:01,687
+Uh...
+
+212
+00:18:02,887 --> 00:18:05,487
+there's a-a man
+tied up in my room.
+
+213
+00:18:06,727 --> 00:18:09,447
+- Well, look into it.
+- Right away, sire.
+
+214
+00:18:23,287 --> 00:18:25,892
+Please, I need water.
+
+215
+00:18:25,927 --> 00:18:29,047
+- I have a long &ourney ahead of me.
+- May God protect you.
+
+216
+00:18:29,082 --> 00:18:31,447
+Thank you.
+
+217
+00:18:33,087 --> 00:18:35,007
+Hut-hut.
+
+218
+00:18:45,687 --> 00:18:50,287
+- Oh. Oh, I'm sorry.
+I'm so sorry. I-
+
+219
+00:18:50,322 --> 00:18:52,612
+Oh, please forgive me. I-
+
+220
+00:18:52,647 --> 00:18:56,087
+I didn't expect
+to see... you...
+
+221
+00:18:56,122 --> 00:18:58,224
+here, of all places,
+
+222
+00:18:58,259 --> 00:19:00,252
+at-at-at our door.
+
+223
+00:19:00,287 --> 00:19:03,812
+- Mmm, at last!
+- At last?
+
+224
+00:19:03,847 --> 00:19:06,487
+Didn't I tell you, Aaron? I knew he
+would return to us when he was ready.
+
+225
+00:19:06,522 --> 00:19:08,404
+Miriam, do you
+want us flogged?
+
+226
+00:19:08,439 --> 00:19:10,252
+I knew you cared
+about our freedom.
+
+227
+00:19:10,287 --> 00:19:12,687
+- Miriam!
+- Freedom? Why would I care about that?
+
+228
+00:19:12,722 --> 00:19:16,527
+Because you're-
+well, you're our brother.
+
+229
+00:19:16,562 --> 00:19:18,367
+- What?
+- Be-
+
+230
+00:19:21,967 --> 00:19:24,927
+- They never told you?
+- Who never told me what?
+
+231
+00:19:27,247 --> 00:19:29,252
+But you're here.
+You must know.
+
+232
+00:19:29,287 --> 00:19:32,227
+- Be careful, slave!
+- Oh, my good prince.
+
+233
+00:19:32,262 --> 00:19:35,167
+Um, she's-she's exhausted
+from the day's work.
+
+234
+00:19:35,202 --> 00:19:37,064
+Uh, not that it
+was too much.
+
+235
+00:19:37,099 --> 00:19:38,892
+We- We quite
+enjoyed it.
+
+236
+00:19:38,927 --> 00:19:41,727
+But-But she's confused
+and knows not to whom she speaks.
+
+237
+00:19:41,762 --> 00:19:45,487
+I know to whom I speak, Aaron.
+I know who you are.
+
+238
+00:19:45,522 --> 00:19:47,812
+- You are not a prince of Egypt.
+- Miriam.
+
+239
+00:19:47,847 --> 00:19:50,507
+- What did you say?
+- Your Highness, pay her no heed.
+
+240
+00:19:50,542 --> 00:19:52,994
+C- Come, Miriam.
+May I discuss something with you?
+
+241
+00:19:53,029 --> 00:19:55,412
+No, Aaron. No!
+Please, Moses, you must believe!
+
+242
+00:19:55,447 --> 00:19:57,927
+- That's enough.
+- You were born of my mother, Yocheved.
+
+243
+00:19:57,962 --> 00:20:00,012
+- Stop it.
+- You are our brother!
+
+244
+00:20:00,047 --> 00:20:02,927
+Now you go too far.
+You shall be punished.
+
+245
+00:20:02,962 --> 00:20:06,132
+No! Please, uh,
+Your Highness.
+
+246
+00:20:06,167 --> 00:20:09,047
+She's ill. She's very ill.
+We beg your forgiveness.
+
+247
+00:20:09,082 --> 00:20:11,212
+- Please, Miriam, let us go.
+- No, Aaron.
+
+248
+00:20:11,247 --> 00:20:14,367
+Our mother set you adrift
+in a basket to save your life!
+
+249
+00:20:14,402 --> 00:20:16,412
+Save my life?
+From who?
+
+250
+00:20:16,447 --> 00:20:18,607
+Ask the man
+that you call "Father. "
+
+251
+00:20:20,007 --> 00:20:23,532
+- How dare you?
+- God saved you to be our deliverer.
+
+252
+00:20:23,567 --> 00:20:27,447
+- Enough of this.
+- And you are, Moses. You are the deliverer.
+
+253
+00:20:27,482 --> 00:20:29,247
+I said, enough!
+
+254
+00:20:30,887 --> 00:20:33,287
+You will regret
+this night.
+
+255
+00:20:40,567 --> 00:20:44,732
+# Hush now, my baby #
+
+256
+00:20:44,767 --> 00:20:48,167
+# Be still, love
+Don't cry #
+
+257
+00:20:49,607 --> 00:20:52,207
+# Sleep
+as you're rocked #
+
+258
+00:20:52,242 --> 00:20:55,527
+# By the stream #
+
+259
+00:20:56,727 --> 00:21:00,667
+# Sleep and remember #
+
+260
+00:21:00,702 --> 00:21:04,474
+# My last lullaby #
+
+261
+00:21:04,509 --> 00:21:08,598
+# So I'll be with you #
+
+262
+00:21:08,633 --> 00:21:12,687
+# When you dream ##
+
+263
+00:21:28,167 --> 00:21:31,887
+Did you see him? It's Moses.
+
+264
+00:21:50,567 --> 00:21:54,332
+# Gleaming in the moonlight #
+
+265
+00:21:54,367 --> 00:21:58,207
+# Cool and clean
+and all I've ever known #
+
+266
+00:21:58,242 --> 00:22:00,527
+# All I ever wanted #
+
+267
+00:22:02,367 --> 00:22:05,207
+# Sweet perfumes
+of incense #
+
+268
+00:22:06,407 --> 00:22:09,407
+# And graceful rooms
+of alabaster stone #
+
+269
+00:22:09,442 --> 00:22:12,704
+# All I ever wanted #
+
+270
+00:22:12,739 --> 00:22:15,932
+# This is my home #
+
+271
+00:22:15,967 --> 00:22:18,147
+# With my father
+mother, brother #
+
+272
+00:22:18,182 --> 00:22:20,327
+# Oh, so noble
+Oh, so strong #
+
+273
+00:22:20,362 --> 00:22:23,772
+# Now I am home #
+
+274
+00:22:23,807 --> 00:22:26,887
+# Here among my trappings
+and belongings #
+
+275
+00:22:26,922 --> 00:22:29,212
+# I belong #
+
+276
+00:22:29,247 --> 00:22:32,527
+# And if anybody doubts it #
+
+277
+00:22:32,562 --> 00:22:35,652
+# They couldn't
+be more wrong #
+
+278
+00:22:35,687 --> 00:22:38,212
+# I am a sovereign
+prince of Egypt #
+
+279
+00:22:38,247 --> 00:22:41,687
+# A son of the proud history
+that's shown #
+
+280
+00:22:41,722 --> 00:22:46,092
+# Etched on every wall #
+
+281
+00:22:46,127 --> 00:22:49,487
+# Surely this is all
+I ever wanted #
+
+282
+00:22:49,522 --> 00:22:53,207
+# All I ever wanted #
+
+283
+00:22:53,242 --> 00:22:57,064
+# All I ever #
+
+284
+00:22:57,099 --> 00:23:00,887
+# Wanted ##
+
+285
+00:25:42,127 --> 00:25:45,127
+The Hebrews grew
+too numerous.
+
+286
+00:25:46,047 --> 00:25:48,947
+They might have risen
+against us.
+
+287
+00:25:48,982 --> 00:25:51,847
+Father, tell me
+you didn't do this.
+
+288
+00:25:51,882 --> 00:25:54,452
+Moses,
+
+289
+00:25:54,487 --> 00:25:58,607
+sometimes,
+for the greater good,
+
+290
+00:25:58,642 --> 00:26:01,887
+sacrifices must be made.
+
+291
+00:26:08,567 --> 00:26:10,527
+Sacrifices?
+
+292
+00:26:13,487 --> 00:26:16,092
+Oh, my son.
+
+293
+00:26:16,127 --> 00:26:19,367
+They were only slaves.
+
+294
+00:26:36,647 --> 00:26:39,412
+Moses?
+
+295
+00:26:39,447 --> 00:26:42,132
+Is this where
+you found me?
+
+296
+00:26:42,167 --> 00:26:45,687
+Moses, please try
+to understand.
+
+297
+00:26:48,687 --> 00:26:52,707
+So- So everything
+I thought,
+
+298
+00:26:52,742 --> 00:26:56,727
+everything I am,
+is a lie.
+
+299
+00:26:56,762 --> 00:26:58,492
+No.
+
+300
+00:26:58,527 --> 00:27:02,087
+You are our son,
+and we love you.
+
+301
+00:27:03,527 --> 00:27:06,087
+Why did you choose me?
+
+302
+00:27:06,122 --> 00:27:08,544
+We didn't, Moses.
+
+303
+00:27:08,579 --> 00:27:10,967
+The gods did.
+
+304
+00:27:17,167 --> 00:27:20,187
+# This is your home
+my son #
+
+305
+00:27:20,222 --> 00:27:23,974
+# Here the river
+brought you #
+
+306
+00:27:24,009 --> 00:27:27,727
+# And it's here
+the river meant #
+
+307
+00:27:27,762 --> 00:27:30,932
+# To be your home #
+
+308
+00:27:30,967 --> 00:27:34,227
+# Now you know
+the truth, love #
+
+309
+00:27:34,262 --> 00:27:37,372
+# Now forget
+and be content #
+
+310
+00:27:37,407 --> 00:27:41,387
+# When the gods
+send you a blessing #
+
+311
+00:27:41,422 --> 00:27:45,367
+# You don't ask why
+it was sent ##
+
+312
+00:28:01,167 --> 00:28:04,812
+Last night, the gods
+granted me a vision.
+
+313
+00:28:04,847 --> 00:28:09,047
+I'm not merely going to restore
+this temple, I will make it more grand,
+
+314
+00:28:09,082 --> 00:28:12,407
+more splendid
+than any other one in Egypt.
+
+315
+00:28:31,687 --> 00:28:33,932
+Aah.
+
+316
+00:28:33,967 --> 00:28:35,887
+- Get up!
+- Aah!
+
+317
+00:28:42,727 --> 00:28:45,052
+Moses! Look.
+
+318
+00:28:45,087 --> 00:28:49,207
+Fate has turned our little misadventure
+into a great opportunity.
+
+319
+00:28:49,242 --> 00:28:51,847
+- Get up, old man!
+- Father will be so pleased-
+
+320
+00:28:51,882 --> 00:28:55,887
+Put your back into it!
+
+321
+00:28:55,922 --> 00:28:58,612
+Faster!
+
+322
+00:28:58,647 --> 00:29:00,612
+This is &ust
+the beginning.
+
+323
+00:29:00,647 --> 00:29:04,367
+A gateway will open to an entire
+new city of white limestone,
+
+324
+00:29:04,402 --> 00:29:06,584
+more dazzling
+than the sun.
+
+325
+00:29:06,619 --> 00:29:08,767
+And here, a statue of Hapi.
+
+326
+00:29:08,802 --> 00:29:10,572
+I said, hurry!
+
+327
+00:29:10,607 --> 00:29:13,292
+- ... two great column halls.
+- Stop it!
+
+328
+00:29:13,327 --> 00:29:15,367
+- Somebody's got to stop this!
+- There's nothing we can do.
+
+329
+00:29:27,127 --> 00:29:29,012
+Stop it.
+
+330
+00:29:29,047 --> 00:29:30,932
+Stop. Stop it!
+
+331
+00:29:30,967 --> 00:29:34,487
+- Leave that man alone!
+- Moses!
+
+332
+00:29:44,487 --> 00:29:48,767
+Out of my way.
+Out of my way. Move!
+
+333
+00:29:48,802 --> 00:29:50,612
+Who did this?
+
+334
+00:29:50,647 --> 00:29:54,607
+Up there! It's him.
+Up there.
+
+335
+00:30:06,727 --> 00:30:08,167
+Moses!
+
+336
+00:30:19,527 --> 00:30:22,487
+Moses, what's going on?
+Moses!
+
+337
+00:30:30,207 --> 00:30:32,767
+Moses!
+
+338
+00:30:34,287 --> 00:30:36,732
+- Moses!
+- Let me go!
+
+339
+00:30:36,767 --> 00:30:40,367
+- No, wait. - You saw what happened.
+I &ust killed a man.
+
+340
+00:30:40,402 --> 00:30:42,892
+We can take care
+of that.
+
+341
+00:30:42,927 --> 00:30:45,092
+I will make it
+so it never happened.
+
+342
+00:30:45,127 --> 00:30:48,307
+Nothing you can say
+can change what I've done.
+
+343
+00:30:48,342 --> 00:30:51,274
+I am Egypt, the morning
+and the evening star.
+
+344
+00:30:51,309 --> 00:30:54,207
+If I say day is night,
+it will be written,
+
+345
+00:30:54,242 --> 00:30:57,047
+and you will be
+what I say you are.
+
+346
+00:30:57,082 --> 00:30:59,132
+I say you are innocent.
+
+347
+00:30:59,167 --> 00:31:02,767
+What you say does not matter.
+You don't understand.
+
+348
+00:31:02,802 --> 00:31:04,647
+I can't stay here
+any longer.
+
+349
+00:31:04,682 --> 00:31:06,492
+- Moses!
+- No!
+
+350
+00:31:06,527 --> 00:31:10,287
+All I've ever known
+to be true is a lie.
+
+351
+00:31:12,607 --> 00:31:15,187
+I'm not who
+you think I am.
+
+352
+00:31:15,222 --> 00:31:17,692
+What are you
+talking about?
+
+353
+00:31:17,727 --> 00:31:21,367
+Go ask the man
+I once called "Father. "
+
+354
+00:31:24,047 --> 00:31:27,007
+Moses?
+
+355
+00:31:27,927 --> 00:31:29,807
+Please.
+
+356
+00:31:36,767 --> 00:31:39,207
+Good-bye, brother.
+
+357
+00:31:43,927 --> 00:31:45,887
+Moses!
+
+358
+00:31:47,007 --> 00:31:48,927
+Moses!
+
+359
+00:32:50,887 --> 00:32:53,047
+No.
+
+360
+00:32:55,607 --> 00:32:58,127
+Aah!
+
+361
+00:33:47,807 --> 00:33:50,647
+Aaah!
+
+362
+00:33:58,607 --> 00:34:02,487
+Hey, wait.
+
+363
+00:34:04,047 --> 00:34:06,007
+Please.
+
+364
+00:34:15,807 --> 00:34:17,927
+Ohh!
+
+365
+00:34:19,287 --> 00:34:22,247
+Oh!
+
+366
+00:34:28,447 --> 00:34:30,332
+What are you doing?
+
+367
+00:34:30,367 --> 00:34:33,327
+- Help!
+- Let our sheep drink!
+
+368
+00:34:33,362 --> 00:34:36,287
+Leave us alone!
+Get away!
+
+369
+00:34:36,322 --> 00:34:40,652
+Stop it!
+
+370
+00:34:40,687 --> 00:34:43,107
+My father's
+the high priest of Midian.
+
+371
+00:34:43,142 --> 00:34:45,527
+You're going to be
+in big trouble.
+
+372
+00:34:45,562 --> 00:34:48,452
+- Aah!
+- Hey, you.
+
+373
+00:34:48,487 --> 00:34:51,167
+Aren't these
+your camels?
+
+374
+00:34:52,327 --> 00:34:54,967
+- Hut-hut!
+- No, no! No, no!
+
+375
+00:34:55,002 --> 00:34:57,287
+- Wait!
+- Wait, stop!
+
+376
+00:35:03,727 --> 00:35:05,647
+Whoa!
+
+377
+00:35:12,927 --> 00:35:14,812
+What are you girls
+doing?
+
+378
+00:35:14,847 --> 00:35:17,327
+We're trying to get the funny man
+out of the well.
+
+379
+00:35:17,362 --> 00:35:19,924
+Trying to get the funny man
+out of the well.
+
+380
+00:35:19,959 --> 00:35:22,983
+- Well, that's one
+I've never heard before.
+
+381
+00:35:23,018 --> 00:35:26,007
+Oh, my.
+Oh, uh, don't worry down there!
+
+382
+00:35:26,042 --> 00:35:28,127
+Uh, we'll get you out.
+Hold on!
+
+383
+00:35:32,007 --> 00:35:34,507
+You.
+
+384
+00:35:34,542 --> 00:35:37,054
+Huh?
+
+385
+00:35:37,089 --> 00:35:39,567
+Ohh!
+
+386
+00:35:42,007 --> 00:35:43,927
+Mm-hmm.
+
+387
+00:35:45,807 --> 00:35:49,847
+That's why Papa says
+she'll never get married.
+
+388
+00:35:53,447 --> 00:35:57,487
+You don't have to do this. Ladies,
+please, I'm really- I'm really quite-
+
+389
+00:35:57,522 --> 00:35:59,772
+No, not there, please.
+
+390
+00:35:59,807 --> 00:36:02,527
+That tickles. Ladies,
+you've cleaned every inch of me.
+
+391
+00:36:02,562 --> 00:36:04,612
+Whoa, I- I was wrong.
+
+392
+00:36:04,647 --> 00:36:08,327
+Let me through. Let me through.
+I want to see him.
+
+393
+00:36:08,362 --> 00:36:12,172
+Ah! You are most welcome.
+
+394
+00:36:12,207 --> 00:36:14,767
+You should not be
+a stranger in this land.
+
+395
+00:36:14,802 --> 00:36:17,212
+You have been sent
+as a blessing.
+
+396
+00:36:17,247 --> 00:36:20,447
+Tonight, you shall be my honored guest.
+
+397
+00:36:22,607 --> 00:36:26,247
+My father, &ethro,
+High Priest of Midian.
+
+398
+00:36:34,687 --> 00:36:37,407
+Psst. Sit with me.
+
+399
+00:36:37,442 --> 00:36:40,127
+Um, all right.
+
+400
+00:36:42,607 --> 00:36:45,332
+Psst. Not yet.
+
+401
+00:36:45,367 --> 00:36:48,052
+- Oh, sorry.
+- My children,
+
+402
+00:36:48,087 --> 00:36:52,207
+let us give thanks
+for this bountiful food.
+
+403
+00:36:53,327 --> 00:36:55,932
+And let us also give thanks
+for the presence...
+
+404
+00:36:55,967 --> 00:36:59,767
+of this brave, young man
+whom we honor here tonight.
+
+405
+00:36:59,802 --> 00:37:03,892
+Please, sir, I wish you wouldn't.
+
+406
+00:37:03,927 --> 00:37:07,007
+I've done nothing in my life
+worth honoring.
+
+407
+00:37:10,607 --> 00:37:13,932
+First, you rescue Tzipporah
+from Egypt,
+
+408
+00:37:13,967 --> 00:37:16,967
+- then you defend my younger
+daughters from brigands.
+
+409
+00:37:17,002 --> 00:37:20,052
+You think that is nothing?
+
+410
+00:37:20,087 --> 00:37:23,567
+It seems you do not know
+what is worthy of honor.
+
+411
+00:37:23,602 --> 00:37:25,984
+# A single thread
+in a tapestry #
+
+412
+00:37:26,019 --> 00:37:28,367
+# Though its color
+brightly shine #
+
+413
+00:37:28,402 --> 00:37:30,452
+# Can never see
+its purpose #
+
+414
+00:37:30,487 --> 00:37:33,287
+# In a pattern
+of the grand design #
+
+415
+00:37:34,567 --> 00:37:36,967
+# And the stone that sits
+on the very top #
+
+416
+00:37:37,002 --> 00:37:39,104
+# Of the mountain's
+mighty face #
+
+417
+00:37:39,139 --> 00:37:42,273
+# Does it think
+it's more important #
+
+418
+00:37:42,308 --> 00:37:45,292
+# Than the stones
+that form the base #
+
+419
+00:37:45,327 --> 00:37:47,927
+# So how can you see
+what your life is worth #
+
+420
+00:37:47,962 --> 00:37:50,132
+# Or where
+your value lies #
+
+421
+00:37:50,167 --> 00:37:54,127
+# You can never see
+through the eyes of man #
+
+422
+00:37:54,162 --> 00:37:56,532
+# You must look
+at your life #
+
+423
+00:37:56,567 --> 00:37:59,852
+# Look at your life
+through heaven's eyes #
+
+424
+00:37:59,887 --> 00:38:02,647
+# La-la-la-la-la-la-la
+La-la-la-la-la-la-la-la #
+
+425
+00:38:02,682 --> 00:38:04,684
+# La, la-la-la-la-la-la #
+
+426
+00:38:04,719 --> 00:38:06,652
+# La-la-la-la-la-la #
+
+427
+00:38:06,687 --> 00:38:10,727
+- # Lai-lai-lai, lai-lai-lai-lai
+Lai-lai-lai, lai-lai-la # - Dance with me.
+
+428
+00:38:10,762 --> 00:38:14,167
+No, I don't know how.
+
+429
+00:38:23,487 --> 00:38:25,447
+# A lake of gold
+in the desert sand #
+
+430
+00:38:25,482 --> 00:38:27,564
+# Is less than
+a cool, fresh spring #
+
+431
+00:38:27,599 --> 00:38:29,783
+# And to one lost sheep
+a shepherd boy #
+
+432
+00:38:29,818 --> 00:38:31,967
+# Is greater
+than the richest king #
+
+433
+00:38:33,287 --> 00:38:36,007
+# If a man lose
+everything he owns #
+
+434
+00:38:36,042 --> 00:38:38,087
+# Has he truly
+lost his worth #
+
+435
+00:38:38,122 --> 00:38:40,132
+# Or is it the beginning #
+
+436
+00:38:40,167 --> 00:38:44,092
+# Of a new and brighter birth #
+
+437
+00:38:44,127 --> 00:38:46,727
+# So how do you measure
+the worth of a man #
+
+438
+00:38:46,762 --> 00:38:48,852
+# In wealth or strength
+or size #
+
+439
+00:38:48,887 --> 00:38:53,007
+# In how much he gained
+or how much he gave #
+
+440
+00:38:53,042 --> 00:38:55,332
+# The answer will come #
+
+441
+00:38:55,367 --> 00:38:59,127
+# The answer will come
+to him who tries #
+
+442
+00:38:59,162 --> 00:39:02,424
+# To look at his life
+through heaven's eyes #
+
+443
+00:39:02,459 --> 00:39:05,687
+# And that's why we share
+all we have with you #
+
+444
+00:39:05,722 --> 00:39:07,964
+# Though there's little
+to be found #
+
+445
+00:39:07,999 --> 00:39:10,343
+# When all you've got
+is nothing #
+
+446
+00:39:10,378 --> 00:39:12,687
+# There's a lot
+to go around #
+
+447
+00:39:14,567 --> 00:39:17,167
+# No life can escape
+being blown about #
+
+448
+00:39:17,202 --> 00:39:19,652
+# By the winds
+of change and chance #
+
+449
+00:39:19,687 --> 00:39:22,487
+- # And though you never know
+all the steps # - Dance with me.
+
+450
+00:39:22,522 --> 00:39:26,807
+- No, I- No. No!
+- # You must learn to &oin the dance #
+
+451
+00:39:26,842 --> 00:39:30,247
+# You must learn
+to &oin the dance #
+
+452
+00:39:30,282 --> 00:39:32,892
+# La-la-la
+Lee-lai-lai-lai #
+
+453
+00:39:32,927 --> 00:39:35,172
+# Lai-lai-lai-lai
+Lai-lai-lai-lai #
+
+454
+00:39:35,207 --> 00:39:38,947
+# Lai-lai-lai-lai, lee-lai-lai
+Lai-lai-lai-lai, lai-lai-lai #
+
+455
+00:39:38,982 --> 00:39:43,114
+# Lai-lai-lai-lai, lee-lai-lai,
+lai-lai-lai-lai, lai-lai-lai #
+
+456
+00:39:43,149 --> 00:39:46,498
+# Lai-lai-lai-lai, lee-lai-lai
+Lai-lai-lai-lai-lai-lai-lai #
+
+457
+00:39:46,533 --> 00:39:49,847
+# Lai-lai-lai-lai, lee-lai-lai
+Lai-lai-lai-lai, lai-lai-lai #
+
+458
+00:39:49,882 --> 00:39:53,847
+# Lai-lai-lai-lai, lee-lai-lai
+Lai-lai-lai-lai-lai #
+
+459
+00:39:53,882 --> 00:39:57,567
+# So how do you &udge
+what a man is worth #
+
+460
+00:39:57,602 --> 00:40:00,052
+# By what he builds
+or buys #
+
+461
+00:40:00,087 --> 00:40:02,847
+# You can never see
+with your eyes on earth #
+
+462
+00:40:02,882 --> 00:40:05,087
+# Look through
+heaven's eyes #
+
+463
+00:40:05,122 --> 00:40:09,092
+# Look at your life #
+
+464
+00:40:09,127 --> 00:40:13,567
+# Look at your life
+through heaven's #
+
+465
+00:40:13,602 --> 00:40:21,447
+# Eyes ##
+
+466
+00:40:33,087 --> 00:40:35,047
+Mmm.
+
+467
+00:40:36,727 --> 00:40:38,687
+I love you.
+
+468
+00:40:55,367 --> 00:40:57,287
+Ahh!
+
+469
+00:41:17,087 --> 00:41:19,567
+It's too early
+for this.
+
+470
+00:42:16,047 --> 00:42:18,487
+Moses.
+
+471
+00:42:20,567 --> 00:42:22,527
+Moses.
+
+472
+00:42:23,927 --> 00:42:27,447
+Moses.
+
+473
+00:42:30,407 --> 00:42:32,367
+Here I am.
+
+474
+00:42:33,847 --> 00:42:37,772
+Take the sandals
+from your feet,
+
+475
+00:42:37,807 --> 00:42:41,887
+for the place on which you stand
+is holy ground.
+
+476
+00:42:49,087 --> 00:42:51,007
+Who are you?
+
+477
+00:42:52,567 --> 00:42:55,567
+I am that I am.
+
+478
+00:42:57,687 --> 00:42:59,772
+I don't understand.
+
+479
+00:42:59,807 --> 00:43:03,407
+I am the God of your ancestors,
+
+480
+00:43:03,442 --> 00:43:06,767
+Abraham, Isaac
+and &acob.
+
+481
+00:43:09,407 --> 00:43:13,327
+You were born of my
+mother, Yocheved. You are our brother.
+
+482
+00:43:15,487 --> 00:43:18,647
+What do You want
+with me?
+
+483
+00:43:20,167 --> 00:43:24,447
+I have seen the oppression
+of My people in Egypt...
+
+484
+00:43:24,482 --> 00:43:27,172
+and have heard their cry.
+
+485
+00:43:27,207 --> 00:43:30,332
+- Stop it!
+Leave that man alone!
+
+486
+00:43:30,367 --> 00:43:33,927
+So I have come down
+to deliver them out of slavery...
+
+487
+00:43:34,887 --> 00:43:37,327
+and bring them
+to a good land,
+
+488
+00:43:38,887 --> 00:43:43,287
+a land flowing
+with milk and honey.
+
+489
+00:43:45,447 --> 00:43:48,647
+And so, unto Pharaoh,
+
+490
+00:43:48,682 --> 00:43:51,527
+I shall send...
+
+491
+00:43:51,562 --> 00:43:53,532
+you.
+
+492
+00:43:53,567 --> 00:43:57,252
+Me? Wh-Who am I
+to lead these people?
+
+493
+00:43:57,287 --> 00:44:00,087
+They'll never believe me.
+They won't even listen.
+
+494
+00:44:00,122 --> 00:44:02,567
+I shall teach you
+what to say.
+
+495
+00:44:02,602 --> 00:44:05,612
+Let my people go!
+
+496
+00:44:05,647 --> 00:44:07,772
+But I was their enemy.
+
+497
+00:44:07,807 --> 00:44:12,247
+I was the prince of Egypt, the son of
+the man who slaughtered their children.
+
+498
+00:44:12,282 --> 00:44:14,784
+You've- You've chosen
+the wrong messenger.
+
+499
+00:44:14,819 --> 00:44:17,287
+H- How can I even speak
+to these people?
+
+500
+00:44:17,322 --> 00:44:19,852
+Who made man's mouth?
+
+501
+00:44:19,887 --> 00:44:23,767
+Who made the deaf, the mute,
+the seeing or the blind?
+
+502
+00:44:23,802 --> 00:44:26,607
+Did not I?
+Now go!
+
+503
+00:44:38,767 --> 00:44:41,772
+Oh, Moses,
+
+504
+00:44:41,807 --> 00:44:46,567
+I shall be with you when you
+go to the king of Egypt.
+
+505
+00:44:46,602 --> 00:44:49,207
+But Pharaoh
+will not listen.
+
+506
+00:44:52,847 --> 00:44:56,047
+So I will stretch out
+My hand...
+
+507
+00:44:56,082 --> 00:44:58,524
+and smite Egypt...
+
+508
+00:44:58,559 --> 00:45:00,967
+with all My wonders.
+
+509
+00:45:04,767 --> 00:45:09,047
+Take the staff
+in your hand, Moses.
+
+510
+00:45:09,082 --> 00:45:10,972
+With it,
+
+511
+00:45:11,007 --> 00:45:14,927
+you shall do My wonders.
+
+512
+00:45:19,087 --> 00:45:21,887
+I shall be with you,
+Moses.
+
+513
+00:45:21,922 --> 00:45:25,607
+Moses.
+
+514
+00:45:27,087 --> 00:45:29,207
+Moses.
+
+515
+00:46:45,607 --> 00:46:47,612
+But, Moses,
+
+516
+00:46:47,647 --> 00:46:50,447
+you are &ust one man.
+
+517
+00:46:53,527 --> 00:46:55,367
+Tzipporah,
+
+518
+00:46:57,367 --> 00:47:00,047
+please.
+
+519
+00:47:06,647 --> 00:47:09,087
+Look at your family.
+
+520
+00:47:11,767 --> 00:47:14,532
+They are free.
+
+521
+00:47:14,567 --> 00:47:16,612
+They have a future.
+
+522
+00:47:16,647 --> 00:47:19,252
+They have hopes
+and dreams...
+
+523
+00:47:19,287 --> 00:47:22,367
+and the promise
+of a life with dignity.
+
+524
+00:47:24,767 --> 00:47:27,767
+That is what I want
+for my people.
+
+525
+00:47:29,007 --> 00:47:31,567
+And that is why
+I must do the task...
+
+526
+00:47:31,602 --> 00:47:34,727
+that God has given me.
+
+527
+00:47:45,847 --> 00:47:48,287
+I'm coming with you.
+
+528
+00:49:13,007 --> 00:49:14,812
+Rameses.
+
+529
+00:49:14,847 --> 00:49:18,167
+Moses?
+Is it really?
+
+530
+00:49:22,887 --> 00:49:24,972
+Moses!
+
+531
+00:49:25,007 --> 00:49:27,407
+- Rameses!
+- Where have you been? I took you for dead.
+
+532
+00:49:29,727 --> 00:49:32,892
+Look at you!
+Pharaoh.
+
+533
+00:49:32,927 --> 00:49:36,367
+Well, look at you.
+What on earth are you dressed as?
+
+534
+00:49:37,687 --> 00:49:41,007
+Oh, Rameses,
+it's so good to see you.
+
+535
+00:49:41,042 --> 00:49:42,852
+Excuse me, Your Ma&esty.
+
+536
+00:49:42,887 --> 00:49:48,127
+We are compelled to remind you this man
+committed a serious crime against the gods.
+
+537
+00:49:48,162 --> 00:49:50,332
+We are loathe
+to bring it up, mind you.
+
+538
+00:49:50,367 --> 00:49:52,967
+The law clearly states
+the punishment for such a crime-
+
+539
+00:49:53,002 --> 00:49:54,967
+- Death!
+- We hesitate to say it.
+
+540
+00:49:55,002 --> 00:49:58,247
+Be still.
+Pharaoh speaks.
+
+541
+00:49:59,207 --> 00:50:02,247
+I am the morning
+and the evening star.
+
+542
+00:50:02,282 --> 00:50:04,132
+Rameses.
+
+543
+00:50:04,167 --> 00:50:06,252
+It shall be as I say.
+
+544
+00:50:06,287 --> 00:50:10,687
+I pardon forever all crimes
+of which he stands accused...
+
+545
+00:50:10,722 --> 00:50:13,127
+and will have it known
+that he is...
+
+546
+00:50:13,162 --> 00:50:15,264
+our brother Moses,
+
+547
+00:50:15,299 --> 00:50:17,367
+the prince of Egypt.
+
+548
+00:50:21,367 --> 00:50:23,287
+Rameses,
+
+549
+00:50:24,287 --> 00:50:27,187
+in my heart,
+you are my brother,
+
+550
+00:50:27,222 --> 00:50:30,087
+but things cannot be
+as they were.
+
+551
+00:50:30,122 --> 00:50:32,327
+I see no reason why not.
+
+552
+00:50:33,727 --> 00:50:38,527
+You know I am a Hebrew, and the God
+of the Hebrews came to me.
+
+553
+00:50:38,562 --> 00:50:40,852
+What?
+
+554
+00:50:40,887 --> 00:50:43,527
+He commands that you
+let His people go.
+
+555
+00:50:47,167 --> 00:50:49,807
+Commands?
+
+556
+00:50:54,407 --> 00:50:58,127
+Behold... the power of God.
+
+557
+00:51:11,807 --> 00:51:15,407
+Well, uh, impressive.
+
+558
+00:51:15,442 --> 00:51:17,772
+Hmm.
+
+559
+00:51:17,807 --> 00:51:22,047
+Very well, Moses.
+I'll play along.
+
+560
+00:51:22,082 --> 00:51:24,372
+Hotep. Huy.
+
+561
+00:51:24,407 --> 00:51:27,607
+Give this snake charmer
+our answer.
+
+562
+00:51:48,007 --> 00:51:50,847
+By the power of Ra.
+
+563
+00:51:50,882 --> 00:51:52,884
+Mut.
+
+564
+00:51:52,919 --> 00:51:54,852
+Nut.
+
+565
+00:51:54,887 --> 00:51:56,812
+- Khnum.
+- Ptah.
+
+566
+00:51:56,847 --> 00:51:58,867
+- Nephthys.
+- Nekhbet.
+
+567
+00:51:58,902 --> 00:52:01,394
+- Sobek.
+- Sekhmet.
+
+568
+00:52:01,429 --> 00:52:03,718
+Sokar. Selket. Reshpu.
+
+569
+00:52:03,753 --> 00:52:05,860
+- Wad&et.
+- Anubis.
+
+570
+00:52:05,895 --> 00:52:07,891
+- Anukis.
+- Seshmu.
+
+571
+00:52:07,926 --> 00:52:09,886
+- Meshkent.
+- Hemsut.
+
+572
+00:52:09,921 --> 00:52:11,772
+- Tefnut.
+- Heket.
+
+573
+00:52:11,807 --> 00:52:14,127
+- Mafdet.
+- Ra, Mut, Nut, Ptah.
+
+574
+00:52:14,162 --> 00:52:16,184
+Hemsut, Tefnut,
+Sokar, Selket.
+
+575
+00:52:16,219 --> 00:52:18,172
+Seshmu, Reshpu,
+Sobek, Wad&et.
+
+576
+00:52:18,207 --> 00:52:21,167
+Heket, Mafdet,
+Nephthys, Nekhbet, Ra!
+
+577
+00:52:23,847 --> 00:52:26,567
+# So you think
+you've got friends #
+
+578
+00:52:26,602 --> 00:52:29,132
+# In high places #
+
+579
+00:52:29,167 --> 00:52:33,727
+# With the power
+to put us on the run #
+
+580
+00:52:33,762 --> 00:52:36,967
+# Well, forgive us
+these smiles #
+
+581
+00:52:37,002 --> 00:52:39,492
+# On our faces #
+
+582
+00:52:39,527 --> 00:52:43,767
+# You'll know what power is
+when we are done #
+
+583
+00:52:43,802 --> 00:52:45,607
+Son.
+
+584
+00:52:47,647 --> 00:52:51,932
+# You're playing
+with the big boys now #
+
+585
+00:52:51,967 --> 00:52:56,732
+- # Playing with the big boys now #
+- Oh, that's pretty.
+
+586
+00:52:56,767 --> 00:53:01,047
+- # Every spell and gesture #
+- # Tells you who's the best #
+
+587
+00:53:01,082 --> 00:53:07,464
+# You're playing with
+the big boys now #
+
+588
+00:53:07,499 --> 00:53:13,847
+# You're playing with
+the big boys now. #
+
+589
+00:53:13,882 --> 00:53:15,967
+# Stop this
+foolish mission #
+
+590
+00:53:16,002 --> 00:53:18,724
+# Watch a true magician #
+
+591
+00:53:18,759 --> 00:53:21,332
+# Give an exhibition how #
+
+592
+00:53:21,367 --> 00:53:23,572
+# Pick up your
+silly twig, boy #
+
+593
+00:53:23,607 --> 00:53:26,687
+# You're playing with
+the big boys now #
+
+594
+00:53:26,722 --> 00:53:29,767
+- Ha-ha-ha-ha-ha!
+- # By the power of Ra #
+
+595
+00:53:29,802 --> 00:53:31,784
+# Mut, Nut #
+
+596
+00:53:31,819 --> 00:53:33,732
+# Khnum, Ptah #
+
+597
+00:53:33,767 --> 00:53:37,772
+# Sobek, Sekhmet
+Sokar, Selket #
+
+598
+00:53:37,807 --> 00:53:41,367
+# Anubis, Anukis, Hemsut
+Tefnut, Meshkent, Mafdet #
+
+599
+00:53:41,402 --> 00:53:49,132
+# You're playing with
+the big boys now #
+
+600
+00:53:49,167 --> 00:53:53,167
+# By the might of Horus
+you will kneel before us #
+
+601
+00:53:53,202 --> 00:53:56,532
+# Kneel to our
+splendorous power #
+
+602
+00:53:56,567 --> 00:53:58,087
+- # You put up a front #
+- # You put up a fight #
+
+603
+00:53:58,122 --> 00:54:00,207
+# And &ust to show
+we feel no spite #
+
+604
+00:54:00,242 --> 00:54:02,092
+# You can be our acolyte #
+
+605
+00:54:02,127 --> 00:54:05,607
+- # But first, boy it's time to bow #
+- # Kowtow #
+
+606
+00:54:05,642 --> 00:54:07,007
+# Or it's your own grave
+you'll dig, boy #
+
+607
+00:54:07,042 --> 00:54:09,892
+# You're playing with
+the big boys #
+
+608
+00:54:09,927 --> 00:54:16,407
+# Playing with the big boys
+Playing with the big boys #
+
+609
+00:54:16,442 --> 00:54:19,607
+# Playing with
+the big boys now ##
+
+610
+00:54:19,642 --> 00:54:21,727
+They love it.
+
+611
+00:54:38,167 --> 00:54:40,927
+All right, Moses.
+I know you.
+
+612
+00:54:40,962 --> 00:54:43,687
+What's this really about?
+
+613
+00:54:44,647 --> 00:54:47,447
+Rameses, look.
+
+614
+00:54:47,482 --> 00:54:50,247
+What do you see?
+
+615
+00:54:53,967 --> 00:54:57,527
+A greater Egypt
+than that of my father.
+
+616
+00:54:57,562 --> 00:55:00,092
+That is not
+what I see.
+
+617
+00:55:00,127 --> 00:55:04,532
+Moses, I cannot
+change what you see.
+
+618
+00:55:04,567 --> 00:55:08,007
+I have to maintain
+the ancient traditions.
+
+619
+00:55:08,042 --> 00:55:11,184
+I bear the weight
+of my father's crown.
+
+620
+00:55:11,219 --> 00:55:14,327
+Do you still not understand
+what Seti was?
+
+621
+00:55:14,362 --> 00:55:17,452
+He was
+a great leader.
+
+622
+00:55:17,487 --> 00:55:21,007
+His hands bore the blood
+of thousands of children.
+
+623
+00:55:21,042 --> 00:55:22,764
+Hmph.
+Slaves.
+
+624
+00:55:22,799 --> 00:55:24,452
+My people.
+
+625
+00:55:24,487 --> 00:55:28,687
+And I can no longer hide
+in the desert while they suffer...
+
+626
+00:55:28,722 --> 00:55:30,807
+at your hands.
+
+627
+00:55:33,607 --> 00:55:36,092
+So...
+
+628
+00:55:36,127 --> 00:55:38,747
+you have returned...
+
+629
+00:55:38,782 --> 00:55:41,367
+only to free them.
+
+630
+00:55:51,487 --> 00:55:53,767
+I'm sorry.
+
+631
+00:56:01,767 --> 00:56:03,727
+Yes.
+
+632
+00:56:05,207 --> 00:56:08,127
+I had hoped...
+
+633
+00:56:08,162 --> 00:56:09,967
+that-
+
+634
+00:56:21,887 --> 00:56:23,847
+I do not know this God.
+
+635
+00:56:24,887 --> 00:56:26,927
+Neither will I
+let your people go.
+
+636
+00:56:26,962 --> 00:56:29,504
+Rameses, please,
+you must listen-
+
+637
+00:56:29,539 --> 00:56:32,047
+I will not be
+the weak link!
+
+638
+00:56:39,407 --> 00:56:42,227
+Tell your people
+as of today...
+
+639
+00:56:42,262 --> 00:56:45,047
+their workload
+has been doubled,
+
+640
+00:56:45,082 --> 00:56:46,927
+thanks to your God.
+
+641
+00:56:48,207 --> 00:56:51,127
+Or is it thanks...
+
+642
+00:56:51,162 --> 00:56:53,007
+to you?
+
+643
+00:56:57,727 --> 00:57:00,327
+It's Moses.
+
+644
+00:57:02,407 --> 00:57:04,667
+Moses! Ohh.
+
+645
+00:57:04,702 --> 00:57:06,892
+So, Moses,
+
+646
+00:57:06,927 --> 00:57:10,367
+how does it feel when you
+get struck to the ground?
+
+647
+00:57:11,647 --> 00:57:14,567
+I didn't mean
+to cause you more pain.
+
+648
+00:57:14,602 --> 00:57:17,372
+I'm &ust trying to do
+as God told me.
+
+649
+00:57:17,407 --> 00:57:21,012
+God? When did God start
+caring about any of us?
+
+650
+00:57:21,047 --> 00:57:24,307
+In fact, Moses, when did you start
+caring about slaves?
+
+651
+00:57:24,342 --> 00:57:27,567
+Was it when you found out
+that you were one of us?
+
+652
+00:57:27,602 --> 00:57:30,144
+Don't listen to him.
+
+653
+00:57:30,179 --> 00:57:32,572
+No, he's-
+he's right.
+
+654
+00:57:32,607 --> 00:57:36,492
+I did not see because
+I did not wish to see.
+
+655
+00:57:36,527 --> 00:57:39,372
+Oh, you didn't see because
+you didn't wish to see.
+
+656
+00:57:39,407 --> 00:57:42,447
+Ah! Well, that makes everything
+fine then, doesn't it?
+
+657
+00:57:42,482 --> 00:57:44,292
+Aaron!
+
+658
+00:57:44,327 --> 00:57:46,767
+You shame yourself.
+
+659
+00:57:48,527 --> 00:57:51,567
+Miriam.
+
+660
+00:57:53,447 --> 00:57:56,047
+I'm so sorry.
+
+661
+00:58:04,287 --> 00:58:06,532
+Moses,
+
+662
+00:58:06,567 --> 00:58:08,892
+hear what I say.
+
+663
+00:58:08,927 --> 00:58:11,247
+I have been a slave...
+
+664
+00:58:11,282 --> 00:58:13,212
+all my life,
+
+665
+00:58:13,247 --> 00:58:17,527
+and God has never
+answered my prayers until now.
+
+666
+00:58:17,562 --> 00:58:19,292
+God saved you
+from the river,
+
+667
+00:58:19,327 --> 00:58:22,172
+He saved you
+in all your wanderings,
+
+668
+00:58:22,207 --> 00:58:25,367
+and even now He saves you
+from the wrath of Pharaoh.
+
+669
+00:58:25,402 --> 00:58:28,247
+God will not abandon you,
+
+670
+00:58:29,527 --> 00:58:31,967
+so don't you abandon us.
+
+671
+00:59:03,287 --> 00:59:05,727
+Miriam.
+Where are you going?
+
+672
+00:59:05,762 --> 00:59:07,647
+M- Miriam.
+
+673
+00:59:20,647 --> 00:59:23,487
+The ball disappears.
+Where is it? In his hand.
+
+674
+00:59:26,767 --> 00:59:28,647
+Rameses!
+
+675
+00:59:29,807 --> 00:59:32,567
+Let my people go!
+
+676
+00:59:34,447 --> 00:59:37,407
+Still gnawing away
+at that bone, are we?
+
+677
+00:59:37,442 --> 00:59:38,892
+Carry on.
+
+678
+00:59:38,927 --> 00:59:41,052
+You cannot
+keep ignoring us.
+
+679
+00:59:41,087 --> 00:59:45,247
+Enough! I will hear no more
+of this Hebrew nonsense.
+
+680
+00:59:45,282 --> 00:59:47,087
+Bring him to me.
+
+681
+00:59:48,847 --> 00:59:50,927
+- Moses!
+- No!
+
+682
+01:00:03,567 --> 01:00:07,527
+Take the staff
+in your hand, Moses.
+
+683
+01:00:34,727 --> 01:00:36,612
+Father.
+
+684
+01:00:36,647 --> 01:00:38,747
+- It's-
+- Blood!
+
+685
+01:00:38,782 --> 01:00:40,847
+Blood! Oh, blood!
+
+686
+01:00:51,207 --> 01:00:54,852
+Hotep! Huy!
+Explain this to me!
+
+687
+01:00:54,887 --> 01:00:57,332
+- Ah!
+- Rest assured, Your Ma&esty-
+
+688
+01:00:57,367 --> 01:01:00,287
+Uh, yes, we were going to
+demonstrate the superior might...
+
+689
+01:01:00,322 --> 01:01:02,127
+of our gods.
+
+690
+01:01:02,162 --> 01:01:03,647
+Uh-
+
+691
+01:01:05,287 --> 01:01:08,167
+By the power of Ra!
+
+692
+01:01:23,207 --> 01:01:26,127
+Abandon this futile mission,
+Moses.
+
+693
+01:01:26,162 --> 01:01:29,464
+I've indulged you
+long enough.
+
+694
+01:01:29,499 --> 01:01:32,767
+This must now
+be finished.
+
+695
+01:01:34,767 --> 01:01:36,932
+No, Rameses.
+
+696
+01:01:36,967 --> 01:01:39,212
+It is only beginning.
+
+697
+01:01:39,247 --> 01:01:42,367
+But, Moses, d-didn't you
+see what happened?
+
+698
+01:01:42,402 --> 01:01:45,012
+The priests
+did the same thing.
+
+699
+01:01:45,047 --> 01:01:47,967
+Pharaoh still has the power
+over our lives.
+
+700
+01:01:50,447 --> 01:01:53,887
+Yes, Aaron, it's true.
+Pharaoh has the power.
+
+701
+01:01:55,167 --> 01:02:00,647
+He can take away your food,
+your home, your freedom.
+
+702
+01:02:00,682 --> 01:02:05,087
+He can take away
+your sons and daughters.
+
+703
+01:02:05,122 --> 01:02:07,212
+With one word,
+
+704
+01:02:07,247 --> 01:02:10,207
+Pharaoh can take away
+your very lives.
+
+705
+01:02:12,047 --> 01:02:15,927
+But there is one thing
+he cannot take away from you:
+
+706
+01:02:15,962 --> 01:02:17,767
+your faith.
+
+707
+01:02:20,007 --> 01:02:21,892
+Believe,
+
+708
+01:02:21,927 --> 01:02:24,687
+for we will see
+God's wonders.
+
+709
+01:02:34,847 --> 01:02:36,132
+# Thus saith the Lord #
+
+710
+01:02:36,167 --> 01:02:38,412
+# Since you refuse
+to free my people #
+
+711
+01:02:38,447 --> 01:02:41,567
+- # Since you refuse to free my people #
+- # Since you refuse #
+
+712
+01:02:41,602 --> 01:02:43,944
+# All through
+the land of Egypt #
+
+713
+01:02:43,979 --> 01:02:45,773
+# I send a pestilence, a plague #
+
+714
+01:02:45,808 --> 01:02:47,532
+# Into your house, into your bed #
+
+715
+01:02:47,567 --> 01:02:49,607
+- # Into your streams Into your streets #
+- Hmm.
+
+716
+01:02:49,642 --> 01:02:51,684
+# Into your drink
+Into your bread #
+
+717
+01:02:51,719 --> 01:02:53,703
+# Upon your cattle, on your sheep #
+
+718
+01:02:53,738 --> 01:02:55,652
+# Upon your oxen
+in your field #
+
+719
+01:02:55,687 --> 01:02:58,087
+# Into your dreams, into your sleep #
+
+720
+01:02:58,122 --> 01:03:00,487
+# Until you break
+Until you yield #
+
+721
+01:03:00,522 --> 01:03:02,492
+# I send the swarm #
+
+722
+01:03:02,527 --> 01:03:08,207
+# I send the horde
+Thus saith the Lord #
+
+723
+01:03:09,127 --> 01:03:11,092
+# Once I called you brother #
+
+724
+01:03:11,127 --> 01:03:14,287
+# Once I thought the chance
+to make you laugh #
+
+725
+01:03:14,322 --> 01:03:15,847
+# Was all I ever wanted #
+
+726
+01:03:15,887 --> 01:03:17,807
+# I send the thunder
+from the sky #
+
+727
+01:03:17,842 --> 01:03:19,692
+# I send the fire
+raining down #
+
+728
+01:03:19,727 --> 01:03:23,247
+# And even now I wish
+that God had chose another #
+
+729
+01:03:23,282 --> 01:03:26,007
+# Serving as your foe
+on His behalf #
+
+730
+01:03:26,042 --> 01:03:27,572
+# Is the last thing #
+
+731
+01:03:27,607 --> 01:03:29,527
+- # That I wanted #
+- # I send a hail of burning ice #
+
+732
+01:03:29,562 --> 01:03:32,207
+# On every field
+On every town #
+
+733
+01:03:32,242 --> 01:03:34,452
+# This was my home #
+
+734
+01:03:34,487 --> 01:03:39,527
+# All this pain and devastation
+how it tortures me inside #
+
+735
+01:03:39,562 --> 01:03:41,647
+# All the innocent
+who suffer #
+
+736
+01:03:41,682 --> 01:03:43,252
+# From your stubbornness #
+
+737
+01:03:43,287 --> 01:03:45,447
+- # And pride #
+- # I send the locusts on the wind #
+
+738
+01:03:45,482 --> 01:03:47,404
+# Such as the world
+has never seen #
+
+739
+01:03:47,439 --> 01:03:49,292
+# On every leaf
+On every stalk #
+
+740
+01:03:49,327 --> 01:03:52,407
+# Until there's nothing left
+of green #
+
+741
+01:03:52,442 --> 01:03:55,487
+# I send my scourge
+I send my sword #
+
+742
+01:03:55,522 --> 01:03:56,887
+# Thus saith the Lord #
+
+743
+01:03:56,927 --> 01:03:58,572
+# You who I called brother #
+
+744
+01:03:58,607 --> 01:04:02,147
+# Why must you call down another blow #
+
+745
+01:04:02,182 --> 01:04:05,532
+# I send my scourge
+I send my sword #
+
+746
+01:04:05,567 --> 01:04:08,887
+- # Let my people go #
+- # Thus saith the Lord #
+
+747
+01:04:08,922 --> 01:04:15,447
+# Thus saith the Lord #
+
+748
+01:04:18,687 --> 01:04:20,572
+# You who I called brother #
+
+749
+01:04:20,607 --> 01:04:23,607
+# How could you have come
+to hate me so #
+
+750
+01:04:23,642 --> 01:04:25,047
+# Is this what you wanted #
+
+751
+01:04:25,087 --> 01:04:27,667
+# I sent the swarm
+I sent the horde #
+
+752
+01:04:27,702 --> 01:04:30,212
+# Then let my heart
+be hardened #
+
+753
+01:04:30,247 --> 01:04:33,047
+# And never mind
+how high the cost may grow #
+
+754
+01:04:33,082 --> 01:04:35,287
+# This will still be so #
+
+755
+01:04:35,322 --> 01:04:38,164
+# I will never let #
+
+756
+01:04:38,199 --> 01:04:40,892
+# Your people go #
+
+757
+01:04:40,927 --> 01:04:45,052
+# Thus saith the Lord #
+
+758
+01:04:45,087 --> 01:04:48,847
+- # I will not let #
+- & Let #
+
+759
+01:04:48,882 --> 01:04:52,607
+- # Your people #
+- # My people #
+
+760
+01:04:52,642 --> 01:04:57,047
+- # Go ##
+- # Go ##
+
+761
+01:05:42,007 --> 01:05:44,167
+Rameses?
+
+762
+01:05:46,087 --> 01:05:48,132
+Rameses?
+
+763
+01:05:48,167 --> 01:05:50,127
+Oh. Let me guess.
+
+764
+01:05:51,647 --> 01:05:54,267
+You want me to...
+
+765
+01:05:54,302 --> 01:05:56,887
+let your people go.
+
+766
+01:05:59,567 --> 01:06:01,967
+I hoped
+I would find you here.
+
+767
+01:06:02,002 --> 01:06:04,367
+Get out!
+
+768
+01:06:05,887 --> 01:06:10,487
+Rameses, we must
+bring this to an end.
+
+769
+01:06:15,247 --> 01:06:18,387
+Rameses, please,
+talk to me.
+
+770
+01:06:18,422 --> 01:06:21,527
+We could always
+talk here.
+
+771
+01:06:30,407 --> 01:06:32,327
+This place.
+
+772
+01:06:33,767 --> 01:06:35,727
+So many memories.
+
+773
+01:06:38,927 --> 01:06:41,492
+I remember the time you...
+
+774
+01:06:41,527 --> 01:06:44,967
+switched the heads of the gods
+of the temple of Ra.
+
+775
+01:06:48,607 --> 01:06:50,492
+If I recall correctly,
+
+776
+01:06:50,527 --> 01:06:54,887
+you were there switching heads
+right along with me.
+
+777
+01:06:55,727 --> 01:06:58,287
+No, it was you.
+I didn't do that.
+
+778
+01:06:58,322 --> 01:07:00,132
+Oh, yes, you did.
+
+779
+01:07:00,167 --> 01:07:02,767
+You put the hippo on the crocodile,
+and the crocodile-
+
+780
+01:07:02,802 --> 01:07:04,612
+- On the falcon.
+- Yes!
+
+781
+01:07:04,647 --> 01:07:08,087
+The priest thought it was a horrible
+omen and fasted for two months.
+
+782
+01:07:08,122 --> 01:07:11,287
+Father was furious. You were
+always getting me into trouble.
+
+783
+01:07:18,087 --> 01:07:20,047
+But then-
+
+784
+01:07:21,967 --> 01:07:25,087
+you were always there
+to...
+
+785
+01:07:25,122 --> 01:07:28,207
+get me out of trouble
+again.
+
+786
+01:07:28,242 --> 01:07:30,047
+Hmmph.
+
+787
+01:07:34,327 --> 01:07:37,727
+Why can't things be
+the way they were before?
+
+788
+01:07:39,127 --> 01:07:40,772
+Father.
+
+789
+01:07:40,807 --> 01:07:42,727
+It's so dark.
+
+790
+01:07:44,007 --> 01:07:46,327
+I'm frightened.
+
+791
+01:07:47,247 --> 01:07:49,087
+Why is he here?
+
+792
+01:07:52,647 --> 01:07:55,567
+Isn't that the man
+who did all this?
+
+793
+01:07:57,287 --> 01:07:59,652
+Yes.
+
+794
+01:07:59,687 --> 01:08:02,607
+But one must wonder...
+
+795
+01:08:02,642 --> 01:08:04,372
+why.
+
+796
+01:08:04,407 --> 01:08:09,332
+Because no kingdom should be made
+on the backs of slaves.
+
+797
+01:08:09,367 --> 01:08:13,607
+Rameses, your stubbornness
+is bringing this misery upon Egypt.
+
+798
+01:08:13,642 --> 01:08:16,684
+It would cease if only you
+would let the Hebrews go.
+
+799
+01:08:16,719 --> 01:08:20,083
+I will not be dictated to.
+I will not be threatened.
+
+800
+01:08:20,118 --> 01:08:23,292
+I am the morning
+and the evening star. I am Pharaoh.
+
+801
+01:08:23,327 --> 01:08:27,447
+Something else is coming. Something
+much worse than anything before.
+
+802
+01:08:27,482 --> 01:08:30,444
+Please, let go of
+your contempt for life...
+
+803
+01:08:30,479 --> 01:08:33,407
+before it destroys
+everything you hold dear.
+
+804
+01:08:33,442 --> 01:08:35,407
+Think of your son!
+
+805
+01:08:35,442 --> 01:08:37,252
+I do.
+
+806
+01:08:37,287 --> 01:08:40,292
+You Hebrews have been
+nothing but trouble.
+
+807
+01:08:40,327 --> 01:08:43,887
+My father had the right idea
+about how to deal with your people.
+
+808
+01:08:43,922 --> 01:08:47,652
+- Rameses- - And I think
+it's time I finished the &ob.
+
+809
+01:08:47,687 --> 01:08:52,007
+- Rameses! - And there shall be
+a great cry in all of Egypt...
+
+810
+01:08:52,042 --> 01:08:54,967
+such as never has been
+or ever will be again!
+
+811
+01:09:09,047 --> 01:09:12,487
+Rameses, you bring this
+upon yourself.
+
+812
+01:09:21,807 --> 01:09:24,847
+God has come
+to me again, saying,
+
+813
+01:09:24,882 --> 01:09:26,652
+"Take a lamb...
+
+814
+01:09:26,687 --> 01:09:29,292
+and with its blood...
+
+815
+01:09:29,327 --> 01:09:33,047
+mark the lintel and posts
+of every door,
+
+816
+01:09:35,247 --> 01:09:38,052
+for tonight...
+
+817
+01:09:38,087 --> 01:09:42,487
+I shall pass through
+the land of Egypt...
+
+818
+01:09:42,522 --> 01:09:45,487
+and smite
+all the firstborn.
+
+819
+01:09:51,207 --> 01:09:54,647
+But when I see the blood
+upon your door...
+
+820
+01:09:56,087 --> 01:09:58,527
+I will pass over you,
+
+821
+01:10:00,327 --> 01:10:03,767
+and the plague
+shall not enter. "
+
+822
+01:12:33,887 --> 01:12:37,367
+You
+and your people...
+
+823
+01:12:37,402 --> 01:12:40,847
+have my permission to go.
+
+824
+01:12:45,407 --> 01:12:47,367
+Leave me!
+
+825
+01:14:17,407 --> 01:14:20,967
+# Many nights we've prayed #
+
+826
+01:14:21,002 --> 01:14:23,564
+# With no proof #
+
+827
+01:14:23,599 --> 01:14:26,052
+# Anyone could hear #
+
+828
+01:14:26,087 --> 01:14:29,847
+# In our hearts
+a hopeful song #
+
+829
+01:14:29,882 --> 01:14:34,184
+# We barely understood #
+
+830
+01:14:34,219 --> 01:14:38,372
+# Now we are not afraid #
+
+831
+01:14:38,407 --> 01:14:43,287
+# Although we know
+there's much to fear #
+
+832
+01:14:43,322 --> 01:14:46,412
+# We were moving mountains #
+
+833
+01:14:46,447 --> 01:14:52,447
+# Long before
+we knew we could #
+
+834
+01:14:52,482 --> 01:14:56,167
+# There can be miracles #
+
+835
+01:14:56,202 --> 01:14:59,644
+# When you believe #
+
+836
+01:14:59,679 --> 01:15:02,803
+# Though hope is frail #
+
+837
+01:15:02,838 --> 01:15:05,927
+# It's hard to kill #
+
+838
+01:15:07,607 --> 01:15:11,607
+# Who knows what miracles #
+
+839
+01:15:11,642 --> 01:15:14,944
+# You can achieve #
+
+840
+01:15:14,979 --> 01:15:19,113
+# When you believe #
+
+841
+01:15:19,148 --> 01:15:22,797
+# Somehow you will #
+
+842
+01:15:22,832 --> 01:15:26,447
+# You will when you #
+
+843
+01:15:26,482 --> 01:15:29,487
+# Believe #
+
+844
+01:15:30,607 --> 01:15:34,252
+# In this time of fear #
+
+845
+01:15:34,287 --> 01:15:38,087
+# When prayers so often
+proved in vain #
+
+846
+01:15:38,122 --> 01:15:41,887
+# Hope seemed like
+the summer birds #
+
+847
+01:15:41,922 --> 01:15:45,572
+# Too swiftly flown away #
+
+848
+01:15:45,607 --> 01:15:49,687
+- # Yet now I'm standing here #
+- # Now I'm standing here #
+
+849
+01:15:49,722 --> 01:15:53,564
+# With heart so full
+I can't explain #
+
+850
+01:15:53,599 --> 01:15:57,407
+# Seeking faith
+and speaking words #
+
+851
+01:15:57,442 --> 01:16:01,664
+# I never thought I'd say #
+
+852
+01:16:01,699 --> 01:16:05,732
+# There can be miracles #
+
+853
+01:16:05,767 --> 01:16:09,407
+- # When you believe #
+- # When you believe #
+
+854
+01:16:09,442 --> 01:16:12,572
+# Though hope is frail #
+
+855
+01:16:12,607 --> 01:16:16,847
+- # It's hard to kill #
+- # It's hard to kill #
+
+856
+01:16:16,882 --> 01:16:20,692
+# Who knows what miracles #
+
+857
+01:16:20,727 --> 01:16:24,567
+- # You can achieve #
+- # You can achieve #
+
+858
+01:16:24,602 --> 01:16:28,444
+# When you believe #
+
+859
+01:16:28,479 --> 01:16:32,132
+# Somehow you will #
+
+860
+01:16:32,167 --> 01:16:35,647
+# You will
+when you believe #
+
+861
+01:16:35,682 --> 01:16:39,647
+# A-shi-ra I'A-don-ai #
+
+862
+01:16:39,682 --> 01:16:42,572
+# Ki ga-oh ga-ah #
+
+863
+01:16:42,607 --> 01:16:46,367
+# A-shi-ra I'A-don-ai #
+
+864
+01:16:46,402 --> 01:16:49,532
+# Ki ga-oh ga-ah #
+
+865
+01:16:49,567 --> 01:16:55,207
+# Mi-cha-mo-cha ba-elim
+Adonai #
+
+866
+01:16:55,242 --> 01:16:57,644
+# Mi-ka-mo-cha #
+
+867
+01:16:57,679 --> 01:17:00,012
+# Ne-dar ba-ko-desh #
+
+868
+01:17:00,047 --> 01:17:02,607
+# Na-chi-tah v'- chas-d'- cha #
+
+869
+01:17:02,642 --> 01:17:04,932
+# Am zu ga-al-ta #
+
+870
+01:17:04,967 --> 01:17:07,007
+# Na-chi-tah v'- chas-d'- cha #
+
+871
+01:17:07,042 --> 01:17:09,932
+# Am zu ga-al-ta #
+
+872
+01:17:09,967 --> 01:17:12,652
+# A-shi-ra, a-shi-ra
+A- shi-ra #
+
+873
+01:17:12,687 --> 01:17:15,987
+# A-shi-ra I'A-don-ai ki ga-oh ga-ah #
+
+874
+01:17:16,022 --> 01:17:19,287
+# A-shi-ra I'A-don-ai
+ki ga-oh ga-ah #
+
+875
+01:17:19,322 --> 01:17:22,804
+# Mi-cha-mo-cha ba-elim
+Adonai #
+
+876
+01:17:22,839 --> 01:17:26,212
+# Mi-ka-mo-cha
+ne-dar ba-ko-desh #
+
+877
+01:17:26,247 --> 01:17:29,447
+# Na-chi-tah v'- chas-d'- cha
+am zu ga-al-ta #
+
+878
+01:17:29,482 --> 01:17:32,647
+# Na-chi-tah v'- chas-d'- cha
+am zu ga-al-ta. #
+
+879
+01:17:32,682 --> 01:17:35,207
+# A-shi-ra, a-shi-ra #
+
+880
+01:17:35,242 --> 01:17:39,252
+# A-shi-ra #
+
+881
+01:17:39,287 --> 01:17:43,247
+# There can be miracles #
+
+882
+01:17:43,282 --> 01:17:46,604
+# When you believe #
+
+883
+01:17:46,639 --> 01:17:49,812
+# Though hope is frail #
+
+884
+01:17:49,847 --> 01:17:54,647
+- # It's hard to kill #
+- # It's hard to kill #
+
+885
+01:17:54,682 --> 01:17:58,092
+# Who knows what miracles #
+
+886
+01:17:58,127 --> 01:18:02,167
+- # You can achieve #
+- # You can achieve #
+
+887
+01:18:02,202 --> 01:18:05,704
+# When you believe #
+
+888
+01:18:05,739 --> 01:18:09,613
+# Somehow you will #
+
+889
+01:18:09,648 --> 01:18:13,332
+# Now you will #
+
+890
+01:18:13,367 --> 01:18:16,412
+# You will when you #
+
+891
+01:18:16,447 --> 01:18:20,887
+- # Believe #
+- # When you believe #
+
+892
+01:18:20,922 --> 01:18:25,327
+- # You will when you #
+- # You will #
+
+893
+01:18:25,362 --> 01:18:29,927
+# Believe ##
+
+894
+01:20:31,567 --> 01:20:34,367
+With this staff,
+
+895
+01:20:34,402 --> 01:20:36,804
+you shall do...
+
+896
+01:20:36,839 --> 01:20:39,207
+My wonders!
+
+897
+01:21:53,327 --> 01:21:55,407
+Leave it!
+
+898
+01:22:27,687 --> 01:22:29,327
+Yeah, me too.
+
+899
+01:22:47,327 --> 01:22:50,327
+Eeee-yaaaaah!
+
+900
+01:23:05,647 --> 01:23:09,207
+Don't &ust stand there!
+Kill them!
+
+901
+01:23:09,242 --> 01:23:11,647
+Kill them all!
+
+902
+01:23:13,447 --> 01:23:17,007
+The soldiers! They're coming!
+
+903
+01:23:19,087 --> 01:23:21,292
+Moses! Moses!
+
+904
+01:23:21,327 --> 01:23:24,167
+- Hurry! Hurry! I got you.
+- Look! The shore!
+
+905
+01:23:48,007 --> 01:23:51,967
+No!
+
+906
+01:25:18,647 --> 01:25:20,567
+Thank you.
+
+907
+01:25:46,967 --> 01:25:50,887
+Moses!
+
+908
+01:25:55,927 --> 01:26:00,167
+Moses!
+
+909
+01:26:03,247 --> 01:26:05,087
+Good-bye, brother.
+
+910
+01:26:14,607 --> 01:26:17,927
+# A-shi-ra I'A-don-ai #
+
+911
+01:26:17,962 --> 01:26:20,412
+# Ki ga-oh ga-ah #
+
+912
+01:26:20,447 --> 01:26:24,127
+# A-shi-ra I'A-don-ai #
+
+913
+01:26:24,162 --> 01:26:26,012
+# Ki ga-oh ga-ah #
+
+914
+01:26:26,047 --> 01:26:30,447
+Look. Look at your people, Moses.
+
+915
+01:26:34,087 --> 01:26:36,007
+They are free.
+
+916
+01:26:37,047 --> 01:26:40,847
+# Na-chi-tah v'- chas-d'- cha #
+
+917
+01:26:40,882 --> 01:26:43,744
+# Am zu ga-al-ta #
+
+918
+01:26:43,779 --> 01:26:46,607
+# A-shi-ra, a-shi-ra #
+
+919
+01:26:46,642 --> 01:26:50,447
+# A-shi-ra ##
+
+920
+01:27:37,407 --> 01:27:42,767
+# Deliver us ##
+
+921
+01:27:51,567 --> 01:27:55,172
+# Many nights we prayed #
+
+922
+01:27:55,207 --> 01:27:59,087
+# With no proof
+anyone could hear #
+
+923
+01:27:59,122 --> 01:28:02,967
+# In our hearts
+a hopeful song #
+
+924
+01:28:03,002 --> 01:28:06,864
+# We barely understood #
+
+925
+01:28:06,899 --> 01:28:10,572
+# Now we are not afraid #
+
+926
+01:28:10,607 --> 01:28:14,687
+# Although we know
+there's much to fear #
+
+927
+01:28:14,722 --> 01:28:17,292
+# We were moving mountains #
+
+928
+01:28:17,327 --> 01:28:24,207
+# Long before
+we knew we could #
+
+929
+01:28:24,242 --> 01:28:26,572
+# Ohhh-ohh, yes #
+
+930
+01:28:26,607 --> 01:28:30,127
+# There can be miracles #
+
+931
+01:28:30,162 --> 01:28:33,584
+# When you believe #
+
+932
+01:28:33,619 --> 01:28:37,593
+# Though hope is frail #
+
+933
+01:28:37,628 --> 01:28:41,412
+# It's hard to kill #
+
+934
+01:28:41,447 --> 01:28:45,047
+# Who knows what miracles #
+
+935
+01:28:45,082 --> 01:28:48,464
+# You can achieve #
+
+936
+01:28:48,499 --> 01:28:52,333
+# When you believe #
+
+937
+01:28:52,368 --> 01:28:55,727
+# Somehow you will #
+
+938
+01:28:55,762 --> 01:28:59,087
+# You will when you #
+
+939
+01:28:59,122 --> 01:29:03,172
+# Believe #
+
+940
+01:29:03,207 --> 01:29:06,927
+- # Mmmm #
+- # Oooh, yeah #
+
+941
+01:29:06,962 --> 01:29:10,172
+# In this time of fear #
+
+942
+01:29:10,207 --> 01:29:14,027
+# When prayer so often
+proves in vain #
+
+943
+01:29:14,062 --> 01:29:17,847
+# Hope seems like
+the summer birds #
+
+944
+01:29:17,882 --> 01:29:21,624
+# Too swiftly flown away #
+
+945
+01:29:21,659 --> 01:29:25,252
+# Yet now I'm standing here #
+
+946
+01:29:25,287 --> 01:29:29,007
+# My heart's so full
+I can't explain #
+
+947
+01:29:29,042 --> 01:29:32,727
+# Seeking faith
+and speaking words #
+
+948
+01:29:32,762 --> 01:29:38,744
+# I never thought I'd say #
+
+949
+01:29:38,779 --> 01:29:44,612
+# There can be miracles #
+
+950
+01:29:44,647 --> 01:29:48,247
+- # When you believe #
+- # When you believe #
+
+951
+01:29:48,282 --> 01:29:52,004
+# Though hope is frail #
+
+952
+01:29:52,039 --> 01:29:55,623
+# It's hard to kill, mmm #
+
+953
+01:29:55,658 --> 01:29:59,092
+# Who knows what miracles #
+
+954
+01:29:59,127 --> 01:30:02,847
+- # You can achieve #
+- # You can achieve #
+
+955
+01:30:02,882 --> 01:30:06,544
+# When you believe #
+
+956
+01:30:06,579 --> 01:30:09,813
+# Somehow you will #
+
+957
+01:30:09,848 --> 01:30:13,047
+# You will when you #
+
+958
+01:30:13,082 --> 01:30:18,247
+# Believe #
+
+959
+01:30:26,807 --> 01:30:29,407
+# They don't always happen #
+
+960
+01:30:29,442 --> 01:30:32,527
+# When you ask #
+
+961
+01:30:32,562 --> 01:30:34,292
+# Ah #
+
+962
+01:30:34,327 --> 01:30:37,367
+# And it's easy to give in #
+
+963
+01:30:37,402 --> 01:30:39,892
+# To your fears #
+
+964
+01:30:39,927 --> 01:30:41,692
+- # Oooh #
+- # Ohhh #
+
+965
+01:30:41,727 --> 01:30:45,132
+# But when you're blinded
+by your pain #
+
+966
+01:30:45,167 --> 01:30:48,787
+# Can't see the way
+to get through the rain #
+
+967
+01:30:48,822 --> 01:30:52,407
+- # Hold still #
+- # Reveal your voice #
+
+968
+01:30:52,442 --> 01:30:57,492
+# Says help is very near
+Ohhh #
+
+969
+01:30:57,527 --> 01:31:00,732
+- # There can be miracles #
+- # Miracles #
+
+970
+01:31:00,767 --> 01:31:04,687
+- # When you believe #
+- # Ohh, when you believe, hey-ey-ey #
+
+971
+01:31:04,722 --> 01:31:07,252
+- # Though hope is frail #
+- # Hope is frail #
+
+972
+01:31:07,287 --> 01:31:11,727
+- # It's hard to kill #
+- # Hard to kill, oh, yeah #
+
+973
+01:31:11,762 --> 01:31:15,372
+# Who knows what miracles #
+
+974
+01:31:15,407 --> 01:31:18,687
+- # You can achieve #
+- # You can achieve #
+
+975
+01:31:18,722 --> 01:31:21,852
+- # When you believe #
+- # Oooh-ooh-ooooh #
+
+976
+01:31:21,887 --> 01:31:25,827
+- # Somehow you will #
+- # Somehow, somehow, somehow #
+
+977
+01:31:25,862 --> 01:31:29,767
+- # And now you will #
+- # Now, now, now, ohhh-ohh-ohh #
+
+978
+01:31:29,802 --> 01:31:32,252
+# You will when you #
+
+979
+01:31:32,287 --> 01:31:37,527
+- # When you believe #
+- # Ohhh-ohh-ohh #
+
+980
+01:31:37,562 --> 01:31:40,424
+# Ooooh, you will #
+
+981
+01:31:40,459 --> 01:31:43,287
+# You will when you #
+
+982
+01:31:43,322 --> 01:31:47,252
+# Believe #
+
+983
+01:31:47,287 --> 01:31:49,507
+- # &ust believe #
+- # You will #
+
+984
+01:31:49,542 --> 01:31:51,727
+- # Ohhh-ohh-ohh #
+- # You will #
+
+985
+01:31:51,762 --> 01:31:54,412
+# And honey, honey, honey #
+
+986
+01:31:54,447 --> 01:31:58,647
+- # &ust believe #
+- # You will when you #
+
+987
+01:31:58,682 --> 01:32:05,607
+# Believe ##
+
+988
+01:32:08,727 --> 01:32:13,207
+- # I will get through the night #
+- # Ohh, yeah #
+
+989
+01:32:13,242 --> 01:32:16,127
+# And make it through
+to the other side #
+
+990
+01:32:16,162 --> 01:32:20,652
+- # Get there #
+- # Get there #
+
+991
+01:32:20,687 --> 01:32:25,007
+- # I been in these chains for so long #
+- # So long #
+
+992
+01:32:25,042 --> 01:32:27,607
+# I'll break free
+and I'll be there #
+
+993
+01:32:27,642 --> 01:32:29,172
+# Where I belong #
+
+994
+01:32:29,207 --> 01:32:30,892
+# Hold my head up high #
+
+995
+01:32:30,927 --> 01:32:33,047
+- # I'll stand tall #
+- # Stand tall #
+
+996
+01:32:33,082 --> 01:32:35,372
+# And I swear this time #
+
+997
+01:32:35,407 --> 01:32:38,307
+- # I won't fall #
+- # Get there #
+
+998
+01:32:38,342 --> 01:32:41,207
+- # I will do this #
+- # Get there #
+
+999
+01:32:41,242 --> 01:32:44,532
+# No matter what it takes #
+
+1000
+01:32:44,567 --> 01:32:48,407
+# 'Cause I know no limitations #
+
+1001
+01:32:48,442 --> 01:32:52,247
+# And I'll reach
+my destination #
+
+1002
+01:32:52,282 --> 01:32:54,564
+# I will get there #
+
+1003
+01:32:54,599 --> 01:32:56,783
+# I will get there. #
+
+1004
+01:32:56,818 --> 01:32:58,852
+# I will get there #
+
+1005
+01:32:58,887 --> 01:33:00,852
+# I will get there. #
+
+1006
+01:33:00,887 --> 01:33:03,132
+- # Somehow #
+- # Somehow #
+
+1007
+01:33:03,167 --> 01:33:07,367
+- # Cross that river #
+- # Cross that river #
+
+1008
+01:33:07,402 --> 01:33:11,567
+- # Nothin's stoppin' me now #
+- # No-o-o-o-o #
+
+1009
+01:33:11,602 --> 01:33:14,967
+# I will get through
+the night #
+
+1010
+01:33:15,002 --> 01:33:16,047
+# You know #
+
+1011
+01:33:16,087 --> 01:33:18,627
+# And make it through
+to the other side #
+
+1012
+01:33:18,662 --> 01:33:21,167
+- # Get there, ooh, yeah #
+- # Get there #
+
+1013
+01:33:21,202 --> 01:33:23,964
+- # Get there #
+- # Get there #
+
+1014
+01:33:23,999 --> 01:33:27,483
+# Well, the night
+is cold and dark #
+
+1015
+01:33:27,518 --> 01:33:31,222
+# But somewhere
+the sun is shining #
+
+1016
+01:33:31,257 --> 01:33:34,927
+# And I'll feel it
+shine on me #
+
+1017
+01:33:34,962 --> 01:33:38,984
+# I'll keep trying #
+
+1018
+01:33:39,019 --> 01:33:43,007
+# I'll keep trying. #
+
+1019
+01:33:43,042 --> 01:33:45,172
+# Oh, yeah #
+
+1020
+01:33:45,207 --> 01:33:49,367
+- # I will get there #
+- # I will get there #
+
+1021
+01:33:49,402 --> 01:33:53,527
+- # I will get there somehow #
+- # Somehow #
+
+1022
+01:33:53,562 --> 01:33:55,092
+# Cross that river #
+
+1023
+01:33:55,127 --> 01:33:57,612
+# I'll cross that river
+for you #
+
+1024
+01:33:57,647 --> 01:34:01,967
+- # Nothin's stoppin' me now #
+- # Ohhhh-ahhh #
+
+1025
+01:34:02,002 --> 01:34:06,172
+# I will get through
+the night #
+
+1026
+01:34:06,207 --> 01:34:09,167
+# And make it through
+to the other side #
+
+1027
+01:34:09,202 --> 01:34:10,572
+- # Get there #
+- # Get there #
+
+1028
+01:34:10,607 --> 01:34:13,727
+- # Oooh, get there #
+- # Get there #
+
+1029
+01:34:13,762 --> 01:34:16,847
+- # Ohhhh #
+- # I will get there #
+
+1030
+01:34:16,882 --> 01:34:18,487
+# I will get there #
+
+1031
+01:34:18,527 --> 01:34:22,692
+- # Nothin's stoppin' me now #
+- # No matter what #
+
+1032
+01:34:22,727 --> 01:34:27,207
+- # I will get through the night #
+- # I'll get through the night #
+
+1033
+01:34:27,242 --> 01:34:30,167
+# And make it through
+to the other side #
+
+1034
+01:34:30,202 --> 01:34:31,892
+- # Get there #
+- # Get there #
+
+1035
+01:34:31,927 --> 01:34:35,087
+- # Ooh, get there #
+- # Get there ##

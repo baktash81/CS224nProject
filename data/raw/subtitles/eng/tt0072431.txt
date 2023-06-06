@@ -1,0 +1,5472 @@
+1
+00:00:26,040 --> 00:00:28,031
+<i>(thunder crashes)</i>
+
+2
+00:02:48,680 --> 00:02:50,671
+<i>(thunder crashes)</i>
+
+3
+00:03:23,760 --> 00:03:25,751
+<i>(clock strikes)</i>
+
+4
+00:04:56,640 --> 00:05:01,350
+If we look at the base of a brain
+which has just been removed from a skull...
+
+5
+00:05:01,440 --> 00:05:05,399
+...there's very little of the midbrain
+that we can actually see.
+
+6
+00:05:05,480 --> 00:05:08,631
+Yet, as I demonstrated
+in my lecture last week...
+
+7
+00:05:08,720 --> 00:05:14,590
+...if the under aspects of the temporal lobes
+are gently pulled apart...
+
+8
+00:05:15,480 --> 00:05:19,268
+...the upper portion of the stem of the brain
+can be seen.
+
+9
+00:05:19,960 --> 00:05:24,556
+This so-called brainstem
+consists of the midbrain...
+
+10
+00:05:25,960 --> 00:05:29,839
+...a rounded protrusion called the pons...
+
+11
+00:05:30,880 --> 00:05:34,873
+...and a stalk tapering downwards
+called the medulla oblongata...
+
+12
+00:05:34,960 --> 00:05:38,589
+...which passes out of the skull
+through the foramen magnum...
+
+13
+00:05:38,680 --> 00:05:41,558
+...and becomes, of course, the spinal cord.
+
+14
+00:05:42,360 --> 00:05:44,954
+Are there any questions before we proceed?
+
+15
+00:05:45,040 --> 00:05:47,270
+I have one question, Dr Frankenstein.
+
+16
+00:05:49,960 --> 00:05:52,076
+That's Fronkonsteen.
+
+17
+00:05:52,160 --> 00:05:54,037
+I beg your pardon?
+
+18
+00:05:54,440 --> 00:05:57,671
+My name. It's pronounced "Fronkonsteen".
+
+19
+00:05:57,760 --> 00:06:01,594
+But aren't you the grandson
+of the famous Dr Victor Frankenstein...
+
+20
+00:06:01,680 --> 00:06:06,470
+...who dug up freshly buried corpses
+and transformed dead components into...
+
+21
+00:06:06,560 --> 00:06:08,152
+Yes, yes!
+
+22
+00:06:08,240 --> 00:06:09,309
+Yes!
+
+23
+00:06:09,400 --> 00:06:11,391
+We all know what he did!
+
+24
+00:06:12,280 --> 00:06:16,831
+But I'd rather be remembered
+for my own small contributions to science...
+
+25
+00:06:17,720 --> 00:06:20,792
+...and not because of
+my accidental relationship...
+
+26
+00:06:21,280 --> 00:06:24,397
+...to a famous... cuckoo!
+
+27
+00:06:24,480 --> 00:06:25,469
+<i>(laughter)</i>
+
+28
+00:06:28,200 --> 00:06:30,794
+Now, if you don't mind,
+can we have your question?
+
+29
+00:06:30,880 --> 00:06:34,077
+Well, sir, I'm not sure
+I understand the distinction...
+
+30
+00:06:34,160 --> 00:06:37,118
+...between reflexive
+and voluntary nerve impulses.
+
+31
+00:06:37,200 --> 00:06:41,273
+Good. Since our lab work today
+is a demonstration ofjust that distinction...
+
+32
+00:06:41,360 --> 00:06:43,351
+...why don't we proceed?
+
+33
+00:06:52,680 --> 00:06:55,911
+Mr Hilltop here,
+with whom I have never worked...
+
+34
+00:06:56,000 --> 00:06:58,719
+...or given any prior instructions to...
+
+35
+00:06:58,800 --> 00:07:02,634
+...has graciously offered his services
+for today's demonstration.
+
+36
+00:07:03,240 --> 00:07:07,472
+Mr Hilltop, would you hop up on your feet
+and stand beside this table?
+
+37
+00:07:16,880 --> 00:07:18,871
+Nice... hopping.
+
+38
+00:07:20,920 --> 00:07:22,911
+Mr Hilltop...
+
+39
+00:07:23,320 --> 00:07:27,950
+...would you raise... your left knee, please?
+
+40
+00:07:30,840 --> 00:07:34,037
+You have just witnessed
+a voluntary nerve impulse.
+
+41
+00:07:34,120 --> 00:07:37,078
+It begins as a stimulus
+from the cerebral cortex...
+
+42
+00:07:37,160 --> 00:07:40,516
+...passes through the brainstem
+and to the muscles involved.
+
+43
+00:07:40,600 --> 00:07:42,830
+Mr Hilltop, you may lower your knee.
+
+44
+00:07:42,920 --> 00:07:47,948
+Reflex movements are those
+which are made independently of the will...
+
+45
+00:07:48,040 --> 00:07:50,190
+...but are carried out along pathways...
+
+46
+00:07:50,280 --> 00:07:54,592
+...which pass between the peripheral nervous
+system and the central nervous system.
+
+47
+00:07:54,680 --> 00:07:56,910
+You filthy, rotten, yellow son of a bitch!
+
+48
+00:07:57,000 --> 00:07:57,989
+<i>(students gasp)</i>
+
+49
+00:07:58,080 --> 00:08:00,548
+We are not aware of these impulses.
+
+50
+00:08:00,640 --> 00:08:04,394
+Neither do we intend them
+to carry out our contraction of muscles.
+
+51
+00:08:04,480 --> 00:08:06,869
+Yet, as you can see, they work by themselves.
+
+52
+00:08:06,960 --> 00:08:11,112
+But what if we block the nerve impulse
+by simply applying local pressure...
+
+53
+00:08:11,200 --> 00:08:14,112
+...which can be done
+with any ordinary metal clamp...
+
+54
+00:08:14,200 --> 00:08:18,512
+...just at the swelling
+on the posterior nerve roots...
+
+55
+00:08:19,800 --> 00:08:22,553
+...for, oh, say... five or six seconds?
+
+56
+00:08:28,000 --> 00:08:30,230
+Why, you mother-grabbing bastard!
+
+57
+00:08:31,360 --> 00:08:34,272
+As you can see,
+all communication is shut off.
+
+58
+00:08:34,680 --> 00:08:36,989
+- <i>(Hilltop moans)</i>
+- <i>(students laugh)</i>
+
+59
+00:08:37,480 --> 00:08:40,313
+In spite of our mechanical magnificence...
+
+60
+00:08:40,960 --> 00:08:45,795
+...if it were not for this continuous stream
+of motor impulses...
+
+61
+00:08:45,880 --> 00:08:47,871
+...we would collapse...
+
+62
+00:08:47,960 --> 00:08:51,157
+...like a bunch of broccoli!
+
+63
+00:08:52,160 --> 00:08:53,115
+Ohhh!
+
+64
+00:08:53,200 --> 00:08:54,792
+<i>(applause)</i>
+
+65
+00:08:56,280 --> 00:08:58,589
+In conclusion, it should be noted...
+
+66
+00:08:59,160 --> 00:09:01,993
+- Give him an extra dollar.
+- Extra dollar. Yes, sir.
+
+67
+00:09:02,080 --> 00:09:04,878
+...that any more than common injury...
+
+68
+00:09:04,960 --> 00:09:07,633
+- <i>(moans)</i>
+- <i>... to the nerve root is always serious.</i>
+
+69
+00:09:08,280 --> 00:09:10,953
+Because once a nerve fibre is severed...
+
+70
+00:09:11,480 --> 00:09:14,836
+...there is no way, in heaven or on earth...
+
+71
+00:09:15,800 --> 00:09:17,950
+...to regenerate life back into it.
+
+72
+00:09:18,040 --> 00:09:20,474
+Are there any last questions before we leave?
+
+73
+00:09:20,560 --> 00:09:22,437
+Uh, Dr Frank...
+
+74
+00:09:23,560 --> 00:09:25,869
+- Fronkonsteen...
+- Yes?
+
+75
+00:09:25,960 --> 00:09:30,158
+Isn't it true that Darwin preserved
+a piece of vermicelli in a glass case...
+
+76
+00:09:30,240 --> 00:09:32,435
+...until, by some extraordinary means...
+
+77
+00:09:32,520 --> 00:09:35,990
+...it actually began to move
+with a voluntary motion?
+
+78
+00:09:36,640 --> 00:09:39,473
+Are you speaking of the worm
+or the spaghetti?
+
+79
+00:09:41,600 --> 00:09:43,591
+Why, the worm, sir.
+
+80
+00:09:43,680 --> 00:09:48,071
+Yes! It seems to me I did read something
+of that incident when I was a student.
+
+81
+00:09:48,160 --> 00:09:51,630
+But you have to remember that a worm,
+with very few exceptions...
+
+82
+00:09:51,720 --> 00:09:53,836
+...is not a human being.
+
+83
+00:09:53,920 --> 00:09:55,273
+<i>(laughter)</i>
+
+84
+00:09:55,360 --> 00:09:58,511
+But wasn't <i>that</i> the basis
+of your grandfather's work, sir?
+
+85
+00:09:58,600 --> 00:10:00,591
+The reanimation of dead tissue?
+
+86
+00:10:00,680 --> 00:10:03,592
+My grandfather was a very sick man.
+
+87
+00:10:04,480 --> 00:10:08,314
+But as a Fronkonsteen,
+aren't you the least bit curious about it?
+
+88
+00:10:08,400 --> 00:10:12,632
+Doesn't bringing back to life what was
+once dead hold any intrigue for you?
+
+89
+00:10:12,720 --> 00:10:16,998
+You are talking about
+the nonsensical ravings of a lunatic mind.
+
+90
+00:10:17,080 --> 00:10:19,071
+Dead is dead!
+
+91
+00:10:19,160 --> 00:10:21,879
+But look at what has been done
+with hearts and kidneys.
+
+92
+00:10:21,960 --> 00:10:24,474
+Hearts and kidneys are Tinkertoys!
+
+93
+00:10:24,560 --> 00:10:26,949
+I'm talking about the central nervous system!
+
+94
+00:10:27,040 --> 00:10:28,029
+But, sir...
+
+95
+00:10:28,120 --> 00:10:30,554
+I am a scientist, not a philosopher!
+
+96
+00:10:30,640 --> 00:10:33,359
+You have more chance
+of reanimating this scalpel...
+
+97
+00:10:33,440 --> 00:10:35,635
+...than of mending a broken nervous system!
+
+98
+00:10:35,720 --> 00:10:40,475
+- But what about your grandfather's work?
+- My grandfather's work was doo-doo!
+
+99
+00:10:42,280 --> 00:10:44,316
+I am not interested in death!
+
+100
+00:10:44,400 --> 00:10:47,995
+The only thing that concerns me
+is the preservation of life!
+
+101
+00:10:55,240 --> 00:10:57,037
+Class...
+
+102
+00:10:57,520 --> 00:10:59,158
+...is...
+
+103
+00:10:59,240 --> 00:11:00,832
+...dismissed.
+
+104
+00:11:00,920 --> 00:11:02,194
+<i>(applause)</i>
+
+105
+00:11:09,800 --> 00:11:11,791
+Dr Frankenstein...
+
+106
+00:11:13,080 --> 00:11:15,275
+That's... Fronkonsteen.
+
+107
+00:11:18,640 --> 00:11:20,631
+My name is Gerhart Falkstein.
+
+108
+00:11:21,080 --> 00:11:25,915
+I have travelled 5,000 miles to bring you
+the will of your great-grandfather.
+
+109
+00:11:26,360 --> 00:11:30,911
+Baron Beaufort von Frankenstein.
+
+110
+00:11:44,240 --> 00:11:46,231
+Oh, my sweet darling.
+
+111
+00:11:46,320 --> 00:11:49,756
+Oh, my dearest love.
+I'll count the hours that you're away.
+
+112
+00:11:49,840 --> 00:11:51,637
+Oh, darling, so will I.
+
+113
+00:11:51,720 --> 00:11:53,950
+- Not on the lips.
+- What?
+
+114
+00:11:54,040 --> 00:11:58,397
+I'm going to that party at Nanna and Nicky's
+later. I don't wanna smear my lipstick.
+
+115
+00:11:58,480 --> 00:12:00,118
+- You understand.
+- Of course.
+
+116
+00:12:00,200 --> 00:12:01,679
+All aboard!
+
+117
+00:12:02,400 --> 00:12:05,233
+- Oh, dear!
+- Well... I guess this is it.
+
+118
+00:12:05,320 --> 00:12:07,231
+Freddy, darling!
+
+119
+00:12:07,320 --> 00:12:11,438
+Oh, how can I say in a few minutes
+what it's taken me a lifetime to understand?
+
+120
+00:12:11,520 --> 00:12:13,511
+- Won't you try?
+- All right.
+
+121
+00:12:14,400 --> 00:12:16,391
+You've got it, mister.
+
+122
+00:12:16,960 --> 00:12:19,679
+I'm yours. All of me. What else can I say?
+
+123
+00:12:19,760 --> 00:12:21,239
+My sweet love...
+
+124
+00:12:21,320 --> 00:12:23,470
+The hair! The hair! Just been set.
+
+125
+00:12:23,560 --> 00:12:25,471
+Sorry... Sorry.
+
+126
+00:12:25,560 --> 00:12:27,710
+I hope you like old-fashioned weddings.
+
+127
+00:12:27,800 --> 00:12:29,870
+I prefer old-fashioned wedding nights!
+
+128
+00:12:29,960 --> 00:12:32,030
+Oh! You're incorrigible!
+
+129
+00:12:32,120 --> 00:12:34,111
+Does that mean...
+
+130
+00:12:35,480 --> 00:12:38,711
+...you love me?
+- You bet your boots it does.
+
+131
+00:12:38,800 --> 00:12:40,518
+Oh, my only love.
+
+132
+00:12:40,600 --> 00:12:42,591
+<i>(gasps)</i> Taffeta, darling.
+
+133
+00:12:43,000 --> 00:12:44,718
+Taffeta, sweetheart.
+
+134
+00:12:44,800 --> 00:12:47,268
+No, the dress is taffeta.
+
+135
+00:12:47,360 --> 00:12:49,351
+- It wrinkles so easily.
+- Oh.
+
+136
+00:12:49,440 --> 00:12:50,873
+All aboard!
+
+137
+00:12:50,960 --> 00:12:53,110
+Oh, there's that horrid man again.
+
+138
+00:12:53,200 --> 00:12:55,998
+Well, hurry now,
+before I make a fool of myself.
+
+139
+00:12:56,080 --> 00:12:58,071
+Oh! Nails! Oh...
+
+140
+00:12:58,160 --> 00:12:59,559
+Sorry...
+
+141
+00:13:07,320 --> 00:13:09,754
+- Goodbye, darling.
+- Goodbye, Freddy.
+
+142
+00:13:15,000 --> 00:13:16,592
+Darling!
+
+143
+00:13:26,800 --> 00:13:28,791
+<i>(she coughs and splutters)</i>
+
+144
+00:13:38,960 --> 00:13:42,316
+- Harry, he was at it again.
+- So what do you want me to do about it?
+
+145
+00:13:42,400 --> 00:13:43,799
+Every day!
+
+146
+00:13:43,880 --> 00:13:45,632
+Let him! Let him!
+
+147
+00:13:45,720 --> 00:13:49,395
+New York next! Everybody out for New York!
+
+148
+00:13:51,960 --> 00:13:55,555
+- <i>Heinz, er macht das schon wieder.</i>
+- <i>Na, was soll ich denn da machen?</i>
+
+149
+00:13:55,640 --> 00:13:57,073
+<i>Aber jeden Tag!</i>
+
+150
+00:13:57,160 --> 00:13:59,151
+<i>Nu, lass ihn, lass ihn.</i>
+
+151
+00:13:59,240 --> 00:14:03,677
+<i>Transylvania nächste!</i>
+<i>Jeder aussteigen für Transylvania!</i>
+
+152
+00:14:04,080 --> 00:14:08,278
+<i>Transylvania nächste!</i>
+<i>Jeder aussteigen für Transylvania!</i>
+
+153
+00:14:15,160 --> 00:14:18,277
+Pardon me, boy!
+Is this the Transylvania Station?
+
+154
+00:14:19,400 --> 00:14:21,550
+<i>Ja, ja!</i> Track 29!
+
+155
+00:14:23,000 --> 00:14:24,991
+Oh! Can I give you a shine?
+
+156
+00:14:25,080 --> 00:14:27,071
+Uh... No, thanks.
+
+157
+00:14:29,440 --> 00:14:31,237
+<i>(train puffing)</i>
+
+158
+00:14:41,440 --> 00:14:45,115
+<i>(footsteps and scraping)</i>
+
+159
+00:14:54,640 --> 00:14:56,631
+Dr Frankenstein?
+
+160
+00:15:01,680 --> 00:15:03,113
+Fronkonsteen.
+
+161
+00:15:04,960 --> 00:15:06,951
+You're putting me on.
+
+162
+00:15:07,040 --> 00:15:09,270
+No. It's pronounced Fronkonsteen.
+
+163
+00:15:10,160 --> 00:15:12,469
+Do you also say Frodorick?
+
+164
+00:15:12,560 --> 00:15:14,551
+No. Frederick.
+
+165
+00:15:14,640 --> 00:15:17,712
+Well, why isn't it Frodorick Fronkonsteen?
+
+166
+00:15:17,800 --> 00:15:20,314
+It isn't. It's Frederick Fronkonsteen.
+
+167
+00:15:20,400 --> 00:15:21,992
+I see.
+
+168
+00:15:22,080 --> 00:15:23,559
+You must be Igor.
+
+169
+00:15:23,640 --> 00:15:26,074
+No. It's pronounced l-gor.
+
+170
+00:15:27,480 --> 00:15:31,519
+- But they told me it was Igor.
+- Well, they were wrong then, weren't they?
+
+171
+00:15:31,600 --> 00:15:34,512
+Uh... You were sent by
+Herr Falkstein, weren't you?
+
+172
+00:15:34,600 --> 00:15:38,832
+Yes. My grandfather
+used to work for your grandfather.
+
+173
+00:15:39,840 --> 00:15:42,479
+<i>(giggles)</i> How nice.
+
+174
+00:15:42,560 --> 00:15:44,596
+Of course, the rates have gone up.
+
+175
+00:15:44,680 --> 00:15:47,672
+Of course. I'm sure we'll get along splendidly.
+
+176
+00:15:47,760 --> 00:15:49,637
+- <i>(hollow sound)</i>
+- Oh!
+
+177
+00:15:49,720 --> 00:15:52,280
+Sorry. I... Uh...
+
+178
+00:15:53,000 --> 00:15:57,039
+You know, I don't mean to embarrass you,
+but I'm a rather brilliant surgeon.
+
+179
+00:15:57,120 --> 00:15:59,554
+Perhaps I could help you with that hump.
+
+180
+00:15:59,640 --> 00:16:01,631
+What hump?
+
+181
+00:16:06,040 --> 00:16:07,393
+Let's go.
+
+182
+00:16:07,480 --> 00:16:09,471
+Allow me, master.
+
+183
+00:16:10,080 --> 00:16:12,071
+Oh... Thanks very much.
+
+184
+00:16:16,800 --> 00:16:18,597
+Walk this way.
+
+185
+00:16:20,960 --> 00:16:22,757
+This way.
+
+186
+00:16:30,400 --> 00:16:32,391
+<i>(thunder crashes)</i>
+
+187
+00:16:39,760 --> 00:16:42,320
+I think you'll be more comfortable in the rear.
+
+188
+00:16:42,400 --> 00:16:43,992
+Oh...
+
+189
+00:16:47,280 --> 00:16:49,271
+- <i>(woman)</i> Ooh!
+- What was that?
+
+190
+00:16:49,360 --> 00:16:51,351
+Oh, that'll be Inga.
+
+191
+00:16:51,440 --> 00:16:55,592
+Herr Falkstein thought you might need
+a laboratory assistant temporarily.
+
+192
+00:16:55,680 --> 00:16:56,749
+Oh.
+
+193
+00:16:57,960 --> 00:16:59,712
+Ooh!
+
+194
+00:16:59,800 --> 00:17:03,190
+Hello!
+Would you like to have a roll in the hay?
+
+195
+00:17:04,520 --> 00:17:06,112
+It's fun!
+
+196
+00:17:06,200 --> 00:17:08,031
+# Roll, roll
+
+197
+00:17:08,120 --> 00:17:09,599
+# Roll in the hay
+
+198
+00:17:09,680 --> 00:17:11,033
+- Hah!
+- <i>(Freddy)</i> Oh...
+
+199
+00:17:25,200 --> 00:17:26,997
+<i>(thunder)</i>
+
+200
+00:17:29,600 --> 00:17:31,591
+Oh!
+
+201
+00:17:31,680 --> 00:17:34,114
+Sometimes I am afraid of the lightning.
+
+202
+00:17:34,200 --> 00:17:36,509
+It's just an atmospheric discharge.
+
+203
+00:17:36,600 --> 00:17:38,591
+Nothing to be afraid of.
+
+204
+00:17:38,680 --> 00:17:42,559
+<i>(howling)</i>
+
+205
+00:17:43,760 --> 00:17:45,751
+Werewolf!
+
+206
+00:17:45,840 --> 00:17:47,831
+Werewolf?!
+
+207
+00:17:47,920 --> 00:17:49,911
+- There!
+- What?
+
+208
+00:17:50,720 --> 00:17:52,711
+There wolf!
+
+209
+00:17:52,800 --> 00:17:54,791
+There castle!
+
+210
+00:17:54,880 --> 00:17:56,871
+Why are you talking that way?
+
+211
+00:17:56,960 --> 00:17:59,793
+- I thought you wanted to.
+- No, I don't want to!
+
+212
+00:18:00,680 --> 00:18:02,671
+Suit yourself. I'm easy.
+
+213
+00:18:05,800 --> 00:18:07,279
+Well...
+
+214
+00:18:07,360 --> 00:18:09,078
+There it is.
+
+215
+00:18:09,160 --> 00:18:10,798
+Home.
+
+216
+00:18:42,160 --> 00:18:44,151
+What knockers!
+
+217
+00:18:44,240 --> 00:18:46,549
+Oh... Thank you, Doctor.
+
+218
+00:18:47,400 --> 00:18:49,391
+Oh. That's all right.
+
+219
+00:18:50,400 --> 00:18:52,550
+There we are.
+
+220
+00:18:55,400 --> 00:18:57,391
+<i>(door creaks)</i>
+
+221
+00:19:04,840 --> 00:19:06,831
+I am Frau Blücher.
+
+222
+00:19:06,920 --> 00:19:08,319
+<i>(horses neigh)</i>
+
+223
+00:19:11,440 --> 00:19:13,431
+Steady!
+
+224
+00:19:14,920 --> 00:19:17,514
+How do you do? I am Dr Fronkonsteen.
+
+225
+00:19:17,600 --> 00:19:21,036
+This is my assistant.
+Inga, may I present Frau Blücher?
+
+226
+00:19:21,120 --> 00:19:22,951
+<i>(neighing)</i>
+
+227
+00:19:24,560 --> 00:19:26,596
+I wonder what's got into them.
+
+228
+00:19:27,280 --> 00:19:31,273
+Your rooms have been prepared, <i>Herr Doktor.</i>
+
+229
+00:19:31,360 --> 00:19:33,669
+If you will follow me.
+
+230
+00:19:33,760 --> 00:19:37,435
+L-gor! Would you bring the bags
+as soon as you're finished, please?
+
+231
+00:19:37,520 --> 00:19:38,999
+Yes, master.
+
+232
+00:19:39,080 --> 00:19:41,150
+After you, Frau Blücher.
+
+233
+00:19:41,240 --> 00:19:43,231
+<i>(neighing)</i>
+
+234
+00:19:55,960 --> 00:19:57,951
+- Blücher!
+- <i>(neighing)</i>
+
+235
+00:20:13,960 --> 00:20:15,951
+Follow me, please.
+
+236
+00:20:36,640 --> 00:20:38,631
+Stay close to the candles.
+
+237
+00:20:38,720 --> 00:20:41,553
+The staircase... can be treacherous.
+
+238
+00:20:50,360 --> 00:20:54,751
+<i>Und</i> this is your room.
+It was your grandfather Victor's room.
+
+239
+00:20:54,840 --> 00:20:56,831
+I see.
+
+240
+00:20:58,000 --> 00:21:00,070
+Well! Seem to be quite a few books.
+
+241
+00:21:00,200 --> 00:21:01,872
+This was Victor's...
+
+242
+00:21:02,760 --> 00:21:04,751
+...the Baron's medical library.
+
+243
+00:21:05,720 --> 00:21:09,793
+- Where is my grandfather's private library?
+- I don't know what you mean, sir.
+
+244
+00:21:09,880 --> 00:21:13,873
+Well, these books are very general.
+Any doctor might have them in his study.
+
+245
+00:21:13,960 --> 00:21:17,350
+This is the only library <i>I</i> know of,
+Dr Frankenstone.
+
+246
+00:21:18,800 --> 00:21:20,870
+- Fronkonsteen.
+- Fronkonsteen.
+
+247
+00:21:21,880 --> 00:21:23,871
+Well, we'll see.
+
+248
+00:21:25,000 --> 00:21:26,797
+Good night.
+
+249
+00:21:29,320 --> 00:21:32,676
+Would the doctor care for a brandy
+before retiring?
+
+250
+00:21:33,600 --> 00:21:35,591
+No... Thank you.
+
+251
+00:21:38,240 --> 00:21:40,231
+Some warm milk...
+
+252
+00:21:41,200 --> 00:21:42,997
+...perhaps?
+
+253
+00:21:43,800 --> 00:21:45,791
+No... thank you very much.
+
+254
+00:21:46,600 --> 00:21:48,591
+No, thanks.
+
+255
+00:21:48,680 --> 00:21:50,671
+Ovaltine?
+
+256
+00:21:54,840 --> 00:21:56,592
+Nothing!
+
+257
+00:21:56,680 --> 00:21:58,432
+Thank you.
+
+258
+00:21:58,520 --> 00:22:00,511
+I'm a little tired.
+
+259
+00:22:03,600 --> 00:22:05,670
+Then I will say... good night.
+
+260
+00:22:05,760 --> 00:22:07,751
+Good night!
+
+261
+00:22:23,280 --> 00:22:26,113
+Good night, darling. <i>(kisses)</i>
+
+262
+00:22:29,400 --> 00:22:31,470
+Good night, <i>Herr Doktor.</i>
+
+263
+00:22:31,560 --> 00:22:33,869
+Good night, Frau Blücher.
+
+264
+00:22:33,960 --> 00:22:35,552
+<i>(neighing)</i>
+
+265
+00:22:50,560 --> 00:22:52,551
+<i>(groans)</i>
+
+266
+00:22:54,560 --> 00:22:56,551
+No, no, no, no, no, no.
+
+267
+00:22:57,960 --> 00:22:59,951
+No, no, no, no, no, no, no, no.
+
+268
+00:23:04,560 --> 00:23:06,551
+I'm not a Frankenstein.
+
+269
+00:23:08,040 --> 00:23:10,235
+I am not a Frankenstein!
+
+270
+00:23:11,600 --> 00:23:13,591
+I'm a Fronkonsteen!
+
+271
+00:23:14,320 --> 00:23:16,311
+Don't gimme that!
+
+272
+00:23:16,400 --> 00:23:18,391
+I don't believe in fate!
+
+273
+00:23:19,760 --> 00:23:21,751
+And I won't say it.
+
+274
+00:23:23,080 --> 00:23:25,230
+All right, you win! You win! I give.
+
+275
+00:23:25,680 --> 00:23:28,148
+I'll say it. I'll say it, I'll say it.
+
+276
+00:23:30,080 --> 00:23:32,196
+Destiny! Destiny!
+
+277
+00:23:32,760 --> 00:23:35,069
+No escaping that for me!
+
+278
+00:23:35,160 --> 00:23:37,230
+Destiny! Destiny!
+
+279
+00:23:37,320 --> 00:23:39,595
+No escaping that for me!
+
+280
+00:23:39,680 --> 00:23:41,796
+Destiny! Destiny...
+
+281
+00:23:41,880 --> 00:23:43,871
+No escaping... <i>(gasps)</i>
+
+282
+00:23:45,480 --> 00:23:47,994
+Dr Fronkonsteen! Wake up!
+
+283
+00:23:48,720 --> 00:23:50,278
+What is it?
+
+284
+00:23:50,360 --> 00:23:52,351
+You were having a nightmare.
+
+285
+00:23:52,440 --> 00:23:54,158
+<i>(faint violin music)</i>
+
+286
+00:23:54,240 --> 00:23:57,152
+- What's that strange music?
+- I have no idea.
+
+287
+00:23:58,400 --> 00:24:00,391
+But it seems to be coming...
+
+288
+00:24:01,480 --> 00:24:03,835
+...from behind the bookcase.
+
+289
+00:24:05,320 --> 00:24:07,311
+Behind the bookcase...
+
+290
+00:24:09,400 --> 00:24:11,550
+Hand me that robe, would you, dear?
+
+291
+00:24:16,160 --> 00:24:19,277
+You were right.
+It's coming from behind this wall.
+
+292
+00:24:20,160 --> 00:24:21,593
+Where is it?
+
+293
+00:24:21,680 --> 00:24:23,557
+- Where is it?
+- What?
+
+294
+00:24:23,640 --> 00:24:27,599
+There's always a device.
+If I can just spot the triggering mechanism...
+
+295
+00:24:27,680 --> 00:24:29,671
+Hello!
+
+296
+00:24:39,640 --> 00:24:41,551
+It seems louder over here.
+
+297
+00:24:41,640 --> 00:24:43,631
+Hand me that candle, will you?
+
+298
+00:24:47,840 --> 00:24:50,991
+Put... the candle... back!
+
+299
+00:24:56,920 --> 00:24:59,992
+All right! I think I have it figured out now.
+
+300
+00:25:00,560 --> 00:25:02,551
+Take out the candle...
+
+301
+00:25:02,640 --> 00:25:06,155
+...and I'll block the bookcase with my body.
+
+302
+00:25:11,120 --> 00:25:13,111
+<i>(crunch)</i>
+
+303
+00:25:16,160 --> 00:25:18,799
+<i>(high-pitched voice)</i>
+Listen to me very carefully.
+
+304
+00:25:18,880 --> 00:25:21,440
+Don't put the candle back!
+
+305
+00:25:22,560 --> 00:25:24,471
+With all of your might...
+
+306
+00:25:24,560 --> 00:25:28,235
+...shove against the other side
+of the bookcase.
+
+307
+00:25:28,680 --> 00:25:31,194
+Is that... perfectly clear?
+
+308
+00:25:32,360 --> 00:25:34,351
+I think so.
+
+309
+00:25:42,520 --> 00:25:44,511
+Good girl!
+
+310
+00:25:45,560 --> 00:25:47,915
+Put... the candle... back!
+
+311
+00:25:55,600 --> 00:25:58,034
+Oh, look, Doctor! A passageway!
+
+312
+00:25:58,120 --> 00:26:01,078
+Whatever that music is,
+it's coming from down there.
+
+313
+00:26:01,160 --> 00:26:04,675
+- I'd better take a look.
+- Oh, let me come with you, Doctor, please.
+
+314
+00:26:04,760 --> 00:26:06,751
+I don't wanna stay up here alone.
+
+315
+00:26:06,840 --> 00:26:09,752
+All right, then.
+Close your robe and follow me.
+
+316
+00:26:09,840 --> 00:26:11,831
+Oh, Doctor! The candle...
+
+317
+00:26:12,600 --> 00:26:14,750
+Good thinking. Let's try this one.
+
+318
+00:26:16,400 --> 00:26:18,391
+Stand back!
+
+319
+00:26:28,520 --> 00:26:30,511
+<i>(</i># <i>violin continues)</i>
+
+320
+00:26:44,120 --> 00:26:46,111
+<i>(thunder crashes)</i>
+
+321
+00:26:46,920 --> 00:26:48,114
+<i>(Inga gasps)</i>
+
+322
+00:26:48,200 --> 00:26:50,236
+<i>(squeaks)</i>
+
+323
+00:26:50,320 --> 00:26:52,709
+Don't be frightened, dear. Just a rat.
+
+324
+00:26:53,440 --> 00:26:55,795
+A filthy, slimy rat!
+
+325
+00:27:18,120 --> 00:27:20,111
+<i>(door creaks)</i>
+
+326
+00:27:30,320 --> 00:27:31,548
+Good Lord!
+
+327
+00:27:33,240 --> 00:27:35,231
+Oh!
+
+328
+00:27:51,040 --> 00:27:52,678
+- # I...
+- Ohh!
+
+329
+00:27:52,760 --> 00:27:55,069
+# Ain't got nobody
+
+330
+00:27:55,160 --> 00:27:57,674
+# And nobody cares for me
+
+331
+00:27:57,760 --> 00:27:59,751
+# Yak-a-tata, yak-a-tata-ta-ta, hah!
+
+332
+00:27:59,840 --> 00:28:01,319
+- L-gor!
+- Frodorick.
+
+333
+00:28:01,400 --> 00:28:03,391
+How did you get here?
+
+334
+00:28:04,320 --> 00:28:06,231
+Through the dumbwaiter.
+
+335
+00:28:06,320 --> 00:28:11,075
+I heard the strangest music from the upstairs
+kitchen and I just... followed it down.
+
+336
+00:28:11,160 --> 00:28:12,991
+Call it... a hunch.
+
+337
+00:28:13,080 --> 00:28:14,069
+Brrrm-chee!
+
+338
+00:28:14,160 --> 00:28:16,515
+There must have been
+someone else down here.
+
+339
+00:28:16,600 --> 00:28:18,591
+It would seem that way.
+
+340
+00:28:18,680 --> 00:28:20,830
+And there's the only other door.
+
+341
+00:28:21,520 --> 00:28:23,511
+Wait, master.
+
+342
+00:28:23,600 --> 00:28:25,591
+It might be dangerous.
+
+343
+00:28:26,400 --> 00:28:28,391
+You go first.
+
+344
+00:28:39,280 --> 00:28:41,669
+Aren't there any lights in this place?
+
+345
+00:28:42,680 --> 00:28:47,151
+Two nasty-Iooking switches over here,
+but I'm not going to be the first.
+
+346
+00:28:47,240 --> 00:28:49,231
+Well...
+
+347
+00:28:52,080 --> 00:28:54,071
+Damn your eyes!
+
+348
+00:28:54,160 --> 00:28:56,151
+Too late!
+
+349
+00:29:06,360 --> 00:29:08,351
+<i>(Inga)</i> Ohh...
+
+350
+00:29:08,440 --> 00:29:11,113
+So this is where it all happened.
+
+351
+00:29:22,080 --> 00:29:26,710
+<i>(man) Just think! A dead brain</i>
+<i>ready to live again in a new body!</i>
+
+352
+00:29:27,280 --> 00:29:30,158
+<i>Look! No blood, no decomposition.</i>
+
+353
+00:29:30,240 --> 00:29:32,231
+<i>Just a few sutures.</i>
+
+354
+00:29:32,320 --> 00:29:34,914
+- <i>Throw the main switch.</i>
+- <i>Yes, master.</i>
+
+355
+00:29:35,000 --> 00:29:36,991
+<i>(crackling)</i>
+
+356
+00:29:41,440 --> 00:29:43,715
+What a filthy mess!
+
+357
+00:29:43,800 --> 00:29:47,475
+I dunno. A little paint, a few flowers,
+couple of throw pillows...
+
+358
+00:29:51,360 --> 00:29:55,558
+Well, it seems as if our mysterious violinist
+has disa... p...
+
+359
+00:29:55,640 --> 00:29:57,119
+- Disa... what?
+...peared.
+
+360
+00:29:57,200 --> 00:29:58,679
+Ssh!
+
+361
+00:29:58,760 --> 00:30:02,355
+<i>(whispers)</i> There is a light
+coming from behind that door.
+
+362
+00:30:04,640 --> 00:30:06,631
+<i>(whispers)</i> Follow me!
+
+363
+00:30:32,640 --> 00:30:34,631
+<i>(gasps)</i> Doctor! Look!
+
+364
+00:30:37,040 --> 00:30:40,555
+Well... This explains the music.
+
+365
+00:30:42,040 --> 00:30:43,951
+- It's still warm.
+- Mm.
+
+366
+00:30:44,040 --> 00:30:45,951
+But who was playing it?
+
+367
+00:30:46,040 --> 00:30:47,553
+I don't know...
+
+368
+00:30:47,640 --> 00:30:51,315
+...but whoever it was just barely finished
+putting out his cigar.
+
+369
+00:30:51,400 --> 00:30:53,960
+Such strange goings-on!
+
+370
+00:30:56,320 --> 00:30:58,311
+What <i>is</i> this place?
+
+371
+00:30:58,400 --> 00:31:00,197
+Music room?
+
+372
+00:31:00,880 --> 00:31:03,792
+But there's nothing here
+but books and papers!
+
+373
+00:31:04,280 --> 00:31:06,271
+Books and papers?
+
+374
+00:31:07,080 --> 00:31:08,479
+It is!
+
+375
+00:31:08,560 --> 00:31:11,836
+This is my grandfather's private library!
+I feel it!
+
+376
+00:31:13,200 --> 00:31:15,191
+Look! Look at this!
+
+377
+00:31:24,600 --> 00:31:26,591
+<i>(heavy breathing)</i>
+
+378
+00:31:29,000 --> 00:31:33,835
+<i>(Freddy)</i> "Until, from the midst of this
+darkness, a sudden light broke in upon me."
+
+379
+00:31:34,800 --> 00:31:39,078
+"A light so brilliant and wondrous,
+and yet so simple."
+
+380
+00:31:40,160 --> 00:31:42,594
+"Change the poles from plus to minus...
+
+381
+00:31:43,600 --> 00:31:45,591
+...and from minus to plus."
+
+382
+00:31:46,680 --> 00:31:48,557
+Ah... ah...
+
+383
+00:31:50,000 --> 00:31:54,118
+"I alone succeeded in discovering
+the secret of bestowing life."
+
+384
+00:31:54,760 --> 00:31:56,591
+"Nay, even more..."
+
+385
+00:31:56,680 --> 00:32:01,754
+"I myself... became capable
+of bestowing animation...
+
+386
+00:32:02,560 --> 00:32:04,869
+...upon lifeless matter!"
+
+387
+00:32:11,760 --> 00:32:14,877
+It... could... work!
+
+388
+00:32:14,960 --> 00:32:16,757
+<i>(thunder crashes)</i>
+
+389
+00:32:31,840 --> 00:32:34,354
+- Kipper?
+- Mm. Thank you, Doctor.
+
+390
+00:32:39,440 --> 00:32:42,955
+"As the minuteness of the parts
+formed a hindrance to my speed...
+
+391
+00:32:43,040 --> 00:32:47,397
+...I resolved therefore
+to make the creature of a gigantic stature."
+
+392
+00:32:51,000 --> 00:32:52,672
+Of course!
+
+393
+00:32:52,760 --> 00:32:54,830
+That would simplify everything.
+
+394
+00:32:54,920 --> 00:32:56,478
+In other words...
+
+395
+00:32:56,560 --> 00:33:01,236
+...his veins, his feet, his hands, his organs
+would all have to be increased in size.
+
+396
+00:33:01,320 --> 00:33:03,231
+Exactly.
+
+397
+00:33:04,040 --> 00:33:06,679
+He would have an enormous <i>Schwanzstück!</i>
+
+398
+00:33:12,080 --> 00:33:14,071
+That goes without saying.
+
+399
+00:33:14,640 --> 00:33:16,039
+Woof!
+
+400
+00:33:17,000 --> 00:33:19,434
+He's gonna be very popular.
+
+401
+00:33:19,960 --> 00:33:21,279
+So then...
+
+402
+00:33:21,360 --> 00:33:25,512
+What we're aiming for is a being
+approximately seven feet in height...
+
+403
+00:33:25,600 --> 00:33:30,390
+...with all features either congenitally
+or artificially proportionate in size.
+
+404
+00:33:30,480 --> 00:33:32,277
+Something like...
+
+405
+00:33:32,720 --> 00:33:34,756
+...this?
+
+406
+00:33:38,800 --> 00:33:40,552
+Hello...
+
+407
+00:33:40,640 --> 00:33:42,631
+You've caught something there.
+
+408
+00:33:42,720 --> 00:33:46,190
+Crude, yes, primitive, yes,
+perhaps even grotesque...
+
+409
+00:33:46,280 --> 00:33:48,953
+...yet something inexplicable tells me...
+
+410
+00:33:49,760 --> 00:33:53,912
+...that this might be our man!
+
+411
+00:34:09,360 --> 00:34:11,351
+All right, all right.
+
+412
+00:34:11,440 --> 00:34:13,874
+That's good enough for the likes of 'im.
+
+413
+00:34:30,200 --> 00:34:32,191
+Get down, you fool!
+
+414
+00:34:40,240 --> 00:34:42,231
+Now!
+
+415
+00:35:10,040 --> 00:35:12,031
+What a filthy job!
+
+416
+00:35:12,480 --> 00:35:14,710
+- Could be worse.
+- How?
+
+417
+00:35:14,800 --> 00:35:16,791
+Could be raining.
+
+418
+00:36:00,560 --> 00:36:01,959
+<i>(footsteps)</i>
+
+419
+00:36:02,040 --> 00:36:04,235
+Quick!
+
+420
+00:36:08,600 --> 00:36:10,272
+Need a hand?
+
+421
+00:36:10,360 --> 00:36:13,830
+Uh... No, thanks. I have one.
+Thanks very much all the same.
+
+422
+00:36:13,920 --> 00:36:15,558
+Just a moment, sir!
+
+423
+00:36:15,640 --> 00:36:19,349
+I know everyone around here,
+but I've never seen your face before.
+
+424
+00:36:19,440 --> 00:36:21,431
+Can you account for yourself?
+
+425
+00:36:21,520 --> 00:36:25,513
+Yes. I am Dr Frederick Fronkonsteen,
+newly arrived from America.
+
+426
+00:36:25,600 --> 00:36:28,194
+Oh, yes, sir! I was told you were here.
+
+427
+00:36:28,280 --> 00:36:31,431
+Well, I'm Constable Henry, sir.
+Pleased to meet you.
+
+428
+00:36:31,520 --> 00:36:32,999
+<i>(Freddy stamps foot)</i>
+
+429
+00:36:33,080 --> 00:36:35,389
+How very nice to meet you, Constable.
+
+430
+00:36:35,480 --> 00:36:38,392
+- Why, you're chilled to the bone, sir.
+- Ooh!
+
+431
+00:36:38,480 --> 00:36:41,392
+- A nice, warm fire would be the thing for you.
+- Yes, yes.
+
+432
+00:36:41,480 --> 00:36:44,756
+A little nip from the old bottle
+wouldn't be too bad either, sir.
+
+433
+00:36:44,840 --> 00:36:47,035
+That's the ticket, yes!
+
+434
+00:36:47,120 --> 00:36:50,556
+Well, if you have everything in hand, sir,
+I'll say good night.
+
+435
+00:36:50,640 --> 00:36:52,631
+Thank you very much, Constable.
+
+436
+00:36:52,720 --> 00:36:55,632
+- At your service, sir, always.
+- <i>(stamps foot)</i>
+
+437
+00:36:57,440 --> 00:37:00,113
+- Good night, Constable.
+- Good night, sir.
+
+438
+00:37:16,800 --> 00:37:19,553
+Oh, what an awesome sight!
+
+439
+00:37:20,880 --> 00:37:24,475
+What a profound and reverend night is this.
+
+440
+00:37:25,720 --> 00:37:27,995
+With such a specimen for a body...
+
+441
+00:37:28,560 --> 00:37:32,758
+...all we need now is
+an equally magnificent brain.
+
+442
+00:37:34,680 --> 00:37:37,513
+- You know what to do?
+- I have a pretty good idea.
+
+443
+00:37:37,600 --> 00:37:39,591
+Good man.
+
+444
+00:37:40,240 --> 00:37:43,471
+Didn't you... Didn't you use to have that
+on the other side?
+
+445
+00:37:43,560 --> 00:37:45,551
+- What?
+- Your, uh...
+
+446
+00:37:46,440 --> 00:37:48,431
+Oh, never mind.
+
+447
+00:37:51,960 --> 00:37:55,475
+- Do you have that name I gave you?
+- I have it written down.
+
+448
+00:37:56,600 --> 00:37:59,558
+- H Delbruck.
+- Hans Delbruck.
+
+449
+00:38:01,720 --> 00:38:03,472
+<i>(thunder rumbles)</i>
+
+450
+00:38:25,160 --> 00:38:26,752
+Ohh!
+
+451
+00:39:48,880 --> 00:39:52,509
+- <i>(Inga)</i> He is hideous.
+- <i>(Freddy)</i> He's beautiful.
+
+452
+00:39:53,600 --> 00:39:56,956
+And he is mine!
+
+453
+00:39:57,480 --> 00:39:58,959
+<i>(thunder crashes)</i>
+
+454
+00:40:04,600 --> 00:40:07,353
+Hurry now.
+We're fighting time and the elements.
+
+455
+00:40:07,440 --> 00:40:11,353
+- Are you ready?
+- Are you sure this is how they did it?
+
+456
+00:40:11,440 --> 00:40:13,954
+Yes, yes! It's all written down in the notes!
+
+457
+00:40:14,040 --> 00:40:17,032
+Now tie off the kites
+and hurry down as fast as you can.
+
+458
+00:40:17,120 --> 00:40:18,553
+What's the hurry?
+
+459
+00:40:18,640 --> 00:40:22,428
+There's a possibility of electrocution.
+Do you understand?
+
+460
+00:40:26,080 --> 00:40:29,834
+I say "There's a possibility of electrocution!"
+
+461
+00:40:30,360 --> 00:40:32,351
+Do you understand?
+
+462
+00:40:32,800 --> 00:40:35,712
+I understand, I understand.
+Why are you shouting?
+
+463
+00:40:36,840 --> 00:40:38,432
+Did you...
+
+464
+00:40:39,360 --> 00:40:41,749
+- Did you tie off the kites?
+- Of course.
+
+465
+00:40:42,560 --> 00:40:44,232
+Oh... All right. Good.
+
+466
+00:40:44,320 --> 00:40:46,311
+<i>(hollow sound)</i>
+
+467
+00:40:46,960 --> 00:40:49,633
+- Uh... Check the generator.
+- Yes, master.
+
+468
+00:40:57,760 --> 00:40:58,988
+L-gor!
+
+469
+00:40:59,080 --> 00:41:02,390
+- Release the safety valve on the main wheel.
+- Yes, master.
+
+470
+00:41:02,480 --> 00:41:04,471
+<i>(thunder crashes)</i>
+
+471
+00:41:08,200 --> 00:41:12,079
+Can you imagine the brain of Hans Delbruck
+in this body?
+
+472
+00:41:12,640 --> 00:41:14,551
+Oh, Frederick!
+
+473
+00:41:15,040 --> 00:41:17,031
+This is the moment.
+
+474
+00:41:17,960 --> 00:41:19,951
+Well, dear...
+
+475
+00:41:20,040 --> 00:41:22,031
+Are you ready?
+
+476
+00:41:22,120 --> 00:41:24,111
+Yes, Doctor.
+
+477
+00:41:25,480 --> 00:41:27,471
+Elevate me.
+
+478
+00:41:28,160 --> 00:41:30,151
+Now? Right here?
+
+479
+00:41:31,560 --> 00:41:33,551
+Yes, yes. Raise the platform.
+
+480
+00:41:33,640 --> 00:41:35,551
+Oh! The platform!
+
+481
+00:41:35,640 --> 00:41:37,631
+Oh, that! <i>Ja...</i> yes.
+
+482
+00:41:56,200 --> 00:42:00,557
+From that fateful day
+when stinking bits of slime...
+
+483
+00:42:00,640 --> 00:42:05,156
+...first crawled from the sea
+and shouted to the cold stars...
+
+484
+00:42:05,760 --> 00:42:08,320
+..."I am man!"...
+
+485
+00:42:09,600 --> 00:42:14,151
+...our greatest dread has always been
+the knowledge of our own mortality.
+
+486
+00:42:14,880 --> 00:42:16,871
+But tonight...
+
+487
+00:42:16,960 --> 00:42:19,633
+...we shall hurl the gauntlet of science...
+
+488
+00:42:19,720 --> 00:42:22,518
+...into the frightful face of death itself.
+
+489
+00:42:25,160 --> 00:42:27,151
+Tonight...
+
+490
+00:42:27,640 --> 00:42:30,598
+...we shall ascend into the heavens!
+
+491
+00:42:32,000 --> 00:42:34,833
+We shall mock the earthquake!
+
+492
+00:42:35,480 --> 00:42:37,948
+We shall command the thunders...
+
+493
+00:42:38,720 --> 00:42:40,711
+...and penetrate...
+
+494
+00:42:40,800 --> 00:42:47,194
+...into the very womb
+of impervious nature herself!
+
+495
+00:42:47,600 --> 00:42:49,875
+<i>(thunder crashing)</i>
+
+496
+00:42:50,840 --> 00:42:52,831
+<i>(wind howling)</i>
+
+497
+00:42:55,120 --> 00:42:58,749
+When I give the word,
+throw the first switch!
+
+498
+00:42:59,240 --> 00:43:01,231
+You've got it, master.
+
+499
+00:43:05,160 --> 00:43:07,151
+Get ready!
+
+500
+00:43:09,920 --> 00:43:11,433
+Get set!
+
+501
+00:43:11,520 --> 00:43:13,112
+Go!
+
+502
+00:43:13,680 --> 00:43:15,671
+<i>(electricity crackles)</i>
+
+503
+00:43:19,360 --> 00:43:21,555
+Throw the second switch!
+
+504
+00:43:25,920 --> 00:43:27,911
+Throw the third switch!
+
+505
+00:43:28,440 --> 00:43:30,874
+Not... the third switch?
+
+506
+00:43:30,960 --> 00:43:33,269
+Throw it, I say! Throw it!
+
+507
+00:43:45,440 --> 00:43:47,431
+Life!
+
+508
+00:43:47,520 --> 00:43:49,511
+Life, do you hear me?
+
+509
+00:43:50,120 --> 00:43:52,111
+Give my creation...
+
+510
+00:43:52,800 --> 00:43:55,189
+...life!
+
+511
+00:44:16,400 --> 00:44:18,630
+Turn everything off and bring me down!
+
+512
+00:45:26,000 --> 00:45:27,991
+Nothing!
+
+513
+00:45:28,400 --> 00:45:30,550
+- Oh, Doctor. I'm sorry...
+- No, no.
+
+514
+00:45:31,600 --> 00:45:33,670
+Be of good cheer.
+
+515
+00:45:33,760 --> 00:45:36,115
+If science teaches us anything...
+
+516
+00:45:37,280 --> 00:45:40,033
+...it teaches us to accept our failures...
+
+517
+00:45:40,800 --> 00:45:42,791
+...as well as our successes...
+
+518
+00:45:43,880 --> 00:45:46,633
+...with quiet... dignity...
+
+519
+00:45:48,600 --> 00:45:50,591
+...and grace.
+
+520
+00:46:00,600 --> 00:46:03,068
+Son of a bitch, bastard! I'll get you for this!
+
+521
+00:46:03,160 --> 00:46:05,151
+What did you do to me?
+
+522
+00:46:05,240 --> 00:46:08,471
+- What did you do to me?
+- Doctor! Doctor! Stop it!
+
+523
+00:46:08,880 --> 00:46:10,757
+You'll kill him!
+
+524
+00:46:10,840 --> 00:46:11,989
+Agh!
+
+525
+00:46:12,080 --> 00:46:13,672
+I don't wanna live!
+
+526
+00:46:13,760 --> 00:46:16,991
+I do not want to live!
+
+527
+00:46:17,080 --> 00:46:19,071
+<i>(sobbing)</i>
+
+528
+00:46:19,160 --> 00:46:21,151
+Quiet dignity and grace.
+
+529
+00:46:21,720 --> 00:46:23,711
+Ohhh! Mama!
+
+530
+00:46:26,080 --> 00:46:29,629
+Oh, tosh! This man is different, I tell you!
+
+531
+00:46:29,720 --> 00:46:33,235
+You can see that after you've talked to him
+for five minutes.
+
+532
+00:46:35,280 --> 00:46:36,838
+Yes?
+
+533
+00:46:38,320 --> 00:46:40,311
+He's a Frankenstein!
+
+534
+00:46:40,400 --> 00:46:43,517
+- And they're all alike!
+- <i>(shouting in agreement)</i>
+
+535
+00:46:44,200 --> 00:46:46,634
+It's in their blood. They can't 'elp it.
+
+536
+00:46:47,120 --> 00:46:49,714
+All those scientists, they're all alike.
+
+537
+00:46:50,400 --> 00:46:52,391
+They say they're working <i>for</i> us.
+
+538
+00:46:52,680 --> 00:46:55,990
+What they really want is to rule the world!
+
+539
+00:46:59,480 --> 00:47:01,198
+<i>(gavel)</i>
+
+540
+00:47:02,840 --> 00:47:07,038
+That's enough now! I will not have
+this meeting become a free-for-all!
+
+541
+00:47:07,120 --> 00:47:09,873
+These are very serious charges
+you're making...
+
+542
+00:47:09,960 --> 00:47:14,829
+...and all the more painful to us, your elders,
+because we still have nightmares...
+
+543
+00:47:14,920 --> 00:47:17,195
+...from five times before.
+
+544
+00:47:18,240 --> 00:47:24,190
+Now... we haven't heard from the one man
+most qualified to judge the situation fairly.
+
+545
+00:47:25,720 --> 00:47:27,711
+Inspector Kemp!
+
+546
+00:47:28,760 --> 00:47:31,069
+Will you talk to us, please?
+
+547
+00:47:31,640 --> 00:47:33,631
+<i>(clicking)</i>
+
+548
+00:47:45,840 --> 00:47:46,829
+<i>(hissing)</i>
+
+549
+00:47:57,680 --> 00:48:01,150
+A riot... is an ugly thing...
+
+550
+00:48:01,240 --> 00:48:05,199
+<i>... und</i> once you get one started...
+
+551
+00:48:05,560 --> 00:48:08,518
+...there is little chance of stopping it...
+
+552
+00:48:09,280 --> 00:48:11,271
+...short of bloodshed.
+
+553
+00:48:12,560 --> 00:48:17,111
+I think... before we go around killing people...
+
+554
+00:48:17,720 --> 00:48:23,113
+...we had better make <i>damn</i> sure
+of our evidence.
+
+555
+00:48:24,520 --> 00:48:26,511
+<i>Und...</i>
+
+556
+00:48:30,640 --> 00:48:33,632
+...we had better confirm the fact...
+
+557
+00:48:34,040 --> 00:48:37,555
+...that young Frankenstein is indeed...
+
+558
+00:48:38,000 --> 00:48:41,072
+...vollowing in his grandfather's vootstaps!
+
+559
+00:48:41,160 --> 00:48:42,275
+<i>(all)</i> What?
+
+560
+00:48:42,360 --> 00:48:45,238
+Vollowing in his grandfather's vootstaps!
+Vootstaps!
+
+561
+00:48:45,320 --> 00:48:46,753
+Oh! Footsteps!
+
+562
+00:48:46,840 --> 00:48:48,831
+I think...
+
+563
+00:48:48,920 --> 00:48:51,150
+...what is in order...
+
+564
+00:48:52,960 --> 00:48:57,750
+...is for me to pay a little visit
+on the good doctor...
+
+565
+00:48:58,320 --> 00:49:03,838
+<i>... und</i> to have a nice... quiet... chat.
+
+566
+00:49:08,640 --> 00:49:10,631
+<i>(Freddy)</i> Reputation!
+
+567
+00:49:10,720 --> 00:49:12,711
+Reputation!
+
+568
+00:49:13,640 --> 00:49:16,837
+<i>(Inga)</i> Oh, Doctor!
+You mustn't do this to yourself.
+
+569
+00:49:17,920 --> 00:49:20,229
+You've got to stop thinking about it.
+
+570
+00:49:20,840 --> 00:49:23,752
+Why, look!
+You haven't even touched your food.
+
+571
+00:49:25,720 --> 00:49:27,073
+There!
+
+572
+00:49:28,320 --> 00:49:30,675
+Now I've touched it. Happy?
+
+573
+00:49:32,320 --> 00:49:35,312
+You know... I'll never forget my old dad.
+
+574
+00:49:36,240 --> 00:49:40,916
+When these things would happen to him...
+the things he'd say to me.
+
+575
+00:49:41,880 --> 00:49:43,598
+What did he say?
+
+576
+00:49:44,440 --> 00:49:47,398
+What the hell are you doin'
+in the bathroom day and night?
+
+577
+00:49:47,480 --> 00:49:50,950
+Why don't you get outta there
+and give someone else a chance?
+
+578
+00:49:57,040 --> 00:49:59,031
+Oh, maybe it's better this way.
+
+579
+00:50:00,120 --> 00:50:02,111
+The poor lifeless hulk.
+
+580
+00:50:02,640 --> 00:50:04,631
+Maybe it is better off dead.
+
+581
+00:50:18,320 --> 00:50:20,629
+<i>(monster)</i> Mmmm!
+
+582
+00:50:23,800 --> 00:50:25,518
+What is this?
+
+583
+00:50:25,600 --> 00:50:27,591
+<i>Schwarzwälder Kirschtorte.</i>
+
+584
+00:50:28,320 --> 00:50:29,878
+Mmmmm!
+
+585
+00:50:29,960 --> 00:50:34,590
+Oh, do you like it? I'm not partial to
+desserts myself, but this is excellent.
+
+586
+00:50:34,680 --> 00:50:36,671
+Who are you talking to?
+
+587
+00:50:37,440 --> 00:50:41,672
+To you! You just made a yummy sound,
+so I thought you liked the dessert.
+
+588
+00:50:41,760 --> 00:50:44,797
+I didn't make a yummy sound.
+I just asked you what it is.
+
+589
+00:50:44,880 --> 00:50:47,997
+- But you did. I just heard it.
+- It wasn't me.
+
+590
+00:50:48,080 --> 00:50:50,071
+It wasn't me!
+
+591
+00:50:50,160 --> 00:50:53,755
+Well, now, look here.
+If it wasn't you and it wasn't you...
+
+592
+00:50:55,280 --> 00:50:57,271
+Mmmm!
+
+593
+00:51:11,840 --> 00:51:13,159
+<i>(monster moans)</i>
+
+594
+00:51:13,240 --> 00:51:15,231
+<i>(Freddy gasps)</i>
+
+595
+00:51:15,320 --> 00:51:18,551
+Alive! It's alive!
+
+596
+00:51:19,280 --> 00:51:21,874
+It's alive!!
+
+597
+00:51:24,600 --> 00:51:26,591
+Stand back.
+
+598
+00:51:33,680 --> 00:51:35,671
+Hello, there.
+
+599
+00:51:36,320 --> 00:51:38,311
+I'm going to set you free.
+
+600
+00:51:38,400 --> 00:51:40,436
+Mmmm...
+
+601
+00:51:41,480 --> 00:51:44,040
+- Is the sedative ready?
+- <i>(Inga)</i> Yes, Doctor.
+
+602
+00:51:51,040 --> 00:51:52,439
+Mmmm.
+
+603
+00:51:57,880 --> 00:51:59,871
+I want you...
+
+604
+00:52:00,600 --> 00:52:03,398
+...to sit... up.
+
+605
+00:52:05,640 --> 00:52:07,631
+Mmmm.
+
+606
+00:52:17,240 --> 00:52:20,915
+Stand... on your feet.
+
+607
+00:52:22,240 --> 00:52:24,071
+<i>(high-pitched)</i> Mmm!
+
+608
+00:52:25,080 --> 00:52:27,310
+You can do it.
+
+609
+00:52:31,320 --> 00:52:33,311
+Mmmm.
+
+610
+00:52:36,440 --> 00:52:39,352
+Now... walk!
+
+611
+00:52:46,160 --> 00:52:47,718
+Doctor, I'm frightened!
+
+612
+00:52:48,600 --> 00:52:50,591
+Don't worry.
+
+613
+00:52:53,120 --> 00:52:55,111
+Good.
+
+614
+00:52:56,880 --> 00:52:58,871
+Good!
+
+615
+00:52:59,120 --> 00:53:00,314
+<i>(monster screams)</i>
+
+616
+00:53:00,400 --> 00:53:02,391
+What is it? What's the matter?
+
+617
+00:53:02,760 --> 00:53:05,274
+- Quick! Give him the...
+- <i>(monster yells)</i>
+
+618
+00:53:05,360 --> 00:53:06,713
+Quick! Give him the...
+
+619
+00:53:06,800 --> 00:53:08,995
+- What? Give him the what?
+- <i>(gasps)</i>
+
+620
+00:53:09,680 --> 00:53:13,070
+Three syllables.
+First syllable - sounds like...
+
+621
+00:53:13,160 --> 00:53:15,435
+Head! Uh, sounds like head!
+
+622
+00:53:15,800 --> 00:53:17,791
+Bed! Uh... Said...
+
+623
+00:53:18,200 --> 00:53:19,633
+<i>(both)</i> Said!
+
+624
+00:53:19,720 --> 00:53:21,153
+- Said!
+- Said!
+
+625
+00:53:21,240 --> 00:53:23,196
+Second syllable - little word.
+
+626
+00:53:23,280 --> 00:53:24,872
+Uh... this, that, the...
+
+627
+00:53:24,960 --> 00:53:26,632
+A...
+
+628
+00:53:27,120 --> 00:53:29,111
+- Said a...
+- Said a...
+
+629
+00:53:29,640 --> 00:53:31,631
+Dirty word! He said a dirty word!
+
+630
+00:53:32,360 --> 00:53:34,351
+Oh, sounds like...
+
+631
+00:53:34,440 --> 00:53:36,431
+Uh, to give! Give!
+
+632
+00:53:36,640 --> 00:53:39,393
+Said... Said a give... Give him a said a give!
+
+633
+00:53:40,120 --> 00:53:42,873
+Oh! Tive... tive... Sedative!
+
+634
+00:53:42,960 --> 00:53:44,951
+On the nosey!
+
+635
+00:53:46,760 --> 00:53:48,751
+<i>(monster groans)</i>
+
+636
+00:53:57,160 --> 00:53:59,151
+<i>(Freddy pants)</i>
+
+637
+00:54:03,880 --> 00:54:05,871
+Said a give?!
+
+638
+00:54:13,600 --> 00:54:15,670
+Oh, Frederick! Are you all right?
+
+639
+00:54:16,400 --> 00:54:18,391
+Yes!
+
+640
+00:54:19,080 --> 00:54:22,914
+- Would you excuse me for one minute, dear?
+- Of course, Doctor.
+
+641
+00:54:23,440 --> 00:54:25,431
+L-gor... <i>(clears throat)</i>
+
+642
+00:54:26,320 --> 00:54:29,073
+- May I speak to you for a moment?
+- Of course.
+
+643
+00:54:29,160 --> 00:54:31,230
+- Sit down, won't you?
+- Thank you.
+
+644
+00:54:34,440 --> 00:54:36,237
+No, no. Up here.
+
+645
+00:54:36,800 --> 00:54:38,597
+Thank you.
+
+646
+00:54:43,280 --> 00:54:45,589
+Now... that brain that you gave me...
+
+647
+00:54:46,440 --> 00:54:49,079
+Was it... Hans Delbruck's?
+
+648
+00:54:51,000 --> 00:54:53,434
+- No.
+- Ah! Good.
+
+649
+00:54:54,360 --> 00:54:56,954
+Uh... Would you mind telling me...
+
+650
+00:54:58,840 --> 00:55:02,799
+...whose brain... I did put in?
+
+651
+00:55:02,880 --> 00:55:07,476
+- Then you won't be angry?
+- I will not... be... angry.
+
+652
+00:55:08,240 --> 00:55:10,231
+Abby someone.
+
+653
+00:55:10,840 --> 00:55:12,990
+Abby someone...
+
+654
+00:55:13,080 --> 00:55:15,640
+- Abby who?
+- Abby... Normal.
+
+655
+00:55:18,240 --> 00:55:20,435
+Abby Normal...
+
+656
+00:55:20,840 --> 00:55:22,910
+I'm almost sure that was the name.
+
+657
+00:55:26,800 --> 00:55:31,237
+Are you saying that I put an abnormal brain...
+
+658
+00:55:32,160 --> 00:55:35,470
+...into a seven-and-a-half-foot long...
+
+659
+00:55:36,520 --> 00:55:39,592
+...54-inch wide...
+
+660
+00:55:41,360 --> 00:55:43,351
+...gorilla?!
+
+661
+00:55:43,920 --> 00:55:46,593
+Is that what you're telling me?!
+
+662
+00:55:47,000 --> 00:55:48,911
+Quick, quick! Give him the...
+
+663
+00:55:49,000 --> 00:55:50,433
+What?
+
+664
+00:55:50,520 --> 00:55:53,956
+- Three syllables, yes!
+- <i>(loud knocking)</i>
+
+665
+00:55:54,040 --> 00:55:56,270
+I wonder who that could be at this hour.
+
+666
+00:56:02,440 --> 00:56:04,635
+Inga, quick! See who that is.
+
+667
+00:56:05,840 --> 00:56:10,470
+You... put that thing
+back on the operating table.
+
+668
+00:56:11,440 --> 00:56:14,113
+And strap him down tightly!
+
+669
+00:56:15,960 --> 00:56:18,952
+- Where are you going?
+- To wash up. I've got to look normal.
+
+670
+00:56:19,040 --> 00:56:21,315
+We've all of us got to behave normally!
+
+671
+00:56:23,440 --> 00:56:25,431
+Hah! Monsters!
+
+672
+00:56:30,800 --> 00:56:32,711
+Excellent shot.
+
+673
+00:56:32,800 --> 00:56:37,237
+This is the 20th century, Kemp.
+Monsters are passé like ghosts and goblins.
+
+674
+00:56:37,320 --> 00:56:41,472
+Not to the good people
+of this village, <i>Herr Doktor.</i>
+
+675
+00:56:43,000 --> 00:56:44,479
+To them...
+
+676
+00:56:44,560 --> 00:56:46,915
+...he is a very real thing.
+
+677
+00:56:48,320 --> 00:56:53,758
+Especially when...
+there is a Frankenstein residing in this house.
+
+678
+00:57:03,480 --> 00:57:05,835
+<i>(imitates sound of darts)</i>
+
+679
+00:57:08,040 --> 00:57:10,076
+Nice grouping.
+
+680
+00:57:10,160 --> 00:57:12,151
+Thank you.
+
+681
+00:57:14,480 --> 00:57:20,157
+I wouldn't think an intelligent fellow like you
+would fall for all this superstitious rot!
+
+682
+00:57:21,080 --> 00:57:25,676
+It is not superstition that worries me,
+<i>Herr Doktor,</i> but genes <i>und...</i>
+
+683
+00:57:26,080 --> 00:57:27,718
+...chromosomes!
+
+684
+00:57:28,600 --> 00:57:31,717
+- Rubbish!
+- Hm, well, you might say, but this is...
+
+685
+00:57:32,240 --> 00:57:33,753
+...Transylvania!
+
+686
+00:57:35,880 --> 00:57:37,757
+<i>Und</i> you are a...
+
+687
+00:57:37,840 --> 00:57:39,193
+...Frankenstein!
+
+688
+00:57:41,960 --> 00:57:46,988
+You, uh... seem unusually upset
+by this discussion.
+
+689
+00:57:47,080 --> 00:57:48,752
+Not in the least.
+
+690
+00:57:48,840 --> 00:57:49,750
+<i>(cat yowls)</i>
+
+691
+00:57:49,840 --> 00:57:51,990
+I find it extremely amusing, that's all.
+
+692
+00:57:52,080 --> 00:57:53,957
+<i>(glass smashing)</i>
+
+693
+00:57:54,720 --> 00:57:56,472
+Well... this was fun!
+
+694
+00:57:56,560 --> 00:57:59,313
+Now, if you don't mind, Inspector,
+I'm a little tired.
+
+695
+00:57:59,400 --> 00:58:00,549
+Then...
+
+696
+00:58:00,640 --> 00:58:03,916
+...I may give the villagers
+your complete assurance...
+
+697
+00:58:04,520 --> 00:58:09,992
+...that you have no interest whatsoever
+in carrying on your grandfather's work?
+
+698
+00:58:10,360 --> 00:58:11,952
+<i>(monster)</i> Mmmmm!
+
+699
+00:58:12,960 --> 00:58:14,951
+May I take that for a yes?
+
+700
+00:58:15,240 --> 00:58:16,514
+Mmmmm!
+
+701
+00:58:16,600 --> 00:58:18,272
+Very well.
+
+702
+00:58:18,360 --> 00:58:21,397
+- You can find the way out by yourself?
+- Of course.
+
+703
+00:58:22,560 --> 00:58:26,917
+Until we meet again... Herr Baron.
+
+704
+00:58:27,000 --> 00:58:29,514
+Yes. Drop by any time. We are always open.
+
+705
+00:58:36,520 --> 00:58:37,270
+<i>(clicks heels)</i>
+
+706
+00:58:37,360 --> 00:58:39,351
+<i>Dieser verdammte Arm!</i>
+
+707
+00:59:01,600 --> 00:59:02,240
+<i>(door creaks)</i>
+
+708
+00:59:02,240 --> 00:59:03,593
+<i>(door creaks)</i>
+
+709
+00:59:09,080 --> 00:59:10,718
+<i>(gasps)</i>
+
+710
+00:59:10,800 --> 00:59:12,791
+Oh, Victor!
+
+711
+00:59:13,400 --> 00:59:15,038
+Victor...
+
+712
+00:59:15,120 --> 00:59:17,111
+We have done it!
+
+713
+00:59:20,640 --> 00:59:22,756
+I'm going to set you free.
+
+714
+00:59:22,840 --> 00:59:26,230
+Would you like that, <i>meine Seuchekopf?</i>
+
+715
+00:59:26,520 --> 00:59:28,511
+Mmm!
+
+716
+00:59:33,640 --> 00:59:34,868
+<i>(sobbing)</i>
+
+717
+00:59:35,640 --> 00:59:37,631
+They wanted to hurt you!
+
+718
+00:59:38,600 --> 00:59:40,591
+But I'm going to help you!
+
+719
+00:59:42,120 --> 00:59:44,111
+Thank heavens that's over with.
+
+720
+00:59:45,040 --> 00:59:47,031
+- Frau Blücher!
+- <i>(neighing)</i>
+
+721
+00:59:48,800 --> 00:59:51,268
+Stop! Don't come closer!
+
+722
+00:59:51,360 --> 00:59:54,352
+- <i>(Freddy)</i> What are you doing?
+- I'm going to set him free!
+
+723
+00:59:54,440 --> 00:59:56,431
+No! No, you mustn't!
+
+724
+00:59:56,520 --> 00:59:57,839
+Yes!
+
+725
+00:59:58,800 --> 01:00:01,075
+Are you insane? He'll kill you!
+
+726
+01:00:02,360 --> 01:00:04,351
+No, he won't. Not this one.
+
+727
+01:00:04,440 --> 01:00:06,556
+He is as gentle as a lamb.
+
+728
+01:00:06,640 --> 01:00:07,789
+<i>(monster roars)</i>
+
+729
+01:00:07,880 --> 01:00:11,998
+Stand back! Stand back!
+For the love of God, he has a rotten brain!
+
+730
+01:00:12,560 --> 01:00:14,790
+It's not rotten. It's a good brain!
+
+731
+01:00:14,880 --> 01:00:16,871
+It's rotten, I tell you! Rotten!
+
+732
+01:00:16,960 --> 01:00:18,029
+<i>(roars)</i>
+
+733
+01:00:18,640 --> 01:00:20,596
+Lxnay on the ottenray.
+
+734
+01:00:20,680 --> 01:00:21,669
+<i>(Inga gasps)</i>
+
+735
+01:00:21,760 --> 01:00:25,309
+I'm not afraid! I know what he likes!
+
+736
+01:00:25,400 --> 01:00:26,355
+<i>(roars)</i>
+
+737
+01:00:26,440 --> 01:00:28,431
+<i>(</i># <i>violin tune)</i>
+
+738
+01:00:40,040 --> 01:00:42,031
+<i>(Freddy)</i> That music!
+
+739
+01:00:42,120 --> 01:00:47,752
+<i>(Frau Blücher)</i> Yes! It's in your blood!
+It's in the blood of all Frankensteins!
+
+740
+01:00:47,840 --> 01:00:51,753
+It reaches the soul when words are useless.
+
+741
+01:00:51,840 --> 01:00:55,355
+Your grandfather used to play it
+to the creature <i>he</i> was making.
+
+742
+01:00:55,440 --> 01:00:57,954
+- Then it was you all the time!
+- Yes!
+
+743
+01:00:58,040 --> 01:01:00,952
+- You played that music in the night.
+- Yes!
+
+744
+01:01:01,040 --> 01:01:03,713
+- To get us into the laboratory.
+- Yes!
+
+745
+01:01:03,800 --> 01:01:07,270
+- That was your cigar in the ashtray!
+- Yes!
+
+746
+01:01:07,360 --> 01:01:10,636
+And it was you who left
+my grandfather's book out for me to find!
+
+747
+01:01:10,720 --> 01:01:11,948
+Yes!
+
+748
+01:01:12,040 --> 01:01:13,712
+- So that I would...
+- Yes!
+
+749
+01:01:13,800 --> 01:01:15,950
+- Then you and Victor were...
+- Yes!
+
+750
+01:01:16,560 --> 01:01:18,630
+Yes! Say it!
+
+751
+01:01:18,720 --> 01:01:22,429
+He was my boyfriend!
+
+752
+01:01:23,240 --> 01:01:25,231
+<i>(monster screams)</i>
+
+753
+01:01:33,800 --> 01:01:35,791
+You will never catch him now!
+
+754
+01:01:35,880 --> 01:01:39,111
+He's free! Do you hear?
+
+755
+01:01:39,200 --> 01:01:41,475
+Free!
+
+756
+01:01:45,680 --> 01:01:47,671
+<i>(roaring)</i>
+
+757
+01:01:54,520 --> 01:01:55,919
+Gone!
+
+758
+01:01:56,440 --> 01:01:57,793
+Gone!
+
+759
+01:01:57,880 --> 01:02:00,314
+We've got to find him, do you understand?
+
+760
+01:02:00,400 --> 01:02:03,233
+We've got to find him
+before he kills someone!
+
+761
+01:02:03,920 --> 01:02:05,911
+What have I done?
+
+762
+01:02:06,320 --> 01:02:08,515
+Oh, God in heaven!
+
+763
+01:02:09,520 --> 01:02:11,511
+What have I done?
+
+764
+01:02:17,680 --> 01:02:20,956
+# Oh, I love my pretty little flower
+
+765
+01:02:21,360 --> 01:02:24,750
+# Oh, I love my pretty little flower
+
+766
+01:02:24,840 --> 01:02:27,673
+# Oh, I love my flower
+
+767
+01:02:27,760 --> 01:02:29,751
+Mmmm...
+
+768
+01:02:33,720 --> 01:02:35,711
+That monster is loose...
+
+769
+01:02:36,720 --> 01:02:38,711
+Boards must be tight!
+
+770
+01:02:41,360 --> 01:02:43,351
+There.
+
+771
+01:02:44,920 --> 01:02:46,911
+Thank God you put Helga to bed.
+
+772
+01:02:47,000 --> 01:02:51,118
+With all this monster business,
+I take no chances. I remember the last time.
+
+773
+01:02:51,200 --> 01:02:56,115
+But, Papa! I told you that I was turning
+the <i>Rostbraten,</i> don't you remember?
+
+774
+01:02:56,200 --> 01:02:58,191
+I asked you to put Helga to...
+
+775
+01:02:58,800 --> 01:03:00,119
+You...
+
+776
+01:03:04,200 --> 01:03:06,191
+Now throw a kiss and say bye-bye.
+
+777
+01:03:10,800 --> 01:03:12,791
+Mm-mm.
+
+778
+01:03:14,360 --> 01:03:16,555
+Oh, dear. Nothing left.
+
+779
+01:03:17,160 --> 01:03:19,674
+What shall we throw in now?
+
+780
+01:03:24,000 --> 01:03:26,434
+Maybe she was in the bathroom
+when you looked!
+
+781
+01:03:26,520 --> 01:03:29,671
+But I didn't even look upstairs.
+I thought you did!
+
+782
+01:03:31,840 --> 01:03:33,831
+You didn't look upstairs?
+
+783
+01:03:35,480 --> 01:03:37,471
+Sit down.
+
+784
+01:03:38,560 --> 01:03:39,913
+Sit down!
+
+785
+01:03:48,440 --> 01:03:50,237
+<i>(both)</i> Ahhh!
+
+786
+01:03:57,280 --> 01:04:00,272
+<i>(</i># <i>Schubert "Ave Maria")</i>
+
+787
+01:04:25,760 --> 01:04:27,751
+A visitor is all I ask.
+
+788
+01:04:28,480 --> 01:04:32,951
+A temporary companion to help me
+pass a few short hours in my Ionely life.
+
+789
+01:04:33,920 --> 01:04:36,309
+<i>(roars)</i>
+
+790
+01:04:36,800 --> 01:04:39,951
+Thank you, Lord. Thank you!
+
+791
+01:04:48,200 --> 01:04:49,189
+Mmmm!
+
+792
+01:04:49,280 --> 01:04:52,272
+Oh, no, no, no, no.
+Don't speak. Don't say a word.
+
+793
+01:04:52,800 --> 01:04:55,872
+Oh, my joy... and my prize from heaven.
+
+794
+01:04:56,680 --> 01:04:59,752
+Oh, you must have been
+the tallest one in your class!
+
+795
+01:04:59,840 --> 01:05:02,638
+My name is Harold and I live here all alone.
+
+796
+01:05:03,440 --> 01:05:05,192
+- What is your name?
+- Mmmm!
+
+797
+01:05:05,280 --> 01:05:07,396
+- I didn't get that.
+- Mmmm!
+
+798
+01:05:07,480 --> 01:05:09,311
+Mmm! No...
+
+799
+01:05:09,400 --> 01:05:11,391
+Oh, forgive me.
+
+800
+01:05:12,200 --> 01:05:14,191
+I didn't realise you were a mute.
+
+801
+01:05:15,360 --> 01:05:17,351
+You see how heaven plans.
+
+802
+01:05:17,440 --> 01:05:20,716
+Me, a poor blind man,
+and you, you... a mute.
+
+803
+01:05:22,720 --> 01:05:24,711
+An incredibly big mute.
+
+804
+01:05:25,160 --> 01:05:27,390
+Ahh! But your hand is frozen, my child.
+
+805
+01:05:27,480 --> 01:05:31,029
+- How does a nice bowl of soup sound, huh?
+- Mmmm!
+
+806
+01:05:39,960 --> 01:05:43,669
+Well... I know what it means to...
+to be cold and hungry.
+
+807
+01:05:43,760 --> 01:05:44,795
+Yes...
+
+808
+01:05:44,880 --> 01:05:48,429
+And how much it means to have
+a little kindness from a stranger.
+
+809
+01:05:48,520 --> 01:05:51,159
+- Are you ready for your soup?
+- Mmmmm!
+
+810
+01:05:52,800 --> 01:05:54,791
+Hold out your bowl, then.
+
+811
+01:05:57,120 --> 01:05:59,031
+Oh, my friend, my friend...
+
+812
+01:05:59,120 --> 01:06:01,588
+You don't know what your visit means to me.
+
+813
+01:06:01,680 --> 01:06:05,195
+How long I've waited for the pleasure
+of another human being.
+
+814
+01:06:05,280 --> 01:06:08,909
+Sometimes in our preoccupation
+with worldly matters...
+
+815
+01:06:09,000 --> 01:06:10,558
+<i>(whimpers)</i>
+
+816
+01:06:10,640 --> 01:06:12,995
+...we tend to forget the simple pleasures...
+
+817
+01:06:13,080 --> 01:06:15,992
+- <i>(screams)</i>
+- <i>... that are the basis for true happiness.</i>
+
+818
+01:06:16,080 --> 01:06:18,355
+Yes, yes, yes. Oh...
+
+819
+01:06:19,040 --> 01:06:21,270
+And now a little wine with your soup?
+
+820
+01:06:22,600 --> 01:06:24,591
+- Mmm.
+- Good, good.
+
+821
+01:06:34,360 --> 01:06:36,954
+Huh? Good... Yes...
+
+822
+01:06:41,120 --> 01:06:43,395
+Wait!
+
+823
+01:06:43,480 --> 01:06:44,993
+A toast!
+
+824
+01:06:45,080 --> 01:06:46,513
+A toast to...
+
+825
+01:06:47,000 --> 01:06:49,150
+Yes! Long friendship!
+
+826
+01:06:55,560 --> 01:06:57,551
+- How hungry you must have been.
+- Mmm.
+
+827
+01:06:57,640 --> 01:07:00,029
+Now... now, now for a little surprise.
+
+828
+01:07:00,120 --> 01:07:02,759
+For a special occasion, I've been saving...
+
+829
+01:07:07,800 --> 01:07:09,756
+...cigars!
+
+830
+01:07:10,440 --> 01:07:12,635
+- Mmm...
+- Take one.
+
+831
+01:07:15,280 --> 01:07:16,429
+<i>(angrily)</i> Mmmm!
+
+832
+01:07:16,520 --> 01:07:17,316
+What?
+
+833
+01:07:17,400 --> 01:07:19,391
+No... no, no.
+
+834
+01:07:20,000 --> 01:07:21,911
+Fire is good.
+
+835
+01:07:22,000 --> 01:07:24,958
+Fire is good, yes. Fire is our friend.
+
+836
+01:07:25,480 --> 01:07:27,710
+Yes. L-I'll show you. I'll show you.
+
+837
+01:07:28,360 --> 01:07:29,873
+Mm, mm.
+
+838
+01:07:29,960 --> 01:07:32,679
+Mm, mm, mm.
+
+839
+01:07:35,960 --> 01:07:37,951
+You see? You see?
+
+840
+01:07:38,560 --> 01:07:40,278
+You have your cigar?
+
+841
+01:07:40,360 --> 01:07:42,351
+Let me see. Let me see.
+
+842
+01:07:42,440 --> 01:07:43,998
+All right.
+
+843
+01:07:44,080 --> 01:07:46,071
+Now, now, now...
+
+844
+01:07:46,680 --> 01:07:48,955
+Just hold it right there. Now...
+
+845
+01:07:49,640 --> 01:07:52,712
+...don't inhale until the tip glows.
+
+846
+01:07:58,560 --> 01:08:00,278
+Mmmowww!
+
+847
+01:08:01,320 --> 01:08:03,311
+<i>(yelling)</i>
+
+848
+01:08:10,320 --> 01:08:12,311
+Wait!
+
+849
+01:08:14,240 --> 01:08:15,719
+Wait!
+
+850
+01:08:15,800 --> 01:08:17,791
+Where are you going?
+
+851
+01:08:18,320 --> 01:08:20,311
+I was gonna make espresso.
+
+852
+01:08:27,760 --> 01:08:30,035
+<i>(monster roars)</i>
+
+853
+01:08:33,040 --> 01:08:35,429
+<i>(</i># <i>violin tune)</i>
+
+854
+01:09:03,400 --> 01:09:04,469
+Now!
+
+855
+01:09:06,240 --> 01:09:08,231
+<i>(roaring)</i>
+
+856
+01:09:08,960 --> 01:09:10,951
+Quick! Give him the sedative!
+
+857
+01:09:27,640 --> 01:09:29,631
+He's out!
+
+858
+01:09:30,680 --> 01:09:32,272
+I know.
+
+859
+01:09:40,720 --> 01:09:42,711
+I'm going in there.
+
+860
+01:09:42,800 --> 01:09:44,950
+Bring me that candle.
+
+861
+01:09:45,040 --> 01:09:47,031
+- <i>(Igor and Inga)</i> No!
+- Yes!
+
+862
+01:09:51,480 --> 01:09:53,391
+Love...
+
+863
+01:09:53,480 --> 01:09:56,756
+...is the only thing
+that can save this poor creature.
+
+864
+01:09:57,440 --> 01:10:00,432
+And I am going to convince him
+that he is loved...
+
+865
+01:10:01,560 --> 01:10:04,472
+...even at the cost of my own life.
+
+866
+01:10:06,400 --> 01:10:10,598
+No matter what you hear in there,
+no matter how cruelly I beg you...
+
+867
+01:10:11,200 --> 01:10:14,033
+...no matter how terribly I may scream...
+
+868
+01:10:14,920 --> 01:10:19,152
+...do not open this door,
+or you will undo everything I've worked for.
+
+869
+01:10:19,240 --> 01:10:20,753
+Do you understand?
+
+870
+01:10:20,840 --> 01:10:23,877
+Do not open this door!
+
+871
+01:10:23,960 --> 01:10:25,359
+Yes, Doctor.
+
+872
+01:10:27,560 --> 01:10:29,551
+Nice working with you.
+
+873
+01:10:53,360 --> 01:10:55,396
+<i>(monster groans)</i>
+
+874
+01:10:56,640 --> 01:10:57,914
+<i>(roars)</i>
+
+875
+01:11:00,400 --> 01:11:03,472
+Let me out. Let me out of here!
+Get me the hell out of here!
+
+876
+01:11:04,160 --> 01:11:06,833
+What's the matter with you people?
+I was joking!
+
+877
+01:11:06,920 --> 01:11:09,070
+Don't you know ajoke when you hear one?
+
+878
+01:11:09,160 --> 01:11:10,957
+Ha-ha-ha-ha!
+
+879
+01:11:12,760 --> 01:11:14,751
+Jesus Christ! Get me outta here!
+
+880
+01:11:18,120 --> 01:11:21,317
+Open this goddamn door
+or I'll kick your rotten heads in!
+
+881
+01:11:21,400 --> 01:11:22,753
+Mommy!
+
+882
+01:11:23,240 --> 01:11:24,434
+<i>Nein!</i>
+
+883
+01:11:24,520 --> 01:11:26,158
+<i>(yells)</i>
+
+884
+01:11:31,240 --> 01:11:33,037
+<i>(muttering)</i> Obviously...
+
+885
+01:11:36,960 --> 01:11:38,439
+Hello, handsome!
+
+886
+01:11:42,120 --> 01:11:44,429
+You're a good-Iooking fellow, you know?
+
+887
+01:11:44,520 --> 01:11:46,511
+People laugh at you.
+
+888
+01:11:47,040 --> 01:11:49,713
+People hate you, but why do they hate you?
+
+889
+01:11:49,800 --> 01:11:53,509
+Because they are jealous!
+
+890
+01:11:53,600 --> 01:11:54,589
+<i>(growls)</i>
+
+891
+01:11:54,680 --> 01:11:56,671
+Look at that boyish face.
+
+892
+01:11:59,120 --> 01:12:01,111
+Look at that sweet smile.
+
+893
+01:12:02,760 --> 01:12:05,228
+Do you wanna talk about physical strength?
+
+894
+01:12:05,800 --> 01:12:08,997
+Do you want to talk about sheer muscle?
+
+895
+01:12:10,400 --> 01:12:13,472
+Do you want to talk
+about the Olympian ideal?
+
+896
+01:12:13,560 --> 01:12:15,755
+You are a god!
+
+897
+01:12:17,040 --> 01:12:19,031
+And listen to me...
+
+898
+01:12:19,880 --> 01:12:22,348
+You are not evil.
+
+899
+01:12:23,720 --> 01:12:27,838
+You... are... good!
+
+900
+01:12:29,520 --> 01:12:31,511
+<i>(sobs)</i>
+
+901
+01:12:33,640 --> 01:12:35,551
+Oh...
+
+902
+01:12:35,640 --> 01:12:38,552
+This is a nice boy.
+
+903
+01:12:39,240 --> 01:12:41,231
+This is a good boy.
+
+904
+01:12:42,120 --> 01:12:44,111
+This is a mother's angel.
+
+905
+01:12:45,200 --> 01:12:47,395
+And I want the world to know...
+
+906
+01:12:48,600 --> 01:12:52,070
+...once and for all and without any shame...
+
+907
+01:12:53,680 --> 01:12:56,353
+...that we love him!
+
+908
+01:12:56,440 --> 01:12:58,032
+<i>(sobs)</i>
+
+909
+01:12:58,120 --> 01:13:00,031
+Oh...
+
+910
+01:13:00,120 --> 01:13:02,634
+I'm going to teach you.
+
+911
+01:13:02,720 --> 01:13:07,430
+I'm gonna show you how to walk,
+how to speak, how to move, how to think!
+
+912
+01:13:08,440 --> 01:13:09,998
+Together...
+
+913
+01:13:10,080 --> 01:13:12,036
+...you and I...
+
+914
+01:13:12,120 --> 01:13:17,911
+...are going... to make
+the greatest single contribution to science...
+
+915
+01:13:18,720 --> 01:13:21,359
+...since the creation of fire!
+
+916
+01:13:21,920 --> 01:13:25,276
+Dr Fronkonsteen! Are you all right?
+
+917
+01:13:25,360 --> 01:13:27,351
+My name...
+
+918
+01:13:28,120 --> 01:13:31,237
+...is Frankenstein!
+
+919
+01:14:22,680 --> 01:14:26,036
+Distinguished colleagues,
+ladies and gentlemen.
+
+920
+01:14:26,120 --> 01:14:28,190
+Tonight it is my great privilege...
+
+921
+01:14:28,280 --> 01:14:32,432
+...of introducing to you a man
+whose family name was once both...
+
+922
+01:14:32,520 --> 01:14:34,476
+...famous...
+
+923
+01:14:34,560 --> 01:14:36,755
+...and... infamous!
+
+924
+01:14:37,280 --> 01:14:43,515
+And now may I present to you
+Doktor Baron Friedrich von Frankenstein!
+
+925
+01:14:43,600 --> 01:14:45,591
+<i>(MC claps)</i>
+
+926
+01:14:51,800 --> 01:14:53,950
+- My fellow scienti...
+- <i>(hissing)</i>
+
+927
+01:14:55,120 --> 01:14:59,875
+...tists... and neurosurgeons,
+ladies and gentlemen.
+
+928
+01:15:00,680 --> 01:15:03,353
+A few short weeks ago,
+coming from a background...
+
+929
+01:15:03,440 --> 01:15:08,434
+...believe me, as conservative and traditionally
+grounded in scientific fact as any of you...
+
+930
+01:15:08,520 --> 01:15:13,310
+...I began an experiment in,
+incredulous as it may sound...
+
+931
+01:15:14,400 --> 01:15:16,868
+...the reanimation of dead tissue.
+
+932
+01:15:16,960 --> 01:15:18,951
+<i>(laughter)</i>
+
+933
+01:15:19,920 --> 01:15:23,071
+What I have to offer you might possibly be...
+
+934
+01:15:24,240 --> 01:15:27,073
+...the gateway to immortality.
+
+935
+01:15:32,080 --> 01:15:37,757
+Ladies and gentlemen, may I present for
+your intellectual and philosophical pleasure...
+
+936
+01:15:39,520 --> 01:15:41,511
+...the Creature!
+
+937
+01:15:43,040 --> 01:15:45,031
+<i>(screaming)</i>
+
+938
+01:15:47,640 --> 01:15:49,710
+Remain in your seats, I beg you.
+
+939
+01:15:49,800 --> 01:15:53,031
+We are not children here. We are scientists.
+
+940
+01:15:53,920 --> 01:15:56,229
+I assure you there is nothing to fear.
+
+941
+01:15:59,680 --> 01:16:03,309
+First... may I offer for your consideration...
+
+942
+01:16:03,400 --> 01:16:07,871
+...a neurological demonstration
+of the primary cerebellar functions.
+
+943
+01:16:08,760 --> 01:16:11,752
+Balance and coordination!
+
+944
+01:16:14,000 --> 01:16:16,878
+Walk... heel to toe.
+
+945
+01:16:24,400 --> 01:16:25,833
+<i>(applause)</i>
+
+946
+01:16:29,920 --> 01:16:31,558
+Backwards!
+
+947
+01:16:47,480 --> 01:16:51,837
+Ladies and gentlemen, you've seen
+the Creature perform simple motor activity...
+
+948
+01:16:51,920 --> 01:16:53,911
+...but for what you will see next...
+
+949
+01:16:54,000 --> 01:16:58,596
+...we must enter... quietly...
+into the realm of genius.
+
+950
+01:17:02,440 --> 01:17:04,237
+Ladies and gentlemen...
+
+951
+01:17:04,320 --> 01:17:06,117
+<i>... mesdames et messieurs...</i>
+
+952
+01:17:06,200 --> 01:17:07,997
+<i>... Damen und Herren...</i>
+
+953
+01:17:08,080 --> 01:17:12,437
+...from what was once
+an inarticulate mass of lifeless tissues...
+
+954
+01:17:12,520 --> 01:17:16,399
+...may I now present
+a cultured, sophisticated...
+
+955
+01:17:17,760 --> 01:17:19,512
+...man about town!
+
+956
+01:17:23,520 --> 01:17:24,157
+Hit it!
+
+957
+01:17:28,000 --> 01:17:30,992
+# If you're blue
+and you don't know where to go to
+
+958
+01:17:31,080 --> 01:17:33,310
+# Why don't you go where fashion sits
+
+959
+01:17:34,800 --> 01:17:36,791
+# Puttin' on the Ritz
+
+960
+01:17:38,160 --> 01:17:41,357
+# Different types
+who wear a day coat, pants with stripes
+
+961
+01:17:41,440 --> 01:17:43,635
+# Or cutaway coat, perfect fits
+
+962
+01:17:44,800 --> 01:17:47,360
+# Puttin' on the Ritz
+
+963
+01:17:48,160 --> 01:17:51,550
+# Dressed up like a million-dollar trouper
+
+964
+01:17:52,960 --> 01:17:56,396
+# Tryin' mighty hard to look like Gary Cooper
+
+965
+01:17:56,480 --> 01:17:59,040
+# Ooper-dooper
+
+966
+01:17:59,400 --> 01:18:02,233
+# Come, let's mix
+where Rockefellers walk with sticks
+
+967
+01:18:02,320 --> 01:18:04,550
+# Or umbrellas in their mitts
+
+968
+01:18:05,840 --> 01:18:08,798
+# Puttin' on the Ritz
+
+969
+01:18:49,480 --> 01:18:51,471
+<i>(applause)</i>
+
+970
+01:18:58,440 --> 01:19:00,431
+<i>(screams)</i>
+
+971
+01:19:05,040 --> 01:19:07,031
+Nothing! Nothing, I tell you!
+
+972
+01:19:07,840 --> 01:19:09,478
+Five, six, seven, eight...
+
+973
+01:19:12,680 --> 01:19:15,717
+Come on! Are you trying
+to make me look like a fool?
+
+974
+01:19:17,680 --> 01:19:20,069
+<i>(booing)</i>
+
+975
+01:19:20,160 --> 01:19:21,957
+Please! I beg you!
+
+976
+01:19:22,040 --> 01:19:24,634
+For safety's sake, don't humiliate him!
+
+977
+01:19:27,760 --> 01:19:31,639
+Come back! Do you hear me?
+I will not let you destroy my work!
+
+978
+01:19:31,720 --> 01:19:34,314
+As your creator
+I command you to come back!
+
+979
+01:19:35,000 --> 01:19:36,991
+<i>(screaming)</i>
+
+980
+01:20:04,880 --> 01:20:06,871
+<i>(shouting)</i>
+
+981
+01:20:25,720 --> 01:20:27,438
+Chained.
+
+982
+01:20:27,520 --> 01:20:30,080
+Chained like a beast in a cage.
+
+983
+01:20:31,000 --> 01:20:33,389
+Oh, Doctor... I feel so terrible.
+
+984
+01:20:33,480 --> 01:20:35,471
+There's only one answer.
+
+985
+01:20:35,560 --> 01:20:40,111
+If I could find a way to equalise
+the imbalance in his cerebral-spinal fluid...
+
+986
+01:20:40,200 --> 01:20:42,953
+...why, he'd be as right as rain.
+
+987
+01:20:43,640 --> 01:20:45,232
+But how?
+
+988
+01:20:45,320 --> 01:20:47,515
+How, before it's too late?
+
+989
+01:20:48,680 --> 01:20:50,352
+Oh, Frederick...
+
+990
+01:20:50,440 --> 01:20:52,510
+If only there was some way I could...
+
+991
+01:20:53,560 --> 01:20:56,154
+...relieve this torture you are going through.
+
+992
+01:20:56,240 --> 01:20:58,151
+<i>(Freddy)</i> Mm... mm... mm... mm...
+
+993
+01:20:58,240 --> 01:21:00,231
+If there was some way I could help to...
+
+994
+01:21:00,320 --> 01:21:01,878
+Mm... mm... mm...
+
+995
+01:21:01,960 --> 01:21:04,394
+...relieve the tension. If there was just...
+
+996
+01:21:04,480 --> 01:21:07,313
+...some way I could give you a little peace.
+
+997
+01:21:14,920 --> 01:21:16,911
+Doctor, I have...
+
+998
+01:21:17,000 --> 01:21:18,797
+Doctor?
+
+999
+01:21:19,800 --> 01:21:21,791
+<i>(Freddy)</i> What is it?
+
+1000
+01:21:24,160 --> 01:21:25,957
+Doctor...
+
+1001
+01:21:26,040 --> 01:21:28,190
+Where are you?
+
+1002
+01:21:40,840 --> 01:21:44,276
+I'm sorry, Doctor.
+This cable came while you were gone.
+
+1003
+01:21:44,360 --> 01:21:49,036
+I thought I told you never to
+interrupt me while I'm working!
+
+1004
+01:21:50,320 --> 01:21:53,869
+I'm sorry, Doctor.
+I thought this was an emergency.
+
+1005
+01:21:53,960 --> 01:21:57,748
+You see, your fiancée
+will be arriving any second!
+
+1006
+01:21:57,840 --> 01:22:00,354
+What?! Elizabeth here tonight?
+
+1007
+01:22:00,440 --> 01:22:03,637
+Yes. I will go prepare a room at once.
+
+1008
+01:22:05,200 --> 01:22:07,191
+I suggest you put on a tie!
+
+1009
+01:22:26,680 --> 01:22:27,669
+Darling.
+
+1010
+01:22:28,840 --> 01:22:30,876
+Darling!
+
+1011
+01:22:30,960 --> 01:22:32,439
+- Surprised?
+- Surprised.
+
+1012
+01:22:32,520 --> 01:22:34,511
+- Love me?
+- Love you?
+
+1013
+01:22:35,440 --> 01:22:37,431
+Well...
+
+1014
+01:22:38,160 --> 01:22:40,720
+- Let's turn in.
+- Darling!
+
+1015
+01:22:40,800 --> 01:22:45,237
+It's been a long day. I'm sure you're very tired.
+I'll just pay the driver.
+
+1016
+01:22:45,640 --> 01:22:46,629
+Darling!
+
+1017
+01:22:47,080 --> 01:22:48,672
+What?
+
+1018
+01:22:49,200 --> 01:22:51,634
+- Surprised?
+- I, uh... Yes.
+
+1019
+01:22:51,720 --> 01:22:53,711
+- Love me?
+- Well...
+
+1020
+01:22:53,800 --> 01:22:55,995
+- Well... Let's turn in.
+- Ohh!
+
+1021
+01:22:56,080 --> 01:22:57,593
+- <i>(Freddy)</i> Darling!
+- Yes!
+
+1022
+01:22:57,680 --> 01:22:59,318
+Say nothing, act casual.
+
+1023
+01:22:59,400 --> 01:23:01,994
+- Ready?
+- Yes... I think...
+
+1024
+01:23:02,640 --> 01:23:04,312
+Yes.
+
+1025
+01:23:04,400 --> 01:23:06,391
+I am a bit tired after all.
+
+1026
+01:23:08,480 --> 01:23:11,552
+I'd like you to meet
+my assistants, Inga and l-gor.
+
+1027
+01:23:11,640 --> 01:23:13,631
+How do you do?
+
+1028
+01:23:14,480 --> 01:23:15,469
+How do you do?
+
+1029
+01:23:15,560 --> 01:23:19,394
+- Uh... This is my financier Elizabeth.
+- I'm so happy to meet you at last.
+
+1030
+01:23:19,480 --> 01:23:20,469
+Uh... Financée.
+
+1031
+01:23:20,560 --> 01:23:25,953
+Excuse me, darling.
+What is it exactly that you... do do?
+
+1032
+01:23:28,600 --> 01:23:32,479
+Uh, well, I assist Dr Fronkonsteen
+in the laboratory.
+
+1033
+01:23:32,920 --> 01:23:35,229
+We have intellectual discussions <i>und</i> we...
+
+1034
+01:23:35,320 --> 01:23:37,595
+As a matter of fact, we were just having one...
+
+1035
+01:23:37,680 --> 01:23:39,033
+- May I...?
+- What?
+
+1036
+01:23:39,120 --> 01:23:40,712
+Wait a minute, wait a minute...
+
+1037
+01:23:40,800 --> 01:23:43,439
+Uh... l-gor, would you
+give me a hand with the bags?
+
+1038
+01:23:43,520 --> 01:23:46,910
+Certainly, you take the blonde
+and I'll take the one in the turban.
+
+1039
+01:23:47,000 --> 01:23:48,991
+- Oh...
+- <i>(growls)</i>
+
+1040
+01:23:52,440 --> 01:23:55,034
+Stop that! I'm talking about the luggage.
+
+1041
+01:23:55,120 --> 01:23:56,712
+Yes, master.
+
+1042
+01:23:57,320 --> 01:23:59,311
+Ladies, this way.
+
+1043
+01:24:00,520 --> 01:24:02,112
+It'll be a long night.
+
+1044
+01:24:02,200 --> 01:24:05,397
+- If you need any help with the girls...
+- <i>(mutters)</i> Get in there!
+
+1045
+01:24:08,320 --> 01:24:10,311
+- Ah...
+- <i>(man laughs)</i>
+
+1046
+01:24:10,720 --> 01:24:12,711
+You settle down now.
+
+1047
+01:24:13,960 --> 01:24:16,554
+Cos... we gonna be pals.
+
+1048
+01:24:18,280 --> 01:24:21,272
+- Right?
+- <i>(snarls)</i>
+
+1049
+01:24:21,920 --> 01:24:23,911
+Nice and cosy.
+
+1050
+01:24:24,000 --> 01:24:26,958
+Just like old friends.
+
+1051
+01:24:27,040 --> 01:24:29,031
+<i>(chuckles)</i>
+
+1052
+01:24:34,640 --> 01:24:36,710
+- <i>(whimpers)</i>
+- <i>What's the matter?</i>
+
+1053
+01:24:37,240 --> 01:24:39,549
+- You're afraid of this little fire?
+- Mmm!
+
+1054
+01:24:39,640 --> 01:24:41,437
+This can't hurt you.
+
+1055
+01:24:41,520 --> 01:24:43,511
+- See? <i>(laughs)</i>
+- <i>Mmmmm!</i>
+
+1056
+01:24:44,400 --> 01:24:46,516
+Oh, some monster you are.
+
+1057
+01:24:46,600 --> 01:24:48,670
+See, Mama was right.
+
+1058
+01:24:48,760 --> 01:24:52,116
+Little boys ain't supposed to play with fire.
+
+1059
+01:24:52,200 --> 01:24:53,189
+Mmmm!
+
+1060
+01:24:53,280 --> 01:24:55,840
+Is they? Cos they might get hurt!
+
+1061
+01:25:08,360 --> 01:25:10,078
+<i>(growling)</i>
+
+1062
+01:25:13,440 --> 01:25:15,431
+<i>(shouting)</i>
+
+1063
+01:25:22,840 --> 01:25:24,353
+Halt!
+
+1064
+01:25:24,440 --> 01:25:26,078
+Up.
+
+1065
+01:25:26,160 --> 01:25:28,720
+A riot is an ugly thing!
+
+1066
+01:25:29,720 --> 01:25:33,759
+<i>Und</i> I think that it is just about time
+that we had one!
+
+1067
+01:25:36,080 --> 01:25:37,559
+Kill the monster!
+
+1068
+01:25:37,920 --> 01:25:40,070
+As heaven is my witness... Up.
+
+1069
+01:25:41,040 --> 01:25:44,555
+...he will curse the day...
+
+1070
+01:25:44,640 --> 01:25:48,315
+...that he was burn a Frankenstein!
+
+1071
+01:25:49,240 --> 01:25:50,229
+<i>(all)</i> What?
+
+1072
+01:25:51,160 --> 01:25:55,039
+I said "He will curse the day
+that he was born a Frankenstein!"
+
+1073
+01:25:55,560 --> 01:25:57,551
+Yeah!
+
+1074
+01:26:11,240 --> 01:26:11,360
+Loose?!
+
+1075
+01:26:11,360 --> 01:26:12,793
+Loose?!
+
+1076
+01:26:12,880 --> 01:26:16,395
+He's broken loose!
+Do you know what that means?
+
+1077
+01:26:17,400 --> 01:26:19,960
+Darling, you mustn't worry so.
+
+1078
+01:26:22,280 --> 01:26:24,191
+I suppose you're right.
+
+1079
+01:26:24,280 --> 01:26:26,111
+Of course I am.
+
+1080
+01:26:26,200 --> 01:26:28,191
+Now come along like a good boy.
+
+1081
+01:26:28,680 --> 01:26:30,557
+What would I do without you?
+
+1082
+01:26:30,640 --> 01:26:35,111
+Is your room just down the hall
+in case I get the frights during the night?
+
+1083
+01:26:35,640 --> 01:26:40,350
+Well, yes, but I thought perhaps tonight,
+under the circumstances, I might...
+
+1084
+01:26:40,440 --> 01:26:42,271
+...stay here with you.
+
+1085
+01:26:43,000 --> 01:26:44,991
+Would you want me like this now?
+
+1086
+01:26:45,640 --> 01:26:49,235
+So soon before our wedding,
+so near we can almost touch it?
+
+1087
+01:26:51,880 --> 01:26:54,075
+- Yes!
+- Whoa, boy!
+
+1088
+01:26:55,000 --> 01:26:56,991
+Or... or...
+
+1089
+01:26:57,080 --> 01:27:02,632
+...to waitjust a little while longer when
+I can give myself to you without hesitation...
+
+1090
+01:27:02,720 --> 01:27:06,474
+...when I can be totally
+and unashamedly and legally yours?
+
+1091
+01:27:10,440 --> 01:27:12,431
+That's a tough choice.
+
+1092
+01:27:12,520 --> 01:27:15,239
+You're a tough guy. <i>(kisses)</i>
+
+1093
+01:27:17,800 --> 01:27:19,597
+I suppose you're right.
+
+1094
+01:27:19,680 --> 01:27:21,671
+Of course I am. I always am.
+
+1095
+01:27:22,760 --> 01:27:24,990
+Now give me a kiss and say good night.
+
+1096
+01:27:28,360 --> 01:27:30,351
+No tongues.
+
+1097
+01:27:36,760 --> 01:27:38,478
+Good night, darling.
+
+1098
+01:27:38,560 --> 01:27:39,595
+<i>(mutters)</i>
+
+1099
+01:27:39,680 --> 01:27:41,955
+- Good night, sweetheart.
+- <i>(mutters)</i>
+
+1100
+01:27:42,040 --> 01:27:44,190
+- I love you.
+- <i>(mutters)</i> I love you, too.
+
+1101
+01:27:44,280 --> 01:27:46,032
+- You love me?
+- <i>(mutters)</i>
+
+1102
+01:27:46,120 --> 01:27:48,076
+- I love you, honey.
+- <i>(chuckles)</i>
+
+1103
+01:27:48,160 --> 01:27:50,469
+- Sweet dreams, darling.
+- <i>(mutters)</i> Sweet dreams.
+
+1104
+01:27:50,560 --> 01:27:53,757
+- Good night, don't let the bedbugs bite.
+- <i>(muttering)</i>
+
+1105
+01:27:56,120 --> 01:27:58,076
+<i>(monster grunts)</i>
+
+1106
+01:27:58,160 --> 01:27:59,559
+<i>(roars)</i>
+
+1107
+01:27:59,640 --> 01:28:05,510
+# He has loosed the fateful lightning
+of his terrible swift sword
+
+1108
+01:28:05,920 --> 01:28:08,992
+# His truth is marching on
+
+1109
+01:28:09,080 --> 01:28:10,957
+<i>(imitates trumpet)</i>
+
+1110
+01:28:11,040 --> 01:28:15,158
+# Glory, glory, hallelujah
+
+1111
+01:28:15,840 --> 01:28:20,038
+# Glory, glory, hallelujah
+
+1112
+01:28:20,920 --> 01:28:22,911
+<i>(screams)</i>
+
+1113
+01:28:23,880 --> 01:28:25,871
+<i>(shouting)</i>
+
+1114
+01:28:29,760 --> 01:28:31,751
+<i>(barking)</i>
+
+1115
+01:28:36,200 --> 01:28:37,918
+<i>(dogs barking)</i>
+
+1116
+01:28:38,000 --> 01:28:39,991
+<i>(monster grunts)</i>
+
+1117
+01:29:08,000 --> 01:29:09,991
+Where am I?
+
+1118
+01:29:10,840 --> 01:29:14,719
+<i>(screams)</i> Who are you?
+W-What... What are you?
+
+1119
+01:29:14,800 --> 01:29:17,473
+- What... What are you going to do to me?
+- Mmm...
+
+1120
+01:29:18,400 --> 01:29:20,277
+Calm down.
+
+1121
+01:29:20,360 --> 01:29:22,669
+I'm not afraid of you.
+How much do you want?
+
+1122
+01:29:22,760 --> 01:29:26,196
+My father is very rich.
+You would have the world at your fingertips.
+
+1123
+01:29:26,280 --> 01:29:31,593
+Listen. I have to be back by 11.30.
+I'm expecting a very important call.
+
+1124
+01:29:31,680 --> 01:29:33,159
+Mmm.
+
+1125
+01:29:33,240 --> 01:29:35,435
+Speak! Speak! Why don't you speak?
+
+1126
+01:29:35,520 --> 01:29:37,511
+What are you doing?
+
+1127
+01:29:37,600 --> 01:29:39,795
+Oh, no, you can't be serious!
+
+1128
+01:29:39,880 --> 01:29:41,916
+Mmm... Mmmm.
+
+1129
+01:29:42,000 --> 01:29:43,991
+I'm af... I...
+
+1130
+01:29:44,720 --> 01:29:46,631
+Oh, my God!
+
+1131
+01:29:46,720 --> 01:29:47,709
+Woof!
+
+1132
+01:29:47,800 --> 01:29:49,791
+<i>(grunts)</i>
+
+1133
+01:29:51,000 --> 01:29:52,592
+L-I'm engaged.
+
+1134
+01:29:52,680 --> 01:29:55,274
+And once he... But I didn't... It was never...
+
+1135
+01:29:55,360 --> 01:29:58,750
+Oh, ah, oh, ah, ahh!
+
+1136
+01:30:00,000 --> 01:30:03,834
+# Ah! Sweet mystery of life
+
+1137
+01:30:03,920 --> 01:30:06,798
+# At last I found you
+
+1138
+01:30:07,360 --> 01:30:12,275
+- # Ah! At last I know the secret of it all...
+- <i>(monster groans in ecstasy)</i>
+
+1139
+01:30:19,520 --> 01:30:20,714
+<i>(arm clicks)</i>
+
+1140
+01:30:20,800 --> 01:30:22,518
+Shh!
+
+1141
+01:30:22,600 --> 01:30:23,999
+<i>(arm clicks)</i>
+
+1142
+01:30:43,240 --> 01:30:45,231
+Penny for your thoughts.
+
+1143
+01:30:45,320 --> 01:30:47,311
+Mmmm!
+
+1144
+01:30:47,720 --> 01:30:49,870
+You're incorrigible, aren't you?
+
+1145
+01:30:49,960 --> 01:30:50,949
+Mmmm!
+
+1146
+01:30:51,040 --> 01:30:52,996
+You little zipper-neck!
+
+1147
+01:30:53,080 --> 01:30:55,071
+Mmmmmm!
+
+1148
+01:30:55,880 --> 01:30:57,871
+Oh, all right.
+
+1149
+01:30:57,960 --> 01:31:00,554
+Seven has always been my... lucky number.
+
+1150
+01:31:01,880 --> 01:31:04,519
+Come over here, you hot monster!
+
+1151
+01:31:04,600 --> 01:31:05,669
+Mmm!
+
+1152
+01:31:05,760 --> 01:31:07,034
+<i>(</i># <i>violin in distance)</i>
+
+1153
+01:31:07,120 --> 01:31:09,395
+- Mmm?
+- What is it?
+
+1154
+01:31:09,480 --> 01:31:11,550
+What's the matter?
+
+1155
+01:31:11,640 --> 01:31:13,756
+Is it that music?
+
+1156
+01:31:13,840 --> 01:31:17,515
+It's probably from some nearby cottage.
+Nothing to worry about.
+
+1157
+01:31:17,600 --> 01:31:19,591
+Where are you going? Where...
+
+1158
+01:31:19,920 --> 01:31:21,831
+You men are all alike!
+
+1159
+01:31:21,920 --> 01:31:24,798
+Seven or eight quick ones
+and you're off with the boys.
+
+1160
+01:31:24,880 --> 01:31:27,997
+To boast and brag!
+You better keep your mouth shut!
+
+1161
+01:31:28,880 --> 01:31:30,871
+Oh, I think I love him...
+
+1162
+01:31:31,240 --> 01:31:32,275
+Ohh!
+
+1163
+01:31:33,640 --> 01:31:35,631
+<i>(</i># <i>violin tune)</i>
+
+1164
+01:32:15,320 --> 01:32:17,072
+<i>(Inga)</i> Oh! Oh, look!
+
+1165
+01:32:17,160 --> 01:32:19,754
+He's coming back! Oh, look! The music...
+
+1166
+01:32:19,840 --> 01:32:22,308
+Oh! Keep playing! It's the music!
+
+1167
+01:32:22,400 --> 01:32:25,278
+It's the music that's bringing him back!
+
+1168
+01:32:25,840 --> 01:32:27,831
+Oh... Ah...
+
+1169
+01:32:28,200 --> 01:32:29,633
+Come on! Come on!
+
+1170
+01:32:29,720 --> 01:32:31,711
+<i>(music continues)</i>
+
+1171
+01:32:31,800 --> 01:32:33,791
+<i>(grunts)</i>
+
+1172
+01:32:37,280 --> 01:32:38,998
+Come on, come on!
+
+1173
+01:32:43,440 --> 01:32:45,431
+Oh, come on! You can do it!
+
+1174
+01:32:51,640 --> 01:32:54,200
+<i>(sobbing)</i> Come on! You can do it!
+
+1175
+01:32:58,040 --> 01:33:00,031
+<i>(snarls)</i>
+
+1176
+01:33:00,200 --> 01:33:02,873
+Don't touch him!
+He wants to do it by himself!
+
+1177
+01:33:02,960 --> 01:33:04,518
+Mmm?
+
+1178
+01:33:04,600 --> 01:33:07,478
+You can do it! You can do it!
+
+1179
+01:33:08,240 --> 01:33:10,674
+Please, my creation!
+
+1180
+01:33:20,200 --> 01:33:21,679
+Quick! Catch him!
+
+1181
+01:33:27,320 --> 01:33:30,710
+Have all the preparations
+been made for the transference?
+
+1182
+01:33:30,800 --> 01:33:32,233
+Yes, Doctor.
+
+1183
+01:33:32,320 --> 01:33:34,754
+Are you sure you want
+to go through with this?
+
+1184
+01:33:34,840 --> 01:33:37,229
+It's the only thing that can save him now.
+
+1185
+01:33:37,800 --> 01:33:40,792
+You realise you're risking... both your lives?
+
+1186
+01:33:43,120 --> 01:33:45,111
+Yes.
+
+1187
+01:33:46,480 --> 01:33:48,277
+<i>(clanking)</i>
+
+1188
+01:33:57,280 --> 01:33:59,271
+Switching off!
+
+1189
+01:34:18,360 --> 01:34:20,555
+How... how will I know when they are done?
+
+1190
+01:34:20,640 --> 01:34:22,870
+The doctor said to allow 15 minutes.
+
+1191
+01:34:23,520 --> 01:34:25,636
+Not one second more...
+
+1192
+01:34:25,720 --> 01:34:27,472
+...or less.
+
+1193
+01:34:28,360 --> 01:34:30,351
+<i>(shouting)</i>
+
+1194
+01:34:35,720 --> 01:34:37,358
+How long now?
+
+1195
+01:34:37,440 --> 01:34:39,032
+Two more minutes.
+
+1196
+01:34:41,800 --> 01:34:45,554
+<i>Eins, zwei, drei, jetzt!</i>
+
+1197
+01:34:46,560 --> 01:34:48,551
+<i>Eins, zwei, drei, jetzt!</i>
+
+1198
+01:34:49,480 --> 01:34:51,471
+<i>Eins, zwei, drei, jetzt!</i>
+
+1199
+01:35:00,520 --> 01:35:02,511
+- What's that noise?
+- I don't know.
+
+1200
+01:35:02,600 --> 01:35:04,830
+- What time is it?
+- Almost time.
+
+1201
+01:35:09,240 --> 01:35:11,231
+Oh, my God! It's the villagers!
+
+1202
+01:35:14,160 --> 01:35:16,355
+No! No! Please!
+
+1203
+01:35:16,440 --> 01:35:18,635
+Just another seven seconds!
+
+1204
+01:35:21,760 --> 01:35:23,751
+No! No!!
+
+1205
+01:35:25,280 --> 01:35:27,271
+No! No! No!
+
+1206
+01:35:27,920 --> 01:35:30,275
+- Put that man down!
+- It's the monster!
+
+1207
+01:35:30,360 --> 01:35:31,918
+- No, it can't be.
+- It is.
+
+1208
+01:35:32,000 --> 01:35:35,072
+I said "Put that man down!"
+
+1209
+01:35:39,880 --> 01:35:41,871
+<i>(villagers)</i> Oh!
+
+1210
+01:35:44,000 --> 01:35:46,560
+<i>Und</i>just who do you think you are...
+
+1211
+01:35:46,640 --> 01:35:48,949
+...that you order these people about?
+
+1212
+01:35:49,560 --> 01:35:51,551
+I am the monster!
+
+1213
+01:35:53,520 --> 01:35:55,750
+<i>Ja.</i> I see that you are the monster.
+
+1214
+01:35:56,280 --> 01:35:58,271
+For as long as I can remember...
+
+1215
+01:35:58,920 --> 01:36:00,911
+...people have hated me.
+
+1216
+01:36:01,600 --> 01:36:03,670
+They looked at my face and my body...
+
+1217
+01:36:04,760 --> 01:36:06,751
+...and they ran away in horror.
+
+1218
+01:36:06,840 --> 01:36:12,312
+In my Ioneliness, I decided that if I could not
+inspire love, which was my deepest hope...
+
+1219
+01:36:13,400 --> 01:36:15,516
+...I would instead cause fear!
+
+1220
+01:36:15,600 --> 01:36:17,192
+<i>(villagers gasp)</i>
+
+1221
+01:36:17,560 --> 01:36:19,551
+I live...
+
+1222
+01:36:20,760 --> 01:36:25,834
+...because this poor, half-crazed genius
+has given me life.
+
+1223
+01:36:26,360 --> 01:36:28,351
+He alone held an image of me...
+
+1224
+01:36:28,440 --> 01:36:30,431
+...as something beautiful.
+
+1225
+01:36:31,120 --> 01:36:32,951
+And then...
+
+1226
+01:36:33,040 --> 01:36:36,749
+...when it would have been easy enough
+to stay out of danger...
+
+1227
+01:36:37,200 --> 01:36:40,158
+...he used his own body as a guinea pig...
+
+1228
+01:36:40,240 --> 01:36:42,231
+...to give me a calmer brain...
+
+1229
+01:36:43,840 --> 01:36:49,756
+...and a... somewhat more... sophisticated way
+of expressing myself.
+
+1230
+01:36:50,880 --> 01:36:54,589
+Well, this is, of course,
+an entirely different situation.
+
+1231
+01:36:55,240 --> 01:36:57,470
+As the leader of this community...
+
+1232
+01:36:57,920 --> 01:37:01,515
+...may I be the first to offer you my hand...
+
+1233
+01:37:02,200 --> 01:37:04,191
+...in friendship.
+
+1234
+01:37:06,120 --> 01:37:08,111
+<i>(sobs)</i>
+
+1235
+01:37:09,960 --> 01:37:12,269
+- Thank you.
+- You are entirely welcome.
+
+1236
+01:37:12,360 --> 01:37:17,115
+<i>Und</i> now let us all go to my house
+for a little sponge cake <i>und</i> a little wine...
+
+1237
+01:37:18,360 --> 01:37:20,351
+<i>... und...</i> Shit!
+
+1238
+01:37:22,760 --> 01:37:24,751
+To the lumberyard!
+
+1239
+01:37:40,360 --> 01:37:42,749
+<i>(Freddy sings "Here Comes The Bride")</i>
+
+1240
+01:37:47,560 --> 01:37:50,074
+Hello, Mrs Frankenstein.
+
+1241
+01:37:50,760 --> 01:37:53,911
+Mrs Frankenstein! What a beautiful name!
+
+1242
+01:37:54,000 --> 01:37:55,638
+Oh, darling!
+
+1243
+01:37:55,720 --> 01:37:57,711
+Hold on to your hat.
+
+1244
+01:37:59,080 --> 01:37:59,990
+What?
+
+1245
+01:38:00,080 --> 01:38:02,992
+I'll be right back.
+
+1246
+01:38:05,960 --> 01:38:07,632
+Ooh, wow, wow, wow!
+
+1247
+01:38:07,720 --> 01:38:09,597
+Ooh, wow, wow, wow, wow, wow!
+
+1248
+01:38:09,680 --> 01:38:10,795
+<i>(laughs)</i>
+
+1249
+01:38:10,880 --> 01:38:12,871
+<i>(sings "Here Comes The Bride")</i>
+
+1250
+01:38:16,640 --> 01:38:19,154
+I'm holding on to it, darling!
+
+1251
+01:38:20,120 --> 01:38:22,111
+<i>(Inga)</i> Just a few more seconds!
+
+1252
+01:38:24,120 --> 01:38:25,712
+Oh...
+
+1253
+01:38:25,800 --> 01:38:27,791
+<i>(hums)</i>
+
+1254
+01:38:31,840 --> 01:38:34,638
+<i>(Inga singing violin tune)</i>
+
+1255
+01:38:53,720 --> 01:38:57,156
+<i>(Elizabeth singing</i>
+<i>"The Battle Hymn Of The Republic")</i>
+
+1256
+01:39:01,000 --> 01:39:04,879
+Honey! Honey, I hope you didn't find
+Daddy's little party too boring.
+
+1257
+01:39:04,960 --> 01:39:08,396
+I mean, he did itjust for you
+and he meant so well. Say you liked it.
+
+1258
+01:39:08,480 --> 01:39:09,549
+Mm-hm.
+
+1259
+01:39:09,640 --> 01:39:11,631
+Honey, did you see?
+
+1260
+01:39:11,720 --> 01:39:15,076
+I put a special hamper in the bathroom
+just for your shirts...
+
+1261
+01:39:15,160 --> 01:39:18,357
+...and the other one is just for socks
+and poo-poo undies.
+
+1262
+01:39:18,440 --> 01:39:19,873
+Here I come!
+
+1263
+01:39:20,720 --> 01:39:23,234
+<i>(hisses like a cat)</i>
+
+1264
+01:39:24,880 --> 01:39:26,074
+<i>(snorts)</i>
+
+1265
+01:39:26,160 --> 01:39:28,151
+<i>(imitates cymbal)</i>
+
+1266
+01:39:29,160 --> 01:39:31,151
+<i>(singing)</i>
+
+1267
+01:39:34,920 --> 01:39:35,955
+<i>(sizzling)</i>
+
+1268
+01:39:37,600 --> 01:39:39,875
+Mmm.
+
+1269
+01:39:40,280 --> 01:39:42,077
+Ohhh...
+
+1270
+01:39:44,520 --> 01:39:46,397
+Mmmm!
+
+1271
+01:39:46,480 --> 01:39:47,708
+<i>(Inga)</i> Mmmm!
+
+1272
+01:39:47,800 --> 01:39:49,791
+The feeling is mutual.
+
+1273
+01:39:52,400 --> 01:39:54,391
+You know, it's a puzzlement.
+
+1274
+01:39:54,480 --> 01:39:58,792
+There's something I've always wanted
+to ask you about that operation.
+
+1275
+01:39:58,880 --> 01:40:00,996
+You know in the transference part...
+
+1276
+01:40:01,080 --> 01:40:06,359
+The monster got part of your wonderful brain,
+but what did you ever get from him?
+
+1277
+01:40:09,960 --> 01:40:15,398
+Mmmmmmm!
+
+1278
+01:40:15,680 --> 01:40:17,830
+<i>(Inga)</i> No! Ohh! I don't believe...
+
+1279
+01:40:17,920 --> 01:40:20,559
+Ooh! Ow! Oh! Oh!
+
+1280
+01:40:21,200 --> 01:40:24,749
+# Ah! Sweet mystery of life
+
+1281
+01:40:24,840 --> 01:40:27,513
+# At last I found you
+
+1282
+01:40:27,600 --> 01:40:29,591
+<i>(Igor continues playing song)</i>
+
+1283
+01:41:13,240 --> 01:41:15,231
+Subtitles by Visiontext
+
+1284
+01:41:15,680 --> 01:41:17,671
+ENGLISH HOH

@@ -1,0 +1,3363 @@
+1
+00:03:33,296 --> 00:03:36,257
+Locutus.
+
+2
+00:03:38,259 --> 00:03:44,516
+I am Locutus of Borg.
+Resistance is futile.
+
+3
+00:04:24,347 --> 00:04:27,642
+Authorisation: Picard 47-AT.
+
+4
+00:04:27,892 --> 00:04:32,105
+- Did I catch you at a bad time?
+- No, Admiral, of course not.
+
+5
+00:04:32,355 --> 00:04:38,486
+I`ve just heard that our colony on
+Ivor Prime has been destroyed.
+
+6
+00:04:38,737 --> 00:04:42,157
+- Long-range sensors...
+- Yes, I know. The Borg.
+
+7
+00:04:46,244 --> 00:04:50,415
+Captain’s log: Stardate 50893.5.
+
+8
+00:04:50,665 --> 00:04:55,086
+The moment have dreaded for
+nearly six years has finally arrived.
+
+9
+00:04:55,337 --> 00:05:01,217
+The Borg, our lethal enemy, have
+begun an invasion of the Federation.
+
+10
+00:05:01,468 --> 00:05:05,055
+This time
+there maybe no stopping them.
+
+11
+00:05:05,305 --> 00:05:08,850
+- How many ships?
+- One, on a direct course for Earth.
+
+12
+00:05:09,142 --> 00:05:14,147
+They’ll be in Federation space soon.
+Admiral Hayes is mobilising a fleet.
+
+13
+00:05:14,397 --> 00:05:18,318
+- It will take us three hours...
+- We’re not going.
+
+14
+00:05:18,568 --> 00:05:22,989
+- What do you mean?
+- We’re to patrol the Neutral Zone.
+
+15
+00:05:23,239 --> 00:05:28,370
+In case the Romulans decide
+to take advantage of the situation.
+
+16
+00:05:28,620 --> 00:05:35,293
+There has been no unusual activity
+along the Romulan border.
+
+17
+00:05:35,543 --> 00:05:39,881
+Does Starfleet feel
+we need more shakedown time?
+
+18
+00:05:40,131 --> 00:05:45,929
+We`re ready! The Enterprise E is
+the most advanced ship in the fleet.
+
+19
+00:05:46,179 --> 00:05:50,892
+I have gone over all this
+with Starfleet. Their orders stand.
+
+20
+00:05:55,397 --> 00:05:59,150
+Number One,
+set a course for the Neutral Zone.
+
+21
+00:06:32,726 --> 00:06:36,604
+- Bizet?
+- Berlioz. What do you have?
+
+22
+00:06:36,855 --> 00:06:40,859
+We`ve finished
+our first sweep of the Neutral Zone.
+
+23
+00:06:41,109 --> 00:06:45,530
+Fascinating.
+20 particles of dust per cubic metre.
+
+24
+00:06:45,780 --> 00:06:50,118
+52 ultraviolet radiation spikes
+and a class-two comet.
+
+25
+00:06:50,368 --> 00:06:54,289
+This is certainly
+worthy of our attention.
+
+26
+00:06:54,539 --> 00:06:58,335
+Captain, why are we out here?
+
+27
+00:06:58,585 --> 00:07:02,839
+Starfleet has every confidence
+in the Enterprise and her crew.
+
+28
+00:07:03,089 --> 00:07:06,760
+They`re just not sure
+about her captain.
+
+29
+00:07:07,010 --> 00:07:11,139
+A man once captured
+and assimilated by the Borg -
+
+30
+00:07:11,389 --> 00:07:15,935
+- should not be put in a situation
+where he would face them again.
+
+31
+00:07:16,186 --> 00:07:21,524
+It would introduce an unstable element
+to a critical situation.
+
+32
+00:07:21,733 --> 00:07:26,738
+Your experience makes you
+the perfect man to lead this fight.
+
+33
+00:07:30,367 --> 00:07:32,327
+Bridge to Captain Picard.
+
+34
+00:07:32,577 --> 00:07:36,873
+We`ve received word from the fleet,
+they`ve engaged the Borg.
+
+35
+00:07:40,168 --> 00:07:45,090
+Mr Data, put Starfleet frequency 1486
+on audio.
+
+36
+00:07:46,883 --> 00:07:50,762
+Flagship Endeavour,
+stand by to engage.
+
+37
+00:07:51,012 --> 00:07:54,808
+Defiant and Bozeman,
+fallback to mobile position one.
+
+38
+00:07:55,058 --> 00:08:01,356
+We have it in visual range.
+A Borg cube on course 0215 ...
+
+39
+00:08:01,606 --> 00:08:06,319
+We are the Borg. Lower your shields
+and surrender your ships.
+
+40
+00:08:06,569 --> 00:08:11,408
+We will add your biological
+distinctiveness to our own.
+
+41
+00:08:11,658 --> 00:08:16,496
+Your culture will adapt to serve us.
+Resistance is futile.
+
+42
+00:08:17,706 --> 00:08:20,667
+All units, open fire.
+
+43
+00:08:20,917 --> 00:08:24,504
+They`ve broken through
+the defence perimeter.
+
+44
+00:08:27,090 --> 00:08:30,468
+Continue to attack.
+
+45
+00:08:30,719 --> 00:08:34,097
+We need reinforcements.
+
+46
+00:08:34,347 --> 00:08:39,436
+96 dead and 22 wounded
+on the Lexington.
+
+47
+00:08:40,812 --> 00:08:46,651
+Lt Hawk, set a course for Earth.
+Maximum warp.
+
+48
+00:08:49,237 --> 00:08:52,282
+I am about to disobey our orders.
+
+49
+00:08:52,532 --> 00:08:56,911
+Any of you who wish to object
+should do so now.
+
+50
+00:09:00,832 --> 00:09:05,920
+I believe I speak for everyone here
+when I say ...
+
+51
+00:09:07,756 --> 00:09:11,009
+... to hell with our orders.
+
+52
+00:09:13,678 --> 00:09:19,351
+Red alert. All hands to battle stations.
+Engage.
+
+53
+00:09:55,637 --> 00:10:00,642
+- Report!
+- Power off-line, our weapons are gone.
+
+54
+00:10:03,937 --> 00:10:09,192
+Perhaps today is a good day to die.
+Prepare for ramming speed.
+
+55
+00:10:09,442 --> 00:10:12,946
+Sir, there`s another ship coming in.
+
+56
+00:10:13,196 --> 00:10:17,117
+It`s the Enterprise.
+
+57
+00:10:25,083 --> 00:10:29,546
+- The Defiant is losing life support.
+- Beam the survivors aboard.
+
+58
+00:10:29,796 --> 00:10:32,924
+They`ve destroyed the admiral`s ship.
+
+59
+00:10:33,174 --> 00:10:38,513
+- What is the status of the Borg cube?
+- The outer hull has been damaged.
+
+60
+00:10:38,722 --> 00:10:42,308
+I am reading fluctuations
+in their power grid.
+
+61
+00:10:50,734 --> 00:10:55,989
+Number One,
+open a channel to the fleet.
+
+62
+00:10:56,239 --> 00:11:00,744
+This is Capt Picard.
+I`m taking command of the fleet.
+
+63
+00:11:00,994 --> 00:11:05,331
+Plot in the following coordinates.
+Fire on my command.
+
+64
+00:11:05,582 --> 00:11:10,545
+- Is that a vital system?
+- Trust me, Data.
+
+65
+00:11:10,795 --> 00:11:15,592
+The fleet has responded, sir,
+they`re standing by.
+
+66
+00:11:18,720 --> 00:11:20,305
+Fire.
+
+67
+00:11:55,465 --> 00:11:59,177
+- Mr Hawk, pursuit course. Engage.
+- Aye, sir.
+
+68
+00:12:05,058 --> 00:12:09,646
+- What?
+- I can hear them.
+
+69
+00:12:11,064 --> 00:12:15,527
+I have a patient here
+who insists on coming to the bridge.
+
+70
+00:12:15,777 --> 00:12:20,031
+- Welcome aboard, Mr Worf.
+- Thank you, sir.
+
+71
+00:12:20,281 --> 00:12:23,743
+- The Defiant?
+- Adrift, but salvageable.
+
+72
+00:12:23,993 --> 00:12:27,414
+- Tough little ship.
+- Little?
+
+73
+00:12:27,664 --> 00:12:31,751
+Mr Worf, we could use some help
+at tactical.
+
+74
+00:12:34,212 --> 00:12:38,258
+You do remember
+how to fire phasers?
+
+75
+00:12:45,265 --> 00:12:48,727
+We`re detecting
+chronometric particles.
+
+76
+00:12:48,977 --> 00:12:52,230
+- They`re creating a temporal vortex.
+- Time travel.
+
+77
+00:13:02,198 --> 00:13:06,119
+- Data, report.
+- We`re caught in a temporal wake.
+
+78
+00:13:06,369 --> 00:13:09,497
+Captain ... Earth.
+
+79
+00:13:12,459 --> 00:13:16,963
+There are high concentrations
+of methane and carbon monoxide.
+
+80
+00:13:17,213 --> 00:13:22,093
+- Life signs?
+- Approximately nine billion.
+
+81
+00:13:22,344 --> 00:13:25,180
+- All Borg.
+- How?.
+
+82
+00:13:25,430 --> 00:13:30,560
+They did it in the past. They went back
+and assimilated Earth, changed history.
+
+83
+00:13:30,810 --> 00:13:33,605
+Why are we still here?
+
+84
+00:13:33,855 --> 00:13:39,194
+The temporal wake protected us
+from changes in the time line.
+
+85
+00:13:40,487 --> 00:13:44,074
+- The vortex is collapsing.
+- Hold your course.
+
+86
+00:13:44,324 --> 00:13:48,328
+We must follow them back
+and repair the damage they`ve done.
+
+87
+00:14:19,275 --> 00:14:23,446
+- Come on.
+- Good night, Eddie.
+
+88
+00:14:23,697 --> 00:14:26,366
+Go home.
+
+89
+00:14:26,616 --> 00:14:29,452
+You`ll regret this tomorrow.
+
+90
+00:14:29,703 --> 00:14:35,875
+You should have learned by now
+that I don`t have regrets.
+
+91
+00:14:36,126 --> 00:14:39,754
+- One more round, Lily.
+- Z, you`ve had enough.
+
+92
+00:14:40,005 --> 00:14:45,468
+- I`m not flying with a drunken pilot.
+- I can`t fly sober.
+
+93
+00:14:47,178 --> 00:14:50,056
+What is that?
+
+94
+00:14:50,306 --> 00:14:55,687
+- That is the constellation Leo.
+- No, that!
+
+95
+00:15:04,738 --> 00:15:08,700
+- It`s the ECON.
+- After all these years?
+
+96
+00:15:14,330 --> 00:15:17,709
+We`ve got to get to the Phoenix.
+
+97
+00:15:21,880 --> 00:15:25,383
+To hell with the Phoenix.
+
+98
+00:15:44,569 --> 00:15:49,699
+Shields are down.
+Main power is holding.
+
+99
+00:15:49,949 --> 00:15:53,703
+We are in the mid 21st century.
+
+100
+00:15:53,953 --> 00:15:59,709
+I would estimate we have arrived
+ten years after the Third World War.
+
+101
+00:15:59,959 --> 00:16:04,381
+That makes sense. Most of the
+major cities have been destroyed.
+
+102
+00:16:04,631 --> 00:16:09,010
+- 600 million dead. No resistance.
+- Captain.
+
+103
+00:16:12,055 --> 00:16:16,017
+Mr Worf, quantum torpedoes.
+Fire.
+
+104
+00:16:29,572 --> 00:16:32,909
+They were firing at the surface.
+Location?
+
+105
+00:16:33,159 --> 00:16:36,621
+Western hemisphere.
+North American Continent.
+
+106
+00:16:36,871 --> 00:16:42,919
+- A missile complex in Montana.
+- A missile complex?.
+
+107
+00:16:43,169 --> 00:16:46,715
+Data, I need to know the exact date.
+
+108
+00:16:46,965 --> 00:16:50,010
+April 4th, 2063.
+
+109
+00:16:50,260 --> 00:16:54,014
+April 4th.
+The day before First Contact.
+
+110
+00:16:54,264 --> 00:16:58,810
+The missile complex must be
+where Cochrane is building his ship.
+
+111
+00:16:59,060 --> 00:17:01,730
+They came to stop First Contact.
+
+112
+00:17:01,938 --> 00:17:05,734
+- How much damage, Lieutenant?
+- I can`t tell.
+
+113
+00:17:05,984 --> 00:17:09,988
+We`ll have to go down there
+and find out what happened.
+
+114
+00:17:10,238 --> 00:17:12,907
+Have a security team ready.
+
+115
+00:17:13,158 --> 00:17:16,745
+Computer, 21st century clothing.
+
+116
+00:17:16,995 --> 00:17:18,872
+Number One, you have the Bridge.
+
+117
+00:17:29,424 --> 00:17:32,344
+Over here.
+
+118
+00:17:54,991 --> 00:17:58,328
+They`re all dead.
+
+119
+00:18:02,832 --> 00:18:07,003
+See if one of them is Cochrane.
+Data, let`s go check the warp ship.
+
+120
+00:18:28,733 --> 00:18:32,821
+The structural integrity of the missile
+appears to be intact.
+
+121
+00:18:33,071 --> 00:18:36,157
+The fuselage is slightly damaged.
+
+122
+00:18:36,408 --> 00:18:42,414
+We have the blueprints.
+We need a team down here.
+
+123
+00:18:43,581 --> 00:18:47,919
+- Hold your fire. We`re here to help.
+- Bullshit!
+
+124
+00:18:50,880 --> 00:18:54,676
+Captain, I believe I can handle this.
+
+125
+00:19:17,032 --> 00:19:19,200
+Greetings.
+
+126
+00:19:26,916 --> 00:19:30,462
+This woman
+requires medical attention.
+
+127
+00:19:35,967 --> 00:19:40,847
+- Severe radiation poisoning.
+- From the damaged ship.
+
+128
+00:19:41,097 --> 00:19:45,352
+I have to get her to sick bay.
+
+129
+00:19:45,602 --> 00:19:49,522
+No lectures on the prime directive,
+l`ll keep her unconscious.
+
+130
+00:19:49,773 --> 00:19:53,985
+Tell Riker to beam down with
+a search party to find Cochrane.
+
+131
+00:19:54,235 --> 00:19:59,032
+Crusher to Enterprise.
+Two to beam directly to sick bay.
+
+132
+00:20:03,328 --> 00:20:07,540
+In 48 hours
+this ship has to be launched.
+
+133
+00:20:07,791 --> 00:20:13,421
+Geordi, the ship was damaged in the
+attack. Get a repair crew down here.
+
+134
+00:20:13,672 --> 00:20:20,011
+I`m on my way. Alpha team,
+we`re heading down to the surface.
+
+135
+00:20:20,261 --> 00:20:23,181
+Porter, take command while l`m gone.
+
+136
+00:20:23,431 --> 00:20:28,895
+Check out the environmental controls.
+It`s a little warm in here.
+
+137
+00:20:48,081 --> 00:20:51,167
+Isn`t it amazing?
+
+138
+00:20:51,418 --> 00:20:56,089
+This ship
+used to be a nuclear missile.
+
+139
+00:20:56,339 --> 00:21:00,510
+An historical irony. Using an
+instrument of mass destruction -
+
+140
+00:21:00,760 --> 00:21:04,222
+- to inaugurate an era of peace.
+
+141
+00:21:14,232 --> 00:21:20,113
+A boyhood fantasy. I`ve seen
+this ship in the Smithsonian, -
+
+142
+00:21:20,363 --> 00:21:23,491
+- but I was never able to touch it.
+
+143
+00:21:23,742 --> 00:21:28,747
+Does tactile contact
+alter your perception of the Phoenix?.
+
+144
+00:21:28,997 --> 00:21:34,753
+For humans, touch can connect you
+to an object in a very personal way.
+
+145
+00:21:35,003 --> 00:21:38,340
+It makes it seem more real.
+
+146
+00:21:43,511 --> 00:21:48,183
+I`m detecting imperfections
+in the titanium casing.
+
+147
+00:21:48,433 --> 00:21:52,187
+Temperature variations
+in the fuel manifold.
+
+148
+00:21:52,437 --> 00:21:56,316
+It is no more real to me now
+than it was a moment ago.
+
+149
+00:21:56,566 --> 00:22:01,237
+- Would you three like to be alone?
+- What have you found out?
+
+150
+00:22:01,488 --> 00:22:05,867
+- There`s no sign of Cochrane.
+- He has to be here.
+
+151
+00:22:06,117 --> 00:22:10,372
+This ship and this flight
+were his dream.
+
+152
+00:22:10,622 --> 00:22:15,377
+We should consider the possibility
+that Dr Cochrane died in the attack.
+
+153
+00:22:18,254 --> 00:22:22,550
+If that`s true ...
+then the future may die with him.
+
+154
+00:22:30,725 --> 00:22:35,021
+- What do you think?.
+- The entire system has gone crazy.
+
+155
+00:22:35,271 --> 00:22:40,527
+It`s affecting the entire deck.
+I`ll check the EPS conduits.
+
+156
+00:22:47,909 --> 00:22:53,581
+- Hello? Hey!
+- Are you talking to me?
+
+157
+00:22:54,499 --> 00:22:57,544
+Is anyone else working up here?
+
+158
+00:22:57,794 --> 00:23:01,131
+Not that I know of.
+
+159
+00:23:10,932 --> 00:23:13,059
+Paul?
+
+160
+00:23:16,563 --> 00:23:20,817
+Paul, are you okay in there?
+
+161
+00:23:37,292 --> 00:23:40,378
+Captain, what is it?
+
+162
+00:23:43,173 --> 00:23:47,510
+Picard to Enterprise. Mr Worf,
+is everything all right up there?
+
+163
+00:23:47,761 --> 00:23:52,849
+We are experiencing some
+environmental diffiiculties.
+
+164
+00:23:53,099 --> 00:23:59,105
+Humidityhas risen 73()%()
+and the temperature is up 10 degrees.
+
+165
+00:23:59,356 --> 00:24:05,236
+Mr Data and I will be right there.
+Number One, take charge down here.
+
+166
+00:24:05,487 --> 00:24:11,659
+The damage to her cell membranes
+is repaired. She should be fine.
+
+167
+00:24:11,910 --> 00:24:15,205
+Find out why it`s so hot in here.
+
+168
+00:24:15,455 --> 00:24:19,209
+- Now what?
+- Crusher to Engineering.
+
+169
+00:24:20,418 --> 00:24:21,753
+Crusher to Bridge.
+
+170
+00:24:24,422 --> 00:24:28,551
+- Exactly what`s been happening?
+- We`ve lost contact with Deck 16.
+
+171
+00:24:28,802 --> 00:24:33,139
+I was about to send
+a security team to investigate.
+
+172
+00:24:33,390 --> 00:24:37,769
+No, seal off Deck 16. Post
+security teams at every access point.
+
+173
+00:24:38,019 --> 00:24:42,399
+What environmental conditions
+were last reported in Engineering?
+
+174
+00:24:42,649 --> 00:24:47,696
+92()%() humidity.
+39.1 degrees Celsius.
+
+175
+00:24:47,946 --> 00:24:52,951
+39.1 degrees Celsius ...
+Iike a Borg ship.
+
+176
+00:24:53,201 --> 00:24:57,288
+They knew their ship was doomed.
+Our shields were down.
+
+177
+00:24:57,539 --> 00:25:01,459
+Somehow they transported over here
+without being detected.
+
+178
+00:25:01,710 --> 00:25:06,548
+They`ll assimilate the Enterprise ...
+and then Earth.
+
+179
+00:25:08,508 --> 00:25:11,678
+Picard to Riker.
+
+180
+00:25:13,138 --> 00:25:16,558
+Enterprise to Away Team.
+
+181
+00:25:17,684 --> 00:25:20,478
+Respond.
+
+182
+00:25:20,729 --> 00:25:26,151
+Main control is being re-routed
+through Engineering.
+
+183
+00:25:26,401 --> 00:25:29,863
+Data, lock out the main computer.
+
+184
+00:25:36,870 --> 00:25:42,876
+I have isolated the main computer
+with an encryption code.
+
+185
+00:25:43,126 --> 00:25:47,297
+The Borg have cut primary power
+to all decks except 16.
+
+186
+00:25:47,547 --> 00:25:49,799
+The Borg won`t stay on Deck 16.
+
+187
+00:25:52,594 --> 00:25:56,598
+You`re all right. Come on, wake up.
+
+188
+00:25:58,058 --> 00:26:01,269
+You are all right. Listen to me.
+
+189
+00:26:01,519 --> 00:26:05,106
+You`re going to be fine.
+I need you to do as I say.
+
+190
+00:26:05,357 --> 00:26:09,944
+- Is the EMH programme on-line?
+- It should be.
+
+191
+00:26:10,195 --> 00:26:16,409
+- Activate the EMH programme.
+- What is the nature of the emergency?.
+
+192
+00:26:16,659 --> 00:26:21,498
+20 Borg are about to break in here.
+Create a diversion.
+
+193
+00:26:21,748 --> 00:26:25,293
+This isn`t part of my programme.
+I`m a doctor.
+
+194
+00:26:25,543 --> 00:26:29,756
+Do a dance, tell a story,
+just give us a few seconds.
+
+195
+00:26:36,429 --> 00:26:43,019
+According to medical research, Borg
+implants can cause skin irritations.
+
+196
+00:26:43,269 --> 00:26:47,607
+Perhaps you`d like
+an analgesic cream.
+
+197
+00:26:51,903 --> 00:26:54,239
+Which way?.
+
+198
+00:26:54,489 --> 00:26:58,118
+We need to get off this deck.
+Follow me.
+
+199
+00:27:11,297 --> 00:27:17,137
+Engineering will be the central point
+from which they control the hive.
+
+200
+00:27:17,387 --> 00:27:22,976
+If we begin firing in there,
+we may hit the warp core.
+
+201
+00:27:25,603 --> 00:27:31,568
+Our goal should be to puncture
+one of the plasma coolant tanks.
+
+202
+00:27:31,818 --> 00:27:37,490
+Plasma coolant will liquefy
+organic material on contact.
+
+203
+00:27:37,741 --> 00:27:42,829
+The Borg cannot survive
+without their organic components.
+
+204
+00:27:43,079 --> 00:27:46,916
+All weapons will be set
+on a rotating modulation.
+
+205
+00:27:47,167 --> 00:27:51,254
+The Borg will adapt quickly.
+We`ll be able to fire 12 shots at most.
+
+206
+00:27:51,504 --> 00:27:58,511
+You may encounter crew members
+who have already been assimilated.
+
+207
+00:27:58,762 --> 00:28:06,102
+Don`t hesitate to fire. Believe me,
+you`ll be doing them a favour. Let`s go.
+
+208
+00:28:35,048 --> 00:28:37,175
+Deanna!
+
+209
+00:28:40,595 --> 00:28:43,890
+Deanna!
+
+210
+00:28:45,558 --> 00:28:49,229
+Will, don`t turn off that ..!
+
+211
+00:28:49,479 --> 00:28:56,069
+Who is this jerk?. And who told him
+he could turn off my music?
+
+212
+00:28:56,319 --> 00:29:01,116
+Will Riker, Zefram Cochrane.
+
+213
+00:29:03,827 --> 00:29:06,871
+- Is he a friend of yours?
+- Yes.
+
+214
+00:29:07,122 --> 00:29:09,374
+- Husband?
+- No?
+
+215
+00:29:09,624 --> 00:29:12,002
+Good.
+
+216
+00:29:13,086 --> 00:29:16,131
+- This, Deena ...
+- Deanna.
+
+217
+00:29:17,757 --> 00:29:21,344
+This ... is the good stuff.
+
+218
+00:29:21,594 --> 00:29:24,681
+Dr Cochrane ...
+
+219
+00:29:24,931 --> 00:29:29,185
+To the Phoenix ...
+May she rest in peace.
+
+220
+00:29:37,694 --> 00:29:40,905
+Okay, that wasn`t so good.
+
+221
+00:29:42,657 --> 00:29:48,204
+- We have to tell him the truth.
+- Then the time line ...
+
+222
+00:29:48,455 --> 00:29:53,543
+This is no time to argue about time.
+We don`t have the time.
+
+223
+00:29:58,548 --> 00:30:03,011
+- What was I saying?
+- You`re drunk.
+
+224
+00:30:03,261 --> 00:30:08,350
+He wouldn`t even talk to me
+unless I had a drink with him.
+
+225
+00:30:08,600 --> 00:30:14,773
+It took three shots of tequila
+just to find out his name.
+
+226
+00:30:15,023 --> 00:30:19,569
+I`ve spent the last 20 minutes
+trying to keep his hands off me.
+
+227
+00:30:19,819 --> 00:30:24,115
+So don`t go criticising
+my counselling techniques.
+
+228
+00:30:26,826 --> 00:30:30,747
+It`s a primitive culture.
+
+229
+00:30:30,997 --> 00:30:38,004
+I`m just trying to blend in.
+He didn`t believe our cover story.
+
+230
+00:30:38,254 --> 00:30:43,385
+We`re running out of time.
+Will he be able to handle the truth?
+
+231
+00:30:46,054 --> 00:30:52,936
+If you`re looking for my
+professional opinion ... He`s nuts.
+
+232
+00:30:53,186 --> 00:30:56,314
+I`ll be sure to note that in my log.
+
+233
+00:32:23,902 --> 00:32:29,240
+Captain, I believe l`m feeling ...
+anxiety.
+
+234
+00:32:29,491 --> 00:32:32,619
+It is an intriguing sensation.
+
+235
+00:32:32,869 --> 00:32:39,000
+Data, perhaps you should deactivate
+your emotion chip for now.
+
+236
+00:32:39,250 --> 00:32:44,214
+Good idea, sir ... Done.
+
+237
+00:32:44,464 --> 00:32:48,134
+Data, there are times that I envy you.
+
+238
+00:33:00,021 --> 00:33:05,151
+It`s only me! We have wounded here.
+
+239
+00:33:06,695 --> 00:33:12,033
+- Get these people back to Deck 14.
+- There was a civilian with us.
+
+240
+00:33:12,283 --> 00:33:17,080
+- We`ll watch for her.
+- Please, try to find her.
+
+241
+00:33:38,977 --> 00:33:44,315
+Lower your weapons. They`ll ignore
+us till the consider us a threat.
+
+242
+00:34:27,901 --> 00:34:30,362
+The manual release.
+
+243
+00:34:32,030 --> 00:34:35,158
+Mr Worf, hold this position.
+
+244
+00:34:40,914 --> 00:34:44,125
+Manualrelease on-line.
+
+245
+00:34:50,757 --> 00:34:54,344
+Perhaps we should just knock.
+
+246
+00:34:56,221 --> 00:34:58,682
+Data.
+
+247
+00:35:10,276 --> 00:35:12,779
+Ready phasers.
+
+248
+00:35:24,916 --> 00:35:27,085
+Data, cover me.
+
+249
+00:35:35,260 --> 00:35:38,179
+Captain, they have adapted.
+
+250
+00:36:15,592 --> 00:36:19,971
+Regroup on Deck 15.
+Don`t let them touch you.
+
+251
+00:36:22,307 --> 00:36:25,685
+- Captain!
+- Data!
+
+252
+00:36:44,537 --> 00:36:47,248
+Here!
+
+253
+00:36:50,794 --> 00:36:54,089
+Help!
+
+254
+00:36:54,339 --> 00:36:57,342
+Please, help.
+
+255
+00:37:16,695 --> 00:37:21,199
+- You! How the hell ..?
+- Back off!
+
+256
+00:37:21,449 --> 00:37:26,538
+Who are you?
+What faction are you with?
+
+257
+00:37:26,788 --> 00:37:32,293
+- I`m not with the Eastern Coalition.
+- Just get me the hell out of here.
+
+258
+00:37:32,544 --> 00:37:36,339
+- Now!
+- That isn`t going to be easy.
+
+259
+00:37:36,589 --> 00:37:41,386
+You`d better find a way,
+or l`m going to start pushing buttons.
+
+260
+00:37:44,139 --> 00:37:47,684
+- Follow me.
+- Slow!
+
+261
+00:38:31,019 --> 00:38:34,898
+You won`t be able to break
+the encryption codes.
+
+262
+00:38:35,148 --> 00:38:38,610
+Nor will you
+be able to assimilate me.
+
+263
+00:38:38,860 --> 00:38:42,072
+Brave words.
+I`ve heard them before.
+
+264
+00:38:42,322 --> 00:38:48,078
+From thousands ofspecies
+across thousands ofworlds.
+
+265
+00:38:48,328 --> 00:38:51,414
+Butnow they are alIBorg.
+
+266
+00:38:51,664 --> 00:38:59,047
+I am unlike any life form
+you have encountered before.
+
+267
+00:38:59,297 --> 00:39:03,259
+You are an imperfectbeing,
+created by an imperfectbeing.
+
+268
+00:39:03,510 --> 00:39:08,765
+Findingyour weakness
+is only a matter oftime.
+
+269
+00:39:16,481 --> 00:39:20,402
+Let me make sure I understand you
+correctly, Commander.
+
+270
+00:39:20,652 --> 00:39:25,657
+A group of cybernetic creatures
+from the future -
+
+271
+00:39:25,907 --> 00:39:30,078
+- have travelled back through time
+to enslave the human race.
+
+272
+00:39:30,328 --> 00:39:36,209
+And you`re here to stop them?
+Hot damn! You`re heroic.
+
+273
+00:39:37,794 --> 00:39:44,259
+- We`re going to prove it to you.
+- There she is! Beautiful!
+
+274
+00:39:45,093 --> 00:39:49,764
+- All right, take a look.
+- Well, well, well ...
+
+275
+00:39:50,015 --> 00:39:54,477
+What have we got here?
+I love a good peep show.
+
+276
+00:40:06,406 --> 00:40:12,162
+That`s a trick.
+How did you do that?
+
+277
+00:40:12,412 --> 00:40:16,750
+- It`s your telescope.
+- That`s our ship. The Enterprise.
+
+278
+00:40:24,382 --> 00:40:29,346
+And Lily is up there?
+Can I talk to her?.
+
+279
+00:40:29,596 --> 00:40:33,850
+We`ve lost contact with the ship.
+We don`t know why yet.
+
+280
+00:40:34,100 --> 00:40:40,273
+- So what is it you want me to do?
+- Conduct your flight as planned.
+
+281
+00:40:40,523 --> 00:40:43,651
+Why tomorrow morning?
+
+282
+00:40:46,946 --> 00:40:51,659
+At 1 1 o`clock an alien ship
+will be passing this solar system.
+
+283
+00:40:51,910 --> 00:40:55,747
+Alien? You mean extra-terrestrials?
+
+284
+00:40:55,997 --> 00:40:59,417
+- More bad guys?
+- Good guys.
+
+285
+00:40:59,668 --> 00:41:02,962
+They have no interest in Earth ...
+too primitive.
+
+286
+00:41:05,465 --> 00:41:12,847
+When they discover that humans have
+learned how to fly faster than light, -
+
+287
+00:41:13,098 --> 00:41:17,477
+- they alter their course and make
+first contact with Earth right here.
+
+288
+00:41:17,727 --> 00:41:20,397
+- Here?
+- Actually, over there.
+
+289
+00:41:20,647 --> 00:41:26,027
+It`s a pivotal moment in human history.
+You make contact with an alien race.
+
+290
+00:41:26,277 --> 00:41:29,698
+After you do,
+everything begins to change.
+
+291
+00:41:29,948 --> 00:41:35,537
+Fleets of starships are built
+and mankind explores the galaxy.
+
+292
+00:41:35,787 --> 00:41:42,252
+It unites humanity when they realise
+they`re not alone in the universe.
+
+293
+00:41:42,502 --> 00:41:46,756
+Poverty, disease and war
+will all be gone in 50 years.
+
+294
+00:41:47,007 --> 00:41:52,721
+But unless you make that warp flight
+tomorrow, none of it will happen.
+
+295
+00:41:52,971 --> 00:41:56,975
+You people are all astronauts ...
+
+296
+00:41:57,225 --> 00:42:00,186
+... on some kind of star trek.
+
+297
+00:42:00,437 --> 00:42:04,733
+I know this is a lot to take in,
+but we`re running out of time.
+
+298
+00:42:04,983 --> 00:42:10,030
+- We need your help.
+- What do you say?.
+
+299
+00:42:21,750 --> 00:42:24,210
+Why not?
+
+300
+00:43:23,561 --> 00:43:28,274
+It looks pretty bad, sir.
+They control decks 26 up to 1 1 .
+
+301
+00:43:28,525 --> 00:43:32,737
+When they took Deck 1 1 ,
+they stopped.
+
+302
+00:43:32,987 --> 00:43:37,617
+They`ve assimilated half the ship.
+Why stop there?
+
+303
+00:43:37,867 --> 00:43:42,914
+- What is on Deck 1 1?
+- Hydroponics. Deflector control.
+
+304
+00:43:43,164 --> 00:43:47,419
+They stopped there because
+it gave them a tactical advantage.
+
+305
+00:43:47,669 --> 00:43:49,087
+Return to your checkpoints.
+
+306
+00:43:51,756 --> 00:43:54,592
+What happened in sick bay?.
+Where`s Dr Crusher?.
+
+307
+00:43:54,843 --> 00:43:58,471
+- Why did you break the cease-fire?
+- We didn`t attack you.
+
+308
+00:44:03,143 --> 00:44:08,064
+There`s a new faction that
+wants to prevent tomorrow`s launch.
+
+309
+00:44:08,314 --> 00:44:13,987
+We`re here to help you.
+You are not in Montana anymore.
+
+310
+00:44:14,237 --> 00:44:19,367
+You are on a spaceship
+orbiting the Earth.
+
+311
+00:44:19,617 --> 00:44:24,330
+- Get me out of here.
+- All right.
+
+312
+00:44:26,166 --> 00:44:29,210
+You want a way out. Here it is.
+
+313
+00:44:31,921 --> 00:44:35,008
+What is this?
+
+314
+00:44:37,927 --> 00:44:41,973
+Australia. New Guinea.
+The Solomons.
+
+315
+00:44:42,223 --> 00:44:47,937
+Montana will be up soon,
+but it`s a long way down.
+
+316
+00:44:48,188 --> 00:44:52,442
+I`m not your enemy
+and I can get you home.
+
+317
+00:44:52,692 --> 00:44:56,529
+Put the weapon down and trust me.
+
+318
+00:45:01,576 --> 00:45:07,791
+Jean-Luc Picard.
+That`s my name, what`s yours?
+
+319
+00:45:10,877 --> 00:45:14,714
+- Lily.
+- Welcome aboard, Lily.
+
+320
+00:45:21,638 --> 00:45:24,307
+Thank you.
+
+321
+00:45:26,059 --> 00:45:30,313
+Maximum setting. If you`d fired this,
+you`d have vaporised me.
+
+322
+00:45:32,148 --> 00:45:35,402
+It`s my first ray gun.
+
+323
+00:45:51,668 --> 00:45:58,800
+- There`s no glass.
+- Forcefield.
+
+324
+00:45:59,050 --> 00:46:05,849
+- I`ve never seen such technology.
+- It hasn`t been invented yet.
+
+325
+00:46:08,018 --> 00:46:10,520
+There`s more I have to tell you.
+Come on.
+
+326
+00:46:16,401 --> 00:46:19,362
+Are you ready?
+
+327
+00:46:19,612 --> 00:46:22,699
+- Who are you?
+- I am the Borg.
+
+328
+00:46:22,949 --> 00:46:27,495
+That is a contradiction. The Borg
+have a collective consciousness.
+
+329
+00:46:27,746 --> 00:46:30,832
+There are no individuals.
+
+330
+00:46:36,463 --> 00:46:42,844
+I am the beginning, the end,
+the one who is many.
+
+331
+00:46:56,900 --> 00:46:59,986
+I am the Borg.
+
+332
+00:47:01,154 --> 00:47:03,990
+Greetings.
+
+333
+00:47:04,240 --> 00:47:07,827
+I am curious,
+do you control the Borg collective?
+
+334
+00:47:08,078 --> 00:47:12,582
+You imply disparity where
+none exists. I am the collective.
+
+335
+00:47:12,832 --> 00:47:18,213
+I`ll rephrase the question.
+I wish to understand their hierarchy.
+
+336
+00:47:18,463 --> 00:47:21,508
+Are you their leader?.
+
+337
+00:47:22,592 --> 00:47:26,554
+I bring order to chaos.
+
+338
+00:47:26,805 --> 00:47:29,974
+A cryptic response.
+
+339
+00:47:30,225 --> 00:47:33,144
+You are in chaos, Data.
+
+340
+00:47:33,395 --> 00:47:37,148
+You are a machine
+who wishes to be human.
+
+341
+00:47:37,399 --> 00:47:44,030
+I am programmed
+to evolve and to better myself.
+
+342
+00:47:44,280 --> 00:47:47,534
+We, too, are on a quest
+to better ourselves.
+
+343
+00:47:47,784 --> 00:47:50,662
+Evolving toward a state of perfection.
+
+344
+00:47:50,912 --> 00:47:55,542
+Forgive me, but the Borg
+do not evolve, they conquer.
+
+345
+00:47:55,792 --> 00:48:03,341
+By assimilating other beings we are
+bringing them closer to perfection.
+
+346
+00:48:03,591 --> 00:48:07,887
+Somehow I question your motives.
+
+347
+00:48:08,138 --> 00:48:14,936
+That is because you haven`t
+been properly ... stimulated yet.
+
+348
+00:48:20,316 --> 00:48:26,406
+You have reactivated
+my emotion chip. Why?.
+
+349
+00:48:26,656 --> 00:48:32,203
+- Don`t be frightened.
+- I am not frightened.
+
+350
+00:48:38,543 --> 00:48:45,508
+- Do you know what this is?
+- It would appear to be organic skin.
+
+351
+00:48:45,759 --> 00:48:51,598
+What a cold description
+for such a beautiful gift.
+
+352
+00:49:06,279 --> 00:49:09,824
+Was that good for you?
+
+353
+00:49:17,165 --> 00:49:19,709
+- How big is this Federation?
+- Over 150 planets.
+
+354
+00:49:19,959 --> 00:49:24,089
+- They span 8,000 light years.
+- You mustn`t get home much.
+
+355
+00:49:24,339 --> 00:49:29,969
+I tend to think of this ship as home.
+I get back to Earth whenever I can.
+
+356
+00:49:31,971 --> 00:49:37,060
+- They haven`t broken the code yet.
+- Who? The zombies?
+
+357
+00:49:37,310 --> 00:49:41,314
+- The Borg.
+- It sounds Swedish.
+
+358
+00:49:46,695 --> 00:49:54,035
+- How big is this ship?
+- 24 decks. 700 metres long.
+
+359
+00:49:54,285 --> 00:50:01,543
+It took me six months to find enough
+titanium just to build a cockpit.
+
+360
+00:50:05,255 --> 00:50:08,550
+How much did this thing cost?
+
+361
+00:50:08,800 --> 00:50:12,804
+The economics of the future
+are somewhat different.
+
+362
+00:50:13,054 --> 00:50:17,475
+Money doesn`t exist
+in the 24th century.
+
+363
+00:50:17,726 --> 00:50:21,229
+No money?.
+You mean you don`t get paid?
+
+364
+00:50:21,479 --> 00:50:26,818
+The acquisition of wealth is no
+longer the driving force in our lives.
+
+365
+00:50:27,027 --> 00:50:30,238
+We work to better ourselves ...
+
+366
+00:50:30,488 --> 00:50:33,616
+... and the rest of humanity.
+
+367
+00:50:35,910 --> 00:50:40,623
+Actually, we`re rather like
+yourself and Dr Cochrane.
+
+368
+00:50:42,125 --> 00:50:45,211
+All right!
+
+369
+00:50:45,462 --> 00:50:49,924
+- Come on.
+- Is there another way around?
+
+370
+00:50:51,384 --> 00:50:54,804
+I know what l`m doing.
+
+371
+00:51:02,645 --> 00:51:05,940
+Definitely not Swedish.
+
+372
+00:51:37,222 --> 00:51:40,266
+What the hell are you doing?
+
+373
+00:51:51,778 --> 00:51:54,572
+Perhaps something in satin.
+
+374
+00:52:03,039 --> 00:52:08,753
+I`m sorry, but we`re closing,
+and we have a strict dress code.
+
+375
+00:52:09,004 --> 00:52:12,590
+If you boys don`t leave ...
+
+376
+00:52:14,968 --> 00:52:19,764
+- I`m looking for Nicky the Nose.
+- He hasn`t been here in months.
+
+377
+00:52:23,685 --> 00:52:26,521
+This is the wrong chapter.
+
+378
+00:52:27,731 --> 00:52:31,609
+Computer, begin chapter 13.
+
+379
+00:52:35,613 --> 00:52:39,367
+Try and look
+as if you`re having a good time.
+
+380
+00:52:52,088 --> 00:52:55,508
+No, look at me.
+Try to act naturally.
+
+381
+00:53:00,764 --> 00:53:03,683
+There he is.
+
+382
+00:53:12,692 --> 00:53:18,490
+- Ruby, this is not a good time.
+- It`s never the time for us, Dix.
+
+383
+00:53:18,740 --> 00:53:23,161
+- Is that a case you`re working on?
+- I`ll see you later.
+
+384
+00:53:23,411 --> 00:53:27,999
+Okay, but watch your caboose
+and dump the broad.
+
+385
+00:53:35,465 --> 00:53:39,010
+Look what the cat dragged in.
+What`s shakin`, Dix?.
+
+386
+00:53:39,260 --> 00:53:42,555
+The usual, martinis and skirts.
+Excuse me.
+
+387
+00:53:45,975 --> 00:53:50,021
+- I`m going to take that personal.
+- No offence.
+
+388
+00:53:50,271 --> 00:53:52,857
+Hey!
+
+389
+00:54:18,800 --> 00:54:21,928
+I think you got him.
+
+390
+00:54:25,598 --> 00:54:30,020
+I don`t get it. I thought
+you said this was a hologram.
+
+391
+00:54:30,270 --> 00:54:36,401
+I disengaged the safety protocols,
+so even a holographic bullet can kill.
+
+392
+00:54:36,651 --> 00:54:41,656
+- What are you doing?
+- Looking for the neural processor.
+
+393
+00:54:41,906 --> 00:54:45,201
+It`s like a memory chip.
+
+394
+00:54:45,452 --> 00:54:50,707
+It will contain a record of all the
+instructions this Borg has received.
+
+395
+00:54:50,957 --> 00:54:58,214
+- It`s one of your uniforms.
+- Yes, this was Ensign Lynch.
+
+396
+00:55:00,216 --> 00:55:02,594
+Tough luck, huh?
+
+397
+00:55:05,096 --> 00:55:08,224
+I`ve got to get to the bridge.
+
+398
+00:55:35,877 --> 00:55:38,838
+- Doctor ...
+- Yeah?
+
+399
+00:55:39,089 --> 00:55:44,511
+- Would you take a look at this?
+- Yeah.
+
+400
+00:55:44,761 --> 00:55:52,060
+I`ve constructed the intermix chamber
+from what I remember in school.
+
+401
+00:55:52,310 --> 00:55:56,022
+- You learned about this in school?
+- Yeah.
+
+402
+00:55:56,272 --> 00:56:03,029
+``Basic Warp Design`` is required
+reading. You`re the first chapter.
+
+403
+00:56:05,573 --> 00:56:08,827
+Well, it looks like you got it right.
+
+404
+00:56:09,077 --> 00:56:15,208
+This is what we`re using to replace
+the damaged plasma conduit.
+
+405
+00:56:22,424 --> 00:56:28,930
+Yes, but you need to reinforce
+the tubing with a nano-polymer.
+
+406
+00:56:29,180 --> 00:56:34,310
+Dr Cochrane, I know this sounds
+silly, but can I shake your hand?
+
+407
+00:56:36,938 --> 00:56:40,734
+It`s such an honour to work with you.
+
+408
+00:56:40,984 --> 00:56:45,321
+I never imagined l`d meet
+the man who invented warp drive.
+
+409
+00:56:45,572 --> 00:56:48,908
+I`m sorry ... Thanks.
+
+410
+00:56:56,374 --> 00:57:02,589
+- Do they have to keep doing that?
+- It`s just a little hero worship.
+
+411
+00:57:02,839 --> 00:57:07,469
+I can`t say I blame them.
+We all grew up hearing about you.
+
+412
+00:57:07,719 --> 00:57:12,390
+Or, what you`re aboutto do.
+I shouldn`t say this, -
+
+413
+00:57:12,640 --> 00:57:15,977
+- but I went
+to Zefram Cochrane High School.
+
+414
+00:57:16,227 --> 00:57:19,147
+Really?.
+
+415
+00:57:21,733 --> 00:57:27,864
+- I wish I had a picture of this.
+- What?
+
+416
+00:57:28,114 --> 00:57:33,036
+In the future, this whole area
+becomes an historical monument.
+
+417
+00:57:33,286 --> 00:57:38,249
+You`re standing on the exact spot
+where your statue is going to be.
+
+418
+00:57:38,500 --> 00:57:40,752
+Statue?
+
+419
+00:57:41,002 --> 00:57:46,383
+It`s marble, about 20 metres tall.
+You`re looking up at the sky.
+
+420
+00:57:46,633 --> 00:57:50,804
+Your hand
+is reaching toward the future.
+
+421
+00:57:51,054 --> 00:57:54,391
+I`ve got to take a leak.
+
+422
+00:57:54,641 --> 00:57:59,229
+Leak?. I`m not detecting any leak.
+
+423
+00:57:59,479 --> 00:58:03,024
+Don`t you people
+from the 24th century ever pee?
+
+424
+00:58:03,274 --> 00:58:06,695
+Oh, leak! I get it.
+
+425
+00:58:06,945 --> 00:58:12,909
+- That`s pretty funny.
+- Excuse me.
+
+426
+00:58:13,159 --> 00:58:16,079
+Commander ...
+
+427
+00:58:23,670 --> 00:58:27,799
+Reports of my assimilation
+are greatly exaggerated.
+
+428
+00:58:28,049 --> 00:58:32,220
+I found something you lost.
+
+429
+00:58:33,972 --> 00:58:38,727
+- I am a Klingon.
+- Mr Worf, report.
+
+430
+00:58:38,977 --> 00:58:45,316
+The Borg control over half the ship.
+There`s no power to the bridge.
+
+431
+00:58:45,567 --> 00:58:50,697
+I`ve accessed
+a Borg neural processor.
+
+432
+00:58:50,947 --> 00:58:55,660
+They`re transforming the deflector
+dish into an interplexing beacon -
+
+433
+00:58:55,910 --> 00:59:01,833
+- to establish a link with the Borg
+living in the 21st century.
+
+434
+00:59:02,083 --> 00:59:05,337
+But the Borg
+are still in the Delta Quadrant.
+
+435
+00:59:05,587 --> 00:59:12,052
+They`ll send reinforcements.
+Humanity will be an easy target.
+
+436
+00:59:12,302 --> 00:59:15,347
+We must destroy the deflector dish.
+
+437
+00:59:15,597 --> 00:59:20,185
+We can`t get to deflector control
+or a shuttle craft ...
+
+438
+00:59:22,312 --> 00:59:26,608
+Mr Worf, do you remember
+your zero-G combat training?
+
+439
+00:59:26,858 --> 00:59:30,904
+I remember it made me
+sick to my stomach.
+
+440
+00:59:32,197 --> 00:59:36,659
+- What are you suggesting?
+- It`s time we took a little stroll.
+
+441
+00:59:42,165 --> 00:59:45,960
+There`s a humanoid life-sign
+up ahead.
+
+442
+00:59:46,211 --> 00:59:49,255
+51 1 metres.
+
+443
+00:59:57,097 --> 00:59:59,432
+Cochrane?
+
+444
+01:00:00,975 --> 01:00:03,395
+It`s him, all right.
+
+445
+01:00:14,698 --> 01:00:20,662
+I`ve re-modulated the weapons,
+but the Borg will be quick to adapt.
+
+446
+01:00:20,912 --> 01:00:24,249
+We must make every shot count.
+
+447
+01:00:27,002 --> 01:00:29,587
+Magnetise.
+
+448
+01:00:33,383 --> 01:00:36,469
+- Watch your caboose, Dix.
+- I intend to.
+
+449
+01:00:58,450 --> 01:01:03,079
+- How are you doing, Worf?
+- Not well, sir.
+
+450
+01:01:03,329 --> 01:01:08,084
+Try not to look at the stars.
+Keep your eyes on the hull.
+
+451
+01:01:11,921 --> 01:01:14,674
+Let`s go.
+
+452
+01:01:37,947 --> 01:01:41,826
+Tell me, are you using
+a polymer-based neuro-rely -
+
+453
+01:01:42,077 --> 01:01:47,499
+- to transmit organic nerve impulses
+to my positronic net?
+
+454
+01:01:47,749 --> 01:01:54,214
+If so, how have you solved
+the problem of signal degradation?
+
+455
+01:01:54,464 --> 01:01:57,842
+Do you always talk this much?
+
+456
+01:01:58,093 --> 01:02:01,179
+Not always, but often.
+
+457
+01:02:01,429 --> 01:02:05,517
+Why do you insist
+on using this primitive language?
+
+458
+01:02:05,767 --> 01:02:09,771
+Your android brain
+is capable of much more.
+
+459
+01:02:10,021 --> 01:02:13,066
+I am trying to become more human.
+
+460
+01:02:13,358 --> 01:02:19,698
+We used to be just like them.
+Flawed, weak, organic.
+
+461
+01:02:19,948 --> 01:02:26,204
+We evolved to include the synthetic.
+We use both to attain perfection.
+
+462
+01:02:26,454 --> 01:02:30,583
+Your goal
+should be the same as ours.
+
+463
+01:02:31,751 --> 01:02:37,507
+Believing oneself to be perfect is
+often the sign of a delusional mind.
+
+464
+01:02:37,757 --> 01:02:42,220
+A small being, trying to attack
+what he doesn`t understand.
+
+465
+01:02:42,470 --> 01:02:45,640
+You have no real interest in me.
+
+466
+01:02:45,890 --> 01:02:49,936
+Your goal is to obtain
+the codes for the computer.
+
+467
+01:02:50,186 --> 01:02:54,441
+That is one of our goals,
+one of many.
+
+468
+01:02:55,984 --> 01:02:59,446
+And to reach it,
+l`m willing to help you reach yours.
+
+469
+01:03:24,971 --> 01:03:27,974
+Is it becoming clear to you yet?
+
+470
+01:03:28,224 --> 01:03:34,230
+Look at you, standing there cradling
+the new flesh l`ve given you.
+
+471
+01:03:34,481 --> 01:03:38,443
+If it means nothing to you,
+why protect it?
+
+472
+01:03:38,693 --> 01:03:43,156
+I am simply imitating
+the behaviour of humans.
+
+473
+01:03:43,406 --> 01:03:47,619
+You`re becoming more human all the
+time. Now you`re learning how to lie.
+
+474
+01:03:49,913 --> 01:03:55,460
+My programming was not designed
+to process these sensations.
+
+475
+01:03:55,710 --> 01:03:59,798
+Then tear away your skin
+as you would a defective circuit.
+
+476
+01:04:03,134 --> 01:04:06,346
+Go ahead, Data. We won`t stop you.
+
+477
+01:04:11,851 --> 01:04:15,146
+Do it. Don`t be tempted by flesh.
+
+478
+01:04:26,074 --> 01:04:30,662
+Are you familiar with
+physical forms of pleasure?
+
+479
+01:04:30,912 --> 01:04:37,794
+If you are referring to ... sexuality, -
+
+480
+01:04:38,044 --> 01:04:41,047
+- I am fully functional.
+
+481
+01:04:42,590 --> 01:04:46,803
+Programmed in multiple techniques.
+
+482
+01:04:47,053 --> 01:04:50,515
+How long has it been
+since you`ve used them?
+
+483
+01:04:50,765 --> 01:04:55,687
+8 years, 7 months,
+16 days, 4 minutes ...
+
+484
+01:04:55,937 --> 01:04:59,107
+Far too long.
+
+485
+01:05:28,053 --> 01:05:32,098
+- We should bring reinforcements.
+- There`s no time.
+
+486
+01:05:32,349 --> 01:05:39,439
+They`re building it on top of the particle
+emitter. It will soon be activated.
+
+487
+01:05:39,689 --> 01:05:44,861
+- With phasers on full power ...
+- The dish is charged with anti-protons.
+
+488
+01:05:45,111 --> 01:05:49,699
+It`d destroy half the ship.
+We have to find another way.
+
+489
+01:06:09,678 --> 01:06:11,971
+Doctor!
+
+490
+01:06:16,101 --> 01:06:20,188
+- Still looking for the bathroom?
+- I`m not going back.
+
+491
+01:06:20,438 --> 01:06:24,567
+- We can`t do this without you.
+- I don`t want to be a statue.
+
+492
+01:06:24,818 --> 01:06:29,280
+- Stay away from me.
+- We don`t have time for this.
+
+493
+01:06:46,214 --> 01:06:49,259
+You told him about the statue?
+
+494
+01:06:51,052 --> 01:06:55,682
+For this to work, all three maglocks
+will have to be released.
+
+495
+01:09:06,146 --> 01:09:09,566
+The magnetic restrictors
+are disengaged.
+
+496
+01:09:11,317 --> 01:09:13,987
+They`ve adapted.
+
+497
+01:10:11,044 --> 01:10:15,757
+Warning:
+Decompression in 45 seconds.
+
+498
+01:10:39,864 --> 01:10:42,992
+Hawk!
+
+499
+01:13:16,771 --> 01:13:19,816
+We`ve had a change of plans, Data.
+
+500
+01:13:30,702 --> 01:13:34,039
+Assimilate this.
+
+501
+01:14:02,067 --> 01:14:06,446
+- An hour to go. How are you?
+- I`ve got a hangover.
+
+502
+01:14:06,696 --> 01:14:11,868
+Either from the whisky
+or your laser beam ... or both.
+
+503
+01:14:12,118 --> 01:14:14,788
+But l`m ready to make history.
+
+504
+01:14:14,996 --> 01:14:17,207
+Troi to Riker.
+
+505
+01:14:17,457 --> 01:14:21,795
+We`re ready to open the launch door.
+
+506
+01:14:33,848 --> 01:14:39,396
+- Look at that.
+- Is there no moon in the future?
+
+507
+01:14:39,646 --> 01:14:45,318
+Sure, but there are
+50 million people living on it.
+
+508
+01:14:45,568 --> 01:14:51,950
+You can even see Tycho City
+and Lake Armstrong on a clear day.
+
+509
+01:14:52,200 --> 01:14:56,871
+Please ...
+don`t tell me it`s all thanks to me.
+
+510
+01:14:57,122 --> 01:15:03,003
+I`ve heard enough about
+the great Zefram Cochrane.
+
+511
+01:15:03,253 --> 01:15:07,924
+You people have got some
+pretty funny ideas about me.
+
+512
+01:15:08,174 --> 01:15:12,220
+You all look at me
+as if l`m a saint or a visionary.
+
+513
+01:15:12,470 --> 01:15:18,852
+You`re no saint, but you did
+have a vision. We`re sitting in it.
+
+514
+01:15:19,102 --> 01:15:25,692
+You want to know what my vision is?
+Dollar signs! Money!
+
+515
+01:15:25,942 --> 01:15:30,864
+I didn`t build this ship
+to usher in a new era for humanity.
+
+516
+01:15:31,114 --> 01:15:35,952
+You think I want to go to the stars?
+I don`t even like to fly. I take trains.
+
+517
+01:15:37,537 --> 01:15:42,375
+I built this ship so that I could
+retire to some tropical island, -
+
+518
+01:15:42,625 --> 01:15:46,129
+- filled with naked women.
+
+519
+01:15:46,379 --> 01:15:50,884
+That`s Zefram Cochrane.
+That`s his vision.
+
+520
+01:15:51,134 --> 01:15:56,306
+This historical figure
+you keep talking about ...
+
+521
+01:15:56,556 --> 01:16:01,811
+I never met him.
+I can`t imagine I ever will.
+
+522
+01:16:02,062 --> 01:16:06,900
+Someone once said: ``Don`t try
+to be a great man, just be a man.``
+
+523
+01:16:07,150 --> 01:16:13,031
+- ``Let history be the judge.``
+- Rhetorical nonsense.
+
+524
+01:16:13,281 --> 01:16:18,328
+- Who said that?
+- You did, ten years from now.
+
+525
+01:16:18,578 --> 01:16:20,997
+You`ve got 58 minutes, Doc.
+Get on the checklist.
+
+526
+01:16:23,667 --> 01:16:29,631
+They`re on the move again.
+They`ve taken decks 5 and 6.
+
+527
+01:16:29,881 --> 01:16:37,305
+- They`ve adapted to our weapons.
+- We`ll have to further modify them.
+
+528
+01:16:37,555 --> 01:16:41,518
+In the meantime,
+tell your men to stand their ground.
+
+529
+01:16:41,768 --> 01:16:46,690
+- Fight hand-to-hand if they have to.
+- Aye, sir.
+
+530
+01:16:49,359 --> 01:16:52,821
+Wait.
+Captain, our weapons are useless.
+
+531
+01:16:53,071 --> 01:16:58,284
+We must activate the auto-destruct
+and evacuate the ship.
+
+532
+01:16:58,535 --> 01:17:02,455
+If we destroy the ship,
+we destroy the Borg.
+
+533
+01:17:02,706 --> 01:17:07,168
+- We`re going to stay and fight.
+- We have lost the Enterprise.
+
+534
+01:17:07,419 --> 01:17:11,506
+We have not lost the Enterprise
+and we are not going to.
+
+535
+01:17:11,756 --> 01:17:15,719
+- Not while l`m in command.
+- I must object ...
+
+536
+01:17:15,969 --> 01:17:19,639
+- Your objection is noted.
+- With all due respect ...
+
+537
+01:17:19,889 --> 01:17:24,352
+You`re allowing personal experience
+to influence yourjudgement.
+
+538
+01:17:26,771 --> 01:17:29,274
+You`re afraid.
+
+539
+01:17:29,524 --> 01:17:34,904
+You want to destroy the ship
+and run away. You coward.
+
+540
+01:17:35,155 --> 01:17:39,242
+If you were any other man,
+I would kill you where you stand.
+
+541
+01:17:39,492 --> 01:17:42,954
+Get off my bridge.
+
+542
+01:17:55,633 --> 01:17:58,678
+- What now?.
+- Carry out his orders.
+
+543
+01:17:58,928 --> 01:18:02,724
+Dyson, Kaplan,
+modify the weapons system.
+
+544
+01:18:02,974 --> 01:18:08,063
+- We should get off this ship.
+- The captain has made up his mind.
+
+545
+01:18:12,442 --> 01:18:16,237
+- You son of a bitch!
+- This isn`t the time.
+
+546
+01:18:16,488 --> 01:18:22,410
+I know nothing about the future,
+but everyone thinks this is suicide.
+
+547
+01:18:22,660 --> 01:18:27,457
+- They`re just afraid to say it.
+- The crew will follow my orders.
+
+548
+01:18:27,707 --> 01:18:33,880
+- Even if they don`t make sense?
+- They don`t know the Borg as I do.
+
+549
+01:18:34,130 --> 01:18:39,719
+- No one does. No one can.
+- What is that supposed to mean?
+
+550
+01:18:44,683 --> 01:18:50,146
+Six years ago, they assimilated me
+into their collective.
+
+551
+01:18:51,398 --> 01:18:55,485
+I had the cybernetic devices
+implanted throughout my body.
+
+552
+01:18:55,735 --> 01:19:02,075
+I was linked to the hive,
+every trace of individuality erased.
+
+553
+01:19:02,325 --> 01:19:04,994
+I was one of them.
+
+554
+01:19:05,203 --> 01:19:10,792
+I have a unique perspective on Borg
+and I know how to fight them.
+
+555
+01:19:11,042 --> 01:19:15,005
+If you will excuse me,
+I have work to do.
+
+556
+01:19:15,255 --> 01:19:22,470
+I am such an idiot ...
+It`s so simple.
+
+557
+01:19:22,721 --> 01:19:26,808
+The Borg hurt you, and now
+you`re going to hurt them back.
+
+558
+01:19:27,058 --> 01:19:31,354
+In my century we have
+a higher sensibility than revenge.
+
+559
+01:19:31,604 --> 01:19:35,692
+Bullshit! I saw the look on your
+face when we were on the Holodeck.
+
+560
+01:19:35,942 --> 01:19:42,449
+- You were enjoying it.
+- How dare you!
+
+561
+01:19:42,699 --> 01:19:48,538
+You`re not the first man to get
+a thrill from murdering someone.
+
+562
+01:19:48,788 --> 01:19:51,875
+- Get out!
+- Or what? You`ll kill me?
+
+563
+01:19:52,125 --> 01:19:56,713
+- Like you killed Ensign Lynch?
+- There was no way to save him.
+
+564
+01:19:56,963 --> 01:20:01,885
+- Where was your sensibility then?
+- I don`t have time for this.
+
+565
+01:20:02,135 --> 01:20:05,305
+I didn`t mean to interrupt your quest.
+
+566
+01:20:05,555 --> 01:20:09,851
+Capt Ahab has to go hunt his whale.
+
+567
+01:20:11,061 --> 01:20:15,023
+- What?
+- You do have books in the future?
+
+568
+01:20:16,608 --> 01:20:20,153
+This is about saving humanity.
+
+569
+01:20:20,403 --> 01:20:25,075
+- Blow up the damn ship!
+- No!
+
+570
+01:20:38,797 --> 01:20:42,008
+I will not sacrifice the Enterprise.
+
+571
+01:20:42,258 --> 01:20:46,638
+We`ve made
+too many compromises already.
+
+572
+01:20:46,888 --> 01:20:51,434
+They invade our space,
+and we fall back.
+
+573
+01:20:51,685 --> 01:20:55,563
+They assimilate entire worlds,
+and we fall back.
+
+574
+01:20:55,814 --> 01:21:00,902
+Not again. The line must be drawn here.
+This far and no further.
+
+575
+01:21:02,529 --> 01:21:07,909
+And I will make them pay
+for what they`ve done.
+
+576
+01:21:33,601 --> 01:21:36,855
+You broke your little ships.
+
+577
+01:21:46,614 --> 01:21:49,534
+See you around, Ahab.
+
+578
+01:21:51,828 --> 01:21:55,331
+``And he piled upon
+the whale`s white hump -
+
+579
+01:21:55,582 --> 01:22:00,462
+- a sum of all the rage and hate
+felt by his whole race.``
+
+580
+01:22:00,712 --> 01:22:05,967
+``lf his chest had been a cannon, he
+would have shot his heart upon it.``
+
+581
+01:22:06,217 --> 01:22:09,179
+What?
+
+582
+01:22:10,805 --> 01:22:16,144
+- ``Moby Dick`.
+- Actually, I never read it.
+
+583
+01:22:21,566 --> 01:22:27,530
+Ahab spent years hunting
+the white whale that crippled him.
+
+584
+01:22:27,781 --> 01:22:35,121
+A quest for vengeance.
+But in the end it destroyed him -
+
+585
+01:22:35,372 --> 01:22:38,416
+- and his ship.
+
+586
+01:22:39,793 --> 01:22:42,545
+I guess he didn`t know when to quit.
+
+587
+01:23:06,194 --> 01:23:09,531
+Prepare to evacuate the Enterprise.
+
+588
+01:23:32,595 --> 01:23:35,557
+- ATR setting?
+- Active.
+
+589
+01:23:35,807 --> 01:23:40,603
+Main bus.
+Initiate pre-ignition sequence.
+
+590
+01:23:40,854 --> 01:23:45,692
+Begin auto-destruct sequence.
+Authorisation: Picard 47-AT.
+
+591
+01:23:45,942 --> 01:23:51,906
+Confirm auto-destruct sequence.
+Crusher 22-BC.
+
+592
+01:23:52,157 --> 01:23:59,205
+Confirm auto-destruct sequence.
+Authorisation: Worf 37-GE.
+
+593
+01:23:59,456 --> 01:24:04,461
+Command authorisation accepted.
+Awaiting final code.
+
+594
+01:24:04,711 --> 01:24:10,508
+Destruct sequence A-1 .
+15 minutes silent countdown.
+
+595
+01:24:14,054 --> 01:24:18,183
+- Enable.
+- Self-destructin 15 minutes.
+
+596
+01:24:18,433 --> 01:24:21,311
+There willbe no audio warning.
+
+597
+01:24:21,561 --> 01:24:27,233
+- So much for the Enterprise E.
+- We barely knew her.
+
+598
+01:24:27,484 --> 01:24:30,445
+Do you think they`ll build a new one?
+
+599
+01:24:30,695 --> 01:24:34,783
+There are plenty of letters left
+in the alphabet.
+
+600
+01:24:35,033 --> 01:24:37,577
+Mr Worf ...
+
+601
+01:24:42,123 --> 01:24:46,503
+- I regret some of the things I said.
+- Some?
+
+602
+01:24:46,753 --> 01:24:53,051
+As a matter of fact, I think you`re
+the bravest man l`ve ever known.
+
+603
+01:24:54,803 --> 01:24:58,181
+Thank you, sir.
+
+604
+01:24:58,431 --> 01:25:01,768
+See you on Gravett lsland.
+
+605
+01:25:25,875 --> 01:25:28,294
+Captain.
+
+606
+01:25:32,590 --> 01:25:33,466
+Data.
+
+607
+01:25:36,136 --> 01:25:38,972
+Control to Phoenix,
+final launch checks are complete.
+
+608
+01:25:39,222 --> 01:25:42,934
+- Good luck.
+- Everybody ready to make history?.
+
+609
+01:25:43,184 --> 01:25:49,024
+I think I forgot something.
+It`s probably nothing.
+
+610
+01:25:49,274 --> 01:25:52,694
+Begin ignition sequence.
+
+611
+01:25:56,448 --> 01:26:01,786
+God! Now I remember!
+Where is it?
+
+612
+01:26:02,037 --> 01:26:07,542
+We can`t lift off without it.
+No, wait. I`ve found it.
+
+613
+01:26:08,585 --> 01:26:11,838
+Ten, nine, eight ...
+
+614
+01:26:12,088 --> 01:26:15,592
+Let`s rock `n` roll!
+
+615
+01:26:45,288 --> 01:26:48,625
+Can you turn that down a little?
+
+616
+01:26:48,875 --> 01:26:53,672
+We`ve got a red light
+on the second intake valve.
+
+617
+01:26:57,842 --> 01:27:02,722
+Ignore it. We`ll be fine.
+
+618
+01:27:02,972 --> 01:27:05,975
+Shutdown and separation
+on my mark.
+
+619
+01:27:06,226 --> 01:27:10,814
+Three, two, one ... mark.
+
+620
+01:27:26,830 --> 01:27:30,083
+Let`s bring the warp core on line.
+
+621
+01:27:34,671 --> 01:27:38,842
+- Wow!
+- You ain`t seen nothing yet.
+
+622
+01:27:40,927 --> 01:27:45,140
+If you see any of my crew,
+give them this.
+
+623
+01:27:45,390 --> 01:27:50,228
+Orders to live a quite corner of America
+and stay out of history`s way.
+
+624
+01:27:50,478 --> 01:27:55,275
+- Good luck.
+- To both of us.
+
+625
+01:27:58,987 --> 01:28:02,532
+You`re not leaving, are you?
+
+626
+01:28:02,782 --> 01:28:07,704
+When I was captured, my crew
+risked everything to save me.
+
+627
+01:28:07,954 --> 01:28:14,544
+There is someone still on this ship,
+and I owe him the same.
+
+628
+01:28:19,632 --> 01:28:22,927
+Go and find your friend.
+
+629
+01:29:53,643 --> 01:29:57,647
+What`s wrong, Locutus?
+lsn`t this familiar?.
+
+630
+01:29:57,897 --> 01:30:01,860
+Organic minds
+are such fragile things.
+
+631
+01:30:02,110 --> 01:30:07,032
+How could you forget me so quickly?.
+We were very close, you and l.
+
+632
+01:30:08,658 --> 01:30:11,870
+You can still hear our song.
+
+633
+01:30:12,120 --> 01:30:17,292
+Yes ... I remember you.
+
+634
+01:30:17,542 --> 01:30:21,421
+You were there all the time.
+
+635
+01:30:21,671 --> 01:30:27,552
+But that ship and all the Borg on it
+were destroyed.
+
+636
+01:30:27,802 --> 01:30:31,598
+You think in such
+three-dimensional terms.
+
+637
+01:30:31,848 --> 01:30:35,643
+How small you`ve become.
+Data understands me.
+
+638
+01:30:37,645 --> 01:30:44,819
+- Don`t you, Data?
+- What have you done to him?
+
+639
+01:30:45,070 --> 01:30:49,783
+Given him what he always wanted,
+flesh and blood.
+
+640
+01:30:50,033 --> 01:30:54,412
+Let him go.
+He`s not the one you want.
+
+641
+01:30:54,662 --> 01:31:01,294
+- Are you offering yourself to us?
+- Offering myself?
+
+642
+01:31:03,088 --> 01:31:06,925
+That`s it! I remember now.
+
+643
+01:31:07,175 --> 01:31:11,137
+It wasn`t enough
+that you assimilated me.
+
+644
+01:31:11,388 --> 01:31:17,102
+I had to give myself freely
+to the Borg ... to you.
+
+645
+01:31:17,352 --> 01:31:21,856
+I`ve overseen the assimilation
+of millions. You were no different.
+
+646
+01:31:22,107 --> 01:31:26,277
+You`re lying. You wanted more
+than just another Borg drone.
+
+647
+01:31:26,528 --> 01:31:32,367
+You wanted a human being, a bridge
+between humanity and the Borg.
+
+648
+01:31:32,617 --> 01:31:37,038
+You wanted a counterpart,
+but I resisted. I fought you.
+
+649
+01:31:37,288 --> 01:31:40,917
+You can`t begin to imagine
+the life you denied yourself.
+
+650
+01:31:45,922 --> 01:31:48,925
+It`s not too late.
+
+651
+01:31:50,719 --> 01:31:55,140
+Locutus could still be with you,
+just in the way you wanted.
+
+652
+01:31:55,390 --> 01:31:58,059
+An equal.
+
+653
+01:31:58,309 --> 01:32:02,605
+Let Data go, and
+I will take my place at your side, -
+
+654
+01:32:02,856 --> 01:32:06,609
+- willingly, without resistance.
+
+655
+01:32:06,860 --> 01:32:10,155
+Such a noble creature.
+
+656
+01:32:10,405 --> 01:32:14,075
+A quality we sometimes lack.
+
+657
+01:32:14,325 --> 01:32:18,788
+We will add your distinctiveness
+to our own.
+
+658
+01:32:19,039 --> 01:32:22,584
+Welcome home, Locutus.
+
+659
+01:32:28,214 --> 01:32:31,926
+Data, you are free to go.
+
+660
+01:32:32,177 --> 01:32:35,305
+- Data, go.
+- No.
+
+661
+01:32:37,891 --> 01:32:43,855
+- I do not wish to go.
+- I have already found an equal.
+
+662
+01:32:44,105 --> 01:32:48,026
+Data, deactivate
+the self-destruct sequence.
+
+663
+01:32:49,736 --> 01:32:52,781
+Data, no! Don`t do it!
+
+664
+01:32:53,823 --> 01:32:56,826
+Data, listen to me ...
+
+665
+01:32:57,077 --> 01:33:00,955
+Auto-destruct deactivated.
+
+666
+01:33:03,833 --> 01:33:08,922
+Now enter the encryption codes
+and give me computer control.
+
+667
+01:33:09,172 --> 01:33:11,675
+Data!
+
+668
+01:33:13,343 --> 01:33:16,346
+Data ...
+
+669
+01:33:24,437 --> 01:33:27,482
+He will make an excellent drone.
+
+670
+01:33:35,448 --> 01:33:41,579
+Plasma injectors on-line. Everything
+is looking good. I think we`re ready.
+
+671
+01:33:41,830 --> 01:33:47,502
+We must break the warp barrier in the
+next five minutes to get their attention.
+
+672
+01:33:47,752 --> 01:33:52,132
+- Main cells are charged and ready.
+- Let`s do it.
+
+673
+01:33:52,382 --> 01:33:55,218
+Engage.
+
+674
+01:34:03,435 --> 01:34:08,857
+Warp field is looking good.
+Structural integrity is holding.
+
+675
+01:34:09,107 --> 01:34:14,070
+Speed:
+20,000 kilometres per second.
+
+676
+01:34:17,115 --> 01:34:19,117
+Sweet Jesus!
+
+677
+01:34:22,328 --> 01:34:26,124
+Relax, they`re just here
+to give us a send off.
+
+678
+01:34:30,545 --> 01:34:34,007
+I am bringing
+the external sensors on-line.
+
+679
+01:34:40,847 --> 01:34:44,142
+30 seconds to warp threshold.
+
+680
+01:34:53,777 --> 01:34:58,448
+- Approaching light speed.
+- We`re at critical velocity.
+
+681
+01:34:58,698 --> 01:35:01,743
+- Quantum torpedoes locked.
+- Destroy them.
+
+682
+01:35:09,918 --> 01:35:13,171
+Watch your future`s end.
+
+683
+01:35:30,647 --> 01:35:35,193
+- Data!
+- Resistance is futile.
+
+684
+01:37:01,905 --> 01:37:05,158
+That should be enough.
+Take us out of warp.
+
+685
+01:37:17,128 --> 01:37:22,550
+- Is that Earth?
+- That`s it.
+
+686
+01:37:22,801 --> 01:37:26,096
+- It`s so small.
+- It`s about to get a whole lot bigger.
+
+687
+01:38:49,721 --> 01:38:55,185
+- Captain.
+- Data, are you all right?
+
+688
+01:38:55,435 --> 01:39:02,776
+I would imagine
+I look worse than I ... feel.
+
+689
+01:39:09,074 --> 01:39:11,785
+Strange ...
+
+690
+01:39:12,035 --> 01:39:16,164
+Part of me is sorry she is dead.
+
+691
+01:39:18,958 --> 01:39:21,795
+She was unique.
+
+692
+01:39:22,045 --> 01:39:27,092
+She brought me closer to humanity
+than I ever thought possible.
+
+693
+01:39:27,342 --> 01:39:31,805
+And for a time,
+I was tempted by her offer.
+
+694
+01:39:34,057 --> 01:39:38,186
+How long a time?
+
+695
+01:39:38,436 --> 01:39:42,357
+0.68 seconds, sir.
+
+696
+01:39:42,607 --> 01:39:47,737
+For an android,
+that is nearly an eternity.
+
+697
+01:40:00,375 --> 01:40:04,462
+Captain`s log, April 5th, 2063.
+
+698
+01:40:04,713 --> 01:40:09,009
+The voyage ofthe Phoenix
+was a success ... again.
+
+699
+01:40:09,259 --> 01:40:12,178
+The warp flight was detected, -
+
+700
+01:40:12,429 --> 01:40:17,559
+- and the alien ship is on its way
+to rendezvous with history.
+
+701
+01:41:28,963 --> 01:41:33,009
+My God!
+They`re really from another world.
+
+702
+01:41:33,259 --> 01:41:38,515
+And they`re going to want to meet
+the man who flew that warp ship.
+
+703
+01:42:28,148 --> 01:42:30,734
+Live long and prosper.
+
+704
+01:42:51,713 --> 01:42:55,133
+Thanks.
+
+705
+01:42:57,844 --> 01:43:02,057
+I think it`s time
+we made a discreet exit.
+
+706
+01:43:02,307 --> 01:43:04,976
+Stand by to beam us up.
+
+707
+01:43:12,692 --> 01:43:15,987
+You`ve got to go.
+
+708
+01:43:18,490 --> 01:43:23,036
+I envy you.
+The world you`re going to.
+
+709
+01:43:24,704 --> 01:43:30,543
+I envy you. Taking these first steps
+into a new frontier.
+
+710
+01:43:32,921 --> 01:43:36,424
+I shall miss you, Lily.
+
+711
+01:43:50,063 --> 01:43:53,566
+Picard to Enterprise, energise.
+
+712
+01:44:01,408 --> 01:44:06,329
+The moon obscured our presence.
+The Vulcans did not detect us.
+
+713
+01:44:06,579 --> 01:44:11,543
+I`ve reconfigured the chronometric
+readings from the Borg sphere.
+
+714
+01:44:11,793 --> 01:44:15,463
+- All decks report ready.
+- Helm standing by.
+
+715
+01:44:15,714 --> 01:44:21,302
+Lay in a course for the 24th century.
+Our future is waiting for us.
+
+716
+01:44:21,553 --> 01:44:26,975
+- Course laid in, sir.
+- Make it so.
+
+717
+01:50:26,918 --> 01:50:31,840
+English subtitles - IFT
