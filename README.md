@@ -10,7 +10,7 @@ title: Project Phase 1
 In this report, I intend to present the stages of data extraction and
 analysis, along with the reports obtained from the code.
 
-## Tasks performed {#tasks-performed .unnumbered}
+## Tasks performed 
 
 -   Data crawling in multiple stages:
 
@@ -44,7 +44,7 @@ Before starting the work, I need to inform you about the commands you
 need to enter to execute each section of the first phase of the project.
 The required commands are in the format of a bash script.
 
-## Crawling Data {#crawling-data .unnumbered}
+## Crawling Data 
 
 To crawl the data as described in the following sections, you need to
 execute the `CrawlData.sh` file in the project directory using the
@@ -55,14 +55,14 @@ following command:
 After executing it, you will be prompted with questions regarding data
 extraction, and the necessary data will be extracted upon completion.
 
-## Data Cleaning and Data Frames {#data-cleaning-and-data-frames .unnumbered}
+## Data Cleaning and Data Frames 
 
 For data cleaning and creating data frames, you need to run the
 `CleanData.sh` file. To execute it, use the following command:
 
     sh CleanData.sh
 
-## Generating Reports {#generating-reports .unnumbered}
+## Generating Reports 
 
 Lastly, to generate graphs and tables, you should run the `Reports.sh`
 file. Use the following command to execute it:
@@ -175,7 +175,7 @@ Dataset](https://huggingface.co/datasets/Baktashans/Subttitles_AgeRate_Data)
 The following reports are presented in the form of tables and charts,
 providing information about the data.
 
-## General Report {#general-report .unnumbered}
+## General Report 
 
 For each label we have :
 
@@ -187,168 +187,130 @@ For each label we have :
 
 -   Number of unique words (non-duplicate words)
 
-[Number of subtitles]{.image .placeholder
-original-image-src="./stats/number_of_subtitles.png"
-original-image-title="fig:" width="100%"}
+![Number of subtitles](
+./stats/number_of_subtitles.png)
 
-[Number of sentences]{.image .placeholder
-original-image-src="./stats/number_of_sentences.png"
-original-image-title="fig:" width="100%"}
+![Number of sentences](
+./stats/number_of_sentences.png)
 
-[Number of words]{.image .placeholder
-original-image-src="./stats/number_of_words.png"
-original-image-title="fig:" width="100%"}
+![Number of words](
+./stats/number_of_words.png)
 
-[Number of unique words (non-duplicate)]{.image .placeholder
-original-image-src="./stats/number_of_unique_words.png"
-original-image-title="fig:" width="100%"}
+![Number of unique words (non-duplicate)](
+./stats/number_of_unique_words.png)
 
-## Number of unique words that are common and non-common in every two labels {#number-of-unique-words-that-are-common-and-non-common-in-every-two-labels .unnumbered}
+## Number of unique words that are common and non-common in every two labels 
 
-## 10 non-common words of each label {#non-common-words-of-each-label .unnumbered}
+## 10 non-common words of each label 
 
-[Top 10 label G words]{.image .placeholder
-original-image-src="./stats/Top_10_label_G_words.png"
-original-image-title="fig:" width="100%"}
+![Top 10 label G words](
+./stats/Top_10_label_G_words.png)
 
-[Top 10 label PG words]{.image .placeholder
-original-image-src="./stats/Top_10_label_PG_words.png"
-original-image-title="fig:" width="100%"}
+![Top 10 label PG words](
+./stats/Top_10_label_PG_words.png)
 
-[Top 10 label R words]{.image .placeholder
-original-image-src="./stats/Top_10_label_R_words.png"
-original-image-title="fig:" width="100%"}
+![Top 10 label R words](
+./stats/Top_10_label_R_words.png)
 
-[Top 10 label PG-13 words]{.image .placeholder
-original-image-src="./stats/Top_10_label_PG-13_words.png"
-original-image-title="fig:" width="100%"}
+![Top 10 label PG-13 words](
+./stats/Top_10_label_PG-13_words.png)
 
-[Top 10 label NC-17 words]{.image .placeholder
-original-image-src="./stats/Top_10_label_NC-17_words.png"
-original-image-title="fig:" width="100%"}
+![Top 10 label NC-17 words](
+./stats/Top_10_label_NC-17_words.png)
 
-## The top 10 common words for each label compared to other labels based on the relative normalized frequency criterion. {#the-top-10-common-words-for-each-label-compared-to-other-labels-based-on-the-relative-normalized-frequency-criterion. .unnumbered}
+## The top 10 common words for each label compared to other labels based on the relative normalized frequency criterion. 
 
-[RNF G NC-17]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_G_NC-17_words.png"
-original-image-title="fig:" width="100%"}
+![RNF G NC-17](
+./stats/Top_10_common_RNF_G_NC-17_words.png)
 
-[RNF NC-17 G]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_NC-17_G_words.png"
-original-image-title="fig:" width="100%"}
+![RNF NC-17 G](
+./stats/Top_10_common_RNF_NC-17_G_words.png)
 
-[RNF G PG]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_G_PG_words.png"
-original-image-title="fig:" width="100%"}
+![RNF G PG](
+./stats/Top_10_common_RNF_G_PG_words.png)
 
-[RNF PG G]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_PG_G_words.png"
-original-image-title="fig:" width="100%"}
+![RNF PG G](
+./stats/Top_10_common_RNF_PG_G_words.png)
 
-[RNF G PG-13]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_G_PG-13_words.png"
-original-image-title="fig:" width="100%"}
+![RNF G PG-13](
+./stats/Top_10_common_RNF_G_PG-13_words.png)
 
-[RNF PG-13 G]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_PG-13_G_words.png"
-original-image-title="fig:" width="100%"}
+![RNF PG-13 G](
+./stats/Top_10_common_RNF_PG-13_G_words.png)
 
-[RNF G R]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_G_R_words.png"
-original-image-title="fig:" width="100%"}
+![RNF G R](
+./stats/Top_10_common_RNF_G_R_words.png)
 
-[RNF R G]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_R_G_words.png"
-original-image-title="fig:" width="100%"}
+![RNF R G](
+./stats/Top_10_common_RNF_R_G_words.png)
 
-[RNF NC-17 PG]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_NC-17_PG_words.png"
-original-image-title="fig:" width="100%"}
+![RNF NC-17 PG](
+./stats/Top_10_common_RNF_NC-17_PG_words.png)
 
-[RNF PG NC-17]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_PG_NC-17_words.png"
-original-image-title="fig:" width="100%"}
+![RNF PG NC-17](
+./stats/Top_10_common_RNF_PG_NC-17_words.png)
 
-[RNF NC-17 PG-13]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_NC-17_PG-13_words.png"
-original-image-title="fig:" width="100%"}
+![RNF NC-17 PG-13](
+./stats/Top_10_common_RNF_NC-17_PG-13_words.png)
 
-[RNF PG-13 NC-17]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_PG-13_NC-17_words.png"
-original-image-title="fig:" width="100%"}
+![RNF PG-13 NC-17](
+./stats/Top_10_common_RNF_PG-13_NC-17_words.png)
 
-[RNF NC-17 R]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_NC-17_R_words.png"
-original-image-title="fig:" width="100%"}
+![RNF NC-17 R](
+./stats/Top_10_common_RNF_NC-17_R_words.png)
 
-[RNF R NC-17]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_R_NC-17_words.png"
-original-image-title="fig:" width="100%"}
+![RNF R NC-17](
+./stats/Top_10_common_RNF_R_NC-17_words.png)
 
-[RNF PG PG-13]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_PG_PG-13_words.png"
-original-image-title="fig:" width="100%"}
+![RNF PG PG-13](
+./stats/Top_10_common_RNF_PG_PG-13_words.png)
 
-[RNF PG-13 PG]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_PG-13_PG_words.png"
-original-image-title="fig:" width="100%"}
+![RNF PG-13 PG](
+./stats/Top_10_common_RNF_PG-13_PG_words.png)
 
-[RNF PG R]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_PG_R_words.png"
-original-image-title="fig:" width="100%"}
+![RNF PG R](
+./stats/Top_10_common_RNF_PG_R_words.png)
 
-[RNF R PG]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_R_PG_words.png"
-original-image-title="fig:" width="100%"}
+![RNF R PG](
+./stats/Top_10_common_RNF_R_PG_words.png)
 
-[RNF PG-13 R]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_PG-13_R_words.png"
-original-image-title="fig:" width="100%"}
+![RNF PG-13 R](
+./stats/Top_10_common_RNF_PG-13_R_words.png)
 
-[RNF R PG-13]{.image .placeholder
-original-image-src="./stats/Top_10_common_RNF_R_PG-13_words.png"
-original-image-title="fig:" width="100%"}
+![RNF R PG-13](
+./stats/Top_10_common_RNF_R_PG-13_words.png)
 
-## Top 10 Words for each label based of TF-IDF {#top-10-words-for-each-label-based-of-tf-idf .unnumbered}
+## Top 10 Words for each label based of TF-IDF 
 
-[Top 10 TF-IDF G words]{.image .placeholder
-original-image-src="./stats/Top_10_TF_IDF_G_words.png"
-original-image-title="fig:" width="100%"}
+![Top 10 TF-IDF G words](
+./stats/Top_10_TF_IDF_G_words.png)
 
-[Top 10 TF-IDF PG words]{.image .placeholder
-original-image-src="./stats/Top_10_TF_IDF_PG_words.png"
-original-image-title="fig:" width="100%"}
+![Top 10 TF-IDF PG words](
+./stats/Top_10_TF_IDF_PG_words.png)
 
-[Top 10 TF-IDF PG-13 words]{.image .placeholder
-original-image-src="./stats/Top_10_TF_IDF_PG-13_words.png"
-original-image-title="fig:" width="100%"}
+![Top 10 TF-IDF PG-13 words](
+./stats/Top_10_TF_IDF_PG-13_words.png)
 
-[Top 10 TF-IDF R words]{.image .placeholder
-original-image-src="./stats/Top_10_TF_IDF_R_words.png"
-original-image-title="fig:" width="100%"}
+![Top 10 TF-IDF R words](
+./stats/Top_10_TF_IDF_R_words.png)
 
-[Top 10 TF-IDF NC-17 words]{.image .placeholder
-original-image-src="./stats/Top_10_TF_IDF_NC-17_words.png"
-original-image-title="fig:" width="100%"}
+![Top 10 TF-IDF NC-17 words](
+./stats/Top_10_TF_IDF_NC-17_words.png)
 
-## Top 15 Words for each label histogram ( from high to low freq ) {#top-15-words-for-each-label-histogram-from-high-to-low-freq .unnumbered}
+## Top 15 Words for each label histogram ( from high to low freq ) 
 
-[Top 15 Freq Histogram G Words]{.image .placeholder
-original-image-src="./stats/Top_15_Freq__Histogram_G_Words.png"
-original-image-title="fig:" width="100%"}
+![Top 15 Freq Histogram G Words](
+./stats/Top_15_Freq__Histogram_G_Words.png)
 
-[Top 15 Freq Histogram PG Words]{.image .placeholder
-original-image-src="./stats/Top_15_Freq__Histogram_PG_Words.png"
-original-image-title="fig:" width="100%"}
+![Top 15 Freq Histogram PG Words](
+./stats/Top_15_Freq__Histogram_PG_Words.png)
 
-[Top 15 Freq Histogram PG-13 Words]{.image .placeholder
-original-image-src="./stats/Top_15_Freq__Histogram_PG-13_Words.png"
-original-image-title="fig:" width="100%"}
+![Top 15 Freq Histogram PG-13 Words](
+./stats/Top_15_Freq__Histogram_PG-13_Words.png)
 
-[Top 15 Freq Histogram R Words]{.image .placeholder
-original-image-src="./stats/Top_15_Freq__Histogram_R_Words.png"
-original-image-title="fig:" width="100%"}
+![Top 15 Freq Histogram R Words](
+./stats/Top_15_Freq__Histogram_R_Words.png
+)
 
-[Top 15 Freq Histogram NC-17 Words]{.image .placeholder
-original-image-src="./stats/Top_15_Freq__Histogram_NC-17_Words.png"
-original-image-title="fig:" width="100%"}
+
+![Top 15 Freq Histogram NC-17 Words](./stats/Top_15_Freq__Histogram_NC-17_Words.png)
