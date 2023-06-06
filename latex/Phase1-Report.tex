@@ -13,6 +13,8 @@
 
 \maketitle
 
+
+
 \section{Introduction}
 
 
@@ -43,6 +45,43 @@ In this report, I intend to present the stages of data extraction and analysis, 
 \end{itemize}
 \item Final remarks and challenges
 \end{itemize}
+
+
+\section {Instructions for Executing Project}
+
+Before starting the work, I need to inform you about the commands you need to enter to execute each section of the first phase of the project. The required commands are in the format of a bash script.
+
+\subsection*{Crawling Data}
+
+To crawl the data as described in the following sections, you need to execute the \texttt{CrawlData.sh} file in the project directory using the following command:
+
+\begin{verbatim}
+sh CrawlData.sh
+\end{verbatim}
+
+After executing it, you will be prompted with questions regarding data extraction, and the necessary data will be extracted upon completion.
+
+\subsection*{Data Cleaning and Data Frames}
+
+For data cleaning and creating data frames, you need to run the \texttt{CleanData.sh} file. To execute it, use the following command:
+
+\begin{verbatim}
+sh CleanData.sh
+\end{verbatim}
+
+\subsection*{Generating Reports}
+
+Lastly, to generate graphs and tables, you should run the \texttt{Reports.sh} file. Use the following command to execute it:
+
+\begin{verbatim}
+sh Reports.sh
+\end{verbatim}
+
+Please ensure that the \texttt{latex} folder exists in the project directory. After running the final command, you will be able to view the generated PDF within this folder.
+
+Note that you should execute all of these commands sequentially and not change the order.
+
+
 
 \section{Crawling Data}
 
