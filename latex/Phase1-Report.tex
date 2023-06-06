@@ -3,6 +3,7 @@
 \usepackage{csvsimple}
 \usepackage{graphicx}
 \usepackage{placeins}
+\usepackage{hyperref}
 
 
 \title{Project Phase 1}
@@ -127,6 +128,13 @@ I have performed the following steps to clean the data:
 The structure of the cleaned data is as follows: all the data is stored within the "clean" directory. Each subtitle is cleaned from the "raw" folder and saved in the "clean" folder as a TXT file with its corresponding ID as the filename.
 
 Then, I bring the cleaned data into pandas data frames, where each data frame consists of a list of sentences from each subtitle, along with their respective labels. These data frames are saved in the "sentencebroken" folder. Additionally, a separate data frame is created for each subtitle, containing a list of words along with their corresponding labels. These data frames are saved in the "wordbroken" folder. Finally, these data frames are saved as CSV files. These CSV files uploaded to Hugging Face for further processing.
+
+\section{Hugging Face}
+
+You can access two data frames, namely "sentence broken" and "word broken," at the following link: \\
+\href{https://huggingface.co/datasets/Baktashans/Subttitles_AgeRate_Data}{Hugging Face Dataset}
+
+
 
 \section{Reports}
 
