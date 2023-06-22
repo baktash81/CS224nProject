@@ -10,6 +10,7 @@ import string
 import pickle
 import os
 import pandas as pd
+from sklearn.model_selection import train_test_split
 
 
 def clean_subtitle(subtitle):
@@ -176,3 +177,40 @@ print()
 print(wordDf)
 
 print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Done ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+
+
+
+print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Data Frame label based ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+
+# dataframes :
+dfs = { "NC-17" : [], "PG-13" : [], "G" : [], "R" : [], "PG" : []}
+
+for index, row in sentenceDf.iterrows():
+    dfs[row['label']].append([row['imdb_id'], row['sentences']])
+
+for label in dfs.keys() :
+  labelDf = pd.DataFrame(dfs[label], columns=['imdb_id', 'sentences'])
+  labelDf.to_csv(f'./data/sentencebroken/{label}.csv', index=False)
+  print(labelDf)
+
+
+print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Done ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+
+
+
+
+print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ making test and train files for hugging face ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+
+
+# Split the dataframe into train and test
+train_df, test_df = train_test_split(sentenceDf, test_size=0.2, random_state=42)
+
+# Save train and test data to CSV files
+train_df.to_csv('./data/sentencebroken/train.csv', index=False)
+test_df.to_csv('./data/sentencebroken/test.csv', index=False)
+
+print(train_df)
+print(test_df)
+
+print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Done ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+

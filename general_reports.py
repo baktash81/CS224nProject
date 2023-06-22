@@ -2,6 +2,8 @@ import os
 import pandas as pd
 import pickle
 import matplotlib.pyplot as plt
+import nltk
+import seaborn as sns
 
 def generalPlot(data, name) :
 
@@ -143,3 +145,36 @@ for i in range(4) :
   for item in rows :
     row.append(item[i+1])
   generalPlot(row, nameFig[i])
+
+print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ top 100 words of each label based on frequency ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+
+
+
+
+
+def freq_words(x, terms, label):
+  all_words = ' '.join([text for text in x])
+  all_words = all_words.split()
+  fdist = nltk.FreqDist(all_words)
+  words_df = pd.DataFrame({'word':list(fdist.keys()), 'count':list(fdist.values())})
+
+  # selecting top terms most frequent words
+  d = words_df.nlargest(columns="count", n = terms)
+
+  # visualize words and frequencies
+  plt.figure(figsize=(12,15))
+  ax = sns.barplot(data=d, x= "count", y = "word")
+  ax.set(ylabel = f'top {terms} {label} Words')
+  plt.savefig(f'./stats/top_{terms}_{label}_words.png')  # Save the plot as a PNG file
+  plt.show()
+  
+
+
+
+# import each dataframe :
+labels = [ "NC-17", "PG-13", "G", "R", "PG"]
+
+for label in labels :
+  labelDf = pd.read_csv(f'./data/sentencebroken/{label}.csv')
+
+  freq_words(labelDf['sentences'], 100, label)

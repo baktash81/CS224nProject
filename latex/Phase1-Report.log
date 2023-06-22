@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.4.13)  6 JUN 2023 22:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.4.13)  23 JUN 2023 00:48
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -317,207 +317,235 @@ Overfull \hbox (1.96393pt too wide) in paragraph at lines 191--191
 [7
 
 ]
-<../stats/Top_10_label_G_words.png, id=95, 462.528pt x 346.896pt>
+<../stats/top_100_G_words.png, id=95, 867.24pt x 1084.05pt>
+File: ../stats/top_100_G_words.png Graphic file (type png)
+<use ../stats/top_100_G_words.png>
+Package pdftex.def Info: ../stats/top_100_G_words.png  used on input line 214.
+(pdftex.def)             Requested size: 345.0pt x 431.24692pt.
+<../stats/top_100_PG_words.png, id=96, 867.24pt x 1084.05pt>
+File: ../stats/top_100_PG_words.png Graphic file (type png)
+<use ../stats/top_100_PG_words.png>
+Package pdftex.def Info: ../stats/top_100_PG_words.png  used on input line 220.
+(pdftex.def)             Requested size: 345.0pt x 431.24692pt.
+<../stats/top_100_R_words.png, id=97, 867.24pt x 1084.05pt>
+File: ../stats/top_100_R_words.png Graphic file (type png)
+<use ../stats/top_100_R_words.png>
+Package pdftex.def Info: ../stats/top_100_R_words.png  used on input line 226.
+(pdftex.def)             Requested size: 345.0pt x 431.24692pt.
+<../stats/top_100_PG-13_words.png, id=98, 867.24pt x 1084.05pt>
+File: ../stats/top_100_PG-13_words.png Graphic file (type png)
+<use ../stats/top_100_PG-13_words.png>
+Package pdftex.def Info: ../stats/top_100_PG-13_words.png  used on input line 232.
+(pdftex.def)             Requested size: 345.0pt x 431.24692pt.
+<../stats/top_100_NC-17_words.png, id=99, 867.24pt x 1084.05pt>
+File: ../stats/top_100_NC-17_words.png Graphic file (type png)
+<use ../stats/top_100_NC-17_words.png>
+Package pdftex.def Info: ../stats/top_100_NC-17_words.png  used on input line 238.
+(pdftex.def)             Requested size: 345.0pt x 431.24692pt.
+ [8] [9 <../stats/top_100_G_words.png>] [10 <../stats/top_100_PG_words.png>] [11 <../stats/top_100_R_words.png>] [12 <../stats/top_100_PG-13_words.png>] [13 <../stats/top_100_NC-17_words.png>]
+<../stats/Top_10_label_G_words.png, id=137, 462.528pt x 346.896pt>
 File: ../stats/Top_10_label_G_words.png Graphic file (type png)
 <use ../stats/Top_10_label_G_words.png>
-Package pdftex.def Info: ../stats/Top_10_label_G_words.png  used on input line 214.
+Package pdftex.def Info: ../stats/Top_10_label_G_words.png  used on input line 248.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_label_PG_words.png, id=96, 462.528pt x 346.896pt>
+<../stats/Top_10_label_PG_words.png, id=138, 462.528pt x 346.896pt>
 File: ../stats/Top_10_label_PG_words.png Graphic file (type png)
 <use ../stats/Top_10_label_PG_words.png>
-Package pdftex.def Info: ../stats/Top_10_label_PG_words.png  used on input line 220.
+Package pdftex.def Info: ../stats/Top_10_label_PG_words.png  used on input line 254.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_label_R_words.png, id=97, 462.528pt x 346.896pt>
+<../stats/Top_10_label_R_words.png, id=139, 462.528pt x 346.896pt>
 File: ../stats/Top_10_label_R_words.png Graphic file (type png)
 <use ../stats/Top_10_label_R_words.png>
-Package pdftex.def Info: ../stats/Top_10_label_R_words.png  used on input line 226.
+Package pdftex.def Info: ../stats/Top_10_label_R_words.png  used on input line 260.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_label_PG-13_words.png, id=98, 462.528pt x 346.896pt>
+<../stats/Top_10_label_PG-13_words.png, id=140, 462.528pt x 346.896pt>
 File: ../stats/Top_10_label_PG-13_words.png Graphic file (type png)
 <use ../stats/Top_10_label_PG-13_words.png>
-Package pdftex.def Info: ../stats/Top_10_label_PG-13_words.png  used on input line 232.
+Package pdftex.def Info: ../stats/Top_10_label_PG-13_words.png  used on input line 266.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_label_NC-17_words.png, id=99, 462.528pt x 346.896pt>
+<../stats/Top_10_label_NC-17_words.png, id=141, 462.528pt x 346.896pt>
 File: ../stats/Top_10_label_NC-17_words.png Graphic file (type png)
 <use ../stats/Top_10_label_NC-17_words.png>
-Package pdftex.def Info: ../stats/Top_10_label_NC-17_words.png  used on input line 238.
+Package pdftex.def Info: ../stats/Top_10_label_NC-17_words.png  used on input line 272.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
- [8] [9 <../stats/Top_10_label_G_words.png> <../stats/Top_10_label_PG_words.png>] [10 <../stats/Top_10_label_R_words.png> <../stats/Top_10_label_PG-13_words.png>] [11 <../stats/Top_10_label_NC-17_words.png>]
-<../stats/Top_10_common_RNF_G_NC-17_words.png, id=128, 462.528pt x 346.896pt>
+ [14
+
+ <../stats/Top_10_label_G_words.png>] [15 <../stats/Top_10_label_PG_words.png> <../stats/Top_10_label_R_words.png>] [16 <../stats/Top_10_label_PG-13_words.png> <../stats/Top_10_label_NC-17_words.png>]
+<../stats/Top_10_common_RNF_G_NC-17_words.png, id=166, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_G_NC-17_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_G_NC-17_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_G_NC-17_words.png  used on input line 248.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_G_NC-17_words.png  used on input line 282.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_common_RNF_NC-17_G_words.png, id=129, 462.528pt x 346.896pt>
+<../stats/Top_10_common_RNF_NC-17_G_words.png, id=167, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_NC-17_G_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_NC-17_G_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_NC-17_G_words.png  used on input line 255.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_NC-17_G_words.png  used on input line 289.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_common_RNF_G_PG_words.png, id=130, 462.528pt x 346.896pt>
+<../stats/Top_10_common_RNF_G_PG_words.png, id=168, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_G_PG_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_G_PG_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_G_PG_words.png  used on input line 262.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_G_PG_words.png  used on input line 296.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_common_RNF_PG_G_words.png, id=131, 462.528pt x 346.896pt>
+<../stats/Top_10_common_RNF_PG_G_words.png, id=169, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_PG_G_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_PG_G_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_PG_G_words.png  used on input line 269.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_PG_G_words.png  used on input line 303.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_common_RNF_G_PG-13_words.png, id=132, 462.528pt x 346.896pt>
+<../stats/Top_10_common_RNF_G_PG-13_words.png, id=170, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_G_PG-13_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_G_PG-13_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_G_PG-13_words.png  used on input line 276.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_G_PG-13_words.png  used on input line 310.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_common_RNF_PG-13_G_words.png, id=133, 462.528pt x 346.896pt>
+<../stats/Top_10_common_RNF_PG-13_G_words.png, id=171, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_PG-13_G_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_PG-13_G_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_PG-13_G_words.png  used on input line 283.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_PG-13_G_words.png  used on input line 317.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_common_RNF_G_R_words.png, id=134, 462.528pt x 346.896pt>
+<../stats/Top_10_common_RNF_G_R_words.png, id=172, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_G_R_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_G_R_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_G_R_words.png  used on input line 290.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_G_R_words.png  used on input line 324.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_common_RNF_R_G_words.png, id=135, 462.528pt x 346.896pt>
+<../stats/Top_10_common_RNF_R_G_words.png, id=173, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_R_G_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_R_G_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_R_G_words.png  used on input line 297.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_R_G_words.png  used on input line 331.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_common_RNF_NC-17_PG_words.png, id=136, 462.528pt x 346.896pt>
+<../stats/Top_10_common_RNF_NC-17_PG_words.png, id=174, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_NC-17_PG_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_NC-17_PG_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_NC-17_PG_words.png  used on input line 304.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_NC-17_PG_words.png  used on input line 338.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_common_RNF_PG_NC-17_words.png, id=137, 462.528pt x 346.896pt>
+<../stats/Top_10_common_RNF_PG_NC-17_words.png, id=175, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_PG_NC-17_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_PG_NC-17_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_PG_NC-17_words.png  used on input line 311.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_PG_NC-17_words.png  used on input line 345.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_common_RNF_NC-17_PG-13_words.png, id=138, 462.528pt x 346.896pt>
+<../stats/Top_10_common_RNF_NC-17_PG-13_words.png, id=176, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_NC-17_PG-13_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_NC-17_PG-13_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_NC-17_PG-13_words.png  used on input line 318.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_NC-17_PG-13_words.png  used on input line 352.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_common_RNF_PG-13_NC-17_words.png, id=139, 462.528pt x 346.896pt>
+<../stats/Top_10_common_RNF_PG-13_NC-17_words.png, id=177, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_PG-13_NC-17_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_PG-13_NC-17_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_PG-13_NC-17_words.png  used on input line 325.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_PG-13_NC-17_words.png  used on input line 359.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_common_RNF_NC-17_R_words.png, id=140, 462.528pt x 346.896pt>
+<../stats/Top_10_common_RNF_NC-17_R_words.png, id=178, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_NC-17_R_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_NC-17_R_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_NC-17_R_words.png  used on input line 332.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_NC-17_R_words.png  used on input line 366.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_common_RNF_R_NC-17_words.png, id=141, 462.528pt x 346.896pt>
+<../stats/Top_10_common_RNF_R_NC-17_words.png, id=179, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_R_NC-17_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_R_NC-17_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_R_NC-17_words.png  used on input line 339.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_R_NC-17_words.png  used on input line 373.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_common_RNF_PG_PG-13_words.png, id=142, 462.528pt x 346.896pt>
+<../stats/Top_10_common_RNF_PG_PG-13_words.png, id=180, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_PG_PG-13_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_PG_PG-13_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_PG_PG-13_words.png  used on input line 346.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_PG_PG-13_words.png  used on input line 380.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_common_RNF_PG-13_PG_words.png, id=143, 462.528pt x 346.896pt>
+<../stats/Top_10_common_RNF_PG-13_PG_words.png, id=181, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_PG-13_PG_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_PG-13_PG_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_PG-13_PG_words.png  used on input line 353.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_PG-13_PG_words.png  used on input line 387.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_common_RNF_PG_R_words.png, id=144, 462.528pt x 346.896pt>
+<../stats/Top_10_common_RNF_PG_R_words.png, id=182, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_PG_R_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_PG_R_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_PG_R_words.png  used on input line 360.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_PG_R_words.png  used on input line 394.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_common_RNF_R_PG_words.png, id=145, 462.528pt x 346.896pt>
+<../stats/Top_10_common_RNF_R_PG_words.png, id=183, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_R_PG_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_R_PG_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_R_PG_words.png  used on input line 367.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_R_PG_words.png  used on input line 401.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_common_RNF_PG-13_R_words.png, id=146, 462.528pt x 346.896pt>
+<../stats/Top_10_common_RNF_PG-13_R_words.png, id=184, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_PG-13_R_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_PG-13_R_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_PG-13_R_words.png  used on input line 374.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_PG-13_R_words.png  used on input line 408.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
-<../stats/Top_10_common_RNF_R_PG-13_words.png, id=147, 462.528pt x 346.896pt>
+<../stats/Top_10_common_RNF_R_PG-13_words.png, id=185, 462.528pt x 346.896pt>
 File: ../stats/Top_10_common_RNF_R_PG-13_words.png Graphic file (type png)
 <use ../stats/Top_10_common_RNF_R_PG-13_words.png>
-Package pdftex.def Info: ../stats/Top_10_common_RNF_R_PG-13_words.png  used on input line 381.
+Package pdftex.def Info: ../stats/Top_10_common_RNF_R_PG-13_words.png  used on input line 415.
 (pdftex.def)             Requested size: 345.0pt x 258.76335pt.
- [12
+ [17
 
- <../stats/Top_10_common_RNF_G_NC-17_words.png>] [13 <../stats/Top_10_common_RNF_NC-17_G_words.png> <../stats/Top_10_common_RNF_G_PG_words.png>] [14 <../stats/Top_10_common_RNF_PG_G_words.png> <../stats/Top_10_common_RNF_G_PG-13_words.png>] [15 <../stats/Top_10_common_RNF_PG-13_G_words.png> <../stats/Top_10_common_RNF_G_R_words.png>] [16 <../stats/Top_10_common_RNF_R_G_words.png> <../stats/Top_10_common_RNF_NC-17_PG_words.png>] [17 <../stats/Top_10_common_RNF_PG_NC-17_words.png> <../stats/Top_10_common_RNF_NC-17_PG-13_words.png>] [18 <../stats/Top_10_common_RNF_PG-13_NC-17_words.png> <../stats/Top_10_common_RNF_NC-17_R_words.png>] [19 <../stats/Top_10_common_RNF_R_NC-17_words.png> <../stats/Top_10_common_RNF_PG_PG-13_words.png>] [20 <../stats/Top_10_common_RNF_PG-13_PG_words.png> <../stats/Top_10_common_RNF_PG_R_words.png>] [21 <../stats/Top_10_common_RNF_R_PG_words.png> <../stats/Top_10_common_RNF_PG-13_R_words.png>] [22 <../stats/Top_10_common_RNF_R_PG-13_words.png>]
-<../stats/Top_10_TF_IDF_G_words.png, id=236, 578.16pt x 578.16pt>
+ <../stats/Top_10_common_RNF_G_NC-17_words.png>] [18 <../stats/Top_10_common_RNF_NC-17_G_words.png> <../stats/Top_10_common_RNF_G_PG_words.png>] [19 <../stats/Top_10_common_RNF_PG_G_words.png> <../stats/Top_10_common_RNF_G_PG-13_words.png>] [20 <../stats/Top_10_common_RNF_PG-13_G_words.png> <../stats/Top_10_common_RNF_G_R_words.png>] [21 <../stats/Top_10_common_RNF_R_G_words.png> <../stats/Top_10_common_RNF_NC-17_PG_words.png>] [22 <../stats/Top_10_common_RNF_PG_NC-17_words.png> <../stats/Top_10_common_RNF_NC-17_PG-13_words.png>] [23 <../stats/Top_10_common_RNF_PG-13_NC-17_words.png> <../stats/Top_10_common_RNF_NC-17_R_words.png>] [24 <../stats/Top_10_common_RNF_R_NC-17_words.png> <../stats/Top_10_common_RNF_PG_PG-13_words.png>] [25 <../stats/Top_10_common_RNF_PG-13_PG_words.png> <../stats/Top_10_common_RNF_PG_R_words.png>] [26 <../stats/Top_10_common_RNF_R_PG_words.png> <../stats/Top_10_common_RNF_PG-13_R_words.png>] [27 <../stats/Top_10_common_RNF_R_PG-13_words.png>]
+<../stats/Top_10_TF_IDF_G_words.png, id=273, 578.16pt x 578.16pt>
 File: ../stats/Top_10_TF_IDF_G_words.png Graphic file (type png)
 <use ../stats/Top_10_TF_IDF_G_words.png>
-Package pdftex.def Info: ../stats/Top_10_TF_IDF_G_words.png  used on input line 392.
+Package pdftex.def Info: ../stats/Top_10_TF_IDF_G_words.png  used on input line 426.
 (pdftex.def)             Requested size: 345.0pt x 344.99312pt.
-<../stats/Top_10_TF_IDF_PG_words.png, id=237, 578.16pt x 578.16pt>
+<../stats/Top_10_TF_IDF_PG_words.png, id=274, 578.16pt x 578.16pt>
 File: ../stats/Top_10_TF_IDF_PG_words.png Graphic file (type png)
 <use ../stats/Top_10_TF_IDF_PG_words.png>
-Package pdftex.def Info: ../stats/Top_10_TF_IDF_PG_words.png  used on input line 398.
+Package pdftex.def Info: ../stats/Top_10_TF_IDF_PG_words.png  used on input line 432.
 (pdftex.def)             Requested size: 345.0pt x 344.99312pt.
-<../stats/Top_10_TF_IDF_PG-13_words.png, id=238, 578.16pt x 578.16pt>
+<../stats/Top_10_TF_IDF_PG-13_words.png, id=275, 578.16pt x 578.16pt>
 File: ../stats/Top_10_TF_IDF_PG-13_words.png Graphic file (type png)
 <use ../stats/Top_10_TF_IDF_PG-13_words.png>
-Package pdftex.def Info: ../stats/Top_10_TF_IDF_PG-13_words.png  used on input line 404.
+Package pdftex.def Info: ../stats/Top_10_TF_IDF_PG-13_words.png  used on input line 438.
 (pdftex.def)             Requested size: 345.0pt x 344.99312pt.
-<../stats/Top_10_TF_IDF_R_words.png, id=239, 578.16pt x 578.16pt>
+<../stats/Top_10_TF_IDF_R_words.png, id=276, 578.16pt x 578.16pt>
 File: ../stats/Top_10_TF_IDF_R_words.png Graphic file (type png)
 <use ../stats/Top_10_TF_IDF_R_words.png>
-Package pdftex.def Info: ../stats/Top_10_TF_IDF_R_words.png  used on input line 410.
+Package pdftex.def Info: ../stats/Top_10_TF_IDF_R_words.png  used on input line 444.
 (pdftex.def)             Requested size: 345.0pt x 344.99312pt.
-<../stats/Top_10_TF_IDF_NC-17_words.png, id=240, 578.16pt x 578.16pt>
+<../stats/Top_10_TF_IDF_NC-17_words.png, id=277, 578.16pt x 578.16pt>
 File: ../stats/Top_10_TF_IDF_NC-17_words.png Graphic file (type png)
 <use ../stats/Top_10_TF_IDF_NC-17_words.png>
-Package pdftex.def Info: ../stats/Top_10_TF_IDF_NC-17_words.png  used on input line 416.
-(pdftex.def)             Requested size: 345.0pt x 344.99312pt.
- [23
-
- <../stats/Top_10_TF_IDF_G_words.png>] [24 <../stats/Top_10_TF_IDF_PG_words.png>] [25 <../stats/Top_10_TF_IDF_PG-13_words.png>] [26 <../stats/Top_10_TF_IDF_R_words.png>] [27 <../stats/Top_10_TF_IDF_NC-17_words.png>]
-<../stats/Top_15_Freq__Histogram_G_Words.png, id=273, 578.16pt x 578.16pt>
-File: ../stats/Top_15_Freq__Histogram_G_Words.png Graphic file (type png)
-<use ../stats/Top_15_Freq__Histogram_G_Words.png>
-Package pdftex.def Info: ../stats/Top_15_Freq__Histogram_G_Words.png  used on input line 426.
-(pdftex.def)             Requested size: 345.0pt x 344.99312pt.
-<../stats/Top_15_Freq__Histogram_PG_Words.png, id=274, 578.16pt x 578.16pt>
-File: ../stats/Top_15_Freq__Histogram_PG_Words.png Graphic file (type png)
-<use ../stats/Top_15_Freq__Histogram_PG_Words.png>
-Package pdftex.def Info: ../stats/Top_15_Freq__Histogram_PG_Words.png  used on input line 432.
-(pdftex.def)             Requested size: 345.0pt x 344.99312pt.
-<../stats/Top_15_Freq__Histogram_PG-13_Words.png, id=275, 578.16pt x 578.16pt>
-File: ../stats/Top_15_Freq__Histogram_PG-13_Words.png Graphic file (type png)
-<use ../stats/Top_15_Freq__Histogram_PG-13_Words.png>
-Package pdftex.def Info: ../stats/Top_15_Freq__Histogram_PG-13_Words.png  used on input line 438.
-(pdftex.def)             Requested size: 345.0pt x 344.99312pt.
-<../stats/Top_15_Freq__Histogram_R_Words.png, id=276, 578.16pt x 578.16pt>
-File: ../stats/Top_15_Freq__Histogram_R_Words.png Graphic file (type png)
-<use ../stats/Top_15_Freq__Histogram_R_Words.png>
-Package pdftex.def Info: ../stats/Top_15_Freq__Histogram_R_Words.png  used on input line 444.
-(pdftex.def)             Requested size: 345.0pt x 344.99312pt.
-<../stats/Top_15_Freq__Histogram_NC-17_Words.png, id=277, 578.16pt x 578.16pt>
-File: ../stats/Top_15_Freq__Histogram_NC-17_Words.png Graphic file (type png)
-<use ../stats/Top_15_Freq__Histogram_NC-17_Words.png>
-Package pdftex.def Info: ../stats/Top_15_Freq__Histogram_NC-17_Words.png  used on input line 450.
+Package pdftex.def Info: ../stats/Top_10_TF_IDF_NC-17_words.png  used on input line 450.
 (pdftex.def)             Requested size: 345.0pt x 344.99312pt.
  [28
 
- <../stats/Top_15_Freq__Histogram_G_Words.png>] [29 <../stats/Top_15_Freq__Histogram_PG_Words.png>] [30 <../stats/Top_15_Freq__Histogram_PG-13_Words.png>] [31 <../stats/Top_15_Freq__Histogram_R_Words.png>] [32 <../stats/Top_15_Freq__Histogram_NC-17_Words.png>] (./Phase1-Report.aux)
+ <../stats/Top_10_TF_IDF_G_words.png>] [29 <../stats/Top_10_TF_IDF_PG_words.png>] [30 <../stats/Top_10_TF_IDF_PG-13_words.png>] [31 <../stats/Top_10_TF_IDF_R_words.png>] [32 <../stats/Top_10_TF_IDF_NC-17_words.png>]
+<../stats/Top_15_Freq__Histogram_G_Words.png, id=310, 578.16pt x 578.16pt>
+File: ../stats/Top_15_Freq__Histogram_G_Words.png Graphic file (type png)
+<use ../stats/Top_15_Freq__Histogram_G_Words.png>
+Package pdftex.def Info: ../stats/Top_15_Freq__Histogram_G_Words.png  used on input line 460.
+(pdftex.def)             Requested size: 345.0pt x 344.99312pt.
+<../stats/Top_15_Freq__Histogram_PG_Words.png, id=311, 578.16pt x 578.16pt>
+File: ../stats/Top_15_Freq__Histogram_PG_Words.png Graphic file (type png)
+<use ../stats/Top_15_Freq__Histogram_PG_Words.png>
+Package pdftex.def Info: ../stats/Top_15_Freq__Histogram_PG_Words.png  used on input line 466.
+(pdftex.def)             Requested size: 345.0pt x 344.99312pt.
+<../stats/Top_15_Freq__Histogram_PG-13_Words.png, id=312, 578.16pt x 578.16pt>
+File: ../stats/Top_15_Freq__Histogram_PG-13_Words.png Graphic file (type png)
+<use ../stats/Top_15_Freq__Histogram_PG-13_Words.png>
+Package pdftex.def Info: ../stats/Top_15_Freq__Histogram_PG-13_Words.png  used on input line 472.
+(pdftex.def)             Requested size: 345.0pt x 344.99312pt.
+<../stats/Top_15_Freq__Histogram_R_Words.png, id=313, 578.16pt x 578.16pt>
+File: ../stats/Top_15_Freq__Histogram_R_Words.png Graphic file (type png)
+<use ../stats/Top_15_Freq__Histogram_R_Words.png>
+Package pdftex.def Info: ../stats/Top_15_Freq__Histogram_R_Words.png  used on input line 478.
+(pdftex.def)             Requested size: 345.0pt x 344.99312pt.
+<../stats/Top_15_Freq__Histogram_NC-17_Words.png, id=314, 578.16pt x 578.16pt>
+File: ../stats/Top_15_Freq__Histogram_NC-17_Words.png Graphic file (type png)
+<use ../stats/Top_15_Freq__Histogram_NC-17_Words.png>
+Package pdftex.def Info: ../stats/Top_15_Freq__Histogram_NC-17_Words.png  used on input line 484.
+(pdftex.def)             Requested size: 345.0pt x 344.99312pt.
+ [33
+
+ <../stats/Top_15_Freq__Histogram_G_Words.png>] [34 <../stats/Top_15_Freq__Histogram_PG_Words.png>] [35 <../stats/Top_15_Freq__Histogram_PG-13_Words.png>] [36 <../stats/Top_15_Freq__Histogram_R_Words.png>] [37 <../stats/Top_15_Freq__Histogram_NC-17_Words.png>] (./Phase1-Report.aux)
 Package rerunfilecheck Info: File `Phase1-Report.out' has not changed.
 (rerunfilecheck)             Checksum: B8239FADDDD7FB1B5320E20D39AB38A8;1085.
  ) 
 Here is how much of TeX's memory you used:
- 10502 strings out of 480247
- 186464 string characters out of 5896151
+ 10548 strings out of 480247
+ 187708 string characters out of 5896151
  460376 words of memory out of 5000000
- 28168 multiletter control sequences out of 15000+600000
+ 28198 multiletter control sequences out of 15000+600000
  474017 words of font info for 44 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  68i,8n,77p,757b,339s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/baktash/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Phase1-Report.pdf (32 pages, 894041 bytes).
+Output written on Phase1-Report.pdf (37 pages, 1233465 bytes).
 PDF statistics:
- 364 PDF objects out of 1000 (max. 8388607)
- 236 compressed objects within 3 object streams
- 93 named destinations out of 1000 (max. 500000)
- 260 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 405 PDF objects out of 1000 (max. 8388607)
+ 262 compressed objects within 3 object streams
+ 104 named destinations out of 1000 (max. 500000)
+ 285 words of extra memory for PDF output out of 10000 (max. 10000000)
 
