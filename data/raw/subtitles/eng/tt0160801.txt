@@ -1,0 +1,2347 @@
+1
+00:00:00,499 --> 00:00:03,252
+Gorky Film Studio
+
+2
+00:00:03,499 --> 00:00:06,093
+Studio ''Za lgralni Filmi'',
+Sofia
+
+3
+00:00:06,899 --> 00:00:12,257
+ln memory of
+Hans Christian Andersen
+
+4
+00:00:13,499 --> 00:00:18,448
+THE LlTTLE MERMAlD
+
+5
+00:00:50,499 --> 00:00:54,458
+Screenplay by
+Victor VlTKOVlCH, Grigory YAGDFELD
+
+6
+00:00:54,659 --> 00:00:57,617
+Directed by Vladimir BYCHKOV
+
+7
+00:00:57,819 --> 00:01:00,856
+Director of Photography
+Emil VAGENSHCHAlN
+
+8
+00:01:01,059 --> 00:01:05,098
+Production Designers
+K. ZAGORSKY, B. SAPUNDJlEV
+
+9
+00:01:09,579 --> 00:01:12,696
+Music by Yevgheny KRYLATOV
+
+10
+00:01:12,899 --> 00:01:15,857
+English subtitles by
+Tatiana KAMENEVA
+
+11
+00:02:00,859 --> 00:02:03,009
+Stop staring! Sit up! What's
+the matter with you?
+
+12
+00:02:05,499 --> 00:02:08,696
+Starring
+
+13
+00:02:08,899 --> 00:02:13,848
+Vika NOVlKOVA as Little Mermaid
+Valentin NlKULlN as Sulpitius
+
+14
+00:02:14,059 --> 00:02:19,258
+Galina ARTYOMOVA as Princess
+Yuri SENKEVlCH as Prince
+
+15
+00:02:19,499 --> 00:02:22,252
+Galina VOLCHEK as lnn Hostess
+
+16
+00:02:22,499 --> 00:02:25,616
+Stefan lVLlEV as Knight
+Mikhail Pugovkin as Thicklipped
+
+17
+00:02:25,819 --> 00:02:29,858
+S. MOlSEYENKO as Jacqueline
+M. CHUDlNOVA as Leonela
+
+18
+00:02:30,059 --> 00:02:32,015
+S. PElCHEV as Fisherman
+
+19
+00:02:55,059 --> 00:02:57,254
+How far are you going, Frecken?
+
+20
+00:02:58,219 --> 00:03:00,449
+As far as Cioninborg, sir.
+
+21
+00:03:02,899 --> 00:03:07,256
+Do you know what was happening
+to you, to me,
+
+22
+00:03:07,499 --> 00:03:09,455
+to all of them?
+
+23
+00:03:09,899 --> 00:03:11,855
+Very, very long ago?
+
+24
+00:03:12,299 --> 00:03:15,609
+When no one existed: neither you,
+nor me, nor any of them?
+
+25
+00:03:15,819 --> 00:03:17,775
+What do you mean?
+
+26
+00:03:18,299 --> 00:03:24,454
+This happened in time immemorial,
+when there'd been no stage-coaches
+
+27
+00:03:24,659 --> 00:03:27,617
+and only caravels
+furrowed the seas.
+
+28
+00:03:27,899 --> 00:03:31,016
+Have you ever heard of
+the sea mermaids?
+
+29
+00:03:31,219 --> 00:03:35,258
+- The ones that sink the ships?
+- How do you know it?
+
+30
+00:03:38,299 --> 00:03:42,929
+Ah, l know.
+l know everything about you.
+
+31
+00:03:44,139 --> 00:03:46,095
+You don't believe me, do you?
+
+32
+00:03:47,499 --> 00:03:49,251
+Now listen...
+
+33
+00:03:50,299 --> 00:03:51,573
+Far away from here,
+
+34
+00:03:53,899 --> 00:03:57,175
+there's an old, old sea.
+
+35
+00:03:59,499 --> 00:04:01,854
+ln that sea live the fishes and...
+
+36
+00:04:04,059 --> 00:04:10,089
+Try to remember,
+maybe you lived there too?
+
+37
+00:05:52,059 --> 00:05:54,857
+Many a day is gone,
+We're sailing on.
+
+38
+00:05:55,059 --> 00:05:58,176
+The blue sea taught us so
+That we should share all,
+
+39
+00:05:58,379 --> 00:06:01,451
+A moment gay and droll,
+And one common big woe.
+
+40
+00:06:01,659 --> 00:06:03,172
+The storm we'll overcome,
+
+41
+00:06:03,379 --> 00:06:06,257
+Come on, bring'ere the rum.
+There's a cause for cheer and glow.
+
+42
+00:06:06,499 --> 00:06:08,854
+To make us more amused,
+Tempestuous, rain-infused,
+
+43
+00:06:09,059 --> 00:06:11,015
+Sea abyss is lying low.
+
+44
+00:06:11,219 --> 00:06:15,451
+Drink, make merry,
+Fill up your glass!
+
+45
+00:06:15,659 --> 00:06:20,096
+Raise a toast to your dear lass!
+
+46
+00:06:31,979 --> 00:06:33,458
+Upon us Heaven's wrath,
+
+47
+00:06:33,659 --> 00:06:36,253
+The eyes of our betrothed
+Won't see us in the harbor.
+
+48
+00:06:36,499 --> 00:06:38,694
+The wind got wild and strong,
+lt swept our ship along,
+
+49
+00:06:38,899 --> 00:06:40,935
+But sickness did not us trouble.
+
+50
+00:06:41,139 --> 00:06:43,255
+When God didn't hark,
+And the beacon went dark,
+
+51
+00:06:43,499 --> 00:06:45,535
+Then good fortune came to our side.
+
+52
+00:06:45,739 --> 00:06:47,855
+Bottoms up we'll drink,
+To the sea bottom we'll sink,
+
+53
+00:06:48,059 --> 00:06:50,095
+But we'll have our dance alright.
+
+54
+00:07:10,419 --> 00:07:12,250
+Mothers dear, your boys here
+
+55
+00:07:12,499 --> 00:07:14,854
+Have come amiss the right mooring.
+
+56
+00:07:15,059 --> 00:07:16,253
+Dear lasses, your dresses
+
+57
+00:07:16,499 --> 00:07:19,457
+Not wedding will be, but mourning.
+
+58
+00:07:19,659 --> 00:07:21,615
+All is folly. Only ourjourney
+
+59
+00:07:21,819 --> 00:07:23,775
+Will be very, very long.
+
+60
+00:07:23,979 --> 00:07:26,254
+Let the water swirl and the trouble
+crawl,
+
+61
+00:07:26,499 --> 00:07:28,615
+Our merriment will go strong.
+
+62
+00:08:05,139 --> 00:08:06,857
+Oh God Almighty!
+
+63
+00:08:07,059 --> 00:08:08,617
+Mermaids!
+
+64
+00:08:10,059 --> 00:08:15,850
+Man your posts!
+No one is to look at the mermaids!
+
+65
+00:08:16,299 --> 00:08:20,850
+May they go to the sea devil!
+
+66
+00:08:21,059 --> 00:08:24,017
+Jesus Christ, save our souls...
+
+67
+00:10:14,299 --> 00:10:16,255
+Wake up!
+
+68
+00:10:21,379 --> 00:10:23,335
+Come on, wake up!
+
+69
+00:10:50,739 --> 00:10:54,937
+Oh, God! This is Prince Antoine
+de Saint-Gotharde!
+
+70
+00:10:56,259 --> 00:10:59,217
+Can it be that the most eligible
+bachelor of Normandy is dead?
+
+71
+00:10:59,819 --> 00:11:02,253
+He seems to be alive!
+
+72
+00:11:04,499 --> 00:11:05,932
+Grooms!
+
+73
+00:11:06,739 --> 00:11:09,936
+He has already refused three
+prospective brides.
+
+74
+00:11:10,139 --> 00:11:14,849
+Taken together, they weren't
+worth even his little finger.
+
+75
+00:11:15,219 --> 00:11:19,849
+He's expecting an inheritance
+from his aunt, Marianne the Savage.
+
+76
+00:11:21,459 --> 00:11:24,417
+l'm afraid, the inheritance is
+no longer expecting him.
+
+77
+00:11:36,219 --> 00:11:39,768
+You've saved my life.
+
+78
+00:12:16,299 --> 00:12:18,255
+Holy Mother!
+
+79
+00:12:20,899 --> 00:12:23,094
+- What's up?
+- A mermaid!
+
+80
+00:12:23,299 --> 00:12:25,608
+- Go to hell!
+- There's a mermaid there!
+
+81
+00:13:07,979 --> 00:13:11,528
+No mermaid can sing like that.
+
+82
+00:13:11,739 --> 00:13:14,936
+Could it be the Prince's voice?
+
+83
+00:13:18,739 --> 00:13:22,448
+My darling stars, please help me.
+
+84
+00:13:22,659 --> 00:13:26,015
+Let him know l'm waiting for him.
+
+85
+00:13:29,499 --> 00:13:31,012
+My darling Prince.
+
+86
+00:13:31,219 --> 00:13:33,449
+l won't move from here!
+
+87
+00:13:35,059 --> 00:13:37,175
+Oh, that's the Prince!
+
+88
+00:13:43,499 --> 00:13:48,095
+Make way for the Knight Adalbert
+Greenleaf Reynold of Marndell.
+
+89
+00:14:15,899 --> 00:14:19,448
+Hey, little one, come here!
+
+90
+00:14:37,819 --> 00:14:41,016
+Dear wind, help me.
+
+91
+00:14:41,899 --> 00:14:44,857
+Go to the Prince
+and tell him l'm waiting.
+
+92
+00:14:54,219 --> 00:14:58,098
+And whoever said that life is
+beautiful
+
+93
+00:14:58,299 --> 00:15:03,771
+was in some sense,
+and certainly mostly right.
+
+94
+00:15:41,979 --> 00:15:43,935
+Where did you come from?
+
+95
+00:15:45,659 --> 00:15:47,854
+Come on, say something.
+
+96
+00:15:50,739 --> 00:15:53,253
+Of course, you can't talk.
+
+97
+00:15:55,139 --> 00:15:58,097
+lf l don't see the Prince,
+l'm going to die.
+
+98
+00:16:05,299 --> 00:16:06,618
+Swim home.
+
+99
+00:16:06,819 --> 00:16:10,334
+Your daddy down at the sea bottom
+must be worried,
+
+100
+00:16:10,579 --> 00:16:13,013
+your sisters weeping.
+
+101
+00:16:13,219 --> 00:16:15,449
+Do you have nannies?
+
+102
+00:16:15,659 --> 00:16:20,096
+Can you afford nannies at your
+place? No?
+
+103
+00:16:24,059 --> 00:16:27,449
+And you probably have a tail...
+
+104
+00:16:31,659 --> 00:16:34,617
+You see? And you want your prince.
+
+105
+00:16:34,819 --> 00:16:36,013
+lf l don't see the Prince,
+l'm going to die.
+
+106
+00:16:38,219 --> 00:16:43,247
+Make way for the doctor for a prince
+that was salvaged from the water.
+
+107
+00:16:48,499 --> 00:16:53,448
+Your prince must be having
+a bad time.
+
+108
+00:16:53,659 --> 00:16:55,854
+You two need some help.
+
+109
+00:16:56,299 --> 00:16:58,096
+Stay here.
+
+110
+00:16:58,299 --> 00:17:00,859
+You heard me? Don't leave!
+
+111
+00:17:41,219 --> 00:17:42,857
+One beer.
+
+112
+00:17:51,659 --> 00:17:57,450
+We put in a net at the Bald Boulder
+and came up with a barrel of beer.
+
+113
+00:17:57,659 --> 00:17:59,172
+Give it back!
+
+114
+00:18:01,299 --> 00:18:03,255
+Where can l find a witch?
+
+115
+00:18:04,499 --> 00:18:06,455
+Come on, l'm nobody's fool!
+
+116
+00:18:07,219 --> 00:18:11,690
+Do l look like a servant of
+lnquisition?
+
+117
+00:18:11,899 --> 00:18:13,617
+Calm down!
+
+118
+00:18:27,059 --> 00:18:29,175
+What's the matter with them?
+
+119
+00:18:29,379 --> 00:18:33,088
+They all scattered
+the moment the King died.
+
+120
+00:18:33,299 --> 00:18:36,257
+Only scatterbrains are left.
+
+121
+00:18:36,499 --> 00:18:40,094
+- Pretty weird place.
+- There's much more to come...
+
+122
+00:18:40,299 --> 00:18:41,618
+You'd be surprised. .
+
+123
+00:18:41,819 --> 00:18:44,458
+What do you need a witch for?
+
+124
+00:18:46,659 --> 00:18:52,450
+A mermaid ran away
+from her parents' home.
+
+125
+00:18:52,659 --> 00:18:56,618
+- You don't say!
+- l swear by my place in Heaven.
+
+126
+00:18:57,899 --> 00:18:59,935
+And you fell madly in love with her,
+didn't you?
+
+127
+00:19:00,139 --> 00:19:02,448
+Are you crazy or what?
+
+128
+00:19:02,659 --> 00:19:05,696
+You don't know it yet,
+but soon you will know.
+
+129
+00:19:06,219 --> 00:19:09,336
+Your name is Sulpitius, isn't it?
+
+130
+00:19:10,739 --> 00:19:12,855
+No one knows me here.
+
+131
+00:19:14,739 --> 00:19:17,856
+That's what you think,
+that nobody knows you.
+
+132
+00:19:18,059 --> 00:19:22,018
+You just loafing about,
+you good-for nothing.
+
+133
+00:19:22,219 --> 00:19:25,177
+To make it short, what about a witch?
+
+134
+00:19:33,499 --> 00:19:38,095
+Boy, you're lucky.
+
+135
+00:19:39,499 --> 00:19:41,455
+You're seeing one in front of you.
+
+136
+00:19:45,499 --> 00:19:47,933
+Wait till it grows dark.
+
+137
+00:19:59,219 --> 00:20:03,531
+So she wants two legs and a heart
+in exchange for her tail?
+
+138
+00:20:03,899 --> 00:20:09,019
+- What does she need a heart for?
+- To be happy.
+
+139
+00:20:09,219 --> 00:20:13,849
+- Did yours bring you happiness?
+- l ain't complaining.
+
+140
+00:20:14,899 --> 00:20:16,855
+l warn you, you'll be sorry.
+
+141
+00:20:18,299 --> 00:20:21,928
+She'd better stick to her sea bottom.
+No, she wants a prince...
+
+142
+00:20:22,139 --> 00:20:25,848
+- lt will cost a lot!
+- She's no pauper.
+
+143
+00:20:28,139 --> 00:20:30,095
+You may keep your shells.
+
+144
+00:20:30,499 --> 00:20:34,856
+What pretty green hair you've got.
+
+145
+00:20:35,059 --> 00:20:37,937
+l wish l had such hair.
+
+146
+00:20:38,139 --> 00:20:40,528
+Everyone would go green
+with envy. Will you give it to me?
+
+147
+00:20:42,659 --> 00:20:43,694
+You are welcome.
+
+148
+00:20:45,739 --> 00:20:48,014
+Say it again.
+
+149
+00:20:48,499 --> 00:20:49,852
+You are welcome.
+
+150
+00:20:50,899 --> 00:20:55,848
+And the voice!
+l wish l had such a voice!
+
+151
+00:20:56,059 --> 00:20:59,449
+- Forget it!
+- Nobody asked you!
+
+152
+00:20:59,659 --> 00:21:01,854
+How will she be able to talk
+with the prince?
+
+153
+00:21:02,059 --> 00:21:04,527
+That's none of my concern.
+
+154
+00:21:04,739 --> 00:21:06,855
+You'll have to make do with
+the hair.
+
+155
+00:21:09,659 --> 00:21:11,411
+All right, l'll make do.
+
+156
+00:21:13,659 --> 00:21:21,009
+However, when your tail turns
+into two little legs,
+
+157
+00:21:21,219 --> 00:21:24,768
+it will hurt as if you were walking
+on the sharp edges of swords.
+
+158
+00:21:24,979 --> 00:21:28,608
+- What are you talking about?
+- There's no other way to do it.
+
+159
+00:21:29,899 --> 00:21:31,855
+And that is not all.
+
+160
+00:21:32,059 --> 00:21:36,052
+Should your prince marries
+another girl,
+
+161
+00:21:36,259 --> 00:21:39,331
+your heart is going to break
+with sorrow, and you will die!
+
+162
+00:21:47,499 --> 00:21:50,252
+- Well, it's your choice.
+- Wait!
+
+163
+00:21:50,899 --> 00:21:52,855
+l agree!
+
+164
+00:21:53,059 --> 00:21:56,096
+Hold it!
+That's not the rule.
+
+165
+00:21:56,299 --> 00:21:59,257
+lf someone gives his life for her...
+
+166
+00:22:02,899 --> 00:22:09,452
+lf someone gives his life for you,
+you will never die.
+
+167
+00:22:09,699 --> 00:22:13,658
+You will be eternal like a dream!
+
+168
+00:22:16,739 --> 00:22:20,015
+But there're no such fools
+who would give their life.
+
+169
+00:22:20,219 --> 00:22:23,017
+Go and wait for us in the inn.
+
+170
+00:23:41,499 --> 00:23:43,455
+What is it? Get away!
+
+171
+00:24:00,899 --> 00:24:03,857
+There's a mermaid there!
+
+172
+00:24:07,139 --> 00:24:12,452
+- Stop lying, Thicklipped!
+- l saw her with my own eyes!
+
+173
+00:24:34,059 --> 00:24:36,448
+The legs came out beautiful.
+
+174
+00:24:44,299 --> 00:24:45,527
+What is it?
+
+175
+00:24:45,819 --> 00:24:47,775
+What is it beating?
+
+176
+00:24:48,379 --> 00:24:50,939
+That's your heart.
+
+177
+00:24:54,979 --> 00:24:56,458
+Just like the Prince's.
+
+178
+00:25:10,139 --> 00:25:13,449
+Go on, walk! On your toes!
+
+179
+00:25:16,499 --> 00:25:17,614
+Suffer it!
+
+180
+00:25:17,819 --> 00:25:24,167
+That's nothing compared to the pain
+your heart is going to endure.
+
+181
+00:25:26,739 --> 00:25:30,015
+All the troubles come from them,
+mermaids -
+
+182
+00:25:30,219 --> 00:25:33,177
+hail, hunger, pestilence, Saracens!
+
+183
+00:25:33,499 --> 00:25:38,015
+Yesterday, they fished out
+some prince from the water.
+
+184
+00:25:39,219 --> 00:25:42,097
+And who has sunk the ship?
+Them! The mermaids!
+
+185
+00:25:42,299 --> 00:25:44,255
+- How do you know?
+- l know everything.
+
+186
+00:25:44,499 --> 00:25:47,457
+My mother takes milk to the castle.
+
+187
+00:25:49,299 --> 00:25:52,257
+- Don't open!
+- Keep your hands off!
+
+188
+00:26:01,659 --> 00:26:02,853
+Mermaid!
+
+189
+00:26:06,299 --> 00:26:08,255
+Go and sleep it out!
+
+190
+00:26:08,499 --> 00:26:11,457
+Here's your beauty.
+
+191
+00:26:18,219 --> 00:26:20,449
+Let's go, my child.
+
+192
+00:26:33,499 --> 00:26:37,174
+- Does it hurt?
+- No, not too much.
+
+193
+00:26:56,819 --> 00:27:02,451
+At early dawn it's such a fun
+To go dating with the sun,
+
+194
+00:27:02,659 --> 00:27:07,687
+To sing Earth praises so wonderful
+And breathe in odors of the night.
+
+195
+00:27:08,739 --> 00:27:12,448
+Whoever said that life is beautiful
+
+196
+00:27:13,219 --> 00:27:17,258
+Was, in a sense, mostly right.
+
+197
+00:27:45,379 --> 00:27:50,328
+Take just one look at human hands.
+What they create, eternally stands.
+
+198
+00:27:51,139 --> 00:27:56,167
+No work for them is low or futile.
+God made them not for pastime trite.
+
+199
+00:27:57,339 --> 00:28:01,014
+Whoever said that life is beautiful
+
+200
+00:28:01,219 --> 00:28:04,848
+Was, in a sense, mostly right.
+
+201
+00:28:33,499 --> 00:28:39,176
+Much better than the guns to hear,
+To drain a glassful of good beer,
+
+202
+00:28:39,379 --> 00:28:43,850
+To Bacchus all remaining dutiful,
+Be it a cobbler or a night.
+
+203
+00:28:44,739 --> 00:28:48,698
+Whoever said that life is beautiful
+
+204
+00:28:49,499 --> 00:28:53,458
+Was, in a sense, mostly right.
+
+205
+00:29:21,219 --> 00:29:26,851
+What will it be? A drama or a farce
+That Thespians are offering to us?
+
+206
+00:29:27,059 --> 00:29:32,258
+But when your face unmasked and full,
+Will you reveal your real sight?
+
+207
+00:29:32,739 --> 00:29:36,698
+Whoever said that life is beautiful
+
+208
+00:29:37,499 --> 00:29:41,697
+Was, in a sense, mostly right.
+
+209
+00:29:49,899 --> 00:29:51,855
+Are we going to the Prince?
+
+210
+00:29:56,659 --> 00:29:58,172
+To the Prince, right?
+
+211
+00:30:03,499 --> 00:30:06,696
+Ah, Prince! This is fate!
+
+212
+00:30:08,299 --> 00:30:11,450
+We were on our way from
+St. Magdalene after the confession.
+
+213
+00:30:11,659 --> 00:30:16,608
+Suddenly l said:
+''Let's go to the sea!
+
+214
+00:30:16,819 --> 00:30:20,528
+''l feel that someone's soul
+is parting with life there!''
+
+215
+00:30:21,739 --> 00:30:25,618
+We rode up to the sea and saw
+something white in the distance.
+
+216
+00:30:25,819 --> 00:30:28,936
+Jacqueline said: ''lt's a seagull''.
+
+217
+00:30:29,139 --> 00:30:33,929
+''Oh, no,'' l replied,
+''it's a poor knight!''
+
+218
+00:30:34,139 --> 00:30:38,098
+- And we plunged into the sea.
+- You might have been drowned.
+
+219
+00:30:40,219 --> 00:30:43,450
+My horse was drowned.
+lt was snatched by a shark.
+
+220
+00:30:48,299 --> 00:30:53,089
+lt's so strange. l thought...
+
+221
+00:30:53,299 --> 00:30:55,255
+What, Prince?
+
+222
+00:30:55,499 --> 00:31:01,449
+No, it was just a beautiful dream.
+
+223
+00:31:01,899 --> 00:31:07,019
+- Tell us, Prince.
+- Tell us about your dream.
+
+224
+00:31:10,059 --> 00:31:13,449
+l hope you were dreaming of me.
+
+225
+00:31:17,899 --> 00:31:19,014
+No.
+
+226
+00:31:25,379 --> 00:31:27,335
+Wait for me here.
+
+227
+00:31:31,059 --> 00:31:34,608
+Do not speak to anyone
+and answer no questions.
+
+228
+00:31:56,499 --> 00:31:58,455
+Have you been to church?
+
+229
+00:31:58,659 --> 00:32:02,447
+- What is church?
+- l see.
+
+230
+00:32:04,219 --> 00:32:06,175
+Where did you come from?
+
+231
+00:32:06,379 --> 00:32:08,335
+l promised not to tell anyone.
+
+232
+00:32:09,499 --> 00:32:12,457
+- Are you a mermaid?
+- Yes, l am.
+
+233
+00:32:12,659 --> 00:32:14,456
+You're lying!
+
+234
+00:32:18,139 --> 00:32:21,768
+Hey, folks! A mermaid is here!
+
+235
+00:32:27,979 --> 00:32:33,099
+A tramp who claims he's
+King Arthur's herald!
+
+236
+00:32:33,899 --> 00:32:35,776
+Speak up!
+
+237
+00:32:36,899 --> 00:32:39,618
+Are you the prince that has been
+salvaged from the water?
+
+238
+00:32:40,299 --> 00:32:44,258
+l'm Prince Antoine de Lalan Poitou
+Lefevre Saint-Gotharde
+
+239
+00:32:44,499 --> 00:32:47,457
+who has been saved
+by this noble princess!
+
+240
+00:32:51,499 --> 00:32:54,457
+l need to talk to you in private.
+
+241
+00:32:54,659 --> 00:32:57,617
+l have no secrets from the Princess.
+
+242
+00:33:02,499 --> 00:33:05,093
+l swear by St. Benedict's sandal
+
+243
+00:33:05,299 --> 00:33:07,255
+that l've never met such a beauty
+as you
+
+244
+00:33:07,499 --> 00:33:10,252
+not on the earth, nor in the inferno!
+
+245
+00:33:10,899 --> 00:33:12,855
+But what King Arthur has to do
+with it?
+
+246
+00:33:14,299 --> 00:33:18,258
+lf l came on my own,
+would they have ever let me in?
+
+247
+00:33:19,299 --> 00:33:21,255
+l don't feel in the least offended.
+
+248
+00:33:21,499 --> 00:33:22,773
+Go away while you're in one piece.
+
+249
+00:33:25,899 --> 00:33:30,450
+l came to show you something
+that will shock you.
+
+250
+00:33:31,819 --> 00:33:35,255
+Come on, let's go and see!
+
+251
+00:33:36,899 --> 00:33:38,093
+Burn her up!
+
+252
+00:33:38,659 --> 00:33:41,856
+Burn her! Put her on fire!
+
+253
+00:33:47,899 --> 00:33:49,855
+They sink ships!
+
+254
+00:33:55,139 --> 00:33:58,609
+Good people! We've caught
+a mermaid!
+
+255
+00:33:59,899 --> 00:34:03,858
+- You sank the Prince's ship?
+- Together with my sisters.
+
+256
+00:34:04,899 --> 00:34:06,935
+Mermaid! Put her to fire!
+
+257
+00:34:16,219 --> 00:34:18,858
+Keep your hands off!
+Don't dare touch her!
+
+258
+00:34:19,059 --> 00:34:21,095
+She is a mermaid.
+She said so herself.
+
+259
+00:34:21,379 --> 00:34:22,778
+Stop it!
+
+260
+00:34:27,219 --> 00:34:32,851
+The King of the Sea is ordering you!
+
+261
+00:34:35,059 --> 00:34:38,256
+Harken and tremble!
+
+262
+00:34:39,979 --> 00:34:43,176
+Didn't you recognize the king?
+
+263
+00:34:49,059 --> 00:34:50,617
+Didn't you?
+
+264
+00:34:53,899 --> 00:34:56,254
+We're traveling actors!
+
+265
+00:34:59,899 --> 00:35:02,538
+And she's my daughter.
+
+266
+00:35:03,819 --> 00:35:06,856
+How many ships have we sunk?
+
+267
+00:35:07,059 --> 00:35:08,174
+Want me to count?
+
+268
+00:35:24,499 --> 00:35:26,251
+Let's go, daughter.
+
+269
+00:35:27,899 --> 00:35:29,014
+Dunderheads!
+
+270
+00:35:29,659 --> 00:35:35,848
+He's been fooling you!
+l saw her in the water!
+
+271
+00:35:36,499 --> 00:35:37,693
+Burn her!
+
+272
+00:35:38,139 --> 00:35:40,448
+They bring pestilence!
+
+273
+00:35:41,299 --> 00:35:43,255
+Keep away!
+
+274
+00:35:46,499 --> 00:35:49,457
+- They sink ships!
+- Bring on pestilence!
+
+275
+00:36:08,979 --> 00:36:13,336
+Prince, you can't allow
+that heavenly creature
+
+276
+00:36:13,579 --> 00:36:15,854
+to be killed in your presence!
+
+277
+00:36:27,499 --> 00:36:31,458
+What creature? This one?
+
+278
+00:36:40,299 --> 00:36:42,255
+Ladies and gentlemen!
+
+279
+00:36:43,499 --> 00:36:47,617
+You see before you the noble prince
+that was fished out of the water.
+
+280
+00:36:49,219 --> 00:36:53,690
+He is going to tell you
+if she's a mermaid or...
+
+281
+00:36:55,739 --> 00:36:57,695
+Tell them, Prince.
+
+282
+00:37:03,299 --> 00:37:06,018
+Sweet child,
+l won't let anyone hurt you.
+
+283
+00:37:16,139 --> 00:37:18,095
+Ladies and gentlemen!
+
+284
+00:37:18,499 --> 00:37:20,455
+She's not a mermaid.
+
+285
+00:37:23,059 --> 00:37:25,778
+Didn't l say so?
+That's right, she's not a mermaid!
+
+286
+00:37:25,979 --> 00:37:28,539
+We just hurt the poor girl.
+
+287
+00:37:30,899 --> 00:37:34,858
+You're ready to believe
+any nonsense!
+
+288
+00:37:35,219 --> 00:37:37,175
+Let's put her to test by fire!
+
+289
+00:37:38,299 --> 00:37:41,257
+First you'll have to test
+my sword!
+
+290
+00:37:45,059 --> 00:37:48,176
+- They'll tear her to pieces!
+- Oh no, come on.
+
+291
+00:37:48,899 --> 00:37:52,687
+Noble knights!
+Why did you draw your swords?
+
+292
+00:37:54,899 --> 00:37:56,252
+Because of me!
+
+293
+00:37:57,659 --> 00:37:59,854
+- Who are you?
+- A mermaid.
+
+294
+00:38:00,059 --> 00:38:04,450
+That's not true. She doesn't
+understand what she's saying.
+
+295
+00:38:05,059 --> 00:38:09,018
+Mermaids have fish tails, don't they?
+
+296
+00:38:10,059 --> 00:38:12,448
+Throw her in the dungeon!
+
+297
+00:38:12,659 --> 00:38:14,615
+Take heed, Princess!
+
+298
+00:38:15,299 --> 00:38:20,453
+And who are you? Are you with her?
+Throw him in the dungeon too!
+
+299
+00:38:25,259 --> 00:38:28,092
+l'm the sword-bearer of the noble
+prince
+
+300
+00:38:28,299 --> 00:38:30,938
+that has been fished out
+of the water.
+
+301
+00:38:33,899 --> 00:38:38,450
+- l like his nerve!
+- l like it too.
+
+302
+00:38:46,899 --> 00:38:52,451
+Since l was 15, l've been looking
+for a girl deserving to live for!
+
+303
+00:38:54,499 --> 00:38:59,448
+l beg you, live up
+to my expectations!
+
+304
+00:39:17,219 --> 00:39:22,691
+The gallant knight Adalbert
+Greenleaf Reynold of Marndell!
+
+305
+00:39:29,659 --> 00:39:33,095
+The news of your beauty
+has reached Marndell.
+
+306
+00:39:50,499 --> 00:39:54,174
+l've got seven castles
+and 120 vassals,
+
+307
+00:39:54,379 --> 00:39:58,452
+three thousand barrels of wine
+and 120 thousand sheep.
+
+308
+00:39:58,659 --> 00:40:00,695
+l offer you my hand and heart!
+
+309
+00:40:01,299 --> 00:40:04,257
+Noble knight,
+you're very gracious.
+
+310
+00:40:10,739 --> 00:40:13,094
+Tomorrow we'll hold a tournament!
+
+311
+00:40:15,139 --> 00:40:19,098
+The winner will get my hand.
+
+312
+00:40:32,419 --> 00:40:37,174
+lf someone asks you,
+say you're the Princess of Zaduan.
+
+313
+00:40:38,979 --> 00:40:41,777
+This is not true, l can't say it.
+
+314
+00:40:47,219 --> 00:40:50,529
+- Can you keep a secret?
+- Yes.
+
+315
+00:40:50,739 --> 00:40:52,855
+The Princess is praying for you.
+
+316
+00:40:53,899 --> 00:40:58,450
+She is sure you will win and God
+will unite you two in wedlock.
+
+317
+00:41:23,219 --> 00:41:25,449
+Can you keep a secret?
+
+318
+00:41:26,579 --> 00:41:28,934
+The Princess is sure you will win.
+
+319
+00:41:31,499 --> 00:41:33,774
+The Lord will unite you.
+
+320
+00:41:45,979 --> 00:41:49,016
+Tell the Princess
+that she is a noble lady.
+
+321
+00:41:57,899 --> 00:42:00,857
+She's a very distinguished lady!
+
+322
+00:42:08,739 --> 00:42:12,937
+Really? l could have guessed it!
+
+323
+00:42:13,899 --> 00:42:18,256
+Of course, she's not a mermaid.
+She just has some secret!
+
+324
+00:42:18,979 --> 00:42:21,447
+- And where's she?
+- ln the tower.
+
+325
+00:42:21,659 --> 00:42:24,173
+- Why in the tower?
+- But you yourself...
+
+326
+00:42:25,739 --> 00:42:27,695
+Why is she not here, at the ball?
+
+327
+00:42:45,299 --> 00:42:49,008
+lt's so romantic
+to keep one's name secret!
+
+328
+00:42:49,219 --> 00:42:51,938
+She's a victim of the cruel fate!
+
+329
+00:42:52,139 --> 00:42:56,098
+She's the daughter of Duke of
+Norfolk,
+
+330
+00:42:56,299 --> 00:42:58,859
+who had to elope with her knight.
+
+331
+00:42:59,059 --> 00:43:01,857
+- And where's the knight?
+- He must have been killed.
+
+332
+00:43:09,219 --> 00:43:11,858
+But pray,
+don't ask her any questions.
+
+333
+00:43:12,059 --> 00:43:15,847
+Yes, she swore on the cross
+to keep her secret!
+
+334
+00:43:16,059 --> 00:43:18,015
+Oh, we'll never do that!
+
+335
+00:43:20,299 --> 00:43:26,852
+A noble lady...
+shrouded in mystery.
+
+336
+00:43:29,899 --> 00:43:32,174
+Come here, my dear.
+
+337
+00:43:58,379 --> 00:44:01,849
+Your secret is sacred for us.
+
+338
+00:44:02,059 --> 00:44:05,017
+We'll never ask you
+a single question.
+
+339
+00:44:42,819 --> 00:44:47,529
+- The Princess is so beautiful!
+- She saved my life.
+
+340
+00:46:23,139 --> 00:46:26,529
+Tell me, my child, where did you
+learn to dance so well?
+
+341
+00:46:27,219 --> 00:46:30,609
+l wish l could dance as well.
+
+342
+00:46:32,139 --> 00:46:34,095
+l'm bored with my ladies-in-waiting.
+
+343
+00:46:35,139 --> 00:46:37,699
+They always lie to me.
+
+344
+00:46:39,739 --> 00:46:44,096
+Tell me, for instance,
+am l very beautiful?
+
+345
+00:46:46,379 --> 00:46:48,097
+Yes, very beautiful!
+
+346
+00:46:48,299 --> 00:46:52,178
+You're such a darling! l'm not
+going to ever part with you!
+
+347
+00:47:04,299 --> 00:47:07,609
+l'm Witch! Com'ere, my toads
+and snakes!
+
+348
+00:47:07,819 --> 00:47:11,016
+All people are stupid to talk of
+just love.
+
+349
+00:47:11,219 --> 00:47:14,529
+To cook evil poison forever it takes.
+
+350
+00:47:14,739 --> 00:47:18,095
+l laughed at the people throughout
+my life.
+
+351
+00:47:18,819 --> 00:47:22,255
+But something went wrong
+with the moon and the sea,
+
+352
+00:47:22,499 --> 00:47:26,014
+With stars in the sky, or maybe
+with me.
+
+353
+00:47:26,219 --> 00:47:29,689
+l'm tired of witchcraft. That's it.
+That's enough!
+
+354
+00:47:29,899 --> 00:47:31,855
+l want to be one who's dying
+of love.
+
+355
+00:47:33,899 --> 00:47:36,857
+l'm Witch! Do you hear, you river
+females?
+
+356
+00:47:37,059 --> 00:47:40,256
+You all are just women, just
+foolish naiads.
+
+357
+00:47:40,499 --> 00:47:44,253
+You can only think of your
+glittering scales,
+
+358
+00:47:44,499 --> 00:47:47,457
+Of falling in love, and your
+sweethearts' tirades.
+
+359
+00:48:05,139 --> 00:48:11,851
+The Duchess Alice-Margaret
+Elizabeth of Cornwall!
+
+360
+00:48:12,059 --> 00:48:14,254
+On her way to Rome!
+
+361
+00:48:37,219 --> 00:48:41,007
+l can imagine, dear Duchess,
+how tired you must be!
+
+362
+00:48:41,219 --> 00:48:42,538
+Not a bit!
+
+363
+00:48:57,819 --> 00:48:59,775
+Shall we dance?
+
+364
+00:49:01,659 --> 00:49:04,253
+With you? l don't feel like it.
+
+365
+00:49:06,059 --> 00:49:08,527
+Your fish tail must be hindering
+you.
+
+366
+00:49:09,739 --> 00:49:12,173
+She's my guest.
+
+367
+00:49:38,299 --> 00:49:40,608
+l'll teach you some manners, knight!
+
+368
+00:50:07,899 --> 00:50:12,768
+Gallant knights!
+Let's not spoil the ball.
+
+369
+00:50:14,499 --> 00:50:17,252
+Tomorrow you'll meet each other
+at the tournament!
+
+370
+00:50:17,979 --> 00:50:21,938
+They're justjoking.
+You'll get used to it soon.
+
+371
+00:50:25,499 --> 00:50:29,094
+My dear,
+you think l'm the ideal woman.
+
+372
+00:50:30,979 --> 00:50:34,449
+Actually, l'm a nasty, evil,
+envious, gossiping brat.
+
+373
+00:50:34,659 --> 00:50:37,093
+Believe me, l'm the worst gossiper.
+
+374
+00:50:38,579 --> 00:50:44,768
+And something else. l laugh, dance,
+make men go crazy about me,
+
+375
+00:50:44,979 --> 00:50:47,937
+but really l'm being tormented.
+
+376
+00:50:52,499 --> 00:50:56,538
+ls it possible that a man
+is predestined
+
+377
+00:50:56,739 --> 00:50:59,697
+only for one person?
+
+378
+00:50:59,899 --> 00:51:02,459
+There're so many people
+in the world...
+
+379
+00:51:05,659 --> 00:51:07,536
+The Prince loves you!
+
+380
+00:51:08,579 --> 00:51:12,174
+l don't know. Everybody waits
+for a prince, like in fairy tales.
+
+381
+00:51:18,139 --> 00:51:22,018
+One day you'll tell me
+your secret,
+
+382
+00:51:23,499 --> 00:51:26,252
+and l'll arrange
+a special tournament for you.
+
+383
+00:51:28,139 --> 00:51:29,857
+Wise man!
+
+384
+00:51:32,059 --> 00:51:34,015
+What have l done!
+
+385
+00:51:35,979 --> 00:51:40,450
+lf the Prince is killed during
+the tournament, she's going to die!
+
+386
+00:51:42,899 --> 00:51:45,538
+lf the Prince wins
+and marries the Princess,
+
+387
+00:51:49,059 --> 00:51:50,856
+she's going to die anyway...
+
+388
+00:51:51,659 --> 00:51:54,253
+All right, l'll help you.
+
+389
+00:51:55,139 --> 00:52:00,532
+l'll give the mermaid some of
+my philter, and she'll be yours.
+
+390
+00:52:00,739 --> 00:52:03,094
+Are you crazy?
+
+391
+00:52:03,299 --> 00:52:06,530
+She's in love with the Prince.
+Don't you dare!
+
+392
+00:52:07,379 --> 00:52:08,528
+Go to hell then!
+
+393
+00:53:02,659 --> 00:53:04,251
+With this lance,
+
+394
+00:53:04,499 --> 00:53:08,253
+the Duke of Navarre
+skewered three Saracens.
+
+395
+00:53:10,139 --> 00:53:11,618
+Thank you.
+
+396
+00:53:13,219 --> 00:53:15,608
+l wish it broke right now.
+
+397
+00:53:15,819 --> 00:53:18,777
+Are you mad? What are you
+talking about?
+
+398
+00:53:21,299 --> 00:53:23,255
+lt's you who went mad!
+
+399
+00:53:23,499 --> 00:53:27,697
+Such stupidity
+is simply unimaginable!
+
+400
+00:53:29,139 --> 00:53:32,256
+You forget yourself.
+Who are you talking to?
+
+401
+00:53:32,499 --> 00:53:37,698
+To the prince who's willing
+to marry a coquette.
+
+402
+00:53:37,899 --> 00:53:40,857
+She doesn't care a bit whom she's
+going to marry.
+
+403
+00:53:41,659 --> 00:53:46,449
+But you're blind. All your life
+you've been looking for a girl who...
+
+404
+00:53:46,659 --> 00:53:49,696
+And she's not this girl, Prince.
+
+405
+00:53:49,899 --> 00:53:51,855
+l could just cut you in two pieces!
+
+406
+00:53:52,899 --> 00:53:54,855
+Whatever stops me?
+
+407
+00:53:55,059 --> 00:53:58,449
+The very last drops of reason
+stop you, my friend.
+
+408
+00:53:59,579 --> 00:54:03,857
+Don't you understand that
+there's only one princess...
+
+409
+00:54:04,739 --> 00:54:08,778
+The princess of princesses.
+
+410
+00:54:10,899 --> 00:54:13,094
+The daughter of the king...
+Well, what's the use?..
+
+411
+00:54:13,299 --> 00:54:14,937
+Are you drunk?
+
+412
+00:54:15,139 --> 00:54:17,528
+You were holding her hand.
+
+413
+00:54:17,739 --> 00:54:19,775
+You danced with her.
+
+414
+00:54:20,739 --> 00:54:23,253
+lf l were in your place,
+
+415
+00:54:25,059 --> 00:54:28,449
+l would have fought for her.
+
+416
+00:54:28,659 --> 00:54:32,095
+Your place is to go and groom
+my horse!
+
+417
+00:55:51,739 --> 00:55:54,458
+l feel l'm going to die soon.
+
+418
+00:55:56,139 --> 00:55:58,448
+l can talk only to you now.
+
+419
+00:56:00,899 --> 00:56:02,332
+When l'm gone,
+
+420
+00:56:03,739 --> 00:56:08,255
+tell the Princess that l thought
+about her all the time.
+
+421
+00:56:08,499 --> 00:56:10,251
+Tell the Princess...
+
+422
+00:56:10,979 --> 00:56:13,095
+lt's time, Prince.
+
+423
+00:56:14,299 --> 00:56:18,258
+lf l have to die seven times
+just to be with her for one moment,
+
+424
+00:56:18,499 --> 00:56:21,457
+l'm ready to face death
+seven times!
+
+425
+00:56:43,979 --> 00:56:49,451
+Wait! lt's notjust a game!
+lt means death!
+
+426
+00:56:49,659 --> 00:56:52,457
+They are going to kill each other!
+
+427
+00:56:52,659 --> 00:56:55,127
+Why are you laughing?
+
+428
+00:57:37,499 --> 00:57:40,616
+The 13th century we live in
+is very cruel, my dear.
+
+429
+00:57:42,499 --> 00:57:44,455
+A feat of chivalry
+
+430
+00:57:44,659 --> 00:57:46,615
+is the most valuable thing on earth.
+
+431
+00:57:47,899 --> 00:57:51,448
+A man may die,
+but his fame would live forever!
+
+432
+00:57:52,299 --> 00:57:55,848
+Cross your spears, bold knights,
+
+433
+00:57:56,059 --> 00:57:58,698
+for the most beautiful eyes
+
+434
+00:57:58,899 --> 00:58:01,254
+are watching your feats!
+
+435
+00:58:08,979 --> 00:58:10,458
+The noble knight
+
+436
+00:58:10,659 --> 00:58:15,096
+Prince Antoine de Lalan Poitou
+Lefevre Saint-Gotharde
+
+437
+00:58:15,299 --> 00:58:18,416
+challenges the knight
+
+438
+00:58:18,659 --> 00:58:23,096
+Greenleaf Reynold of Marndell!
+
+439
+00:58:30,299 --> 00:58:35,009
+The gallant knight Adalbert
+Greenleaf accepts the challenge!
+
+440
+00:58:41,739 --> 00:58:44,173
+Don't be afraid, my dear!
+
+441
+00:58:47,979 --> 00:58:49,617
+Who is to win?
+
+442
+00:58:53,299 --> 00:58:54,698
+Get him under the saddle!
+
+443
+00:58:59,499 --> 00:59:00,932
+Pierce him with the spear!
+
+444
+00:59:04,899 --> 00:59:07,015
+Hew him! Right through his heart!
+
+445
+00:59:31,219 --> 00:59:35,451
+What a lovely dress!
+ls that velvet from Venice?
+
+446
+00:59:36,659 --> 00:59:41,255
+No, l've got it from...
+
+447
+00:59:44,659 --> 00:59:46,695
+l wish l had
+such an angelic voice.
+
+448
+01:00:38,099 --> 01:00:39,327
+Oh, God!
+
+449
+01:00:39,579 --> 01:00:42,457
+Why the two cameos?
+What does it mean, Princess?
+
+450
+01:00:51,659 --> 01:00:53,854
+What a treacherous stroke!
+
+451
+01:01:05,899 --> 01:01:07,332
+Good for him!
+
+452
+01:01:07,579 --> 01:01:10,013
+Another stroke, and he'll be king!
+
+453
+01:01:10,739 --> 01:01:13,697
+l'm asking for your hand,
+Princess!
+
+454
+01:01:14,299 --> 01:01:17,257
+You hoped to win my hand
+with your base stroke?
+
+455
+01:01:51,299 --> 01:01:53,255
+We'll have to hold another
+tournament.
+
+456
+01:01:53,499 --> 01:01:59,608
+Let's send the footmen
+on a three-month walk again.
+
+457
+01:01:59,819 --> 01:02:03,448
+And the troubadours will have
+to be dispatched too.
+
+458
+01:02:03,659 --> 01:02:07,095
+The whole world must know
+about the pride of our Princess,
+
+459
+01:02:08,139 --> 01:02:11,927
+who has rejected the winner
+for his unworthy stroke.
+
+460
+01:02:12,139 --> 01:02:14,448
+Leave alone your lute!
+
+461
+01:02:17,059 --> 01:02:20,335
+Another tournament!
+lt will take ages just to arrange it!
+
+462
+01:02:28,139 --> 01:02:32,098
+lf l revive the Prince,
+he will rise and run to his Princess.
+
+463
+01:02:32,299 --> 01:02:33,254
+That's for him to decide.
+
+464
+01:02:33,499 --> 01:02:38,334
+And you keep on fussing about.
+You'd better think of yourself.
+
+465
+01:02:38,579 --> 01:02:41,855
+Who, me?
+You poor, poor witch!
+
+466
+01:02:42,059 --> 01:02:45,449
+lt's not for you to feel joy
+seeing joy in someone else's eyes.
+
+467
+01:02:47,979 --> 01:02:50,777
+Well? Do you want me
+to revive your prince?
+
+468
+01:02:56,499 --> 01:03:01,095
+But don't forget:
+you'll lose him forever!
+
+469
+01:03:02,299 --> 01:03:03,778
+Yes, l agree!
+
+470
+01:03:15,659 --> 01:03:18,093
+Well, let's have your pretty eyes
+covered.
+
+471
+01:04:12,299 --> 01:04:14,255
+Hey, you, get up!
+
+472
+01:04:35,659 --> 01:04:37,251
+What happened to me?
+
+473
+01:05:09,499 --> 01:05:14,857
+Prince Antoine de Lalan Poitou
+Lefevre Saint-Gotharde!
+
+474
+01:05:16,579 --> 01:05:19,252
+Oh, Jesus Christ, our Lord!
+
+475
+01:05:19,499 --> 01:05:22,457
+Holy Magdalene,
+the patroness of our castle!
+
+476
+01:05:22,659 --> 01:05:26,857
+Thank you
+for hearing my prayer.
+
+477
+01:05:31,659 --> 01:05:35,095
+Do you know
+that l've been on my knees
+
+478
+01:05:35,299 --> 01:05:37,938
+since l returned from the stadium,
+and only now rose to my feet?
+
+479
+01:05:46,819 --> 01:05:49,174
+Yes, l lied about everything!
+
+480
+01:05:49,379 --> 01:05:51,939
+No, l didn't pray, nor there
+had been any God's angels.
+
+481
+01:05:54,139 --> 01:05:56,937
+And l gave my cameo to each
+of you just in case.
+
+482
+01:06:01,139 --> 01:06:02,094
+Antoine!
+
+483
+01:06:23,499 --> 01:06:28,619
+But she saved my life.
+And my duty of chivalry...
+
+484
+01:07:38,499 --> 01:07:40,171
+Are you leaving?
+
+485
+01:07:42,219 --> 01:07:46,849
+Do you know that as soon
+as the Prince marries the Princess
+
+486
+01:07:48,219 --> 01:07:50,255
+the Little Mermaid will die?
+
+487
+01:07:51,499 --> 01:07:55,253
+Yes, l know. l know everything.
+
+488
+01:07:55,499 --> 01:07:59,617
+- Did you say goodbye to her?
+- What for?
+
+489
+01:08:01,499 --> 01:08:04,696
+l have my hands full even
+without her.
+
+490
+01:08:05,819 --> 01:08:10,335
+- Where are you going?
+- Well, the world is...
+
+491
+01:08:10,819 --> 01:08:15,847
+Lamplighters, mirror-cutters
+and showmen
+
+492
+01:08:18,139 --> 01:08:20,334
+are always in demand.
+
+493
+01:08:24,579 --> 01:08:26,695
+Do you have any regrets?
+
+494
+01:08:29,059 --> 01:08:30,458
+No regrets.
+
+495
+01:08:33,579 --> 01:08:35,535
+Rejoice!
+
+496
+01:10:56,659 --> 01:10:58,695
+Hey, you, good-for-nothings!
+
+497
+01:10:58,939 --> 01:11:00,850
+Just look at her!
+
+498
+01:11:01,059 --> 01:11:03,448
+She's going to die today!
+
+499
+01:11:04,139 --> 01:11:08,052
+- Stop insulting us!
+- Mind your own business!
+
+500
+01:11:09,939 --> 01:11:14,455
+ls there anyone ready
+to give his life to save her?
+
+501
+01:11:15,059 --> 01:11:18,017
+There're no fools here!
+
+502
+01:11:26,819 --> 01:11:31,449
+We'll marry you off
+to the most gallant knight!
+
+503
+01:11:31,659 --> 01:11:35,937
+Tailors! Make twelve dresses
+for her right away!
+
+504
+01:11:36,139 --> 01:11:40,018
+She must be dressed better
+than anyone...
+
+505
+01:11:44,139 --> 01:11:45,333
+except me.
+
+506
+01:11:45,579 --> 01:11:47,012
+Tailors!
+
+507
+01:12:16,659 --> 01:12:21,096
+What are you so happy about?
+You will die today.
+
+508
+01:12:24,979 --> 01:12:26,253
+And you have no regrets?
+
+509
+01:13:22,979 --> 01:13:24,458
+Who are you?
+
+510
+01:13:24,659 --> 01:13:27,696
+l'm Prince Antoine de Lalan
+Poitou Lefevre Saint-Gotharde!
+
+511
+01:13:27,899 --> 01:13:29,855
+And he's an impostor!
+
+512
+01:14:12,979 --> 01:14:15,539
+You? Why?
+
+513
+01:14:17,219 --> 01:14:18,937
+Come closer, Prince!
+
+514
+01:14:20,979 --> 01:14:23,174
+You've been looking for your dream.
+
+515
+01:14:24,899 --> 01:14:28,858
+And you have overlooked it.
+lt is the Little Mermaid!
+
+516
+01:14:30,819 --> 01:14:32,013
+The moment l die
+
+517
+01:14:32,219 --> 01:14:35,689
+you will lose her for good.
+
+518
+01:14:36,499 --> 01:14:39,252
+She will live on earth forever.
+
+519
+01:14:39,619 --> 01:14:42,577
+But you will never see her again.
+
+520
+01:14:44,579 --> 01:14:48,538
+All my life l was a failure,
+
+521
+01:14:49,539 --> 01:14:54,169
+but l didn't fail at death.
+
+522
+01:15:13,499 --> 01:15:16,457
+Antoine, who are you looking for?
+
+523
+01:16:49,739 --> 01:16:54,859
+Since then the Little Mermaid
+has been wandering around the earth,
+
+524
+01:16:56,299 --> 01:17:01,771
+bringing happiness to everyone
+who happened to see her.
+
+525
+01:17:29,179 --> 01:17:32,694
+The End

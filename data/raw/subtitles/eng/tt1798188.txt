@@ -1,0 +1,204 @@
+1
+00:01:36,805 --> 00:01:40,517
+{\an8}<i>♪ The pot is bubbling, ♪
+♪ The rice is steaming ♪</i>
+
+2
+00:01:40,892 --> 00:01:43,770
+{\an8}<i>♪ The cutting board is standing by ♪</i>
+
+3
+00:01:44,396 --> 00:01:47,899
+{\an8}<i>♪ The tofu is jiggly, ♪
+♪ The eggs are slippery ♪</i>
+
+4
+00:01:48,525 --> 00:01:51,903
+{\an8}<i>♪ The natto is sticky as can be ♪</i>
+
+5
+00:01:52,404 --> 00:01:55,866
+{\an8}<i>♪ Drop the eggs in a frying pan ♪</i>
+
+6
+00:01:56,158 --> 00:01:59,453
+{\an8}<i>♪ Stir the miso in a pot ♪</i>
+
+7
+00:01:59,703 --> 00:02:03,457
+{\an8}<i>♪ Pile the rice in a server ♪</i>
+
+8
+00:02:03,707 --> 00:02:07,044
+{\an8}<i>♪ Everything is ready to go ♪</i>
+
+9
+00:02:07,252 --> 00:02:10,964
+{\an8}<i>♪ Time to wake up the house ♪</i>
+
+10
+00:02:11,423 --> 00:02:14,801
+{\an8}<i>♪ Get everyone to the table ♪</i>
+
+11
+00:02:15,135 --> 00:02:18,764
+{\an8}<i>♪ Now dig in, eat hearty ♪</i>
+
+12
+00:02:19,014 --> 00:02:22,309
+{\an8}<i>♪ It's another sunny day ♪</i>
+
+13
+00:02:22,559 --> 00:02:25,979
+{\an8}<i>♪ Another beautiful breakfast together ♪</i>
+
+14
+00:02:26,271 --> 00:02:29,900
+{\an8}<i>♪ And I made it all for you ♪</i>
+
+15
+00:02:30,108 --> 00:02:33,737
+{\an8}<i>♪ Hurry up, dig in now ♪</i>
+
+16
+00:02:34,237 --> 00:02:37,491
+{\an8}<i>♪ But be sure to taste every bite ♪</i>
+
+17
+00:02:37,741 --> 00:02:41,328
+{\an8}<i>♪ Another beautiful breakfast together ♪</i>
+
+18
+00:02:41,536 --> 00:02:45,165
+{\an8}<i>♪ And I made it all for you ♪</i>
+
+19
+00:02:45,415 --> 00:02:48,835
+{\an8}<i>♪ Hurry up, dig in now ♪</i>
+
+20
+00:02:49,461 --> 00:02:52,547
+{\an8}<i>♪ But be sure to taste every bite ♪</i>
+
+21
+00:07:15,435 --> 00:07:18,438
+KONAN ACADEMY
+
+22
+00:09:01,291 --> 00:09:04,210
+LATIN QUARTER
+ANTI-DEMOLITION LEAGUE
+
+23
+00:14:51,557 --> 00:14:55,228
+DON'T DEMOLISH OUR CLUBHOUSE
+
+24
+00:19:28,876 --> 00:19:30,628
+PHYSICS MIDTERM FORECAST!
+
+25
+00:41:48,131 --> 00:41:51,634
+<i>- ONODERA - SAWAMURA - TACHIBANA</i>
+
+26
+01:01:23,847 --> 01:01:29,853
+VISIT THE NEW LATIN QUARTER!
+
+27
+01:01:36,026 --> 01:01:41,865
+MAJORITY OF GIRLS
+OPPOSE DEMOLITION!
+
+28
+01:01:48,371 --> 01:01:53,877
+MIDTERM RESULTS ANNOUNCED,
+TEST FORECAST VINDICATED!
+
+29
+01:02:00,050 --> 01:02:05,722
+MAJORITY OF ALL STUDENTS
+OPPOSE DEMOLITION!
+
+30
+01:27:06,346 --> 01:27:12,936
+<i>♪ Across the shining sea, ♪
+♪ A ship disappears in the sunlight ♪</i>
+
+31
+01:27:13,270 --> 01:27:20,068
+<i>♪ Its horn trails a note of farewell ♪</i>
+
+32
+01:27:20,402 --> 01:27:26,742
+<i>♪ if I walk down that gentle slope ♪</i>
+
+33
+01:27:27,033 --> 01:27:33,623
+<i>♪ Will I feel a breeze ♪
+♪ the color of summer? ♪</i>
+
+34
+01:27:33,957 --> 01:27:40,422
+<i>♪ My love is a melody ♪</i>
+
+35
+01:27:40,756 --> 01:27:46,470
+<i>♪ I sing it high and low ♪</i>
+
+36
+01:27:47,512 --> 01:27:54,102
+<i>♪ My love is a seagull ♪</i>
+
+37
+01:27:54,394 --> 01:28:00,275
+<i>♪ That soars and swoops ♪</i>
+
+38
+01:28:01,318 --> 01:28:07,282
+<i>♪ If I call out to you at twilight ♪</i>
+
+39
+01:28:09,993 --> 01:28:15,040
+<i>♪ Will I see you there my sweet? ♪</i>
+
+40
+01:28:47,489 --> 01:28:54,162
+<i>♪ Swaying branches along the path ♪</i>
+
+41
+01:28:54,454 --> 01:29:01,002
+<i>♪ Leave farewell shadows on the ground ♪</i>
+
+42
+01:29:01,336 --> 01:29:08,009
+<i>♪ A weather vane rooster, an old chapel ♪</i>
+
+43
+01:29:08,301 --> 01:29:14,850
+<i>♪ Will I see a city ♪
+♪ Steeped in summer hues? ♪</i>
+
+44
+01:29:15,141 --> 01:29:21,523
+<i>♪ Yesterday's love is my tears ♪</i>
+
+45
+01:29:21,857 --> 01:29:27,529
+<i>♪ They dry and vanish with time ♪</i>
+
+46
+01:29:28,822 --> 01:29:35,370
+<i>♪ Tomorrow's love is a refrain ♪</i>
+
+47
+01:29:35,662 --> 01:29:42,043
+<i>♪ Words without end ♪</i>
+
+48
+01:29:42,502 --> 01:29:48,717
+<i>♪ If we meet at twilight ♪</i>
+
+49
+01:29:49,342 --> 01:29:58,226
+<i>♪ Will you hold me in your arms? ♪</i>

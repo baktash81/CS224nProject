@@ -1,0 +1,6505 @@
+1
+00:01:09,613 --> 00:01:11,808
+Bobby, let's take a pan left now.
+
+2
+00:01:12,015 --> 00:01:12,845
+Left!
+
+3
+00:01:13,116 --> 00:01:14,174
+Your other left.
+
+4
+00:01:14,851 --> 00:01:15,681
+Hello.
+
+5
+00:01:16,253 --> 00:01:17,515
+Close that door.
+
+6
+00:01:18,121 --> 00:01:21,579
+Stand by to cue the suits.
+We're coming to 6 next.
+
+7
+00:01:21,792 --> 00:01:23,282
+Get the VTls ready.
+
+8
+00:01:24,194 --> 00:01:25,024
+Thank you.
+
+9
+00:01:26,196 --> 00:01:28,255
+All right. lrvo, you're on 228.
+
+10
+00:01:28,565 --> 00:01:29,691
+Philly, you're on 904.
+
+11
+00:01:29,900 --> 00:01:32,664
+Johnny, you're on 274.
+And Vic, on 61.
+
+12
+00:01:33,303 --> 00:01:34,668
+Ready to cue Jones.
+
+13
+00:01:36,440 --> 00:01:38,374
+Cue Jones! Take 6!
+
+14
+00:01:39,810 --> 00:01:42,643
+<i>Hello, and welcome to</i>
+<i>the Olympic Stadium.</i>
+
+15
+00:01:42,846 --> 00:01:45,713
+<i>This is Charlie Jones,</i>
+<i>along with Fred Long...</i>
+
+16
+00:01:45,916 --> 00:01:47,543
+<i>... for the men's 5000 meters.</i>
+
+17
+00:01:47,751 --> 00:01:49,616
+<i>An absolutely gorgeous day.</i>
+
+18
+00:01:49,920 --> 00:01:52,150
+<i>This race has the potential to be...</i>
+
+19
+00:01:52,356 --> 00:01:55,450
+<i>... the most competitive</i>
+<i>of the men's track competition.</i>
+
+20
+00:01:55,659 --> 00:01:56,956
+<i>Is Viren the favorite?</i>
+
+21
+00:01:57,160 --> 00:02:01,062
+<i>He has to be. He's been running</i>
+<i>the best of anyone for 6 weeks.</i>
+
+22
+00:02:01,264 --> 00:02:04,062
+<i>And he is the current</i>
+<i>10,000 meter champion.</i>
+
+23
+00:02:04,267 --> 00:02:05,962
+<i>He has the psychological edge.</i>
+
+24
+00:02:06,169 --> 00:02:10,265
+<i>Here he is, winning in</i>
+<i>world-record time just a few days ago.</i>
+
+25
+00:02:10,574 --> 00:02:14,135
+<i>I have no specific tactic.</i>
+<i>I'm just ready when the race starts.</i>
+
+26
+00:02:14,344 --> 00:02:15,606
+Take 1! Wipe it in.
+
+27
+00:02:15,812 --> 00:02:19,578
+<i>This is the greatest 5000 meter</i>
+<i>field in Olympic history.</i>
+
+28
+00:02:19,783 --> 00:02:23,412
+<i>10 of these men have set</i>
+<i>world records or won championships.</i>
+
+29
+00:02:23,620 --> 00:02:24,450
+Bring it in!
+
+30
+00:02:25,422 --> 00:02:29,654
+<i>There's a reason it was the longest</i>
+<i>distance in the ancient Olympics.</i>
+
+31
+00:02:29,860 --> 00:02:34,627
+<i>Run the 5000, and you share something</i>
+<i>with those who've run it before.</i>
+
+32
+00:02:34,831 --> 00:02:36,458
+<i>- What is that?</i>
+<i>- Pain.</i>
+
+33
+00:02:36,667 --> 00:02:38,931
+<i>13 minutes of pain that only they know.</i>
+
+34
+00:02:39,136 --> 00:02:43,470
+<i>So it'll be a Finnish policeman,</i>
+<i>a Belgian gardener, a Tunisian soldier...</i>
+
+35
+00:02:43,674 --> 00:02:46,643
+<i>... and ironically, here in Munich,</i>
+<i>from Coos Bay, Oregon...</i>
+
+36
+00:02:46,843 --> 00:02:50,472
+<i>... a millworker's son raised</i>
+<i>in a German-speaking household.</i>
+
+37
+00:02:50,681 --> 00:02:53,047
+<i>When I talked to Stewart</i>
+<i>and Prefontaine...</i>
+
+38
+00:02:53,250 --> 00:02:56,276
+<i>... I asked them how they thought</i>
+<i>the race might unfold.</i>
+
+39
+00:02:56,486 --> 00:03:00,786
+<i>It'll probably be down to Viren</i>
+<i>and myself, with Prefontaine...</i>
+
+40
+00:03:00,991 --> 00:03:02,618
+...trying to chase us down.
+
+41
+00:03:02,826 --> 00:03:05,021
+<i>I'd like to</i>
+<i>work it out so that...</i>
+
+42
+00:03:05,228 --> 00:03:08,595
+<i>... in the end, it comes down to</i>
+<i>a pure guts race.</i>
+
+43
+00:03:09,399 --> 00:03:10,491
+Stand by, 4!
+
+44
+00:03:10,701 --> 00:03:12,635
+<i>If it is,</i>
+<i>I'm the one who'll win.</i>
+
+45
+00:03:13,270 --> 00:03:16,239
+<i>14 qualifiers,</i>
+<i>13 on the starting line.</i>
+
+46
+00:03:16,440 --> 00:03:18,704
+<i>Mariano Haro of Spain has withdrawn.</i>
+
+47
+00:03:18,909 --> 00:03:20,035
+<i>5000 meters.</i>
+
+48
+00:03:20,243 --> 00:03:22,837
+<i>12 and a half laps for the gold medal.</i>
+
+49
+00:03:23,146 --> 00:03:24,613
+<i>The gun is up.</i>
+
+50
+00:03:25,916 --> 00:03:28,942
+<i>In the fair start,</i>
+<i>the thirteen finalists...</i>
+
+51
+00:03:29,219 --> 00:03:30,208
+<i>"Citius...</i>
+
+52
+00:03:30,921 --> 00:03:31,910
+<i>... Altius...</i>
+
+53
+00:03:32,889 --> 00:03:33,878
+<i>... Fortius. "</i>
+
+54
+00:03:35,025 --> 00:03:36,424
+<i>It means: Faster...</i>
+
+55
+00:03:36,626 --> 00:03:37,456
+<i>... Higher...</i>
+
+56
+00:03:37,661 --> 00:03:38,650
+<i>... Stronger.</i>
+
+57
+00:03:39,262 --> 00:03:42,231
+<i>It's been the motto</i>
+<i>for the Olympics for 2500 years.</i>
+
+58
+00:03:44,334 --> 00:03:47,132
+<i>But it doesn't mean</i>
+<i>faster, higher and stronger...</i>
+
+59
+00:03:47,337 --> 00:03:48,964
+<i>... than those you compete against.</i>
+
+60
+00:03:49,172 --> 00:03:50,901
+<i>Just "Faster...</i>
+
+61
+00:03:51,541 --> 00:03:52,508
+<i>... Higher...</i>
+
+62
+00:03:52,709 --> 00:03:54,006
+...Stronger."
+
+63
+00:03:55,712 --> 00:03:58,010
+<i>One runner brought this home to me.</i>
+
+64
+00:03:58,415 --> 00:03:59,814
+<i>From the beginning...</i>
+
+65
+00:04:00,016 --> 00:04:01,745
+<i>... I tried to change him.</i>
+
+66
+00:04:02,319 --> 00:04:03,809
+<i>And from the beginning...</i>
+
+67
+00:04:04,020 --> 00:04:06,011
+<i>... he tried not to change.</i>
+
+68
+00:04:06,623 --> 00:04:07,954
+<i>That was our relationship.</i>
+
+69
+00:04:09,259 --> 00:04:11,420
+<i>And even that never changed.</i>
+
+70
+00:04:12,329 --> 00:04:14,263
+<i>He couldn't stand a crowd.</i>
+
+71
+00:04:14,464 --> 00:04:16,694
+<i>Always wanted to race out front.</i>
+
+72
+00:04:16,900 --> 00:04:19,892
+<i>Like he was trying to</i>
+<i>get away from something.</i>
+
+73
+00:04:20,937 --> 00:04:23,405
+<i>Where and when this compulsion</i>
+<i>came from...</i>
+
+74
+00:04:23,607 --> 00:04:25,700
+<i>... no one can say for sure.</i>
+
+75
+00:04:26,176 --> 00:04:28,337
+<i>Like Plato and his tale...</i>
+
+76
+00:04:28,545 --> 00:04:31,639
+<i>... of the world's creation,</i>
+<i>I won't say absolutely...</i>
+
+77
+00:04:31,848 --> 00:04:33,076
+<i>... this is the truth.</i>
+
+78
+00:04:33,283 --> 00:04:34,580
+<i>But I will say...</i>
+
+79
+00:04:35,051 --> 00:04:36,848
+<i>... it is a likely story.</i>
+
+80
+00:04:37,053 --> 00:04:39,578
+We're going to get you!
+You better run, boy!
+
+81
+00:04:39,856 --> 00:04:41,756
+- Run!
+- Little German boy!
+
+82
+00:04:41,958 --> 00:04:43,983
+You're surrounded, you little Kraut!
+
+83
+00:04:44,194 --> 00:04:45,718
+Your mama's not here now!
+
+84
+00:04:45,929 --> 00:04:49,160
+There's no way of getting out!
+You're surrounded!
+
+85
+00:04:54,137 --> 00:04:56,128
+Get back here, you Heinz!
+
+86
+00:04:57,107 --> 00:05:00,167
+Where are you going now?
+You're going to get tired!
+
+87
+00:05:00,377 --> 00:05:03,210
+Your mama ain't here now!
+We're right on your heels!
+
+88
+00:05:03,480 --> 00:05:04,469
+You get him.
+
+89
+00:05:06,149 --> 00:05:07,776
+Get him, get him, get him!
+
+90
+00:05:08,885 --> 00:05:10,978
+There he is.
+l got him, l got him!
+
+91
+00:05:12,556 --> 00:05:15,047
+<i>This is being left to</i>
+<i>the fastest miler.</i>
+
+92
+00:05:15,258 --> 00:05:17,419
+<i>Prefontaine believes it's him.</i>
+
+93
+00:05:17,627 --> 00:05:20,027
+<i>So the American is now committed.</i>
+
+94
+00:05:21,631 --> 00:05:24,259
+<i>The American in front,</i>
+<i>almost a cult in the U.S.</i>
+
+95
+00:05:24,467 --> 00:05:28,460
+<i>A sort of athletic Beatle.</i>
+<i>There are T-shirts saying, "Go Pre."</i>
+
+96
+00:05:31,875 --> 00:05:33,843
+<i>There goes Pre.</i>
+<i>Maybe this is it.</i>
+
+97
+00:05:34,044 --> 00:05:35,170
+<i>You can't catch me.</i>
+
+98
+00:05:35,378 --> 00:05:37,972
+<i>You'll never catch me.</i>
+<i>You don't have the guts.</i>
+
+99
+00:05:52,362 --> 00:05:54,125
+l haven't seen Prefontaine.
+
+100
+00:05:54,331 --> 00:05:57,300
+How am l supposed to pick him
+out of 200 runners?
+
+101
+00:05:57,500 --> 00:05:58,489
+You'll see him.
+
+102
+00:06:14,551 --> 00:06:15,916
+Holy shit!
+
+103
+00:06:35,505 --> 00:06:38,736
+lf Bowerman doesn't believe
+in recruiting, why are we here?
+
+104
+00:06:38,942 --> 00:06:41,809
+Because Bowerman doesn't
+believe in recruiting.
+
+105
+00:06:42,012 --> 00:06:43,502
+So he has us do it.
+
+106
+00:06:45,415 --> 00:06:46,712
+This is it.
+
+107
+00:06:57,060 --> 00:07:00,257
+Well, today you can
+leave your shoes in the car.
+
+108
+00:07:02,232 --> 00:07:03,529
+They're here.
+
+109
+00:07:10,840 --> 00:07:14,571
+K enny Moore. Sixteenth in
+the marathon in Mexico City.
+
+110
+00:07:15,045 --> 00:07:16,569
+Fourteenth, actually.
+
+111
+00:07:16,780 --> 00:07:18,509
+And Roscoe Devine.
+
+112
+00:07:19,115 --> 00:07:20,514
+A 3:57 mile...
+
+113
+00:07:20,884 --> 00:07:23,352
+...when Jim Ryan ran a 3:56:5.
+
+114
+00:07:24,087 --> 00:07:27,545
+God, is there anything worse
+than being second best?
+
+115
+00:07:30,360 --> 00:07:31,918
+Thanks for coming to see me.
+
+116
+00:07:32,128 --> 00:07:33,618
+Mr. Dellinger.
+
+117
+00:07:34,998 --> 00:07:36,761
+How about an easy 10?
+
+118
+00:07:39,069 --> 00:07:41,731
+We left our running shoes in the car.
+
+119
+00:07:41,938 --> 00:07:43,769
+Want me to get them for you?
+
+120
+00:07:47,677 --> 00:07:50,908
+My mom's inside,
+if you want something to eat.
+
+121
+00:07:51,214 --> 00:07:52,374
+Great, thanks.
+
+122
+00:07:54,451 --> 00:07:57,181
+Boy, it sure lets you know
+Bowerman's a legend.
+
+123
+00:07:57,387 --> 00:08:00,049
+Steve's room is like a shrine to Bill.
+
+124
+00:08:00,623 --> 00:08:03,114
+Oregon is the land of the Bill coaches.
+
+125
+00:08:03,326 --> 00:08:05,351
+Bill Hayward, Bill Dellinger...
+
+126
+00:08:05,662 --> 00:08:06,856
+...Bill Bowerman.
+
+127
+00:08:08,331 --> 00:08:10,993
+You want my boy to go
+to the University?
+
+128
+00:08:11,334 --> 00:08:13,928
+Very much so.
+Steve's a very special kid.
+
+129
+00:08:14,137 --> 00:08:16,697
+- This pace too fast for you?
+- No, it's fine.
+
+130
+00:08:16,906 --> 00:08:19,466
+l realize l should've
+started my kick sooner...
+
+131
+00:08:19,676 --> 00:08:23,806
+...but l still finished with an 8:41:5,
+which set a national record.
+
+132
+00:08:24,781 --> 00:08:25,748
+Oh, man!
+
+133
+00:08:26,249 --> 00:08:28,444
+Actually, you might be surprised...
+
+134
+00:08:28,651 --> 00:08:30,744
+...but that's kind of why we're here.
+
+135
+00:08:31,588 --> 00:08:35,251
+- Word of talent gets around.
+- Talent has nothing to do with it.
+
+136
+00:08:42,265 --> 00:08:43,357
+Sorry, guys.
+
+137
+00:08:43,767 --> 00:08:46,031
+l should've let you know
+l was turning.
+
+138
+00:08:46,536 --> 00:08:47,935
+Hey, no sweat.
+
+139
+00:08:51,908 --> 00:08:53,773
+l'm going to get this kid.
+
+140
+00:09:05,288 --> 00:09:07,415
+Steve, what about coming to Oregon?
+
+141
+00:09:07,624 --> 00:09:09,057
+Does Bowerman want me?
+
+142
+00:09:09,259 --> 00:09:11,557
+- Absolutely.
+- Oregon's the place for you.
+
+143
+00:09:11,761 --> 00:09:13,661
+But not enough to ask me himself?
+
+144
+00:09:13,863 --> 00:09:17,924
+He considers the most valuable thing
+the University offers is education.
+
+145
+00:09:18,134 --> 00:09:20,602
+Anything else is almost immoral.
+
+146
+00:09:28,244 --> 00:09:29,677
+We're no big deal.
+
+147
+00:09:30,246 --> 00:09:33,875
+My Ray works as a carpenter,
+Steve at a gas station.
+
+148
+00:09:34,818 --> 00:09:38,049
+After school, he can become
+an insurance adjuster...
+
+149
+00:09:38,254 --> 00:09:39,744
+...right here in Coos Bay.
+
+150
+00:09:39,956 --> 00:09:43,119
+We have no time for
+dreams we can't afford.
+
+151
+00:09:43,326 --> 00:09:44,850
+There's no cost involved.
+
+152
+00:09:45,061 --> 00:09:47,291
+Except dreams
+that won't come true.
+
+153
+00:09:47,497 --> 00:09:49,522
+That's a price he's not going to pay.
+
+154
+00:09:50,233 --> 00:09:51,723
+Mrs. Prefontaine...
+
+155
+00:09:52,202 --> 00:09:54,636
+...your boy is Olympic stuff.
+
+156
+00:09:54,838 --> 00:09:56,032
+Mr. Dellinger...
+
+157
+00:09:57,307 --> 00:10:01,403
+...she's not going to be convinced
+about me running anywhere.
+
+158
+00:10:02,612 --> 00:10:03,601
+Not at...
+
+159
+00:10:04,280 --> 00:10:05,178
+...Stanford...
+
+160
+00:10:06,216 --> 00:10:07,843
+...or Pennsylvania or lowa...
+
+161
+00:10:08,051 --> 00:10:09,575
+...Villanova, Brown...
+
+162
+00:10:09,786 --> 00:10:11,344
+...Nebraska.
+
+163
+00:10:12,622 --> 00:10:14,715
+But she doesn't have to be convinced.
+
+164
+00:10:14,924 --> 00:10:15,788
+l do.
+
+165
+00:10:16,226 --> 00:10:19,923
+Only one guy at Oregon can do that,
+and he hasn't bothered to try.
+
+166
+00:10:20,130 --> 00:10:21,722
+His recruiting philosophy...
+
+167
+00:10:21,931 --> 00:10:25,367
+Mr. Dellinger, l've got 3 weeks
+to sign my letter of intent...
+
+168
+00:10:25,568 --> 00:10:28,935
+...before l lose my slot
+at any worthwhile college.
+
+169
+00:10:29,539 --> 00:10:31,404
+So here's my philosophy:
+
+170
+00:10:31,708 --> 00:10:35,269
+l don't go near Eugene unless
+Bowerman personally tells me...
+
+171
+00:10:35,478 --> 00:10:36,911
+...he wants me.
+
+172
+00:10:48,224 --> 00:10:51,751
+l know. l understand that,
+Bill, please, but...
+
+173
+00:10:53,096 --> 00:10:55,462
+Bill, please listen to me,
+for God's sake.
+
+174
+00:10:56,533 --> 00:10:58,057
+Everybody in the country...
+
+175
+00:10:58,268 --> 00:10:59,963
+...is offering him the moon.
+
+176
+00:11:00,170 --> 00:11:02,331
+All he wants from you
+is one word...
+
+177
+00:11:02,539 --> 00:11:04,564
+...to know you want to coach him.
+
+178
+00:11:04,774 --> 00:11:06,833
+That's it.
+He just wants to know.
+
+179
+00:11:34,804 --> 00:11:35,828
+Shit!
+
+180
+00:12:06,236 --> 00:12:07,567
+Just get an education.
+
+181
+00:12:07,770 --> 00:12:09,362
+That would be nice too.
+
+182
+00:12:14,410 --> 00:12:18,244
+<i>If you do us the honor of attending</i>
+<i>the University of Oregon...</i>
+
+183
+00:12:19,015 --> 00:12:20,448
+<i>... there is no doubt...</i>
+
+184
+00:12:20,650 --> 00:12:23,983
+<i>... that you can be the nation's</i>
+<i>finest distance runner.</i>
+
+185
+00:12:24,187 --> 00:12:25,882
+<i>Perhaps the world's.</i>
+
+186
+00:12:26,089 --> 00:12:28,216
+<i>Sincerely, William J. Bowerman.</i>
+
+187
+00:12:33,263 --> 00:12:34,594
+Yes, sir!
+
+188
+00:12:41,771 --> 00:12:45,832
+lt's good that way. You'll have
+3 classes in a row, then a break.
+
+189
+00:12:46,042 --> 00:12:47,873
+Excuse me! l'm sorry!
+
+190
+00:12:48,077 --> 00:12:50,170
+Where is McArthur Court?
+Do you know?
+
+191
+00:13:01,824 --> 00:13:02,722
+Right.
+
+192
+00:13:03,092 --> 00:13:04,354
+Thank you!
+
+193
+00:13:04,761 --> 00:13:05,693
+You're welcome.
+
+194
+00:13:06,829 --> 00:13:07,659
+Numb nuts!
+
+195
+00:13:25,748 --> 00:13:26,874
+Hey, Roscoe.
+
+196
+00:13:27,717 --> 00:13:29,412
+Here l am. l made it.
+
+197
+00:13:30,720 --> 00:13:33,780
+So is everybody here
+to see Bowerman?
+
+198
+00:13:34,090 --> 00:13:35,717
+ls that where he is?
+
+199
+00:13:36,092 --> 00:13:37,184
+Right behind there.
+
+200
+00:13:37,393 --> 00:13:39,293
+Does everybody here run distance?
+
+201
+00:13:39,962 --> 00:13:43,625
+Maybe you could give me
+a couple of tips about Bowerman.
+
+202
+00:13:44,100 --> 00:13:45,362
+He's a little touchy.
+
+203
+00:13:45,568 --> 00:13:47,468
+- About what?
+- Working out too hard.
+
+204
+00:13:47,670 --> 00:13:48,932
+Or not hard enough.
+
+205
+00:13:49,138 --> 00:13:50,696
+lt all depends on who.
+
+206
+00:13:50,907 --> 00:13:54,399
+He caught Bob sweeping his church.
+Kicked him off a week.
+
+207
+00:13:54,610 --> 00:13:58,478
+Just praying would be all right.
+Sweeping's too much like work.
+
+208
+00:13:58,915 --> 00:13:59,779
+Seriously.
+
+209
+00:14:00,983 --> 00:14:04,646
+He was in ltaly, World War ll,
+10th Mountain Division.
+
+210
+00:14:05,655 --> 00:14:09,182
+He negotiated the surrender
+of the 8th German army.
+
+211
+00:14:09,392 --> 00:14:10,859
+All 8,000 of them.
+
+212
+00:14:11,394 --> 00:14:12,827
+When he commands...
+
+213
+00:14:13,396 --> 00:14:14,658
+...you obey.
+
+214
+00:14:17,667 --> 00:14:20,602
+l'm not them, and l'm
+not here to surrender.
+
+215
+00:14:21,804 --> 00:14:22,793
+Yes, sir.
+
+216
+00:14:25,508 --> 00:14:26,770
+Over here.
+
+217
+00:14:30,780 --> 00:14:32,441
+Take off your shoe.
+
+218
+00:14:33,383 --> 00:14:34,816
+Your right one.
+
+219
+00:14:37,086 --> 00:14:38,246
+Put it down.
+
+220
+00:14:39,522 --> 00:14:41,251
+Put your foot on here.
+
+221
+00:14:45,461 --> 00:14:46,985
+You make everybody's shoes?
+
+222
+00:14:47,196 --> 00:14:48,322
+Everybody that runs.
+
+223
+00:14:48,831 --> 00:14:50,799
+Why? Cost?
+
+224
+00:14:51,000 --> 00:14:51,989
+Weight.
+
+225
+00:14:52,502 --> 00:14:54,834
+What's a good miler's stride?
+
+226
+00:14:55,037 --> 00:14:56,026
+Two yards.
+
+227
+00:14:56,606 --> 00:14:58,870
+That's 880 steps.
+
+228
+00:15:00,777 --> 00:15:02,574
+Take an ounce off a shoe...
+
+229
+00:15:03,746 --> 00:15:05,941
+...that's 880 ounces.
+
+230
+00:15:07,183 --> 00:15:11,847
+ln a mile, that's 55 pounds
+of weight you don't have to carry.
+
+231
+00:15:13,122 --> 00:15:14,714
+What a good idea.
+
+232
+00:15:15,091 --> 00:15:17,753
+That's 110 pounds,
+if you count both feet.
+
+233
+00:15:18,227 --> 00:15:21,560
+l already counted both feet.
+Lift your foot, damn it.
+
+234
+00:15:21,764 --> 00:15:22,890
+Sorry, coach.
+
+235
+00:15:26,369 --> 00:15:27,893
+You don't call me coach.
+
+236
+00:15:28,204 --> 00:15:30,331
+The meanest son of a bitch l ever met...
+
+237
+00:15:30,540 --> 00:15:32,371
+...insisted on being called that.
+
+238
+00:15:32,575 --> 00:15:34,133
+As we all know, l'm a...
+
+239
+00:15:34,744 --> 00:15:36,678
+...kind and forbearing man.
+
+240
+00:15:37,647 --> 00:15:40,673
+Welcome to the University of Oregon.
+l'm Bill Bowerman.
+
+241
+00:15:40,883 --> 00:15:42,043
+l know.
+
+242
+00:15:42,485 --> 00:15:44,385
+l'm Steve Prefontaine.
+
+243
+00:15:45,121 --> 00:15:46,281
+l know.
+
+244
+00:15:47,857 --> 00:15:49,848
+Take off your other shoe, Steve.
+
+245
+00:15:50,059 --> 00:15:53,586
+<i>The University of Oregon's</i>
+<i>physical education building...</i>
+
+246
+00:15:53,796 --> 00:15:57,823
+<i>... was set on fire.</i>
+<i>It's believed to be in protest of...</i>
+
+247
+00:15:58,034 --> 00:16:02,061
+<i>... the Vietnam War, since</i>
+<i>RO TC uniforms were stored there.</i>
+
+248
+00:16:17,787 --> 00:16:19,220
+Bob, what time is it?
+
+249
+00:16:19,422 --> 00:16:20,514
+7:24.
+
+250
+00:16:21,791 --> 00:16:22,917
+Genesis?
+
+251
+00:16:23,125 --> 00:16:24,285
+Exodus.
+
+252
+00:16:27,230 --> 00:16:30,290
+Why does Bowerman
+call a team meeting for 7:27?
+
+253
+00:16:30,500 --> 00:16:32,161
+What's wrong with 7:30?
+
+254
+00:16:32,502 --> 00:16:35,300
+Hold on. l'll tell him why, gentlemen.
+
+255
+00:16:36,172 --> 00:16:38,003
+7:27 promotes the question:
+
+256
+00:16:38,207 --> 00:16:39,469
+"Why 7:27?"
+
+257
+00:16:39,675 --> 00:16:43,133
+And everybody gets here
+at 7:27 to find out why.
+
+258
+00:16:46,115 --> 00:16:48,276
+When students burn a campus building...
+
+259
+00:16:48,484 --> 00:16:52,215
+...we must disassociate
+ourselves from that behavior.
+
+260
+00:16:52,421 --> 00:16:55,982
+l'm not suggesting that
+you support the Vietnam War...
+
+261
+00:16:56,192 --> 00:16:59,650
+...any more than l'm suggesting
+that this university should.
+
+262
+00:16:59,862 --> 00:17:02,660
+l'm saying your appearance
+cannot be construed...
+
+263
+00:17:02,865 --> 00:17:04,423
+...to support a form of protest...
+
+264
+00:17:05,434 --> 00:17:07,868
+...that burns down the buildings...
+
+265
+00:17:08,070 --> 00:17:12,097
+...of the institution that feeds,
+houses and sustains us all.
+
+266
+00:17:14,443 --> 00:17:17,571
+So we have a little
+cosmetic work ahead of us.
+
+267
+00:17:18,414 --> 00:17:19,346
+Haircuts.
+
+268
+00:17:21,817 --> 00:17:23,546
+The question before us...
+
+269
+00:17:23,753 --> 00:17:25,550
+...is how much to cut.
+
+270
+00:17:26,956 --> 00:17:28,082
+Well, Bill...
+
+271
+00:17:29,292 --> 00:17:31,123
+...this isn't going to be fair.
+
+272
+00:17:32,895 --> 00:17:33,884
+Why not?
+
+273
+00:17:35,965 --> 00:17:39,833
+What's the standard for how long
+hair gets before it's offensive?
+
+274
+00:17:41,203 --> 00:17:43,694
+lt's a completely arbitrary length.
+
+275
+00:17:43,906 --> 00:17:44,895
+Right.
+
+276
+00:17:45,441 --> 00:17:47,204
+So is the length of a meter.
+
+277
+00:17:47,410 --> 00:17:50,038
+Does that make a 100 meter race unfair?
+
+278
+00:17:50,246 --> 00:17:54,080
+Of course not. Not when everyone
+agrees on what the length is.
+
+279
+00:17:54,383 --> 00:17:55,873
+Then, let's all agree.
+
+280
+00:17:56,085 --> 00:17:59,350
+Nobody on the team will have
+hair longer than his dick...
+
+281
+00:17:59,555 --> 00:18:02,683
+...which means everybody
+gets a haircut, except Bob.
+
+282
+00:18:07,763 --> 00:18:08,923
+Why except Bob?
+
+283
+00:18:11,334 --> 00:18:13,063
+God's will, Steve.
+
+284
+00:18:13,302 --> 00:18:14,667
+God's will?
+
+285
+00:18:16,439 --> 00:18:18,907
+lt's just below his kneecap.
+
+286
+00:18:21,711 --> 00:18:22,735
+Way to go, Bob!
+
+287
+00:18:26,916 --> 00:18:28,247
+Men of Oregon...
+
+288
+00:18:29,652 --> 00:18:33,144
+...l invite you to become
+students of your events.
+
+289
+00:18:33,623 --> 00:18:35,488
+Running, one might say...
+
+290
+00:18:35,691 --> 00:18:37,955
+...is basically an absurd pastime...
+
+291
+00:18:38,160 --> 00:18:40,958
+...upon which
+to be exhausting ourselves.
+
+292
+00:18:42,231 --> 00:18:44,028
+But if you can find meaning...
+
+293
+00:18:44,500 --> 00:18:46,400
+...in the kind of running...
+
+294
+00:18:46,602 --> 00:18:49,332
+...you have to do
+to stay on this team...
+
+295
+00:18:50,072 --> 00:18:55,009
+...chances are you can find
+meaning in another absurd pastime:
+
+296
+00:18:56,312 --> 00:18:57,472
+Life.
+
+297
+00:19:11,661 --> 00:19:14,129
+Does this guy
+ever have anything to say?
+
+298
+00:19:14,597 --> 00:19:16,360
+What guy? About what?
+
+299
+00:19:16,565 --> 00:19:19,966
+Bowerman. About running.
+You know, like coaching.
+
+300
+00:19:21,437 --> 00:19:24,895
+When he's got something to say,
+he usually says it.
+
+301
+00:19:25,174 --> 00:19:26,368
+Prefontaine!
+
+302
+00:19:27,376 --> 00:19:28,707
+Come here a minute!
+
+303
+00:19:32,381 --> 00:19:36,044
+Do you usually run with your butt
+sticking out like that?
+
+304
+00:19:36,385 --> 00:19:37,545
+Stand up straight.
+
+305
+00:19:37,987 --> 00:19:41,548
+You want a plumb line to run
+from your ear to your feet.
+
+306
+00:19:45,161 --> 00:19:46,719
+Let your hips relax.
+
+307
+00:19:47,663 --> 00:19:49,494
+That's how you were running.
+
+308
+00:19:50,032 --> 00:19:51,431
+Lift your knee.
+
+309
+00:19:54,804 --> 00:19:57,068
+Now cock your hips up under you.
+
+310
+00:19:57,740 --> 00:19:58,900
+Under you.
+
+311
+00:20:00,976 --> 00:20:04,104
+Like at the moment
+of deepest penetration.
+
+312
+00:20:08,851 --> 00:20:10,478
+Now lift your knee.
+
+313
+00:20:12,021 --> 00:20:15,047
+lt's easier when you
+tuck your pelvis under you.
+
+314
+00:20:15,391 --> 00:20:19,384
+You don't fight your body's mechanics.
+Makes you more efficient.
+
+315
+00:20:20,996 --> 00:20:23,123
+You can put your knee down now.
+
+316
+00:20:26,135 --> 00:20:27,864
+<i>Gentlemen, cardinal rule:</i>
+
+317
+00:20:28,070 --> 00:20:31,130
+<i>No racing in workouts.</i>
+<i>We'll do a mile at 3/4 effort.</i>
+
+318
+00:20:31,340 --> 00:20:34,468
+<i>That's 4:40, max.</i>
+<i>Everyone's able to stay together.</i>
+
+319
+00:20:44,520 --> 00:20:46,784
+That's not staying together.
+
+320
+00:20:50,226 --> 00:20:53,457
+That's 4:30, Steve.
+You're 10 seconds fast.
+
+321
+00:21:01,370 --> 00:21:04,771
+Your pulse is north of 190.
+
+322
+00:21:05,374 --> 00:21:06,602
+Just a rough guess...
+
+323
+00:21:07,376 --> 00:21:12,109
+...but l'd say you were exceeding
+the agreed-upon speed limit, rube.
+
+324
+00:21:22,525 --> 00:21:24,823
+Bill, l lost a spike.
+
+325
+00:21:25,227 --> 00:21:26,660
+One?
+
+326
+00:21:29,398 --> 00:21:32,424
+- Not the ripple soles again.
+- What's wrong with them?
+
+327
+00:21:32,635 --> 00:21:34,967
+Digging dog shit out of them,
+for one thing.
+
+328
+00:21:35,171 --> 00:21:37,867
+l don't want to be a guinea pig.
+Give them to Moore.
+
+329
+00:21:38,240 --> 00:21:39,605
+Let him try them.
+
+330
+00:21:39,809 --> 00:21:42,539
+l'm working on something new, Roscoe.
+
+331
+00:21:42,745 --> 00:21:45,942
+Urethane spikes from a special mold.
+
+332
+00:21:47,082 --> 00:21:48,913
+Light as a feather.
+
+333
+00:21:50,586 --> 00:21:53,054
+Looks like you got it off a waffle iron.
+
+334
+00:21:53,255 --> 00:21:55,223
+lt's a very promising configuration.
+
+335
+00:21:55,424 --> 00:21:58,393
+l expect all my runners will try it.
+
+336
+00:21:58,894 --> 00:22:02,728
+<i>Prefontaine, shown here smashing</i>
+<i>the high school 2-mile record...</i>
+
+337
+00:22:02,932 --> 00:22:06,732
+<i>... by an amazing 7 seconds, 8:41:6...</i>
+
+338
+00:22:06,936 --> 00:22:07,800
+Damn it!
+
+339
+00:22:08,170 --> 00:22:10,001
+Not again!
+
+340
+00:22:11,006 --> 00:22:14,169
+l promised the kids waffles
+for Sunday brunch.
+
+341
+00:22:14,844 --> 00:22:16,175
+Barbara...
+
+342
+00:22:16,378 --> 00:22:19,313
+...the kids are over 25, as l recollect.
+
+343
+00:22:19,515 --> 00:22:21,415
+Maybe they won't be traumatized...
+
+344
+00:22:21,617 --> 00:22:23,983
+...if you serve them pancakes.
+
+345
+00:22:24,186 --> 00:22:26,654
+Those chemicals are simply overwhelming.
+
+346
+00:22:26,856 --> 00:22:28,653
+They can't be good for you.
+
+347
+00:22:28,858 --> 00:22:30,086
+What are you watching?
+
+348
+00:22:30,359 --> 00:22:32,156
+The kid from Coos Bay...
+
+349
+00:22:32,361 --> 00:22:34,989
+...that Dellinger recruited.
+
+350
+00:22:35,631 --> 00:22:37,599
+Pretty impressive, isn't he?
+
+351
+00:22:37,800 --> 00:22:41,463
+He's a front-runner. He may
+get away with it in high school...
+
+352
+00:22:41,670 --> 00:22:45,162
+...but at the international level
+of competition it's a disaster.
+
+353
+00:22:47,209 --> 00:22:50,201
+Tell him not to do it.
+lsn't that what coaching is for?
+
+354
+00:22:50,880 --> 00:22:52,108
+Yes, dear.
+
+355
+00:22:52,314 --> 00:22:55,750
+<i>Last spring, Prefontaine smashed</i>
+<i>the high school 2-mile record...</i>
+
+356
+00:22:55,951 --> 00:22:57,475
+<i>... by an amazing 7 seconds.</i>
+
+357
+00:22:58,654 --> 00:23:02,055
+Grant me those Stanford
+3-milers are no slouches...
+
+358
+00:23:02,258 --> 00:23:04,692
+...especially that fellow Kardong.
+
+359
+00:23:04,894 --> 00:23:07,590
+Don Kardong? He's not bad.
+
+360
+00:23:12,234 --> 00:23:15,863
+Front-runners cut the wind for
+everybody then die in the stretch.
+
+361
+00:23:16,071 --> 00:23:18,539
+ln a close race
+a front-runner never wins.
+
+362
+00:23:18,741 --> 00:23:20,641
+He's not that good, either.
+
+363
+00:23:20,843 --> 00:23:22,640
+Put it against the window.
+
+364
+00:23:22,845 --> 00:23:24,813
+What are you trying to do?
+Help him?
+
+365
+00:23:25,014 --> 00:23:28,074
+No. l hate those people
+back there sucking on me.
+
+366
+00:23:28,350 --> 00:23:30,079
+Then why do you let them?
+
+367
+00:23:30,419 --> 00:23:33,718
+When you set the pace,
+you control the race.
+
+368
+00:23:34,089 --> 00:23:37,149
+And the hare controls the hound.
+
+369
+00:23:40,696 --> 00:23:42,391
+lndulge me here...
+
+370
+00:23:42,598 --> 00:23:43,929
+...will you?
+
+371
+00:23:44,533 --> 00:23:45,932
+Saturday...
+
+372
+00:23:47,102 --> 00:23:50,629
+...start off easy for once in your life.
+
+373
+00:23:51,206 --> 00:23:54,073
+69s for the first mile.
+
+374
+00:23:54,276 --> 00:23:57,109
+Then drop to 67 s for the second.
+
+375
+00:23:57,379 --> 00:24:00,075
+Then depending on where you are
+and how you feel...
+
+376
+00:24:00,282 --> 00:24:04,082
+l won't know that till l get there
+and l'll figure it out then.
+
+377
+00:24:04,286 --> 00:24:07,847
+While you're doing that,
+why don't you also figure out...
+
+378
+00:24:08,057 --> 00:24:11,857
+...what university you expect
+to be running for next week.
+
+379
+00:24:15,397 --> 00:24:20,027
+Has it ever occurred to you there's
+such a thing as over-coaching?
+
+380
+00:24:20,235 --> 00:24:21,202
+Yeah.
+
+381
+00:24:21,403 --> 00:24:23,337
+l'm against it.
+
+382
+00:24:26,909 --> 00:24:28,342
+Shut up, Mac.
+
+383
+00:24:28,978 --> 00:24:32,607
+ls there a plan? Steve going out fast,
+burning Kardong early?
+
+384
+00:24:32,815 --> 00:24:35,841
+Steve's going out in 69, no faster.
+
+385
+00:24:36,051 --> 00:24:38,451
+Runners, gather in here
+for instructions.
+
+386
+00:24:43,258 --> 00:24:44,885
+Stand behind the line.
+
+387
+00:24:45,828 --> 00:24:48,058
+l'll say, "Runners to your marks"
+and "Set."
+
+388
+00:24:48,764 --> 00:24:50,459
+Then l'll shoot the gun.
+
+389
+00:24:50,666 --> 00:24:52,258
+Good luck to you all.
+
+390
+00:25:01,844 --> 00:25:03,903
+<i>The 3-mile is underway.</i>
+
+391
+00:25:16,291 --> 00:25:19,089
+<i>High jump bar's been raised to 6'7".</i>
+
+392
+00:25:19,294 --> 00:25:20,261
+<i>Next up...</i>
+
+393
+00:25:20,462 --> 00:25:22,589
+<i>... Kip Leonard of Stanford.</i>
+
+394
+00:25:34,943 --> 00:25:37,571
+<i>Prefontaine moves to the</i>
+<i>early lead in the 3-mile.</i>
+
+395
+00:25:38,047 --> 00:25:39,742
+Look at that.
+
+396
+00:25:40,649 --> 00:25:43,117
+That freshman's Steve Prefontaine.
+
+397
+00:25:44,653 --> 00:25:47,144
+<i>First call for the mile relay.</i>
+<i>First call.</i>
+
+398
+00:25:47,356 --> 00:25:48,823
+- Go, Ducks!
+- Go, Steve!
+
+399
+00:25:49,224 --> 00:25:50,316
+Come on, Ducks!
+
+400
+00:25:50,526 --> 00:25:52,426
+You're not running the relay?
+
+401
+00:25:52,628 --> 00:25:54,596
+No, we're way up on them.
+
+402
+00:25:57,399 --> 00:25:59,367
+Where's everybody else?
+
+403
+00:26:01,570 --> 00:26:02,969
+Holy shit!
+
+404
+00:26:08,343 --> 00:26:09,503
+This is not a 69.
+
+405
+00:26:11,080 --> 00:26:12,672
+<i>Prefontaine's first lap:</i>
+
+406
+00:26:12,881 --> 00:26:14,212
+<i>64 seconds.</i>
+
+407
+00:26:15,918 --> 00:26:17,613
+Let's go check this out.
+
+408
+00:26:17,820 --> 00:26:19,344
+<i>That's world-record pace.</i>
+
+409
+00:26:25,027 --> 00:26:28,224
+Oregon's Bob Wobell
+is on the long jump runway.
+
+410
+00:26:29,098 --> 00:26:30,565
+Runway!
+
+411
+00:26:31,033 --> 00:26:32,898
+Jesus! l'm trying to jump!
+
+412
+00:26:34,837 --> 00:26:38,898
+ln the 3-mile, it's Prefontaine leading,
+with Don Kardong second.
+
+413
+00:26:43,278 --> 00:26:44,302
+4: 18!
+
+414
+00:26:44,613 --> 00:26:45,545
+4: 18!
+
+415
+00:26:45,747 --> 00:26:48,181
+<i>Steve Prefontaine's time at the mile:</i>
+
+416
+00:26:48,383 --> 00:26:49,782
+<i>4:18.</i>
+
+417
+00:26:49,985 --> 00:26:52,476
+<i>Two more and he'll be close...</i>
+
+418
+00:26:52,688 --> 00:26:54,417
+<i>... to the American 3-mile record.</i>
+
+419
+00:26:54,623 --> 00:26:57,285
+Two more like that
+and he'll be in the hospital.
+
+420
+00:27:06,535 --> 00:27:07,934
+8:45, Steve!
+
+421
+00:27:08,237 --> 00:27:09,534
+8:45!
+
+422
+00:27:15,077 --> 00:27:17,739
+8:45. He's never been here before.
+
+423
+00:27:17,980 --> 00:27:20,540
+Not with another mile to go, no.
+
+424
+00:27:20,749 --> 00:27:23,149
+<i>Now at the discus ring,</i>
+<i>leader Mac Wilkins.</i>
+
+425
+00:27:38,600 --> 00:27:40,898
+Are they saying the rube's name?
+
+426
+00:27:41,103 --> 00:27:42,593
+Could be.
+
+427
+00:27:43,172 --> 00:27:46,335
+<i>Mac Wilkins' last throw: 197.6.</i>
+
+428
+00:27:46,675 --> 00:27:49,075
+<i>A collegiate best this year.</i>
+
+429
+00:27:49,278 --> 00:27:52,805
+The crowd shouldn't be encouraging
+the little showboater.
+
+430
+00:27:53,015 --> 00:27:56,143
+We could always try
+telling them to stop!
+
+431
+00:28:40,996 --> 00:28:44,056
+<i>Prefontaine timed at 13:12:8.</i>
+
+432
+00:28:44,333 --> 00:28:47,029
+<i>That's the fastest 3-mile</i>
+<i>in the world this year.</i>
+
+433
+00:28:47,236 --> 00:28:48,999
+You all right, Bill?
+
+434
+00:28:50,138 --> 00:28:52,265
+What are you trying to tell me?
+
+435
+00:28:52,474 --> 00:28:55,841
+Take your victory lap before
+they tear the stadium down!
+
+436
+00:28:56,044 --> 00:28:57,375
+Go on!
+
+437
+00:29:47,562 --> 00:29:49,223
+Little rube's a performer.
+
+438
+00:29:49,564 --> 00:29:51,088
+Little rube's a star.
+
+439
+00:29:51,466 --> 00:29:53,229
+So much for coaching.
+
+440
+00:29:54,136 --> 00:29:56,730
+For Saturday's goal-setting session...
+
+441
+00:29:56,938 --> 00:29:58,428
+...make Pre my last appointment.
+
+442
+00:30:13,755 --> 00:30:14,585
+Come in.
+
+443
+00:30:20,495 --> 00:30:22,019
+l'm sorry. l'm...
+
+444
+00:30:23,632 --> 00:30:24,462
+...lost.
+
+445
+00:30:26,335 --> 00:30:29,031
+At least you found your way
+to McArthur Court.
+
+446
+00:30:30,105 --> 00:30:31,538
+You remember that?
+
+447
+00:30:36,178 --> 00:30:37,202
+l'm Steve...
+
+448
+00:30:37,412 --> 00:30:38,879
+Steve Prefontaine.
+
+449
+00:30:39,081 --> 00:30:41,481
+Mary Marckx. Nice to meet you.
+
+450
+00:30:42,451 --> 00:30:44,646
+l have been looking for you for months.
+
+451
+00:30:44,853 --> 00:30:46,286
+You have?
+
+452
+00:30:46,521 --> 00:30:50,048
+What are you doing here today?
+You're obviously in the wrong room.
+
+453
+00:30:50,292 --> 00:30:52,590
+There was an assignment that...
+
+454
+00:30:57,699 --> 00:30:58,631
+l'll do it later.
+
+455
+00:30:58,834 --> 00:31:00,802
+Want to grab a cup of coffee?
+
+456
+00:31:01,002 --> 00:31:02,594
+- Wait a minute.
+- What?
+
+457
+00:31:02,804 --> 00:31:04,169
+l don't even know you.
+
+458
+00:31:04,539 --> 00:31:05,733
+You just said you did.
+
+459
+00:31:05,941 --> 00:31:07,568
+l know l just did...
+
+460
+00:31:07,776 --> 00:31:08,743
+...but l'm...
+
+461
+00:31:09,911 --> 00:31:11,105
+l'm not even dressed.
+
+462
+00:31:12,714 --> 00:31:13,806
+Sure you are.
+
+463
+00:31:14,015 --> 00:31:15,448
+Come on. Come on.
+
+464
+00:31:15,650 --> 00:31:17,311
+Why are you in such a hurry?
+
+465
+00:31:17,519 --> 00:31:19,282
+l just love coffee.
+
+466
+00:31:19,488 --> 00:31:21,513
+l don't even have shoes on.
+
+467
+00:31:36,405 --> 00:31:37,997
+How does this one feel?
+
+468
+00:31:38,240 --> 00:31:39,332
+Fine. Good.
+
+469
+00:31:39,541 --> 00:31:43,102
+- Don't say it if it doesn't fit.
+- lt fits, it fits.
+
+470
+00:31:46,081 --> 00:31:48,641
+Would you mind getting off your knees?
+
+471
+00:32:02,197 --> 00:32:03,289
+Better?
+
+472
+00:32:04,599 --> 00:32:05,793
+A little.
+
+473
+00:32:06,034 --> 00:32:09,834
+l can't allow you to buy me these shoes.
+l don't even know you.
+
+474
+00:32:10,038 --> 00:32:11,505
+But l get them for free.
+
+475
+00:32:11,706 --> 00:32:13,037
+That's not my point.
+
+476
+00:32:14,843 --> 00:32:17,368
+So what were you doing
+at the dorm, anyway?
+
+477
+00:32:19,881 --> 00:32:21,212
+Go on.
+
+478
+00:32:23,051 --> 00:32:25,645
+l told you. l had to pick up
+an assignment before...
+
+479
+00:32:29,891 --> 00:32:32,257
+l think l'm crazy about you, Mary.
+
+480
+00:32:32,961 --> 00:32:34,258
+Why?
+
+481
+00:32:35,630 --> 00:32:37,860
+Why is anybody crazy about anybody?
+
+482
+00:32:38,066 --> 00:32:40,432
+l asked why you're crazy about me.
+
+483
+00:32:42,471 --> 00:32:45,235
+There's just something
+about you that l recognize.
+
+484
+00:32:46,308 --> 00:32:49,436
+Like "Haven't we met somewhere before?"
+
+485
+00:32:50,479 --> 00:32:53,880
+That we haven't met before,
+but l feel we have.
+
+486
+00:32:55,250 --> 00:32:58,083
+Like you're a stranger,
+but you're familiar.
+
+487
+00:33:05,260 --> 00:33:07,626
+Hey, Steve, great race.
+Looking good.
+
+488
+00:33:07,829 --> 00:33:09,023
+Thanks.
+
+489
+00:33:17,672 --> 00:33:19,003
+What do you think about me?
+
+490
+00:33:24,579 --> 00:33:27,013
+l don't really think you're my type.
+
+491
+00:33:51,172 --> 00:33:52,503
+Pre.
+
+492
+00:33:53,375 --> 00:33:54,364
+There you are.
+
+493
+00:33:55,043 --> 00:33:56,806
+Why didn't you speak up?
+
+494
+00:33:57,045 --> 00:33:58,979
+l didn't want to disturb you.
+
+495
+00:34:00,382 --> 00:34:02,782
+l thought you liked disturbing me.
+
+496
+00:34:02,984 --> 00:34:04,975
+You do it so well.
+
+497
+00:34:06,321 --> 00:34:07,788
+Sit down.
+
+498
+00:34:11,993 --> 00:34:13,483
+Sit down, Pre.
+
+499
+00:34:33,682 --> 00:34:35,274
+You know, Pre...
+
+500
+00:34:36,251 --> 00:34:37,878
+...it's spring...
+
+501
+00:34:38,920 --> 00:34:42,151
+...and l sense this is your week
+to chase the ladies.
+
+502
+00:34:43,391 --> 00:34:45,086
+Do you object to that?
+
+503
+00:34:45,293 --> 00:34:46,988
+No. lf you catch them quick.
+
+504
+00:34:47,195 --> 00:34:49,425
+Chasing them wears the body out.
+
+505
+00:34:50,031 --> 00:34:52,591
+13: 12 for the 3 mile.
+
+506
+00:34:52,801 --> 00:34:54,325
+You satisfied?
+
+507
+00:34:55,370 --> 00:34:58,498
+l'm satisfied l did the best
+l could on Saturday.
+
+508
+00:34:58,707 --> 00:35:01,437
+l think you could've gone
+6 seconds better.
+
+509
+00:35:01,710 --> 00:35:03,200
+The first quarter cost you.
+
+510
+00:35:05,113 --> 00:35:06,205
+How do you figure?
+
+511
+00:35:06,948 --> 00:35:09,075
+4: 18 was too quick for the first mile.
+
+512
+00:35:09,284 --> 00:35:11,775
+So you dropped to 4:27 s
+for the last two.
+
+513
+00:35:11,987 --> 00:35:15,320
+lf you'd gone out slower,
+say a 4:24...
+
+514
+00:35:15,523 --> 00:35:18,754
+...you could've repeated the 4:24
+and come home in 4: 18.
+
+515
+00:35:18,960 --> 00:35:21,326
+Made your last lap your fastest.
+
+516
+00:35:21,730 --> 00:35:25,860
+That would've added up to 13:06,
+compared with the 13: 12 you ran.
+
+517
+00:35:26,067 --> 00:35:29,002
+Your need to take the lead
+from the start...
+
+518
+00:35:29,204 --> 00:35:31,570
+...cost you a good 6 seconds.
+
+519
+00:35:43,652 --> 00:35:46,212
+The Olympics are in 2 years.
+
+520
+00:35:46,421 --> 00:35:48,286
+Blink of an eyelash.
+
+521
+00:35:48,590 --> 00:35:52,822
+You'll face the best middle-distance
+runners in any games l can recall.
+
+522
+00:35:53,261 --> 00:35:55,923
+- lan Stewart...
+- Kip Kano, Gammoudi...
+
+523
+00:35:56,598 --> 00:35:58,088
+They all have strong kicks.
+
+524
+00:35:58,299 --> 00:36:01,462
+Any of them would've had you
+dead to rights on Saturday.
+
+525
+00:36:01,770 --> 00:36:05,103
+Maybe on Saturday,
+but not two years from now.
+
+526
+00:36:06,508 --> 00:36:09,602
+Can l ask you a question,
+off the record?
+
+527
+00:36:09,844 --> 00:36:11,903
+Were we on the record?
+
+528
+00:36:12,781 --> 00:36:16,148
+- Where does this compulsion come from?
+- What compulsion?
+
+529
+00:36:16,351 --> 00:36:17,579
+Front-running.
+
+530
+00:36:17,786 --> 00:36:18,946
+Look, Bill...
+
+531
+00:36:19,454 --> 00:36:22,981
+...running any other way
+is just plain chicken shit.
+
+532
+00:36:23,191 --> 00:36:24,385
+Chicken shit?
+
+533
+00:36:24,592 --> 00:36:27,755
+What else do you call
+laying back for 21/2 miles...
+
+534
+00:36:27,962 --> 00:36:30,453
+...then stealing a race
+in the last 200 yards?
+
+535
+00:36:30,665 --> 00:36:32,189
+Winning!
+
+536
+00:36:33,034 --> 00:36:34,433
+l don't want to do that.
+
+537
+00:36:34,636 --> 00:36:35,967
+You don't want to win?
+
+538
+00:36:36,171 --> 00:36:40,005
+Not unless l've done my best.
+The only way l know to do that...
+
+539
+00:36:40,208 --> 00:36:43,666
+...is to run out front and flat out
+till l have nothing left!
+
+540
+00:36:43,878 --> 00:36:47,177
+Winning any other way is chicken shit!
+
+541
+00:36:58,893 --> 00:37:01,885
+What do you think a track coach does?
+
+542
+00:37:04,332 --> 00:37:06,300
+He teaches you how to run.
+
+543
+00:37:06,501 --> 00:37:08,492
+Run what? A factory?
+A bowling alley?
+
+544
+00:37:08,703 --> 00:37:11,001
+- A race.
+- ln order to...?
+
+545
+00:37:12,340 --> 00:37:13,773
+Win it.
+
+546
+00:37:16,678 --> 00:37:19,340
+That's pretty much what l thought too.
+
+547
+00:37:22,684 --> 00:37:24,948
+l don't understand you.
+
+548
+00:37:29,190 --> 00:37:32,648
+lf it's any help,
+l don't understand you either.
+
+549
+00:37:38,199 --> 00:37:40,190
+<i>Testing, testing, testing.</i>
+
+550
+00:37:43,104 --> 00:37:45,629
+<i>Drake University and Des Moines</i>
+<i>welcome you...</i>
+
+551
+00:37:45,840 --> 00:37:48,070
+<i>... to the Track and Field Championships.</i>
+
+552
+00:37:48,276 --> 00:37:51,871
+<i>A record 741 athletes from 110</i>
+<i>universities have qualified...</i>
+
+553
+00:37:52,080 --> 00:37:53,445
+What will you throw tomorrow?
+
+554
+00:37:54,449 --> 00:37:56,349
+The farther the better, right?
+
+555
+00:38:07,629 --> 00:38:09,062
+Gentlemen!
+
+556
+00:38:09,264 --> 00:38:10,993
+To the gym!
+
+557
+00:38:16,571 --> 00:38:18,402
+Not much of a workout.
+
+558
+00:38:18,606 --> 00:38:21,166
+Hay's in the barn.
+Any work you do today...
+
+559
+00:38:21,376 --> 00:38:23,310
+...takes away from the race tomorrow.
+
+560
+00:38:27,448 --> 00:38:30,576
+Gentlemen, the race for
+team title's going to be tight.
+
+561
+00:38:30,785 --> 00:38:35,552
+The team that scratches and claws
+for every unexpected point will win.
+
+562
+00:38:35,757 --> 00:38:38,089
+So we're going to enter the 440 relay.
+
+563
+00:38:41,763 --> 00:38:42,855
+Something wrong?
+
+564
+00:38:51,773 --> 00:38:53,536
+l just felt a little dizzy.
+
+565
+00:38:53,942 --> 00:38:57,969
+l keep telling you this heat can
+fool you. You must stay hydrated.
+
+566
+00:38:58,179 --> 00:38:59,441
+Go get a drink.
+
+567
+00:38:59,647 --> 00:39:01,410
+Sure thing.
+
+568
+00:39:04,519 --> 00:39:06,009
+Anybody else need a drink?
+
+569
+00:39:22,203 --> 00:39:24,501
+That is some rug burn, cutie.
+
+570
+00:39:24,706 --> 00:39:26,697
+You got them on both knees?
+
+571
+00:39:27,976 --> 00:39:31,002
+- l guess so.
+- We've got to protect those babies.
+
+572
+00:39:32,814 --> 00:39:35,305
+We could try using the bed.
+
+573
+00:39:38,219 --> 00:39:40,414
+l got a better idea.
+
+574
+00:39:51,165 --> 00:39:52,325
+Get over here.
+
+575
+00:39:52,533 --> 00:39:54,433
+Show me what you got.
+
+576
+00:39:57,372 --> 00:40:00,637
+"For he that walketh in darkness..."
+
+577
+00:40:09,651 --> 00:40:13,610
+"For he that walketh in darkness
+knoweth not whither he goeth.
+
+578
+00:40:15,957 --> 00:40:18,084
+We have the light."
+
+579
+00:40:31,139 --> 00:40:32,731
+- Who's that?
+- Shut the door.
+
+580
+00:40:32,941 --> 00:40:34,067
+Excuse me.
+
+581
+00:40:36,811 --> 00:40:38,574
+- Really sorry!
+- Shut the door!
+
+582
+00:40:43,051 --> 00:40:44,643
+lt's okay, sweetie.
+
+583
+00:40:44,852 --> 00:40:47,980
+You're just better on
+your knees than on your hands.
+
+584
+00:40:51,125 --> 00:40:53,025
+Bowerman's going to kill me.
+
+585
+00:40:53,227 --> 00:40:54,216
+Who?
+
+586
+00:40:56,130 --> 00:40:57,461
+How did this happen?
+
+587
+00:40:57,665 --> 00:40:59,326
+l got up to go to the john...
+
+588
+00:40:59,534 --> 00:41:01,968
+...tripped on the couch
+and hit that heater.
+
+589
+00:41:02,170 --> 00:41:03,432
+How many stitches?
+
+590
+00:41:03,671 --> 00:41:05,104
+Just six.
+
+591
+00:41:05,606 --> 00:41:07,733
+Twelve.
+Where were you, Bob?
+
+592
+00:41:08,876 --> 00:41:10,673
+l was at the...
+
+593
+00:41:10,878 --> 00:41:13,938
+Bob went to take a walk.
+Right?
+
+594
+00:41:15,483 --> 00:41:16,609
+l was at the...
+
+595
+00:41:19,988 --> 00:41:22,821
+Any word on how many
+entries are in the 3-mile?
+
+596
+00:41:23,091 --> 00:41:24,319
+16. So what?
+
+597
+00:41:24,692 --> 00:41:26,182
+So there's no heats.
+
+598
+00:41:26,394 --> 00:41:29,659
+l don't have to run until
+the final, 3 days away.
+
+599
+00:41:30,698 --> 00:41:32,495
+You're not serious.
+
+600
+00:41:32,934 --> 00:41:34,094
+Since when?
+
+601
+00:41:34,335 --> 00:41:35,495
+Run?
+
+602
+00:41:35,703 --> 00:41:36,897
+You can't even walk.
+
+603
+00:41:37,105 --> 00:41:39,471
+What kind of painkillers
+they give you?
+
+604
+00:41:39,674 --> 00:41:41,665
+Gentlemen, clear out of here.
+
+605
+00:41:42,710 --> 00:41:44,041
+You too, Bob.
+
+606
+00:41:47,248 --> 00:41:49,409
+Kiss the Nationals goodbye.
+
+607
+00:41:50,151 --> 00:41:53,143
+There goes the team title
+right down the toilet.
+
+608
+00:41:53,354 --> 00:41:54,321
+Shut the door!
+
+609
+00:41:54,522 --> 00:41:56,717
+Why don't you run the 3-mile, Russ?
+
+610
+00:41:59,761 --> 00:42:01,285
+We need my 10 points...
+
+611
+00:42:01,562 --> 00:42:03,393
+...to win the Nationals.
+
+612
+00:42:10,438 --> 00:42:13,498
+3 miles of pounding
+on a hard asphalt track...
+
+613
+00:42:13,708 --> 00:42:15,369
+...can tear your foot in two.
+
+614
+00:42:16,277 --> 00:42:17,539
+lt won't.
+
+615
+00:42:19,747 --> 00:42:21,476
+You're in my care.
+
+616
+00:42:22,050 --> 00:42:25,076
+You don't know what it'll do
+to my foot if l do run...
+
+617
+00:42:25,286 --> 00:42:27,618
+...but you know what it'll do to me...
+
+618
+00:42:27,855 --> 00:42:29,379
+...if l don't.
+
+619
+00:42:33,494 --> 00:42:35,860
+You've got to let me try, Bill.
+
+620
+00:43:26,447 --> 00:43:31,146
+<i>Steve Prefontaine has clinched</i>
+<i>the 1970 NCAA Championship...</i>
+
+621
+00:43:31,352 --> 00:43:33,183
+<i>... for Bowerman's Oregon Ducks.</i>
+
+622
+00:43:37,125 --> 00:43:39,059
+l did what l said l'd do.
+
+623
+00:43:39,927 --> 00:43:41,986
+At least l made you work for it.
+
+624
+00:43:43,531 --> 00:43:44,862
+Jesus Christ!
+
+625
+00:43:45,633 --> 00:43:46,964
+You ran like that?
+
+626
+00:43:49,871 --> 00:43:51,270
+Steve, you are crazy.
+
+627
+00:43:55,209 --> 00:43:58,235
+You don't need to look.
+Your time was a meet record.
+
+628
+00:43:58,579 --> 00:44:00,137
+Get a stretcher.
+
+629
+00:44:09,657 --> 00:44:11,488
+<i>That's 17 straight races...</i>
+
+630
+00:44:11,692 --> 00:44:13,853
+<i>... that Steve Prefontaine has won.</i>
+
+631
+00:44:20,234 --> 00:44:23,465
+We got tickets to Three Dog Night
+next week. Want to come?
+
+632
+00:44:23,671 --> 00:44:26,606
+l'm going to Finland for a week.
+Sorry.
+
+633
+00:44:27,108 --> 00:44:29,099
+l'll call you when l get back.
+
+634
+00:44:33,814 --> 00:44:36,282
+Still in the shoe business, l see.
+
+635
+00:44:36,784 --> 00:44:39,480
+l'm willing to give it up
+whenever you say.
+
+636
+00:44:39,820 --> 00:44:42,186
+l told you, Steve, you're not my type.
+
+637
+00:44:44,458 --> 00:44:47,359
+Type? Type!
+What is it with the girl?!
+
+638
+00:44:49,630 --> 00:44:50,597
+Heads up!
+
+639
+00:44:50,798 --> 00:44:54,199
+Fellas, watch it!
+Don't make me come back for you.
+
+640
+00:45:01,776 --> 00:45:02,765
+Why not?
+
+641
+00:45:03,744 --> 00:45:05,075
+Why not?
+
+642
+00:45:05,279 --> 00:45:06,974
+l'll tell you why not.
+
+643
+00:45:07,281 --> 00:45:09,943
+You left my roommate
+hung out to dry, for one.
+
+644
+00:45:10,151 --> 00:45:12,483
+You never told me
+your date was with her.
+
+645
+00:45:15,223 --> 00:45:17,623
+lt wasn't a nice
+thing to do and l'm sorry.
+
+646
+00:45:17,825 --> 00:45:19,816
+Apologize to her, not to me.
+
+647
+00:45:20,061 --> 00:45:22,222
+l will.
+Then will you go out with me?
+
+648
+00:45:22,597 --> 00:45:24,690
+Are you looking for rejection?
+
+649
+00:45:30,338 --> 00:45:32,238
+How'd you get here so quick?
+
+650
+00:45:32,440 --> 00:45:34,806
+lmpressive, huh?
+l took a shortcut.
+
+651
+00:45:35,009 --> 00:45:36,567
+l do workouts...
+
+652
+00:45:37,878 --> 00:45:38,742
+...through here.
+
+653
+00:45:39,780 --> 00:45:42,840
+l know everything there is
+to know about this place.
+
+654
+00:45:43,317 --> 00:45:45,751
+You're sitting
+on a Civil War monument.
+
+655
+00:45:45,953 --> 00:45:47,147
+Yeah, right!
+
+656
+00:45:47,388 --> 00:45:48,719
+Take a look.
+
+657
+00:45:57,431 --> 00:45:59,365
+You really do work out here.
+
+658
+00:45:59,867 --> 00:46:01,198
+Of course.
+
+659
+00:46:02,503 --> 00:46:03,936
+l wouldn't lie to you.
+
+660
+00:46:08,643 --> 00:46:09,803
+lt's okay.
+
+661
+00:46:10,044 --> 00:46:11,102
+Just looking.
+
+662
+00:46:17,585 --> 00:46:18,916
+That's pretty.
+
+663
+00:46:19,487 --> 00:46:20,647
+Thank you.
+
+664
+00:46:25,960 --> 00:46:27,621
+You want to walk, don't you?
+
+665
+00:46:30,197 --> 00:46:31,357
+Sure.
+
+666
+00:46:37,138 --> 00:46:38,696
+Are you Catholic?
+
+667
+00:46:40,841 --> 00:46:42,399
+Lots of people are.
+
+668
+00:46:42,610 --> 00:46:44,737
+People say so,
+but l bet you really are.
+
+669
+00:46:45,579 --> 00:46:47,911
+l'm not sure l understand
+what you mean.
+
+670
+00:46:48,115 --> 00:46:49,912
+Am l being flattered or insulted?
+
+671
+00:46:50,117 --> 00:46:53,018
+No, it's the hardest thing
+in the world...
+
+672
+00:46:53,220 --> 00:46:54,778
+...to believe in something.
+
+673
+00:46:55,222 --> 00:46:57,190
+lf you do, it's a miracle.
+
+674
+00:47:22,016 --> 00:47:23,381
+"Modern Behavior."
+
+675
+00:47:23,584 --> 00:47:25,677
+We can drop those by the dorm.
+
+676
+00:47:26,354 --> 00:47:30,347
+Someone's always trying to
+talk you out of what you believe in.
+
+677
+00:47:34,562 --> 00:47:36,325
+Anybody. Everybody.
+
+678
+00:47:39,400 --> 00:47:41,027
+Your own mother.
+
+679
+00:47:41,936 --> 00:47:43,995
+Why is that, do you think?
+
+680
+00:47:51,879 --> 00:47:53,210
+All l know...
+
+681
+00:47:54,682 --> 00:47:59,517
+...is that if you do believe in
+something, you make people nervous.
+
+682
+00:48:06,427 --> 00:48:07,792
+Do you believe in God?
+
+683
+00:48:07,995 --> 00:48:09,724
+l believe in myself.
+
+684
+00:48:35,923 --> 00:48:38,289
+l mean it.
+You're not my type.
+
+685
+00:49:03,484 --> 00:49:06,009
+<i>This ends the KBAL broadcast day.</i>
+
+686
+00:49:06,320 --> 00:49:09,050
+<i>This is KBAL, Eugene, Oregon.</i>
+
+687
+00:49:16,464 --> 00:49:17,658
+What's wrong?
+
+688
+00:49:21,902 --> 00:49:23,426
+Can you say something?
+
+689
+00:49:23,871 --> 00:49:25,031
+Please.
+
+690
+00:49:25,706 --> 00:49:26,866
+Anything?
+
+691
+00:49:35,316 --> 00:49:36,874
+Can you talk now?
+
+692
+00:49:37,718 --> 00:49:39,982
+Can l get you something?
+Water? Coffee?
+
+693
+00:49:40,187 --> 00:49:41,176
+No.
+
+694
+00:49:44,091 --> 00:49:47,618
+l can tell you l certainly
+didn't mean to upset you like this.
+
+695
+00:49:47,895 --> 00:49:50,022
+- lt's okay.
+- No, it's not.
+
+696
+00:49:50,231 --> 00:49:53,029
+Yes, it is.
+lt wasn't you, it's me.
+
+697
+00:49:53,667 --> 00:49:54,725
+What do you mean?
+
+698
+00:49:56,337 --> 00:49:59,795
+You made me feel too much,
+and l can't handle it.
+
+699
+00:50:03,177 --> 00:50:05,407
+Please, please, please...
+
+700
+00:50:16,891 --> 00:50:18,256
+Are you okay?
+
+701
+00:50:18,659 --> 00:50:20,092
+How do you mean?
+
+702
+00:50:23,330 --> 00:50:26,731
+Guys get sick from stopping
+like that, don't they?
+
+703
+00:50:31,639 --> 00:50:32,833
+They do.
+
+704
+00:50:33,541 --> 00:50:34,769
+They can.
+
+705
+00:50:39,413 --> 00:50:42,348
+l don't think we should
+see each other again.
+
+706
+00:50:44,418 --> 00:50:45,783
+l believe in waiting.
+
+707
+00:50:45,986 --> 00:50:49,547
+l'm not going to sleep with you,
+and l'm not going to change.
+
+708
+00:50:49,757 --> 00:50:53,625
+We'll just keep doing this
+to each other over and over.
+
+709
+00:50:56,030 --> 00:50:59,090
+l know it's stupid,
+and it isn't fair...
+
+710
+00:51:00,067 --> 00:51:01,898
+...for either one of us.
+
+711
+00:51:07,341 --> 00:51:11,471
+- You should go out with other girls.
+- l do that already.
+
+712
+00:51:12,313 --> 00:51:13,405
+So keep doing it.
+
+713
+00:51:15,349 --> 00:51:17,840
+l'd rather go out with you.
+
+714
+00:51:25,526 --> 00:51:27,289
+Anyway, we can do it.
+
+715
+00:51:27,728 --> 00:51:30,196
+No, l just don't think we should.
+
+716
+00:51:38,639 --> 00:51:40,368
+l'm going to Finland.
+
+717
+00:51:41,875 --> 00:51:43,570
+Will you see me when l get back?
+
+718
+00:51:46,347 --> 00:51:47,905
+When are you leaving?
+
+719
+00:51:48,215 --> 00:51:49,477
+Tomorrow...
+
+720
+00:51:49,683 --> 00:51:51,241
+...after the workout.
+
+721
+00:51:54,655 --> 00:51:57,783
+Think of it this way.
+Maybe l'll change.
+
+722
+00:51:58,092 --> 00:52:00,617
+Are you always so positive
+about everything?
+
+723
+00:52:02,029 --> 00:52:03,621
+Consider the alternative.
+
+724
+00:52:03,831 --> 00:52:05,128
+l do.
+
+725
+00:52:06,433 --> 00:52:09,664
+ln other words, you
+plan on being disappointed.
+
+726
+00:52:15,709 --> 00:52:17,904
+l'm not going to disappoint you.
+
+727
+00:52:34,495 --> 00:52:35,655
+Come on.
+
+728
+00:52:36,130 --> 00:52:38,394
+l'll get you back to your dorm.
+
+729
+00:52:51,211 --> 00:52:55,079
+<i>Dear Mary: Every blond</i>
+<i>in Finland reminds me of you.</i>
+
+730
+00:52:55,282 --> 00:52:57,910
+<i>So I pretty much</i>
+<i>think of you constantly.</i>
+
+731
+00:52:58,318 --> 00:53:01,412
+<i>Except when I'm</i>
+<i>pissed off about this tour.</i>
+
+732
+00:53:01,822 --> 00:53:03,790
+<i>It's run by the AAU...</i>
+
+733
+00:53:03,991 --> 00:53:07,654
+<i>... the Amateur Athletic Union,</i>
+<i>our national governing body.</i>
+
+734
+00:53:07,861 --> 00:53:10,591
+<i>Its head, Colin Ponder,</i>
+<i>keeps us amateur...</i>
+
+735
+00:53:10,798 --> 00:53:13,926
+<i>... and uncomfortable,</i>
+<i>while he hits on stewardesses...</i>
+
+736
+00:53:14,134 --> 00:53:16,762
+<i>... and goes first-class all the way.</i>
+
+737
+00:53:17,304 --> 00:53:20,671
+<i>Any American caught accepting</i>
+<i>more than a redeye ticket...</i>
+
+738
+00:53:20,874 --> 00:53:24,674
+<i>... a bad hotel and $3 a day,</i>
+<i>and Colin will sanction us.</i>
+
+739
+00:53:24,878 --> 00:53:27,005
+<i>He'll call us professionals...</i>
+
+740
+00:53:27,214 --> 00:53:29,705
+<i>... and kill our Olympic eligibility.</i>
+
+741
+00:53:29,917 --> 00:53:34,616
+<i>Amateurism is the most hypocriticaK/i>
+<i>crock of horseshit in American sports.</i>
+
+742
+00:53:35,489 --> 00:53:38,014
+<i>We're much worse about it</i>
+<i>than other countries.</i>
+
+743
+00:53:38,225 --> 00:53:42,161
+<i>And nobody in America is</i>
+<i>worse about it than Colin Ponder.</i>
+
+744
+00:53:42,362 --> 00:53:46,298
+<i>Our new legal eagle, Frank Shorter,</i>
+<i>showed Kenny and me...</i>
+
+745
+00:53:46,500 --> 00:53:49,958
+<i>... a directive where Colin</i>
+<i>ordered us to switch meets...</i>
+
+746
+00:53:50,170 --> 00:53:52,638
+<i>... when the reason for this trip was...</i>
+
+747
+00:53:52,840 --> 00:53:55,240
+<i>... to beat the Finns with</i>
+<i>the best times.</i>
+
+748
+00:53:55,442 --> 00:53:58,570
+We signed on to race
+Viren and Vaatinen in Oulu...
+
+749
+00:53:58,779 --> 00:54:01,213
+...not a bunch of pussies
+in Helsinki.
+
+750
+00:54:23,103 --> 00:54:24,434
+There's the asshole.
+
+751
+00:54:24,638 --> 00:54:25,730
+What asshole is that?
+
+752
+00:54:26,273 --> 00:54:29,709
+Colin Ponder, the one who
+ordered us not to run this race.
+
+753
+00:54:29,910 --> 00:54:32,777
+- He say anything about us being here?
+- Not a word.
+
+754
+00:54:40,087 --> 00:54:41,486
+You have no Finnish?
+
+755
+00:54:42,923 --> 00:54:44,413
+Speak Finnish?
+
+756
+00:54:51,131 --> 00:54:53,361
+"Shorter, Moore and Prefontaine...
+
+757
+00:54:53,567 --> 00:54:56,001
+...are required to run in Helsinki."
+
+758
+00:55:01,408 --> 00:55:04,434
+We're going to run here,
+today, in Oulu...
+
+759
+00:55:04,645 --> 00:55:06,738
+...against Vaatinen and Viren.
+
+760
+00:55:07,181 --> 00:55:08,671
+No, no, Helsinki.
+
+761
+00:55:08,882 --> 00:55:09,780
+Oulu.
+
+762
+00:55:10,050 --> 00:55:11,415
+Helsinki.
+
+763
+00:55:16,824 --> 00:55:20,021
+They're about to start our race,
+so listen to me!
+
+764
+00:55:20,227 --> 00:55:24,994
+We came all the way from Eugene, Oregon
+to run against those two guys.
+
+765
+00:55:25,199 --> 00:55:28,168
+Not a bunch of pussies in Helsinki!
+
+766
+00:55:41,715 --> 00:55:42,545
+Ponder what?
+
+767
+00:55:42,749 --> 00:55:44,842
+Sanctioned us and contaminated them.
+
+768
+00:55:45,052 --> 00:55:48,852
+Anyone who runs against us
+loses international eligibility.
+
+769
+00:55:52,259 --> 00:55:54,420
+- Wonderful.
+- You're not God!
+
+770
+00:55:55,295 --> 00:55:56,159
+He's crazy.
+
+771
+00:55:57,030 --> 00:55:59,430
+This is not even your country!
+
+772
+00:56:00,133 --> 00:56:03,762
+- You don't pay taxes here!
+- What are you talking about?
+
+773
+00:56:03,971 --> 00:56:05,962
+You make me ashamed to be American!
+
+774
+00:56:06,173 --> 00:56:07,800
+You don't have the right to...
+
+775
+00:56:08,008 --> 00:56:10,568
+...run their races
+and run our lives!
+
+776
+00:56:12,512 --> 00:56:13,501
+You're not God...
+
+777
+00:56:13,714 --> 00:56:15,705
+...you overbearing asshole!
+
+778
+00:56:16,717 --> 00:56:17,843
+Get off me!
+
+779
+00:56:18,051 --> 00:56:19,416
+Pre, calm down!
+
+780
+00:56:31,598 --> 00:56:33,964
+What the hell are you trying to do?
+
+781
+00:56:35,369 --> 00:56:36,563
+Sweat.
+
+782
+00:56:38,538 --> 00:56:41,473
+lt wasn't hot enough
+for him in Finland.
+
+783
+00:56:42,843 --> 00:56:44,970
+World's latest press conference.
+
+784
+00:56:45,212 --> 00:56:48,204
+World here says he's
+ashamed of being American.
+
+785
+00:56:48,649 --> 00:56:51,140
+You believe
+everything you read there?
+
+786
+00:56:53,854 --> 00:56:54,878
+What did you say?
+
+787
+00:56:55,088 --> 00:56:58,546
+l said that the AAU
+should've been shitcanned in 1920.
+
+788
+00:56:58,892 --> 00:57:01,383
+And we don't need them.
+They need us.
+
+789
+00:57:01,595 --> 00:57:03,324
+They don't need us.
+They got us.
+
+790
+00:57:03,530 --> 00:57:05,725
+The AAU's our governing body.
+
+791
+00:57:05,933 --> 00:57:08,595
+Organize against them,
+and goodbye Olympics.
+
+792
+00:57:08,802 --> 00:57:12,033
+Shorter found out why
+they shifted us to Helsinki.
+
+793
+00:57:12,306 --> 00:57:15,298
+Colin Ponder
+extracted a little fee...
+
+794
+00:57:15,509 --> 00:57:19,343
+...from the Helsinki promoter
+to guarantee our appearance.
+
+795
+00:57:19,546 --> 00:57:20,410
+How much?
+
+796
+00:57:22,282 --> 00:57:23,249
+Tell them.
+
+797
+00:57:23,450 --> 00:57:26,044
+Between me, Pre and K enny, $ 10,000.
+
+798
+00:57:29,256 --> 00:57:31,281
+And they give us $3 a day...
+
+799
+00:57:31,525 --> 00:57:32,958
+...for everything!
+
+800
+00:57:33,593 --> 00:57:37,029
+But better competition
+means bigger gate receipts.
+
+801
+00:57:37,431 --> 00:57:41,060
+So we point out to foreign
+meet promoters that the AAU...
+
+802
+00:57:41,268 --> 00:57:44,237
+...is not only shitty
+for our competition...
+
+803
+00:57:44,438 --> 00:57:48,397
+...it's shitty for their box office.
+And money talks!
+
+804
+00:57:48,608 --> 00:57:52,066
+Louder than the AAU guys,
+and in any language.
+
+805
+00:57:53,046 --> 00:57:55,241
+Contentious little rube,
+isn't he?
+
+806
+00:58:00,988 --> 00:58:02,319
+You fuck!
+
+807
+00:58:03,957 --> 00:58:05,891
+l can't believe you'd sit there...
+
+808
+00:58:06,093 --> 00:58:09,392
+...not say anything and
+then be dismissive about this.
+
+809
+00:58:09,596 --> 00:58:13,259
+l've battled those freeloaders
+all your life and then some.
+
+810
+00:58:13,467 --> 00:58:14,900
+And guess what?
+
+811
+00:58:16,136 --> 00:58:19,105
+You and the AAU have a lot in common.
+
+812
+00:58:19,706 --> 00:58:22,197
+Bullshit! ln what way?!
+
+813
+00:58:22,409 --> 00:58:24,570
+Resistance to change.
+
+814
+00:58:25,445 --> 00:58:28,903
+They don't want to stop
+shitting on you any more than...
+
+815
+00:58:29,116 --> 00:58:32,574
+...you want to change
+the way you run. Because it hurts.
+
+816
+00:58:33,053 --> 00:58:34,987
+- Doesn't it?
+- l wouldn't know.
+
+817
+00:58:43,030 --> 00:58:44,691
+Doesn't it hurt to change?
+
+818
+00:59:05,786 --> 00:59:08,084
+<i>What are Viren's chances against me?</i>
+
+819
+00:59:09,289 --> 00:59:12,554
+Yes, my long-term goal
+is still the '72 Olympics.
+
+820
+00:59:13,293 --> 00:59:14,624
+What's your name?
+
+821
+00:59:15,629 --> 00:59:16,960
+l like your shirt.
+
+822
+00:59:17,864 --> 00:59:19,024
+Go, Pre!
+
+823
+00:59:19,966 --> 00:59:24,130
+<i>He's really finding out about</i>
+<i>his strengths and weaknesses now.</i>
+
+824
+00:59:24,337 --> 00:59:26,396
+<i>And he's run the rest into oblivion.</i>
+
+825
+00:59:39,619 --> 00:59:41,644
+You really believe
+you can do anything?
+
+826
+00:59:41,855 --> 00:59:43,015
+Absolutely.
+
+827
+00:59:43,256 --> 00:59:44,621
+Fly a plane?
+
+828
+00:59:44,825 --> 00:59:46,816
+Sure, if l wanted.
+
+829
+00:59:47,127 --> 00:59:49,823
+You read the manual,
+get the best teacher...
+
+830
+00:59:50,030 --> 00:59:51,463
+...and take off!
+
+831
+00:59:53,700 --> 00:59:57,602
+Not everything can be learned.
+Some things take talent.
+
+832
+01:00:00,941 --> 01:00:02,602
+Let me tell you something.
+
+833
+01:00:03,477 --> 01:00:05,741
+Talent is a myth.
+
+834
+01:00:06,513 --> 01:00:10,313
+A dozen guys on the team have
+more talent in their little finger.
+
+835
+01:00:10,784 --> 01:00:12,877
+Then how come you can beat them?
+
+836
+01:00:14,454 --> 01:00:16,581
+A little secret l learned
+a long time ago...
+
+837
+01:00:16,790 --> 01:00:18,451
+...in Coos Bay.
+
+838
+01:00:18,859 --> 01:00:20,224
+ln the woods.
+
+839
+01:00:22,863 --> 01:00:25,093
+So what's your little secret?
+
+840
+01:00:25,298 --> 01:00:27,528
+What? The one you learned
+a long time ago.
+
+841
+01:00:33,373 --> 01:00:36,706
+l can endure more pain
+than anyone you've ever met.
+
+842
+01:00:39,312 --> 01:00:40,836
+That's why...
+
+843
+01:00:41,314 --> 01:00:43,578
+...l can beat anyone l've ever met.
+
+844
+01:00:48,889 --> 01:00:50,618
+You don't believe me?
+
+845
+01:00:53,793 --> 01:00:55,124
+l do.
+
+846
+01:01:01,935 --> 01:01:04,802
+What happens if you don't win in Munich?
+
+847
+01:01:07,174 --> 01:01:09,369
+That's just not possible.
+
+848
+01:01:24,124 --> 01:01:25,819
+Where the hell did you come from?
+
+849
+01:01:26,026 --> 01:01:30,087
+That's a terrible way to greet someone,
+especially Mr. Bowerman.
+
+850
+01:01:30,297 --> 01:01:31,264
+Not bad, rube.
+
+851
+01:01:31,464 --> 01:01:33,989
+- Steak on food stamps?
+- Barbecued catfish.
+
+852
+01:01:34,201 --> 01:01:35,759
+Would you like to stay?
+
+853
+01:01:37,837 --> 01:01:41,170
+No, thanks, Mary.
+l'd just like a word with your friend.
+
+854
+01:01:41,541 --> 01:01:42,838
+Go on.
+
+855
+01:01:43,810 --> 01:01:44,868
+Go on.
+
+856
+01:01:51,084 --> 01:01:52,483
+What's going on?
+
+857
+01:01:52,686 --> 01:01:54,119
+George Young is in town.
+
+858
+01:01:56,189 --> 01:01:57,315
+So?
+
+859
+01:01:57,924 --> 01:02:01,121
+He holds the world record at 2 miles.
+
+860
+01:02:01,328 --> 01:02:03,922
+l think we're running
+the 5000 at the trials.
+
+861
+01:02:06,366 --> 01:02:08,527
+You don't think
+l can beat George Young?
+
+862
+01:02:08,768 --> 01:02:11,236
+He has a hell of a finishing kick.
+
+863
+01:02:11,438 --> 01:02:12,928
+You won't run away from him.
+
+864
+01:02:13,139 --> 01:02:15,607
+Not by running out in front, flat out.
+
+865
+01:02:15,875 --> 01:02:17,001
+Shit!
+
+866
+01:02:17,210 --> 01:02:19,474
+We're back to front-running again?
+
+867
+01:02:19,679 --> 01:02:23,240
+Nothing would please
+George Young more, or the crowd.
+
+868
+01:02:23,450 --> 01:02:27,181
+You'd give them the performance
+they want and him the one he expects.
+
+869
+01:02:27,387 --> 01:02:31,585
+You can call a race what you want,
+but l wouldn't call it a performance.
+
+870
+01:02:32,058 --> 01:02:33,889
+What would you call it?
+
+871
+01:02:34,628 --> 01:02:36,459
+A work of art.
+
+872
+01:02:40,800 --> 01:02:42,791
+lf you can't beat George Young...
+
+873
+01:02:43,003 --> 01:02:45,096
+...you can't win at Munich.
+
+874
+01:02:46,573 --> 01:02:50,065
+Beating George Young is going to
+take some kind of time.
+
+875
+01:02:50,644 --> 01:02:51,906
+What kind of time?
+
+876
+01:03:00,587 --> 01:03:01,849
+13:23.
+
+877
+01:03:04,024 --> 01:03:05,685
+13:23?
+
+878
+01:03:09,496 --> 01:03:13,227
+That's 7 seconds faster than the
+American record. My American record.
+
+879
+01:03:13,466 --> 01:03:15,263
+Your American record.
+
+880
+01:03:16,269 --> 01:03:18,032
+How do l do that?
+
+881
+01:03:22,275 --> 01:03:24,140
+<i>You wear him out.</i>
+
+882
+01:03:25,278 --> 01:03:26,802
+<i>Descending series.</i>
+
+883
+01:03:27,080 --> 01:03:28,047
+<i>Negative splits.</i>
+
+884
+01:03:33,920 --> 01:03:37,253
+<i>Prefontaine's lap time: 65 seconds.</i>
+
+885
+01:03:41,628 --> 01:03:45,689
+<i>Gradually go a little faster</i>
+<i>than he thinks he's going.</i>
+
+886
+01:03:45,965 --> 01:03:49,162
+<i>By the time he realizes</i>
+<i>what's happening...</i>
+
+887
+01:03:49,369 --> 01:03:52,065
+<i>... he won't have enough left</i>
+<i>to hurt you.</i>
+
+888
+01:04:05,819 --> 01:04:09,414
+<i>Prefontaine's time for that lap:</i>
+<i>64 seconds.</i>
+
+889
+01:04:29,342 --> 01:04:30,969
+<i>Prefontaine's lap time:</i>
+
+890
+01:04:31,444 --> 01:04:33,002
+<i>63 seconds.</i>
+
+891
+01:04:36,583 --> 01:04:40,019
+<i>Steve Prefontaine and George Young</i>
+<i>have broken away from the field.</i>
+
+892
+01:04:40,220 --> 01:04:44,156
+<i>That means that Prefontaine will make</i>
+<i>his first Olympic team...</i>
+
+893
+01:04:44,357 --> 01:04:46,689
+<i>... and George Young</i>
+<i>will make his 4th...</i>
+
+894
+01:04:46,893 --> 01:04:49,726
+<i>... as the top 3 finishers</i>
+<i>will be going to Munich.</i>
+
+895
+01:04:49,929 --> 01:04:52,557
+<i>It's not enough for Prefontaine</i>
+<i>to simply qualify.</i>
+
+896
+01:04:52,766 --> 01:04:55,234
+<i>He's been gradually</i>
+<i>increasing the pace...</i>
+
+897
+01:04:55,435 --> 01:04:57,096
+<i>... trying to run away from Young.</i>
+
+898
+01:04:57,604 --> 01:04:59,504
+<i>Now, less than 2 laps to go...</i>
+
+899
+01:04:59,706 --> 01:05:01,173
+<i>... it is Prefontaine...</i>
+
+900
+01:05:01,374 --> 01:05:03,501
+<i>... a stride out in front of Young.</i>
+
+901
+01:05:03,710 --> 01:05:05,871
+<i>They've broken away from the pack.</i>
+
+902
+01:05:07,247 --> 01:05:08,771
+<i>Pre's lap time:</i>
+
+903
+01:05:08,982 --> 01:05:10,176
+<i>59 seconds.</i>
+
+904
+01:05:10,383 --> 01:05:13,580
+<i>Now he's building a</i>
+<i>lead and the strategy is working.</i>
+
+905
+01:05:13,787 --> 01:05:15,948
+<i>Prefontaine has broken Young.</i>
+
+906
+01:05:16,156 --> 01:05:19,751
+<i>In front of this sell-out crowd</i>
+<i>at Hayward Field in Eugene, Oregon.</i>
+
+907
+01:05:19,959 --> 01:05:23,224
+<i>They're on their feet,</i>
+<i>cheering the hometown favorite.</i>
+
+908
+01:05:23,430 --> 01:05:25,921
+<i>And he is running away</i>
+<i>from George Young.</i>
+
+909
+01:05:26,966 --> 01:05:30,026
+<i>Steve Prefontaine wins</i>
+<i>the Olympic trials...</i>
+
+910
+01:05:30,236 --> 01:05:34,036
+<i>... and qualifies for</i>
+<i>his first Olympic Games.</i>
+
+911
+01:05:41,548 --> 01:05:42,515
+Way to go!
+
+912
+01:05:42,749 --> 01:05:47,243
+<i>Steve Prefontaine sets</i>
+<i>a new American record...</i>
+
+913
+01:05:47,454 --> 01:05:49,217
+<i>... of 13:22:8.</i>
+
+914
+01:05:49,989 --> 01:05:53,584
+<i>Steve Prefontaine's time of 13:22:8...</i>
+
+915
+01:05:54,794 --> 01:05:58,560
+<i>... is a new American record</i>
+<i>by 8 seconds.</i>
+
+916
+01:06:54,454 --> 01:06:56,945
+Down the hall and up the stairs!
+
+917
+01:07:14,007 --> 01:07:16,703
+What happened to security
+on these elevators?
+
+918
+01:07:16,910 --> 01:07:18,901
+We removed them. Not necessary.
+
+919
+01:07:19,112 --> 01:07:20,044
+Really?
+
+920
+01:07:20,246 --> 01:07:21,804
+Yes. Finished.
+
+921
+01:07:22,849 --> 01:07:24,874
+Not necessary.
+
+922
+01:07:28,855 --> 01:07:30,982
+Call the embassy
+and get Marine guards...
+
+923
+01:07:31,190 --> 01:07:34,387
+...on these elevators around
+the clock, no matter what.
+
+924
+01:07:34,594 --> 01:07:38,553
+That might offend the Germans
+and piss off the Olympic Committee.
+
+925
+01:07:38,765 --> 01:07:40,494
+Let them be offended.
+
+926
+01:07:40,700 --> 01:07:44,136
+lt's easier to beg forgiveness
+than ask permission.
+
+927
+01:08:07,393 --> 01:08:08,917
+What's going on?
+
+928
+01:08:09,128 --> 01:08:11,892
+- We don't know.
+- l can't even get the TV to work.
+
+929
+01:08:12,098 --> 01:08:13,326
+Gentlemen.
+
+930
+01:08:14,901 --> 01:08:17,995
+Arab gunmen have taken over
+the lsraeli compound.
+
+931
+01:08:18,204 --> 01:08:21,605
+We're waiting for more information.
+Our quarters are sealed off.
+
+932
+01:08:21,808 --> 01:08:26,472
+So clear off the balcony and
+stay put until further notice.
+
+933
+01:09:01,781 --> 01:09:05,740
+Golda Meir just requested that
+the games be suspended.
+
+934
+01:09:10,123 --> 01:09:12,421
+What's the point
+in competing now, anyway?
+
+935
+01:09:17,897 --> 01:09:19,524
+Wait a minute.
+
+936
+01:09:25,805 --> 01:09:27,773
+He said the hostages will be...
+
+937
+01:09:27,974 --> 01:09:30,670
+...released in exchange for a plane
+for the terrorists.
+
+938
+01:09:35,481 --> 01:09:37,415
+lt's over. That's it.
+
+939
+01:09:37,617 --> 01:09:38,641
+Thank God!
+
+940
+01:09:38,851 --> 01:09:40,751
+l'm hitting the sack.
+
+941
+01:09:44,657 --> 01:09:46,181
+Get some sleep.
+
+942
+01:10:00,840 --> 01:10:02,205
+l'm sorry.
+
+943
+01:10:02,875 --> 01:10:06,072
+l had to clean up the place.
+lt was a mess.
+
+944
+01:10:09,682 --> 01:10:11,547
+l'll go to bed now.
+
+945
+01:10:11,918 --> 01:10:14,216
+The police tried an ambush
+at the airport.
+
+946
+01:10:14,420 --> 01:10:17,184
+All the lsraelis have been killed.
+
+947
+01:10:19,592 --> 01:10:21,219
+l'm sorry.
+
+948
+01:10:32,939 --> 01:10:34,770
+<i>This killing of Israeli athletes...</i>
+
+949
+01:10:34,974 --> 01:10:36,839
+...is an act of war.
+
+950
+01:10:37,376 --> 01:10:39,810
+And if there's one place...
+
+951
+01:10:40,880 --> 01:10:42,939
+...that war doesn't belong...
+
+952
+01:10:43,216 --> 01:10:44,376
+...it's here.
+
+953
+01:10:46,285 --> 01:10:48,378
+For 1200 years.
+
+954
+01:10:48,721 --> 01:10:50,621
+From 776 B. C...
+
+955
+01:10:50,823 --> 01:10:53,348
+...to 393 A. D...
+
+956
+01:10:53,559 --> 01:10:56,619
+...your fellow Olympians
+laid down their arms...
+
+957
+01:10:56,829 --> 01:11:00,526
+...to take part in these games.
+They understood there was more honor...
+
+958
+01:11:00,867 --> 01:11:03,267
+...in out-running a man...
+
+959
+01:11:04,771 --> 01:11:06,466
+...than in killing him.
+
+960
+01:11:10,276 --> 01:11:11,106
+l hope...
+
+961
+01:11:12,478 --> 01:11:15,003
+...the competition will resume.
+
+962
+01:11:16,616 --> 01:11:18,174
+And if it does...
+
+963
+01:11:19,852 --> 01:11:22,082
+...you must not think that running...
+
+964
+01:11:22,455 --> 01:11:23,945
+...or throwing...
+
+965
+01:11:24,290 --> 01:11:25,689
+...or jumping...
+
+966
+01:11:26,392 --> 01:11:28,189
+...is frivolous.
+
+967
+01:11:29,262 --> 01:11:31,093
+The Games...
+
+968
+01:11:31,497 --> 01:11:35,297
+...were once your fellow Olympians'
+answer to war.
+
+969
+01:11:36,102 --> 01:11:37,660
+Competition...
+
+970
+01:11:38,437 --> 01:11:40,428
+...not conquest.
+
+971
+01:11:41,741 --> 01:11:42,969
+Now...
+
+972
+01:11:45,044 --> 01:11:46,875
+...they must be your answer.
+
+973
+01:11:52,685 --> 01:11:54,585
+<i>David Bedford.</i>
+
+974
+01:11:55,121 --> 01:11:57,021
+<i>Ian Stewart.</i>
+
+975
+01:11:57,323 --> 01:11:59,120
+<i>Juha Vaatinen.</i>
+
+976
+01:12:00,293 --> 01:12:02,022
+<i>Mohammed Gammoudi.</i>
+
+977
+01:12:03,196 --> 01:12:04,925
+<i>Lasse Viren.</i>
+
+978
+01:12:05,464 --> 01:12:06,453
+<i>Emiel Puttemans.</i>
+
+979
+01:12:08,301 --> 01:12:10,462
+<i>Harold Norpoth.</i>
+
+980
+01:12:11,304 --> 01:12:13,431
+<i>Steve Prefontaine.</i>
+
+981
+01:12:13,639 --> 01:12:16,130
+<i>13 runners at this Olympic pre-finals.</i>
+
+982
+01:12:16,342 --> 01:12:17,809
+The same plan as the trials?
+
+983
+01:12:18,010 --> 01:12:20,444
+Conserve the first 2 miles.
+
+984
+01:12:20,646 --> 01:12:23,513
+Go hard the last one.
+Watch out for Gammoudi.
+
+985
+01:12:23,716 --> 01:12:25,513
+Why? What's Gammoudi do?
+
+986
+01:12:25,718 --> 01:12:27,208
+Elbows.
+
+987
+01:12:28,054 --> 01:12:30,454
+<i>That's Alvaris Selgado.</i>
+<i>Halle of Norway next.</i>
+
+988
+01:12:30,656 --> 01:12:34,057
+<i>Viren of Finland, the 10,000-meter</i>
+<i>champion. A world-record holder.</i>
+
+989
+01:12:34,260 --> 01:12:36,524
+<i>When I talked to Stewart</i>
+<i>and Prefontaine...</i>
+
+990
+01:12:36,729 --> 01:12:39,721
+<i>... I asked them how they thought</i>
+<i>the race might unfold.</i>
+
+991
+01:12:39,932 --> 01:12:42,492
+<i>I'd like to work it out...</i>
+
+992
+01:12:42,702 --> 01:12:44,226
+<i>... so that in the end...</i>
+
+993
+01:12:44,537 --> 01:12:47,028
+<i>... it comes down to a pure guts race.</i>
+
+994
+01:12:47,874 --> 01:12:50,206
+<i>If it is,</i>
+<i>I'm the only one who can win it.</i>
+
+995
+01:13:06,726 --> 01:13:08,785
+<i>121/2 laps of the track.</i>
+
+996
+01:13:09,462 --> 01:13:11,191
+<i>McCafferty comes from the outside.</i>
+
+997
+01:13:11,397 --> 01:13:14,594
+<i>Norpoth on the inside.</i>
+<i>Ian Stewart, there for Great Britain.</i>
+
+998
+01:13:14,800 --> 01:13:18,930
+<i>Lasse Viren, one of the favorites,</i>
+<i>just tucks himself into last place.</i>
+
+999
+01:13:19,138 --> 01:13:22,972
+<i>And Steve Prefontaine is running</i>
+<i>in the middle of the pack.</i>
+
+1000
+01:13:23,175 --> 01:13:26,804
+<i>But everyone's bunched together</i>
+<i>because the pace is pedestrian.</i>
+
+1001
+01:13:27,046 --> 01:13:29,537
+<i>This is slow.</i>
+<i>They've jogged half a lap.</i>
+
+1002
+01:13:29,749 --> 01:13:31,808
+<i>McCafferty leads for Great Britain.</i>
+
+1003
+01:13:33,419 --> 01:13:34,909
+<i>But no one can afford...</i>
+
+1004
+01:13:35,154 --> 01:13:38,646
+<i>... to allow this to go on</i>
+<i>until the later stages of the race.</i>
+
+1005
+01:13:38,891 --> 01:13:41,553
+<i>Everyone fears the finish</i>
+<i>of the European champion...</i>
+
+1006
+01:13:41,761 --> 01:13:44,924
+<i>... number 225, Vaatinen,</i>
+<i>the blond Finn.</i>
+
+1007
+01:13:52,505 --> 01:13:54,769
+<i>McCafferty and Norpoth together.</i>
+
+1008
+01:13:55,274 --> 01:13:56,764
+<i>Stewart on the outside.</i>
+
+1009
+01:13:56,976 --> 01:13:59,774
+<i>Eisenberg and Prefontaine together,</i>
+<i>4th and 5th.</i>
+
+1010
+01:14:00,179 --> 01:14:01,146
+<i>First lap...</i>
+
+1011
+01:14:01,347 --> 01:14:02,541
+...very, very slow.
+
+1012
+01:14:04,951 --> 01:14:07,715
+<i>Still, the race has barely started.</i>
+
+1013
+01:14:09,789 --> 01:14:13,088
+<i>Tripping over themselves</i>
+<i>in their anxiety to find a position.</i>
+
+1014
+01:14:13,292 --> 01:14:16,125
+<i>No athletes study each other</i>
+<i>like distance runners.</i>
+
+1015
+01:14:16,362 --> 01:14:19,354
+<i>They'll try to be stoic,</i>
+<i>all except Prefontaine.</i>
+
+1016
+01:14:19,565 --> 01:14:23,194
+<i>It's as if he takes the pain</i>
+<i>personally and is offended by it.</i>
+
+1017
+01:14:23,970 --> 01:14:26,666
+<i>Vaatinen must be loving this.</i>
+
+1018
+01:14:26,872 --> 01:14:29,773
+<i>The strain on these runners,</i>
+<i>waiting and waiting...</i>
+
+1019
+01:14:29,976 --> 01:14:32,240
+<i>... for somebody to break</i>
+<i>must be appalling.</i>
+
+1020
+01:14:32,445 --> 01:14:35,608
+<i>The cracking point wilK/i>
+<i>surely come soon.</i>
+
+1021
+01:14:36,048 --> 01:14:38,778
+<i>Vaatinen, with a blistering finish...</i>
+
+1022
+01:14:38,985 --> 01:14:42,148
+<i>... is like the Duke of Plessitora,</i>
+<i>leading from behind.</i>
+
+1023
+01:14:42,555 --> 01:14:44,523
+Who's the Duke of Plessitora?
+
+1024
+01:14:44,724 --> 01:14:46,555
+Jesus, Mac, who gives a shit?
+
+1025
+01:14:48,060 --> 01:14:50,051
+<i>And surely somewhere...</i>
+
+1026
+01:14:50,262 --> 01:14:51,661
+<i>... someone must go.</i>
+
+1027
+01:14:52,398 --> 01:14:54,263
+Pre's ready to, but he's trapped.
+
+1028
+01:14:54,834 --> 01:14:57,769
+<i>The time at 3 kilometers is 8:20:2.</i>
+
+1029
+01:14:57,970 --> 01:15:01,667
+<i>They're 150 yards slower</i>
+<i>than Ron Clarke...</i>
+
+1030
+01:15:01,907 --> 01:15:03,704
+<i>... when he set his world record.</i>
+
+1031
+01:15:03,909 --> 01:15:05,934
+<i>The suspense must be appalling</i>
+<i>among those...</i>
+
+1032
+01:15:06,812 --> 01:15:10,077
+<i>... who haven't total confidence</i>
+<i>in their sprinting ability.</i>
+
+1033
+01:15:21,360 --> 01:15:23,624
+<i>Sviridov, the Russian, goes in front.</i>
+
+1034
+01:15:23,829 --> 01:15:26,764
+<i>All that pushing as they</i>
+<i>all try to cover.</i>
+
+1035
+01:15:34,774 --> 01:15:37,709
+<i>And they start</i>
+<i>a significant change of pace.</i>
+
+1036
+01:15:37,943 --> 01:15:39,911
+But it's given Pre his opening!
+
+1037
+01:15:40,146 --> 01:15:42,114
+<i>Prefontaine coming through.</i>
+
+1038
+01:15:43,616 --> 01:15:45,982
+<i>So the American now committed.</i>
+
+1039
+01:15:47,386 --> 01:15:49,752
+<i>Really burly for a</i>
+<i>middle-distance runner.</i>
+
+1040
+01:15:49,955 --> 01:15:52,185
+<i>Cocky American who believes in himself.</i>
+
+1041
+01:15:52,391 --> 01:15:54,450
+<i>Here goes Pre.</i>
+<i>Maybe this is the race.</i>
+
+1042
+01:15:54,660 --> 01:15:57,220
+<i>Prefontaine has taken the lead.</i>
+
+1043
+01:15:57,463 --> 01:16:01,263
+<i>Ian Stewart comes right behind him,</i>
+<i>and then it is Bedford.</i>
+
+1044
+01:16:03,736 --> 01:16:07,263
+<i>Prefontaine, another athlete</i>
+<i>who can't leave it late.</i>
+
+1045
+01:16:07,640 --> 01:16:11,872
+<i>A long-distance joiner, really,</i>
+<i>who's got to go for home.</i>
+
+1046
+01:16:12,078 --> 01:16:14,205
+<i>And this is surely being left...</i>
+
+1047
+01:16:14,413 --> 01:16:18,110
+<i>... to the fastest miler.</i>
+<i>Prefontaine believes it's him.</i>
+
+1048
+01:16:19,752 --> 01:16:21,276
+Now we'll see.
+
+1049
+01:16:21,487 --> 01:16:24,547
+<i>Prefontaine didn't exactly</i>
+<i>keep his pre-race plans secret.</i>
+
+1050
+01:16:24,757 --> 01:16:26,384
+<i>He's begun a mile-long drive...</i>
+
+1051
+01:16:26,592 --> 01:16:29,060
+<i>... to break the best runners</i>
+<i>in the world.</i>
+
+1052
+01:16:29,261 --> 01:16:31,957
+<i>The American, almost a cult</i>
+<i>in the U. S...</i>
+
+1053
+01:16:32,164 --> 01:16:33,791
+<i>... sort of an athletic Beatle.</i>
+
+1054
+01:16:33,999 --> 01:16:35,990
+<i>There are T-shirts around, "Go Pre."</i>
+
+1055
+01:16:36,235 --> 01:16:38,294
+<i>Can anyone hold the lead that long?</i>
+
+1056
+01:16:38,504 --> 01:16:41,564
+<i>I don't know. It's the</i>
+<i>toughest way to win there is.</i>
+
+1057
+01:16:41,774 --> 01:16:44,299
+<i>He's burning more energy</i>
+<i>than anyone else.</i>
+
+1058
+01:16:44,510 --> 01:16:46,637
+<i>The race for the gold medal starts here.</i>
+
+1059
+01:16:46,879 --> 01:16:50,940
+<i>Prefontaine leads. The Europeans</i>
+<i>say he hasn't been in a war yet.</i>
+
+1060
+01:16:51,183 --> 01:16:52,810
+<i>But he's got belief in himself.</i>
+
+1061
+01:16:53,586 --> 01:16:55,486
+<i>And he's inexperienced enough...</i>
+
+1062
+01:16:55,688 --> 01:16:57,849
+<i>... not to know how good</i>
+<i>the others are.</i>
+
+1063
+01:16:58,057 --> 01:17:02,926
+<i>As they come up with 2 to go,</i>
+<i>Viren states his intention now.</i>
+
+1064
+01:17:04,730 --> 01:17:06,163
+lt's fine.
+
+1065
+01:17:06,398 --> 01:17:09,959
+Pre can draft on Viren
+and recharge for one last move.
+
+1066
+01:17:12,571 --> 01:17:15,369
+<i>They have left this one</i>
+<i>for the fastest finisher.</i>
+
+1067
+01:17:15,574 --> 01:17:19,032
+<i>But Viren, the world-record holder</i>
+<i>at 10,000 meters...</i>
+
+1068
+01:17:19,245 --> 01:17:20,712
+<i>... already leads.</i>
+
+1069
+01:17:20,913 --> 01:17:24,542
+<i>Viren, there's been a certainty</i>
+<i>about his running in the past 6 weeks.</i>
+
+1070
+01:17:24,750 --> 01:17:27,014
+<i>It's almost made winning</i>
+<i>seem inevitable.</i>
+
+1071
+01:17:27,219 --> 01:17:29,119
+<i>2 laps to go.</i>
+<i>Viren takes the lead.</i>
+
+1072
+01:17:29,321 --> 01:17:32,313
+<i>Coaches will tell you</i>
+<i>you have one chance at the lead.</i>
+
+1073
+01:17:32,525 --> 01:17:36,928
+<i>Prefontaine has to beat the odds.</i>
+<i>He has to stay with Viren.</i>
+
+1074
+01:18:23,008 --> 01:18:25,943
+<i>He's got the turn and the lead.</i>
+<i>Prefontaine is in front...</i>
+
+1075
+01:18:26,145 --> 01:18:28,204
+<i>... for the second time.</i>
+
+1076
+01:18:28,747 --> 01:18:31,580
+<i>The chunky American driving for home.</i>
+
+1077
+01:18:31,784 --> 01:18:33,115
+<i>Viren following.</i>
+
+1078
+01:18:33,319 --> 01:18:34,718
+<i>Halle and Stewart...</i>
+
+1079
+01:18:34,987 --> 01:18:38,286
+<i>... not covering Gammoudi. Gammoudi</i>
+<i>goes 3rd and here comes Stewart.</i>
+
+1080
+01:18:38,657 --> 01:18:43,026
+<i>The 3 medals are between these 5 men.</i>
+<i>What price has he paid?</i>
+
+1081
+01:18:43,229 --> 01:18:45,663
+<i>A tremendous price, Charlie.</i>
+
+1082
+01:18:45,864 --> 01:18:47,297
+<i>But his strategy's obvious.</i>
+
+1083
+01:18:47,499 --> 01:18:51,162
+<i>He wants to be the last man</i>
+<i>on his feet at the end.</i>
+
+1084
+01:18:51,503 --> 01:18:54,631
+<i>Pre has said before:</i>
+<i>"There may be men who can beat me...</i>
+
+1085
+01:18:54,840 --> 01:18:57,775
+<i>... but they're going to have</i>
+<i>to bleed to do it. "</i>
+
+1086
+01:18:58,110 --> 01:18:59,407
+<i>This time, the bell.</i>
+
+1087
+01:18:59,612 --> 01:19:03,309
+<i>Lasse Viren now moves up</i>
+<i>and challenges Prefontaine.</i>
+
+1088
+01:19:03,515 --> 01:19:07,144
+<i>He's going by him.</i>
+<i>One lap to go, instincts take over.</i>
+
+1089
+01:19:07,353 --> 01:19:09,787
+Viren's gone too soon.
+Pre can hang and wait.
+
+1090
+01:19:09,989 --> 01:19:11,980
+<i>Around the bend</i>
+<i>into the back straight.</i>
+
+1091
+01:19:12,191 --> 01:19:15,991
+<i>A long straight they're facing</i>
+<i>for the last time on the final lap.</i>
+
+1092
+01:19:16,195 --> 01:19:19,596
+<i>There's little strategy in this lap.</i>
+<i>It's just going to be more of...</i>
+
+1093
+01:19:19,798 --> 01:19:21,425
+<i>... who can survive...</i>
+
+1094
+01:19:21,634 --> 01:19:25,536
+<i>... this 4-lap-from-the-finish run</i>
+<i>by Steve Prefontaine?</i>
+
+1095
+01:19:25,738 --> 01:19:27,171
+<i>Gammoudi's going for the win.</i>
+
+1096
+01:19:27,373 --> 01:19:30,865
+<i>Prefontaine goes by.</i>
+<i>He has to get by before the turn.</i>
+
+1097
+01:19:31,076 --> 01:19:35,035
+<i>And the American attacks on the</i>
+<i>outside, but Gammoudi responds.</i>
+
+1098
+01:19:35,281 --> 01:19:36,873
+<i>Viren there.</i>
+<i>And these 3 now...</i>
+
+1099
+01:19:37,082 --> 01:19:39,141
+<i>... 7-8 meters clear of Ian Stewart.</i>
+
+1100
+01:19:39,385 --> 01:19:41,216
+<i>These are the medal men.</i>
+
+1101
+01:19:41,420 --> 01:19:44,218
+<i>200 meters left.</i>
+<i>The champion, Gammoudi, leads.</i>
+
+1102
+01:19:44,423 --> 01:19:47,256
+<i>Viren moves up inside Prefontaine.</i>
+
+1103
+01:19:47,993 --> 01:19:51,588
+<i>The Finn and the American gathering</i>
+<i>for the final attack.</i>
+
+1104
+01:19:59,805 --> 01:20:01,397
+<i>Can't do it!</i>
+
+1105
+01:20:01,874 --> 01:20:05,867
+<i>Viren's challenging Prefontaine inside.</i>
+<i>As they come off the turn...</i>
+
+1106
+01:20:06,078 --> 01:20:09,343
+<i>... Gammoudi has the lead.</i>
+<i>And here comes Viren!</i>
+
+1107
+01:20:14,386 --> 01:20:18,379
+<i>They're all running at top end.</i>
+<i>There are no more gears.</i>
+
+1108
+01:20:18,724 --> 01:20:20,555
+<i>It's as fast as these men can go.</i>
+
+1109
+01:20:23,595 --> 01:20:24,823
+<i>Top of the final turn.</i>
+
+1110
+01:20:25,030 --> 01:20:28,056
+<i>100 meters to go.</i>
+<i>Lasse Viren has taken the lead.</i>
+
+1111
+01:20:28,267 --> 01:20:32,795
+<i>As they go for home, Gammoudi</i>
+<i>is bankrupt! So is Prefontaine!</i>
+
+1112
+01:20:33,605 --> 01:20:37,507
+<i>The Finn pulls in now</i>
+<i>for his second gold medal.</i>
+
+1113
+01:20:37,710 --> 01:20:39,735
+<i>And Stewart with a late run!</i>
+
+1114
+01:20:39,978 --> 01:20:43,072
+<i>The Finn wins, Gammoudi second,</i>
+<i>Stewart takes the bronze.</i>
+
+1115
+01:20:43,282 --> 01:20:46,945
+<i>Prefontaine dies in the final stride.</i>
+<i>Puttemans fifth, Norpoth sixth...</i>
+
+1116
+01:20:47,386 --> 01:20:49,115
+<i>... Per of Norway seventh...</i>
+
+1117
+01:20:51,223 --> 01:20:54,420
+He ran his last mile in 4:04.
+
+1118
+01:20:54,660 --> 01:20:56,457
+What more could he have done?
+
+1119
+01:20:57,029 --> 01:21:00,795
+<i>Prefontaine endured a slow early pace</i>
+<i>and made all those moves.</i>
+
+1120
+01:21:00,999 --> 01:21:02,227
+<i>With a mile to go...</i>
+
+1121
+01:21:02,434 --> 01:21:04,527
+<i>... with 600, with 300.</i>
+
+1122
+01:21:04,737 --> 01:21:08,036
+<i>And Viren took everything</i>
+<i>he threw at him and still won.</i>
+
+1123
+01:21:08,240 --> 01:21:10,936
+<i>Two outstanding efforts.</i>
+
+1124
+01:21:11,210 --> 01:21:13,770
+<i>One man made the race</i>
+<i>and another man won it.</i>
+
+1125
+01:21:13,979 --> 01:21:16,345
+<i>Fred, it was really a great race.</i>
+
+1126
+01:21:16,548 --> 01:21:19,847
+When you see Steve,
+congratulate him for me, will you?
+
+1127
+01:21:20,052 --> 01:21:22,543
+He ran one of the
+greatest races l've ever seen.
+
+1128
+01:22:32,191 --> 01:22:35,888
+<i>The Finn pulls in now</i>
+<i>for his second gold medal.</i>
+
+1129
+01:22:36,094 --> 01:22:37,857
+<i>And Stewart with a late run!</i>
+
+1130
+01:22:38,096 --> 01:22:41,065
+<i>The Finn wins, Gammoudi second,</i>
+<i>Stewart takes the bronze.</i>
+
+1131
+01:22:41,266 --> 01:22:45,202
+<i>Prefontaine, dying in the</i>
+<i>final strides, fourth...</i>
+
+1132
+01:23:03,555 --> 01:23:05,785
+Lobo, how about a quick...
+
+1133
+01:23:11,797 --> 01:23:13,424
+This is Lobo.
+
+1134
+01:23:14,132 --> 01:23:16,498
+You don't answer your phone anymore.
+
+1135
+01:23:18,136 --> 01:23:20,866
+You want some food?
+Come on, right here.
+
+1136
+01:23:26,578 --> 01:23:28,205
+Care to come in?
+
+1137
+01:23:29,314 --> 01:23:31,214
+l got to get ready for work.
+
+1138
+01:23:42,160 --> 01:23:43,752
+Where are you working?
+
+1139
+01:23:44,997 --> 01:23:46,487
+The Pad.
+
+1140
+01:23:48,767 --> 01:23:50,894
+Why? What's wrong with that?
+
+1141
+01:23:51,770 --> 01:23:53,135
+Nothing.
+
+1142
+01:23:53,338 --> 01:23:55,636
+That didn't look like nothing.
+
+1143
+01:23:58,443 --> 01:24:00,138
+l'm not here to fight, so...
+
+1144
+01:24:00,345 --> 01:24:01,505
+Sorry.
+
+1145
+01:24:01,847 --> 01:24:03,542
+Why are you here?
+
+1146
+01:24:12,524 --> 01:24:16,324
+Your pictures and awards,
+there's nothing here anymore.
+
+1147
+01:24:26,204 --> 01:24:28,502
+Honey, you were great in Munich.
+
+1148
+01:24:30,142 --> 01:24:32,235
+Viren was great. l was fourth.
+
+1149
+01:24:32,711 --> 01:24:34,042
+You can beat Viren.
+
+1150
+01:24:35,714 --> 01:24:37,682
+Really? Who told you that?
+
+1151
+01:24:40,686 --> 01:24:41,812
+You did.
+
+1152
+01:24:44,856 --> 01:24:47,256
+You shouldn't believe
+everything you hear.
+
+1153
+01:24:54,499 --> 01:24:55,830
+Come on.
+
+1154
+01:24:58,203 --> 01:24:59,227
+l'll walk you out.
+
+1155
+01:25:02,174 --> 01:25:03,698
+Sure, why not?
+
+1156
+01:25:32,204 --> 01:25:35,901
+Everyone is standing around!
+Nobody's drinking. Two Buds!
+
+1157
+01:25:40,045 --> 01:25:41,478
+Two! Two!
+
+1158
+01:25:41,713 --> 01:25:43,578
+Who else needs something?
+
+1159
+01:25:45,550 --> 01:25:46,744
+Jesus!
+
+1160
+01:25:47,386 --> 01:25:50,651
+- Bill, what brings you by?
+- Same as everybody else.
+
+1161
+01:25:51,923 --> 01:25:54,585
+l heard Steve Prefontaine
+was working here.
+
+1162
+01:25:54,793 --> 01:25:58,058
+l'm told he prefers it
+to living on food stamps.
+
+1163
+01:25:58,263 --> 01:26:00,629
+Did you have to put your picture up?
+
+1164
+01:26:01,600 --> 01:26:02,862
+Shit!
+
+1165
+01:26:03,468 --> 01:26:06,699
+Cover for me!
+You want to meet me out back?
+
+1166
+01:26:20,986 --> 01:26:22,749
+What? l got to make a living!
+
+1167
+01:26:22,954 --> 01:26:26,651
+Nobody in Oregon can
+influence kids more than you can.
+
+1168
+01:26:27,059 --> 01:26:28,788
+So get yourself another job.
+
+1169
+01:26:28,994 --> 01:26:31,758
+One that pays the rent
+and lets me compete...
+
+1170
+01:26:31,963 --> 01:26:34,431
+...with athletes
+who don't have to work?
+
+1171
+01:26:36,501 --> 01:26:39,334
+l haven't noticed you
+working out that much.
+
+1172
+01:26:41,540 --> 01:26:44,600
+You know the greatest race
+l ever saw you run?
+
+1173
+01:26:45,110 --> 01:26:46,099
+Munich.
+
+1174
+01:26:46,311 --> 01:26:49,439
+l was never prouder
+than of your effort that day.
+
+1175
+01:26:49,648 --> 01:26:52,208
+You couldn't have
+done more than you did.
+
+1176
+01:26:55,921 --> 01:26:57,616
+You won the trials in 13:22.
+
+1177
+01:26:57,823 --> 01:26:59,950
+5 seconds faster than Viren.
+
+1178
+01:27:00,158 --> 01:27:02,718
+lt would've beaten him by 30 yards.
+
+1179
+01:27:03,295 --> 01:27:06,560
+lt's hard to believe
+you've never thought about it.
+
+1180
+01:27:08,800 --> 01:27:11,530
+So if l'd gone out faster,
+l might've...
+
+1181
+01:27:11,737 --> 01:27:13,432
+And you blame me.
+
+1182
+01:27:14,339 --> 01:27:16,204
+Do you blame yourself?
+
+1183
+01:27:17,309 --> 01:27:19,300
+That's a constant, Pre.
+
+1184
+01:27:20,846 --> 01:27:23,508
+At your level of competition,
+anyone can win...
+
+1185
+01:27:23,715 --> 01:27:26,980
+...on any given day,
+and not necessarily the best man.
+
+1186
+01:27:27,185 --> 01:27:29,517
+Losing a race isn't your problem.
+
+1187
+01:27:29,721 --> 01:27:31,621
+Front-running isn't your problem!
+
+1188
+01:27:31,823 --> 01:27:33,017
+What's my problem?
+
+1189
+01:27:33,225 --> 01:27:34,658
+Vanity!
+
+1190
+01:27:35,193 --> 01:27:38,219
+lnsisting you have no talent
+is the ultimate vanity!
+
+1191
+01:27:38,430 --> 01:27:42,059
+No talent, no limits.
+lt's all an act of will, right?
+
+1192
+01:27:42,267 --> 01:27:44,497
+l couldn't do it.
+Leave it at that!
+
+1193
+01:27:44,703 --> 01:27:46,193
+l got news for you!
+
+1194
+01:27:46,404 --> 01:27:48,895
+All the will
+in the world won't get...
+
+1195
+01:27:49,107 --> 01:27:53,100
+...a person in a million to run
+a 3:54 mile! That takes talent!
+
+1196
+01:27:53,311 --> 01:27:57,213
+And talent in a runner is tied
+to specific physical attributes!
+
+1197
+01:27:57,582 --> 01:28:01,780
+Your heart probably pumps more blood
+than anyone else's on the planet.
+
+1198
+01:28:01,987 --> 01:28:03,887
+That's the fuel for your talent.
+
+1199
+01:28:04,089 --> 01:28:06,523
+lt'd take a hammer to hurt your bones!
+
+1200
+01:28:06,725 --> 01:28:08,920
+lt's the foundation of your talent.
+
+1201
+01:28:09,127 --> 01:28:11,994
+Your talent is not some
+disembodied act of will.
+
+1202
+01:28:12,197 --> 01:28:14,791
+lt's literally in your bones.
+lt has limits.
+
+1203
+01:28:15,000 --> 01:28:16,558
+Be thankful for your limits.
+
+1204
+01:28:16,768 --> 01:28:19,703
+They're as limitless
+as they get in this life.
+
+1205
+01:28:19,905 --> 01:28:21,236
+Good night.
+
+1206
+01:28:22,040 --> 01:28:23,439
+Just a minute.
+
+1207
+01:28:24,009 --> 01:28:26,204
+Bill, just a fucking minute.
+
+1208
+01:28:26,745 --> 01:28:30,476
+Do you really believe
+you know everything about me?
+
+1209
+01:28:31,616 --> 01:28:34,949
+Did it ever occur to you
+that l might know...
+
+1210
+01:28:35,153 --> 01:28:38,145
+...something about myself
+that you don't?
+
+1211
+01:28:40,058 --> 01:28:41,184
+You vain...
+
+1212
+01:28:42,093 --> 01:28:44,493
+...inflexible son of a bitch.
+
+1213
+01:28:48,366 --> 01:28:51,233
+You don't know me
+any better than yourself.
+
+1214
+01:28:51,436 --> 01:28:54,337
+And you're never
+going to change you, Bill.
+
+1215
+01:29:33,278 --> 01:29:34,609
+Men of Oregon...
+
+1216
+01:29:35,480 --> 01:29:37,243
+...l invite you to become...
+
+1217
+01:29:37,449 --> 01:29:39,974
+...students of your events.
+
+1218
+01:29:40,919 --> 01:29:41,783
+Running...
+
+1219
+01:29:42,087 --> 01:29:43,850
+...one might say...
+
+1220
+01:29:44,256 --> 01:29:46,224
+...is basically an absurd pastime...
+
+1221
+01:29:46,424 --> 01:29:50,121
+...upon which to be exhausting
+ourselves. Gentlemen...
+
+1222
+01:29:50,328 --> 01:29:51,818
+...if l'm boring you...
+
+1223
+01:29:54,499 --> 01:29:58,026
+l'm sorry, Bill.
+l didn't mean to interrupt.
+
+1224
+01:29:59,304 --> 01:30:02,068
+l was just wondering if...
+
+1225
+01:30:03,742 --> 01:30:06,836
+Would you mind if
+l worked out with the team?
+
+1226
+01:30:16,421 --> 01:30:18,787
+You're always welcome here, Pre.
+
+1227
+01:30:25,597 --> 01:30:26,825
+Gentlemen...
+
+1228
+01:30:28,300 --> 01:30:31,463
+...if you can find meaning
+in the kind of running...
+
+1229
+01:30:31,670 --> 01:30:34,662
+...you have to do to stay
+on this team...
+
+1230
+01:30:35,173 --> 01:30:38,301
+...chances are
+you can find meaning...
+
+1231
+01:30:38,510 --> 01:30:41,502
+...in that other absurd pastime:
+
+1232
+01:30:41,880 --> 01:30:43,279
+Life.
+
+1233
+01:30:44,749 --> 01:30:48,241
+<i>For the time being,</i>
+<i>don't work out with the team.</i>
+
+1234
+01:30:48,920 --> 01:30:52,549
+<i>You'll be facing Viren</i>
+<i>again at the Montreal Olympics.</i>
+
+1235
+01:30:52,757 --> 01:30:54,918
+<i>I don't want you racing anyone now.</i>
+
+1236
+01:30:55,193 --> 01:30:56,922
+<i>I just want you running.</i>
+
+1237
+01:31:12,110 --> 01:31:15,739
+<i>Explore the limits of the one</i>
+<i>competitor above everyone else...</i>
+
+1238
+01:31:15,947 --> 01:31:17,881
+<i>... you've always loved to face:</i>
+
+1239
+01:31:18,283 --> 01:31:20,046
+<i>Steve Prefontaine.</i>
+
+1240
+01:31:22,053 --> 01:31:23,384
+<i>Dear Mary...</i>
+
+1241
+01:31:24,055 --> 01:31:26,250
+<i>... it's the first day of spring.</i>
+
+1242
+01:31:26,458 --> 01:31:30,622
+<i>Munich seems more than 6 months ago.</i>
+<i>You're on my mind a lot.</i>
+
+1243
+01:31:45,410 --> 01:31:47,071
+<i>Sometimes...</i>
+
+1244
+01:31:47,512 --> 01:31:49,707
+<i>... I choke on things I want to say.</i>
+
+1245
+01:31:49,914 --> 01:31:52,940
+<i>I nearly did talk to you yesterday,</i>
+<i>but you looked busy.</i>
+
+1246
+01:31:53,418 --> 01:31:56,717
+<i>The trouble is, since Munich,</i>
+<i>I've hated myself too much...</i>
+
+1247
+01:31:56,921 --> 01:32:00,118
+<i>... to feel I can say anything</i>
+<i>to someone I love.</i>
+
+1248
+01:32:00,492 --> 01:32:02,790
+<i>I'm running against</i>
+<i>Shorter in the Restoration...</i>
+
+1249
+01:32:02,994 --> 01:32:04,484
+<i>... the race at Hayward Field...</i>
+
+1250
+01:32:04,696 --> 01:32:07,256
+<i>... to raise money to keep it</i>
+<i>from falling apart.</i>
+
+1251
+01:32:08,333 --> 01:32:10,824
+<i>It is, after all, my second home.</i>
+
+1252
+01:32:11,936 --> 01:32:13,164
+<i>Steve.</i>
+
+1253
+01:32:29,354 --> 01:32:30,946
+l'd like to ask you something.
+
+1254
+01:32:33,558 --> 01:32:34,650
+lt's personal.
+
+1255
+01:32:36,694 --> 01:32:37,854
+Sit down.
+
+1256
+01:32:39,798 --> 01:32:41,857
+How do you and Barbara...
+
+1257
+01:32:43,201 --> 01:32:45,669
+How do you and Barbara...?
+l mean...
+
+1258
+01:32:45,870 --> 01:32:48,498
+Do you pretty much
+believe in the same things?
+
+1259
+01:32:49,808 --> 01:32:52,538
+God, Pre, l have no idea.
+
+1260
+01:32:53,044 --> 01:32:56,104
+The woman's a complete mystery to me.
+
+1261
+01:32:56,381 --> 01:32:58,576
+How do you get along so well?
+
+1262
+01:32:59,384 --> 01:33:02,217
+l don't have to know what
+she believes in. l believe in her.
+
+1263
+01:33:08,993 --> 01:33:11,518
+You're easily pleased, l must say.
+
+1264
+01:33:11,729 --> 01:33:13,492
+l liked what you said about...
+
+1265
+01:33:13,698 --> 01:33:16,326
+...using foreign promoters
+to combat the AAU.
+
+1266
+01:33:16,534 --> 01:33:18,331
+That's not a bad idea.
+
+1267
+01:33:20,505 --> 01:33:21,870
+You all set for tomorrow?
+
+1268
+01:33:22,507 --> 01:33:23,872
+Yeah, sure.
+
+1269
+01:33:24,843 --> 01:33:26,333
+No sweat.
+
+1270
+01:33:30,582 --> 01:33:32,846
+<i>And representing Oregon International...</i>
+
+1271
+01:33:33,351 --> 01:33:36,184
+<i>... Eugene's favorite Norwegian,</i>
+<i>Arne Kvalheim.</i>
+
+1272
+01:33:41,693 --> 01:33:44,992
+<i>Pac-Eight Champion,</i>
+<i>former Stanford star...</i>
+
+1273
+01:33:45,196 --> 01:33:47,494
+<i>... his 7 th visit to Hayward Field...</i>
+
+1274
+01:33:47,699 --> 01:33:49,599
+<i>... Don Kardong.</i>
+
+1275
+01:34:04,215 --> 01:34:06,376
+l've been kidding myself, K enny.
+
+1276
+01:34:07,785 --> 01:34:09,275
+What are you talking about?
+
+1277
+01:34:11,389 --> 01:34:13,880
+l can't run with these guys anymore.
+
+1278
+01:34:15,126 --> 01:34:17,526
+Shorter, Lindgren, Kardong.
+
+1279
+01:34:17,729 --> 01:34:19,856
+They're going to hand me my head.
+
+1280
+01:34:20,465 --> 01:34:21,796
+<i>A graduate of Yale...</i>
+
+1281
+01:34:22,000 --> 01:34:24,696
+...gold medalist
+in the Olympic marathon...
+
+1282
+01:34:24,903 --> 01:34:26,996
+<i>... American record-holder</i>
+<i>at 10,000 meters:</i>
+
+1283
+01:34:27,972 --> 01:34:29,303
+<i>Frank Shorter.</i>
+
+1284
+01:34:36,814 --> 01:34:38,577
+<i>Ladies and gentlemen:</i>
+
+1285
+01:34:39,484 --> 01:34:40,644
+<i>Pre.</i>
+
+1286
+01:35:03,675 --> 01:35:05,267
+l think that's you.
+
+1287
+01:35:54,726 --> 01:35:58,685
+<i>Pre now moving to the front again.</i>
+<i>The leaders battling the wind.</i>
+
+1288
+01:35:58,896 --> 01:36:00,727
+<i>Kardong running third.</i>
+
+1289
+01:36:10,008 --> 01:36:12,602
+<i>Shorter again takes the lead</i>
+<i>as the runners continue...</i>
+
+1290
+01:36:12,910 --> 01:36:14,070
+Teamwork?
+
+1291
+01:36:15,013 --> 01:36:17,106
+lt's so windy,
+Frank agreed to swap...
+
+1292
+01:36:17,315 --> 01:36:19,545
+...the lead with Steve
+every other lap.
+
+1293
+01:36:19,751 --> 01:36:21,150
+Share the work...
+
+1294
+01:36:21,352 --> 01:36:23,183
+...draft off each other.
+
+1295
+01:36:29,260 --> 01:36:32,195
+<i>Pre moves into the lead</i>
+<i>ahead of Frank Shorter.</i>
+
+1296
+01:36:39,704 --> 01:36:41,638
+<i>Shorter again takes the lead...</i>
+
+1297
+01:36:42,273 --> 01:36:43,604
+He's doing it.
+
+1298
+01:36:49,213 --> 01:36:51,773
+<i>Once again, Pre takes the lead.</i>
+
+1299
+01:36:52,650 --> 01:36:55,949
+Frank's going to
+take the lead right here...
+
+1300
+01:36:56,387 --> 01:36:58,787
+...then the last lap'll
+be every man for himself.
+
+1301
+01:37:03,428 --> 01:37:04,452
+<i>Kardong, third.</i>
+
+1302
+01:37:04,896 --> 01:37:05,760
+Go on!
+
+1303
+01:37:05,963 --> 01:37:07,021
+Run!
+
+1304
+01:37:07,231 --> 01:37:10,257
+Frank should've taken the lead.
+He's not doing it.
+
+1305
+01:37:10,468 --> 01:37:13,767
+There's no way Steve can fight
+the wind for another 2 laps.
+
+1306
+01:37:13,971 --> 01:37:16,098
+<i>In the 3-mile, Pre continues to lead.</i>
+
+1307
+01:37:17,275 --> 01:37:19,743
+<i>Frank Shorter, second, Kardong, third.</i>
+
+1308
+01:37:23,581 --> 01:37:27,415
+<i>With 300 yards to go, Shorter</i>
+<i>makes a strong move to the lead.</i>
+
+1309
+01:37:30,254 --> 01:37:34,486
+<i>Frank Shorter pulling away from the</i>
+<i>field. It's Frank Shorter by 10 yards.</i>
+
+1310
+01:37:34,692 --> 01:37:35,681
+Great.
+
+1311
+01:37:35,960 --> 01:37:37,689
+Munich all over again.
+
+1312
+01:38:12,296 --> 01:38:13,786
+<i>Prefontaine, the winner...</i>
+
+1313
+01:38:13,998 --> 01:38:15,795
+<i>... followed by Shorter.</i>
+
+1314
+01:38:29,480 --> 01:38:31,380
+<i>12:51:4.</i>
+
+1315
+01:38:32,183 --> 01:38:33,775
+<i>A new American record.</i>
+
+1316
+01:38:33,985 --> 01:38:36,647
+<i>The third fastest 3-mile ever run.</i>
+
+1317
+01:38:37,321 --> 01:38:38,310
+<i>Finishing third...</i>
+
+1318
+01:38:38,523 --> 01:38:43,051
+<i>... Don Kardong has run under</i>
+<i>13 minutes for the first time ever.</i>
+
+1319
+01:38:43,361 --> 01:38:44,726
+Under 13.
+
+1320
+01:38:44,996 --> 01:38:46,793
+lsn't that a P.R.?
+
+1321
+01:38:47,231 --> 01:38:48,698
+Congratulations!
+
+1322
+01:39:24,702 --> 01:39:26,033
+Hey, rube.
+
+1323
+01:39:26,604 --> 01:39:28,595
+Want some lemonade?
+
+1324
+01:39:30,775 --> 01:39:31,867
+No.
+
+1325
+01:39:33,878 --> 01:39:35,106
+They've offered me...
+
+1326
+01:39:35,313 --> 01:39:37,941
+...$ 200,000 to turn pro.
+
+1327
+01:39:43,454 --> 01:39:45,081
+What do you think should l do?
+
+1328
+01:39:49,293 --> 01:39:51,761
+l'm not going to tell you
+to turn it down.
+
+1329
+01:39:51,963 --> 01:39:54,397
+l know what that money
+could do for you...
+
+1330
+01:39:54,632 --> 01:39:56,224
+...and your family.
+
+1331
+01:39:58,903 --> 01:40:00,200
+No Montreal...
+
+1332
+01:40:00,571 --> 01:40:02,038
+...obviously.
+
+1333
+01:40:02,573 --> 01:40:04,507
+No Olympics, period.
+
+1334
+01:40:10,648 --> 01:40:13,173
+Where the hell did these come from?
+
+1335
+01:40:13,384 --> 01:40:14,316
+They're yours.
+
+1336
+01:40:15,620 --> 01:40:17,144
+The rubber spikes.
+
+1337
+01:40:25,196 --> 01:40:27,027
+The seam's gone.
+
+1338
+01:40:27,265 --> 01:40:28,994
+Took that out for you.
+
+1339
+01:40:36,974 --> 01:40:38,908
+They're made from your last...
+
+1340
+01:40:39,110 --> 01:40:40,771
+...so try them on.
+
+1341
+01:41:05,903 --> 01:41:07,700
+Stand up on it.
+
+1342
+01:41:14,078 --> 01:41:15,773
+They fit all right.
+
+1343
+01:41:17,982 --> 01:41:19,609
+How do they feel?
+
+1344
+01:41:33,097 --> 01:41:34,928
+Excuse me a minute, Bill.
+
+1345
+01:42:06,464 --> 01:42:08,762
+l'm sorry.
+l ran up to the quarry.
+
+1346
+01:42:08,966 --> 01:42:10,957
+l forgot about the time.
+
+1347
+01:42:38,996 --> 01:42:40,520
+How'd you like them?
+
+1348
+01:42:41,499 --> 01:42:44,366
+You know me.
+l've always been an Adidas freak.
+
+1349
+01:42:44,669 --> 01:42:45,658
+But...
+
+1350
+01:42:45,903 --> 01:42:47,200
+...they're not bad.
+
+1351
+01:42:49,407 --> 01:42:50,635
+Not bad.
+
+1352
+01:42:53,844 --> 01:42:55,368
+Can you make me a couple pair?
+
+1353
+01:42:55,613 --> 01:42:57,376
+What the hell for?
+
+1354
+01:42:59,083 --> 01:43:00,015
+Montreal.
+
+1355
+01:43:06,590 --> 01:43:09,525
+l think l could probably manage a couple.
+
+1356
+01:43:14,098 --> 01:43:16,658
+l'll never understand you, Pre.
+
+1357
+01:43:18,436 --> 01:43:20,404
+Who the hell says you have to?
+
+1358
+01:43:23,374 --> 01:43:25,205
+What are all these cutouts for?
+
+1359
+01:43:25,443 --> 01:43:27,934
+That's kind of my trademark.
+
+1360
+01:43:29,213 --> 01:43:31,340
+Stands for Nike,
+the Goddess of Victory.
+
+1361
+01:43:32,450 --> 01:43:33,644
+Nike?
+
+1362
+01:43:33,884 --> 01:43:35,078
+Yeah, Greek.
+
+1363
+01:43:36,387 --> 01:43:37,581
+l like it.
+
+1364
+01:43:50,735 --> 01:43:52,362
+Get me out of here early.
+
+1365
+01:43:52,570 --> 01:43:54,504
+l'm dying.
+My jaw is throbbing.
+
+1366
+01:43:54,739 --> 01:43:55,728
+Why?
+
+1367
+01:43:55,973 --> 01:43:58,407
+My wisdom teeth
+were extracted 5 days...
+
+1368
+01:43:58,642 --> 01:44:01,577
+You can't stay here!
+You exploded out there today.
+
+1369
+01:44:01,812 --> 01:44:03,973
+Thanks a million.
+l appreciate that.
+
+1370
+01:44:10,087 --> 01:44:11,384
+l need to talk to you.
+
+1371
+01:44:11,622 --> 01:44:12,850
+l'm right here.
+
+1372
+01:44:13,090 --> 01:44:14,887
+Well, wait for me.
+
+1373
+01:44:18,596 --> 01:44:20,427
+So, Pre, l'm ready if you are.
+
+1374
+01:44:20,664 --> 01:44:22,256
+l feel for you. l'm sorry.
+
+1375
+01:44:22,500 --> 01:44:24,365
+l want a ride, not your sympathy.
+
+1376
+01:44:24,602 --> 01:44:26,069
+Okay, one second.
+
+1377
+01:44:26,604 --> 01:44:29,971
+l've been looking for you everywhere.
+Can you wait a second?
+
+1378
+01:44:30,207 --> 01:44:33,108
+- We got to go.
+- l'll be right back, okay?
+
+1379
+01:44:33,344 --> 01:44:35,278
+Please don't leave without me.
+
+1380
+01:45:00,304 --> 01:45:01,669
+Jesus, Frank!
+
+1381
+01:45:01,906 --> 01:45:03,100
+A little privacy, please.
+
+1382
+01:45:03,340 --> 01:45:04,272
+l'm dying.
+
+1383
+01:45:04,508 --> 01:45:06,237
+You got to take me home.
+
+1384
+01:45:08,813 --> 01:45:11,008
+You can always come back, you know.
+
+1385
+01:45:13,551 --> 01:45:15,178
+l will be right back.
+
+1386
+01:45:17,321 --> 01:45:19,380
+l'm not going to let you go.
+
+1387
+01:45:27,898 --> 01:45:28,956
+Let's go.
+
+1388
+01:45:29,733 --> 01:45:31,360
+See you, Mary.
+
+1389
+01:45:39,343 --> 01:45:41,208
+l've made a decision.
+
+1390
+01:45:42,913 --> 01:45:44,175
+ln the next 3 weeks...
+
+1391
+01:45:44,415 --> 01:45:47,748
+...l'll break the world record
+in the 3-mile by 12 seconds.
+
+1392
+01:45:47,952 --> 01:45:49,214
+No kidding?
+
+1393
+01:45:49,420 --> 01:45:51,047
+You want to guess how?
+
+1394
+01:45:51,422 --> 01:45:52,354
+l can't.
+
+1395
+01:45:52,590 --> 01:45:53,887
+Sure you can.
+
+1396
+01:45:54,525 --> 01:45:55,958
+No, l have no idea.
+
+1397
+01:45:56,193 --> 01:45:58,286
+Give it the old college try.
+
+1398
+01:45:58,529 --> 01:46:00,827
+Honest to God, l can't guess.
+
+1399
+01:46:01,265 --> 01:46:02,630
+l'll tell you.
+
+1400
+01:46:02,867 --> 01:46:04,801
+Twelve 63-second quarters.
+
+1401
+01:46:05,002 --> 01:46:06,333
+That's 12:36.
+
+1402
+01:46:06,704 --> 01:46:09,332
+12 seconds faster than 12:48.
+
+1403
+01:46:10,875 --> 01:46:12,001
+How about that?
+
+1404
+01:46:26,123 --> 01:46:27,681
+All right, thanks, Pre.
+
+1405
+01:46:36,901 --> 01:46:38,596
+So what time tomorrow?
+
+1406
+01:46:38,802 --> 01:46:41,236
+Remember, we're going
+to run an easy 10?
+
+1407
+01:46:43,474 --> 01:46:44,463
+We'll see.
+
+1408
+01:46:44,742 --> 01:46:45,902
+10 o'clock?
+
+1409
+01:46:46,577 --> 01:46:48,442
+l said, we'll see.
+
+1410
+01:47:02,760 --> 01:47:05,524
+63 seconds per quarter
+for 12 quarters...
+
+1411
+01:47:05,763 --> 01:47:06,752
+...is 12:36.
+
+1412
+01:47:06,997 --> 01:47:09,227
+12:36, Steve Prefontaine...
+
+1413
+01:47:09,433 --> 01:47:10,798
+...world record!
+
+1414
+01:47:12,503 --> 01:47:15,301
+63 seconds, boom!
+First quarter.
+
+1415
+01:47:15,773 --> 01:47:19,573
+2:06, boom! Second quarter.
+3:09, boom! Third quarter.
+
+1416
+01:47:21,178 --> 01:47:22,907
+8:24 for two miles.
+
+1417
+01:47:23,781 --> 01:47:24,941
+Boom! Right there.
+
+1418
+01:47:25,182 --> 01:47:26,740
+9:27 for nine.
+
+1419
+01:47:28,185 --> 01:47:29,652
+10:30 for ten.
+
+1420
+01:47:29,887 --> 01:47:31,149
+Always holding on.
+
+1421
+01:47:31,522 --> 01:47:33,456
+11:33, one lap to go.
+
+1422
+01:47:33,791 --> 01:47:36,453
+He's holding on.
+He sees it in front of him.
+
+1423
+01:47:37,194 --> 01:47:40,630
+11:33. He's got one lap to go!
+He's got one lap to go!
+
+1424
+01:47:40,864 --> 01:47:43,059
+He's on world-record pace.
+
+1425
+01:47:43,300 --> 01:47:45,461
+200 meters to go, Steve Prefontaine...
+
+1426
+01:48:28,746 --> 01:48:31,943
+<i>One of America's best hopes</i>
+<i>for the 1976 Olympics...</i>
+
+1427
+01:48:32,182 --> 01:48:34,673
+<i>... runner Steve Prefontaine,</i>
+<i>is dead.</i>
+
+1428
+01:48:34,918 --> 01:48:38,354
+<i>America's leading</i>
+<i>long-distance runner...</i>
+
+1429
+01:48:38,589 --> 01:48:41,683
+<i>... was killed last night</i>
+<i>in a car accident.</i>
+
+1430
+01:48:42,026 --> 01:48:45,621
+<i>Just hours before his death,</i>
+<i>the 1972 Olympic runner...</i>
+
+1431
+01:48:45,863 --> 01:48:48,855
+<i>... took part in a meet</i>
+<i>at the University of Oregon.</i>
+
+1432
+01:48:49,099 --> 01:48:53,365
+<i>During his career, he set records</i>
+<i>in almost every long-distance event.</i>
+
+1433
+01:48:53,604 --> 01:48:57,870
+<i>According to police,</i>
+<i>he was driving alone in a convertible.</i>
+
+1434
+01:48:58,108 --> 01:48:59,735
+<i>He was 24.</i>
+
+1435
+01:49:02,179 --> 01:49:04,807
+<i>Pre did everything on a track...</i>
+
+1436
+01:49:05,015 --> 01:49:05,947
+<i>... just about...</i>
+
+1437
+01:49:06,150 --> 01:49:08,710
+...everything on a track
+that a runner can do.
+
+1438
+01:49:09,186 --> 01:49:11,347
+One thing Pre cherished most...
+
+1439
+01:49:11,555 --> 01:49:14,854
+...that he never got was the
+world record at 3 miles.
+
+1440
+01:49:15,059 --> 01:49:17,027
+The last thing Pre said to me...
+
+1441
+01:49:17,261 --> 01:49:18,990
+...was that the next time
+he'd run three miles...
+
+1442
+01:49:19,196 --> 01:49:21,323
+...he'd do it in
+12 minutes and 36 seconds...
+
+1443
+01:49:21,532 --> 01:49:24,729
+...beating the world record
+by 12 seconds.
+
+1444
+01:49:27,004 --> 01:49:28,528
+We're timing the eulogy.
+
+1445
+01:49:31,508 --> 01:49:34,739
+We'll deliver it
+in 12 minutes, 36 seconds...
+
+1446
+01:49:34,945 --> 01:49:36,640
+...then we'll stop the clock...
+
+1447
+01:49:36,847 --> 01:49:40,214
+...and as far as we're concerned,
+Pre will have his record.
+
+1448
+01:49:40,984 --> 01:49:42,645
+All of my life...
+
+1449
+01:49:42,853 --> 01:49:44,684
+...man and boy...
+
+1450
+01:49:44,888 --> 01:49:46,753
+...l've operated
+under the assumption...
+
+1451
+01:49:46,957 --> 01:49:51,326
+...that the main idea in running
+was to win the damn race.
+
+1452
+01:49:52,963 --> 01:49:54,555
+When l became a coach...
+
+1453
+01:49:54,765 --> 01:49:57,893
+...l tried to teach people
+how to do that.
+
+1454
+01:49:58,102 --> 01:50:00,093
+l tried to teach Pre how to do that.
+
+1455
+01:50:01,572 --> 01:50:04,598
+l tried like hell
+to teach Pre to do that.
+
+1456
+01:50:05,042 --> 01:50:07,203
+And Pre taught me...
+
+1457
+01:50:07,811 --> 01:50:11,076
+...taught me l was wrong.
+
+1458
+01:50:11,748 --> 01:50:14,615
+Pre, you see,
+was troubled by knowing...
+
+1459
+01:50:14,818 --> 01:50:18,219
+...a mediocre effort
+can win a race.
+
+1460
+01:50:18,422 --> 01:50:21,755
+And a magnificent effort
+can lose one.
+
+1461
+01:50:21,959 --> 01:50:24,860
+Winning a race wouldn't
+necessarily demand...
+
+1462
+01:50:25,062 --> 01:50:29,260
+...that he give it everything
+he had from start to finish.
+
+1463
+01:50:30,100 --> 01:50:32,568
+He never ran any other way.
+
+1464
+01:50:32,769 --> 01:50:35,237
+l tried to get him to.
+
+1465
+01:50:35,439 --> 01:50:38,203
+God knows, l tried.
+
+1466
+01:50:38,408 --> 01:50:40,672
+But Pre was stubborn.
+
+1467
+01:50:40,878 --> 01:50:42,869
+He insisted on holding himself...
+
+1468
+01:50:43,080 --> 01:50:46,015
+...to a higher standard than victory.
+
+1469
+01:50:46,683 --> 01:50:47,775
+A race...
+
+1470
+01:50:47,985 --> 01:50:50,215
+...is a work of art.
+
+1471
+01:50:50,654 --> 01:50:52,144
+That's what he said.
+
+1472
+01:50:52,856 --> 01:50:54,687
+That's what he believed.
+
+1473
+01:50:54,892 --> 01:50:57,417
+And he was out to make it one...
+
+1474
+01:50:57,628 --> 01:51:00,028
+...every step of the way.
+
+1475
+01:51:01,331 --> 01:51:03,526
+Of course, he wanted to win.
+
+1476
+01:51:03,734 --> 01:51:08,000
+Those who saw him compete and
+those who competed against him...
+
+1477
+01:51:08,205 --> 01:51:12,039
+...were never in any doubt about
+how much he wanted to win.
+
+1478
+01:51:12,743 --> 01:51:15,337
+But how he won...
+
+1479
+01:51:15,546 --> 01:51:17,741
+...mattered to him more.
+
+1480
+01:51:19,116 --> 01:51:21,744
+Pre thought l was a hard case.
+
+1481
+01:51:23,587 --> 01:51:26,351
+But he finally
+got it through my head...
+
+1482
+01:51:26,557 --> 01:51:29,219
+...that the real purpose of running...
+
+1483
+01:51:29,426 --> 01:51:31,587
+...isn't to win a race.
+
+1484
+01:51:33,096 --> 01:51:35,530
+lt's to test the limits...
+
+1485
+01:51:35,732 --> 01:51:37,666
+...of the human heart.
+
+1486
+01:51:39,703 --> 01:51:41,466
+And that he did.
+
+1487
+01:51:42,539 --> 01:51:45,406
+Nobody did it more often.
+
+1488
+01:51:48,278 --> 01:51:51,076
+Nobody did it better.
+
+1489
+01:53:12,229 --> 01:53:16,529
+<i>And we stopped the clock at</i>
+<i>12 minutes and 36 seconds.</i>
+
+1490
+01:53:16,733 --> 01:53:18,462
+<i>A world-record time...</i>
+
+1491
+01:53:18,669 --> 01:53:21,263
+<i>... with which Steve Prefontaine...</i>
+
+1492
+01:53:21,471 --> 01:53:23,905
+<i>... would have been well satisfied.</i>

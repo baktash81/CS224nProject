@@ -1,0 +1,4604 @@
+1
+00:01:18,871 --> 00:01:22,806
+[speaking in foreign language]
+
+2
+00:01:45,277 --> 00:01:48,901
+- [Voiceover]
+Identification is completed.
+
+3
+00:03:14,746 --> 00:03:17,680
+[people murmuring]
+
+4
+00:03:47,779 --> 00:03:49,032
+- [Voiceover] Okay,
+welcome to CERN.
+
+5
+00:03:49,056 --> 00:03:51,369
+This is in fact the
+control room for the
+
+6
+00:03:51,403 --> 00:03:52,956
+Atlas experiment.
+
+7
+00:03:52,991 --> 00:03:56,615
+Atlas is one of the four
+large experiments now
+
+8
+00:03:56,650 --> 00:03:58,997
+going on at the LHC,
+
+9
+00:03:59,031 --> 00:04:01,241
+the large hadron collider.
+
+10
+00:04:01,275 --> 00:04:05,417
+The large hadron collider is
+a huge ring of 27 kilometers,
+
+11
+00:04:05,452 --> 00:04:08,869
+and that's an accelerator
+where we accelerate protons
+
+12
+00:04:08,903 --> 00:04:10,146
+in two different directions,
+
+13
+00:04:10,180 --> 00:04:12,631
+and then they collide
+in four points.
+
+14
+00:04:12,666 --> 00:04:15,393
+We are just above one of
+those colliding points at
+
+15
+00:04:15,427 --> 00:04:17,878
+the Atlas experiment.
+
+16
+00:04:17,912 --> 00:04:19,259
+So Atlas is both
+
+17
+00:04:20,432 --> 00:04:23,987
+a large collaboration
+of about 3,000 people,
+
+18
+00:04:24,850 --> 00:04:25,748
+I'm one of them,
+
+19
+00:04:25,782 --> 00:04:27,267
+my name is Pauline Gagnon,
+
+20
+00:04:27,301 --> 00:04:28,751
+I'm Canadian.
+
+21
+00:04:28,785 --> 00:04:30,787
+I work for an
+American institute,
+
+22
+00:04:30,822 --> 00:04:32,720
+Indiana University,
+
+23
+00:04:32,755 --> 00:04:34,964
+and I live here in France,
+
+24
+00:04:34,998 --> 00:04:36,241
+and work in Switzerland,
+
+25
+00:04:36,276 --> 00:04:38,830
+but that's just about
+the kind of sociology
+
+26
+00:04:38,864 --> 00:04:41,108
+that you have with the
+people here at CERN.
+
+27
+00:04:41,142 --> 00:04:43,800
+So it's a very mixed background.
+
+28
+00:04:43,835 --> 00:04:46,251
+On Atlas alone we have people
+
+29
+00:04:46,286 --> 00:04:49,047
+from more than 70
+different countries.
+
+30
+00:04:49,081 --> 00:04:51,808
+There are only 38 countries
+
+31
+00:04:51,843 --> 00:04:53,327
+participating in the experiment,
+
+32
+00:04:53,362 --> 00:04:56,330
+but since people like me...
+
+33
+00:04:56,365 --> 00:04:59,022
+I'm Canadian, and I grew up
+in American institute so then
+
+34
+00:04:59,057 --> 00:05:03,579
+there are people from different
+countries working together.
+
+35
+00:05:03,613 --> 00:05:06,685
+The common language to
+work is broken English,
+
+36
+00:05:06,720 --> 00:05:08,446
+so everybody speaks it
+
+37
+00:05:08,480 --> 00:05:12,277
+with their own mistakes
+and their own accent,
+
+38
+00:05:12,312 --> 00:05:13,105
+and all that.
+
+39
+00:05:13,140 --> 00:05:14,590
+So but people get along,
+
+40
+00:05:14,624 --> 00:05:17,075
+and we usually
+get the work done.
+
+41
+00:05:17,109 --> 00:05:20,009
+[people murmuring]
+
+42
+00:05:23,426 --> 00:05:25,773
+All this, though, you may wonder
+
+43
+00:05:25,808 --> 00:05:27,223
+what's the purpose of all this?
+
+44
+00:05:27,257 --> 00:05:28,431
+Why do we do...
+
+45
+00:05:28,466 --> 00:05:32,332
+Why do we go to such an
+extent, so much work?
+
+46
+00:05:32,366 --> 00:05:34,851
+3,000 people just to
+build the detector,
+
+47
+00:05:34,886 --> 00:05:39,546
+and work on it, and analyze
+the data that comes out of it.
+
+48
+00:05:39,580 --> 00:05:42,928
+Essentially, it's just
+to increase the knowledge
+
+49
+00:05:42,963 --> 00:05:45,379
+about what matter is made of.
+
+50
+00:05:45,414 --> 00:05:48,727
+What is the universe
+where we live?
+
+51
+00:05:48,762 --> 00:05:50,695
+What is this place we are in,
+
+52
+00:05:50,729 --> 00:05:52,179
+and where did it come from?
+
+53
+00:05:52,213 --> 00:05:53,283
+Where is it going?
+
+54
+00:05:53,318 --> 00:05:55,078
+So it's very
+fundamental question.
+
+55
+00:05:55,113 --> 00:05:58,841
+It's nothing that puts food
+on your plate right away.
+
+56
+00:05:58,875 --> 00:06:00,498
+The food might come
+later on, you know,
+
+57
+00:06:00,532 --> 00:06:03,121
+because with research
+you never know
+
+58
+00:06:03,155 --> 00:06:05,123
+what will come out of it.
+
+59
+00:06:05,157 --> 00:06:06,296
+We're going out,
+
+60
+00:06:06,331 --> 00:06:08,575
+and let's see what we find.
+
+61
+00:06:10,266 --> 00:06:12,337
+It's a bit like mushroom
+hunts, you know.
+
+62
+00:06:12,372 --> 00:06:14,246
+You can bring back something
+that is really good,
+
+63
+00:06:14,270 --> 00:06:15,236
+then you make a good dish,
+
+64
+00:06:15,271 --> 00:06:16,445
+or you might not come back
+
+65
+00:06:16,479 --> 00:06:18,481
+with anything suitable.
+
+66
+00:06:18,516 --> 00:06:21,519
+So, I was saying earlier
+that we have the accelerator
+
+67
+00:06:21,553 --> 00:06:23,590
+which accelerates the particles,
+
+68
+00:06:23,624 --> 00:06:25,902
+and then we have the
+detectors that are there
+
+69
+00:06:25,937 --> 00:06:28,111
+just to detect what comes up.
+
+70
+00:06:28,146 --> 00:06:31,598
+A detector is just
+a very fancy camera.
+
+71
+00:06:31,632 --> 00:06:35,464
+So we take a snapshot of
+what happens when two protons
+
+72
+00:06:35,498 --> 00:06:37,293
+come into collisions.
+
+73
+00:06:38,605 --> 00:06:41,124
+All the energy released
+in the collision
+
+74
+00:06:41,159 --> 00:06:43,817
+then is in one small tiny point,
+
+75
+00:06:44,990 --> 00:06:47,407
+and it allows you to
+create a particle,
+
+76
+00:06:47,441 --> 00:06:49,961
+because E equals MC squared.
+
+77
+00:06:49,995 --> 00:06:51,721
+So the energy that
+you have put there,
+
+78
+00:06:51,756 --> 00:06:54,103
+you can transform it into mass.
+
+79
+00:06:54,137 --> 00:06:56,346
+The C squared's just
+the exchange rate
+
+80
+00:06:56,381 --> 00:06:58,176
+between energy and mass.
+
+81
+00:06:58,210 --> 00:06:59,936
+So we can create new particles,
+
+82
+00:06:59,971 --> 00:07:02,076
+and study how they behave.
+
+83
+00:07:04,078 --> 00:07:07,150
+[people murmuring]
+
+84
+00:07:07,185 --> 00:07:09,946
+[alarm sounding]
+
+85
+00:07:15,089 --> 00:07:17,989
+[machine whirring]
+
+86
+00:08:05,761 --> 00:08:08,660
+[people murmuring]
+
+87
+00:08:23,261 --> 00:08:26,195
+[machine whirring]
+
+88
+00:08:27,576 --> 00:08:30,302
+[alarm sounding]
+
+89
+00:08:59,193 --> 00:09:02,024
+[people murmuring]
+
+90
+00:09:11,965 --> 00:09:13,598
+- [Voiceover] I saw in
+1995 there was an opening
+
+91
+00:09:13,622 --> 00:09:16,970
+at CERN, and LHC was
+due to start very soon,
+
+92
+00:09:17,004 --> 00:09:18,592
+and so this is why I decided
+
+93
+00:09:18,627 --> 00:09:20,525
+it could be a good opportunity,
+
+94
+00:09:20,560 --> 00:09:21,940
+and that's why I jumped.
+
+95
+00:09:21,975 --> 00:09:25,772
+I think it's actually
+beautiful to be a part
+
+96
+00:09:25,806 --> 00:09:29,016
+of modern cathedrals building.
+
+97
+00:09:29,051 --> 00:09:30,535
+That's the way I see it.
+
+98
+00:09:30,570 --> 00:09:34,194
+It's like being a
+community with a single aim
+
+99
+00:09:34,228 --> 00:09:35,609
+and a single scope.
+
+100
+00:09:35,644 --> 00:09:38,163
+And we are producing
+machines that actually
+
+101
+00:09:38,198 --> 00:09:41,684
+nobody has built before,
+like a cathedral.
+
+102
+00:09:42,651 --> 00:09:45,654
+[machines whirring]
+
+103
+00:09:48,864 --> 00:09:50,520
+I'm in charge of
+the magnets at CERN,
+
+104
+00:09:50,555 --> 00:09:52,015
+everything that has
+to do with magnets
+
+105
+00:09:52,039 --> 00:09:53,558
+for the machines,
+
+106
+00:09:53,593 --> 00:09:56,906
+and I arrived at CERN in 1995
+after a few years working
+
+107
+00:09:56,941 --> 00:09:58,943
+for thermonuclear fusion,
+
+108
+00:09:58,977 --> 00:10:00,841
+and I think I was lured
+there by the adventure
+
+109
+00:10:00,876 --> 00:10:02,015
+of the LHC,
+
+110
+00:10:02,049 --> 00:10:03,982
+so it was at the
+beginning of the LHC,
+
+111
+00:10:04,017 --> 00:10:06,536
+and in fact where we
+are today is the hole
+
+112
+00:10:06,571 --> 00:10:08,815
+where we do all the
+maintenance, the work,
+
+113
+00:10:08,849 --> 00:10:12,163
+the construction,
+the reconstruction
+of the LHC magnets.
+
+114
+00:10:12,197 --> 00:10:14,475
+We do mostly dipoles here,
+
+115
+00:10:14,510 --> 00:10:15,729
+and we work in
+quadropoles as well.
+
+116
+00:10:15,753 --> 00:10:17,651
+So these are the main
+elements that make up
+
+117
+00:10:17,686 --> 00:10:20,999
+the superconducting
+cryostat of the LHC.
+
+118
+00:10:23,381 --> 00:10:25,659
+Well, magnets are the main mass
+
+119
+00:10:25,694 --> 00:10:27,247
+in an accelerator.
+
+120
+00:10:27,281 --> 00:10:28,869
+As you've seen,
+accelerators at CERN,
+
+121
+00:10:28,904 --> 00:10:31,458
+magnets guide particles.
+
+122
+00:10:31,492 --> 00:10:34,357
+They drive them around
+on a circular path,
+
+123
+00:10:34,392 --> 00:10:36,636
+so that they can go back
+to the real accelerating
+
+124
+00:10:36,670 --> 00:10:38,465
+component, which is a [mumbles].
+
+125
+00:10:38,499 --> 00:10:40,674
+But they need to do
+that thousands of times
+
+126
+00:10:40,709 --> 00:10:43,021
+and tens of thousands
+of times a second,
+
+127
+00:10:43,056 --> 00:10:44,229
+like in the LHC.
+
+128
+00:10:44,264 --> 00:10:45,379
+So the main function
+of the magnet
+
+129
+00:10:45,403 --> 00:10:47,129
+is to guide the particles back,
+
+130
+00:10:47,163 --> 00:10:49,027
+so this is what we call dipoles,
+
+131
+00:10:49,062 --> 00:10:50,477
+and they have to focus them onto
+
+132
+00:10:50,511 --> 00:10:53,204
+the closed orbit of the machine,
+
+133
+00:10:53,238 --> 00:10:54,757
+and this is the quadropole.
+
+134
+00:10:54,792 --> 00:10:56,034
+In addition to that,
+
+135
+00:10:56,069 --> 00:10:57,598
+the quadropole, they
+also squeeze the beam
+
+136
+00:10:57,622 --> 00:10:58,623
+down to the small size,
+
+137
+00:10:58,658 --> 00:11:00,280
+like smaller than a hair
+
+138
+00:11:00,314 --> 00:11:01,902
+in the experimental region.
+
+139
+00:11:01,937 --> 00:11:05,354
+This is the main
+function of the magnets.
+
+140
+00:11:06,735 --> 00:11:10,670
+The video and ideal of
+the powers and strength,
+
+141
+00:11:11,774 --> 00:11:14,846
+I think let's start with
+the electrical power
+
+142
+00:11:14,881 --> 00:11:16,227
+that we're using
+
+143
+00:11:16,261 --> 00:11:17,746
+because we need electrical power
+
+144
+00:11:17,780 --> 00:11:19,437
+to run the machines.
+
+145
+00:11:19,471 --> 00:11:22,647
+So CERN is using
+roughly 160 megawatts
+
+146
+00:11:24,442 --> 00:11:27,928
+of electrical power to run
+all these accelerators,
+
+147
+00:11:27,963 --> 00:11:30,172
+and that's more or
+less the consumption
+
+148
+00:11:30,206 --> 00:11:31,932
+of a small city like Geneva,
+
+149
+00:11:31,967 --> 00:11:34,590
+so it requires
+indeed a lot of power
+
+150
+00:11:34,624 --> 00:11:39,388
+in spite of the fact that
+we're using superconductors.
+
+151
+00:11:39,422 --> 00:11:42,909
+So the LHC by itself
+uses about 60 megawatts,
+
+152
+00:11:42,943 --> 00:11:46,015
+and the whole complex
+before the pre-injectors
+
+153
+00:11:46,050 --> 00:11:48,742
+use also about 60 megawatts
+to inject the beam
+
+154
+00:11:48,777 --> 00:11:49,847
+into the LHC.
+
+155
+00:11:51,020 --> 00:11:52,573
+As to the magnetic field,
+
+156
+00:11:52,608 --> 00:11:56,543
+to give you a feeling for how
+strong the magnetic field is,
+
+157
+00:11:56,577 --> 00:11:58,096
+you should imagine
+a magnetic field
+
+158
+00:11:58,131 --> 00:12:01,134
+in our magnets of eight tesla,
+
+159
+00:12:01,168 --> 00:12:02,514
+produces forces.
+
+160
+00:12:03,688 --> 00:12:06,864
+And these magnets
+are 15 meters long,
+
+161
+00:12:06,898 --> 00:12:09,521
+and the forces that you
+produce on the magnet
+
+162
+00:12:09,556 --> 00:12:13,802
+are of the order of 350
+tons per half magnet.
+
+163
+00:12:13,836 --> 00:12:16,528
+So 350 tons per meter of magnets
+
+164
+00:12:18,358 --> 00:12:21,050
+for every half of the magnet.
+
+165
+00:12:21,085 --> 00:12:23,501
+So it's a lot of weight
+that needs to be taken
+
+166
+00:12:23,535 --> 00:12:26,331
+by the very strong structures
+that we put around them.
+
+167
+00:12:26,366 --> 00:12:28,817
+This is why the magnets
+are all encircled
+
+168
+00:12:28,851 --> 00:12:31,509
+in these very strong
+structural steel
+
+169
+00:12:31,543 --> 00:12:34,650
+that is keeping them together.
+
+170
+00:12:34,684 --> 00:12:36,376
+As to the magnetic field itself,
+
+171
+00:12:36,410 --> 00:12:39,344
+so the field nominal
+is eight tesla.
+
+172
+00:12:39,379 --> 00:12:40,977
+You can compare that
+to the magnetic field
+
+173
+00:12:41,001 --> 00:12:42,244
+of the earth,
+
+174
+00:12:42,278 --> 00:12:45,868
+which you can barely see
+with a magnetic needle,
+
+175
+00:12:45,903 --> 00:12:48,319
+so the earth is
+producing here in Geneva
+
+176
+00:12:48,353 --> 00:12:49,907
+about half a gauss,
+
+177
+00:12:51,149 --> 00:12:53,048
+and if I compare that
+to the magnetic field
+
+178
+00:12:53,082 --> 00:12:54,082
+of the LHC,
+
+179
+00:12:54,877 --> 00:12:56,396
+it is eight tesla.
+
+180
+00:12:57,328 --> 00:12:59,986
+That's a factor of 100,000 more.
+
+181
+00:13:00,020 --> 00:13:01,366
+So we're producing in the LHC
+
+182
+00:13:01,401 --> 00:13:03,472
+100,000 more magnetic field
+
+183
+00:13:03,506 --> 00:13:06,302
+than we do compared
+to the magnetic field
+
+184
+00:13:06,337 --> 00:13:07,407
+of the earth.
+
+185
+00:13:14,828 --> 00:13:17,727
+[people murmuring]
+
+186
+00:15:11,669 --> 00:15:14,603
+[machine whirring]
+
+187
+00:15:47,877 --> 00:15:50,742
+- [Voiceover] We are at
+90 meters underground
+
+188
+00:15:50,777 --> 00:15:52,952
+between the Jura and
+the Lake of Geneva,
+
+189
+00:15:52,986 --> 00:15:57,611
+and this is the cavern
+of the ATLAS experiment.
+
+190
+00:15:57,646 --> 00:16:01,236
+It's the biggest experiment
+in high energy physics
+
+191
+00:16:01,270 --> 00:16:02,651
+we ever built,
+
+192
+00:16:02,685 --> 00:16:04,722
+so the cavern is huge.
+
+193
+00:16:04,756 --> 00:16:07,690
+It's 60 meters by
+30 meters cavern,
+
+194
+00:16:08,691 --> 00:16:09,969
+and inside there is a detector
+
+195
+00:16:10,003 --> 00:16:11,798
+at least 7,000 tons.
+
+196
+00:16:11,832 --> 00:16:15,491
+It's the same weight of
+the Tour Eiffel in Paris,
+
+197
+00:16:15,526 --> 00:16:18,287
+and the cavern is fully
+occupied, in fact,
+
+198
+00:16:18,322 --> 00:16:19,875
+by our detector,
+
+199
+00:16:19,909 --> 00:16:22,533
+and this is one of the detectors
+
+200
+00:16:22,567 --> 00:16:24,845
+that has measured the expulsion
+
+201
+00:16:24,880 --> 00:16:27,538
+this year and last year,
+
+202
+00:16:27,572 --> 00:16:29,574
+and now we are in
+maintenance mode,
+
+203
+00:16:29,609 --> 00:16:32,715
+so this a period
+in which we stop,
+
+204
+00:16:32,750 --> 00:16:33,647
+we open the detector,
+
+205
+00:16:33,682 --> 00:16:35,166
+and we work on it.
+
+206
+00:16:43,140 --> 00:16:47,144
+So the aim of all
+this is quite varied.
+
+207
+00:16:47,178 --> 00:16:50,492
+So one of the main
+aim that this...
+
+208
+00:16:50,526 --> 00:16:52,356
+The one that you can
+find on the press
+
+209
+00:16:52,390 --> 00:16:55,807
+is the discovery
+of the expulsion.
+
+210
+00:16:55,842 --> 00:16:58,431
+That is, apart from
+being a particle,
+
+211
+00:16:58,465 --> 00:16:59,880
+it's a mechanism.
+
+212
+00:16:59,915 --> 00:17:03,884
+It's a field and is the
+mechanism that gives the mass
+
+213
+00:17:03,919 --> 00:17:06,059
+to all the other particles,
+
+214
+00:17:06,094 --> 00:17:08,268
+but this is only one of the aims
+
+215
+00:17:08,303 --> 00:17:09,511
+of this detector.
+
+216
+00:17:09,545 --> 00:17:11,754
+This is a general
+particles detector,
+
+217
+00:17:11,789 --> 00:17:15,068
+and can measure several
+aspects of the nature
+
+218
+00:17:15,103 --> 00:17:17,001
+and the several
+aspects of the nature
+
+219
+00:17:17,036 --> 00:17:20,108
+in this very tiny dimensions,
+
+220
+00:17:20,142 --> 00:17:22,420
+and this very back in time.
+
+221
+00:17:23,559 --> 00:17:26,804
+The accelerator itself
+is a time machine,
+
+222
+00:17:26,838 --> 00:17:29,807
+and going up with
+energy allows us to go
+
+223
+00:17:29,841 --> 00:17:33,500
+back in time and to
+reach just a tiny amount
+
+224
+00:17:34,743 --> 00:17:36,676
+of time after Big Bang.
+
+225
+00:17:39,368 --> 00:17:43,821
+The description of the
+nature as we know today
+
+226
+00:17:43,855 --> 00:17:46,962
+is at the moment, I would
+say, quite complete,
+
+227
+00:17:46,996 --> 00:17:50,103
+especially after the
+discovery of the expulsions,
+
+228
+00:17:50,138 --> 00:17:53,969
+but there are many things
+we don't understand
+
+229
+00:17:54,003 --> 00:17:56,903
+for which this detector
+has been built for,
+
+230
+00:17:56,937 --> 00:18:00,976
+and this, for example, is
+questions about dark matter,
+
+231
+00:18:01,010 --> 00:18:04,600
+and, well, there is one
+very basic question.
+
+232
+00:18:04,635 --> 00:18:06,947
+That is the difference
+between the amount of matter
+
+233
+00:18:06,982 --> 00:18:08,294
+and anti-matter,
+
+234
+00:18:09,778 --> 00:18:14,127
+because all this knowledge,
+all this building
+
+235
+00:18:14,162 --> 00:18:16,819
+on knowledge and
+building of materials
+
+236
+00:18:16,854 --> 00:18:19,028
+tells you that the Big Bang
+
+237
+00:18:19,063 --> 00:18:22,377
+at the certain moment
+in time beginning,
+
+238
+00:18:24,655 --> 00:18:27,899
+and all the matter,
+all the matter
+
+239
+00:18:27,934 --> 00:18:30,626
+that exists in the universe now
+
+240
+00:18:30,661 --> 00:18:33,146
+comes from a very
+small point from
+
+241
+00:18:33,181 --> 00:18:36,115
+where everything
+expanded in a way,
+
+242
+00:18:38,703 --> 00:18:40,119
+to give an image.
+
+243
+00:18:41,050 --> 00:18:43,225
+But to have this...
+
+244
+00:18:43,260 --> 00:18:46,194
+Find a tiny point with
+this anonymous amount
+
+245
+00:18:46,228 --> 00:18:48,679
+of energy and matter density,
+
+246
+00:18:52,407 --> 00:18:55,720
+you must have a way
+to put those together,
+
+247
+00:18:55,755 --> 00:19:00,346
+and the only conceivable
+way you can see about this
+
+248
+00:19:00,380 --> 00:19:03,245
+is a symmetric way of thinking,
+
+249
+00:19:03,280 --> 00:19:04,740
+in that you must
+have the same amount
+
+250
+00:19:04,764 --> 00:19:07,180
+of matter and anti-matter.
+
+251
+00:19:07,215 --> 00:19:09,734
+And then of course,
+you can ask yourself
+
+252
+00:19:09,769 --> 00:19:11,357
+so why there is not
+
+253
+00:19:12,530 --> 00:19:15,982
+myself in antimatter
+that is destroying me.
+
+254
+00:19:17,156 --> 00:19:19,399
+So in a way there
+is a tiny difference
+
+255
+00:19:19,434 --> 00:19:21,470
+between the matter
+and the anti-matter
+
+256
+00:19:21,505 --> 00:19:23,679
+that makes all this exist,
+
+257
+00:19:25,233 --> 00:19:27,269
+and this is certainly a mystery.
+
+258
+00:19:27,304 --> 00:19:31,584
+There are other mysteries like
+the amount of dark matter.
+
+259
+00:19:31,618 --> 00:19:33,620
+We see that if we look...
+
+260
+00:19:35,450 --> 00:19:38,280
+We can look at this
+kind of phenomena
+
+261
+00:19:38,315 --> 00:19:40,558
+also in the space,
+
+262
+00:19:40,593 --> 00:19:42,767
+and we can look at the
+matter in the space,
+
+263
+00:19:42,802 --> 00:19:45,943
+and we cannot really
+compute totally the matter
+
+264
+00:19:45,977 --> 00:19:47,220
+that is in the space.
+
+265
+00:19:47,255 --> 00:19:49,395
+We can compute it,
+
+266
+00:19:49,429 --> 00:19:51,190
+but we see that
+there is a deficit,
+
+267
+00:19:51,224 --> 00:19:53,261
+and there is what we
+call the dark matter
+
+268
+00:19:53,295 --> 00:19:54,538
+and the dark energy,
+
+269
+00:19:54,572 --> 00:19:58,058
+that they are not
+exactly the same thing.
+
+270
+00:19:58,093 --> 00:20:00,958
+To make this size of universe,
+
+271
+00:20:00,992 --> 00:20:04,651
+and this way, the matter
+is distributed possible,
+
+272
+00:20:04,686 --> 00:20:07,067
+and this is certainly a mystery.
+
+273
+00:20:07,102 --> 00:20:09,449
+Another mystery I would
+like to give you is
+
+274
+00:20:09,484 --> 00:20:12,832
+that I explain to you
+that to the energy
+
+275
+00:20:14,592 --> 00:20:17,837
+and the time, they
+are correlated,
+
+276
+00:20:17,871 --> 00:20:20,909
+and the product of the
+energy and the time
+
+277
+00:20:20,943 --> 00:20:23,739
+has to give you a constant.
+
+278
+00:20:23,774 --> 00:20:26,570
+Now if you think for
+a moment that the time
+
+279
+00:20:26,604 --> 00:20:28,606
+that you aim at is zero,
+
+280
+00:20:29,642 --> 00:20:31,575
+then to keep this as a constant,
+
+281
+00:20:31,609 --> 00:20:34,129
+the energy has to be infinite.
+
+282
+00:20:35,303 --> 00:20:38,547
+So there is into this
+itself a paradox,
+
+283
+00:20:38,582 --> 00:20:42,344
+and there is something that
+maybe we cannot approach.
+
+284
+00:20:42,379 --> 00:20:43,897
+We can do our best,
+
+285
+00:20:43,932 --> 00:20:48,005
+but the time zero is
+something that is difficult.
+
+286
+00:20:52,181 --> 00:20:55,115
+[people murmuring]
+
+287
+00:21:20,796 --> 00:21:23,730
+[machine whirring]
+
+288
+00:23:02,553 --> 00:23:04,969
+- [Voiceover] What we do,
+
+289
+00:23:05,004 --> 00:23:08,559
+we do in the research
+sounds a bit strange.
+
+290
+00:23:10,492 --> 00:23:13,771
+I mean, we in one
+hand, we want to make
+
+291
+00:23:15,463 --> 00:23:19,225
+a confirmation or test
+of our present theory,
+
+292
+00:23:23,919 --> 00:23:25,438
+and at the same time,
+
+293
+00:23:25,473 --> 00:23:27,578
+we are always
+looking for something
+
+294
+00:23:27,613 --> 00:23:31,133
+which I asks destroying
+our present theory
+
+295
+00:23:35,724 --> 00:23:39,245
+to go to something,
+to find something new.
+
+296
+00:23:52,189 --> 00:23:55,503
+Yeah, you direct to
+have the explanation
+
+297
+00:23:57,401 --> 00:23:59,990
+of this Higgs particle.
+
+298
+00:24:00,024 --> 00:24:00,749
+[laughing]
+
+299
+00:24:00,784 --> 00:24:01,992
+Yeah, this is...
+
+300
+00:24:02,026 --> 00:24:05,133
+Yes, I mean, the Higgs
+mechanism, I have...
+
+301
+00:24:08,205 --> 00:24:09,758
+This is one of my...
+
+302
+00:24:15,212 --> 00:24:19,388
+I have been wondering how
+one can explain correctly
+
+303
+00:24:21,080 --> 00:24:23,910
+and easily the
+role of Higgs field
+
+304
+00:24:26,465 --> 00:24:29,398
+and Higgs mechanism
+and the Higgs particle.
+
+305
+00:24:29,433 --> 00:24:30,479
+[laughing] And this is something
+
+306
+00:24:30,503 --> 00:24:33,161
+which is difficult for me to do.
+
+307
+00:24:34,334 --> 00:24:36,405
+Yeah, how to explain is...
+
+308
+00:24:48,832 --> 00:24:51,455
+Higgs also does such a special,
+
+309
+00:24:52,318 --> 00:24:54,631
+very unique, important role,
+
+310
+00:24:56,184 --> 00:24:59,083
+even, I mean,
+allowing us to exist.
+
+311
+00:25:01,948 --> 00:25:04,364
+This such a important particle
+
+312
+00:25:04,399 --> 00:25:06,401
+has never been discovered until
+
+313
+00:25:06,435 --> 00:25:08,437
+just until one year ago.
+
+314
+00:25:09,818 --> 00:25:12,614
+So this is a kind
+of very, I mean,
+
+315
+00:25:12,649 --> 00:25:14,754
+frustrating situation.
+
+316
+00:25:14,789 --> 00:25:17,377
+We know that theory
+works very well.
+
+317
+00:25:17,412 --> 00:25:21,174
+However, one of the key
+element of the theory
+
+318
+00:25:24,039 --> 00:25:27,077
+wasn't confirmed by experiment.
+
+319
+00:25:27,111 --> 00:25:30,045
+Nobody have seen
+this exist or not,
+
+320
+00:25:32,392 --> 00:25:34,740
+and now, we have very likely
+
+321
+00:25:37,777 --> 00:25:38,916
+be discovered.
+
+322
+00:25:38,951 --> 00:25:41,816
+This has very likely
+be discovered,
+
+323
+00:25:41,850 --> 00:25:45,474
+so in a sense, this
+has the last piece
+
+324
+00:25:45,509 --> 00:25:47,407
+of our theory has been,
+
+325
+00:25:48,961 --> 00:25:52,723
+I mean, found and put
+into the jigsaw puzzle,
+
+326
+00:25:54,553 --> 00:25:55,623
+but this is...
+
+327
+00:25:57,866 --> 00:25:59,661
+If it is jigsaw puzzle,
+
+328
+00:25:59,696 --> 00:26:01,249
+then it is a completion,
+
+329
+00:26:01,283 --> 00:26:03,009
+and you may just, I mean,
+
+330
+00:26:03,044 --> 00:26:05,046
+the glue and put on the wall,
+
+331
+00:26:05,080 --> 00:26:08,325
+or you may want to
+disassemble instead,
+
+332
+00:26:08,359 --> 00:26:11,846
+but in physics, this
+doesn't go like this.
+
+333
+00:26:13,261 --> 00:26:17,265
+Up to the analogy of last
+piece of jigsaw puzzle
+
+334
+00:26:17,299 --> 00:26:18,197
+works fine,
+
+335
+00:26:18,231 --> 00:26:20,337
+but as soon as after that,
+
+336
+00:26:21,580 --> 00:26:24,444
+the analogy doesn't
+uphold anymore.
+
+337
+00:26:24,479 --> 00:26:26,619
+So what we want to do is...
+
+338
+00:26:31,106 --> 00:26:35,386
+First of all, we have to
+confirm, still confirm,
+
+339
+00:26:35,421 --> 00:26:37,699
+if this particle is
+really the last piece
+
+340
+00:26:37,734 --> 00:26:41,910
+of this jigsaw puzzle, not
+something similar, but...
+
+341
+00:26:43,394 --> 00:26:45,949
+Which may be totally different.
+
+342
+00:26:47,709 --> 00:26:50,643
+[people murmuring]
+
+343
+00:28:13,484 --> 00:28:15,141
+- [Voiceover] We have a picture,
+
+344
+00:28:15,176 --> 00:28:17,592
+which is a coarse
+model [mumbles]
+
+345
+00:28:17,626 --> 00:28:19,283
+history of our universe.
+
+346
+00:28:19,318 --> 00:28:21,700
+Nobody tells us
+that is the truth,
+
+347
+00:28:21,734 --> 00:28:23,632
+but within our
+present knowledge,
+
+348
+00:28:23,667 --> 00:28:25,876
+this is the best we can do,
+
+349
+00:28:25,911 --> 00:28:29,362
+and indeed, it does
+explain very nicely
+
+350
+00:28:29,397 --> 00:28:31,744
+all what we are able to observe.
+
+351
+00:28:31,779 --> 00:28:34,505
+Maybe we come up
+with new observation.
+
+352
+00:28:34,540 --> 00:28:38,889
+Remember, there is
+fundamentally in the universe
+
+353
+00:28:38,924 --> 00:28:41,167
+what we are studying at LHC
+
+354
+00:28:42,030 --> 00:28:43,756
+I taught is matter.
+
+355
+00:28:43,791 --> 00:28:47,760
+So matter constitute only
+while the visible matter
+
+356
+00:28:47,795 --> 00:28:51,177
+constitute only 4%
+of the universe.
+
+357
+00:28:51,212 --> 00:28:53,110
+All the rest is unknown,
+
+358
+00:28:53,145 --> 00:28:54,802
+being dark matter,
+
+359
+00:28:54,836 --> 00:28:57,045
+which is something
+we know it exists,
+
+360
+00:28:57,080 --> 00:28:59,392
+but we have no
+clue on what it is,
+
+361
+00:28:59,427 --> 00:29:03,672
+and even something even more
+mysterious is dark energy.
+
+362
+00:29:03,707 --> 00:29:06,952
+So, which is something we gain
+
+363
+00:29:06,986 --> 00:29:08,850
+with respect it exists
+
+364
+00:29:08,885 --> 00:29:11,508
+because we need it to explain
+
+365
+00:29:11,542 --> 00:29:14,718
+given properties of the
+evolution of the universe,
+
+366
+00:29:14,753 --> 00:29:18,066
+but again, we have no
+clue what it exists.
+
+367
+00:29:18,101 --> 00:29:21,000
+So in other word, today,
+we are in a situation.
+
+368
+00:29:21,035 --> 00:29:24,866
+We have a pool of
+knowledge of 4% percent
+
+369
+00:29:26,557 --> 00:29:28,007
+of the universe,
+
+370
+00:29:28,042 --> 00:29:31,770
+and we ignore totally what
+the rest of the universe is.
+
+371
+00:29:39,536 --> 00:29:42,573
+So the specific
+place where we are.
+
+372
+00:29:42,608 --> 00:29:44,817
+Now this is ATLAS experiment.
+
+373
+00:29:44,852 --> 00:29:48,856
+We are looking for
+recreating primordial matter.
+
+374
+00:29:49,960 --> 00:29:52,100
+This is the matter as it existed
+
+375
+00:29:52,135 --> 00:29:54,827
+shortly after the Big Bang,
+
+376
+00:29:54,862 --> 00:29:57,278
+and here we are talking
+about a fraction
+
+377
+00:29:57,312 --> 00:30:01,489
+of microseconds after the
+beginning of the universe.
+
+378
+00:30:02,939 --> 00:30:06,287
+At that time, temperature
+were extremely high.
+
+379
+00:30:06,321 --> 00:30:08,841
+Energy density was very high,
+
+380
+00:30:08,876 --> 00:30:11,257
+and matter was in a
+completely different shape
+
+381
+00:30:11,292 --> 00:30:13,121
+as it is today.
+
+382
+00:30:13,156 --> 00:30:16,849
+So we recreate this new, this
+primordial state of matter,
+
+383
+00:30:16,884 --> 00:30:19,748
+and try to understand
+what they are,
+
+384
+00:30:19,783 --> 00:30:22,890
+the nature and the properties
+of this primordial matter,
+
+385
+00:30:22,924 --> 00:30:26,134
+and then how it
+evolves from its state
+
+386
+00:30:26,169 --> 00:30:27,964
+in the early universe
+
+387
+00:30:27,998 --> 00:30:30,794
+to the state as
+we know it today.
+
+388
+00:30:32,140 --> 00:30:35,557
+Just imagine in a single
+collision of two lead nuclei,
+
+389
+00:30:35,592 --> 00:30:38,388
+we are producing about
+10,000 of particles
+
+390
+00:30:38,422 --> 00:30:41,425
+which are going
+through our equipment,
+
+391
+00:30:41,460 --> 00:30:42,875
+and all this particles,
+
+392
+00:30:42,910 --> 00:30:45,153
+we have to look at it to see it
+
+393
+00:30:45,188 --> 00:30:46,465
+and to identify it,
+
+394
+00:30:46,499 --> 00:30:48,743
+so of course, we
+don't take a picture
+
+395
+00:30:48,777 --> 00:30:50,434
+of the particle itself.
+
+396
+00:30:50,469 --> 00:30:52,920
+We take a picture of the track
+
+397
+00:30:52,954 --> 00:30:55,750
+a particle leaves when it goes
+
+398
+00:30:55,784 --> 00:30:57,269
+through our equipment,
+
+399
+00:30:57,303 --> 00:31:00,134
+so it's more or less the same
+
+400
+00:31:00,168 --> 00:31:02,964
+as if you would
+go on a ski slope.
+
+401
+00:31:04,448 --> 00:31:06,002
+You don't see the skier.
+
+402
+00:31:06,036 --> 00:31:08,418
+You just see the
+traces of the skier,
+
+403
+00:31:08,452 --> 00:31:10,489
+and out of the traces, you say,
+
+404
+00:31:10,523 --> 00:31:12,008
+"Okay, here was a skier.
+
+405
+00:31:12,042 --> 00:31:14,113
+"He went from there to there."
+
+406
+00:31:14,148 --> 00:31:16,426
+Looking at the
+depths of the trace,
+
+407
+00:31:16,460 --> 00:31:19,567
+I can have an idea on
+the weight of the skier,
+
+408
+00:31:19,601 --> 00:31:21,603
+and we are doing
+the same exercise.
+
+409
+00:31:21,638 --> 00:31:23,157
+We never see the skier.
+
+410
+00:31:23,191 --> 00:31:24,710
+We just see the traces,
+
+411
+00:31:24,744 --> 00:31:27,437
+and of course, to have
+a full trace of a skier,
+
+412
+00:31:27,471 --> 00:31:29,197
+you need a big field.
+
+413
+00:31:31,165 --> 00:31:33,098
+We are really using brute force.
+
+414
+00:31:33,132 --> 00:31:34,789
+We are not very smart,
+
+415
+00:31:34,823 --> 00:31:38,137
+so we use the energy
+we are able to make
+
+416
+00:31:40,381 --> 00:31:43,625
+to create in a
+collision to create
+
+417
+00:31:43,660 --> 00:31:45,248
+this new particles.
+
+418
+00:31:45,282 --> 00:31:47,767
+Now of course, this is
+for the creation part,
+
+419
+00:31:47,802 --> 00:31:50,909
+so you need to bring
+a small particle
+
+420
+00:31:50,943 --> 00:31:52,703
+to very high speed.
+
+421
+00:31:52,738 --> 00:31:55,016
+When I talking about high speed,
+
+422
+00:31:55,051 --> 00:31:56,604
+it's something
+which is very close
+
+423
+00:31:56,638 --> 00:31:57,950
+to the speed of light.
+
+424
+00:31:57,985 --> 00:32:00,608
+So for that, you just
+need a big machinery.
+
+425
+00:32:00,642 --> 00:32:02,886
+The machinery being,
+well, you need magnet
+
+426
+00:32:02,921 --> 00:32:04,819
+to make a particle turn,
+
+427
+00:32:04,853 --> 00:32:07,684
+and you need electric
+field to accelerate it,
+
+428
+00:32:07,718 --> 00:32:10,790
+and then, one million
+of different elements
+
+429
+00:32:10,825 --> 00:32:13,655
+just to make the
+whole thing work.
+
+430
+00:32:14,829 --> 00:32:18,798
+I think CERN is for me
+really the best example
+
+431
+00:32:18,833 --> 00:32:20,904
+in the world for humanity
+
+432
+00:32:23,251 --> 00:32:26,323
+following a common objective,
+
+433
+00:32:26,358 --> 00:32:30,017
+and this is, if we don't
+discover anything in science,
+
+434
+00:32:30,051 --> 00:32:31,846
+I think having achieved that
+
+435
+00:32:31,880 --> 00:32:33,779
+is a major achievement.
+
+436
+00:32:37,438 --> 00:32:40,406
+[speaking in a foreign language]
+
+437
+00:32:40,441 --> 00:32:41,625
+- [Voiceover] We
+are speaking about
+
+438
+00:32:41,649 --> 00:32:45,515
+[speaking in a foreign
+language], or no?
+
+439
+00:32:47,344 --> 00:32:48,518
+- [Voiceover] I don't know.
+
+440
+00:32:48,552 --> 00:32:49,346
+- [Voiceover] No,
+basically, this I think
+
+441
+00:32:49,381 --> 00:32:50,865
+we have to understand...
+
+442
+00:32:50,899 --> 00:32:52,979
+- [Voiceover] I think we
+have to really understand...
+
+443
+00:32:53,005 --> 00:32:55,249
+- [Voiceover] [speaking
+in a foreign language]
+
+444
+00:32:55,283 --> 00:32:58,079
+And bring this to the
+technical [mumbles].
+
+445
+00:32:58,114 --> 00:32:59,874
+- [Voiceover] I think
+a list chaperone also
+
+446
+00:32:59,908 --> 00:33:01,289
+has to be important.
+
+447
+00:33:01,324 --> 00:33:03,222
+- [Voiceover] That's
+the suspicion right now
+
+448
+00:33:03,257 --> 00:33:07,123
+is that someone hit
+the crash button.
+
+449
+00:33:07,157 --> 00:33:08,400
+So that's the question.
+
+450
+00:33:08,434 --> 00:33:10,989
+So why did it turn off
+in the first place?
+
+451
+00:33:11,023 --> 00:33:13,681
+- [Voiceover] [mumbling]
+
+452
+00:33:13,715 --> 00:33:14,969
+- [Voiceover] Yeah,
+it received emergency.
+
+453
+00:33:14,993 --> 00:33:17,029
+So it's as if someone
+hit the crash button.
+
+454
+00:33:17,064 --> 00:33:19,998
+- [Voiceover] I mean, the
+meaning of the measures
+
+455
+00:33:20,032 --> 00:33:21,689
+is not that I don't know.
+
+456
+00:33:21,723 --> 00:33:24,657
+[people murmuring]
+
+457
+00:33:26,314 --> 00:33:29,938
+- [Voiceover] So
+the law is as if...
+
+458
+00:33:29,973 --> 00:33:33,183
+It's as if someone
+hit the crash button.
+
+459
+00:33:33,218 --> 00:33:34,460
+We don't think someone did,
+
+460
+00:33:34,495 --> 00:33:37,187
+but it's as if someone
+hit the crash button.
+
+461
+00:33:37,222 --> 00:33:38,775
+[people murmuring]
+
+462
+00:33:38,809 --> 00:33:40,673
+- [Voiceover] Okay, so
+the question is about
+
+463
+00:33:40,708 --> 00:33:42,813
+the first thing that he find,
+
+464
+00:33:42,848 --> 00:33:44,436
+that he looked at the reprocess
+
+465
+00:33:44,470 --> 00:33:45,885
+versus prom data,
+
+466
+00:33:45,920 --> 00:33:47,922
+and he just had to
+stay with the prompt,
+
+467
+00:33:47,956 --> 00:33:50,890
+but in the reprocess data
+there are largest changes
+
+468
+00:33:50,925 --> 00:33:52,237
+for jets,
+
+469
+00:33:52,271 --> 00:33:56,275
+so I find the statement
+a little bit surprising.
+
+470
+00:34:01,349 --> 00:34:02,316
+- [Voiceover] So the question is
+
+471
+00:34:02,350 --> 00:34:04,387
+is there a quantitative measure
+
+472
+00:34:04,421 --> 00:34:07,286
+of this [mumbles]
+differences which you see?
+
+473
+00:34:07,321 --> 00:34:09,150
+Do you have some plots also
+
+474
+00:34:09,185 --> 00:34:10,669
+that show that?
+
+475
+00:34:10,703 --> 00:34:11,532
+If it's in the backup,
+
+476
+00:34:11,566 --> 00:34:12,740
+we can look at it later,
+
+477
+00:34:12,774 --> 00:34:14,707
+but I don't want
+to kill the stream.
+
+478
+00:34:14,742 --> 00:34:15,926
+- [Voiceover] I'm not quite sure
+
+479
+00:34:15,950 --> 00:34:17,169
+if I put it in
+the backup or not.
+
+480
+00:34:17,193 --> 00:34:18,446
+- [Voiceover] Just
+more of an assent,
+
+481
+00:34:18,470 --> 00:34:20,644
+I think that's what I'll
+learn from the question.
+
+482
+00:34:20,679 --> 00:34:22,612
+Okay, we can take it offline,
+
+483
+00:34:22,646 --> 00:34:24,924
+and we can go on from here.
+
+484
+00:34:32,656 --> 00:34:33,554
+You look frozen.
+
+485
+00:34:33,588 --> 00:34:36,074
+Are you still, you know, alive?
+
+486
+00:34:40,906 --> 00:34:43,150
+Think the shock was too
+much on this question.
+
+487
+00:34:43,184 --> 00:34:44,151
+[mumbling]
+
+488
+00:34:44,185 --> 00:34:45,117
+[people laughing]
+
+489
+00:34:45,152 --> 00:34:45,980
+[people murmuring]
+
+490
+00:34:46,014 --> 00:34:47,050
+He's gone.
+
+491
+00:34:47,085 --> 00:34:48,672
+Okay, he became invisible.
+
+492
+00:34:48,707 --> 00:34:50,502
+[people murmuring]
+
+493
+00:34:50,536 --> 00:34:52,711
+So no more questions
+'till the end, please.
+
+494
+00:34:52,745 --> 00:34:54,989
+[laughing]
+
+495
+00:34:56,922 --> 00:34:59,925
+- [Voiceover] Can
+anybody outside CERN
+
+496
+00:34:59,959 --> 00:35:01,133
+still hear us?
+
+497
+00:35:01,168 --> 00:35:02,548
+[mumbling]
+
+498
+00:35:02,583 --> 00:35:03,791
+Oh good, good.
+
+499
+00:35:03,825 --> 00:35:05,275
+- [Voiceover] I can hear you.
+
+500
+00:35:05,310 --> 00:35:09,107
+- [Voiceover] So I can go
+and sit down and just wait.
+
+501
+00:35:10,142 --> 00:35:11,326
+- [Voiceover] At the beginning,
+
+502
+00:35:11,350 --> 00:35:15,527
+I was heavily involved
+in building a system
+
+503
+00:35:15,561 --> 00:35:17,287
+that we call the trigger system,
+
+504
+00:35:17,322 --> 00:35:21,809
+and this trigger system
+actually selects online
+
+505
+00:35:21,843 --> 00:35:24,605
+in real time only the
+interesting collisions
+
+506
+00:35:24,639 --> 00:35:26,710
+that will be recorded
+
+507
+00:35:26,745 --> 00:35:29,196
+and that will be analyzed later.
+
+508
+00:35:29,230 --> 00:35:31,750
+Now, this involves
+the development
+
+509
+00:35:31,784 --> 00:35:35,961
+of an electronic system which
+operates very, very fast.
+
+510
+00:35:38,274 --> 00:35:42,347
+It looks at the collision
+40 million times per second.
+
+511
+00:35:42,381 --> 00:35:44,901
+It is sort of a digital camera
+
+512
+00:35:46,109 --> 00:35:49,561
+which takes 40 million
+pictures per second.
+
+513
+00:35:49,595 --> 00:35:50,769
+It analyzes.
+
+514
+00:35:50,803 --> 00:35:52,702
+It doesn't only
+take this pictures,
+
+515
+00:35:52,736 --> 00:35:54,186
+but it looks at these pictures,
+
+516
+00:35:54,221 --> 00:35:56,095
+and looks if there are
+some interesting patterns,
+
+517
+00:35:56,119 --> 00:36:00,227
+for example, and if there
+are interesting patterns,
+
+518
+00:36:00,261 --> 00:36:04,300
+which is the case only
+maybe a few hundred
+
+519
+00:36:04,334 --> 00:36:05,508
+times per second,
+
+520
+00:36:05,542 --> 00:36:09,236
+then this trigger
+system recognizes these
+
+521
+00:36:09,270 --> 00:36:13,343
+and marks these
+photographs, if you like,
+
+522
+00:36:13,378 --> 00:36:15,000
+really for recording.
+
+523
+00:36:15,034 --> 00:36:16,346
+So we don't have...
+
+524
+00:36:16,381 --> 00:36:19,832
+Like, when you take photographs
+with a digital camera,
+
+525
+00:36:19,867 --> 00:36:21,800
+you take many snapshots,
+
+526
+00:36:21,834 --> 00:36:24,285
+but you eliminate those
+that you do not like,
+
+527
+00:36:24,320 --> 00:36:27,392
+but we do this online
+extremely fast.
+
+528
+00:36:34,951 --> 00:36:38,679
+Our first important
+discovery was a particle
+
+529
+00:36:38,713 --> 00:36:42,683
+that looks very much like
+the so-called Higgs particle,
+
+530
+00:36:42,717 --> 00:36:45,479
+which is also called God
+particles, God particle,
+
+531
+00:36:45,513 --> 00:36:48,240
+but this is a term that
+physicists don't really like.
+
+532
+00:36:48,275 --> 00:36:52,417
+So anyway, we have discovered
+a very new particle,
+
+533
+00:36:52,451 --> 00:36:54,729
+and now we are going to
+measure all its properties
+
+534
+00:36:54,764 --> 00:36:56,973
+and to make sure it is really
+
+535
+00:36:57,007 --> 00:36:59,941
+the long sought Higgs particles,
+
+536
+00:36:59,976 --> 00:37:02,772
+or if it is indeed
+something completely new,
+
+537
+00:37:02,806 --> 00:37:05,326
+but actually, this
+experiment was built
+
+538
+00:37:05,361 --> 00:37:07,432
+for another main purpose,
+
+539
+00:37:07,466 --> 00:37:09,951
+and this main purpose
+was really to discover
+
+540
+00:37:09,986 --> 00:37:14,093
+if there are, for example,
+new forces in physics.
+
+541
+00:37:14,128 --> 00:37:16,544
+You all know, we all know
+gravity, for example,
+
+542
+00:37:16,579 --> 00:37:18,719
+but there are also other forces,
+
+543
+00:37:18,753 --> 00:37:21,722
+for example, electromagnetic
+forces in the universe,
+
+544
+00:37:21,756 --> 00:37:24,552
+but maybe there are
+even other forces
+
+545
+00:37:24,587 --> 00:37:26,036
+we do not know about,
+
+546
+00:37:26,071 --> 00:37:30,627
+and this could be discovered
+at this experiment here.
+
+547
+00:37:30,662 --> 00:37:32,974
+We could also, for
+example, discover
+
+548
+00:37:33,009 --> 00:37:36,323
+completely new
+spatial dimensions,
+
+549
+00:37:36,357 --> 00:37:37,876
+which may be very small
+
+550
+00:37:37,910 --> 00:37:40,637
+so that up to now, we have
+not been able to see them,
+
+551
+00:37:40,672 --> 00:37:43,502
+but with a tool like the
+large hadron collider
+
+552
+00:37:43,537 --> 00:37:45,159
+and this experiment,
+
+553
+00:37:45,193 --> 00:37:49,336
+we can use this really just
+like a giant microscope.
+
+554
+00:37:51,061 --> 00:37:53,374
+So we can really look
+deep into nature,
+
+555
+00:37:53,409 --> 00:37:56,653
+and we hope to find
+something very new.
+
+556
+00:37:58,034 --> 00:38:00,761
+For example, it is
+imaginable that gravity
+
+557
+00:38:00,795 --> 00:38:03,142
+becomes a very,
+very strong force,
+
+558
+00:38:03,177 --> 00:38:05,144
+much stronger than
+we are used to it,
+
+559
+00:38:05,179 --> 00:38:08,078
+when we go to very
+small distances.
+
+560
+00:38:08,113 --> 00:38:10,460
+For example, when
+you smash two protons
+
+561
+00:38:10,495 --> 00:38:14,326
+against each other as
+it is done in the LHC,
+
+562
+00:38:14,361 --> 00:38:17,847
+then you really come to
+very, very small distances,
+
+563
+00:38:17,881 --> 00:38:19,538
+and it is possible
+that gravity becomes
+
+564
+00:38:19,573 --> 00:38:20,643
+very strong.
+
+565
+00:38:20,677 --> 00:38:22,886
+So if gravity becomes strong,
+
+566
+00:38:22,921 --> 00:38:26,856
+then we could also
+create mini-black holes,
+
+567
+00:38:26,890 --> 00:38:29,168
+microscopic black holes.
+
+568
+00:38:29,203 --> 00:38:32,517
+So this would be a
+spectacular new signature
+
+569
+00:38:32,551 --> 00:38:35,071
+for up to now unknown physics.
+
+570
+00:38:38,143 --> 00:38:39,765
+It's a constant struggle,
+
+571
+00:38:39,800 --> 00:38:42,043
+and of course, the kids
+sometimes complain,
+
+572
+00:38:42,078 --> 00:38:43,631
+"Mommy, there's nothing to eat.
+
+573
+00:38:43,666 --> 00:38:44,770
+"What shall we eat?"
+
+574
+00:38:44,805 --> 00:38:45,702
+[laughs]
+
+575
+00:38:45,737 --> 00:38:48,222
+But, well, I'm not alone,
+
+576
+00:38:48,256 --> 00:38:51,570
+and one has to get
+all the help one can.
+
+577
+00:38:54,573 --> 00:38:56,575
+But I think, even if
+the family suffers,
+
+578
+00:38:56,610 --> 00:39:01,511
+I think in the end they see
+how enthusiastic we are,
+
+579
+00:39:01,546 --> 00:39:05,066
+and they see that we really
+have achieved something,
+
+580
+00:39:05,101 --> 00:39:07,448
+something that is
+really satisfying,
+
+581
+00:39:07,483 --> 00:39:08,794
+that can show new ways,
+
+582
+00:39:08,829 --> 00:39:12,246
+and I think normally
+families understand,
+
+583
+00:39:13,799 --> 00:39:14,973
+but I should also say,
+
+584
+00:39:15,007 --> 00:39:16,388
+mind you, there have also been
+
+585
+00:39:16,423 --> 00:39:18,942
+lots of divorces at CERN here,
+
+586
+00:39:20,323 --> 00:39:23,153
+mainly because of
+just too much work.
+
+587
+00:39:23,188 --> 00:39:25,224
+But people are
+enthusiastic, you know.
+
+588
+00:39:25,259 --> 00:39:29,056
+I mean, these are not
+people that come at nine
+
+589
+00:39:29,090 --> 00:39:30,057
+and they leave at five,
+
+590
+00:39:30,091 --> 00:39:31,541
+and they look at their watch.
+
+591
+00:39:31,576 --> 00:39:34,199
+You know, they really like
+to spend the time here,
+
+592
+00:39:34,233 --> 00:39:37,029
+and they put in all
+the means they have
+
+593
+00:39:37,064 --> 00:39:39,377
+to bring out results,
+
+594
+00:39:39,411 --> 00:39:42,552
+and also to get
+personal satisfaction.
+
+595
+00:39:46,073 --> 00:39:48,972
+- [Voiceover] This
+center is at CERN,
+
+596
+00:39:49,007 --> 00:39:52,907
+and has essentially two main,
+very important connections.
+
+597
+00:39:52,942 --> 00:39:57,256
+One connection is brings
+us to the experiments.
+
+598
+00:39:57,291 --> 00:39:59,742
+So essentially this is
+the main flux of data
+
+599
+00:39:59,776 --> 00:40:01,847
+is from the experiments to here.
+
+600
+00:40:01,882 --> 00:40:05,230
+So, when there is a
+beams are colliding,
+
+601
+00:40:06,231 --> 00:40:08,026
+the events, so the collisions,
+
+602
+00:40:08,060 --> 00:40:10,097
+the result of the
+collisions are recorded,
+
+603
+00:40:10,131 --> 00:40:13,134
+filtered across different
+levels of filtering,
+
+604
+00:40:13,169 --> 00:40:15,723
+and eventually, they
+are shipped to here
+
+605
+00:40:15,758 --> 00:40:18,174
+via a dedicated network.
+
+606
+00:40:18,208 --> 00:40:20,245
+So this is the first connection.
+
+607
+00:40:20,279 --> 00:40:23,317
+The data routing
+here then are stored
+
+608
+00:40:23,351 --> 00:40:24,767
+on disc immediately,
+
+609
+00:40:24,801 --> 00:40:27,770
+and they are ready to
+be immediately analyzed.
+
+610
+00:40:27,804 --> 00:40:29,668
+This is just the first
+part of the analysis.
+
+611
+00:40:29,703 --> 00:40:32,499
+Actually, we call it
+general reconstruction,
+
+612
+00:40:32,533 --> 00:40:34,121
+and the idea here is that
+
+613
+00:40:34,155 --> 00:40:36,019
+out of the raw data...
+
+614
+00:40:36,054 --> 00:40:37,849
+This is also the technical term,
+
+615
+00:40:37,883 --> 00:40:39,747
+the raw data which
+we are receiving
+
+616
+00:40:39,782 --> 00:40:41,128
+from the experiments,
+
+617
+00:40:41,162 --> 00:40:44,062
+we reconstruct
+trajectories, for example,
+
+618
+00:40:45,822 --> 00:40:48,653
+from which you can
+identify particles
+
+619
+00:40:48,687 --> 00:40:50,931
+and give to them...
+
+620
+00:40:50,965 --> 00:40:54,866
+Let's see, assign them
+energies and directions.
+
+621
+00:41:00,319 --> 00:41:03,357
+These data are also
+shipped outside,
+
+622
+00:41:03,391 --> 00:41:06,049
+and they are shipped
+initially, I mean,
+
+623
+00:41:06,084 --> 00:41:07,257
+directly from CERN
+
+624
+00:41:07,292 --> 00:41:09,812
+to a site of important
+computer centers
+
+625
+00:41:09,846 --> 00:41:12,055
+more or less
+compatible to this one,
+
+626
+00:41:12,090 --> 00:41:14,679
+which are then, in turn,
+
+627
+00:41:14,713 --> 00:41:16,128
+redistributing the data
+
+628
+00:41:16,163 --> 00:41:19,062
+to other places where
+in a typical university
+
+629
+00:41:19,097 --> 00:41:21,202
+or university type
+of facilities,
+
+630
+00:41:21,237 --> 00:41:24,585
+where the final
+analysis, for example,
+
+631
+00:41:24,620 --> 00:41:26,000
+will be done,
+
+632
+00:41:26,035 --> 00:41:27,633
+or other activities
+connected with that analysis
+
+633
+00:41:27,657 --> 00:41:28,865
+of the data.
+
+634
+00:41:28,900 --> 00:41:31,868
+So, I think one can
+visualize data coming
+
+635
+00:41:31,903 --> 00:41:34,112
+from the experiments
+being stored,
+
+636
+00:41:34,146 --> 00:41:37,460
+being given to this
+initial reconstruction,
+
+637
+00:41:37,495 --> 00:41:39,255
+and also being distributed.
+
+638
+00:41:39,289 --> 00:41:40,428
+So this is a, let's say,
+
+639
+00:41:40,463 --> 00:41:42,845
+the backbone of our activity.
+
+640
+00:41:47,090 --> 00:41:49,817
+I was born in 1964, and I think,
+
+641
+00:41:49,852 --> 00:41:53,096
+talking with the LSA people
+of my age, et cetera,
+
+642
+00:41:53,131 --> 00:41:55,029
+I came to the conclusion
+
+643
+00:41:55,064 --> 00:41:57,894
+that, you know,
+the Apollo period,
+
+644
+00:41:59,586 --> 00:42:02,416
+end of the '60s,
+beginning of the '70s,
+
+645
+00:42:02,450 --> 00:42:03,866
+had really an influence on us.
+
+646
+00:42:03,900 --> 00:42:06,454
+Initially, I was very
+passionate about astronomy
+
+647
+00:42:06,489 --> 00:42:09,112
+and astronauts, this kind of...
+
+648
+00:42:09,147 --> 00:42:11,770
+Which eventually, becoming
+and growing older,
+
+649
+00:42:11,805 --> 00:42:14,290
+became an interest in physics,
+
+650
+00:42:14,324 --> 00:42:16,223
+and so, then I decided for...
+
+651
+00:42:16,257 --> 00:42:18,708
+But I think there
+is a very specific,
+
+652
+00:42:18,743 --> 00:42:20,952
+you know, interest,
+correlation with astronomy
+
+653
+00:42:20,986 --> 00:42:23,230
+and with that particular period
+
+654
+00:42:23,264 --> 00:42:24,990
+of space exploration.
+
+655
+00:42:30,133 --> 00:42:33,067
+You know, one side,
+astronomy's this gigantic
+
+656
+00:42:33,102 --> 00:42:37,278
+distances, worlds you
+cannot really visit directly
+
+657
+00:42:38,901 --> 00:42:40,109
+because of distances,
+
+658
+00:42:40,143 --> 00:42:42,352
+and once you go for
+particle physics,
+
+659
+00:42:42,387 --> 00:42:44,665
+is a kind of mirror
+image of this.
+
+660
+00:42:44,700 --> 00:42:46,125
+You go in the smaller
+and the smaller
+
+661
+00:42:46,149 --> 00:42:47,047
+and the smaller,
+
+662
+00:42:47,081 --> 00:42:48,393
+so you find there are worlds
+
+663
+00:42:48,427 --> 00:42:52,880
+which are really fascinating,
+strange sometimes,
+
+664
+00:42:52,915 --> 00:42:55,193
+bizarre, but it's clearly...
+
+665
+00:42:56,884 --> 00:42:58,472
+This is one of the things
+
+666
+00:42:58,506 --> 00:43:02,165
+which clearly moves me, or
+moved me, to go in physics.
+
+667
+00:43:02,200 --> 00:43:04,720
+And now, even if
+I'm in computing,
+
+668
+00:43:04,754 --> 00:43:07,619
+more on this side, clearly
+there is the proudness
+
+669
+00:43:07,654 --> 00:43:09,587
+to say, well, you know,
+
+670
+00:43:11,796 --> 00:43:13,798
+these experiments are
+doing really something
+
+671
+00:43:13,832 --> 00:43:16,179
+really interesting, really cool,
+
+672
+00:43:16,214 --> 00:43:20,425
+and we are giving our
+small contribution to this.
+
+673
+00:43:20,459 --> 00:43:23,635
+So, it's, I think for somebody
+
+674
+00:43:23,670 --> 00:43:25,637
+which with the
+physics background,
+
+675
+00:43:25,672 --> 00:43:28,467
+CERN, even if then you move,
+
+676
+00:43:28,502 --> 00:43:29,503
+keeps this fascination.
+
+677
+00:43:29,537 --> 00:43:31,229
+I mean, it's our home.
+
+678
+00:43:31,263 --> 00:43:33,024
+It's our dream place.
+
+679
+00:43:34,266 --> 00:43:35,266
+So it's...
+
+680
+00:43:36,648 --> 00:43:38,374
+I think this is this.
+
+681
+00:43:41,757 --> 00:43:44,656
+[machine whirring]
+
+682
+00:45:42,705 --> 00:45:45,950
+[electricity whirring]
+
+683
+00:45:56,132 --> 00:45:58,065
+- [Voiceover] We have
+our own fire brigade.
+
+684
+00:45:58,100 --> 00:46:00,619
+We have our own
+emergency services.
+
+685
+00:46:00,654 --> 00:46:03,036
+Actually, we are like a city,
+
+686
+00:46:04,244 --> 00:46:06,487
+and this is a
+challenge for my job,
+
+687
+00:46:06,522 --> 00:46:08,662
+because you asked
+me in the beginning
+
+688
+00:46:08,696 --> 00:46:10,319
+where we are here.
+
+689
+00:46:10,353 --> 00:46:12,942
+We have to manage a small city,
+
+690
+00:46:14,081 --> 00:46:15,703
+and just to give you some ideas
+
+691
+00:46:15,738 --> 00:46:18,016
+about what I mean by city,
+
+692
+00:46:18,051 --> 00:46:21,295
+we have roughly 10,800
+guest scientists
+
+693
+00:46:22,158 --> 00:46:24,057
+coming from all over the world,
+
+694
+00:46:24,091 --> 00:46:25,610
+120 nationalities.
+
+695
+00:46:27,163 --> 00:46:29,510
+We have roughly 2,500 staff.
+
+696
+00:46:30,442 --> 00:46:32,168
+We have 500 postdocs,
+
+697
+00:46:32,203 --> 00:46:34,619
+500 students and apprentices.
+
+698
+00:46:35,965 --> 00:46:39,382
+So it's a population
+which needs accommodation
+
+699
+00:46:39,417 --> 00:46:42,765
+and services as any
+customer or client
+
+700
+00:46:42,800 --> 00:46:46,044
+would have needed it
+in the small city.
+
+701
+00:46:52,948 --> 00:46:54,673
+Actually, in some sense,
+
+702
+00:46:54,708 --> 00:46:57,538
+we are at the same
+time an organization
+
+703
+00:46:57,573 --> 00:46:59,126
+like any other organization,
+
+704
+00:46:59,161 --> 00:47:02,267
+but we also providing
+our own legislation,
+
+705
+00:47:02,302 --> 00:47:05,857
+if you like, because the
+convention gives us the right
+
+706
+00:47:05,892 --> 00:47:09,930
+but also the obligation to
+handle certain things ourselves.
+
+707
+00:47:09,965 --> 00:47:12,657
+For example, if we
+fix our salaries,
+
+708
+00:47:12,691 --> 00:47:14,590
+we cannot do it just like that.
+
+709
+00:47:14,624 --> 00:47:17,558
+We have to do it
+according to the rules
+
+710
+00:47:17,593 --> 00:47:21,217
+which were approved by
+our 20 member states.
+
+711
+00:47:21,252 --> 00:47:24,669
+So, in some sense, we
+are kind of a state
+
+712
+00:47:25,773 --> 00:47:26,913
+in the states.
+
+713
+00:47:28,535 --> 00:47:31,055
+What you need is a long breath,
+
+714
+00:47:31,089 --> 00:47:33,402
+and this is sometimes a problem
+
+715
+00:47:33,436 --> 00:47:36,370
+if you discuss things
+with politicians.
+
+716
+00:47:36,405 --> 00:47:39,304
+They're used to
+work with horizons
+
+717
+00:47:39,339 --> 00:47:41,789
+of three to five years,
+
+718
+00:47:41,824 --> 00:47:44,551
+and they respect
+return on investment,
+
+719
+00:47:44,585 --> 00:47:47,105
+which is all more
+or less immediate.
+
+720
+00:47:47,140 --> 00:47:49,107
+Immediate means tomorrow,
+
+721
+00:47:49,142 --> 00:47:50,384
+but we have seen,
+
+722
+00:47:50,419 --> 00:47:52,421
+if I take the example
+of the world wide web,
+
+723
+00:47:52,455 --> 00:47:54,802
+which was invented here at CERN,
+
+724
+00:47:54,837 --> 00:47:58,910
+you need sometimes I
+would say, on an average,
+
+725
+00:47:58,945 --> 00:48:01,809
+at least 10 years,
+10 to 15 years,
+
+726
+00:48:01,844 --> 00:48:04,260
+between the first basic ideas
+
+727
+00:48:06,953 --> 00:48:09,714
+and the first
+industrial product.
+
+728
+00:48:10,818 --> 00:48:13,821
+[machines whirring]
+
+729
+00:48:42,367 --> 00:48:45,267
+[people murmuring]
+
+730
+00:49:07,875 --> 00:49:09,912
+- [Voiceover] So I'm a
+theoretical physicist,
+
+731
+00:49:09,947 --> 00:49:11,845
+so my job, you
+know, is to come up
+
+732
+00:49:11,879 --> 00:49:14,744
+with some ideas, some
+possible explanation,
+
+733
+00:49:14,779 --> 00:49:17,955
+and then I'm trying
+to understand
+
+734
+00:49:17,989 --> 00:49:20,164
+what are the consequences
+of these ideas
+
+735
+00:49:20,198 --> 00:49:21,993
+and how you can test those ideas
+
+736
+00:49:22,028 --> 00:49:24,099
+using experimental result,
+
+737
+00:49:24,133 --> 00:49:27,136
+but [mumbling] result
+that obtain now
+
+738
+00:49:27,171 --> 00:49:29,690
+in this LHC is big machine
+
+739
+00:49:29,725 --> 00:49:32,590
+that have been
+built here at CERN,
+
+740
+00:49:32,624 --> 00:49:36,111
+and is working pretty
+well, at the moment.
+
+741
+00:49:43,325 --> 00:49:45,913
+I mean, some good ideas can
+come up at every moment,
+
+742
+00:49:45,948 --> 00:49:47,985
+and you have to be ready.
+
+743
+00:49:51,712 --> 00:49:53,714
+And it can be dangerous,
+
+744
+00:49:55,095 --> 00:49:57,339
+in particular, when you are
+driving your car, right?
+
+745
+00:49:57,373 --> 00:50:00,652
+You should try to
+keep your ideas alert
+
+746
+00:50:00,687 --> 00:50:03,103
+and be prepared when you
+are getting back home
+
+747
+00:50:03,138 --> 00:50:05,243
+to take a little piece of paper,
+
+748
+00:50:05,278 --> 00:50:06,624
+writing down your ideas,
+
+749
+00:50:06,658 --> 00:50:09,558
+and try to finish
+your computation.
+
+750
+00:50:12,837 --> 00:50:14,125
+Most of the time,
+you are stupid.
+
+751
+00:50:14,149 --> 00:50:16,323
+You are making
+errors, et cetera,
+
+752
+00:50:16,358 --> 00:50:19,775
+but from time to
+time, you are right,
+
+753
+00:50:19,809 --> 00:50:22,502
+and you understand
+exactly something new.
+
+754
+00:50:22,536 --> 00:50:25,470
+That's fantastic, of
+course, these days.
+
+755
+00:50:25,505 --> 00:50:27,955
+When you are coming back
+home in the evening,
+
+756
+00:50:27,990 --> 00:50:29,647
+you are feeling very good
+
+757
+00:50:29,681 --> 00:50:33,513
+because you're more
+manageable in the evenings
+
+758
+00:50:34,686 --> 00:50:36,723
+and in the morning,
+
+759
+00:50:36,757 --> 00:50:38,621
+and the feeling
+that you understand
+
+760
+00:50:38,656 --> 00:50:41,314
+that something that
+nobody in the world
+
+761
+00:50:41,348 --> 00:50:43,454
+had thought about before,
+
+762
+00:50:44,938 --> 00:50:49,080
+but that's really what is
+exciting about research.
+
+763
+00:50:49,115 --> 00:50:50,978
+For a few hours,
+for a few moments,
+
+764
+00:50:51,013 --> 00:50:54,465
+you'll be, you know, the
+only people on the earth
+
+765
+00:50:54,499 --> 00:50:58,676
+to really have clear
+understanding of the problem.
+
+766
+00:51:01,196 --> 00:51:02,818
+Discovering the
+expulsion is not like
+
+767
+00:51:02,852 --> 00:51:04,854
+discovering yet
+another particle.
+
+768
+00:51:04,889 --> 00:51:06,856
+What we are really
+after is really trying
+
+769
+00:51:06,891 --> 00:51:09,790
+to understand some
+fundamental laws
+
+770
+00:51:11,240 --> 00:51:14,416
+from fundamental principle
+that govern the universe.
+
+771
+00:51:14,450 --> 00:51:16,211
+So for a very long
+time, you know,
+
+772
+00:51:16,245 --> 00:51:19,076
+one main team of
+particle physics,
+
+773
+00:51:20,836 --> 00:51:23,632
+and theoretical physics,
+high energy physics,
+
+774
+00:51:23,666 --> 00:51:25,151
+was Gauge principle.
+
+775
+00:51:25,185 --> 00:51:27,118
+So the Gauge principle
+is really the theory
+
+776
+00:51:27,153 --> 00:51:29,741
+that explain how particle
+interact with each other,
+
+777
+00:51:29,776 --> 00:51:31,916
+basic exchange of
+the Gauge possum,
+
+778
+00:51:31,950 --> 00:51:34,298
+and maybe with the
+discovery of the X possum,
+
+779
+00:51:34,332 --> 00:51:38,025
+we are about to discover
+a new, fundamental
+
+780
+00:51:38,060 --> 00:51:42,478
+principle of nature
+that could really govern
+
+781
+00:51:42,513 --> 00:51:45,274
+how the universe is structured.
+
+782
+00:51:45,309 --> 00:51:47,690
+But, again, I mean, we
+are not so much interested
+
+783
+00:51:47,725 --> 00:51:48,933
+in new particle.
+
+784
+00:51:48,967 --> 00:51:51,142
+What we really want
+to understand is
+
+785
+00:51:51,177 --> 00:51:54,318
+what is a principle
+behind this new particles?
+
+786
+00:51:54,352 --> 00:51:56,734
+Is this discovery
+of the new particle
+
+787
+00:51:56,768 --> 00:51:58,908
+is telling me something
+more fundamental
+
+788
+00:51:58,943 --> 00:52:01,773
+about nature, more
+fundamental physics
+
+789
+00:52:01,808 --> 00:52:04,845
+would be is there a new
+space time dimension?
+
+790
+00:52:04,880 --> 00:52:07,262
+Is there a new interactions,
+
+791
+00:52:07,296 --> 00:52:11,128
+new fundamental interaction
+between those particles?
+
+792
+00:52:11,162 --> 00:52:14,234
+That's really what we are about.
+
+793
+00:52:14,269 --> 00:52:15,718
+I mean, the fact that, you know,
+
+794
+00:52:15,753 --> 00:52:19,066
+up to now, we understand
+interaction as the exchange
+
+795
+00:52:19,101 --> 00:52:20,447
+of Gauge possum.
+
+796
+00:52:20,482 --> 00:52:23,105
+It was really big step forward
+
+797
+00:52:23,140 --> 00:52:25,935
+in the understanding of nature,
+
+798
+00:52:25,970 --> 00:52:28,869
+but still there is few
+things that we don't
+
+799
+00:52:28,904 --> 00:52:30,733
+quite understand.
+
+800
+00:52:30,768 --> 00:52:33,460
+I mean, for instance, the
+fact that electromagnetism
+
+801
+00:52:33,495 --> 00:52:36,463
+is described by one
+particular symmetry of nature.
+
+802
+00:52:36,498 --> 00:52:37,706
+There was a weak interaction
+
+803
+00:52:37,740 --> 00:52:40,191
+which is described
+by another symmetry.
+
+804
+00:52:40,226 --> 00:52:41,306
+There is a strong interaction,
+
+805
+00:52:41,330 --> 00:52:43,401
+yet another symmetry.
+
+806
+00:52:43,436 --> 00:52:45,679
+Why those particles
+are symmetry?
+
+807
+00:52:45,714 --> 00:52:47,578
+Is there something deeper
+
+808
+00:52:47,612 --> 00:52:49,269
+behind those symmetries?
+
+809
+00:52:49,304 --> 00:52:50,891
+A bigger symmetry, for instance,
+
+810
+00:52:50,926 --> 00:52:53,204
+that will unify all
+those symmetries
+
+811
+00:52:53,239 --> 00:52:57,208
+associated to the
+different interactions?
+
+812
+00:52:57,243 --> 00:52:58,254
+Yeah, we're trying to understand
+
+813
+00:52:58,278 --> 00:52:59,969
+this kind of things.
+
+814
+00:53:00,936 --> 00:53:02,179
+We have good ideas,
+
+815
+00:53:02,213 --> 00:53:03,835
+but we still don't
+know if our ideas
+
+816
+00:53:03,870 --> 00:53:05,182
+are true or not.
+
+817
+00:53:07,632 --> 00:53:10,532
+[machine whirring]
+
+818
+00:54:08,831 --> 00:54:11,731
+[people murmuring]
+
+819
+00:54:36,549 --> 00:54:39,448
+[people murmuring]
+
+820
+00:54:57,604 --> 00:54:59,951
+- [Voiceover] I mean,
+I'm not a physicist,
+
+821
+00:54:59,986 --> 00:55:02,575
+and I used to
+explain that I'm here
+
+822
+00:55:02,609 --> 00:55:06,130
+to develop the toys
+for physicists,
+
+823
+00:55:06,164 --> 00:55:09,167
+so I'm involved in
+the machine side.
+
+824
+00:55:10,514 --> 00:55:13,344
+So there is several
+people at CERN
+
+825
+00:55:16,278 --> 00:55:18,315
+deciding what has to be done
+
+826
+00:55:18,349 --> 00:55:19,661
+for the physics,
+
+827
+00:55:21,352 --> 00:55:23,181
+and then we are in charge
+
+828
+00:55:23,216 --> 00:55:25,391
+to develop the tools
+
+829
+00:55:25,425 --> 00:55:29,602
+in order to allow these
+people to make the research.
+
+830
+00:55:37,679 --> 00:55:40,198
+There is not really
+hierarchy at CERN,
+
+831
+00:55:40,233 --> 00:55:42,615
+or at least, this is my feeling.
+
+832
+00:55:42,649 --> 00:55:45,721
+There is people from
+the physics side
+
+833
+00:55:47,896 --> 00:55:50,692
+deciding more or less
+what has to be done,
+
+834
+00:55:50,726 --> 00:55:52,970
+and we are here to provide them
+
+835
+00:55:53,004 --> 00:55:56,663
+the required tools to
+be able to investigate
+
+836
+00:55:58,424 --> 00:56:00,391
+what they are looking for.
+
+837
+00:56:00,426 --> 00:56:02,289
+So there is no real hierarchy.
+
+838
+00:56:02,324 --> 00:56:03,808
+There is several...
+
+839
+00:56:05,154 --> 00:56:08,399
+There is different
+specialties at CERN,
+
+840
+00:56:09,366 --> 00:56:11,575
+and in the technical parts.
+
+841
+00:56:11,609 --> 00:56:14,612
+So our section is called MDT,
+
+842
+00:56:14,647 --> 00:56:16,442
+and my actual section leader
+
+843
+00:56:16,476 --> 00:56:19,962
+used to translate that
+by "Making Dreams True."
+
+844
+00:56:19,997 --> 00:56:24,208
+So there is people asking
+for some dedicated tools,
+
+845
+00:56:25,416 --> 00:56:29,316
+and we are here to try
+to develop these tools.
+
+846
+00:56:32,941 --> 00:56:35,978
+So we are presently working
+on the new generation
+
+847
+00:56:36,013 --> 00:56:38,912
+of superconducting magnets
+
+848
+00:56:38,947 --> 00:56:42,951
+using new technology [mumbling]
+
+849
+00:56:44,539 --> 00:56:46,264
+superconducting cables
+
+850
+00:56:46,299 --> 00:56:48,370
+in order to reach higher field
+
+851
+00:56:48,405 --> 00:56:50,924
+that will be required
+for the upgrade
+
+852
+00:56:50,959 --> 00:56:53,030
+of the luminosity of LHC.
+
+853
+00:56:54,100 --> 00:56:57,379
+So the magnets presently
+installed in LHC
+
+854
+00:56:57,414 --> 00:56:59,899
+are based on [mumbles]
+titanium technology
+
+855
+00:56:59,933 --> 00:57:01,728
+and we reach the limit
+
+856
+00:57:01,763 --> 00:57:05,422
+of the magnetic field
+that can be reached
+
+857
+00:57:05,456 --> 00:57:08,425
+with such a kind
+of superconductors.
+
+858
+00:57:10,116 --> 00:57:13,464
+We are trying to
+develop a new [mumbles]
+
+859
+00:57:13,499 --> 00:57:15,811
+dipole, 100 millimeters bore
+
+860
+00:57:16,916 --> 00:57:18,089
+with 13 tesla,
+
+861
+00:57:18,987 --> 00:57:21,334
+and to give you a rough idea
+
+862
+00:57:22,197 --> 00:57:24,371
+about what this represent,
+
+863
+00:57:25,442 --> 00:57:28,583
+the required [mumbles] cable
+
+864
+00:57:28,617 --> 00:57:31,689
+to produce one coil
+is around 100,000
+
+865
+00:57:33,035 --> 00:57:34,865
+Swiss francs per coil,
+
+866
+00:57:35,831 --> 00:57:38,627
+and we need four coils in size.
+
+867
+00:57:38,662 --> 00:57:41,216
+And we just need a few seconds
+
+868
+00:57:41,250 --> 00:57:43,011
+to destroy the cables,
+
+869
+00:57:43,045 --> 00:57:46,393
+so this is quite
+difficult to deal with.
+
+870
+00:57:50,018 --> 00:57:53,021
+[machines whirring]
+
+871
+00:57:59,476 --> 00:58:02,306
+[people murmuring]
+
+872
+00:58:45,763 --> 00:58:48,766
+[machines whirring]
+
+873
+00:58:54,082 --> 00:58:57,016
+[people murmuring]
+
+874
+01:01:44,908 --> 01:01:46,713
+- [Voiceover] We are working
+in superconductivity,
+
+875
+01:01:46,737 --> 01:01:49,429
+so the magnets we have to test.
+
+876
+01:01:49,464 --> 01:01:51,431
+So they have to be cooled down
+
+877
+01:01:51,466 --> 01:01:53,606
+to a very low temperature,
+
+878
+01:01:53,640 --> 01:01:56,678
+in this case to 4.2 Kelvin,
+
+879
+01:01:56,713 --> 01:01:58,162
+or even to lower temperature
+
+880
+01:01:58,197 --> 01:02:00,371
+which is 1.9 Kelvin.
+
+881
+01:02:00,406 --> 01:02:04,203
+To do that, you need
+a kind of a thermos,
+
+882
+01:02:04,237 --> 01:02:05,445
+what you need,
+
+883
+01:02:05,480 --> 01:02:08,069
+and a vessel that
+is a well-insulated
+
+884
+01:02:08,103 --> 01:02:10,657
+from the outside
+which is very warm
+
+885
+01:02:10,692 --> 01:02:12,418
+with respect to the magnet.
+
+886
+01:02:12,452 --> 01:02:14,972
+Basically, you have a
+300 Kelvin difference,
+
+887
+01:02:15,007 --> 01:02:17,009
+which would be the same if I say
+
+888
+01:02:17,043 --> 01:02:20,771
+to 300 degree because
+it's a relative number.
+
+889
+01:02:20,806 --> 01:02:23,532
+So then you have
+to make possible
+
+890
+01:02:23,567 --> 01:02:26,950
+that the heat in leak
+is really minimum.
+
+891
+01:02:26,984 --> 01:02:29,780
+So we build equipments
+which are essentially made
+
+892
+01:02:29,815 --> 01:02:33,646
+by a vessel itself in which
+we can put the magnet,
+
+893
+01:02:33,680 --> 01:02:35,579
+then we can, obviously,
+
+894
+01:02:35,613 --> 01:02:39,376
+we close it, and we can
+access it by a liquid
+
+895
+01:02:40,515 --> 01:02:42,793
+which is in this
+case liquid helium,
+
+896
+01:02:42,828 --> 01:02:45,209
+and to cool down to 4.2 K.
+
+897
+01:02:45,244 --> 01:02:47,591
+And then to this equipment,
+
+898
+01:02:47,625 --> 01:02:50,214
+we have to connect the powering
+
+899
+01:02:51,422 --> 01:02:54,322
+because obviously
+the power generation
+
+900
+01:02:54,356 --> 01:02:57,221
+is on surface and in a nominal
+
+901
+01:02:57,256 --> 01:03:01,087
+20 degrees celsius
+temperature is in the hole.
+
+902
+01:03:01,122 --> 01:03:05,022
+So you have to bring the
+current into the magnet
+
+903
+01:03:05,057 --> 01:03:06,092
+through this vessel.
+
+904
+01:03:06,127 --> 01:03:09,509
+So this vessel is also helps us
+
+905
+01:03:09,544 --> 01:03:12,167
+to make the interface
+between the magnet
+
+906
+01:03:12,202 --> 01:03:13,928
+and the outside,
+
+907
+01:03:13,962 --> 01:03:17,069
+and then, obviously, we
+have all the information
+
+908
+01:03:17,103 --> 01:03:19,450
+coming out which are
+in form of wires,
+
+909
+01:03:19,485 --> 01:03:22,246
+and we are plugging
+it into cards
+
+910
+01:03:23,523 --> 01:03:24,766
+for data acquisition,
+
+911
+01:03:24,801 --> 01:03:27,355
+and then we have behind
+a controlled room
+
+912
+01:03:27,389 --> 01:03:29,978
+where on front of us
+who are computers,
+
+913
+01:03:30,013 --> 01:03:31,980
+we get the information visible
+
+914
+01:03:32,015 --> 01:03:34,120
+and in the graphical
+way, such a way
+
+915
+01:03:34,155 --> 01:03:36,674
+that we can analyze
+them later on.
+
+916
+01:03:36,709 --> 01:03:39,401
+So that is essentially
+what we are have behind,
+
+917
+01:03:39,436 --> 01:03:42,646
+and basically you
+have here behind me
+
+918
+01:03:42,680 --> 01:03:44,475
+three test station of this type.
+
+919
+01:03:44,510 --> 01:03:48,169
+So three units which
+are nearly independent,
+
+920
+01:03:49,170 --> 01:03:50,827
+one from the others.
+
+921
+01:03:58,938 --> 01:04:01,182
+Well, my family's
+completely here
+
+922
+01:04:01,216 --> 01:04:04,875
+because I have to say, my
+husband is working at CERN.
+
+923
+01:04:04,910 --> 01:04:07,188
+My husband is working
+in the same area
+
+924
+01:04:07,222 --> 01:04:08,189
+that I'm doing,
+
+925
+01:04:08,223 --> 01:04:09,846
+so he's doing also magnets,
+
+926
+01:04:09,880 --> 01:04:12,158
+and, okay, life is like this.
+
+927
+01:04:12,193 --> 01:04:14,851
+We have a three years old child,
+
+928
+01:04:14,885 --> 01:04:19,027
+and she's going to the
+school, kindergarten at CERN.
+
+929
+01:04:20,477 --> 01:04:22,582
+So in the morning we are
+coming in family at CERN,
+
+930
+01:04:22,617 --> 01:04:26,069
+and we are dispatched
+all over the three sides.
+
+931
+01:04:26,103 --> 01:04:28,416
+My husband is working
+in the [mumbles] side,
+
+932
+01:04:28,450 --> 01:04:30,314
+which is in the French area.
+
+933
+01:04:30,349 --> 01:04:33,076
+I am working between
+the Swiss part
+
+934
+01:04:33,110 --> 01:04:36,389
+and the French parts,
+still in French territory,
+
+935
+01:04:36,424 --> 01:04:38,736
+and my daughter is
+on the Swiss side
+
+936
+01:04:38,771 --> 01:04:42,016
+in a kindergarten [laughs].
+
+937
+01:04:42,050 --> 01:04:45,226
+Yeah, my husband has
+also another son,
+
+938
+01:04:46,952 --> 01:04:47,849
+by the way.
+
+939
+01:04:47,884 --> 01:04:49,816
+He's in the control room.
+
+940
+01:04:49,851 --> 01:04:51,749
+I have his family also.
+
+941
+01:04:53,165 --> 01:04:57,100
+I have my brother-in-law
+working in Atlas detector.
+
+942
+01:04:59,723 --> 01:05:04,348
+So in the end, we are
+all a family. [laughing]
+
+943
+01:05:04,383 --> 01:05:06,109
+We're all here, yeah.
+
+944
+01:05:09,112 --> 01:05:13,012
+Well, when you are saying
+that we have to leave
+
+945
+01:05:14,738 --> 01:05:16,809
+maybe some space
+for imagination,
+
+946
+01:05:16,843 --> 01:05:19,053
+you are assuming that
+what we are doing
+
+947
+01:05:19,087 --> 01:05:20,951
+is enough to
+understand the world,
+
+948
+01:05:20,986 --> 01:05:22,056
+how the universe works.
+
+949
+01:05:22,090 --> 01:05:23,574
+I'm not so sure.
+
+950
+01:05:23,609 --> 01:05:26,646
+I think that we
+are in a territory
+
+951
+01:05:26,681 --> 01:05:28,925
+where we are so difficult,
+
+952
+01:05:28,959 --> 01:05:33,101
+somehow so close to understand
+what is the complete stuff
+
+953
+01:05:35,655 --> 01:05:39,073
+that it becomes very,
+very hard to improve,
+
+954
+01:05:39,107 --> 01:05:40,971
+and I am not at all convinced
+
+955
+01:05:41,006 --> 01:05:44,009
+that this steps
+which are big itself
+
+956
+01:05:47,184 --> 01:05:50,360
+are big enough to
+get rid of the space
+
+957
+01:05:53,121 --> 01:05:55,054
+which remains there.
+
+958
+01:05:55,089 --> 01:05:56,849
+So I think that
+we are on the top,
+
+959
+01:05:56,883 --> 01:06:00,542
+but this now is going
+very slowly high and high,
+
+960
+01:06:00,577 --> 01:06:04,029
+but I think that we are
+still very far away.
+
+961
+01:06:04,063 --> 01:06:07,860
+I'm not sure that it
+will come next year.
+
+962
+01:06:07,894 --> 01:06:10,483
+Higgs, we explain Higgs,
+and then the dreams
+
+963
+01:06:10,518 --> 01:06:11,518
+are gone.
+
+964
+01:06:12,278 --> 01:06:15,454
+No, I think that going ahead,
+
+965
+01:06:15,488 --> 01:06:18,595
+we will find a new
+elements which may bring...
+
+966
+01:06:18,629 --> 01:06:21,080
+That is my idea, of course,
+
+967
+01:06:21,115 --> 01:06:23,565
+probably will bring
+us closer and closer,
+
+968
+01:06:23,600 --> 01:06:26,016
+but I'm not convinced
+that we will understand
+
+969
+01:06:26,051 --> 01:06:29,847
+the complete picture [laughs].
+
+970
+01:06:29,882 --> 01:06:32,816
+[machine whirring]
+
+971
+01:08:13,675 --> 01:08:15,919
+- [Voiceover] You might
+know there is a principle
+
+972
+01:08:15,953 --> 01:08:17,886
+which is called the
+Tropic principle.
+
+973
+01:08:17,921 --> 01:08:20,820
+It's the whole nature,
+laws of nature,
+
+974
+01:08:20,855 --> 01:08:24,134
+has been designed only
+to make it possible
+
+975
+01:08:24,169 --> 01:08:25,791
+that man can exist,
+
+976
+01:08:29,519 --> 01:08:30,761
+but I doubt it.
+
+977
+01:08:33,523 --> 01:08:36,871
+Of course, we also
+realize that science,
+
+978
+01:08:38,528 --> 01:08:41,117
+physics is only one perspective
+
+979
+01:08:42,256 --> 01:08:45,293
+of understanding
+reality and nature.
+
+980
+01:08:45,328 --> 01:08:48,193
+And I had a long discussion
+here with the Pope
+
+981
+01:08:48,227 --> 01:08:50,747
+when he visited CERN,
+
+982
+01:08:50,781 --> 01:08:52,483
+not the present Pope,
+not the previous Pope.
+
+983
+01:08:52,507 --> 01:08:54,199
+It was John Paul the Second
+
+984
+01:08:54,233 --> 01:08:55,683
+who is the third.
+
+985
+01:08:58,824 --> 01:09:01,171
+So I discussed with
+him can there be
+
+986
+01:09:01,206 --> 01:09:04,450
+a conflict between
+science, between physics
+
+987
+01:09:04,485 --> 01:09:05,589
+and religion?
+
+988
+01:09:08,040 --> 01:09:12,596
+And he agreed, no, there
+cannot be a conflict.
+
+989
+01:09:12,631 --> 01:09:13,839
+He agreed to that.
+
+990
+01:09:13,873 --> 01:09:16,807
+Then, I ask him,
+well, if you agree,
+
+991
+01:09:16,842 --> 01:09:19,845
+why don't you
+repelitate the Helium?
+
+992
+01:09:28,750 --> 01:09:31,891
+If you have the
+plate, eating plate,
+
+993
+01:09:31,926 --> 01:09:33,445
+you are looking at it from top.
+
+994
+01:09:33,479 --> 01:09:35,309
+You would say that's a circle.
+
+995
+01:09:35,343 --> 01:09:37,276
+If you look at it from the side,
+
+996
+01:09:37,311 --> 01:09:38,622
+you say that's not a circle.
+
+997
+01:09:38,657 --> 01:09:40,106
+That's a line.
+
+998
+01:09:40,141 --> 01:09:43,869
+So this will be two
+conflicting perspectives,
+
+999
+01:09:45,111 --> 01:09:47,735
+and you might ask
+forever, is it a line,
+
+1000
+01:09:47,769 --> 01:09:49,495
+or is it a circle?
+
+1001
+01:09:49,530 --> 01:09:52,981
+So that's what science
+does with reality.
+
+1002
+01:09:54,224 --> 01:09:57,814
+We're looking at reality
+different projections.
+
+1003
+01:09:57,848 --> 01:09:59,850
+We see one projection.
+
+1004
+01:09:59,885 --> 01:10:02,198
+Religious is another projection,
+
+1005
+01:10:02,232 --> 01:10:04,372
+and they might
+fight who is right.
+
+1006
+01:10:04,407 --> 01:10:06,409
+In the end, these are
+two different projections
+
+1007
+01:10:06,443 --> 01:10:08,134
+of the same reality.
+
+1008
+01:10:10,723 --> 01:10:14,865
+It takes a long time to
+clarify a sub-concept.
+
+1009
+01:10:14,900 --> 01:10:17,247
+How do we define something?
+
+1010
+01:10:17,282 --> 01:10:20,940
+So the real image data
+sync in the true science
+
+1011
+01:10:20,975 --> 01:10:24,737
+is to create the concepts
+which are necessary
+
+1012
+01:10:26,843 --> 01:10:29,190
+to find the laws of nature.
+
+1013
+01:10:29,225 --> 01:10:31,434
+Maybe these concepts
+are not unique.
+
+1014
+01:10:31,468 --> 01:10:32,711
+They might be different way
+
+1015
+01:10:32,745 --> 01:10:34,851
+how to describe nature,
+
+1016
+01:10:34,885 --> 01:10:38,885
+why different concepts.

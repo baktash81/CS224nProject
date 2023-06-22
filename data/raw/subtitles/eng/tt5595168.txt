@@ -1,0 +1,4688 @@
+1
+00:00:20,312 --> 00:00:22,815
+<i>For centuries the sacred magic
+of the Divine Crystal...</i>
+
+2
+00:00:22,981 --> 00:00:25,234
+<i>...blessed our world and its people.</i>
+
+3
+00:00:31,114 --> 00:00:35,244
+<i>But in time the promise of its power
+brought war to our lands.</i>
+
+4
+00:00:41,208 --> 00:00:46,681
+<i>Lucis, a peaceful kingdom of great magic
+kept safe by the power of the crystal.</i>
+
+5
+00:00:48,715 --> 00:00:52,219
+<i>And Niflheim,
+a military empire of vast machinery...</i>
+
+6
+00:00:52,386 --> 00:00:55,014
+<i>...made strong by
+the might of its Magitek.</i>
+
+7
+00:00:55,514 --> 00:00:58,313
+<i>Long has war raged between the two.</i>
+
+8
+00:01:01,728 --> 00:01:05,107
+<i>As the years passed,
+Niflheim marched on nearby nations...</i>
+
+9
+00:01:05,315 --> 00:01:07,363
+<i>...driven by its unsurpassed technology.</i>
+
+10
+00:01:10,153 --> 00:01:14,033
+<i>To defend itself,
+Lucis raised a magical wall...</i>
+
+11
+00:01:14,283 --> 00:01:17,287
+<i>...the strength of which comes
+from the crystal itself.</i>
+
+12
+00:01:19,162 --> 00:01:23,087
+<i>Insomnia alone, the crown city
+and last bastion of Lucian defence...</i>
+
+13
+00:01:23,292 --> 00:01:26,171
+<i>...remained beyond Niflheim reach
+for many years.</i>
+
+14
+00:01:29,965 --> 00:01:31,683
+<i>Amid the escalating war...</i>
+
+15
+00:01:31,842 --> 00:01:34,311
+<i>...Prince Noctis of Lucis
+had come to Tenebrae...</i>
+
+16
+00:01:34,469 --> 00:01:36,813
+<i>...to seek healing for a grievous injury.</i>
+
+17
+00:01:37,222 --> 00:01:41,398
+<i>He made the long journey
+together with his father, King Regis.</i>
+
+18
+00:01:42,519 --> 00:01:45,318
+<i>Mother, brother, and I,
+the royalty of Tenebrae...</i>
+
+19
+00:01:45,480 --> 00:01:47,482
+<i>...had all welcomed their visit.</i>
+
+20
+00:02:02,372 --> 00:02:06,047
+<i>It was then that the fires came,
+everywhere and all at once.</i>
+
+21
+00:02:08,211 --> 00:02:12,557
+<i>In a mere instant,
+the whole of Tenebrae was ablaze.</i>
+
+22
+00:02:14,176 --> 00:02:16,053
+<i>Ravus!</i>
+
+23
+00:02:24,603 --> 00:02:26,446
+Mother!
+
+24
+00:02:35,906 --> 00:02:37,704
+General Glauca.
+
+25
+00:02:44,247 --> 00:02:48,468
+<i>The Niflheim attack was an attempt on the
+lives of the visiting Lucian royalty.</i>
+
+26
+00:02:54,091 --> 00:02:55,968
+Noctis!
+
+27
+00:03:00,639 --> 00:03:02,607
+Please. Help us!
+
+28
+00:03:02,766 --> 00:03:04,234
+King Regis!
+
+29
+00:03:18,490 --> 00:03:19,958
+Lunafreya...
+
+30
+00:03:25,205 --> 00:03:27,048
+Luna!
+
+31
+00:03:28,291 --> 00:03:30,168
+<i>From that day until this day...</i>
+
+32
+00:03:30,836 --> 00:03:33,760
+<i>...Tenebrae has been gripped
+in the iron fist of Niflheim...</i>
+
+33
+00:03:34,548 --> 00:03:36,971
+<i>...sworn enemy of Lucis.</i>
+
+34
+00:03:41,763 --> 00:03:46,064
+<i>King Regis assembles a force of mighty
+warriors to combat the imperial menace.</i>
+
+35
+00:03:46,476 --> 00:03:50,652
+<i>Dubbed the Kingsglaive,
+they fight relentlessly against Niflheim...</i>
+
+36
+00:03:50,814 --> 00:03:52,908
+<i>...empowered by the magic
+of their sovereign.</i>
+
+37
+00:04:07,122 --> 00:04:08,920
+All units, move to secure the Wall.
+
+38
+00:04:09,082 --> 00:04:10,709
+If they break through, we're done.
+
+39
+00:04:39,738 --> 00:04:41,285
+What's the hold-up, Crowe?
+
+40
+00:04:41,782 --> 00:04:43,784
+<i>Crowe! Status?</i>
+
+41
+00:04:44,159 --> 00:04:45,160
+Almost there.
+
+42
+00:04:48,246 --> 00:04:49,247
+No!
+
+43
+00:04:53,919 --> 00:04:57,514
+<i>I need help. East Wall's going down.
+Pelna, can you get to me?</i>
+
+44
+00:04:58,924 --> 00:05:01,177
+Lucis isn't paying us refugees enough...
+
+45
+00:05:02,219 --> 00:05:03,311
+...for this.
+
+46
+00:05:19,402 --> 00:05:20,403
+How is this fair?
+
+47
+00:05:27,285 --> 00:05:28,912
+Nyx, I owe you one.
+
+48
+00:05:29,120 --> 00:05:30,167
+You and everyone else.
+
+49
+00:05:30,330 --> 00:05:32,833
+<i>We need support on the east flank.
+Nyx, where are you?</i>
+
+50
+00:05:32,999 --> 00:05:34,091
+I'm on my way.
+
+51
+00:05:34,251 --> 00:05:36,549
+Pelna, fall back
+and regroup with the others.
+
+52
+00:05:37,587 --> 00:05:38,930
+Go easy on the magic, hero.
+
+53
+00:05:39,089 --> 00:05:40,932
+You got people
+waiting for you back home.
+
+54
+00:05:41,091 --> 00:05:42,388
+I'm worth the wait.
+
+55
+00:05:44,886 --> 00:05:45,887
+Show-off.
+
+56
+00:05:57,649 --> 00:06:00,573
+<i>Watch your back, Libertus.
+We got more incoming.</i>
+
+57
+00:06:01,945 --> 00:06:03,743
+We ain't gonna last much longer.
+
+58
+00:06:06,741 --> 00:06:08,163
+Crowe!
+
+59
+00:06:10,287 --> 00:06:11,288
+Yes!
+
+60
+00:06:17,085 --> 00:06:20,760
+<i>All Glaives, fall back.
+Repeat, all Glaives fall back!</i>
+
+61
+00:07:07,010 --> 00:07:08,603
+Release the daemon.
+
+62
+00:08:31,261 --> 00:08:35,061
+<i>We can't take down that daemon.
+I'm ordering a full retreat.</i>
+
+63
+00:08:35,932 --> 00:08:38,526
+<i>Get back here alive.
+That's an order.</i>
+
+64
+00:08:39,269 --> 00:08:40,361
+<i>For hearth and home.</i>
+
+65
+00:08:55,577 --> 00:08:59,753
+<i>All units, fall back to the extraction point.
+Support is inbound.</i>
+
+66
+00:09:03,251 --> 00:09:05,504
+Nyx! We have to get out of here.
+
+67
+00:09:06,671 --> 00:09:10,266
+- Nyx! We have orders!
+- Yeah.
+
+68
+00:09:10,425 --> 00:09:11,426
+Help!
+
+69
+00:09:11,593 --> 00:09:12,594
+Nyx!
+
+70
+00:09:12,886 --> 00:09:14,183
+That idiot.
+
+71
+00:09:20,560 --> 00:09:21,777
+Nyx!
+
+72
+00:09:22,145 --> 00:09:23,897
+Crowe. We gotta move.
+
+73
+00:09:25,940 --> 00:09:27,066
+You gotta be kidding me.
+
+74
+00:10:00,517 --> 00:10:02,690
+You know I ain't got
+the stomach for this crap.
+
+75
+00:10:04,813 --> 00:10:05,985
+Would you rather walk?
+
+76
+00:10:06,147 --> 00:10:08,149
+Come on.
+Just like Galahd Canyon back home.
+
+77
+00:10:21,538 --> 00:10:22,710
+Libertus!
+
+78
+00:10:44,602 --> 00:10:46,650
+Luche, report.
+
+79
+00:10:48,148 --> 00:10:51,618
+The imperial forces
+look to be withdrawing, sir.
+
+80
+00:11:10,295 --> 00:11:11,842
+Guess I owe you another one.
+
+81
+00:11:12,589 --> 00:11:14,216
+I'll put it on your tab.
+
+82
+00:11:14,549 --> 00:11:16,597
+You just try and get some rest, all right?
+
+83
+00:11:32,775 --> 00:11:35,028
+You disobeyed a direct order to retreat.
+
+84
+00:11:35,486 --> 00:11:37,113
+For hearth and home, right, sir?
+
+85
+00:11:38,364 --> 00:11:42,995
+As long as I got strength in my body,
+I obey that order.
+
+86
+00:11:43,745 --> 00:11:45,964
+Don't fool yourself, Nyx Ulric.
+
+87
+00:11:46,372 --> 00:11:49,421
+Whatever strength you have
+is on loan from the king.
+
+88
+00:11:49,751 --> 00:11:51,424
+You are nothing without him.
+
+89
+00:11:53,213 --> 00:11:55,215
+Await details of your reassignment.
+
+90
+00:13:03,408 --> 00:13:04,455
+Yes, Your Majesty.
+
+91
+00:13:04,659 --> 00:13:07,037
+Despite their victory all but assured.
+
+92
+00:13:08,871 --> 00:13:12,045
+A sudden and inexplicable retreat.
+
+93
+00:13:12,583 --> 00:13:14,802
+We are at risk nonetheless, Your Majesty.
+
+94
+00:13:15,420 --> 00:13:17,764
+We cannot know
+when they will strike again.
+
+95
+00:13:18,214 --> 00:13:20,592
+Your Majesty, word from the West Gate.
+
+96
+00:13:20,800 --> 00:13:23,644
+A man claiming to be an envoy
+of the empire requests an audience.
+
+97
+00:13:27,765 --> 00:13:31,565
+The envoy from Niflheim awaits without,
+Your Majesty.
+
+98
+00:13:36,691 --> 00:13:37,908
+Hello there.
+
+99
+00:13:38,776 --> 00:13:40,198
+Hello!
+
+100
+00:13:40,361 --> 00:13:41,613
+Good day to you...
+
+101
+00:13:42,196 --> 00:13:43,197
+...and you.
+
+102
+00:13:44,407 --> 00:13:46,375
+Well met, my dear Lucians.
+
+103
+00:13:46,576 --> 00:13:49,329
+Has Niflheim grown so bold...
+
+104
+00:13:49,537 --> 00:13:52,791
+...that they send the chancellor himself
+as envoy?
+
+105
+00:13:53,166 --> 00:13:55,294
+And under no guard, at that?
+
+106
+00:13:55,460 --> 00:13:59,510
+It is an honour to be recognised
+by the great King Regis.
+
+107
+00:13:59,714 --> 00:14:04,436
+Yet permit me to stand on ceremony
+and introduce myself nonetheless.
+
+108
+00:14:05,303 --> 00:14:09,479
+Ardyn Izunia, Chancellor of Niflheim...
+
+109
+00:14:10,892 --> 00:14:13,520
+...at your humble service.
+
+110
+00:14:13,895 --> 00:14:15,772
+And I come to you on this...
+
+111
+00:14:15,980 --> 00:14:20,451
+...most auspicious of days
+to offer terms of peace.
+
+112
+00:14:21,319 --> 00:14:22,411
+Peace?
+
+113
+00:14:22,862 --> 00:14:25,035
+As you no doubt surmised...
+
+114
+00:14:25,198 --> 00:14:29,669
+...that recent manoeuvre of ours
+was no strategic retreat.
+
+115
+00:14:30,453 --> 00:14:32,046
+Call it...
+
+116
+00:14:33,039 --> 00:14:36,009
+...a gesture of imperial goodwill.
+
+117
+00:14:36,751 --> 00:14:38,970
+Like you, we wish nothing more...
+
+118
+00:14:39,128 --> 00:14:43,884
+...than to bring a swift end
+to this senseless war.
+
+119
+00:14:44,634 --> 00:14:45,977
+Is that so?
+
+120
+00:14:46,177 --> 00:14:47,178
+It is, indeed.
+
+121
+00:14:47,345 --> 00:14:50,565
+And we require
+but a singular compliance.
+
+122
+00:14:50,890 --> 00:14:55,066
+Save your grand Insomnia here.
+
+123
+00:14:55,269 --> 00:15:00,776
+Lucis must forfeit
+all territories to Niflheim rule.
+
+124
+00:15:04,195 --> 00:15:05,538
+Insomnia!
+
+125
+00:15:05,696 --> 00:15:09,451
+The jewel in the crown
+of the Lucian kingdom.
+
+126
+00:15:10,660 --> 00:15:12,412
+How foolish of me to forget.
+
+127
+00:15:12,620 --> 00:15:15,794
+There is just one more trivial thing.
+
+128
+00:15:16,999 --> 00:15:18,342
+It concerns your son.
+
+129
+00:15:20,628 --> 00:15:23,472
+The fetching Prince Noctis of Lucis...
+
+130
+00:15:23,673 --> 00:15:27,348
+...and the fair Princess Lunafreya
+of Tenebrae...
+
+131
+00:15:28,845 --> 00:15:30,722
+They are to be wed.
+
+132
+00:15:32,181 --> 00:15:34,400
+You seem vexed, Your Highness.
+
+133
+00:15:35,226 --> 00:15:40,904
+I assure you, the princess
+still holds you in the highest regard...
+
+134
+00:15:41,065 --> 00:15:44,444
+...as she has done
+all these 12 long years.
+
+135
+00:16:01,419 --> 00:16:02,688
+Don't know if anyone's told you...
+
+136
+00:16:02,712 --> 00:16:05,465
+...but we don't take kindly
+to insubordination around here.
+
+137
+00:16:09,010 --> 00:16:12,105
+Do yourself a favour, take a look around.
+
+138
+00:16:12,638 --> 00:16:17,189
+This is what a hundred years of peace
+looks like.
+
+139
+00:16:19,896 --> 00:16:25,653
+It's a lasting peace made by the Wall
+and the Wall alone.
+
+140
+00:16:27,987 --> 00:16:31,787
+See, we don't need any of you
+immigrants...
+
+141
+00:16:32,158 --> 00:16:36,413
+...jumping around, playing war hero.
+
+142
+00:17:09,695 --> 00:17:12,494
+Hey!
+Rough day on the gate, huh, Glaive?
+
+143
+00:17:13,115 --> 00:17:15,538
+You jerk.
+It's your fault he got stuck there.
+
+144
+00:17:17,411 --> 00:17:21,632
+- Not a very nice welcome for a big hero.
+- Not a very nice outfit for one, either.
+
+145
+00:17:21,791 --> 00:17:23,418
+I think it brings out my eyes.
+
+146
+00:17:26,963 --> 00:17:28,180
+What'd you put in this?
+
+147
+00:17:28,339 --> 00:17:29,682
+Tastes like a chocobo turd.
+
+148
+00:17:29,840 --> 00:17:31,057
+Hey, Shut your trap!
+
+149
+00:17:31,592 --> 00:17:34,345
+This ain't Galahd.
+That's the way folks around here like it.
+
+150
+00:17:34,512 --> 00:17:39,359
+Oh, well. I'm glad to see you're willing to
+sell out our heritage for a few extra gil.
+
+151
+00:17:39,934 --> 00:17:42,653
+Hey, Libertus.
+You thank Nyx for saving your life yet?
+
+152
+00:17:42,812 --> 00:17:45,986
+Oh, come on, Crowe.
+Nyx and I are too close for that.
+
+153
+00:17:46,148 --> 00:17:48,776
+He helps me, I help him.
+That's the way it's always been.
+
+154
+00:17:48,943 --> 00:17:51,492
+Looks like you got a little help
+from something else, huh?
+
+155
+00:17:51,654 --> 00:17:53,201
+I need all I can get.
+
+156
+00:17:54,407 --> 00:17:55,408
+For hearth!
+
+157
+00:17:56,742 --> 00:17:57,789
+- And home.
+- And home.
+
+158
+00:18:00,288 --> 00:18:04,384
+So, Nyx the Gatekeeper.
+How's the new post treating you?
+
+159
+00:18:04,584 --> 00:18:06,586
+Oh, it's amazing.
+You guys would love it.
+
+160
+00:18:06,836 --> 00:18:08,759
+The gate watch are real sweethearts.
+
+161
+00:18:09,547 --> 00:18:10,673
+Yeah, right.
+
+162
+00:18:10,840 --> 00:18:13,434
+We all know they hate us outsiders
+more than anything.
+
+163
+00:18:13,593 --> 00:18:15,766
+So bored they got nothing better to do.
+
+164
+00:18:16,012 --> 00:18:17,480
+Boredom's not so bad.
+
+165
+00:18:17,638 --> 00:18:19,015
+Means there's peace, at least.
+
+166
+00:18:19,265 --> 00:18:22,109
+I'd fight a hundred more wars
+for Galahdans to know boredom.
+
+167
+00:18:22,768 --> 00:18:23,985
+Fight all you want.
+
+168
+00:18:24,145 --> 00:18:25,488
+Just don't go dying yet.
+
+169
+00:18:26,188 --> 00:18:27,280
+I still owe you.
+
+170
+00:18:27,857 --> 00:18:28,858
+A lot.
+
+171
+00:18:29,066 --> 00:18:31,660
+Where would the Glaive be
+without its hero?
+
+172
+00:18:31,819 --> 00:18:34,572
+Can you not talk like this
+while we're drinking, please?
+
+173
+00:18:34,739 --> 00:18:37,913
+We just sent the Niffs running
+with tails between their legs, right?
+
+174
+00:18:38,075 --> 00:18:40,828
+They weren't running from us.
+No, they were toying with us.
+
+175
+00:18:42,747 --> 00:18:46,251
+Stop being such a buzzkill, Luche.
+We all know what happened.
+
+176
+00:18:46,500 --> 00:18:49,174
+Did you know they sent an envoy
+to the Citadel after that?
+
+177
+00:18:49,337 --> 00:18:51,840
+What for? To offer their surrender?
+
+178
+00:18:52,006 --> 00:18:53,349
+- More like demand ours.
+- What?
+
+179
+00:18:53,507 --> 00:18:55,509
+Demand? My ass!
+
+180
+00:18:55,926 --> 00:18:57,519
+No? Think about it.
+
+181
+00:18:57,928 --> 00:18:59,851
+The empire's got Lucis on its last legs.
+
+182
+00:19:00,014 --> 00:19:02,142
+It's the perfect time to make demands.
+
+183
+00:19:03,893 --> 00:19:06,863
+We are losing this war, Your Majesty.
+
+184
+00:19:07,396 --> 00:19:10,445
+Lucis cannot rely
+on the Kingsglaive alone.
+
+185
+00:19:10,608 --> 00:19:13,737
+Accepting the truce may be
+our best course of action.
+
+186
+00:19:14,153 --> 00:19:16,451
+You speak of matters
+beyond the New Wall.
+
+187
+00:19:16,781 --> 00:19:20,456
+We have no need of a truce here,
+so long as it stands.
+
+188
+00:19:20,868 --> 00:19:25,089
+And if our position worsens,
+we still have the Old Wall.
+
+189
+00:19:25,289 --> 00:19:30,295
+Yes, but this truce
+will end the fighting altogether.
+
+190
+00:19:31,420 --> 00:19:33,514
+If only we could compromise...
+
+191
+00:19:33,673 --> 00:19:35,596
+Compromise is unwise.
+
+192
+00:19:35,758 --> 00:19:38,602
+We know nothing
+of Niflheim's true intentions.
+
+193
+00:19:39,303 --> 00:19:42,978
+Do not fool yourselves.
+The Walls are far from impenetrable.
+
+194
+00:19:43,391 --> 00:19:46,440
+The paths left to us are few.
+
+195
+00:19:47,395 --> 00:19:49,818
+The New Wall draws its power
+from the throne.
+
+196
+00:19:50,064 --> 00:19:54,865
+I am able to sustain it for some years yet,
+if the kingdom requires it.
+
+197
+00:19:56,153 --> 00:20:01,125
+But the chancellor spoke one truth,
+if only one.
+
+198
+00:20:02,034 --> 00:20:05,254
+We are old, and the Old Wall...
+
+199
+00:20:06,747 --> 00:20:10,502
+I cannot command the Old Wall
+with a weakened hand...
+
+200
+00:20:10,918 --> 00:20:15,094
+...nor do I have the strength to muster
+an offensive to turn the tide on this war.
+
+201
+00:20:15,673 --> 00:20:18,017
+Then let the choice be made,
+Your Majesty.
+
+202
+00:20:18,968 --> 00:20:21,062
+What are we to protect?
+
+203
+00:20:44,201 --> 00:20:45,498
+<i>Help Mother!</i>
+
+204
+00:21:04,388 --> 00:21:07,187
+How come you never
+lose your lunch like that?
+
+205
+00:21:09,018 --> 00:21:10,065
+Just doesn't add up.
+
+206
+00:21:10,352 --> 00:21:13,526
+Here's this ancient art,
+secret of the royal family and all that.
+
+207
+00:21:14,064 --> 00:21:16,066
+Libertus! Nyx!
+
+208
+00:21:16,942 --> 00:21:18,615
+Come here, guys, you gotta see this.
+
+209
+00:21:19,820 --> 00:21:21,500
+<i>Things were hectic in the capital today...</i>
+
+210
+00:21:21,530 --> 00:21:23,425
+<i>...as the Lucian government
+announced full acceptance...</i>
+
+211
+00:21:23,449 --> 00:21:26,293
+<i>...of what some are criticising
+as the unilateral peace terms...</i>
+
+212
+00:21:26,452 --> 00:21:28,500
+<i>...proposed by Chancellor Izunia
+of Niflheim.</i>
+
+213
+00:21:28,704 --> 00:21:31,958
+<i>The signing of the truce will see
+power over all Lucian territories...</i>
+
+214
+00:21:32,124 --> 00:21:35,378
+<i>...transferred to the empire,
+with the sole exception of Insomnia.</i>
+
+215
+00:21:35,544 --> 00:21:39,924
+<i>In return, Niflheim guarantees
+the safety of Insomnia and its citizenry...</i>
+
+216
+00:21:40,132 --> 00:21:42,305
+<i>...as well as a cessation
+to all hostilities...</i>
+
+217
+00:21:42,468 --> 00:21:45,392
+<i>...bringing a decisive end
+to this long and bitter war.</i>
+
+218
+00:21:48,265 --> 00:21:53,021
+All that fighting we did.
+All for nothing.
+
+219
+00:21:53,771 --> 00:21:57,150
+Glaives.
+Assemble in the briefing room.
+
+220
+00:21:58,400 --> 00:21:59,572
+Now.
+
+221
+00:22:06,283 --> 00:22:09,082
+The king has spoken,
+and you have heard.
+
+222
+00:22:09,620 --> 00:22:12,794
+All lands beyond the Wall
+are to be relinquished to the empire.
+
+223
+00:22:12,998 --> 00:22:14,875
+Will no regions be spared?
+
+224
+00:22:15,501 --> 00:22:17,879
+- None.
+- But your home's out there too!
+
+225
+00:22:18,254 --> 00:22:19,255
+It is.
+
+226
+00:22:19,463 --> 00:22:21,090
+Why would the king do this?
+
+227
+00:22:21,465 --> 00:22:23,058
+Because it'll end this damn war.
+
+228
+00:22:25,302 --> 00:22:26,599
+- Crowe.
+- Sir!
+
+229
+00:22:27,263 --> 00:22:30,938
+Prepare to deploy.
+You're being sent to infiltrate Tenebrae.
+
+230
+00:22:31,517 --> 00:22:32,609
+Tenebrae, sir?
+
+231
+00:22:33,352 --> 00:22:35,275
+Mission details are classified.
+
+232
+00:22:35,688 --> 00:22:38,032
+Report to my office for briefing
+in 30 minutes.
+
+233
+00:22:39,233 --> 00:22:40,610
+And, Nyx...
+
+234
+00:22:41,277 --> 00:22:42,574
+You're off the West Gate.
+
+235
+00:22:42,903 --> 00:22:45,497
+You've been reassigned
+to the castle guard.
+
+236
+00:22:46,490 --> 00:22:47,742
+That is all.
+
+237
+00:22:54,748 --> 00:22:58,048
+So this is what you were
+talking about, Luche?
+
+238
+00:22:58,252 --> 00:22:59,299
+You heard the captain.
+
+239
+00:22:59,461 --> 00:23:02,635
+- This wasn't our decision to make.
+- Not ours to make?
+
+240
+00:23:02,840 --> 00:23:05,389
+Those are our homes out there!
+Our people!
+
+241
+00:23:05,634 --> 00:23:08,012
+You're just gonna go along
+and abandon them?
+
+242
+00:23:08,178 --> 00:23:09,725
+If we don't go along with them...
+
+243
+00:23:09,889 --> 00:23:12,142
+...the empire will unleash all hell
+on Insomnia.
+
+244
+00:23:12,308 --> 00:23:14,686
+- We'll unleash it right back at them!
+- Easy, easy.
+
+245
+00:23:14,852 --> 00:23:16,069
+He's not the enemy.
+
+246
+00:23:16,270 --> 00:23:17,772
+Don't you get it?
+
+247
+00:23:19,565 --> 00:23:21,192
+We're nothing to them.
+
+248
+00:23:21,400 --> 00:23:24,950
+Rats, snuck in from beyond the Wall.
+
+249
+00:23:25,988 --> 00:23:27,831
+Sure, they had a use for us...
+
+250
+00:23:27,990 --> 00:23:30,163
+...when they realised
+we could work their magic.
+
+251
+00:23:30,326 --> 00:23:33,079
+So they handpicked us
+from all the other rats out there...
+
+252
+00:23:33,245 --> 00:23:38,046
+...and just let us nibble away
+at his royal majesty's precious power.
+
+253
+00:23:38,667 --> 00:23:40,795
+But as soon as this war's all over...
+
+254
+00:23:41,128 --> 00:23:43,381
+...it's back to the sewers for all of us.
+
+255
+00:23:44,298 --> 00:23:47,472
+That means you too, hero.
+
+256
+00:23:47,676 --> 00:23:53,433
+You missing home so much, Libertus,
+why don't you and Nyx head on back?
+
+257
+00:23:53,599 --> 00:23:56,022
+I'm sure Niflheim will welcome you
+with open arms.
+
+258
+00:23:56,310 --> 00:23:58,233
+You've got a home out there too.
+
+259
+00:24:01,440 --> 00:24:02,862
+Or did you forget?
+
+260
+00:24:10,824 --> 00:24:12,121
+Damn it!
+
+261
+00:24:12,952 --> 00:24:14,875
+I'm not gonna let it end like this.
+
+262
+00:24:21,168 --> 00:24:24,263
+It is said sentiment amongst the people
+is favourable, Your Majesty.
+
+263
+00:24:24,421 --> 00:24:26,674
+Most all will welcome this peace.
+
+264
+00:24:26,882 --> 00:24:28,568
+If you yourself
+have not heard their voices...
+
+265
+00:24:28,592 --> 00:24:30,970
+...how can you claim
+to know their hearts?
+
+266
+00:24:31,762 --> 00:24:34,060
+What of the mission to Tenebrae,
+Your Majesty?
+
+267
+00:24:34,348 --> 00:24:36,521
+Is such clandestine action wise?
+
+268
+00:24:36,809 --> 00:24:39,608
+If discovered, it will only serve
+to provoke the empire.
+
+269
+00:24:39,770 --> 00:24:42,944
+The empire remains our enemy
+until the treaty is signed.
+
+270
+00:24:43,190 --> 00:24:44,692
+So long as we are at war...
+
+271
+00:24:44,858 --> 00:24:47,907
+...His Majesty intends to remain
+one step ahead of them.
+
+272
+00:24:48,362 --> 00:24:49,488
+Of course.
+
+273
+00:25:00,666 --> 00:25:03,510
+A hairpin? I didn't think you were
+into that kind of thing.
+
+274
+00:25:03,711 --> 00:25:06,464
+It's not for me.
+It's a gift for the princess.
+
+275
+00:25:06,714 --> 00:25:08,967
+But keep that quiet.
+Nobody's supposed to know.
+
+276
+00:25:11,969 --> 00:25:13,312
+Well, that's me.
+
+277
+00:25:14,346 --> 00:25:15,723
+Watch your back out there.
+
+278
+00:25:16,432 --> 00:25:19,185
+I know you're sick of hearing it,
+but you're like a little...
+
+279
+00:25:19,351 --> 00:25:22,821
+Little sister to you.
+Yeah, I am sick of hearing it.
+
+280
+00:25:25,566 --> 00:25:28,160
+Just make sure you come back
+in one piece, all right?
+
+281
+00:25:32,114 --> 00:25:33,411
+Says the guy in two pieces.
+
+282
+00:25:56,180 --> 00:25:58,899
+Lady Lunafreya,
+I have left the rear gate open.
+
+283
+00:25:59,058 --> 00:26:00,059
+Thank you.
+
+284
+00:26:03,145 --> 00:26:04,192
+Must you go?
+
+285
+00:26:04,354 --> 00:26:05,355
+Yes.
+
+286
+00:26:07,941 --> 00:26:09,534
+Then go quickly.
+
+287
+00:26:14,990 --> 00:26:18,290
+I do not recall granting you permission to
+leave your quarters, Lunafreya.
+
+288
+00:26:19,036 --> 00:26:20,288
+Ravus.
+
+289
+00:26:24,792 --> 00:26:27,762
+You are not to leave this room again
+until the journey to Lucis.
+
+290
+00:26:27,920 --> 00:26:29,593
+It is for your own good.
+
+291
+00:26:30,631 --> 00:26:31,928
+My own good?
+
+292
+00:26:34,510 --> 00:26:36,308
+What is truly going on here?
+
+293
+00:26:37,638 --> 00:26:40,608
+What cause does the empire have
+to see me wed to Noctis?
+
+294
+00:26:40,808 --> 00:26:44,153
+They have offered a peace,
+and your marriage is the olive branch.
+
+295
+00:26:44,478 --> 00:26:46,230
+You expect me to believe that?
+
+296
+00:26:46,605 --> 00:26:48,448
+What you believe does not concern me.
+
+297
+00:26:48,941 --> 00:26:51,069
+What does concern me
+is you sneaking off...
+
+298
+00:26:51,235 --> 00:26:54,330
+...to go tell our mother's killer
+about some plot you've dreamt up.
+
+299
+00:26:54,613 --> 00:26:56,957
+You are wrong to hate King Regis.
+
+300
+00:26:57,699 --> 00:27:00,418
+Niflheim killed Mother, not him.
+
+301
+00:27:01,662 --> 00:27:04,336
+They murdered her
+and made you their lapdog.
+
+302
+00:27:28,313 --> 00:27:29,610
+It's done.
+
+303
+00:28:03,849 --> 00:28:08,400
+<i>An air of jubilation has swept the city
+in anticipation of the coming armistice.</i>
+
+304
+00:28:08,729 --> 00:28:13,075
+<i>With only three days remaining until the
+peace is officially signed into effect...</i>
+
+305
+00:28:13,275 --> 00:28:16,370
+<i>...throngs of citizens
+have taken to the streets to show...</i>
+
+306
+00:28:24,453 --> 00:28:26,922
+<i>Lucis needs your strength,
+young warriors.</i>
+
+307
+00:28:27,080 --> 00:28:28,480
+<i>We don't need
+any of you immigrants.</i>
+
+308
+00:28:29,833 --> 00:28:32,712
+<i>Whatever strength you have
+is on loan from the king.</i>
+
+309
+00:28:32,920 --> 00:28:36,220
+<i>- You are nothing without him.
+- Nyx, help Mother.</i>
+
+310
+00:28:36,423 --> 00:28:38,517
+<i>Selena, get down.</i>
+
+311
+00:28:38,675 --> 00:28:41,770
+<i>...and the waves of
+imperial diplomats entering the city.</i>
+
+312
+00:28:43,472 --> 00:28:47,102
+The princess? Are you certain?
+
+313
+00:28:47,267 --> 00:28:48,985
+Yes, Your Majesty.
+
+314
+00:28:49,186 --> 00:28:53,441
+She was amongst the last of
+the imperial contingent to enter the city.
+
+315
+00:29:16,380 --> 00:29:17,723
+Get in.
+
+316
+00:29:19,466 --> 00:29:22,185
+I'm reporting to my post now though, sir.
+
+317
+00:29:22,427 --> 00:29:24,054
+New orders.
+
+318
+00:29:24,221 --> 00:29:27,270
+Come on.
+We've got a princess to pick up.
+
+319
+00:29:34,356 --> 00:29:36,029
+Nice ride, sir.
+
+320
+00:29:36,191 --> 00:29:38,410
+It belongs to the prince.
+
+321
+00:29:38,568 --> 00:29:40,570
+We've taken him outside the city.
+
+322
+00:29:40,737 --> 00:29:43,991
+Doesn't he have a wedding to plan, sir?
+
+323
+00:29:44,825 --> 00:29:46,873
+Cut the "sir" crap.
+
+324
+00:29:47,119 --> 00:29:49,087
+The king has a plan of his own.
+
+325
+00:29:49,246 --> 00:29:52,716
+Prince Noctis and Princess Lunafreya
+are to meet far from Insomnia.
+
+326
+00:29:53,333 --> 00:29:54,413
+What's she doing here then?
+
+327
+00:29:55,544 --> 00:29:57,842
+Complicating things.
+
+328
+00:29:58,338 --> 00:30:01,182
+We sent Crowe to find the princess
+and escort her out of Tenebrae.
+
+329
+00:30:04,428 --> 00:30:07,398
+We're still trying to figure out
+what went wrong.
+
+330
+00:30:19,318 --> 00:30:25,166
+So I know what you think about this war,
+but what do you think about this peace?
+
+331
+00:30:27,617 --> 00:30:29,745
+You happy giving up your home?
+
+332
+00:30:29,953 --> 00:30:32,752
+It's the king's decision.
+I owe him for taking me in.
+
+333
+00:30:33,332 --> 00:30:36,131
+I was lucky.
+There are people in Galahd who weren't.
+
+334
+00:30:37,085 --> 00:30:39,383
+And they need me.
+
+335
+00:30:39,588 --> 00:30:41,761
+So you're going back?
+
+336
+00:30:42,007 --> 00:30:44,556
+What good will you be
+without the king's magic?
+
+337
+00:30:48,221 --> 00:30:50,724
+Yeah, always wanting to save somebody.
+
+338
+00:30:50,891 --> 00:30:53,485
+I get it. Believe me.
+But it doesn't win wars.
+
+339
+00:30:53,643 --> 00:30:56,021
+It's not just wanting.
+
+340
+00:30:56,313 --> 00:30:58,407
+It's not just me.
+
+341
+00:30:59,733 --> 00:31:01,781
+Libertus is the one
+you need to worry about.
+
+342
+00:31:01,943 --> 00:31:04,537
+He'll go back if things gets worse.
+
+343
+00:31:06,907 --> 00:31:08,659
+The worst is yet to come.
+
+344
+00:31:29,596 --> 00:31:31,815
+Do you have any idea
+who you're stopping?
+
+345
+00:31:31,973 --> 00:31:35,477
+Open this gate now,
+and maybe you'll have a job tomorrow.
+
+346
+00:31:36,019 --> 00:31:38,613
+- King's orders.
+- Are you sure you want to risk...
+
+347
+00:31:38,772 --> 00:31:41,525
+...a diplomatic issue now, of all times?
+
+348
+00:31:41,691 --> 00:31:45,946
+I am the personal escort
+of Lady Lunafreya Nox Fleuret...
+
+349
+00:31:46,113 --> 00:31:48,582
+...princess of the former Tenebrae and...
+
+350
+00:31:48,740 --> 00:31:51,619
+And our kingdom's beloved bride-to-be.
+
+351
+00:31:51,785 --> 00:31:55,710
+Welcome to sovereign jurisdiction.
+We'll take care of things from here.
+
+352
+00:31:55,872 --> 00:31:58,392
+- Forgive me, Captain Drautos.
+- See Her Highness to the castle.
+
+353
+00:31:58,500 --> 00:32:01,595
+I had no idea that you...
+I wasn't made aware of any...
+
+354
+00:32:01,878 --> 00:32:03,880
+- Excuse me. Thank you.
+- No, you... I must...
+
+355
+00:32:04,089 --> 00:32:06,192
+I must... No, I have to clear it
+with my superiors first.
+
+356
+00:32:06,216 --> 00:32:07,763
+Your Highness.
+
+357
+00:32:17,394 --> 00:32:22,275
+Her Royal Highness,
+Princess Lunafreya of Tenebrae.
+
+358
+00:32:29,823 --> 00:32:32,747
+It has been a long time, Your Majesty.
+
+359
+00:32:33,785 --> 00:32:35,458
+Yes.
+
+360
+00:32:36,079 --> 00:32:38,127
+Far too long.
+
+361
+00:32:39,708 --> 00:32:42,587
+Prince Noctis isn't here, is he?
+
+362
+00:32:43,211 --> 00:32:46,010
+No, my dear. He is not.
+
+363
+00:32:49,050 --> 00:32:52,224
+I am too old to fight this war.
+
+364
+00:32:52,387 --> 00:32:57,063
+I have no choice but to receive
+the empire and accept their treaty.
+
+365
+00:32:57,976 --> 00:32:59,023
+Even so...
+
+366
+00:33:00,604 --> 00:33:04,199
+...I had hoped to hold the wedding
+elsewhere, somewhere safe.
+
+367
+00:33:04,357 --> 00:33:07,281
+I sent one of my Glaive
+to see you there, but...
+
+368
+00:33:10,238 --> 00:33:11,956
+It is not too late.
+
+369
+00:33:12,741 --> 00:33:14,209
+I can ready an escort.
+
+370
+00:33:14,367 --> 00:33:16,745
+Please, go to my son.
+
+371
+00:33:18,872 --> 00:33:20,465
+No.
+
+372
+00:33:21,708 --> 00:33:25,053
+Wherever I go, the empire will follow.
+
+373
+00:33:25,837 --> 00:33:29,558
+It would only place the prince
+in greater danger.
+
+374
+00:33:30,425 --> 00:33:35,226
+It is my duty to protect the prince
+and see his destiny fulfilled.
+
+375
+00:33:35,388 --> 00:33:39,063
+These 12 years
+have not changed that.
+
+376
+00:33:40,185 --> 00:33:42,187
+And what of your destiny?
+
+377
+00:33:42,938 --> 00:33:47,193
+My duty is my destiny, Your Majesty.
+
+378
+00:33:47,776 --> 00:33:51,622
+I'm prepared to accept
+whatever may come to pass.
+
+379
+00:34:01,289 --> 00:34:02,461
+So, what do you think?
+
+380
+00:34:02,958 --> 00:34:05,928
+All these lands will be imperial soon.
+
+381
+00:34:06,086 --> 00:34:09,306
+Reckon things will get better
+when them Niffs start calling the shots?
+
+382
+00:34:09,464 --> 00:34:11,137
+Not one damn bit.
+
+383
+00:34:11,299 --> 00:34:13,393
+Don't matter who's calling the shots.
+
+384
+00:34:13,552 --> 00:34:15,592
+Long as they're calling them
+from behind the Wall...
+
+385
+00:34:15,637 --> 00:34:18,265
+...ain't nothing gonna change
+around here.
+
+386
+00:34:19,182 --> 00:34:20,479
+Get over here.
+
+387
+00:34:20,642 --> 00:34:22,189
+All right.
+
+388
+00:34:25,981 --> 00:34:27,608
+<i>That's a hand!</i>
+
+389
+00:34:32,737 --> 00:34:34,739
+I trust the reunion was a happy one?
+
+390
+00:34:34,906 --> 00:34:37,455
+Has she been a hostage of Niflheim
+all this time?
+
+391
+00:34:37,659 --> 00:34:39,753
+She is a symbol of the peace.
+That's all I'm told.
+
+392
+00:34:39,911 --> 00:34:40,912
+Doesn't sound like it.
+
+393
+00:34:41,079 --> 00:34:43,182
+Sounds like she's here
+for something much bigger than that.
+
+394
+00:34:43,206 --> 00:34:45,334
+Your orders are to protect her.
+
+395
+00:34:46,084 --> 00:34:48,678
+Not to look, not to listen, not to think.
+
+396
+00:34:48,837 --> 00:34:50,510
+Understood?
+
+397
+00:34:51,590 --> 00:34:52,762
+Drautos.
+
+398
+00:34:52,924 --> 00:34:54,892
+Yes, report.
+
+399
+00:35:00,557 --> 00:35:03,652
+Get the hell out of my way. That's
+my friend you got in there, damn it.
+
+400
+00:35:03,852 --> 00:35:05,913
+Sir, you can't go in
+until the examination has ended.
+
+401
+00:35:05,937 --> 00:35:07,939
+What examination?
+What the hell's going on?
+
+402
+00:35:08,106 --> 00:35:10,734
+Hey, take it easy, big guy.
+
+403
+00:35:11,651 --> 00:35:14,905
+These bastards rushed Crowe in there
+the moment she got back.
+
+404
+00:35:15,071 --> 00:35:16,994
+And now they won't let me in
+to see her.
+
+405
+00:35:20,201 --> 00:35:21,703
+Wait.
+
+406
+00:35:58,448 --> 00:36:00,826
+Crowe's personal effects.
+
+407
+00:36:02,327 --> 00:36:04,170
+Do with them as you see fit.
+
+408
+00:36:06,539 --> 00:36:09,793
+So, what kind of mission
+did you really send her on?
+
+409
+00:36:10,752 --> 00:36:14,723
+No Glaive winds up dead
+on a standard escort.
+
+410
+00:36:15,965 --> 00:36:19,720
+I'll see the armistice does not interfere
+with a full investigation.
+
+411
+00:36:22,180 --> 00:36:24,478
+She was a good soldier.
+
+412
+00:36:24,891 --> 00:36:27,394
+Her death will not go unanswered.
+
+413
+00:36:31,856 --> 00:36:33,904
+What a life, huh?
+
+414
+00:36:36,569 --> 00:36:38,992
+She was brought up an orphan.
+
+415
+00:36:39,656 --> 00:36:41,704
+Run out of her village.
+
+416
+00:36:45,954 --> 00:36:48,833
+I still remember the first time I saw her.
+
+417
+00:36:49,082 --> 00:36:51,084
+Scrawny little thing...
+
+418
+00:36:51,251 --> 00:36:53,379
+...all covered in dirt.
+
+419
+00:36:54,879 --> 00:36:57,098
+Not a friend in the world.
+
+420
+00:37:00,427 --> 00:37:02,350
+But those eyes...
+
+421
+00:37:02,554 --> 00:37:04,181
+Damn.
+
+422
+00:37:04,389 --> 00:37:07,393
+There was something
+about those eyes.
+
+423
+00:37:15,316 --> 00:37:17,444
+She deserved better.
+
+424
+00:37:18,570 --> 00:37:20,914
+And I would've done anything
+to give it to...
+
+425
+00:37:36,129 --> 00:37:38,632
+Libertus, wait.
+
+426
+00:37:41,676 --> 00:37:43,019
+Crowe died a Glaive.
+
+427
+00:37:43,219 --> 00:37:45,813
+You can still honour her
+by fighting as one.
+
+428
+00:37:47,474 --> 00:37:50,569
+You're dumber than me sometimes,
+you know that?
+
+429
+00:37:50,727 --> 00:37:52,650
+Don't you get it?
+
+430
+00:37:52,937 --> 00:37:55,406
+Lucis killed Crowe.
+
+431
+00:38:01,654 --> 00:38:03,702
+Go back to the castle.
+
+432
+00:38:03,865 --> 00:38:09,167
+Tell the king there's no peace to be had
+from throwing the weak to the wolves.
+
+433
+00:38:09,829 --> 00:38:12,958
+I'll fight my own fight from here on out.
+
+434
+00:38:14,751 --> 00:38:18,301
+See you around, hero.
+
+435
+00:38:47,367 --> 00:38:48,539
+<i>A hairpin?</i>
+
+436
+00:38:48,701 --> 00:38:50,581
+<i>I didn't think you were
+into that kind of thing.</i>
+
+437
+00:38:50,787 --> 00:38:53,040
+<i>It's not for me.
+It's a gift for the princess.</i>
+
+438
+00:39:32,161 --> 00:39:35,461
+A most grand reception, King Regis.
+
+439
+00:39:36,124 --> 00:39:38,126
+You honour all of Niflheim.
+
+440
+00:39:38,293 --> 00:39:42,218
+Oh, the honour is ours,
+Emperor Aldercapt.
+
+441
+00:39:42,422 --> 00:39:45,767
+You have ventured far
+to grace us with your presence.
+
+442
+00:39:46,593 --> 00:39:49,016
+It was the very least I could do.
+
+443
+00:39:50,805 --> 00:39:54,901
+Tomorrow will be an historic day
+for both our nations.
+
+444
+00:39:55,226 --> 00:39:59,356
+And your Insomnia is truly a marvel.
+
+445
+00:40:00,398 --> 00:40:03,698
+My own cities pale in comparison.
+
+446
+00:40:04,861 --> 00:40:08,866
+I pray we are able to take away much
+from this visit.
+
+447
+00:40:15,997 --> 00:40:17,419
+Hello.
+
+448
+00:40:19,626 --> 00:40:22,254
+I am afraid we were never
+properly introduced yesterday.
+
+449
+00:40:24,005 --> 00:40:27,509
+I'm afraid it's going to have to wait,
+Your Highness. I'm on guard duty.
+
+450
+00:40:27,967 --> 00:40:30,390
+Then surely there's
+no safer place for me to be.
+
+451
+00:40:32,805 --> 00:40:34,648
+May I ask your name?
+
+452
+00:40:36,392 --> 00:40:39,316
+Nyx. Nyx Ulric.
+
+453
+00:40:40,480 --> 00:40:44,201
+There is something else
+I wish to ask you, Nyx Ulric.
+
+454
+00:40:45,193 --> 00:40:47,867
+King Regis said he sent
+one of your order to come find me.
+
+455
+00:40:49,572 --> 00:40:52,496
+I should like to offer my thanks
+in person.
+
+456
+00:40:52,867 --> 00:40:55,495
+Where might I find this brave soldier?
+
+457
+00:41:03,252 --> 00:41:04,879
+Oh, I did not...
+
+458
+00:41:05,088 --> 00:41:07,307
+- I am so sorry.
+- Don't be.
+
+459
+00:41:10,718 --> 00:41:11,765
+Here.
+
+460
+00:41:14,138 --> 00:41:16,232
+She was carrying this.
+
+461
+00:41:17,183 --> 00:41:18,309
+It was meant for you.
+
+462
+00:41:20,353 --> 00:41:21,855
+For me?
+
+463
+00:41:22,689 --> 00:41:23,986
+Keep it.
+
+464
+00:41:24,607 --> 00:41:26,780
+She would've wanted you to have it.
+
+465
+00:41:29,862 --> 00:41:32,365
+I will carry it with me always.
+
+466
+00:41:32,657 --> 00:41:34,204
+Thank you.
+
+467
+00:42:03,813 --> 00:42:06,783
+Do you have any idea
+what this peace means?
+
+468
+00:42:07,066 --> 00:42:09,410
+It means our homes are gone...
+
+469
+00:42:09,569 --> 00:42:10,946
+...all of them...
+
+470
+00:42:11,112 --> 00:42:12,830
+...forever.
+
+471
+00:42:17,368 --> 00:42:19,462
+Heard I could find
+some treaty haters here.
+
+472
+00:42:19,954 --> 00:42:22,127
+I come to the right place?
+
+473
+00:42:22,290 --> 00:42:24,008
+You certainly have.
+
+474
+00:42:24,167 --> 00:42:26,465
+Everyone say hello to a man
+who spends his days...
+
+475
+00:42:26,627 --> 00:42:28,721
+...in the loyal service of our good king.
+
+476
+00:42:28,880 --> 00:42:30,723
+"Spent."
+
+477
+00:42:31,299 --> 00:42:33,301
+Those days are over.
+
+478
+00:42:34,052 --> 00:42:36,521
+I'm done listening
+to that bastard's lies.
+
+479
+00:42:36,679 --> 00:42:39,353
+He may sit on a throne,
+but he ain't no king...
+
+480
+00:42:39,515 --> 00:42:41,609
+...least not of mine.
+
+481
+00:42:42,060 --> 00:42:43,733
+Well, then...
+
+482
+00:42:44,353 --> 00:42:47,027
+...welcome to the resistance, brother.
+
+483
+00:42:47,774 --> 00:42:49,697
+I hope you're here to talk.
+
+484
+00:42:50,193 --> 00:42:51,615
+What do you wanna know?
+
+485
+00:43:01,412 --> 00:43:02,914
+Please...
+
+486
+00:43:03,081 --> 00:43:05,584
+...wherever Noctis is, keep him safe.
+
+487
+00:43:06,000 --> 00:43:07,718
+That is all I ask.
+
+488
+00:43:07,877 --> 00:43:10,050
+To what god do you pray?
+
+489
+00:43:10,254 --> 00:43:13,929
+You, the slave of fate and destiny.
+
+490
+00:43:15,468 --> 00:43:17,721
+Abandon your prayers.
+
+491
+00:43:17,929 --> 00:43:19,647
+The gods do not listen.
+
+492
+00:43:19,806 --> 00:43:22,776
+General Glauca. Why are you here?
+
+493
+00:43:22,975 --> 00:43:26,900
+You are far too clever
+to have ever believed in this peace.
+
+494
+00:43:27,522 --> 00:43:31,152
+Pity you couldn't see your beloved
+Noctis. You have another purpose.
+
+495
+00:43:31,317 --> 00:43:34,036
+- I'm not here for Niflheim.
+- No.
+
+496
+00:43:34,195 --> 00:43:35,538
+You are here for me.
+
+497
+00:43:35,863 --> 00:43:36,864
+You?
+
+498
+00:43:37,031 --> 00:43:38,453
+I do not understand.
+
+499
+00:43:38,616 --> 00:43:41,290
+Come tomorrow, you will.
+
+500
+00:44:29,542 --> 00:44:31,544
+<i>Niflheim contingent has left the hotel.</i>
+
+501
+00:44:31,711 --> 00:44:33,884
+<i>Less than three hours
+until the ceremony.</i>
+
+502
+00:44:34,130 --> 00:44:35,723
+<i>Bolster the Citadel guard.</i>
+
+503
+00:44:42,972 --> 00:44:44,724
+<i>Nyx, is the princess with you?</i>
+
+504
+00:44:44,932 --> 00:44:45,933
+No.
+
+505
+00:44:46,100 --> 00:44:47,522
+I'm on duty at the Citadel.
+
+506
+00:44:47,977 --> 00:44:50,105
+<i>Well, the Niffs just left
+for the ceremony.</i>
+
+507
+00:44:50,271 --> 00:44:52,319
+<i>And she wasn't with them.</i>
+
+508
+00:45:14,420 --> 00:45:16,764
+<i>- A homing beacon?</i>
+- Yeah, I'll send the coordinates now.
+
+509
+00:45:16,923 --> 00:45:18,391
+Can you pinpoint a location for me?
+
+510
+00:45:18,549 --> 00:45:20,802
+<i>Sure, but it sounds like
+a wild-goose chase.</i>
+
+511
+00:45:20,968 --> 00:45:22,848
+<i>Guess you got some
+free time on your hands, huh?</i>
+
+512
+00:45:22,887 --> 00:45:25,811
+Guess I do, for better or worse.
+
+513
+00:45:49,205 --> 00:45:51,708
+<i>Those coordinates are about
+20 miles south of Insomnia.</i>
+
+514
+00:45:52,083 --> 00:45:53,630
+Outside the Wall.
+
+515
+00:45:53,834 --> 00:45:56,553
+<i>What the hell was Crowe doing
+all the way out there?</i>
+
+516
+00:45:56,837 --> 00:45:58,760
+No, no. They sent her to...
+
+517
+00:46:01,968 --> 00:46:03,311
+I need another favour, Pelna.
+
+518
+00:46:03,469 --> 00:46:05,530
+Pull those coordinates up on the radar
+and let me know what you find.
+
+519
+00:46:05,554 --> 00:46:08,307
+<i>On it. You're thinking
+this is all a big deal now, huh?</i>
+
+520
+00:46:08,516 --> 00:46:09,642
+Yeah, too big to ignore.
+
+521
+00:46:12,770 --> 00:46:14,898
+- Excuse me, sir. Excuse me.
+- Hey, hey, hey.
+
+522
+00:46:15,064 --> 00:46:16,987
+- Whoa, wait a minute.
+- Stop right there.
+
+523
+00:46:21,779 --> 00:46:24,658
+Listen up. This is not the gate watch.
+
+524
+00:46:24,824 --> 00:46:28,795
+This is the heart of our city,
+the home of our king.
+
+525
+00:46:28,953 --> 00:46:31,627
+The ceremony must not be disturbed.
+
+526
+00:46:31,789 --> 00:46:35,134
+Neutralise any threat quickly and quietly.
+
+527
+00:46:35,543 --> 00:46:36,965
+Is that understood?
+
+528
+00:46:37,128 --> 00:46:38,926
+Yes, sir.
+
+529
+00:47:24,633 --> 00:47:26,556
+Glaive to command.
+Are you there, captain?
+
+530
+00:47:26,719 --> 00:47:28,187
+Urgent.
+
+531
+00:47:29,221 --> 00:47:30,973
+Damn it, Drautos.
+
+532
+00:47:31,974 --> 00:47:35,103
+<i>Jackpot, Nyx. There's a whole fleet of
+airships sitting at that spot.</i>
+
+533
+00:47:35,269 --> 00:47:37,271
+- Niflheim.
+<i>- Yup, and from the looks of it...</i>
+
+534
+00:47:37,438 --> 00:47:38,985
+<i>...I'd say they're headed to war.</i>
+
+535
+00:47:39,190 --> 00:47:40,667
+- Where's the captain?
+<i>- Should be at the Citadel.</i>
+
+536
+00:47:40,691 --> 00:47:42,091
+There's no answer on his frequency.
+
+537
+00:47:42,151 --> 00:47:44,546
+<i>I don't know, must have his hands full
+with the escort detail.</i>
+
+538
+00:47:44,570 --> 00:47:48,120
+Pelna, one last favour.
+I need you to prep the Glaive for action.
+
+539
+00:47:48,282 --> 00:47:49,454
+<i>What are you talking about?</i>
+
+540
+00:47:49,617 --> 00:47:51,377
+<i>You wanna deploy
+without the captain's order?</i>
+
+541
+00:47:51,535 --> 00:47:52,832
+Trust me. Just get it done.
+
+542
+00:47:52,995 --> 00:47:54,713
+<i>Wait, what am I supposed to tell...?</i>
+
+543
+00:47:54,914 --> 00:47:55,961
+Stand down, Glaive.
+
+544
+00:48:01,712 --> 00:48:03,840
+The ceremony is in less than two hours.
+
+545
+00:48:04,006 --> 00:48:05,883
+We must make ready.
+
+546
+00:48:08,427 --> 00:48:10,100
+Very well.
+
+547
+00:48:10,388 --> 00:48:11,560
+Your Majesty.
+
+548
+00:48:11,764 --> 00:48:13,607
+A man of the Kingsglaive is here, sire.
+
+549
+00:48:13,766 --> 00:48:15,143
+He demands an audience.
+
+550
+00:48:15,393 --> 00:48:16,815
+"Demands"?
+
+551
+00:48:17,311 --> 00:48:18,511
+- Your Majesty, please.
+- Halt.
+
+552
+00:48:18,854 --> 00:48:20,606
+Give the order to deploy the Glaive.
+
+553
+00:48:23,567 --> 00:48:24,864
+You.
+
+554
+00:48:25,069 --> 00:48:27,822
+A Niflheim fleet makes ready for war
+20 miles to the south.
+
+555
+00:48:27,988 --> 00:48:29,740
+An imperial fleet.
+
+556
+00:48:29,990 --> 00:48:31,333
+And they have the princess.
+
+557
+00:48:33,244 --> 00:48:36,339
+Clarus, post guards
+outside the treaty room.
+
+558
+00:48:36,497 --> 00:48:38,377
+It will be seen
+as a lack of faith in the peace.
+
+559
+00:48:38,541 --> 00:48:40,168
+Which we all harbour.
+
+560
+00:48:40,626 --> 00:48:42,378
+See it done.
+
+561
+00:48:42,753 --> 00:48:45,131
+We may well have to take
+Emperor Aldercapt into custody.
+
+562
+00:48:45,464 --> 00:48:47,011
+Detain him?
+
+563
+00:48:47,174 --> 00:48:49,472
+That would go beyond
+a new declaration of war.
+
+564
+00:48:49,635 --> 00:48:52,058
+We are still at war, Clarus.
+
+565
+00:48:53,305 --> 00:48:56,479
+And you, Nyx Ulric.
+
+566
+00:48:56,934 --> 00:48:58,982
+How soon can the Kingsglaive deploy?
+
+567
+00:49:00,396 --> 00:49:02,615
+On your word, at once.
+
+568
+00:49:03,149 --> 00:49:04,776
+Go, then.
+
+569
+00:49:05,109 --> 00:49:06,486
+Save Luna.
+
+570
+00:49:11,740 --> 00:49:13,458
+What if this is a diversion?
+
+571
+00:49:13,659 --> 00:49:14,911
+Not likely.
+
+572
+00:49:15,077 --> 00:49:17,296
+Tenebrae's princess is on board.
+
+573
+00:49:22,835 --> 00:49:24,337
+We've got two jobs.
+
+574
+00:49:25,421 --> 00:49:26,718
+Save her.
+
+575
+00:49:27,339 --> 00:49:30,343
+And stop those Niff ships
+from flying on Insomnia.
+
+576
+00:49:37,308 --> 00:49:39,106
+We go in teams.
+
+577
+00:49:39,852 --> 00:49:42,776
+Standard infiltrate and extract.
+
+578
+00:49:43,397 --> 00:49:45,650
+Nyx, you command. We'll follow.
+
+579
+00:49:48,819 --> 00:49:52,289
+The Glaive stands together,
+captain or no.
+
+580
+00:49:52,490 --> 00:49:53,537
+For hearth.
+
+581
+00:49:53,699 --> 00:49:55,201
+And home!
+
+582
+00:50:07,546 --> 00:50:12,552
+<i>We are less than 20 minutes away
+from the signing of this historic treaty.</i>
+
+583
+00:50:21,227 --> 00:50:23,195
+<i>I received word
+of the king's order to deploy.</i>
+
+584
+00:50:23,354 --> 00:50:24,856
+<i>I'll see to matters in the city.</i>
+
+585
+00:50:25,940 --> 00:50:28,944
+<i>You have your mission,
+and it won't be easy.</i>
+
+586
+00:50:29,109 --> 00:50:30,531
+<i>The objective is two-fold.</i>
+
+587
+00:50:30,694 --> 00:50:32,947
+<i>Secure the hostage,
+and stay the enemy advance.</i>
+
+588
+00:50:33,197 --> 00:50:35,245
+<i>Just be careful.</i>
+
+589
+00:50:35,407 --> 00:50:37,751
+<i>One Glaive already died
+for this princess.</i>
+
+590
+00:50:37,952 --> 00:50:40,501
+<i>Niflheim won't give her up easily.</i>
+
+591
+00:50:53,842 --> 00:50:54,934
+<i>Team Two.</i>
+
+592
+00:51:14,196 --> 00:51:15,448
+<i>Oh, man.</i>
+
+593
+00:51:15,656 --> 00:51:17,283
+<i>Hurry up, Nyx!</i>
+
+594
+00:51:24,415 --> 00:51:25,917
+<i>Help!</i>
+
+595
+00:51:40,055 --> 00:51:41,602
+Over here.
+
+596
+00:51:43,309 --> 00:51:44,856
+Preparing to head below deck.
+
+597
+00:51:45,019 --> 00:51:47,693
+<i>Do not engage the enemy
+until instructed.</i>
+
+598
+00:51:47,855 --> 00:51:49,277
+<i>The ceremony is underway.</i>
+
+599
+00:51:49,440 --> 00:51:52,193
+<i>Let's wait and see
+how Niflheim plays this.</i>
+
+600
+00:51:57,323 --> 00:51:59,371
+The Kingsglaive
+have infiltrated the ships.
+
+601
+00:51:59,533 --> 00:52:01,911
+So everything's going according to plan.
+
+602
+00:52:29,855 --> 00:52:35,237
+Ulric reporting. Six Niflheim airships
+confirmed inbound for Insomnia.
+
+603
+00:52:39,907 --> 00:52:43,957
+Nyx, this doesn't feel like a war fleet.
+
+604
+00:53:07,976 --> 00:53:10,946
+I think I might've found her.
+I got a guarded door here.
+
+605
+00:53:11,105 --> 00:53:14,109
+<i>Two Niff MTs. What's the plan?</i>
+
+606
+00:53:16,735 --> 00:53:18,612
+Hold position.
+
+607
+00:53:18,821 --> 00:53:22,621
+Arrived at destination.
+High possibility of target in the vicinity.
+
+608
+00:53:25,285 --> 00:53:27,504
+<i>Proceed to secure.</i>
+
+609
+00:53:27,746 --> 00:53:29,089
+It's going to mean a fight.
+
+610
+00:53:29,289 --> 00:53:31,883
+<i>Keep it quiet and keep it confined.</i>
+
+611
+00:53:32,042 --> 00:53:35,137
+Pelna, you're clear to engage.
+But keep it quiet.
+
+612
+00:53:35,337 --> 00:53:37,135
+I'm on my way.
+
+613
+00:53:42,678 --> 00:53:44,271
+Forgive my delay.
+
+614
+00:53:44,430 --> 00:53:46,728
+A bit of unforeseen trouble.
+
+615
+00:53:46,890 --> 00:53:49,734
+Nothing too vexing, I hope.
+
+616
+00:53:50,102 --> 00:53:52,696
+A simple theft, nothing more.
+
+617
+00:53:52,855 --> 00:53:55,153
+A daring thief, to steal from the king.
+
+618
+00:53:55,983 --> 00:54:01,661
+Perhaps magical walls and castle gates
+do not keep all things safe.
+
+619
+00:54:01,822 --> 00:54:03,369
+Perhaps.
+
+620
+00:54:03,824 --> 00:54:07,670
+But no matter. That which was taken
+will soon be returned.
+
+621
+00:54:07,828 --> 00:54:09,671
+Impressive.
+
+622
+00:54:09,913 --> 00:54:14,043
+You are a paragon of kingly composure.
+
+623
+00:54:15,544 --> 00:54:17,717
+But I must ask...
+
+624
+00:54:17,963 --> 00:54:20,591
+...how can you be so sure?
+
+625
+00:54:21,258 --> 00:54:24,057
+Because this thing is no mere trinket.
+
+626
+00:54:24,219 --> 00:54:27,063
+It possesses a will all its own.
+
+627
+00:54:27,431 --> 00:54:30,435
+Enough to break any thief's grasp.
+
+628
+00:54:32,603 --> 00:54:37,484
+That sounds a very fine prize indeed.
+
+629
+00:54:46,116 --> 00:54:48,744
+Not now, damn it.
+
+630
+00:54:50,370 --> 00:54:52,464
+For me? You shouldn't have.
+
+631
+00:54:56,251 --> 00:54:58,720
+Target confirmed. She's unharmed.
+
+632
+00:55:03,884 --> 00:55:07,354
+The Glaives have recovered the princess,
+Your Majesty.
+
+633
+00:55:11,016 --> 00:55:13,314
+<i>Have you found your thief?</i>
+
+634
+00:55:13,519 --> 00:55:14,896
+We have.
+
+635
+00:55:15,062 --> 00:55:17,656
+And what was stolen remains intact.
+
+636
+00:55:17,815 --> 00:55:19,237
+Joyous news.
+
+637
+00:55:19,399 --> 00:55:21,868
+I am relieved to hear it.
+
+638
+00:55:22,778 --> 00:55:24,371
+Tell me...
+
+639
+00:55:24,696 --> 00:55:25,993
+...how heavy a sentence...
+
+640
+00:55:26,156 --> 00:55:29,160
+...does the crime of theft
+carry in your empire?
+
+641
+00:55:29,368 --> 00:55:30,711
+Among the heaviest.
+
+642
+00:55:30,869 --> 00:55:33,213
+Although there is one...
+
+643
+00:55:33,872 --> 00:55:35,089
+...exception.
+
+644
+00:55:36,083 --> 00:55:38,427
+Things are about to get ugly over here.
+
+645
+00:55:40,504 --> 00:55:42,632
+Pelna, get out of there. It's a trap.
+
+646
+00:55:43,423 --> 00:55:45,846
+- What is that?
+- A curious old law...
+
+647
+00:55:46,009 --> 00:55:48,637
+...I still permit in the outlands.
+
+648
+00:55:48,804 --> 00:55:51,683
+A thief who escapes his captor...
+
+649
+00:55:51,849 --> 00:55:54,443
+...can no longer be held to account
+for his crime.
+
+650
+00:55:56,019 --> 00:55:58,021
+A warning to the victim.
+
+651
+00:55:58,230 --> 00:56:02,531
+Never show weakness,
+lest you forgo the hand of justice.
+
+652
+00:56:02,734 --> 00:56:04,987
+Oh, no, good king.
+
+653
+00:56:06,071 --> 00:56:08,073
+Far from it.
+
+654
+00:56:08,407 --> 00:56:10,330
+<i>The treaty is now on the table.</i>
+
+655
+00:56:10,492 --> 00:56:13,086
+<i>The countdown begins
+to this historical moment.</i>
+
+656
+00:56:13,245 --> 00:56:17,375
+<i>It is a warning
+to the hand of justice itself...</i>
+
+657
+00:56:17,958 --> 00:56:21,258
+...never to loose its grip.
+
+658
+00:56:33,932 --> 00:56:35,809
+Unit One, secure the perimeter.
+
+659
+00:56:35,976 --> 00:56:37,819
+Unit Two, stand your ground.
+
+660
+00:56:39,605 --> 00:56:41,198
+Pelna.
+
+661
+00:56:41,356 --> 00:56:44,701
+One Tenebrae princess, safe and...
+
+662
+00:56:47,446 --> 00:56:48,447
+Come on.
+
+663
+00:57:13,472 --> 00:57:16,191
+The crystal. They're after the crystal.
+
+664
+00:57:21,355 --> 00:57:23,699
+There's something going on below deck.
+
+665
+00:57:24,149 --> 00:57:26,652
+The ship's not going to make it
+to Insom...
+
+666
+00:57:33,158 --> 00:57:34,785
+You...
+
+667
+00:57:37,079 --> 00:57:38,456
+<i>What's going on?</i>
+
+668
+00:57:38,622 --> 00:57:39,839
+<i>Insomnia is under attack.</i>
+
+669
+00:57:40,707 --> 00:57:42,584
+Who brought you here?
+
+670
+00:57:43,001 --> 00:57:45,129
+- General Glauca.
+- You were bait.
+
+671
+00:57:45,295 --> 00:57:47,514
+Us coming here was all part of their plan.
+
+672
+00:58:14,658 --> 00:58:18,083
+Target secured.
+Request permission to withdraw.
+
+673
+00:58:20,789 --> 00:58:21,836
+<i>Granted. Get to...</i>
+
+674
+00:58:47,399 --> 00:58:49,652
+The crystal will not serve you.
+
+675
+00:58:49,860 --> 00:58:51,828
+Nor you...
+
+676
+00:58:52,070 --> 00:58:55,074
+...once I take it from this accursed city.
+
+677
+00:58:55,866 --> 00:58:58,540
+It's not the crystal I'm here for.
+
+678
+00:58:58,952 --> 00:59:01,046
+The Wall. It's gone.
+
+679
+00:59:04,166 --> 00:59:05,418
+Fall back. It's a trap.
+
+680
+00:59:13,592 --> 00:59:15,640
+What the hell is going on?
+
+681
+00:59:26,521 --> 00:59:28,023
+Traitors.
+
+682
+00:59:28,899 --> 00:59:30,822
+What's got into you?
+
+683
+01:02:17,025 --> 01:02:19,448
+Come, we must escape while we can.
+
+684
+01:02:19,611 --> 01:02:21,284
+No, Clarus.
+
+685
+01:02:22,572 --> 01:02:24,916
+I fear escape is no longer an option.
+
+686
+01:02:32,749 --> 01:02:34,922
+General Glauca.
+
+687
+01:02:39,839 --> 01:02:42,012
+Can you make it up? Can you stand?
+
+688
+01:03:03,488 --> 01:03:04,956
+Luche!
+
+689
+01:03:12,080 --> 01:03:13,878
+What are you doing?
+
+690
+01:03:22,007 --> 01:03:24,009
+You gotta be kidding me.
+
+691
+01:03:29,806 --> 01:03:32,275
+They teach piloting
+back at the royal academy?
+
+692
+01:03:32,434 --> 01:03:34,186
+Give me that.
+
+693
+01:03:39,065 --> 01:03:41,693
+Been a long time
+since I fought at your side, old friend.
+
+694
+01:03:41,860 --> 01:03:43,237
+Yes...
+
+695
+01:03:43,486 --> 01:03:46,239
+...but this time it is not your fight.
+
+696
+01:03:46,406 --> 01:03:48,124
+If you wish to leave, go now.
+
+697
+01:03:48,283 --> 01:03:51,537
+And abandon my king? I think not.
+
+698
+01:03:51,703 --> 01:03:55,173
+Besides, our magic is bound to you.
+
+699
+01:03:55,707 --> 01:03:58,051
+If you fall, Lucis falls.
+
+700
+01:03:58,877 --> 01:04:01,175
+Then let us once more into the fray...
+
+701
+01:04:01,338 --> 01:04:02,931
+...old friend.
+
+702
+01:04:29,657 --> 01:04:31,830
+You must take me back to King Regis.
+
+703
+01:04:31,993 --> 01:04:34,712
+Are you out of your mind?
+Insomnia's a war zone.
+
+704
+01:04:35,205 --> 01:04:37,708
+I have a duty. I cannot neglect it.
+
+705
+01:04:37,874 --> 01:04:41,174
+- Yeah, I heard all that before.
+- Then you know we must hurry.
+
+706
+01:04:41,336 --> 01:04:43,213
+Hurry to do what? Get yourself killed?
+
+707
+01:04:43,380 --> 01:04:44,381
+I do not fear death.
+
+708
+01:04:44,547 --> 01:04:47,426
+Enough with all this brave princess act.
+
+709
+01:04:51,304 --> 01:04:53,932
+Just pray this thing will make the trip.
+
+710
+01:05:18,581 --> 01:05:20,003
+Clarus.
+
+711
+01:05:23,795 --> 01:05:28,050
+Well, I daresay everything has proceeded
+according to plan.
+
+712
+01:05:28,633 --> 01:05:30,556
+- No?
+- So it has.
+
+713
+01:05:30,718 --> 01:05:32,391
+We have broken the Wall.
+
+714
+01:05:32,554 --> 01:05:35,103
+All that remains is to break the city.
+
+715
+01:05:37,058 --> 01:05:39,356
+Shall we take our leave, then?
+
+716
+01:05:39,519 --> 01:05:41,567
+The sun will soon set.
+
+717
+01:05:41,771 --> 01:05:46,242
+We need not be here
+to witness the terrors of the night.
+
+718
+01:05:58,371 --> 01:05:59,497
+The crystal.
+
+719
+01:06:03,460 --> 01:06:06,088
+You're going too fast.
+We have to land.
+
+720
+01:06:06,254 --> 01:06:10,225
+- You're gonna have to give me a minute.
+- There is no time. I will go on my own.
+
+721
+01:06:10,383 --> 01:06:13,478
+You got wings underneath that dress?
+You can't use magic.
+
+722
+01:06:14,804 --> 01:06:16,681
+Not all miracles are made by magic.
+
+723
+01:06:16,848 --> 01:06:18,566
+I do not fear death.
+
+724
+01:06:18,725 --> 01:06:21,649
+What I fear is doing nothing
+and losing everything.
+
+725
+01:06:23,938 --> 01:06:25,030
+Oh, come on.
+
+726
+01:06:32,113 --> 01:06:35,663
+You can thank magic for that miracle,
+Your Highness.
+
+727
+01:06:56,179 --> 01:06:57,476
+The reckoning is at hand.
+
+728
+01:07:01,851 --> 01:07:03,603
+Dawn of a new age.
+
+729
+01:07:07,815 --> 01:07:11,069
+You have the crystal.
+What more would you take from me?
+
+730
+01:07:25,500 --> 01:07:27,798
+The Ring of the Lucii.
+
+731
+01:07:28,294 --> 01:07:31,298
+<i>I lost my mother, my country,
+my birth-right.</i>
+
+732
+01:07:31,464 --> 01:07:33,887
+Niflheim was the only life left to me.
+
+733
+01:07:34,717 --> 01:07:36,719
+But all of that was for this.
+
+734
+01:07:38,972 --> 01:07:40,440
+The ring belongs to me now.
+
+735
+01:07:49,899 --> 01:07:54,780
+Hear me, Lucian kings of old,
+for I am Ravus Nox Fleuret...
+
+736
+01:07:54,988 --> 01:07:58,333
+...and none is more worthy of your power
+than I.
+
+737
+01:07:59,117 --> 01:08:02,462
+No. Why?
+
+738
+01:08:02,620 --> 01:08:04,622
+Why do you refuse me?
+
+739
+01:08:25,727 --> 01:08:27,149
+Look out.
+
+740
+01:08:52,837 --> 01:08:54,384
+Quickly, through here.
+
+741
+01:09:14,567 --> 01:09:16,695
+This leads to a hidden passageway.
+
+742
+01:09:16,861 --> 01:09:17,908
+Follow it.
+
+743
+01:09:18,071 --> 01:09:19,789
+Once you are away, make for Altissia.
+
+744
+01:09:19,947 --> 01:09:21,199
+Noctis awaits you there.
+
+745
+01:09:22,075 --> 01:09:24,294
+- Your Majesty.
+- You knew this was coming...
+
+746
+01:09:24,452 --> 01:09:27,456
+Yes. But it was the only way
+to draw their wrath from Noctis.
+
+747
+01:09:29,123 --> 01:09:31,342
+Is that the way of our king?
+
+748
+01:09:31,501 --> 01:09:34,721
+Sacrifice Lucian sons to save his own?
+
+749
+01:09:34,879 --> 01:09:36,552
+To save the world.
+
+750
+01:09:39,092 --> 01:09:40,810
+See Luna safely to Altissia.
+
+751
+01:09:42,845 --> 01:09:45,473
+This is not an order
+from a king to his Glaive.
+
+752
+01:09:45,640 --> 01:09:49,144
+This is a plea from one man to another.
+Please, Nyx Ulric, keep her safe.
+
+753
+01:09:50,311 --> 01:09:51,984
+For the future of all.
+
+754
+01:09:52,146 --> 01:09:53,944
+The future?
+
+755
+01:09:56,943 --> 01:09:58,570
+Here.
+
+756
+01:09:58,861 --> 01:10:00,158
+Take this.
+
+757
+01:10:00,321 --> 01:10:03,871
+It is time it passed to another's keeping.
+
+758
+01:10:35,356 --> 01:10:38,405
+No, please. Stop.
+
+759
+01:10:38,693 --> 01:10:40,491
+- Get back.
+- Please. Don't leave us.
+
+760
+01:10:42,572 --> 01:10:45,496
+I know your mother
+would wish the same as me.
+
+761
+01:10:45,950 --> 01:10:49,500
+That you and Noctis live happily.
+
+762
+01:10:49,662 --> 01:10:52,666
+All those years captive
+because I failed you.
+
+763
+01:10:52,832 --> 01:10:53,879
+Not again.
+
+764
+01:10:54,041 --> 01:10:56,920
+Locked doors
+will seal your fate no longer.
+
+765
+01:10:57,086 --> 01:10:59,009
+King Regis...
+
+766
+01:11:00,673 --> 01:11:03,893
+Our hope goes with you now,
+Nyx Ulric. Godspeed.
+
+767
+01:11:40,213 --> 01:11:41,840
+Behold the King of Lucis...
+
+768
+01:11:42,840 --> 01:11:45,593
+...who hoarded tranquility
+within his precious walls.
+
+769
+01:11:46,427 --> 01:11:49,601
+Where is your tranquility now, king?
+
+770
+01:11:50,515 --> 01:11:54,691
+Here is your peace,
+by steel's swift descent.
+
+771
+01:12:10,576 --> 01:12:12,249
+Go.
+
+772
+01:12:32,223 --> 01:12:35,648
+No. We must get away from here.
+
+773
+01:12:36,769 --> 01:12:38,612
+It is what your king wanted.
+
+774
+01:13:19,395 --> 01:13:21,238
+<i>Lady Lunafreya has escaped
+with the ring.</i>
+
+775
+01:13:21,856 --> 01:13:22,948
+<i>Find her at once.</i>
+
+776
+01:13:23,107 --> 01:13:24,575
+<i>She is not to leave the city.</i>
+
+777
+01:13:26,903 --> 01:13:29,702
+<i>- Ulric to command. Come in, captain.
+- Footage of the perpetrators...</i>
+
+778
+01:13:29,864 --> 01:13:31,866
+<i>...was captured
+by a nearby surveillance camera.</i>
+
+779
+01:13:32,033 --> 01:13:34,001
+<i>Here are images of the six suspects.</i>
+
+780
+01:13:34,911 --> 01:13:38,040
+<i>One has been identified
+as Galahdian refugee, Libertus Ostium...</i>
+
+781
+01:13:38,205 --> 01:13:41,584
+<i>...a former member
+of the Lucian Kingsglaive.</i>
+
+782
+01:13:43,628 --> 01:13:45,505
+Hey, come here. Come here.
+
+783
+01:13:45,671 --> 01:13:47,673
+I got you, I got you. You're all right.
+
+784
+01:13:47,840 --> 01:13:49,513
+You're okay.
+
+785
+01:13:50,259 --> 01:13:51,681
+It's fine.
+
+786
+01:13:51,844 --> 01:13:53,096
+We're free.
+
+787
+01:13:53,596 --> 01:13:55,064
+We're free now.
+
+788
+01:13:55,222 --> 01:13:57,190
+We're free? What do you mean,
+"We're free"?
+
+789
+01:13:57,350 --> 01:13:59,944
+The empire. They promised.
+
+790
+01:14:01,062 --> 01:14:02,735
+This district's ours.
+
+791
+01:14:03,147 --> 01:14:04,649
+All the refugees.
+
+792
+01:14:04,815 --> 01:14:06,658
+It's our new home.
+
+793
+01:14:07,276 --> 01:14:10,405
+- The empire? You went in with Niflheim?
+- Here.
+
+794
+01:14:11,364 --> 01:14:13,708
+Take this. Meet up with the others.
+
+795
+01:14:15,618 --> 01:14:18,792
+You're the hero of our revolution,
+brother.
+
+796
+01:14:23,918 --> 01:14:24,965
+Damn it.
+
+797
+01:14:33,469 --> 01:14:36,268
+This guy just doesn't know
+when he's beat.
+
+798
+01:14:36,889 --> 01:14:39,733
+- Can you drive?
+- I can try.
+
+799
+01:14:43,354 --> 01:14:44,697
+I'll be right back.
+
+800
+01:14:55,783 --> 01:14:58,252
+No warping for you this time, hero.
+
+801
+01:15:02,915 --> 01:15:05,088
+Give me the wheel. Go.
+
+802
+01:15:07,795 --> 01:15:09,172
+You are without your magic.
+
+803
+01:15:09,338 --> 01:15:13,013
+You noticed that, huh?
+It must have died with the king.
+
+804
+01:15:13,384 --> 01:15:15,603
+You're making a mess of my city, Glaive.
+
+805
+01:15:15,761 --> 01:15:17,481
+I thought I told you
+not to go playing hero.
+
+806
+01:15:18,139 --> 01:15:19,311
+Leave the ship to me.
+
+807
+01:15:19,849 --> 01:15:22,193
+Looks like you got a royal fare to see to.
+
+808
+01:16:11,776 --> 01:16:13,073
+Move it.
+
+809
+01:16:38,427 --> 01:16:41,146
+Maybe not all miracles
+are made by magic.
+
+810
+01:16:50,272 --> 01:16:51,774
+Oh, great.
+
+811
+01:17:09,917 --> 01:17:11,965
+The hell did you do
+to piss these things off?
+
+812
+01:17:12,128 --> 01:17:14,881
+It's not me they're after.
+It's the ring.
+
+813
+01:17:15,047 --> 01:17:18,517
+What's so special about this ring?
+Don't tell me the future's riding on it.
+
+814
+01:17:18,676 --> 01:17:20,556
+He who wears the ring
+communes with the Lucii...
+
+815
+01:17:20,636 --> 01:17:22,980
+- ...and commands great power.
+- What kind of power?
+
+816
+01:17:23,139 --> 01:17:26,018
+A forbidden one.
+Sealed within the ring, long ago.
+
+817
+01:17:26,725 --> 01:17:31,105
+The Old Wall.
+I thought that was just a bedtime story.
+
+818
+01:17:38,737 --> 01:17:40,205
+I can assure you it is not.
+
+819
+01:17:40,364 --> 01:17:43,493
+But the Lucii grant their power
+only to those they deem worthy.
+
+820
+01:17:43,659 --> 01:17:45,787
+So that guy who tried it on back there...
+
+821
+01:17:45,953 --> 01:17:47,796
+...I guess he wasn't deemed worthy.
+
+822
+01:17:49,373 --> 01:17:50,625
+That was my brother.
+
+823
+01:17:53,460 --> 01:17:55,633
+These 12 years have changed Ravus.
+
+824
+01:17:55,838 --> 01:17:58,717
+He is bound by the past,
+and lost in his lust for power.
+
+825
+01:18:00,843 --> 01:18:02,265
+How the hell did they find us?
+
+826
+01:18:22,114 --> 01:18:24,583
+Your hairpin. They're tracking it.
+Give it to me.
+
+827
+01:18:32,249 --> 01:18:36,379
+I had a little sister once.
+She was killed when the empire came.
+
+828
+01:18:38,214 --> 01:18:40,012
+I couldn't save her.
+
+829
+01:18:40,883 --> 01:18:43,887
+I was as helpless then as I am now.
+
+830
+01:18:46,430 --> 01:18:49,104
+I couldn't show her the future
+she wanted.
+
+831
+01:18:51,268 --> 01:18:55,273
+True power is not something that is found
+by those who seek it.
+
+832
+01:18:56,357 --> 01:18:58,906
+It is something that comes
+to those who deserve it.
+
+833
+01:19:01,695 --> 01:19:03,948
+Your sister wanted you to see
+a future as well.
+
+834
+01:19:07,034 --> 01:19:09,958
+Anyone would wish the same
+for family they love.
+
+835
+01:19:14,166 --> 01:19:16,794
+You don't pull any punches, do you?
+
+836
+01:19:24,677 --> 01:19:26,054
+I'm over here.
+
+837
+01:19:26,470 --> 01:19:28,564
+<i>Do you hear me?
+Repeat, this is Drautos.</i>
+
+838
+01:19:28,722 --> 01:19:30,065
+<i>Can you hear me? Over.</i>
+
+839
+01:19:30,349 --> 01:19:32,397
+Your timing's impeccable, captain.
+
+840
+01:19:37,856 --> 01:19:39,483
+If the Lucii are real...
+
+841
+01:19:39,650 --> 01:19:42,494
+...they sure don't seem to mind
+their city getting torn apart.
+
+842
+01:19:48,492 --> 01:19:50,620
+<i>You're to rendezvous and regroup.
+Understood?</i>
+
+843
+01:19:53,080 --> 01:19:54,548
+Might not be so easy, captain.
+
+844
+01:19:55,958 --> 01:19:58,131
+My wings have been clipped,
+if you didn't know.
+
+845
+01:20:30,492 --> 01:20:32,165
+<i>Ulric. Are you all right?</i>
+
+846
+01:20:33,787 --> 01:20:35,789
+I'm not dead, if that's what you mean, sir.
+
+847
+01:20:36,582 --> 01:20:38,755
+<i>Head for Section D
+as soon as you can.</i>
+
+848
+01:20:38,917 --> 01:20:41,215
+<i>I'll have an evacuation team ready.</i>
+
+849
+01:20:41,712 --> 01:20:44,215
+Don't suppose you could meet me
+at the gate.
+
+850
+01:20:44,381 --> 01:20:46,725
+I'd kind of like to
+get the hell out of this city.
+
+851
+01:20:46,884 --> 01:20:49,558
+<i>Imperials hold all exits.
+There's no way through.</i>
+
+852
+01:20:49,720 --> 01:20:50,972
+<i>I'll meet you at Section D.</i>
+
+853
+01:20:51,138 --> 01:20:55,188
+<i>Cut all radio contact until then.
+And make sure you get there.</i>
+
+854
+01:20:55,351 --> 01:20:56,398
+It's a date, sir.
+
+855
+01:21:13,160 --> 01:21:15,538
+Ain't no turning back now.
+
+856
+01:21:15,704 --> 01:21:17,001
+<i>Status report.</i>
+
+857
+01:21:17,164 --> 01:21:19,166
+<i>Ulric killed some good men.</i>
+
+858
+01:21:19,333 --> 01:21:21,552
+<i>- What about the ring?
+- We don't have it yet.</i>
+
+859
+01:21:22,878 --> 01:21:25,131
+<i>This is Glauca. King Regis is dead.</i>
+
+860
+01:21:25,381 --> 01:21:27,884
+<i>The ring is on its way to Section D.</i>
+
+861
+01:21:28,050 --> 01:21:30,599
+<i>We must recover the ring
+to realise our goal.</i>
+
+862
+01:21:30,761 --> 01:21:33,605
+<i>If Ulric or the princess get in the way,
+take them out.</i>
+
+863
+01:21:33,764 --> 01:21:36,062
+<i>Reclaim our hearth and home.</i>
+
+864
+01:21:36,225 --> 01:21:38,148
+"Hearth and home"?
+
+865
+01:21:38,310 --> 01:21:39,436
+<i>Libertus, come in.</i>
+
+866
+01:21:39,603 --> 01:21:41,276
+<i>Where are you? Are you all right?</i>
+
+867
+01:21:41,438 --> 01:21:42,781
+I'm fine.
+
+868
+01:21:43,649 --> 01:21:45,526
+On the way back to base now.
+
+869
+01:21:45,692 --> 01:21:48,161
+<i>We need you to head to the junction
+in Section D.</i>
+
+870
+01:21:48,320 --> 01:21:51,540
+<i>We're gonna join with another unit,
+make a clean sweep of the place.</i>
+
+871
+01:21:51,698 --> 01:21:54,326
+<i>We're one step away
+from realising this revolution.</i>
+
+872
+01:21:54,493 --> 01:21:56,712
+<i>Let's not let Pruvia's death be in vain.</i>
+
+873
+01:21:56,870 --> 01:21:59,123
+<i>We'll be waiting for you, hero.</i>
+
+874
+01:22:26,024 --> 01:22:28,948
+- Don't move until I say it's safe, all right?
+- I won't.
+
+875
+01:22:37,369 --> 01:22:39,121
+Ulric, reporting.
+
+876
+01:22:40,372 --> 01:22:42,466
+I have the princess.
+
+877
+01:22:42,624 --> 01:22:44,718
+She's alive and well.
+
+878
+01:22:52,593 --> 01:22:53,936
+- No!
+- Get out of here.
+
+879
+01:22:57,139 --> 01:22:59,642
+You've got some fight in you, Nyx,
+I'll give you that.
+
+880
+01:23:01,602 --> 01:23:03,229
+Run. Now.
+
+881
+01:23:05,022 --> 01:23:09,243
+I can't believe you're still moving
+with that hollowpoint in you.
+
+882
+01:23:09,401 --> 01:23:13,076
+All Crowe could do was scream,
+when one tore her insides apart.
+
+883
+01:23:14,448 --> 01:23:18,203
+- Why'd you do it?
+- Because the Kingsglaive is nothing.
+
+884
+01:23:18,368 --> 01:23:19,961
+An old man's battle fodder...
+
+885
+01:23:20,120 --> 01:23:21,872
+...sent to die in insomnia's war...
+
+886
+01:23:22,039 --> 01:23:23,791
+...while our homes
+are bound and shackled.
+
+887
+01:23:24,791 --> 01:23:26,668
+Niflheim took your home.
+
+888
+01:23:28,962 --> 01:23:30,805
+Took all our homes!
+
+889
+01:23:31,840 --> 01:23:33,763
+Nothing will ever change that.
+
+890
+01:23:34,051 --> 01:23:35,974
+You never were too smart.
+
+891
+01:23:37,638 --> 01:23:40,312
+You could've had a new future
+with the empire.
+
+892
+01:23:57,491 --> 01:24:00,370
+There's nowhere to run, princess.
+
+893
+01:24:00,869 --> 01:24:01,870
+The ring.
+
+894
+01:24:04,081 --> 01:24:05,628
+Give it to me.
+
+895
+01:24:28,897 --> 01:24:30,820
+So many dead over so simple a thing.
+
+896
+01:24:31,984 --> 01:24:35,158
+But why? For what?
+
+897
+01:24:35,696 --> 01:24:37,369
+Power.
+
+898
+01:24:37,614 --> 01:24:40,208
+Untold power,
+beyond the control of someone like you.
+
+899
+01:24:42,202 --> 01:24:43,704
+Power...
+
+900
+01:25:24,077 --> 01:25:25,750
+Captain.
+
+901
+01:25:38,759 --> 01:25:40,227
+Nyx.
+
+902
+01:25:42,721 --> 01:25:46,351
+It's over. The daemons are unleashed.
+
+903
+01:25:47,351 --> 01:25:49,900
+Lucis is fallen.
+
+904
+01:25:52,105 --> 01:25:53,448
+Surrender the ring.
+
+905
+01:25:57,444 --> 01:26:00,118
+Plan on giving those kings
+a piece of your mind, princess?
+
+906
+01:26:01,865 --> 01:26:04,914
+You got a destiny to take care of here,
+remember?
+
+907
+01:26:05,327 --> 01:26:08,422
+Besides, didn't anyone tell you?
+
+908
+01:26:11,416 --> 01:26:12,838
+I'm the hero around here.
+
+909
+01:26:30,477 --> 01:26:35,028
+Show yourselves, kings of Lucis.
+
+910
+01:26:39,528 --> 01:26:42,702
+You call upon the wards
+of this world's future, mortal.
+
+911
+01:26:42,864 --> 01:26:47,620
+And if you come lusting for our power,
+you must first stand in our judgement.
+
+912
+01:26:47,994 --> 01:26:52,625
+How long will you do nothing
+whilst Insomnia burns?
+
+913
+01:26:53,083 --> 01:26:55,461
+Old or new, or whatever it is.
+
+914
+01:26:56,545 --> 01:26:58,673
+Summon your Wall.
+
+915
+01:26:59,339 --> 01:27:00,932
+You do not command us.
+
+916
+01:27:01,091 --> 01:27:04,265
+Yours is not even royal blood.
+
+917
+01:27:04,428 --> 01:27:07,523
+It does not fall to us to guard your city.
+
+918
+01:27:07,681 --> 01:27:09,149
+Man is a fool creature...
+
+919
+01:27:09,307 --> 01:27:12,356
+...clinging to his past
+and cowering from his future.
+
+920
+01:27:12,519 --> 01:27:16,114
+Wasting his strength on bygone days.
+
+921
+01:27:16,523 --> 01:27:19,276
+And what future are you wards of?
+
+922
+01:27:19,443 --> 01:27:20,786
+So shortsighted.
+
+923
+01:27:20,944 --> 01:27:23,288
+And cursed never to rise above it.
+
+924
+01:27:23,488 --> 01:27:24,614
+Wait.
+
+925
+01:27:24,781 --> 01:27:28,126
+I have seen what this brave soul
+is prepared to do.
+
+926
+01:27:28,285 --> 01:27:31,038
+He, too, seeks to safeguard the future.
+
+927
+01:27:31,204 --> 01:27:32,456
+Your Majesty.
+
+928
+01:27:33,206 --> 01:27:37,052
+Very well, young king.
+We will weigh your Warrior's worth.
+
+929
+01:27:37,252 --> 01:27:39,755
+But our boon does not come cheap.
+
+930
+01:27:40,130 --> 01:27:46,137
+The cost is a life. His or hers.
+
+931
+01:27:46,470 --> 01:27:47,972
+No.
+
+932
+01:27:49,514 --> 01:27:51,687
+To hell with your power.
+
+933
+01:27:52,976 --> 01:27:55,024
+I'm not here for it.
+
+934
+01:27:56,438 --> 01:28:00,614
+I only came to tell you, you are no kings.
+
+935
+01:28:01,276 --> 01:28:04,155
+Your worth has been weighed
+and found wanting.
+
+936
+01:28:04,362 --> 01:28:06,080
+Now burn.
+
+937
+01:28:12,329 --> 01:28:15,048
+You're going to lose your precious ring.
+
+938
+01:28:17,834 --> 01:28:20,587
+But it's not too late to save it.
+
+939
+01:28:21,463 --> 01:28:23,465
+You mean to barter for your life.
+
+940
+01:28:23,632 --> 01:28:25,600
+No, no.
+
+941
+01:28:26,635 --> 01:28:28,763
+My life is nothing.
+
+942
+01:28:31,264 --> 01:28:34,643
+Giving a future
+to those who want to see it...
+
+943
+01:28:36,311 --> 01:28:38,063
+...is everything.
+
+944
+01:28:40,065 --> 01:28:43,490
+You do not fear,
+even if that future is doomed.
+
+945
+01:28:43,652 --> 01:28:47,748
+If that sentiment is not false,
+perhaps you are worthy.
+
+946
+01:28:48,281 --> 01:28:50,704
+We will grant you our light.
+
+947
+01:28:50,867 --> 01:28:53,791
+But know it will set when the sun rises.
+
+948
+01:28:54,329 --> 01:28:57,629
+And the price for it will be your life.
+
+949
+01:28:59,876 --> 01:29:02,846
+You guys drive a hard bargain.
+
+950
+01:29:05,507 --> 01:29:07,430
+<i>Where do I sign?</i>
+
+951
+01:29:17,394 --> 01:29:19,613
+I could get used to this.
+
+952
+01:29:25,193 --> 01:29:26,194
+Nyx...
+
+953
+01:29:27,445 --> 01:29:29,163
+- I'm sorry.
+- Don't be.
+
+954
+01:29:30,365 --> 01:29:31,992
+You saved me.
+
+955
+01:29:32,576 --> 01:29:33,998
+Now I owe you.
+
+956
+01:29:34,202 --> 01:29:35,829
+For a change.
+
+957
+01:29:36,955 --> 01:29:38,377
+I'm gonna need another favour.
+
+958
+01:29:38,540 --> 01:29:42,761
+Meet Lunafreya Nox Fleuret,
+our prince's beloved bride-to-be.
+
+959
+01:29:42,919 --> 01:29:45,843
+And she has the future of the world
+in her hands.
+
+960
+01:29:46,006 --> 01:29:49,385
+Keep her safe, get her out of Insomnia.
+
+961
+01:29:50,093 --> 01:29:52,437
+Oh, I almost forgot. You'll need this.
+
+962
+01:29:54,431 --> 01:29:57,310
+Give Prince Noctis my regards.
+
+963
+01:29:58,018 --> 01:30:00,112
+Libertus will take care of you from here.
+
+964
+01:30:00,312 --> 01:30:03,441
+Have a safe journey, Your Highness.
+
+965
+01:30:03,982 --> 01:30:06,861
+- What will come of you?
+- What the hell are you doing?
+
+966
+01:30:07,444 --> 01:30:09,412
+Following the kings' orders.
+
+967
+01:30:10,196 --> 01:30:12,699
+I will see the ring to Noctis.
+
+968
+01:30:13,992 --> 01:30:16,336
+The future will be safe. I swear it.
+
+969
+01:30:26,504 --> 01:30:29,428
+Planning on punching your way
+out of the city? Keep it.
+
+970
+01:30:30,091 --> 01:30:31,934
+- Now we're even.
+- No.
+
+971
+01:30:32,302 --> 01:30:34,680
+We'll settle up
+once you're back in Galahd.
+
+972
+01:30:34,888 --> 01:30:37,391
+Me and everyone else
+will be waiting for you.
+
+973
+01:30:37,599 --> 01:30:38,976
+I'm counting on you...
+
+974
+01:30:40,310 --> 01:30:41,357
+...hero.
+
+975
+01:31:00,163 --> 01:31:03,383
+- Buckle up, princess.
+- My life is in your hands.
+
+976
+01:31:13,176 --> 01:31:16,555
+So, the power of the Lucii returns.
+
+977
+01:31:17,055 --> 01:31:18,728
+No matter. You are out of time.
+
+978
+01:31:18,890 --> 01:31:20,984
+For you, I'll make some.
+
+979
+01:31:54,759 --> 01:31:57,137
+What can you hope to do?
+
+980
+01:31:58,638 --> 01:32:01,562
+One man against an empire.
+
+981
+01:32:01,725 --> 01:32:03,523
+Against the daemons.
+
+982
+01:32:03,810 --> 01:32:07,781
+How will you save Insomnia
+with no wall to protect you?
+
+983
+01:32:09,357 --> 01:32:13,362
+You've got it all wrong.
+I'm not fighting to save Insomnia.
+
+984
+01:33:39,405 --> 01:33:44,457
+So this is the might of the Old Wall.
+
+985
+01:33:44,661 --> 01:33:48,336
+Marvellous. Truly marvellous.
+
+986
+01:34:59,402 --> 01:35:01,404
+Why'd you do it?
+
+987
+01:35:01,696 --> 01:35:03,994
+Lucis. Niflheim.
+
+988
+01:35:04,157 --> 01:35:06,831
+It isn't who we fight for that matters,
+only what.
+
+989
+01:35:07,744 --> 01:35:11,874
+We fight for our homes.
+That is where our allegiance lies.
+
+990
+01:36:31,327 --> 01:36:33,750
+That's not something you see every day.
+
+991
+01:36:50,013 --> 01:36:53,313
+Oh, such a pitiable waste.
+
+992
+01:36:53,474 --> 01:36:58,230
+All those beautiful city streets,
+all laid to unsightly ruin.
+
+993
+01:36:58,438 --> 01:37:01,817
+- I will return to Niflheim.
+- So soon?
+
+994
+01:37:02,567 --> 01:37:04,160
+The crystal is ours.
+
+995
+01:37:05,028 --> 01:37:06,245
+Finish this...
+
+996
+01:37:06,571 --> 01:37:09,040
+...and see the daemons disposed of.
+
+997
+01:37:09,198 --> 01:37:10,575
+As you command.
+
+998
+01:37:12,410 --> 01:37:14,833
+Such a pitiable waste.
+
+999
+01:37:28,176 --> 01:37:30,725
+How could you serve the empire?
+
+1000
+01:37:31,220 --> 01:37:34,019
+After everything they did?
+
+1001
+01:37:34,682 --> 01:37:38,186
+I do not fault them
+for taking what was given.
+
+1002
+01:37:40,313 --> 01:37:42,907
+I fault the man who gave it.
+
+1003
+01:37:43,524 --> 01:37:45,492
+The man who cowered behind his wall...
+
+1004
+01:37:45,693 --> 01:37:49,539
+...and abandoned us
+to save his throne and his son.
+
+1005
+01:37:50,156 --> 01:37:53,160
+Give me the ring,
+and our homes will be free again.
+
+1006
+01:37:53,326 --> 01:37:55,624
+The empire has promised it.
+
+1007
+01:37:56,329 --> 01:38:00,209
+I don't see much of a future
+on the other side of that promise.
+
+1008
+01:38:00,416 --> 01:38:01,963
+Don't be a fool.
+
+1009
+01:38:02,126 --> 01:38:03,753
+Save your friends.
+
+1010
+01:38:05,213 --> 01:38:06,931
+Give your dead sister peace.
+
+1011
+01:38:08,049 --> 01:38:10,848
+What do you fight for if not that?
+
+1012
+01:38:56,097 --> 01:38:58,566
+Hang on. This could get bumpy.
+
+1013
+01:39:08,276 --> 01:39:09,903
+Drautos.
+
+1014
+01:39:18,244 --> 01:39:19,837
+Here, take the wheel.
+
+1015
+01:39:28,171 --> 01:39:29,889
+Floor it!
+
+1016
+01:39:40,183 --> 01:39:42,777
+- Libertus!
+- Just keep your foot on the gas.
+
+1017
+01:40:03,456 --> 01:40:05,083
+You're all right?
+
+1018
+01:40:11,422 --> 01:40:13,595
+I'll be waiting for you, hero.
+
+1019
+01:40:40,993 --> 01:40:42,620
+What of your kings' power now?
+
+1020
+01:40:42,787 --> 01:40:46,508
+They've given you a burden
+you cannot hope to bear.
+
+1021
+01:40:48,000 --> 01:40:49,718
+I told you before.
+
+1022
+01:40:49,919 --> 01:40:53,173
+Just wanting doesn't win wars.
+
+1023
+01:42:05,745 --> 01:42:11,752
+For the honour of my home,
+I fought and killed under a king I loathed.
+
+1024
+01:42:13,419 --> 01:42:15,888
+And still he betrayed me.
+
+1025
+01:42:17,173 --> 01:42:19,221
+He betrayed us all.
+
+1026
+01:42:19,383 --> 01:42:23,104
+We fought for the same thing. All of us.
+
+1027
+01:42:24,472 --> 01:42:26,474
+But you've looked too long on the past.
+
+1028
+01:42:27,433 --> 01:42:28,685
+You're blind to the future.
+
+1029
+01:42:33,773 --> 01:42:35,525
+Predictable.
+
+1030
+01:42:36,233 --> 01:42:39,988
+Unlike you, I learn from history.
+
+1031
+01:42:40,446 --> 01:42:43,165
+But you're a slave to the past.
+
+1032
+01:42:43,949 --> 01:42:46,702
+A man's past is his pride.
+
+1033
+01:42:47,370 --> 01:42:48,462
+No.
+
+1034
+01:42:48,829 --> 01:42:52,504
+My pride is shaping the future.
+
+1035
+01:43:05,137 --> 01:43:07,435
+Looks like I'm gonna owe him big.
+
+1036
+01:43:23,322 --> 01:43:25,074
+We're almost there.
+
+1037
+01:43:25,658 --> 01:43:26,875
+Almost.
+
+1038
+01:43:39,547 --> 01:43:42,767
+King Regis did what he did for the future.
+
+1039
+01:43:43,759 --> 01:43:45,682
+Because of him...
+
+1040
+01:43:46,512 --> 01:43:49,311
+...there's still hope for our homes.
+
+1041
+01:43:50,474 --> 01:43:52,272
+Hope...
+
+1042
+01:44:01,360 --> 01:44:03,613
+Not the worst way to go.
+
+1043
+01:44:04,280 --> 01:44:06,328
+Rule well, young king.
+
+1044
+01:44:26,802 --> 01:44:28,304
+We should move.
+
+1045
+01:44:30,264 --> 01:44:32,608
+It ain't safe here either.
+
+1046
+01:44:35,060 --> 01:44:36,437
+Hey.
+
+1047
+01:44:37,396 --> 01:44:39,398
+Don't worry about Nyx.
+
+1048
+01:44:40,691 --> 01:44:42,864
+He can take care of himself.
+
+1049
+01:44:47,990 --> 01:44:49,412
+Come on.
+
+1050
+01:44:51,660 --> 01:44:52,912
+No.
+
+1051
+01:44:55,623 --> 01:44:57,591
+We must part ways here.
+
+1052
+01:44:58,375 --> 01:44:59,672
+What?
+
+1053
+01:45:00,377 --> 01:45:04,052
+I can hardly travel in secrecy
+alongside so great a hero.
+
+1054
+01:45:05,049 --> 01:45:08,178
+And I, too,
+have a promise to keep to Nyx.
+
+1055
+01:45:09,303 --> 01:45:11,726
+I pray you two see each other again soon.
+
+1056
+01:45:14,600 --> 01:45:16,147
+Yeah.
+
+1057
+01:45:18,020 --> 01:45:19,738
+Me too.
+
+1058
+01:45:22,525 --> 01:45:24,778
+Thank you, Libertus.
+
+1059
+01:45:42,503 --> 01:45:43,720
+Hey, queen!
+
+1060
+01:45:44,380 --> 01:45:47,759
+You and the king
+are always welcome in Galahd.
+
+1061
+01:45:48,801 --> 01:45:51,475
+Me and Nyx will be waiting for you.
+
+1062
+01:54:48,131 --> 01:54:49,178
+<i>It's been some while.</i>
+
+1063
+01:54:49,341 --> 01:54:52,561
+<i>Do you remember the last time
+you saw Lady Lunafreya?</i>
+
+1064
+01:54:53,136 --> 01:54:54,638
+About 12 years ago.
+
+1065
+01:54:54,805 --> 01:54:56,648
+That would make you 8?
+
+1066
+01:54:56,807 --> 01:54:59,276
+- You were kids.
+- Hope she hasn't gotten her hopes up.
+
+1067
+01:54:59,434 --> 01:55:01,186
+Why not? Calm yourself.
+
+1068
+01:55:01,395 --> 01:55:03,363
+Try and keep it together
+when you meet her.
+
+1069
+01:55:03,522 --> 01:55:06,459
+- She'll expect to see a fine, young prince.
+- Tell me something I don't know.
+
+1070
+01:55:06,483 --> 01:55:08,736
+We don't have time for all that.
+
+1071
+01:55:08,902 --> 01:55:11,576
+But this is your wedding
+we're talking about, Noc.
+
+1072
+01:55:11,738 --> 01:55:13,581
+Knew that too.
+
+1073
+01:55:13,740 --> 01:55:16,209
+You really gotta calm down.
+
+1074
+01:55:17,869 --> 01:55:20,292
+What do you mean, "Uh-oh"?
+
+1075
+01:55:20,455 --> 01:55:22,207
+I think I know.

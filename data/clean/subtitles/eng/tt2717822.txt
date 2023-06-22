@@ -1,1518 +1,916 @@
-hathaway  cell search 
-hands behind you 
-open 16 
-go  go  go 
-search everything 
-get off that 
-hey 
-take him down 
-one  two  three  up 
-stay strong  carnal 
-this was found
-in your cell 
-you added  900 to all your
-pals  commissary accounts
-in your cell block 
-is this the attack tool 
-with it 
-you open up a terminal
-and that gives
-you a command line 
-that how you broke into the network
-and plussed up the balances 
-no 
-i used it to call santa
-in the north pole
-and told him to do
-christmas early this year 
-what do we know
-about this guy 
-his grandfather was
-a military commander
-in shanghai in the  20s 
-in the  30s against the
-japanese through the civil war 
-his father became
-china s undersecretary
-for trade to the un 
-he came with to new york 
-bronx high school
-of science  mit 
-his sister s a network engineer
-in the private sector 
-she grow up
-in new york  too 
-no 
-he s a rising star in pla s
-cyber defense section 
-liaise with them 
-it s inviting them
-into the henhouse  carol 
-stanley  we go head to head
-with the chinese
-on their cyber intrusion
-every day of the week 
-not a bad idea to be face to face
-working with them  for once 
-you monitor very closely what they
-do and do not have access to 
-okay 
-okay 
-send the code 
-okay 
-let s go somewhere we can talk 
-hey  hey   
-english might be better 
-come on 
-tomorrow  i can t 
-it s impossible 
-why not 
-i ve got
-an optical overlay network
-that s got to be up
-in 17 days 
-they sent me
-some code tonight 
-the black hat who hit
-the chai wan reactor 
-when i looked at the
-code  it was  uh   
-and 
-i have to have a network
-engineer with me i can trust 
-really trust 
-like  100  
-when do we leave 
-the meltdown in china
-and the run up in soy yesterday
-was facilitated
-by the same rat 
-how it got loaded in
-in the first place 
-we don t know 
-but  once inside 
-it de cloaked and
-became what it really is 
-a remote access tool 
-a rat 
-the rat s job was to open a back
-door in our system and call home 
-the black hat then used his back
-door to inject a second part 
-it s payload 
-that is what rode up soy 
-now that we re looking at the
-rat and payload closely 
-we re thinking
-they were   
-written by different authors 
-how we figured that out
-was through the coding in the rat 
-though several years old 
-it is lean  graceful 
-the payload s coding 
-on the other hand 
-feels frenetic  confused   
-frenetic 
-or overwritten 
-so  the question
-we re dealing with is   
-is there somewhere
-we can talk 
-   and if it is two 
-they may not be working
-in close proximity 
-daniels is qualified
-in computer forensics 
-an intern could have
-written that report 
-oh  really 
-and who do we need 
-if not daniels 
-and  liaise  in  liaison
-group  implies mutuality 
-you don t like our boy 
-what ideas are you
-bringing to the dance 
-a man named hathaway 
-he s a convicted hacker 
-serving 15 years in u s p 
-canaan in waymart 
-pennsylvania 
-you telling me
-some hacker in prison
-is hitting our
-financial markets 
-no  but we want
-hathaway on the team
-so he can help out
-the investigation 
-he hit four
-major banks 
-ran up  46 million
-in damages 
-and that s just
-what we know about 
-you want the doj to do
-anything other than laugh 
-daniels said two authors
-wrote the virus 
-i don t know who
-wrote the second half 
-but the first half  the rat 
-the remote access tool that daniels
-called  lean and graceful  
-one of the original authors
-is me 
-i co wrote it 
-as a gag 
-years ago at mit 
-and my roommate 
-the genius lead author 
-nicholas hathaway 
-that s right 
-the hacker found the rat
-online and modified it 
-if we want to move
-around within this code
-looking for clues to
-the hacker s identity 
-we need it s lead architect 
-the reactor in china 
-i heard about 
-but the spike
-in soy futures   
-all right 
-i didn t know any of this 
-we don t get a lot
-of new news in here 
-the us government would like
-your technical advice on this 
-in exchange for that 
-we re going to furlough
-you right out of here 
-you sign that
-on the last page 
-and we ll get
-you processed 
-you ll wear
-an ankle bracelet
-and be accompanied
-by a us marshal 
-your computer access
-will be restricted 
-if you wanna study
-the whole document 
-you can go right ahead 
-i can come back
-in a month or two 
-no  i m done 
-you didn t sign it 
-yeah 
-why would i sign it  why 
-because of the generosity
-of the assistant us attorney
-in granting you a furlough 
-both you and
-the assistant us attorney
-can stick that
-document up your ass 
-i m sorry 
-why are you sorry 
-i insulted you 
-what are you sorry for 
-i m not sorry 
-don t think you re gonna   
-hey 
-you wanna raise
-me up out of here 
-solve your trade
-exchange dilemma 
-and i get a furlough
-for a couple of weeks 
-you kidding me 
-you have any idea how much
-progress you re gonna make
-on a strike this complex
-without someone like me 
-zero 
-this isn t a negotiation 
-i just made it one 
-you want me 
-you pass this upstairs 
-if my assistance results
-in the identification
-and the apprehension
-of the guy you re after 
-i want you to commute
-my sentence 
-if i come up empty 
-you toss my ass
-back in the can 
-those are the terms 
-guard 
-interview s over 
-barrett  how badly
-do you need this guy 
-it s so good
-to see you  bro 
-not half as much as it
-is for me to see you 
-let s get out of here 
-so  you planned to reunite with your
-friend from the moment you landed 
-it entered my mind 
-you okay 
-yeah  i m fine 
-okay  please keep
-them out of sight 
-if you can help it 
-see  he ripped off
-and repurposed our code 
-  what the hell is this 
-  what 
-the agreement was an approval
-and a presence for
-his computer access 
-i approved it 
-a doj approval 
-now you re changing
-the goalposts 
-hola  chica 
-you came to me 
-how am i supposed
-to do my work 
-on an abacus
-or something 
- chica  
-am i hispanic 
-what the hell s going on 
-i advocated
-getting you over here 
-i pulled every string to get your
-convicted felon sprung  mr  chen 
- captain  chen 
-and i didn t ask 
-i offered partnership 
-an equivalent 
-or we would do it
-on our own 
-well  i ll be happy
-to bust him back to canaan
-and put your ass on the
-first plane back to china 
-he apologizes 
-my brother misunderstood
-our arrangement 
-special agent 
-look around 
-i have to run
-the morning backup 
-your network is sitting
-behind deep packet inspection 
-intrusion protection 
-it s extensively
-firewalled 
-exactly 
-so somebody had to physically enter
-this room and plug the virus in 
-we reviewed keycard
-scans and surveillance tapes 
-there was no
-unauthorized entry 
-now  we re thinking about
-a routing weakness 
-that s too complicated 
-he wouldn t have done that 
-yeah  well 
-what you re proposing
-didn t happen 
-there s only one person who s
-authorized to access these terminals 
-me 
-and my password
-is my thumbprint 
-may i 
-sure 
-can i have some
-approval now 
-all right 
-this is the code for our rat 
-see  it s compact 
-it s slick 
-under a meg 
-you would never
-have picked up on it 
-ever leave that
-usb drive on your desk 
-i suppose so 
-who works here
-who doesn t like you 
-recently hired  fired 
-no 
-who 
-lozano 
-his mother passed away 
-he left two weeks ago 
-john lozano 
-he was only
-on the job for a month 
-  he have access to your office 
-  yes 
-i ll pull his
-employment records 
-everything will
-come up phony 
-except this 
-you got his photo id 
-yeah 
-this section of his code
-right here is a mess 
-there s 25 lines 
-he s left text 
-it looks incomplete 
-are they notes to himself 
-dead end ideas 
-maybe he s still writing 
-yeah  that s good 
-so if you ve got the ability
-to move a commodity
-any way you want 
-what do you do 
-i play it out long and low key 
-i do not do one big spike 
-instead  i d play it
-out month after month 
-less risk of detection 
-yeah  right 
-but our guy jacks soy
-250  in a day 
-mmm hmm 
-it s flashy  he knows
-he s gonna bring down heat 
-maybe he needs cash 
-fast 
-he s got the money
-from the soy run up 
-and he s busy writing
-code for what s next 
-i think the real hit
-is still to come 
-we have lozano s photo 
-what s on his neck 
-kid had tattoos 
-you have any
-routine surveillance tapes 
-right there 
-face of stone 
-pollack 
-it s me 
-can you have someone
-jump on the ncic database 
-search for latino males
-under 30 with priors in 
-i don t know 
-anything like carding 
-identity theft 
-who were in west texas
-prison gangs 
-our cowboy has a tattoo
-on his shoulder 
-he s with los zapotecas 
-i m sending you
-something right now 
-that s him
-in the bottom left 
-alonzo reyes 
-did two years in
-huntsville for carding 
-paroled  moved back to la 
-i ll have la pick him up 
-he s gonna monitor
-his home grid  i did 
-we got a better shot getting a
-first look at him ourselves 
-isn t that why
-you brought me here 
-okay 
-yeah  go ahead 
-that means you and
-me are on the money 
-unless you think you can
-do that on your own  too 
-i do okay 
-you do  huh 
-let s see how you handle
-the financial sector 
-thanks  stanley 
-my eye s on you 
-where do you think
-i m going 
-this guy is one step away from
-my  get out of jail free  card 
-so   
-how can i help 
-we want to see
-your trading records
-of your traders who took large
-profits from the soy run up 
-you re requesting
-i turn over records
-to the fbi
-and a foreign power
-on thousands of private
-brokers and traders 
-afraid i can t possibly
-accommodate you 
-you re gonna protect the person
-who manipulated your market 
-no  you re casting
-your net way too wide 
-mr  chen 
-you want to see my data 
-you come up with something
-a little more tangible 
-something more in the way
-of probable cause
-than your hunch 
-gary 
-may i call you gary 
-how s this for tangible 
-in the next 15 seconds
-i call laura greer
-at the commodities
-trading commission 
-and i say 
- laura  how you doing 
- i d like to launch an official
-investigation on one gary baker  
-so the headline 
- m tech official investigated for
-aiding and abetting cyber criminals 
-leaks to cnn
-in the next 90
-so it makes the three
-o clock news cycle 
-as well as
-the nightly news 
-that d be good  too 
-am i being tangible 
-gary 
-look around here 
-but i stay here with you 
-no take nothing 
-hey  mi carnal 
-what happened to you 
-he has wrt hardware
-and an onion router 
-he can route encrypted data and
-stay anonymous with no ip address 
-yeah 
-somebody must have
-told him how to set it up 
-she probably called 911 
-who s the woman 
-it s the manager 
-mrs  novo 
-here  let me see it 
-here  try it now 
-barrett  this is jessup 
-mmm hmm 
-thanks  jessup 
-well  we better make following
-the money pay off 
-reyes isn t  he s dead 
-oh  great 
-wait a minute 
-we ve been looking
-for buyers of soy 
-switch to sellers 
-only our player would know
-exactly when to get out 
-reyes got an email
-about a drop tonight 
-with no reyes 
-we gotta find a new link
-to our main player 
-i m gonna see who shows 
-you tell jessup 
-no  they ll spot
-him 10 blocks away 
-you get into not
-enough for one day 
-look 
-i play it my way 
-it works 
-it don t 
-at least i own it 
-i go  too 
-you look not so different
-from the pictures 
-what pictures 
-that my brother
-sent me before 
-why you re in prison 
-hmm 
-i was in a bar 
-i met some girl 
-and some guy got
-in my face about her 
-he started a fight
-and when it s over 
-he s in the hospital
-and i m arrested 
-i wound up sentenced to
-18 months at mci norfolk 
-i traded academia
-for gladiator academy 
-then what 
-then i got out 
-i m 22 
-and not a lot going
-on in silicon valley
-for an ex con with no degree 
-so 
-carding 
-yeah  that and
-i was in wholesaling internationally 
-i had an eight year run 
-then the feeb caught up
-with me 
-and i got 13 years 
-you have regrets 
-regrets  no 
-the banks got hit for
-the losses  not people 
-i didn t burn people 
-i don t burn people 
-no 
-i mean  banks are chiseling
-everybody all the time  anyway 
-i don t feel sorry
-for banks  no 
-i mean  i m sorry for
-what happened to you 
-don t be 
-i m not fishing for sympathy  here 
-i did the crime 
-i m doing the time 
-time isn t doing me 
-what s that mean 
-i do my own time 
-not the institution s 
-see  to hold on to
-who you are in there 
-you dedicate yourself
-to your program 
-you work out on your
-body and your mind 
-open your eyes 
-what d you say 
-you talk like you
-are still in prison 
-but you re not in prison 
-get your thinking
-to where you are 
-not where you ve been 
-what do you know
-about where i ve been 
-no  nothing 
-no  nothing 
-but   
-okay  tell me 
-what is it i m supposed
-to start seeing so fast 
-where you are 
-what  koreatown 
-  this restaurant  this table 
-  what 
-you ll be in the rapid
-stream of decision making 
-having to make
-intuitive choices 
-the people against you
-are high speed 
-world class dangers 
-to be genius coder
-to outsmart  out think
-like my brother
-always said you could 
-you have to think
-about it clear 
-not easy  i know 
-there s no transition time 
-but i believe you
-are a very strong man 
-very smart man 
-here  chen 
-three trades 
-three different accounts 
-large volumes 
-they all sell within
-minutes of each other 
-just at the soft close 
-at 13 13 and 13 14 
-timed perfectly
-when to dump 
-what s that 
-  bank accounts  foreign 
-  same place  all three 
-where 
-hong kong 
-you want your bill 
-you not order more 
-you give up table 
-you re really hurting
-for space  huh 
-maybe our guy
-is no show 
-what is it 
-let s go 
-what s happening 
-who are you 
-why are you here 
-who are you 
-watch out 
-ahhh 
-hey  hey  hey 
-and reyes
-probably was killed 
-the email on his
-computer was bait 
-whoever this is wanted to see
-if we were on reyes  trail 
-we re burned 
-could you track it
-to our guy s location 
-no  the video feed went through
-a proxy server in the ukraine 
-who knows where
-it bounces to off that 
-yeah  and our players
-are foreign  too 
-what about the money 
-three accounts 
-all in the same place 
-they took  74 million 
-we re going to
-follow the money 
-where 
-put my sister on 
-we re flying
-to china in the morning 
-  my dad was a steel worker 
-  single father 
-he raised us on his own 
-came to visit  twice 
-then he got sick 
-i used to replay memories
-so i could stay oriented
-for when i got out 
-captain chen 
-paul wang  cncert 
-in here 
-what s the status 
-we re trying to restore
-coolant by pumping in sea water 
-i got more injured 
-since it happened 
-was there any
-demand for money 
-no 
-then it s not
-about extortion 
-is he political 
-a terrorist attack 
-any declaration 
-no claim  no statement 
-what does this guy want 
-what did
-the malware attack 
-programmable launch
-controllers  plcs 
-they tell the pumps
-to turn on  turn off 
-to cool the reactor 
-any idea where
-the attack originated 
-i was tracking the
-malware when the core went 
-we had to evacuate 
-but if a machine failed 
-it should have saved the
-memory to a diagnostic file 
-yeah  that s right 
-and in that memory dump
-may be your traces of code 
-maybe even this
-guy s real ip address 
-but those servers are
-in the control room 
-everything is still hot 
-we re fighting
-a meltdown 
-chen lien 
-inspector alex trang 
-hong kong police 
-hathaway 
-us marshal mark jessup 
-hello 
-so  is this them 
-these the guys 
-yeah 
-we got anything 
-here they are 
-johnny li 
-yan lin  samuel wu 
-li just got out of
-prison two months ago 
-yan and his mother
-are both junkies 
-wu runs a chop shop 
-hardly commodities
-speculators 
-they re fronts 
-proxies 
-so how do they communicate 
-how do they connect up
-to our actor 
-they don t 
-phones 
-the internet 
-and we ve been on them
-all day and all night 
-nothing 
-if you were our player 
-right now 
-what would be
-your next move 
-i d make my trail go cold 
-how 
-i d cash out 
-cash money doesn t
-leave a trail 
-pick it up 
-walk it anywhere you want 
-but the money
-hasn t moved yet 
-there s no activity
-in the accounts 
-yeah 
-this is all too clean 
-i mean  there s got to be
-somebody between them 
-talking to them 
-instructing them 
-telling them what to do 
-there has to be
-someone in contact 
-it wouldn t be
-the main player 
-too much exposure 
-a middle man 
-they didn t all fall by
-here by accident either 
-where 
-can i see this 
-right there 
-where s this 
-yau ma tei 
-great 
-octb 
-we re running
-a surveillance 
-on whom 
-some lebanese guy on our
-trafficker watch list 
-why d you let him in 
-well  they want to see if he s
-talking to anybody homegrown 
-why here 
-every morning he comes
-here to meet someone 
-run him down 
-hmm 
-elias kassar 
-fought with
-the christian phalangists
-in the civil war 
-then disappeared 
-popped up in the  90s with the
-paramilitaries in colombia 
-renting a house
-month to month in shek o 
-who s he meet 
-no one 
-no one ever shows 
-he texts 
-is your phone an android 
-can i see it 
-trang 
-bluetooth transmitter 
-short range 
-we would never pick it up 
-see  they don t
-come to meet him 
-they come to meet this 
-kassar texts 
-wu  yan and li walk by 
-the receivers in
-their pockets pick it up 
-they read it  delete it 
-kassar never meets them 
-never sees them 
-no emails 
-no phones  no nothing 
-slick 
-can you crack it 
-in about a month 
-see  it s locked
-in gpg encryption 
-so  at least a 512 bit key 
-we pick him up 
-lean all over him 
-or we let him ride and tail
-him to the main player 
-ah  you don t
-have a choice 
-i mean  this guy s history 
-he ain t gonna roll 
-i think we let him ride 
-yeah 
-sunrise is in two hours 
-when this is over 
-what will you do 
-i don t know  fix tvs 
-garage door openers 
-are you still gonna like me if
-i m fixing garage door openers 
-i don t know 
-maybe 
-they re moving the money 
-all three accounts 
-wire transfers
-to a macau casino 
-they re cashing out 
-surveillance 
-nobody s moved 
-kassar 
-we can t reach
-yan s team in shek o 
-we re going to shek o 
-we re going to shek o
-to pick up kassar 
-launch stu 
-meet at the heliport 
-i m going to
-pick up the mules 
-let s talk about this 
-i m not blind 
-i know the two of
-you are together 
-but look at it through my
-eyes and what do you see 
- hathaway  been in prison 
-damaged goods 
- not much to offer
-my sister 
- and his future s not
-exactly guaranteed  
-is what i d see 
-what else 
- she deserves better  
-i d think  if i was chen 
-i ve rarely
-seen her happier 
-but what if this fails 
-nine more years in prison 
-what kind of life
-is that for her 
-chen  it s barrett 
-i hear you 
-the mules 
-we ve got li and yan 
-and listen 
-we can t reach
-surveillance in shek o 
-come on  this way 
-trang 
-hold on  man  hold on 
-stay down 
-go  go 
-come on 
-elias 
-elias  you coming 
-come on  come on 
-don t wait 
-drive the barge out of here 
-wai 
-it s paul wang 
-we were able to restore the
-water above the fuel rods
-and stabilize the reactor 
-it s still hot 
-but we can get in 
-nick  mark 
-i still don t get it 
-what s he after 
-and why this 
-hey  what d she say 
-move fast 
-wang 
-  wang 
-  hey 
-take him 
-both of you 
-get out of here 
-hathaway   
-we were right 
-in the memory dump are the
-fragments of the malware 
-but it s corrupted 
-maybe his ip address 
-but it s too full of holes 
-you know  when the feeb team
-busted me in  07 and hit my door 
-i was flushing files 
-but when i came to trial 
-they retrieved all this data that
-should have been irretrievable 
-black widow 
-it s nsa software 
-examines fragments
-and reconstructs originals
-within a couple of
-hours of supercomputing 
-big cases like yours 
-they loan it to us 
-rich  i need access
-to black widow 
-sharing classified
-tech with the chinese 
-are you kidding 
-that s not even getting
-into hathaway using it 
-we ve committed to
-full cooperation  rich 
-yeah  well  you re justice 
-we re nsa 
-if i wanted to  i can t 
-and i don t want to 
-an unequivocal  no  
-okay  so how s it work 
-you give nsa the data 
-they run it  what 
-no  they have
-a remote login 
-we run it 
-you re not thinking 
-come on  they got
-the keys to the kingdom 
-our guy s address  maybe 
-whatever he s cooking up
-next is right in there 
-only  we can t read it 
-let s go 
-my old correspondence
-with donahue is here 
-but there s no way that
-login is still active 
-i m not gonna
-use that login 
-okay  donahue 
-the nsa contact you
-were just talking with 
-if nsa discovers
-the intrusion   
-you sure you want
-to do this 
-fbi can t explain
-after the fact 
-you locate this guy 
-you re okay 
-you get discovered 
-you re dead meat 
-you know that 
-don t you 
-the nsa guy
-you were talking to 
-what s his
-supervisor s name 
-ben hitchens 
-maybe it s better
-if the two of you and you
-aren t around for the next part
-so you can deny being here 
-how do you feel
-about this 
-not good 
-it s worse for
-the guy in there 
-i m surprised
-you went along 
-washington didn t
-see chai wan 
-you asked him
-to change his password 
-when he downloaded
-the pdf   
-   what he downloaded
-was the keylogger 
-got it 
-now  we wait 
-we re in 
-you can call me
- chica  any time you want 
-this is our actor s
-home ip address 
-his home server 
-he s not in mumbai 
-not in minneapolis  not in riga 
-he is in jakarta 
-can you crack the site 
-no 
-intrarmour s a hosting company
-like a hotel or a swiss bank 
-exclusively for
-black hat hackers 
-so it s bulletproof 
-his server s in there 
-but we can t crack the site 
-all right  so  the move
-is strictly low tech 
-as in   
-go to jakarta 
-burglarize the place 
-get our hands
-on his server 
-we don t have visas or badges
-that work in indonesia 
-can t fbi
-get us documented 
-after the nsa turndown 
-i d stay away from d c 
-then i ll work my side
-of the house for entry 
-that ll take a face to face
-with my bosses 
-  all right 
-  all right 
-you getting anywhere 
-no 
-not into the servers 
-but i got into
-lntrarmour s accounting 
-look at this 
-charges to our boy s account 
-okay  so 
-mmm 
-look at this   14   17 
-now   16 400 
-five times 
-paid to satelliteshot 
-satelliteshot
-rents satellite time 
-what kind of shot 
-this kind 
-hi res scan 
-of the coast of malaysia 
-what s there 
-nothing much 
-why d he scan there 
-shit 
-this is barrett 
-what the hell did you
-let go on there  carol 
-pollack 
-do you know
-what your guy did 
-what are you talking about 
-cut the crap 
-i m talking about calls
-i got from the goddamn
-nsa and defense 
-our guy blew
-a reactor at chai wan 
-don t you watch cnn 
-that s not the point 
-that s not the point 
-that s exactly the point 
-the guy we re working
-will drop the big hammer
-and not think twice
-about it 
-come on  come on  come on 
-don t evoke 9 11 on me 
-you didn t lose
-anyone there  stanley 
-look  i m under orders 
-now  so are you 
-bring him in  carol 
-bring him in 
-what s going on 
-damn it  hathaway s gone 
-hey  this says he s here 
-he cut his bracelet 
-he can t 
-it signals an alarm 
-this says it s working 
-check your settings 
-he reset it to
-once every 24 hours 
-we haven t been
-tracking him since la 
-they re at
-cheung hau street 
-shit 
-hey 
-they re coming for you 
-they re coming for you
-because of black widow 
-that was fast 
-they want me to turn you
-over to the americans 
-so  turn me in
-and walk away 
-and then 
-barrett and jessup will back me up 
-nsa won t care 
-they think because of you 
-now we have black widow 
-you have to run 
-what  you re gonna
-refuse an order 
-you escaped 
-we reconnect in jakarta 
-look  your bosses
-can add two and two 
-i m not turning you in 
-do i go with you or nick 
-neither 
-  what 
-  this doesn t involve you 
-who made that choice 
-he s right 
-look  i m not sure there s any light
-at the end of this tunnel anymore 
-what did you do 
-chen dawai 
-remind him
-he owes you 
-to get him
-to leave me behind 
-you re not going
-down that road 
-i decide what s for me 
-yeah  well  i decide
-what s for me 
-i m going  you re not 
-right now 
-we need our data 
-here 
-you take the car 
-you may have to move faster 
-i ll bring the hard drive
-to quarry bay 
-he s in kowloon 
-right here 
-you re gonna take
-him into custody 
-i follow orders 
-which orders 
-stop the bad guys 
-or arrest hathaway 
-i m gonna ask you
-a personal question 
-don t answer if
-you don t want to 
-who did you lose in 9 11 
-my husband 
-you got to get rid
-of that thing 
-we got a couple of hours 
-hold it  hold it 
-he s on the move again 
-he s in hong kong 
-quarry bay 
-where 
-he s headed toward quarry bay 
-i thought you were
-going separately 
-nick s taking
-a small plane 
-i m flying commercial 
-sister  go home 
-you did this 
-all right  let s go 
-lien 
-hold up  stop 
-what 
-hold up  hold up 
-what 
-stop 
-what 
-listen 
-i m a fugitive now 
-they ll issue
-the warrant within hours 
-hey 
-would i take you
-where i m going 
-don t blame your brother 
-no 
-go  go  go 
-barrett 
-lien  can they get
-to the next stop
-before the train 
-listen  we gotta
-grieve later  okay 
-we have to survive 
-can they get to the next
-stop before the train 
-no  they can t 
-okay  okay 
-we re both
-going after them 
-we re both going 
-yes  we are 
-we are 
-perak  malaysia 
-coordinates
-are right here 
-here  right here 
-looked at this 
-he s got  74 million
-in cash  he s writing code 
-what for 
-what s here 
-you got dean palm oil 
-pera limited mining 
-agriculture    jesus 
-hey  this pump 
-it s a stasik pump 
-they use
-the same model
-stasik water pumps
-as chai wan reactor 
-the same brand 
-are they controlled
-by the same plcs 
-yes 
-what are they
-mining over there 
-pera limited 
-mining tin 
-tin 
-malaysia is one of
-the biggest exporters 
-and there s four other tin mining
-operations in the next valley 
-this is a riverbed 
-they divert water
-with stasik pumps 
-you know why
-chai wan reactor 
-we ve been looking through the
-looking glass the wrong way 
-he didn t target the reactor
-to knock out the reactor 
-he targeted it to
-knock out the pumps 
-he was rehearsing 
-it was a rehearsal 
-chai wan was a rehearsal 
-he s going to shut down these
-pumps and flood the tin mine 
-and the valleys 
-and the villages 
-village people 
-village dogs 
-create a shortage in tin 
-tin prices will rise and shoot up 
-his  74 million from chicago
-was to buy options on tin ore 
-that s what you re doing 
-isn t it  you son of a bitch 
-all right 
-look at this 
-a third version
-of his virus  running more plcs 
-fifty three   
-fifty three plcs 
-five different tin mines 
-for which he s going to
-flood five river valleys 
-here s the money
-from chicago 
- 73 6 million
-in cash 
-deposited into
-a local bank 
-bank sentra agatis 
-to this address 
-hi 
-hello 
-excuse me  i m sorry 
-can you speak english 
-a little 
-okay 
-i m here to have
-a meeting with
-mr  jumhari in five minutes 
-go to the reception
-on the third floor 
-yeah  i know  but
-can you help me 
-my presentation got stained 
-any chance 
-can you print me a new copy 
-please 
-not supposed to  but   
-so 
-home run 
-you got my message 
-why are you here 
-you tell me  what do you want 
-i am not gonna talk
-to a fucking bagman 
-here s the terms 
-phones only  no face to face 
-you got that  good 
-next  your boss on
-the line with me in 15 
-that s not possible 
-i have  74 million
-of his money 
-you make it possible 
-yeah 
-your note said
-that you know me 
-but i don t know you 
-but that s not really true 
-is it  hathaway 
-yeah  i know you 
-ah  you do 
-well  that makes one of us 
-sometimes i wake
-up in the morning
-and i don t
-even know who i am 
-where i am  in what country 
-and you know me 
-i know you 
-and you re about money
-because it s your scoreboard
-in the virtual world 
-you found me 
-what do you want 
-i want to be
-casper the ghost 
-don t you have a job 
-working yourself out of prison 
-it was kind of a bad fit 
-you re looking
-for employment 
-what do i want
-employment for 
-oh  you want a piece 
-to put yourself
-back into the game 
-you were never
-in the game 
-you re a glorified carder 
-a carder whose
-time is expired 
-check your expiration date 
-your shelf life is over 
-a glorified carder
-holding your  74 million 
-okay  last time 
-what do you want 
-i want 20  of
-the malaysian tin ore hit 
-for releasing my money 
-no  for renting you my code 
-it s my action that gave
-that code you wrote meaning 
-what s it mean
-without a bankroll 
-you want to be my partner 
-it s 20   you call
-it whatever you want 
-i meet my partners 
-well  i don t 
-and like i told your bagman 
-i don t want to meet 
-i don t give a fuck
-about what you want 
-it s what i want
-when i make a deal 
-face to face 
-because i can put
-together another bankroll 
-target another target 
-and if i stop thinking
-about you 
-if i stop thinking
-about anything 
-it disappears  it vanishes 
-it ceases to exist 
-but you   
-you  i want to meet 
-or you can piss off
-and die  ghostman 
-all right  you and kassar 
-i ll call you
-and tell you where 
-sure 
-okay  we re on 
-emergency  please 
-it s all about if i can get
-close enough fast enough 
-hey  i told you 
-you and kassar  alone 
-five men 
-two floors below 
-the team
-two floors below 
-and two gunmen
-with them 
-and the two guys
-with you 
-lose them 
-i m changing the location 
-you and kassar 
-papua square  walk west 
-meet me in two hours 
-it ll be packed 
-how am i supposed to find you 
-i find you 
-step back  hands up 
-hands up  hands up 
-hands up  turn around 
-turn around 
-no one s ever gotten
-this close before 
-20  is too much  hathaway 
-you talking points 
-well  people die on
-this planet every day 
-what do you want me to do 
-grieve  because i knew him 
-he s not here anymore 
-where s my money 
-not about money 
-not about zeroes
-or ones or code 
-and what s that tell you 
-get out of the way 
-i m a gamer 
-i hire people to do
-sub symbolic stuff 
-you killed my friends 
-i do my own 
-and do i care 
-the betadine 
-here 
-i got it 
+accident
+reported chai wan nuclear power station
+hathaway cell search hands behind
+open
+go go go
+search everything
+get hey
+take
+one two three
+stay strong carnal
+found cell
+added pals commissary accounts
+cell block
+attack tool
+open terminal
+gives command line
+broke network plussedup balances
+
+used call santa north pole
+told christmas early year
+know guy
+grandfather military commander
+shanghai
+japanese civil war
+father became chinas undersecretary trade un
+came new york
+bronx high school science mit
+sisters network engineer private sector
+grow new york
+
+hes rising star plas cyber defense section
+liaise
+inviting henhouse carol
+stanley go headtohead chinese
+cyber intrusion every day week
+bad idea facetoface working
+monitor closely access
+okay
+okay send code
+okay
+lets go somewhere talk hey hey
+english might better come
+tomorrow cant impossible
+ive got opticaloverlay network
+thats got days
+sent code tonight
+black hat hit chai wan reactor
+looked code uh
+
+network engineer trust
+really trust
+like
+leave
+meltdown china runup soy yesterday
+facilitated rat
+got loaded first place dont know
+inside decloaked became really
+remote access tool
+rat
+rats job open back door system call home
+black hat used back door inject second part
+payload
+rode soy
+looking rat payload closely
+thinking
+written different authors
+figured coding rat
+though several years old lean graceful
+payloads coding hand feels frenetic confused
+frenetic overwritten
+question dealing
+somewhere talk
+two may working close proximity
+daniels qualified computer forensics
+intern could written report
+oh really need daniels
+liaise liaison group implies mutuality
+dont like boy ideas bringing dance
+man named hathaway
+hes convicted hacker
+serving years usp canaan waymart pennsylvania
+telling hacker prison
+hitting financial markets
+want hathaway team
+help investigation
+hit four major banks
+ran million damages
+thats know
+want doj anything laugh
+daniels said two authors wrote virus
+dont know wrote second half first half rat
+remote access tool daniels called lean graceful
+one original authors
+cowrote
+gag years ago mit
+roommate genius lead author
+nicholas hathaway
+thats right
+hacker found rat online modified
+want move around within code
+looking clues hackers identity
+need lead architect
+reactor china heard
+spike soy futures
+right didnt know
+dont get lot new news
+us government would like technical advice
+exchange going furlough right
+sign last page
+well get processed
+youll wear ankle bracelet
+accompanied us marshal
+computer access restricted
+wan na study whole document go right ahead
+come back month two
+im done
+didnt sign
+yeah would sign
+generosity assistant us attorney
+granting furlough
+assistant us attorney
+stick document ass
+im sorry
+sorry
+insulted sorry im sorry
+dont think youre gon na hey
+wan na raise
+solve trade exchange dilemma
+get furlough couple weeks kidding
+idea much progress youre gon na make
+strike complex without someone like
+zero
+isnt negotiation
+made one
+want pass upstairs
+assistance results identification
+apprehension guy youre
+want commute sentence
+come empty toss ass back
+terms
+guard
+interviews
+barrett badly need guy
+good see bro
+half much see
+lets get
+planned reunite friend moment landed
+entered mind
+okay
+yeah im fine
+okay please keep sight help
+see ripped repurposed code
+hell
+agreement approval presence computer access
+approved doj approval
+youre changing goalposts
+hola chica came
+supposed work
+abacus something
+chica hispanic
+hells going
+advocated getting
+pulled every string get convicted felon sprung mr chen
+captain chen didnt ask
+offered partnership equivalent
+would
+well ill happy bust back canaan
+put ass first plane back china
+apologizes
+brother misunderstood arrangement special agent
+look around
+run morning backup
+network sitting behind deep packet inspection
+intrusion protection
+extensively firewalled
+exactly
+somebody physically enter room plug virus
+reviewed keycard scans surveillance tapes
+unauthorized entry
+thinking routing weakness
+thats complicated wouldnt done
+yeah well youre proposing didnt happen
+theres one person whos authorized access terminals
+
+password thumbprint
+may
+sure
+approval
+right code rat
+see compact slick
+meg would never picked
+ever leave usb drive desk
+suppose
+works doesnt like recently hired fired
+
+
+lozano
+mother passed away left two weeks ago
+john lozano job month
+access office yes
+ill pull employment records
+everything come phony
+except got photo id
+yeah
+section code right mess
+theres lines hes left text looks incomplete
+notes
+deadend ideas
+maybe hes still writing
+yeah thats good
+youve got ability move commodity
+way want
+play long lowkey one big spike
+instead id play month month less risk detection
+yeah right guy jacks soy day
+mmmhmm flashy knows hes gon na bring heat
+maybe needs cash
+fast
+hes got money soy runup
+hes busy writing code whats next
+think real hit still come
+lozanos photo
+whats neck
+kid tattoos
+routine surveillance tapes
+right
+face stone
+pollack
+someone jump ncic database
+search latino males priors
+dont know anything like carding identity theft
+west texas prison gangs
+cowboy tattoo shoulder hes los zapotecas
+im sending something right
+thats bottom left
+alonzo reyes two years huntsville carding
+paroled moved back la ill la pick
+hes gon na monitor home grid
+got better shot getting first look
+isnt brought
+okay
+yeah go ahead
+means money
+unless think
+okay
+huh
+lets see handle financial sector
+thanks stanley
+eyes
+think im going
+guy one step away get jail free card
+
+help
+want see trading records
+traders took large profits soy runup
+youre requesting turn records
+fbi foreign power
+thousands private brokers traders
+afraid cant possibly accommodate
+youre gon na protect person manipulated market
+youre casting net way wide mr chen
+want see data
+come something little tangible
+something way probable cause
+hunch
+gary may call gary
+hows tangible
+next seconds call laura greer
+commodities trading commission
+say laura
+id like launch official investigation one gary baker
+headline
+mtech official investigated aiding abetting cyber criminals
+leaks cnn next
+makes three oclock news cycle
+well nightly news
+thatd good
+tangible
+gary
+look around stay take nothing
+hey mi carnal
+happened
+wrt hardware onion router
+route encrypted data stay anonymous ip address
+yeah somebody must told set
+probably called
+whos woman
+manager mrs novo
+let see
+try
+barrett jessup
+mmmhmm thanks jessup
+well better make following money pay
+reyes isnt hes dead
+oh great
+wait minute
+weve looking buyers soy switch sellers
+player would know exactly get
+reyes got email drop tonight
+reyes got ta find new link main player
+im gon na see shows
+tell jessup
+theyll spot blocks away
+get enough one day
+look play way works
+dont least
+go
+look different pictures
+pictures
+brother sent
+youre prison
+hmm
+bar met girl
+guy got face
+started fight
+hes hospital im arrested
+wound sentenced months mcinorfolk
+traded academia gladiator academy
+
+got
+im
+lot going silicon valley
+excon degree
+carding
+yeah wholesaling internationally
+eightyear run feeb caught
+got years
+regrets
+regrets
+banks got hit losses people
+didnt burn people dont burn people
+
+mean banks chiseling everybody time anyway
+dont feel sorry banks
+mean im sorry happened
+dont im fishing sympathy
+crime im time time isnt
+whats mean
+time institutions
+see hold
+dedicate program
+work body mind
+open eyes
+whatd say
+talk like still prison
+youre prison
+get thinking youve
+know ive
+nothing
+nothing
+okay tell im supposed start seeing fast
+
+koreatown
+restaurant table
+youll rapid stream decisionmaking
+make intuitive choices
+people highspeed worldclass dangers
+genius coder outsmart outthink
+like brother always said could
+think clear
+easy know
+theres transition time
+believe strong man
+smart man
+chen
+three trades
+three different accounts large volumes
+sell within minutes
+soft close
+timed perfectly dump
+whats
+bank accounts foreign place three
+
+hong kong
+want bill
+order give table
+youre really hurting space huh
+maybe guy noshow
+
+lets go
+whats happening
+
+
+
+watch
+ahhh
+hey hey hey
+reyes probably killed
+email computer bait
+whoever wanted see reyes trail
+burned
+could track guys location
+video feed went proxy server ukraine
+knows bounces
+yeah players foreign
+money
+three accounts place
+took million
+going follow money
+
+put sister
+flying china morning
+dad steel worker single father
+raised us
+came visit twice
+got sick
+used replay memories
+could stay oriented got
+captain chen
+paul wang cncert
+
+whats status
+trying restore coolant pumping sea water
+got injured
+since happened
+demand money
+
+extortion
+political terrorist attack declaration
+claim statement
+guy want
+malware attack
+programmable launch controllers plcs
+tell pumps turn turn
+cool reactor
+idea attack originated
+tracking malware core went
+evacuate
+machine failed
+saved memory diagnostic file
+yeah thats right memory dump may traces code
+maybe even guys real ip address
+servers control room everything still hot
+fighting meltdown
+chen lien
+inspector alex trang hong kong police
+hathaway us marshal mark jessup
+hello
+
+guys
+yeah
+got anything
+
+johnny li yan lin samuel wu
+li got prison two months ago
+yan mother junkies
+wu runs chop shop
+hardly commodities speculators
+theyre fronts proxies
+communicate
+connect actor
+dont
+phones internet
+weve day night
+nothing
+player right
+would next move
+id make trail go cold
+id cash
+cash money doesnt leave trail
+pick walk anywhere want
+money hasnt moved yet
+theres activity accounts
+yeah clean
+mean theres got somebody
+talking instructing telling
+someone contact
+wouldnt main player much exposure
+middle man
+didnt fall accident either
+
+see
+right wheres
+yau tei
+great
+octb
+running surveillance
+
+lebanese guy trafficker watch list
+whyd let
+well want see hes talking anybody homegrown
+
+every morning comes meet someone
+run
+hmm
+elias kassar
+fought christian phalangists
+civil war disappeared
+popped paramilitaries colombia
+renting house monthtomonth shek
+whos meet
+one
+one ever shows
+texts
+phone android
+see
+trang
+bluetooth transmitter
+short range would never pick
+see dont come meet come meet
+kassar texts
+wu yan li walk
+receivers pockets pick
+read delete
+kassar never meets never sees
+emails phones nothing
+slick
+crack
+month
+see locked gpg encryption
+least bit key
+pick lean
+let ride tail main player
+ah dont choice
+mean guys history aint gon na roll
+think let ride
+yeah
+sunrise two hours
+
+
+dont know fix tvs garage door openers
+still gon na like im fixing garage door openers
+dont know maybe
+theyre moving money
+three accounts
+wire transfers macau casino
+theyre cashing
+surveillance nobodys moved
+kassar
+cant reach yans team shek
+going shek going shek pick kassar
+launch stu meet heliport
+im going pick mules
+lets talk
+im blind
+know two together
+look eyes see
+hathaway prison damaged goods
+much offer sister
+futures exactly guaranteed id see
+else
+deserves better id think chen
+ive rarely seen happier
+fails
+nine years prison kind life
+chen barrett
+hear
+mules weve got li yan
+listen cant reach surveillance shek
+come way
+trang
+hold man hold
+stay
+go go
+come
+elias elias coming
+come come
+dont wait drive barge
+wai paul wang
+able restore water fuel rods
+stabilize reactor
+still hot get
+nick mark
+still dont get whats
+
+hey whatd say
+move fast
+wang
+wang hey
+take get
+hathaway
+right
+memory dump fragments malware
+corrupted
+maybe ip address full holes
+know feeb team busted hit door
+flushing files
+came trial
+retrieved data irretrievable
+black widow nsa software
+examines fragments reconstructs originals
+within couple hours supercomputing
+big cases like loan us
+rich need access black widow
+sharing classified tech chinese kidding
+thats even getting hathaway using
+weve committed full cooperation rich
+yeah well youre justice nsa
+wanted cant dont want
+unequivocal
+okay hows work give nsa data run
+remote login run
+youre thinking
+come got keys kingdom
+guys address maybe
+whatever hes cooking next right
+cant read
+lets go
+old correspondence donahue
+theres way login still active
+im gon na use login
+okay donahue nsa contact talking
+nsa discovers intrusion
+sure want
+fbi cant explain fact
+locate guy youre okay
+get discovered youre dead meat
+know dont
+nsa guy talking
+whats supervisors name
+ben hitchens
+maybe better two
+arent around next part deny
+feel
+good
+worse guy
+im surprised went along
+washington didnt see chai wan
+asked change password
+downloaded pdf
+downloaded keylogger
+got
+wait
+
+call chica time want
+actors home ip address home server
+hes mumbai minneapolis riga
+jakarta
+crack site
+
+intrarmours hosting company like hotel swiss bank
+exclusively black hat hackers bulletproof
+servers cant crack site
+right move strictly low tech
+
+go jakarta burglarize place
+get hands server
+dont visas badges work indonesia
+cant fbi get us documented
+nsa turndown id stay away dc
+ill work side house entry
+thatll take facetoface bosses
+right right
+getting anywhere
+servers
+got lntrarmours accounting
+look
+charges boys account okay
+mmm look
+
+five times paid satelliteshot
+satelliteshot rents satellite time
+kind shot kind
+hires scan
+coast malaysia
+whats
+nothing much
+whyd scan
+shit
+barrett
+hell let go carol
+pollack
+know guy
+talking
+cut crap
+im talking calls got goddamn nsa defense
+guy blew reactor chai wan
+dont watch cnn
+thats point
+thats point
+thats exactly point
+guy working drop big hammer
+think twice
+come come come dont evoke
+didnt lose anyone stanley
+look im orders
+bring carol bring
+whats going
+damn hathaways gone
+hey says hes
+cut bracelet
+cant signals alarm
+says working
+check settings
+reset every hours
+havent tracking since la
+theyre cheung hau street
+shit
+hey
+theyre coming
+theyre coming black widow
+fast
+want turn americans
+turn walk away
+barrett jessup back
+nsa wont care
+think black widow
+run
+youre gon na refuse order
+escaped
+reconnect jakarta
+look bosses add two two
+im turning
+go nick
+neither
+doesnt involve
+made choice
+hes right
+look im sure theres light end tunnel anymore
+chen dawai
+remind owes
+get leave behind
+youre going road
+decide whats
+yeah well decide whats
+im going youre
+right need data
+take car
+may move faster
+ill bring hard drive quarry bay
+hes kowloon right
+youre gon na take custody
+follow orders
+orders
+stop bad guys arrest hathaway
+im gon na ask personal question
+dont answer dont want
+lose
+husband
+got get rid thing
+got couple hours
+hold hold
+hes move hes hong kong
+quarry bay
+hes headed toward quarry bay
+thought going separately
+nicks taking small plane
+im flying commercial
+sister go home
+
+right lets go
+lien
+hold stop
+hold hold
+stop
+listen
+im fugitive
+theyll issue warrant within hours
+hey
+would take im going
+dont blame brother
+
+go go go
+barrett
+lien get next stop
+train
+listen got ta grieve later okay
+survive
+get next stop train
+cant
+okay okay
+going
+going
+yes
+
+perak malaysia
+coordinates right
+right looked
+hes got million cash hes writing code
+
+whats
+got dean palm oil pera limited mining
+agriculture jesus
+hey pump stasik pump
+use model
+stasik water pumps chai wan reactor
+brand controlled plcs
+yes
+mining
+pera limited
+mining tin tin
+malaysia one biggest exporters
+theres four tin mining operations next valley
+riverbed
+divert water stasik pumps
+know chai wan reactor
+weve looking looking glass wrong way
+didnt target reactor knock reactor
+targeted knock pumps
+rehearsing rehearsal
+chai wan rehearsal
+hes going shut pumps flood tin mine
+valleys villages
+village people village dogs
+create shortage tin tin prices rise shoot
+million chicago buy options tin ore
+thats youre isnt son bitch
+right look
+third version virus running plcs
+fiftythree
+fiftythree plcs
+five different tin mines
+hes going flood five river valleys
+heres money chicago
+million cash
+deposited local bank
+bank sentra agatis
+address
+hi hello
+excuse im sorry speak english
+little okay
+im meeting
+mr jumhari five minutes
+go reception third floor
+yeah know
+help presentation got stained
+chance print new copy please
+supposed
+
+home run
+got message
+tell want
+gon na talk fucking bagman
+heres terms phones facetoface
+got good
+next boss line
+thats possible
+million money
+make possible
+yeah
+note said know dont know
+thats really true hathaway
+yeah know
+ah
+well makes one us
+sometimes wake morning
+dont even know
+country
+know
+know
+youre money
+scoreboard virtual world
+found
+want
+want casper ghost
+dont job working prison
+kind bad fit
+youre looking employment
+want employment
+oh want piece
+put back game
+never game
+youre glorified carder
+carder whose time expired
+check expiration date shelf life
+glorified carder holding million
+okay last time want
+want malaysian tin ore hit
+releasing money
+renting code
+action gave code wrote meaning
+whats mean without bankroll
+want partner
+call whatever want
+meet partners
+well dont
+like told bagman dont want meet
+dont give fuck want
+want make deal facetoface
+put together another bankroll target another target
+stop thinking
+stop thinking anything
+disappears vanishes ceases exist
+
+want meet
+piss die ghostman
+right kassar
+ill call tell
+sure
+okay
+emergency please
+get close enough fast enough
+hey told kassar alone
+five men two floors
+team two floors
+two gunmen
+two guys
+lose im changing location
+kassar papua square walk west meet two hours
+itll packed supposed find
+find
+step back hands
+hands hands
+hands turn around
+turn around
+ones ever gotten close
+much hathaway
+talking points
+well people die planet every day
+want grieve knew
+hes anymore
+wheres money
+money
+zeroes ones code
+whats tell
+get way
+im gamer
+hire people subsymbolic stuff
+killed friends
+care
+betadine
+
+got okay
+one yeah
+thats good good
+okay

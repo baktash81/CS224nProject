@@ -1,0 +1,1860 @@
+1
+00:00:06,080 --> 00:00:08,520
+[match snaps, fizzles]
+
+2
+00:00:08,600 --> 00:00:10,800
+[fire crackling]
+
+3
+00:00:13,080 --> 00:00:13,920
+[puffs]
+
+4
+00:00:28,520 --> 00:00:30,160
+[wagon wheels rattling]
+
+5
+00:00:30,240 --> 00:00:31,920
+-[driver] Hup!
+-[horse snorting]
+
+6
+00:00:35,640 --> 00:00:36,520
+[driver] Yah.
+
+7
+00:00:39,480 --> 00:00:42,320
+[narrator] <span style="style.default_1">That woman there</span>
+<span style="style.default_1">is my grandmother,</span>
+
+8
+00:00:42,400 --> 00:00:47,360
+<span style="style.default_1">a hardy sort who had to raise</span>
+<span style="style.default_1">a family of four all by herself.</span>
+
+9
+00:00:47,920 --> 00:00:50,960
+<span style="style.default_1">As I remember,</span>
+<span style="style.default_1">she wouldn't say boo to a goose.</span>
+
+10
+00:00:51,360 --> 00:00:52,920
+[yells] Angela, you're late!
+
+11
+00:00:53,440 --> 00:00:55,920
+[narrator chuckles]
+<span style="style.default_1">There's my Uncle Tom.</span>
+
+12
+00:00:56,000 --> 00:01:00,640
+<span style="style.default_1">Though he was only ten at that time,</span>
+<span style="style.default_1">he was still the man of the family.</span>
+
+13
+00:01:01,000 --> 00:01:03,120
+<span style="style.default_1">He's holding my auntie Aggie.</span>
+
+14
+00:01:03,200 --> 00:01:06,840
+<span style="style.default_1">Some called her</span>
+<span style="style.default_1">the most handsome lady in Limerick.</span>
+
+15
+00:01:06,920 --> 00:01:09,480
+-[mother] Angela!
+-[narrator] <span style="style.default_1">And Uncle Pat.</span>
+
+16
+00:01:09,560 --> 00:01:11,880
+Pat, why isn't Aggie wearing her jumper?
+
+17
+00:01:11,960 --> 00:01:14,720
+I couldn't get it on her, Mammy,
+and Angela's late again.
+
+18
+00:01:14,960 --> 00:01:17,840
+That child will have me above
+in St. Jeremiah's asylum.
+
+19
+00:01:17,920 --> 00:01:19,680
+Mammy says you'll have her in the asylum
+
+20
+00:01:19,760 --> 00:01:22,040
+-if you don't get down this minute.
+-[mother] Pat!
+
+21
+00:01:22,840 --> 00:01:24,080
+[mother] Angela!
+
+22
+00:01:24,160 --> 00:01:25,960
+[narrator] <span style="style.default_1">And that little girl there?</span>
+
+23
+00:01:26,040 --> 00:01:27,720
+[grunts] Uh! Ooh! Oof!
+
+24
+00:01:28,040 --> 00:01:30,040
+-[mother] Angela!
+-Coming.
+
+25
+00:01:30,280 --> 00:01:33,520
+How have you grown out of this already?
+You'll catch your death.
+
+26
+00:01:33,600 --> 00:01:35,360
+-[door closes]
+-[Aggie chuckles]
+
+27
+00:01:35,440 --> 00:01:36,440
+She can have mine.
+
+28
+00:01:36,520 --> 00:01:39,240
+[narrator] <span style="style.default_1">She grew up to be my mother.</span>
+
+29
+00:01:39,600 --> 00:01:40,760
+Thank you, Angela.
+
+30
+00:01:40,840 --> 00:01:42,360
+Late again, I see.
+
+31
+00:01:42,440 --> 00:01:44,760
+Yes. Hello, Mrs. Blake.
+
+32
+00:01:44,840 --> 00:01:45,840
+[sighs]
+
+33
+00:01:45,920 --> 00:01:49,640
+-Pat, give your jacket to Angela.
+-What? My jacket to Angela?
+
+34
+00:01:49,720 --> 00:01:52,000
+-Get your own jacket.
+-No more messing about.
+
+35
+00:01:52,080 --> 00:01:54,280
+-Here.
+-Tom, you give yours to Pat.
+
+36
+00:01:54,360 --> 00:01:55,200
+[Aggie chuckles]
+
+37
+00:01:55,280 --> 00:01:58,600
+[narrator] <span style="style.default_1">And this is a story</span>
+<span style="style.default_1">about the Christmas Eve...</span>
+
+38
+00:01:58,680 --> 00:02:01,120
+You look like a clown,
+all big and bulky like--
+
+39
+00:02:01,200 --> 00:02:04,520
+-[mother] Pat!
+<span style="style.default_1">-...when she was nearly six years old.</span>
+
+40
+00:02:04,600 --> 00:02:07,280
+-I'm grand.
+-I won't see you catching your death.
+
+41
+00:02:07,360 --> 00:02:09,280
+I don't want to wear my ma's coat to Mass.
+
+42
+00:02:09,360 --> 00:02:11,200
+-[Aggie chuckles]
+-Then take my scarf.
+
+43
+00:02:12,080 --> 00:02:13,480
+Right, come on.
+
+44
+00:02:13,880 --> 00:02:15,920
+[mother] It'll be Christmas Day
+before we get there.
+
+45
+00:02:36,720 --> 00:02:39,080
+Ha! <span style="style.default_1">♪ Angela's wearing boy's clothes ♪</span>
+
+46
+00:02:39,160 --> 00:02:42,520
+<span style="style.default_1">♪ Angela's got a big boy's coat</span>
+<span style="style.default_1">Na-na-na-na-na! ♪</span>
+
+47
+00:02:42,600 --> 00:02:43,440
+[sighs]
+
+48
+00:02:45,680 --> 00:02:47,880
+-You're going in.
+-[grunts, giggles]
+
+49
+00:02:49,160 --> 00:02:50,960
+-[Pat] Maggot.
+-You're a maggot. Agh!
+
+50
+00:02:51,800 --> 00:02:53,080
+-[gasps]
+-[driver] Hey, hey, hey.
+
+51
+00:02:53,400 --> 00:02:54,480
+-[screams]
+-[neighs]
+
+52
+00:02:59,720 --> 00:03:00,560
+[both gasp]
+
+53
+00:03:00,640 --> 00:03:02,120
+-I'm telling Mam.
+-[Pat] You're not.
+
+54
+00:03:02,400 --> 00:03:04,440
+She'll send you to bed
+without even a cup of tea.
+
+55
+00:03:04,520 --> 00:03:05,520
+Shut up. She won't.
+
+56
+00:03:05,600 --> 00:03:07,680
+When you take a coin from her purse,
+you're punished.
+
+57
+00:03:07,760 --> 00:03:10,080
+Imagine what she would do
+for pushing me under a horse.
+
+58
+00:03:11,040 --> 00:03:13,040
+-Hurry up, the pair of you.
+-Pat pushed me.
+
+59
+00:03:13,120 --> 00:03:13,960
+I didn't.
+
+60
+00:03:14,440 --> 00:03:17,880
+-[mother] Get in.
+-[narrator] <span style="style.default_1">Ah. St. Joseph's.</span>
+
+61
+00:03:18,560 --> 00:03:20,240
+<span style="style.default_1">A church so cold,</span>
+
+62
+00:03:20,320 --> 00:03:22,120
+<span style="style.default_1">if you didn't go in with a cough,</span>
+
+63
+00:03:22,200 --> 00:03:25,640
+<span style="style.default_1">you certainly came out with one.</span>
+[chuckles]
+
+64
+00:03:26,080 --> 00:03:29,800
+[priest] It is a time for reflection
+
+65
+00:03:29,880 --> 00:03:34,600
+and a time to help those less fortunate
+and to forgive foes
+
+66
+00:03:34,680 --> 00:03:36,520
+and those who've sinned against us.
+
+67
+00:03:37,640 --> 00:03:39,160
+-Telltale.
+- [whispers] Stop it.
+
+68
+00:03:40,040 --> 00:03:42,280
+-Telltale.
+-Stop it.
+
+69
+00:03:42,360 --> 00:03:44,600
+[priest] ...to celebrate
+in one another's love.
+
+70
+00:03:46,400 --> 00:03:51,040
+Jesus entering Jerusalem,
+coming into the temple,
+
+71
+00:03:51,120 --> 00:03:54,520
+they too were late,
+and they were separate living out...
+
+72
+00:03:54,600 --> 00:03:55,680
+[gasps, grunts]
+
+73
+00:03:56,680 --> 00:03:58,320
+[faint murmuring]
+
+74
+00:03:58,920 --> 00:03:59,840
+Aye...?
+
+75
+00:04:00,560 --> 00:04:02,120
+-Sorry.
+-[both gasp]
+
+76
+00:04:02,800 --> 00:04:06,240
+[whispers] Can you please
+just stop fighting for one minute?
+
+77
+00:04:07,440 --> 00:04:11,320
+As it is written in Luke,"
+"'For unto you was born this day
+
+78
+00:04:11,400 --> 00:04:15,440
+in the city of David
+a Savior which is Christ the Lord
+
+79
+00:04:15,520 --> 00:04:18,200
+and this shall be a sign unto you.
+
+80
+00:04:18,680 --> 00:04:22,400
+You shall find the baby
+wrapped in swaddling clothes
+
+81
+00:04:22,480 --> 00:04:24,600
+lying in a manger.'
+
+82
+00:04:25,840 --> 00:04:28,640
+<span style="style.default_1">And there were shepherds</span>
+<span style="style.default_1">living out in the fields nearby</span>
+
+83
+00:04:28,720 --> 00:04:31,200
+<span style="style.default_1">keeping watch over their flocks..."</span>
+
+84
+00:04:31,280 --> 00:04:33,640
+[voice fades, sermon continues]
+
+85
+00:04:43,680 --> 00:04:45,160
+[whispers] He'll catch his death.
+
+86
+00:04:45,240 --> 00:04:47,320
+-Angela, shush.
+-The baby's cold.
+
+87
+00:04:47,400 --> 00:04:48,400
+Angela, shh!
+
+88
+00:04:50,360 --> 00:04:52,160
+[sermon continues]
+
+89
+00:04:52,400 --> 00:04:56,280
+[narrator] <span style="style.default_1">It was about this time</span>
+<span style="style.default_1">that Angela had a little idea.</span>
+
+90
+00:04:57,480 --> 00:04:59,360
+<span style="style.default_1">It made perfect sense,</span>
+
+91
+00:05:00,040 --> 00:05:04,880
+<span style="style.default_1">but little ideas</span>
+<span style="style.default_1">are often the seeds of big trouble.</span>
+
+92
+00:05:04,960 --> 00:05:06,200
+[priest] Amen.
+
+93
+00:05:06,280 --> 00:05:07,840
+[congregation] Amen.
+
+94
+00:05:09,760 --> 00:05:10,920
+Amen.
+
+95
+00:05:12,560 --> 00:05:15,160
+[faint voices overlapping]
+
+96
+00:05:16,880 --> 00:05:18,800
+[man] Happy Christmas to ya!
+
+97
+00:05:20,520 --> 00:05:22,240
+-[Pat chuckles]
+-Mama.
+
+98
+00:05:22,320 --> 00:05:26,680
+-Mammy, can I go back and light a candle?
+-No, Angela, we need to get home.
+
+99
+00:05:26,760 --> 00:05:29,920
+Please, Mam, just one for the baby Jesus.
+
+100
+00:05:30,080 --> 00:05:30,920
+[sighs]
+
+101
+00:05:34,120 --> 00:05:35,760
+-Please?
+-[Aggie] Mama, Mama.
+
+102
+00:05:35,840 --> 00:05:38,560
+-Mama, Mama.
+-Stop it, Aggie. Go on, so.
+
+103
+00:05:38,840 --> 00:05:41,200
+[mother] But run straight home
+as soon as you're done.
+
+104
+00:05:41,280 --> 00:05:42,440
+[Angela] I will.
+
+105
+00:05:44,640 --> 00:05:45,640
+[door bangs]
+
+106
+00:05:49,560 --> 00:05:51,160
+-[faint muttering]
+-[gasps]
+
+107
+00:05:52,400 --> 00:05:55,320
+-[Mrs. Blake] Jesus Christ...
+-...Jesus Christ and our Lord...
+
+108
+00:05:55,400 --> 00:05:57,320
+[praying continues]
+
+109
+00:06:05,600 --> 00:06:08,000
+[praying continues]
+
+110
+00:06:16,480 --> 00:06:17,960
+[praying continues]
+
+111
+00:06:27,120 --> 00:06:28,800
+[praying continues]
+
+112
+00:06:39,000 --> 00:06:41,640
+[man coughs, sniffles]
+
+113
+00:06:42,680 --> 00:06:44,240
+-[man] ...temptation...
+-...Jesus...
+
+114
+00:06:45,120 --> 00:06:47,240
+-[praying continues]
+-[loud tap]
+
+115
+00:06:47,960 --> 00:06:49,240
+[Mrs. Blake] Glory to the Father...
+
+116
+00:06:53,200 --> 00:06:54,240
+-[crunches]
+-What's that?
+
+117
+00:07:03,760 --> 00:07:04,920
+[gasping] Ah-choo!
+
+118
+00:07:05,000 --> 00:07:06,760
+[squeals] Ah... ah-choo!
+
+119
+00:07:06,840 --> 00:07:08,320
+[sneeze echoes]
+
+120
+00:07:09,840 --> 00:07:11,480
+[gasps] Eh...?
+
+121
+00:07:18,280 --> 00:07:19,320
+[both] Bless you.
+
+122
+00:07:20,320 --> 00:07:21,320
+[Angela] Thank you.
+
+123
+00:07:23,240 --> 00:07:25,000
+[Mrs. Blake] God bless us, save us!
+
+124
+00:07:25,640 --> 00:07:26,480
+[door slams]
+
+125
+00:07:37,240 --> 00:07:38,080
+[whispers] Hello.
+
+126
+00:07:40,680 --> 00:07:42,880
+Would no one put a blanket
+over your little body?
+
+127
+00:07:44,400 --> 00:07:46,160
+I bet you would never complain
+
+128
+00:07:46,240 --> 00:07:49,200
+'cause you wouldn't want to make
+your mammy the slightest bit unhappy.
+
+129
+00:07:49,280 --> 00:07:50,480
+-[door opens]
+-[gasps]
+
+130
+00:07:53,680 --> 00:07:54,600
+-What?
+-[book clatters]
+
+131
+00:07:55,120 --> 00:07:56,320
+[priest] Oh!
+
+132
+00:07:56,400 --> 00:07:58,800
+[moans, mutters]
+
+133
+00:08:00,720 --> 00:08:03,160
+Oh, the thief. The thief...!
+
+134
+00:08:09,240 --> 00:08:10,600
+[mutters]
+
+135
+00:08:11,720 --> 00:08:13,720
+[doors clatter]
+
+136
+00:08:15,080 --> 00:08:18,080
+-...said thank you to me.
+-I think He said thank you to me first.
+
+137
+00:08:18,160 --> 00:08:19,080
+There's no way...
+
+138
+00:08:19,160 --> 00:08:22,120
+-[panting]
+-[man] But if you remember rightly...
+
+139
+00:08:22,400 --> 00:08:23,960
+[Angela] Are you all right in there?
+
+140
+00:08:25,040 --> 00:08:28,400
+We'll get you home,
+get you all warm and snuggly
+
+141
+00:08:28,480 --> 00:08:31,400
+and wrap you up
+like a little holy sausage.
+
+142
+00:08:31,480 --> 00:08:33,880
+-[gasps]
+-[elders' voices overlapping]
+
+143
+00:08:33,960 --> 00:08:35,080
+Mm-hmm.
+
+144
+00:08:35,640 --> 00:08:38,440
+Oh, it's not far.
+Just a few streets down that way.
+
+145
+00:08:39,679 --> 00:08:41,640
+[man] Father, how are you?
+There's been a miracle.
+
+146
+00:08:41,720 --> 00:08:43,080
+[priest] What? What miracle?
+
+147
+00:08:49,640 --> 00:08:50,560
+[gasps]
+
+148
+00:08:52,080 --> 00:08:54,240
+Look at all those lovely sweets.
+
+149
+00:08:55,080 --> 00:08:57,240
+If you're good, Mam might give us a penny
+
+150
+00:08:57,320 --> 00:08:59,360
+and we can spend it on whatever we want.
+
+151
+00:08:59,840 --> 00:09:03,760
+Bull's-eyes, pear drops, humbugs,
+whatever you want.
+
+152
+00:09:04,440 --> 00:09:05,840
+What's that?
+
+153
+00:09:05,920 --> 00:09:08,200
+Oh, no, we can't go in, Baby Jesus.
+
+154
+00:09:08,280 --> 00:09:11,080
+Mam said we had to go
+straight home, no question.
+
+155
+00:09:13,360 --> 00:09:17,320
+Well, since it's your birthday,
+we'll go in for one minute.
+
+156
+00:09:19,640 --> 00:09:21,040
+Oh, it's free to look.
+
+157
+00:09:21,120 --> 00:09:23,400
+You can look at them all day if you like.
+
+158
+00:09:26,000 --> 00:09:28,000
+[voices overlapping within]
+
+159
+00:09:29,880 --> 00:09:31,040
+[horse nickers]
+
+160
+00:09:32,000 --> 00:09:34,680
+[patrons singing]
+
+161
+00:09:37,320 --> 00:09:39,240
+Would you look at them all there?
+
+162
+00:09:39,320 --> 00:09:40,520
+[man] Excuse me.
+
+163
+00:09:40,600 --> 00:09:42,200
+My favorites are the apple drops.
+
+164
+00:09:42,280 --> 00:09:46,320
+Excuse me. Shop's closed.
+
+165
+00:09:46,480 --> 00:09:48,760
+[stammers] I-I didn't--
+
+166
+00:09:48,840 --> 00:09:51,040
+Hey, what have you got there?
+
+167
+00:09:51,480 --> 00:09:54,880
+-Is it a dolly from Santy?
+-No, 'tis too early for Santy.
+
+168
+00:09:55,120 --> 00:09:57,880
+-Did you steal it from Santy?
+-Er--
+
+169
+00:09:57,960 --> 00:09:59,160
+[men laughing]
+
+170
+00:10:00,280 --> 00:10:01,680
+-Oof!
+-Whoa, whoa, whoa, whoa, whoa.
+
+171
+00:10:01,760 --> 00:10:04,440
+-[panting]
+-Shh, shh. Easy, easy, easy.
+
+172
+00:10:05,920 --> 00:10:06,760
+Uh...?
+
+173
+00:10:09,360 --> 00:10:10,280
+What's that?
+
+174
+00:10:10,480 --> 00:10:11,320
+Uh...
+
+175
+00:10:12,320 --> 00:10:13,360
+Is it...
+
+176
+00:10:15,880 --> 00:10:17,360
+Is it a Christmas shillin'?
+
+177
+00:10:18,320 --> 00:10:19,160
+Thanks.
+
+178
+00:10:22,160 --> 00:10:23,080
+[policeman] Huh.
+
+179
+00:10:23,640 --> 00:10:26,880
+[panting] Oh, Baby Jesus,
+they don't understand.
+
+180
+00:10:27,240 --> 00:10:28,440
+I'm not stealing you.
+
+181
+00:10:28,520 --> 00:10:30,280
+I just want to get you warm.
+
+182
+00:10:30,360 --> 00:10:33,760
+One night, just one night in my room,
+then I'll bring you back.
+
+183
+00:10:38,680 --> 00:10:40,840
+-[panting]
+-[wind whistling]
+
+184
+00:10:44,760 --> 00:10:46,320
+-[faint crackling]
+-[gasps]
+
+185
+00:10:52,000 --> 00:10:53,560
+[creaking]
+
+186
+00:10:57,280 --> 00:10:58,640
+[whispers] It's just silly shadows.
+
+187
+00:11:03,080 --> 00:11:05,840
+-[wind whistling]
+-[branches creaking]
+
+188
+00:11:05,920 --> 00:11:06,760
+[squeals]
+
+189
+00:11:08,720 --> 00:11:09,960
+[panting]
+
+190
+00:11:19,760 --> 00:11:20,960
+It's just silly shadows.
+
+191
+00:11:21,360 --> 00:11:24,440
+I'm not at all frightened,
+so you shouldn't be either.
+
+192
+00:11:24,520 --> 00:11:27,000
+-[music playing]
+-Penny for the pauper.
+
+193
+00:11:27,080 --> 00:11:28,880
+[Angela gasps, moans]
+
+194
+00:11:28,960 --> 00:11:31,120
+[gasps]
+
+195
+00:11:50,640 --> 00:11:51,520
+[Angela] There you go.
+
+196
+00:11:52,640 --> 00:11:53,840
+[chuckles]
+
+197
+00:11:55,960 --> 00:12:00,760
+Even I can see that you have
+a good heart, me darlin'.
+
+198
+00:12:01,560 --> 00:12:02,760
+Merry Christmas.
+
+199
+00:12:03,400 --> 00:12:06,640
+[pauper] And a merry Christmas to you.
+
+200
+00:12:08,200 --> 00:12:10,400
+[music playing]
+
+201
+00:12:11,080 --> 00:12:11,920
+[splashes]
+
+202
+00:12:21,240 --> 00:12:22,240
+[Aggie cooing within]
+
+203
+00:12:26,000 --> 00:12:29,160
+I don't want anyone gawking at us.
+Let's go round the back.
+
+204
+00:12:40,360 --> 00:12:41,920
+Will you help me, Baby Jesus?
+
+205
+00:12:43,840 --> 00:12:45,360
+Okay, so...
+
+206
+00:12:45,440 --> 00:12:48,000
+one, two, three... hup!
+
+207
+00:12:52,560 --> 00:12:54,560
+No, no, no, Baby Jesus.
+
+208
+00:12:54,640 --> 00:12:57,240
+You have to go <span style="style.default_1">over </span>the wall. Again.
+
+209
+00:12:57,920 --> 00:13:00,600
+One, two, three. Hup!
+
+210
+00:13:03,600 --> 00:13:05,160
+Come on now, Baby Jesus.
+
+211
+00:13:05,440 --> 00:13:07,200
+No more messin'.
+
+212
+00:13:07,280 --> 00:13:09,360
+Try really hard this time.
+
+213
+00:13:10,320 --> 00:13:13,960
+One, two, three. Hup!
+
+214
+00:13:15,400 --> 00:13:18,240
+-[distant barking]
+-[gasps]
+
+215
+00:13:18,480 --> 00:13:21,560
+You did it, Baby Jesus.
+Good man, yourself.
+
+216
+00:13:22,520 --> 00:13:23,360
+[grunts]
+
+217
+00:13:24,760 --> 00:13:25,600
+[grunts]
+
+218
+00:13:26,920 --> 00:13:28,640
+[gasps] Oh, no.
+
+219
+00:13:31,000 --> 00:13:32,280
+Oh, no, Baby Jesus.
+
+220
+00:13:32,760 --> 00:13:33,600
+[Angela gasps]
+
+221
+00:13:34,800 --> 00:13:35,680
+[gasps]
+
+222
+00:13:35,920 --> 00:13:38,040
+What are you doing in Mrs. Blake's yard?
+
+223
+00:13:38,640 --> 00:13:40,640
+There's no excuse
+for the way you're behaving,
+
+224
+00:13:40,720 --> 00:13:44,120
+flying round like an angel.
+I've a good mind to leave you there.
+
+225
+00:13:48,960 --> 00:13:50,280
+[sighs]
+
+226
+00:13:50,360 --> 00:13:53,400
+All right, all right.
+I'll come and get you.
+
+227
+00:13:53,480 --> 00:13:54,800
+Don't make a sound.
+
+228
+00:13:58,600 --> 00:14:00,720
+Oh, no, you poor thing.
+
+229
+00:14:00,800 --> 00:14:02,520
+And me giving out to you and everything.
+
+230
+00:14:02,760 --> 00:14:05,720
+And you're smiling at me
+even though I hurt you.
+
+231
+00:14:05,800 --> 00:14:07,000
+Come here to me.
+
+232
+00:14:10,320 --> 00:14:11,160
+[grunts]
+
+233
+00:14:12,680 --> 00:14:13,520
+[grunts]
+
+234
+00:14:16,920 --> 00:14:17,920
+-[door opens]
+-[gasps]
+
+235
+00:14:19,000 --> 00:14:20,000
+Huh?
+
+236
+00:14:26,000 --> 00:14:28,160
+That's the baby Jesus from the church.
+
+237
+00:14:28,520 --> 00:14:30,680
+He's supposed to be sleeping in his crib
+
+238
+00:14:30,760 --> 00:14:33,280
+and you have him here
+in the freezing cold?
+
+239
+00:14:34,320 --> 00:14:35,320
+I'm warming him up.
+
+240
+00:14:39,320 --> 00:14:42,480
+[Pat] His mammy will be roaring
+and bawling when she sees him gone.
+
+241
+00:14:42,560 --> 00:14:45,680
+-[Tom singing]
+-[mother] Right, fire.
+
+242
+00:14:55,960 --> 00:14:57,680
+This is where myself and Aggie sleep.
+
+243
+00:14:57,760 --> 00:15:00,920
+Now you must be careful
+'cause she ripped the head off my doll.
+
+244
+00:15:01,000 --> 00:15:04,320
+[gasps] But don't worry, I'll mind you.
+
+245
+00:15:10,400 --> 00:15:13,720
+<span style="style.default_1">♪ Rest with me ♪</span>
+
+246
+00:15:14,600 --> 00:15:19,480
+<span style="style.default_1">♪ We'll be warm and free to dream ♪</span>
+
+247
+00:15:19,560 --> 00:15:22,560
+[narrator] <span style="style.default_1">I doubt that there was</span>
+<span style="style.default_1">a warmer place in Limerick...</span>
+
+248
+00:15:22,640 --> 00:15:25,880
+[Angela] <span style="style.default_1">♪ Of all the things to come... ♪</span>
+
+249
+00:15:25,960 --> 00:15:28,360
+[narrator] <span style="style.default_1">...than in Angela's room</span>
+<span style="style.default_1">that night.</span>
+
+250
+00:15:28,440 --> 00:15:31,120
+[Angela] <span style="style.default_1">♪ For you, my little one ♪</span>
+
+251
+00:15:31,440 --> 00:15:34,000
+-[bangs]
+-Angela's upstairs with the baby Jesus.
+
+252
+00:15:34,080 --> 00:15:36,960
+[Angela] <span style="style.default_1">♪ Look up high and see ♪</span>
+
+253
+00:15:39,040 --> 00:15:43,280
+<span style="style.default_1">♪ All the stars above you and me ♪</span>
+
+254
+00:15:43,360 --> 00:15:45,280
+Is she now? Isn't that great?
+
+255
+00:15:45,360 --> 00:15:50,040
+<span style="style.default_1">♪ They shine a light</span>
+<span style="style.default_1">On all the things to come ♪</span>
+
+256
+00:15:52,000 --> 00:15:54,920
+<span style="style.default_1">♪ For you, my little one ♪</span>
+
+257
+00:15:55,040 --> 00:15:57,280
+His mammy will be roaring and bawlin'.
+
+258
+00:15:57,360 --> 00:16:00,760
+And I suppose all the angels and saints
+are coming over for dinner too.
+
+259
+00:16:01,960 --> 00:16:03,440
+[Tom, Aggie, mother laugh]
+
+260
+00:16:03,520 --> 00:16:04,400
+[mother] Pat.
+
+261
+00:16:05,480 --> 00:16:07,120
+Shh, shh, shh.
+
+262
+00:16:08,440 --> 00:16:13,160
+<span style="style.default_1">♪ Of all the things yet to come ♪</span>
+
+263
+00:16:13,240 --> 00:16:14,800
+-I'm telling the truth!
+-[clatters]
+
+264
+00:16:15,760 --> 00:16:19,120
+-[panting]
+-[Angela] <span style="style.default_1">♪ For you, my little one ♪</span>
+
+265
+00:16:19,200 --> 00:16:20,040
+[puffs]
+
+266
+00:16:20,120 --> 00:16:22,440
+-[humming]
+-[footsteps scuffling]
+
+267
+00:16:22,520 --> 00:16:23,680
+[gasps]
+
+268
+00:16:24,160 --> 00:16:26,760
+-See? I wasn't telling stories.
+-Mother of God.
+
+269
+00:16:26,840 --> 00:16:28,640
+Is that the baby Jesus
+from St. Joseph's?
+
+270
+00:16:29,240 --> 00:16:31,320
+[stammers] I-- I just wanted to warm him.
+
+271
+00:16:32,280 --> 00:16:33,840
+Oh, Jesus.
+
+272
+00:16:43,720 --> 00:16:46,160
+We can sneak him into the milk mart.
+They'll find him in the morning.
+
+273
+00:16:46,240 --> 00:16:49,320
+-He'll freeze!
+-You can't just steal the baby Jesus.
+
+274
+00:16:49,400 --> 00:16:51,000
+His mammy will be sick with worry.
+
+275
+00:16:51,080 --> 00:16:53,880
+-I'm keeping him warm.
+-He has to go back to his mam!
+
+276
+00:16:53,960 --> 00:16:55,960
+-[Angela] Stop. He's staying.
+-She's gonna be sick!
+
+277
+00:16:56,040 --> 00:16:59,040
+-[Tom] He can't just stay here, Angela.
+-[Pat] He has to go back!
+
+278
+00:16:59,120 --> 00:17:00,400
+[mother] Enough!
+
+279
+00:17:01,080 --> 00:17:03,080
+Enough, all of you.
+
+280
+00:17:03,160 --> 00:17:04,480
+Pat, put the kettle on.
+
+281
+00:17:04,560 --> 00:17:07,839
+-What about the--?
+-Put the kettle on.
+
+282
+00:17:09,920 --> 00:17:11,200
+Please, Mammy, please?
+
+283
+00:17:11,280 --> 00:17:14,599
+I'll warm him and I'll tell his mother
+we have him safe in the bed.
+
+284
+00:17:14,960 --> 00:17:16,440
+You've all had your say.
+
+285
+00:17:17,319 --> 00:17:19,880
+Now I want to tell <span style="style.default_1">you </span>a story--
+
+286
+00:17:19,960 --> 00:17:21,800
+one about the night you were born.
+
+287
+00:17:22,240 --> 00:17:25,400
+-I was born on New Year.
+-Stroke of midnight.
+
+288
+00:17:25,480 --> 00:17:27,880
+Head in the old year, feet in the new.
+
+289
+00:17:27,960 --> 00:17:30,520
+We were gonna write to the Pope
+to ask what year you were born in.
+
+290
+00:17:30,600 --> 00:17:34,520
+We can't be listening to stories
+with the baby Jesus on the table.
+
+291
+00:17:42,160 --> 00:17:45,400
+The night you were born,
+it was bitterly cold.
+
+292
+00:17:45,480 --> 00:17:46,680
+[chuckles]
+
+293
+00:17:46,760 --> 00:17:49,040
+So cold that the midwife kept her coat on.
+
+294
+00:17:49,960 --> 00:17:52,520
+[mother] <span style="style.default_1">She was young, in love,</span>
+
+295
+00:17:52,720 --> 00:17:55,120
+<span style="style.default_1">with the new year</span>
+<span style="style.default_1">and a new suitor waiting.</span>
+
+296
+00:17:56,000 --> 00:18:00,120
+<span style="style.default_1">But what no one knew</span>
+<span style="style.default_1">was that my own heart was breaking.</span>
+
+297
+00:18:00,800 --> 00:18:02,440
+-Happy New Year.
+-[Angela cries]
+
+298
+00:18:03,360 --> 00:18:05,080
+Why was your heart breaking, Mam?
+
+299
+00:18:06,680 --> 00:18:07,920
+Your father.
+
+300
+00:18:08,600 --> 00:18:11,240
+-Go in and meet your sister, boys.
+-[boys chuckle]
+
+301
+00:18:15,000 --> 00:18:17,760
+[mother] <span style="style.default_1">Your father didn't want the baby</span>
+<span style="style.default_1">being born into a cold house.</span>
+
+302
+00:18:18,120 --> 00:18:19,040
+Hi, babba.
+
+303
+00:18:19,120 --> 00:18:21,080
+[mother] <span style="style.default_1">So he went out</span>
+<span style="style.default_1">to get coal for the fire.</span>
+
+304
+00:18:23,480 --> 00:18:26,320
+<span style="style.default_1">I got word shortly before Angela was born.</span>
+
+305
+00:18:26,840 --> 00:18:29,000
+[Angela cries]
+
+306
+00:18:29,960 --> 00:18:32,480
+[mother] <span style="style.default_1">The guards locked</span>
+<span style="style.default_1">your father up in the Limerick jail</span>
+
+307
+00:18:33,000 --> 00:18:36,400
+<span style="style.default_1">for trying to take a few lumps of coal</span>
+<span style="style.default_1">off the back of the fuel cart.</span>
+
+308
+00:18:40,720 --> 00:18:43,080
+<span style="style.default_1">Sure, he was just trying to do</span>
+<span style="style.default_1">the right thing,</span>
+
+309
+00:18:43,720 --> 00:18:45,360
+<span style="style.default_1">just trying to warm the house.</span>
+
+310
+00:18:45,440 --> 00:18:46,520
+[Angela cries]
+
+311
+00:18:49,640 --> 00:18:52,440
+[mother] <span style="style.default_1">It should have been</span>
+<span style="style.default_1">one of the happiest days of our lives.</span>
+
+312
+00:18:53,280 --> 00:18:57,560
+<span style="style.default_1">Instead, my heart was broken in pieces.</span>
+
+313
+00:18:58,480 --> 00:18:59,320
+[fizzles]
+
+314
+00:19:02,960 --> 00:19:03,840
+[mother] <span style="style.default_1">But then...</span>
+
+315
+00:19:04,520 --> 00:19:05,680
+In you go, Pat.
+
+316
+00:19:09,600 --> 00:19:12,920
+[mother] <span style="style.default_1">Together, we were warm.</span>
+
+317
+00:19:16,320 --> 00:19:19,440
+<span style="style.default_1">Because that is what families do.</span>
+
+318
+00:19:20,160 --> 00:19:22,200
+<span style="style.default_1">They shelter each other from the storm.</span>
+
+319
+00:19:22,560 --> 00:19:25,200
+<span style="style.default_1">They bring joy where there is sadness,</span>
+
+320
+00:19:25,640 --> 00:19:27,920
+<span style="style.default_1">warmth where there is none.</span>
+
+321
+00:19:33,000 --> 00:19:35,400
+Your father wasn't proud
+of his actions that night,
+
+322
+00:19:36,400 --> 00:19:39,360
+but when he heard
+how you boys minded your mother,
+
+323
+00:19:40,320 --> 00:19:42,800
+when he saw his baby daughter
+for the first time,
+
+324
+00:19:43,720 --> 00:19:46,720
+he was the proudest man in Limerick.
+
+325
+00:19:48,400 --> 00:19:49,800
+I miss Dadda.
+
+326
+00:19:50,320 --> 00:19:53,720
+I know you do, Pat. We all do.
+
+327
+00:20:07,600 --> 00:20:09,080
+He needs to go home.
+
+328
+00:20:17,600 --> 00:20:19,920
+-Angela?
+-I just need to do one thing.
+
+329
+00:20:20,440 --> 00:20:21,280
+[thumps]
+
+330
+00:20:23,120 --> 00:20:24,560
+[Pat] What is she doing, Mam?
+
+331
+00:20:28,320 --> 00:20:29,400
+-[Angela] Come on!
+-Huh?
+
+332
+00:20:29,480 --> 00:20:30,520
+-[door opens]
+-Angela, wait.
+
+333
+00:20:31,040 --> 00:20:33,080
+-Will you come on?
+-[mother] Boys, coats.
+
+334
+00:20:36,920 --> 00:20:37,760
+[Angela] Come on.
+
+335
+00:20:38,080 --> 00:20:40,720
+You'll have me above in St. Jeremiah's
+with your messin'.
+
+336
+00:20:49,080 --> 00:20:50,880
+What if we're caught, Angela?
+
+337
+00:20:51,440 --> 00:20:53,520
+We'll be fine, Pat. Come on.
+
+338
+00:21:06,560 --> 00:21:09,360
+[music playing]
+
+339
+00:21:35,040 --> 00:21:36,840
+[voices murmuring]
+
+340
+00:21:38,160 --> 00:21:42,480
+-[man laughing]
+-And then, He let out a sneeze.
+
+341
+00:21:42,560 --> 00:21:45,560
+A sneeze so small and heavenly,
+
+342
+00:21:45,640 --> 00:21:47,600
+only an angel could have made it.
+
+343
+00:21:47,840 --> 00:21:49,800
+A sneezy miracle!
+
+344
+00:21:49,880 --> 00:21:51,200
+And then, then--
+
+345
+00:21:51,280 --> 00:21:56,000
+Didn't the Baby Jesus Himself
+only go and thank the both of us?
+
+346
+00:21:57,400 --> 00:21:59,040
+[man] Amazing!
+
+347
+00:22:02,960 --> 00:22:03,800
+[whispers] Quick.
+
+348
+00:22:16,320 --> 00:22:17,240
+[whispers] Come on.
+
+349
+00:22:26,000 --> 00:22:27,120
+-[door opens]
+-[Angela gasps]
+
+350
+00:22:33,040 --> 00:22:33,880
+[priest gasps]
+
+351
+00:22:34,120 --> 00:22:36,000
+Oh, you've broken it.
+
+352
+00:22:36,520 --> 00:22:37,520
+Sorry.
+
+353
+00:22:37,600 --> 00:22:40,400
+-[mother] Sorry, Father.
+-Guard, we have the thief.
+
+354
+00:22:40,760 --> 00:22:42,880
+-[door opens]
+-[Angela] But, but...
+
+355
+00:22:43,320 --> 00:22:44,800
+[rattling]
+
+356
+00:22:45,040 --> 00:22:47,200
+[panting]
+
+357
+00:22:50,000 --> 00:22:53,160
+No, no, no, no.
+She was only warming the baby Jesus.
+
+358
+00:22:53,240 --> 00:22:55,440
+You won't put my sister in jail.
+You won't.
+
+359
+00:22:55,680 --> 00:22:57,320
+You can put <span style="style.default_1">me </span>in the Limerick jail.
+
+360
+00:23:01,840 --> 00:23:04,880
+He was cold in the crib,
+so I took him home to warm him up.
+
+361
+00:23:10,040 --> 00:23:11,160
+Well, then.
+
+362
+00:23:12,200 --> 00:23:15,880
+It looks like we've no choice
+but to lock you up
+
+363
+00:23:15,960 --> 00:23:20,840
+for the taking of... "one baby Jesus."
+
+364
+00:23:21,440 --> 00:23:23,520
+And on his birthday, of all things.
+
+365
+00:23:23,840 --> 00:23:24,760
+[giggles]
+
+366
+00:23:24,840 --> 00:23:27,680
+I fail to see
+how this is a laughing matter.
+
+367
+00:23:27,760 --> 00:23:28,600
+You're right, Father.
+
+368
+00:23:30,080 --> 00:23:32,800
+There is nothing funny
+about taking a child,
+
+369
+00:23:33,120 --> 00:23:37,040
+any child-- away from his family
+on Christmas Eve.
+
+370
+00:24:06,320 --> 00:24:07,160
+[priest] Wait.
+
+371
+00:24:09,360 --> 00:24:10,480
+You'll need this...
+
+372
+00:24:11,560 --> 00:24:13,120
+or you'll catch your death.
+
+373
+00:24:15,840 --> 00:24:16,720
+Thank you.
+
+374
+00:24:22,280 --> 00:24:23,360
+[softly] Goodbye.
+
+375
+00:24:27,760 --> 00:24:29,600
+-[mother] Good boy, Pat.
+-[Angela] Thanks, Pat.
+
+376
+00:24:29,680 --> 00:24:32,120
+-[Tom] Yeah, well done, Pat.
+-Thanks.
+
+377
+00:24:36,120 --> 00:24:37,240
+Oh, dear Lord.
+
+378
+00:24:38,000 --> 00:24:39,600
+[gasps]
+
+379
+00:24:39,680 --> 00:24:41,560
+[laughs]
+
+380
+00:24:43,400 --> 00:24:44,480
+[sighs] Ah...!
+
+381
+00:24:44,560 --> 00:24:46,520
+[laughing]
+
+382
+00:24:56,080 --> 00:24:56,920
+[gasps]
+
+383
+00:25:00,080 --> 00:25:01,640
+[policeman] Happy Christmas!
+
+384
+00:25:01,960 --> 00:25:03,200
+[all] Happy Christmas!
+
+385
+00:25:04,280 --> 00:25:05,760
+[Mrs. Blake] He blessed <span style="style.default_1">me.</span>
+
+386
+00:25:05,840 --> 00:25:09,040
+It's a miracle. A Christmas miracle!
+
+387
+00:25:09,400 --> 00:25:11,000
+-It's a miracle.
+-[laughter]
+
+388
+00:25:22,120 --> 00:25:26,760
+-[bartender] Happy Christmas.
+-And a merry Christmas to you.
+
+389
+00:25:33,560 --> 00:25:34,920
+[snaps]
+
+390
+00:25:39,400 --> 00:25:41,400
+[crackling]
+
+391
+00:25:51,240 --> 00:25:54,160
+-[mother] Angela?
+-Coming.
+
+392
+00:25:59,280 --> 00:26:02,120
+[narrator] <span style="style.default_1">And what about the baby Jesus,</span>
+<span style="style.default_1">you ask?</span>
+
+393
+00:26:03,400 --> 00:26:06,280
+<span style="style.default_1">Well, he smiled the way he always did...</span>
+
+394
+00:26:06,360 --> 00:26:07,200
+[puffs]
+
+395
+00:26:07,280 --> 00:26:09,680
+<span style="style.default_1">and held out his arms to the world.</span>
+
+396
+00:26:10,240 --> 00:26:14,920
+<span style="style.default_1">He was as warm and cozy</span>
+<span style="style.default_1">as any baby that night.</span>
+
+397
+00:26:15,880 --> 00:26:18,960
+<span style="style.default_1">All with a little help</span>
+<span style="style.default_1">from Angela, of course.</span>
+
+398
+00:26:25,520 --> 00:26:27,720
+<span style="style.default_1">All with a little help</span>
+
+399
+00:26:27,800 --> 00:26:31,520
+<span style="style.default_1">from my mother.</span>
+
+400
+00:26:39,280 --> 00:26:41,680
+["Angela's Song" plays]
+
+401
+00:26:42,680 --> 00:26:45,600
+<span style="style.default_1">♪ Rest with me ♪</span>
+
+402
+00:26:46,880 --> 00:26:52,680
+<span style="style.default_1">♪ We'll be warm and free to dream ♪</span>
+
+403
+00:26:53,400 --> 00:26:58,680
+<span style="style.default_1">♪ Of all the things yet to come ♪</span>
+
+404
+00:27:00,720 --> 00:27:03,880
+<span style="style.default_1">♪ For you, my little one ♪</span>
+
+405
+00:27:06,360 --> 00:27:09,280
+<span style="style.default_1">♪ Look up high and see ♪</span>
+
+406
+00:27:11,320 --> 00:27:16,080
+<span style="style.default_1">♪ All the stars above you and me ♪</span>
+
+407
+00:27:17,640 --> 00:27:22,320
+<span style="style.default_1">♪ They shine a light</span>
+<span style="style.default_1">On all the things to come ♪</span>
+
+408
+00:27:24,480 --> 00:27:27,280
+<span style="style.default_1">♪ For you, my little one ♪</span>
+
+409
+00:27:30,040 --> 00:27:33,000
+<span style="style.default_1">♪ Stay with me ♪</span>
+
+410
+00:27:34,080 --> 00:27:39,520
+<span style="style.default_1">♪ Forget the cold streets</span>
+<span style="style.default_1">Of Limerick city ♪</span>
+
+411
+00:27:40,400 --> 00:27:42,880
+<span style="style.default_1">♪ Let's drift away ♪</span>
+
+412
+00:27:42,960 --> 00:27:45,800
+<span style="style.default_1">♪ And sing our song ♪</span>
+
+413
+00:27:48,120 --> 00:27:51,160
+<span style="style.default_1">♪ And dream on and on ♪</span>
+
+414
+00:27:53,720 --> 00:27:56,800
+<span style="style.default_1">♪ Lay with me ♪</span>
+
+415
+00:27:58,000 --> 00:28:03,280
+<span style="style.default_1">♪ Let us sing a sweet melody ♪</span>
+
+416
+00:28:04,520 --> 00:28:09,720
+<span style="style.default_1">♪ Of all the things yet to come ♪</span>
+
+417
+00:28:11,760 --> 00:28:14,920
+<span style="style.default_1">♪ For you, my little one ♪</span>
+
+418
+00:28:17,280 --> 00:28:20,440
+<span style="style.default_1">♪ Look up high and see ♪</span>
+
+419
+00:28:22,440 --> 00:28:26,760
+<span style="style.default_1">♪ All the stars above you and me ♪</span>
+
+420
+00:28:28,720 --> 00:28:33,320
+<span style="style.default_1">♪ They shine a light</span>
+<span style="style.default_1">On all the things to come ♪</span>
+
+421
+00:28:35,480 --> 00:28:38,360
+<span style="style.default_1">♪ For you, my little one ♪</span>
+
+422
+00:28:45,920 --> 00:28:49,240
+<span style="style.default_1">♪ Look up high and see ♪</span>
+
+423
+00:28:51,120 --> 00:28:55,600
+<span style="style.default_1">♪ All the stars above you and me ♪</span>
+
+424
+00:28:57,240 --> 00:29:02,200
+<span style="style.default_1">♪ They shine a light</span>
+<span style="style.default_1">On all the things to come ♪</span>
+
+425
+00:29:04,120 --> 00:29:07,880
+<span style="style.default_1">♪ For you, my little one ♪</span>

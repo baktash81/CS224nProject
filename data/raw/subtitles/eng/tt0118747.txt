@@ -1,0 +1,3024 @@
+1
+00:03:39,080 --> 00:03:41,036
+-Good morning, Warden.
+-Tom.
+
+2
+00:03:57,640 --> 00:03:59,073
+Is that Elwood Blues?
+
+3
+00:03:59,640 --> 00:04:01,437
+Yes, sir. Released yesterday.
+
+4
+00:04:03,080 --> 00:04:04,513
+Did you tell him about Jake?
+
+5
+00:04:05,040 --> 00:04:06,996
+No, sir. I thought you told him.
+
+6
+00:04:32,560 --> 00:04:33,834
+I'm sorry.
+
+7
+00:05:05,280 --> 00:05:06,235
+Listen...
+
+8
+00:05:06,960 --> 00:05:08,393
+...I work for a friend of yours.
+
+9
+00:05:08,680 --> 00:05:09,510
+Who's that?
+
+10
+00:05:09,720 --> 00:05:12,075
+Your old drummer, Willie.
+
+11
+00:05:12,880 --> 00:05:14,154
+I dance at his club.
+
+12
+00:05:14,440 --> 00:05:16,954
+He heard you were out
+and asked me to get you.
+
+13
+00:05:17,240 --> 00:05:19,310
+He said he'd give you a job.
+
+14
+00:05:21,960 --> 00:05:24,315
+Matara, could you drop me off here?
+
+15
+00:05:39,080 --> 00:05:41,071
+What can I do for you?
+
+16
+00:05:41,520 --> 00:05:44,956
+Sir, how much would that full-sized...
+
+17
+00:05:45,080 --> 00:05:47,310
+...Ford police package run me?
+
+18
+00:05:47,400 --> 00:05:49,391
+Get yourself $500...
+
+19
+00:05:50,120 --> 00:05:51,872
+...and come back to see me.
+
+20
+00:05:52,080 --> 00:05:53,638
+Okay, sir.
+
+21
+00:05:56,360 --> 00:05:58,271
+That's a nice car.
+
+22
+00:05:59,280 --> 00:06:00,838
+I'll save it for you.
+
+23
+00:06:01,000 --> 00:06:02,513
+Thanks.
+
+24
+00:06:12,080 --> 00:06:14,389
+I wasn't sure you would come, Elwood.
+
+25
+00:06:15,680 --> 00:06:19,150
+A letter from you is like a command, sister.
+You know that.
+
+26
+00:06:19,560 --> 00:06:22,279
+Actually, it's Mother Mary now.
+
+27
+00:06:22,960 --> 00:06:24,916
+That's a promotion, isn't it?
+
+28
+00:06:26,560 --> 00:06:28,437
+I was sorry to hear about Jake.
+
+29
+00:06:28,920 --> 00:06:33,550
+Yeah, well I guess
+he's in a much better place.
+
+30
+00:06:38,720 --> 00:06:40,472
+Where is Curtis?
+
+31
+00:06:41,400 --> 00:06:44,597
+Curtis has gone on as well, Elwood.
+I'm sorry.
+
+32
+00:06:45,040 --> 00:06:47,429
+So that's why he stopped writing me.
+
+33
+00:06:49,760 --> 00:06:52,957
+He was very upset
+when the orphanage closed.
+
+34
+00:06:53,640 --> 00:06:56,996
+Curtis was the closest thing to a dad
+Jake and I ever had.
+
+35
+00:06:57,480 --> 00:06:59,232
+He gave us the music.
+
+36
+00:06:59,360 --> 00:07:02,352
+The Lord works in mysterious ways,
+Elwood.
+
+37
+00:07:02,480 --> 00:07:05,040
+We must go on and fight the good fight.
+
+38
+00:07:05,120 --> 00:07:08,157
+The orphanage is gone, Jake's gone,
+Curtis is gone.
+
+39
+00:07:08,240 --> 00:07:11,676
+I got no brother, no roots, no life.
+I got nothing!
+
+40
+00:07:13,160 --> 00:07:14,479
+Young man...
+
+41
+00:07:16,200 --> 00:07:18,270
+...you were not taught and raised by me...
+
+42
+00:07:18,360 --> 00:07:21,830
+...to fold at the slightest whiff
+of adverse circumstances.
+
+43
+00:07:22,960 --> 00:07:27,670
+Now quit your silly moping,
+pull yourself together and snap out of it!
+
+44
+00:07:27,760 --> 00:07:28,954
+But--
+
+45
+00:07:29,600 --> 00:07:33,912
+But nothing! Wise up!
+Turn your heart to the Creator.
+
+46
+00:07:34,240 --> 00:07:35,912
+You are so quick to despair.
+
+47
+00:07:36,000 --> 00:07:39,754
+You are not the only person in the world
+who has had tragedy in their lives.
+
+48
+00:07:40,840 --> 00:07:43,308
+Did you know that Curtis had a son?
+
+49
+00:07:44,440 --> 00:07:46,874
+Curtis had a son?
+
+50
+00:07:46,960 --> 00:07:50,635
+Before Curtis came to us
+at St. Helen of the Blessed Shroud...
+
+51
+00:07:50,920 --> 00:07:55,232
+...he had a musical group
+that toured juke joints in the Midwest.
+
+52
+00:07:55,320 --> 00:07:59,359
+In one town, Curtis had an affair
+with a married woman.
+
+53
+00:07:59,800 --> 00:08:01,233
+Go, Curtis.
+
+54
+00:08:02,200 --> 00:08:04,839
+I mean, that's terrible.
+
+55
+00:08:05,160 --> 00:08:06,912
+That's what I thought you meant.
+
+56
+00:08:07,000 --> 00:08:11,312
+The woman became pregnant
+and decided to stay with her husband...
+
+57
+00:08:11,480 --> 00:08:14,836
+...never telling him
+that the boy child wasn't his.
+
+58
+00:08:14,960 --> 00:08:16,632
+Curtis was devastated.
+
+59
+00:08:16,920 --> 00:08:18,990
+He came to us as a custodian...
+
+60
+00:08:19,080 --> 00:08:23,551
+...and spent the rest of his life
+caring for little orphans like you.
+
+61
+00:08:33,520 --> 00:08:35,750
+That's a beautiful story.
+
+62
+00:08:40,160 --> 00:08:42,879
+Wait a minute. If Curtis had a son...
+
+63
+00:08:42,960 --> 00:08:45,838
+...that guy would be kind of like
+my stepbrother.
+
+64
+00:08:46,760 --> 00:08:48,193
+I have a family.
+
+65
+00:08:48,320 --> 00:08:51,198
+Curtis stayed in touch
+with the boy's mother.
+
+66
+00:08:51,360 --> 00:08:53,555
+He sent his paycheck every week.
+
+67
+00:08:53,640 --> 00:08:55,631
+Where is this boy now?
+
+68
+00:08:55,720 --> 00:08:59,190
+He's a grown man now,
+and doing quite well.
+
+69
+00:08:59,280 --> 00:09:01,669
+He's in the city.
+His name is Cabel Chamberlain.
+
+70
+00:09:01,960 --> 00:09:04,110
+Cabel Chamberlain.
+
+71
+00:09:04,200 --> 00:09:07,237
+He knows nothing about Curtis.
+You are not to tell him.
+
+72
+00:09:07,520 --> 00:09:09,033
+I wouldn't say anything.
+
+73
+00:09:09,400 --> 00:09:11,595
+Do you know anything about mentoring?
+
+74
+00:09:12,160 --> 00:09:14,833
+No. What about it?
+
+75
+00:09:14,920 --> 00:09:17,150
+I'd like you to meet someone.
+
+76
+00:09:18,800 --> 00:09:21,394
+Sister, would you send Buster in here?
+
+77
+00:09:21,720 --> 00:09:23,039
+Wait a minute.
+
+78
+00:09:23,120 --> 00:09:24,235
+Thank you.
+
+79
+00:09:30,960 --> 00:09:33,349
+Come in, Buster, and sit down.
+
+80
+00:09:39,840 --> 00:09:41,637
+Elwood, say hello to Buster.
+
+81
+00:09:42,160 --> 00:09:43,434
+Hi. How ya doin'?
+
+82
+00:09:43,640 --> 00:09:45,710
+Buster, say hello to Elwood.
+
+83
+00:09:46,080 --> 00:09:47,308
+Hi. How ya doin'?
+
+84
+00:09:49,120 --> 00:09:51,111
+The kid's a wiseass.
+
+85
+00:09:51,360 --> 00:09:52,634
+Shit!
+
+86
+00:09:54,520 --> 00:09:55,635
+What did you say?
+
+87
+00:09:55,720 --> 00:09:58,712
+I said, what a sweet kid.
+
+88
+00:09:59,400 --> 00:10:02,392
+That's more like it.
+Now, here's my proposal.
+
+89
+00:10:02,480 --> 00:10:04,596
+Buster is a ward of the State.
+
+90
+00:10:04,680 --> 00:10:07,797
+Due to lack of space, the archdiocese...
+
+91
+00:10:07,880 --> 00:10:10,792
+...is housing homeless children
+here at the hospital.
+
+92
+00:10:11,000 --> 00:10:13,195
+What's that got to do with me?
+
+93
+00:10:13,280 --> 00:10:16,272
+I thought you could come
+and spend time with Buster.
+
+94
+00:10:18,720 --> 00:10:21,439
+Why don't you take Buster to the library?
+
+95
+00:10:21,840 --> 00:10:24,718
+You know, I've been jacked around--
+
+96
+00:10:27,320 --> 00:10:29,959
+The library. No problem.
+
+97
+00:10:31,720 --> 00:10:33,950
+See you in two hours, boys.
+
+98
+00:10:36,200 --> 00:10:40,079
+Here's the deal. You wait here.
+I'll come back for you with the car.
+
+99
+00:10:40,640 --> 00:10:41,914
+Do you have a car?
+
+100
+00:10:42,320 --> 00:10:43,992
+I'm working on it.
+
+101
+00:10:54,760 --> 00:10:57,797
+Chicago. Cabel Chamberlain.
+
+102
+00:11:04,800 --> 00:11:06,392
+Thanks for the ride.
+
+103
+00:11:22,080 --> 00:11:23,718
+Kid, are you stalking me?
+
+104
+00:11:30,560 --> 00:11:32,630
+What are you, fifteen? Seventeen?
+
+105
+00:11:33,360 --> 00:11:34,395
+I'm ten.
+
+106
+00:11:34,920 --> 00:11:36,194
+Ten?
+
+107
+00:11:38,920 --> 00:11:40,353
+I know what that's like.
+
+108
+00:11:40,680 --> 00:11:42,989
+You're lonely, searching for a place in life.
+
+109
+00:11:43,120 --> 00:11:44,678
+Don't blow it like I did.
+
+110
+00:11:44,760 --> 00:11:49,834
+Stay away from drugs, gangs, cyber porn
+and you could be President some day.
+
+111
+00:11:52,160 --> 00:11:55,072
+But I don't want to be President.
+
+112
+00:11:55,400 --> 00:11:59,075
+I'm busy. I got kind of a brother in there.
+He must be in trouble.
+
+113
+00:11:59,240 --> 00:12:03,279
+Besides, you don't want to hang around
+with some over-forty recidivist.
+
+114
+00:12:03,880 --> 00:12:05,313
+Now scram.
+
+115
+00:12:08,640 --> 00:12:11,677
+A Mr. Elwood J. Blues is here to see you.
+
+116
+00:12:12,880 --> 00:12:14,154
+Yes, sir.
+
+117
+00:12:15,320 --> 00:12:19,313
+Commander Chamberlain's office
+is on the 12th floor. He's expecting you.
+
+118
+00:12:21,400 --> 00:12:23,118
+"Commander" Chamberlain?
+
+119
+00:12:23,560 --> 00:12:25,710
+How can I help you, Mr....
+
+120
+00:12:26,160 --> 00:12:28,310
+Blues. Elwood J. Blues.
+
+121
+00:12:32,120 --> 00:12:35,157
+Could you take off your hat
+and glasses in my office?
+
+122
+00:12:44,520 --> 00:12:46,909
+Okay, you can put your glasses back on.
+
+123
+00:12:48,440 --> 00:12:51,955
+What exactly is the nature
+of your visit here, Mr. Blues?
+
+124
+00:12:52,040 --> 00:12:53,598
+Well, it's like this.
+
+125
+00:12:53,680 --> 00:12:57,434
+I used to be in a band called
+The Blues Brothers.
+
+126
+00:12:58,320 --> 00:12:59,230
+So?
+
+127
+00:12:59,320 --> 00:13:02,517
+With a partner whose name was
+Jake Blues.
+
+128
+00:13:03,280 --> 00:13:04,269
+Go on.
+
+129
+00:13:09,920 --> 00:13:12,275
+And you are our long-lost brother.
+
+130
+00:13:14,440 --> 00:13:15,759
+Mr. Blues...
+
+131
+00:13:16,760 --> 00:13:18,318
+...I am an only child.
+
+132
+00:13:18,880 --> 00:13:21,758
+But your real father
+was like a real father to me, too.
+
+133
+00:13:21,960 --> 00:13:24,349
+-My real father?
+-Yeah, Curtis.
+
+134
+00:13:25,120 --> 00:13:27,429
+Have you noticed
+that I am African-American?
+
+135
+00:13:27,640 --> 00:13:29,870
+That's okay. So was Curtis.
+
+136
+00:13:33,280 --> 00:13:36,670
+See, your mother and Curtis had an affair...
+
+137
+00:13:36,840 --> 00:13:38,990
+...which produced a little boy. That's you.
+
+138
+00:13:40,320 --> 00:13:41,514
+My father...
+
+139
+00:13:42,200 --> 00:13:43,918
+...passed away 14 years ago.
+
+140
+00:13:44,880 --> 00:13:49,192
+He was a full-bird colonel
+in the U.S. Air Force.
+
+141
+00:13:49,280 --> 00:13:50,269
+My mother...
+
+142
+00:13:50,760 --> 00:13:53,149
+...now lives in Phoenix, Arizona
+and a more...
+
+143
+00:13:53,280 --> 00:13:57,990
+...honorable, sweet-tempered
+and goodly woman does not exist.
+
+144
+00:13:58,120 --> 00:14:00,554
+I'm not making any moral judgments.
+
+145
+00:14:00,640 --> 00:14:03,074
+But one can project
+what might have happened.
+
+146
+00:14:03,480 --> 00:14:05,072
+Your mom, young...
+
+147
+00:14:05,520 --> 00:14:08,432
+...her husband in the military.
+Often away from home...
+
+148
+00:14:09,200 --> 00:14:11,953
+...which may have pushed her
+to reach out...
+
+149
+00:14:12,240 --> 00:14:14,231
+-...stray from the nest.
+-That's enough.
+
+150
+00:14:16,160 --> 00:14:17,639
+Just a minute...
+
+151
+00:14:18,880 --> 00:14:20,154
+...please.
+
+152
+00:14:24,880 --> 00:14:27,155
+Hi, Ma. It's me, Cab.
+
+153
+00:14:27,840 --> 00:14:29,512
+Listen, I have a...
+
+154
+00:14:29,840 --> 00:14:34,152
+...gentleman here who's telling me
+some story about a man named Curtis.
+
+155
+00:14:38,800 --> 00:14:39,869
+What?
+
+156
+00:14:41,880 --> 00:14:42,995
+Right.
+
+157
+00:14:49,040 --> 00:14:51,349
+So, what precisely do you want from me?
+
+158
+00:14:51,600 --> 00:14:54,353
+Seeing as we're kind of stepbrothers...
+
+159
+00:14:54,440 --> 00:14:56,431
+...I thought you could help me out.
+
+160
+00:14:56,880 --> 00:14:57,790
+How?
+
+161
+00:14:57,880 --> 00:14:59,791
+I need $500 for this car.
+
+162
+00:15:00,160 --> 00:15:03,835
+I thought maybe you could loan me
+the money. Or--
+
+163
+00:15:04,000 --> 00:15:05,353
+Or what?
+
+164
+00:15:05,640 --> 00:15:07,870
+I want to put the band back together.
+
+165
+00:15:07,960 --> 00:15:09,518
+You could join us.
+
+166
+00:15:11,600 --> 00:15:12,874
+I am a commander...
+
+167
+00:15:13,760 --> 00:15:15,796
+...in the lllinois State Police.
+
+168
+00:15:16,040 --> 00:15:17,632
+I enjoy my job.
+
+169
+00:15:17,800 --> 00:15:20,360
+You waltz in here...
+
+170
+00:15:20,480 --> 00:15:22,311
+...telling me that I have a dead...
+
+171
+00:15:22,800 --> 00:15:26,395
+...white criminal brother,
+who was in a band, which...
+
+172
+00:15:26,560 --> 00:15:29,870
+...the last time they played anywhere
+were charged with...
+
+173
+00:15:30,560 --> 00:15:32,391
+...grand larceny...
+
+174
+00:15:32,760 --> 00:15:37,197
+...reckless endangerment,
+felonious motor vehicle assault...
+
+175
+00:15:37,280 --> 00:15:41,592
+...over 700 violations
+of the Highway Traffic Act...
+
+176
+00:15:41,680 --> 00:15:44,717
+...and damages, both public and private...
+
+177
+00:15:44,800 --> 00:15:48,031
+...in excess of $24 million.
+
+178
+00:15:48,120 --> 00:15:51,874
+And you are asking me
+if I want to join this band?
+
+179
+00:15:51,960 --> 00:15:53,916
+I could show you all the moves.
+
+180
+00:15:54,000 --> 00:15:57,276
+Get the hell out of my office, right now!
+
+181
+00:15:58,480 --> 00:16:00,072
+I thinkyou need a hug.
+
+182
+00:16:01,520 --> 00:16:03,875
+And don't ever come back here again!
+
+183
+00:16:12,800 --> 00:16:14,756
+-Are you okay?
+-Yeah.
+
+184
+00:16:19,480 --> 00:16:21,391
+He dropped this.
+
+185
+00:16:31,520 --> 00:16:34,717
+The Lord works in mysterious ways.
+
+186
+00:16:36,520 --> 00:16:37,794
+Four...
+
+187
+00:16:38,000 --> 00:16:39,911
+...five hundred dollars.
+
+188
+00:16:41,720 --> 00:16:43,358
+Thank you, sir.
+
+189
+00:16:44,080 --> 00:16:45,513
+This your boy?
+
+190
+00:16:47,280 --> 00:16:48,474
+He's....
+
+191
+00:16:50,960 --> 00:16:52,154
+I'm his associate.
+
+192
+00:16:52,640 --> 00:16:54,631
+Yeah, that's who he is.
+
+193
+00:16:54,720 --> 00:16:57,996
+Lucky you came today.
+I'm selling the place tomorrow.
+
+194
+00:16:58,520 --> 00:16:59,396
+Why?
+
+195
+00:16:59,480 --> 00:17:03,189
+I'm going to New Orleans
+to try out a new career.
+
+196
+00:17:04,080 --> 00:17:05,559
+Good luck, Mr. Gasperon.
+
+197
+00:17:06,800 --> 00:17:08,711
+Good luck to you, Mr. Blues.
+
+198
+00:17:13,120 --> 00:17:15,839
+Mother Mary, we've done two bed checks...
+
+199
+00:17:16,000 --> 00:17:18,798
+...searched the grounds
+and we can't find him.
+
+200
+00:17:19,720 --> 00:17:20,789
+Who?
+
+201
+00:17:21,280 --> 00:17:23,350
+Buster. He's missing.
+
+202
+00:17:24,400 --> 00:17:25,674
+Elwood!
+
+203
+00:17:30,280 --> 00:17:32,032
+Have you seen my wallet?
+
+204
+00:18:04,280 --> 00:18:06,032
+It smells like dog shit in here.
+
+205
+00:18:06,360 --> 00:18:08,112
+Don't say "shit," kid.
+
+206
+00:18:20,120 --> 00:18:22,111
+You don't need that shit, kid.
+
+207
+00:19:21,560 --> 00:19:22,834
+Elwood.
+
+208
+00:19:28,960 --> 00:19:29,949
+It's me.
+
+209
+00:19:31,120 --> 00:19:32,712
+Matara.
+
+210
+00:19:33,800 --> 00:19:34,915
+Yeah, right.
+
+211
+00:19:35,360 --> 00:19:36,315
+Mack.
+
+212
+00:19:37,120 --> 00:19:39,395
+Look who's here. Elwood Blues.
+
+213
+00:19:39,640 --> 00:19:41,915
+From Willie's old band.
+
+214
+00:19:44,600 --> 00:19:45,749
+Is this your son?
+
+215
+00:19:46,240 --> 00:19:48,800
+Well, he's....
+
+216
+00:19:49,200 --> 00:19:50,349
+I'm hungry.
+
+217
+00:19:50,840 --> 00:19:54,958
+Come on, let's get you something to eat.
+Willie's in the office.
+
+218
+00:19:57,120 --> 00:20:00,271
+What would you say
+to my putting the band back together?
+
+219
+00:20:00,640 --> 00:20:04,872
+I'd say I've got a good business here
+and I'm not going back to jail.
+
+220
+00:20:05,200 --> 00:20:07,350
+You're saying you don't miss it?
+
+221
+00:20:07,880 --> 00:20:09,233
+That's right.
+
+222
+00:20:09,360 --> 00:20:11,749
+You know you miss the music.
+
+223
+00:20:12,240 --> 00:20:16,279
+No pharmaceutical could equal the rush
+you get when the band grooves.
+
+224
+00:20:16,400 --> 00:20:19,836
+People are dancing and shouting.
+The house is rocking.
+
+225
+00:20:22,840 --> 00:20:23,795
+Sir?
+
+226
+00:20:24,440 --> 00:20:25,919
+Yes, Elizondo?
+
+227
+00:20:27,120 --> 00:20:28,553
+Found your wallet.
+
+228
+00:20:30,600 --> 00:20:31,919
+Let's see...
+
+229
+00:20:32,120 --> 00:20:35,510
+...badge, license, credit cards.
+
+230
+00:20:35,720 --> 00:20:37,711
+Just the cash is missing. Where was it?
+
+231
+00:20:37,800 --> 00:20:40,553
+Turned in to lost-and-found
+in a paper bag...
+
+232
+00:20:40,640 --> 00:20:42,995
+...with this note.
+
+233
+00:20:51,400 --> 00:20:55,313
+I want a felony theft warrant
+put out on Elwood Blues.
+
+234
+00:20:55,440 --> 00:20:57,158
+I want this guy. Now.
+
+235
+00:20:57,240 --> 00:21:00,277
+What did he mean,
+calling you his "little brother"?
+
+236
+00:21:03,280 --> 00:21:04,269
+Right away, sir.
+
+237
+00:21:05,080 --> 00:21:06,593
+Good evening, welcome to Willie's.
+
+238
+00:21:06,680 --> 00:21:10,912
+Illinois' most elegant establishment
+for entertainment, erotica and ecdysia.
+
+239
+00:21:13,360 --> 00:21:16,238
+Now, four young women
+currently studying medicine...
+
+240
+00:21:16,360 --> 00:21:19,033
+...and paleontology
+at Northwestern University.
+
+241
+00:21:19,120 --> 00:21:21,156
+Tia, Sandrah, Devon and Carla.
+
+242
+00:21:21,240 --> 00:21:23,276
+Here they are, The Roommates!
+
+243
+00:21:25,720 --> 00:21:28,473
+The band, the girls and I,
+want to do a song for you.
+
+244
+00:21:28,560 --> 00:21:30,312
+A little Mack Rice cover.
+
+245
+00:21:30,720 --> 00:21:31,914
+You married men...
+
+246
+00:21:32,000 --> 00:21:36,152
+...better stay tied up,
+because it's cheaper to keep her.
+
+247
+00:21:38,120 --> 00:21:40,395
+"It's cheaper to keep her
+
+248
+00:21:41,440 --> 00:21:44,477
+"It's cheaper to keep her
+
+249
+00:21:45,760 --> 00:21:48,479
+"When your little girl makes you mad
+
+250
+00:21:50,000 --> 00:21:53,072
+"You get an attitude and pack your bag
+
+251
+00:21:53,160 --> 00:21:56,072
+"Five little children
+that you're leaving behind
+
+252
+00:21:57,200 --> 00:22:00,112
+"You're gonna pay some alimony
+or do some time
+
+253
+00:22:00,200 --> 00:22:01,519
+"It's cheaper to keep her
+
+254
+00:22:03,200 --> 00:22:05,668
+"Too much to leave that little girl
+
+255
+00:22:07,240 --> 00:22:10,118
+"It's cheaper, it's cheaper
+
+256
+00:22:15,360 --> 00:22:18,909
+"If you decide to roam
+
+257
+00:22:19,200 --> 00:22:21,031
+"And leave your happy home
+
+258
+00:22:21,120 --> 00:22:23,588
+"You got to pay the house note
+
+259
+00:22:23,680 --> 00:22:26,672
+"The child support, your insurance
+
+260
+00:22:26,760 --> 00:22:28,955
+"Alimony, mortgage one, mortgage two
+
+261
+00:22:29,080 --> 00:22:31,913
+"It's cheaper to keep her"
+
+262
+00:22:49,320 --> 00:22:50,594
+What was that?
+
+263
+00:22:50,840 --> 00:22:54,037
+Strong-arm shit.
+Protection payment. You know.
+
+264
+00:22:54,360 --> 00:22:58,194
+This time it's Russians.
+But if I pay them, they leave me alone.
+
+265
+00:22:58,440 --> 00:22:59,509
+That's not right.
+
+266
+00:23:00,280 --> 00:23:01,713
+No shit.
+
+267
+00:23:09,600 --> 00:23:13,434
+If I could only figure out
+what Elwood's game is.
+
+268
+00:23:13,880 --> 00:23:15,950
+Why did he come to see you?
+
+269
+00:23:16,240 --> 00:23:19,437
+To borrow $500
+and ask me to join his band.
+
+270
+00:23:20,120 --> 00:23:21,951
+Well, he got his $500.
+
+271
+00:23:22,600 --> 00:23:24,636
+What instrument do you play?
+
+272
+00:23:26,120 --> 00:23:30,432
+How about a big hand for our gorgeous,
+professional lady dancers?
+
+273
+00:23:35,840 --> 00:23:36,829
+Where's Willie?
+
+274
+00:23:36,920 --> 00:23:39,912
+Visiting his ailing stepfather. Why?
+
+275
+00:23:40,040 --> 00:23:42,429
+The Russians are here to see him.
+
+276
+00:23:45,720 --> 00:23:47,392
+I'll handle it. Where's Buster?
+
+277
+00:23:47,680 --> 00:23:49,398
+In the office, sleeping.
+
+278
+00:23:52,800 --> 00:23:54,153
+Good evening, gentlemen.
+
+279
+00:23:54,320 --> 00:23:57,630
+Mr. Hall has been unavoidably detained.
+He may be a trifle late.
+
+280
+00:23:57,720 --> 00:23:59,438
+May I buy you a drink?
+
+281
+00:24:28,920 --> 00:24:30,035
+Mack.
+
+282
+00:24:31,000 --> 00:24:31,955
+Got a minute?
+
+283
+00:25:20,800 --> 00:25:22,950
+Don't forget our deal now, Elwood.
+
+284
+00:25:42,560 --> 00:25:45,757
+You can stop worrying.
+Those Russians won't be back.
+
+285
+00:25:46,000 --> 00:25:50,994
+Those guys are bad mothers, Elwood.
+Serious shit. They kill people.
+
+286
+00:25:52,120 --> 00:25:53,553
+They kill people?
+
+287
+00:25:54,240 --> 00:25:55,639
+Try to understand.
+
+288
+00:25:55,760 --> 00:25:59,673
+Those goons are orphan remnants of
+the post-perestroika Soviet secret police...
+
+289
+00:25:59,760 --> 00:26:04,880
+...who twisted the well-intentioned,
+original Marxist-Leninist doctrine...
+
+290
+00:26:04,960 --> 00:26:08,635
+...using state security, which was
+corrupted by Beria in the '30s.
+
+291
+00:26:08,720 --> 00:26:11,439
+Once a mass populace
+is coerced into such behavior...
+
+292
+00:26:11,520 --> 00:26:16,514
+...a radical shift, like glasnost,
+produces guys like...
+
+293
+00:26:16,600 --> 00:26:20,718
+...headless automata who continue
+the brutish measures...
+
+294
+00:26:20,800 --> 00:26:24,998
+...to which their genes were programmed
+since the fall of the Romanovs.
+
+295
+00:26:25,080 --> 00:26:28,277
+That's great. I feel much better.
+
+296
+00:27:13,680 --> 00:27:18,470
+"Stay away from Willie's.
+Signed, the Masked Avenger."
+
+297
+00:27:38,800 --> 00:27:41,394
+Now, a very special treat, our own...
+
+298
+00:27:41,520 --> 00:27:45,195
+...bartender, Mack McTeer,
+will perform for you tonight.
+
+299
+00:27:46,160 --> 00:27:47,752
+Now, come on.
+
+300
+00:27:50,560 --> 00:27:51,754
+Elwood.
+
+301
+00:27:52,400 --> 00:27:53,594
+What are you doing?
+
+302
+00:27:53,800 --> 00:27:57,156
+I'm sorry. I promised the guy.
+It'll never happen again.
+
+303
+00:28:15,320 --> 00:28:18,517
+"I'm all alone and fancy-free
+
+304
+00:28:18,720 --> 00:28:21,598
+"But that ain't the way I want to be
+
+305
+00:28:23,240 --> 00:28:26,357
+"Now girls, get your game up tight
+
+306
+00:28:26,640 --> 00:28:29,837
+"We're gonna have
+a wing-ding-doodle tonight
+
+307
+00:28:29,920 --> 00:28:32,718
+"For right now I'm lookin' for a fox
+
+308
+00:28:32,800 --> 00:28:36,349
+"I'm lookin' for a fox
+
+309
+00:28:39,920 --> 00:28:42,388
+"Tonight the sky's the limit
+
+310
+00:28:42,480 --> 00:28:45,790
+"I got some money and I'm gonna spend it
+
+311
+00:28:47,320 --> 00:28:49,709
+"It's Saturday night and I wanna play
+
+312
+00:28:50,280 --> 00:28:54,353
+"I'm gonna groove
+till the break of day
+
+313
+00:28:54,440 --> 00:28:59,036
+"I'm lookin' for a fox
+
+314
+00:29:04,200 --> 00:29:06,953
+"Not a brand new pinstripe suit of clothes
+
+315
+00:29:07,800 --> 00:29:10,758
+"Big wide polka-dot tie
+
+316
+00:29:11,520 --> 00:29:14,990
+"Cuff links as big as jaybird eggs
+and look at that
+
+317
+00:29:15,720 --> 00:29:17,870
+"Shoes made out of alligator hide
+
+318
+00:29:17,960 --> 00:29:18,836
+"Wanna see somethin ' else here?
+
+319
+00:29:18,920 --> 00:29:20,876
+"I'm ripe and ready and I'm hot to trot
+
+320
+00:29:20,960 --> 00:29:24,919
+-"Boy, you on fire
+-"You know you can get anything I got
+
+321
+00:29:25,000 --> 00:29:28,993
+-"Two take for two
+-"I got the money if you got the time
+
+322
+00:29:29,080 --> 00:29:33,232
+-"We open all night
+-"All you gotta do is give me a sign
+
+323
+00:29:33,320 --> 00:29:35,595
+"I'm lookin' for a fox"
+
+324
+00:29:45,360 --> 00:29:47,078
+Mack, you know something?
+
+325
+00:29:47,520 --> 00:29:49,750
+You can sing, man.
+
+326
+00:30:04,120 --> 00:30:07,635
+Everyone please leave now!
+
+327
+00:30:27,880 --> 00:30:30,269
+-Where's Buster?
+-I don't know.
+
+328
+00:30:42,640 --> 00:30:43,675
+Gas!
+
+329
+00:31:13,800 --> 00:31:15,199
+Come on! Hurry!
+
+330
+00:31:23,680 --> 00:31:24,829
+Elwood!
+
+331
+00:31:25,720 --> 00:31:26,709
+You okay?
+
+332
+00:31:26,800 --> 00:31:28,153
+The girls get out?
+
+333
+00:31:28,480 --> 00:31:30,198
+Yeah, everyone's fine.
+
+334
+00:31:32,920 --> 00:31:34,911
+Matara, thanks for everything.
+
+335
+00:31:35,200 --> 00:31:36,679
+Time to go.
+
+336
+00:31:59,960 --> 00:32:01,871
+They have automatic weapons.
+
+337
+00:32:02,040 --> 00:32:03,871
+Look in the glove compartment.
+
+338
+00:32:05,280 --> 00:32:08,989
+Carpet tacks.
+They have guns and we have carpet tacks.
+
+339
+00:32:09,120 --> 00:32:11,793
+They're not carpet tacks.
+They're dry-wall nails.
+
+340
+00:32:15,040 --> 00:32:17,679
+Roll down the window. Dump the nails.
+
+341
+00:33:03,560 --> 00:33:06,279
+The Lord works in mysterious ways, Mack.
+
+342
+00:33:06,600 --> 00:33:08,033
+What do you mean?
+
+343
+00:33:08,120 --> 00:33:11,874
+If not for those Russian gangsters
+and you helping me...
+
+344
+00:33:12,160 --> 00:33:14,879
+...I wouldn't have seen you sing.
+You're good.
+
+345
+00:33:14,960 --> 00:33:16,109
+Thank you, Elwood.
+
+346
+00:33:16,520 --> 00:33:20,354
+Since the Russians torched Willie's club,
+he'll need a job.
+
+347
+00:33:20,680 --> 00:33:23,069
+You'll need a job. I'll need a job.
+
+348
+00:33:24,080 --> 00:33:27,231
+So, you'll join the band,
+then we'll all have jobs.
+
+349
+00:33:28,320 --> 00:33:29,992
+-Follow me?
+-Sure.
+
+350
+00:33:34,840 --> 00:33:36,193
+What band?
+
+351
+00:33:53,600 --> 00:33:54,999
+Lieutenant.
+
+352
+00:34:00,200 --> 00:34:02,031
+-Elizondo.
+-Find anything?
+
+353
+00:34:02,240 --> 00:34:04,310
+No bodies, but lots of gunfire.
+
+354
+00:34:04,400 --> 00:34:05,719
+Find the club owner?
+
+355
+00:34:05,920 --> 00:34:07,353
+Not yet.
+
+356
+00:34:07,600 --> 00:34:08,715
+Wait.
+
+357
+00:34:09,640 --> 00:34:11,312
+You better see this.
+
+358
+00:34:24,080 --> 00:34:24,796
+Matt.
+
+359
+00:34:25,440 --> 00:34:27,237
+You finally sell that demonstrator?
+
+360
+00:34:27,520 --> 00:34:30,717
+Check this funky car coming in.
+I got a weird vibe.
+
+361
+00:34:46,760 --> 00:34:49,718
+The suit's real neat,
+but do I have to wear the hat?
+
+362
+00:34:50,320 --> 00:34:55,110
+These are unsophisticated men. They only
+respond to fear and the draw of lucre.
+
+363
+00:34:55,440 --> 00:34:57,749
+We elicit this by using
+iconographic symbols...
+
+364
+00:34:57,840 --> 00:34:59,751
+...and psychological intimidation.
+
+365
+00:34:59,840 --> 00:35:01,478
+The way we look together...
+
+366
+00:35:01,560 --> 00:35:04,393
+...presents a uniform image
+of strength and organization.
+
+367
+00:35:05,200 --> 00:35:08,670
+Don't say anything.
+Look mean. No smiling.
+
+368
+00:35:13,720 --> 00:35:14,994
+Good to see you.
+
+369
+00:35:15,520 --> 00:35:17,636
+Even though that last gig was a nightmare.
+
+370
+00:35:18,520 --> 00:35:21,956
+Boys, meet my new partner in the act,
+Mighty Mack.
+
+371
+00:35:22,040 --> 00:35:25,032
+Mack, "Blue Lou" Marini,
+Matt "Guitar" Murphy.
+
+372
+00:35:26,200 --> 00:35:27,394
+Mighty Mack.
+
+373
+00:35:27,480 --> 00:35:28,993
+So, what's this about?
+
+374
+00:35:29,760 --> 00:35:31,432
+Putting the band back together.
+
+375
+00:35:31,720 --> 00:35:33,676
+You can't mention that here.
+
+376
+00:35:34,160 --> 00:35:35,878
+She's back from lunch.
+
+377
+00:35:43,480 --> 00:35:44,549
+Elwood.
+
+378
+00:35:45,080 --> 00:35:46,035
+Ma'am.
+
+379
+00:35:46,680 --> 00:35:48,238
+Sorry to hear about Jake.
+
+380
+00:35:48,760 --> 00:35:50,034
+Thank you, ma'am.
+
+381
+00:35:50,400 --> 00:35:51,435
+Who's this?
+
+382
+00:35:52,320 --> 00:35:54,550
+My new partner, Mack McTeer.
+
+383
+00:35:54,840 --> 00:35:55,875
+Pleased to meet you.
+
+384
+00:35:58,080 --> 00:36:00,469
+Matt, can I speak to you privately?
+
+385
+00:36:00,640 --> 00:36:01,755
+Sure, baby.
+
+386
+00:36:04,880 --> 00:36:08,475
+When you got out of prison,
+you said, "No more Blues Brothers."
+
+387
+00:36:08,680 --> 00:36:10,113
+Yes, I did.
+
+388
+00:36:10,200 --> 00:36:15,320
+We've built up a good business using
+the cash from the sale of the coffee shop...
+
+389
+00:36:15,440 --> 00:36:19,228
+...to start this Mercedes dealership.
+What's wrong with you?
+
+390
+00:36:21,160 --> 00:36:23,993
+And I keep your pathetic friend on...
+
+391
+00:36:24,160 --> 00:36:27,232
+...even though he hasn't sold a car
+in over two years.
+
+392
+00:36:27,560 --> 00:36:29,755
+Yes, you have, and no, he hasn't.
+
+393
+00:36:29,840 --> 00:36:31,592
+You talk straight with me.
+
+394
+00:36:31,680 --> 00:36:32,874
+I always do.
+
+395
+00:36:32,960 --> 00:36:35,554
+And treat me with respect at all times.
+
+396
+00:36:35,760 --> 00:36:36,715
+I do, baby.
+
+397
+00:36:37,000 --> 00:36:39,958
+You know what I mean when I say respect?
+
+398
+00:36:48,080 --> 00:36:52,471
+"What you want, baby I got it
+
+399
+00:36:53,080 --> 00:36:54,149
+"What you need
+
+400
+00:36:54,240 --> 00:36:56,117
+"you know I got it
+
+401
+00:36:56,800 --> 00:36:58,153
+"All I'm asking
+
+402
+00:36:58,880 --> 00:37:01,394
+"is for a little respect
+when you come home
+
+403
+00:37:01,480 --> 00:37:03,948
+"Hey, baby
+
+404
+00:37:04,040 --> 00:37:05,792
+"When you come home
+
+405
+00:37:09,000 --> 00:37:11,912
+"l ain't gonna do you wrong
+while you're gone
+
+406
+00:37:12,800 --> 00:37:16,190
+"l ain't gonna do you wrong
+'cause I don't wanna
+
+407
+00:37:16,920 --> 00:37:18,148
+"All I'm asking
+
+408
+00:37:18,840 --> 00:37:21,673
+"is for a little respect
+when you come home
+
+409
+00:37:21,760 --> 00:37:24,558
+"Baby, when you come home
+
+410
+00:37:24,640 --> 00:37:27,950
+"Just a little bit
+
+411
+00:37:28,040 --> 00:37:32,158
+"I'm about to give you all my money
+
+412
+00:37:32,920 --> 00:37:36,276
+"And all I'm asking in return, honey
+
+413
+00:37:36,960 --> 00:37:40,748
+"ls to give me my profits
+when you get home
+
+414
+00:38:04,360 --> 00:38:07,796
+"Your kiss is sweeter than honey
+
+415
+00:38:07,880 --> 00:38:12,032
+"and guess what so is my money
+
+416
+00:38:13,080 --> 00:38:16,197
+"All I need is just a little respect from you
+
+417
+00:38:16,280 --> 00:38:20,398
+"when you get home, baby
+
+418
+00:38:20,480 --> 00:38:23,677
+"Just a little bit
+
+419
+00:38:23,760 --> 00:38:27,673
+"R-E-S-P-E-C-T
+Find out what it means to me
+
+420
+00:38:27,760 --> 00:38:31,639
+"R-E-S-P-E-C-T take out the T-C-P
+
+421
+00:38:34,440 --> 00:38:36,192
+"Sock it to me
+
+422
+00:38:37,240 --> 00:38:38,639
+"Yeah, baby
+
+423
+00:38:40,240 --> 00:38:41,116
+"Sock it
+
+424
+00:38:41,200 --> 00:38:42,110
+"l don't want much
+
+425
+00:38:42,200 --> 00:38:45,078
+"Sock it to me
+
+426
+00:38:45,160 --> 00:38:48,197
+"Baby, I'm telling you
+
+427
+00:38:48,280 --> 00:38:51,192
+"A little respect, oh yeah
+
+428
+00:38:51,280 --> 00:38:54,113
+"Give it to me all over the world
+
+429
+00:38:54,200 --> 00:38:56,919
+"l get my respect
+
+430
+00:38:57,000 --> 00:39:00,356
+"Yes, I do, it's an everyday thing
+
+431
+00:39:00,440 --> 00:39:02,510
+"I'm telling you it is
+
+432
+00:39:04,680 --> 00:39:08,719
+"Wherever I go
+
+433
+00:39:08,800 --> 00:39:11,872
+"All over the world I need respect
+
+434
+00:39:11,960 --> 00:39:13,996
+"Yes, I do
+
+435
+00:39:14,080 --> 00:39:17,550
+"l deserve respect"
+
+436
+00:39:19,960 --> 00:39:23,157
+Listen, Matt. You ain't all of that, cat.
+
+437
+00:39:23,240 --> 00:39:26,118
+And Elwood, you ain't no good.
+
+438
+00:39:31,080 --> 00:39:34,868
+Matt, this is something
+I really don't want you to do.
+
+439
+00:39:38,040 --> 00:39:42,830
+For heaven's sake, if this is what
+you'll be like to live with, go ahead.
+
+440
+00:39:44,000 --> 00:39:44,989
+Thanks, baby.
+
+441
+00:39:45,160 --> 00:39:46,434
+Let's go.
+
+442
+00:39:46,680 --> 00:39:47,954
+Elwood...
+
+443
+00:39:48,600 --> 00:39:52,229
+...you boys,
+please stay out of trouble this time.
+
+444
+00:39:54,240 --> 00:39:57,198
+Dunn and Cropper, WEXR.
+
+445
+00:39:57,640 --> 00:40:00,359
+Chicagoland talk radio.
+
+446
+00:40:00,440 --> 00:40:02,715
+-This is Dunn and Cropper.
+-Cropper and Dunn.
+
+447
+00:40:02,800 --> 00:40:05,792
+On WEXR, 103.7 talk radio.
+
+448
+00:40:06,000 --> 00:40:09,629
+Today's topic: Automatic life terms
+for three-time felony offenders.
+
+449
+00:40:09,800 --> 00:40:11,279
+Let us hear your opinion.
+
+450
+00:40:12,720 --> 00:40:14,199
+You're on the air.
+
+451
+00:40:14,280 --> 00:40:19,115
+I am not in favor
+of this triple felony legislation.
+
+452
+00:40:19,240 --> 00:40:20,150
+Why?
+
+453
+00:40:20,240 --> 00:40:24,028
+I'm a recently released inmate,
+starting a new life...
+
+454
+00:40:24,240 --> 00:40:26,595
+...but with a five-felony record--
+
+455
+00:40:26,680 --> 00:40:28,830
+I think I know that voice.
+
+456
+00:40:29,080 --> 00:40:32,197
+What chance do I have
+if I make one more mistake?
+
+457
+00:40:32,280 --> 00:40:36,432
+One more time, I could go down for life.
+It's not fair.
+
+458
+00:40:37,200 --> 00:40:40,237
+My question is, how can you goddamn...
+
+459
+00:40:40,360 --> 00:40:42,555
+...shit-spewing media sluts--
+
+460
+00:40:43,040 --> 00:40:45,713
+Thank you. Now a commercial.
+
+461
+00:40:45,800 --> 00:40:48,030
+Steve, that sounded a lot like--
+
+462
+00:40:48,320 --> 00:40:49,469
+Elwood J. Blues.
+
+463
+00:40:53,560 --> 00:40:54,754
+No place to run.
+
+464
+00:40:54,840 --> 00:40:56,592
+And no place to hide.
+
+465
+00:41:01,520 --> 00:41:04,876
+I know your trumpet player's
+a funeral director now.
+
+466
+00:41:05,000 --> 00:41:07,309
+But cemeteries give me the creeps.
+
+467
+00:41:07,480 --> 00:41:10,756
+He'll be the most difficult. Follow my lead.
+
+468
+00:41:13,960 --> 00:41:16,997
+Lay to rest Nicholas Tsetsevkaya.
+
+469
+00:41:17,920 --> 00:41:20,434
+A young man cut down too soon...
+
+470
+00:41:21,200 --> 00:41:22,918
+...by violent enemies.
+
+471
+00:41:23,240 --> 00:41:26,550
+Will you get lost?
+Do you know who these people are?
+
+472
+00:41:27,200 --> 00:41:28,474
+Who's he?
+
+473
+00:41:28,560 --> 00:41:29,959
+What's with the monkey?
+
+474
+00:41:30,040 --> 00:41:32,918
+That's my associate, Buster Blues.
+
+475
+00:41:33,040 --> 00:41:35,600
+This is Mighty Mack, my new lead singer.
+
+476
+00:41:35,680 --> 00:41:37,511
+So, that's what this is about?
+
+477
+00:41:37,880 --> 00:41:39,757
+Forget it. Goodbye.
+
+478
+00:41:39,840 --> 00:41:40,909
+Mr. Fabulous...
+
+479
+00:41:41,000 --> 00:41:44,276
+...when should we come back for the rings
+and watch off the corpse?
+
+480
+00:41:46,720 --> 00:41:49,393
+And is the medical school buying his dick?
+
+481
+00:41:50,640 --> 00:41:51,868
+We're dead now.
+
+482
+00:42:32,560 --> 00:42:36,030
+Since I've been working for Ed
+and Mr. Pickett, I haven't looked back.
+
+483
+00:42:36,120 --> 00:42:37,712
+These guys are amazing.
+
+484
+00:42:47,040 --> 00:42:48,792
+What do you want, Elwood?
+
+485
+00:42:49,520 --> 00:42:51,476
+I'm putting the band back together.
+
+486
+00:42:51,840 --> 00:42:54,149
+We need Murph on the keyboards.
+
+487
+00:42:54,440 --> 00:42:55,475
+I see.
+
+488
+00:42:55,720 --> 00:42:57,790
+I won't go without your say-so.
+
+489
+00:42:59,840 --> 00:43:04,152
+Murph says you're in publishing,
+telephone sales and matrimonial services?
+
+490
+00:43:04,360 --> 00:43:05,475
+Yes, we are.
+
+491
+00:43:06,120 --> 00:43:08,839
+Just what is it that you do exactly?
+
+492
+00:43:09,680 --> 00:43:11,910
+I'm 18 years old. I'm blonde.
+
+493
+00:43:12,200 --> 00:43:16,512
+I'm 36-24-36, and my name is Bambi.
+
+494
+00:43:16,800 --> 00:43:20,110
+"lf you need a little lovin'
+
+495
+00:43:20,600 --> 00:43:22,909
+"Call on me
+
+496
+00:43:25,200 --> 00:43:29,113
+"lf you want some kissin'
+
+497
+00:43:29,200 --> 00:43:31,589
+"Call me, baby
+
+498
+00:43:35,520 --> 00:43:37,511
+"I'll be right home
+
+499
+00:43:37,800 --> 00:43:41,998
+"All you got to do is pick up the telephone
+
+500
+00:43:42,080 --> 00:43:43,069
+"And dial now
+
+501
+00:43:43,360 --> 00:43:46,830
+"634-5789
+
+502
+00:43:46,920 --> 00:43:48,592
+"That's my number
+
+503
+00:43:51,720 --> 00:43:54,393
+"lf you need some huggin'
+
+504
+00:43:55,160 --> 00:43:57,276
+"Call on me
+
+505
+00:43:59,360 --> 00:44:03,035
+"lf you want some kissin'
+
+506
+00:44:03,920 --> 00:44:06,673
+"Call on me, baby
+
+507
+00:44:08,200 --> 00:44:10,236
+"No more lonely nights
+
+508
+00:44:10,320 --> 00:44:12,151
+"We'll be alone
+
+509
+00:44:12,440 --> 00:44:17,070
+"All you got to do is pick up the telephone
+And dial
+
+510
+00:44:17,600 --> 00:44:20,876
+"634-5789
+
+511
+00:44:21,400 --> 00:44:23,277
+"That's my number
+
+512
+00:44:26,800 --> 00:44:29,519
+"Oh, I'll be right there
+
+513
+00:44:31,200 --> 00:44:33,998
+"Just as soon as I can
+
+514
+00:44:34,800 --> 00:44:38,110
+"lf I be a little bit late
+
+515
+00:44:38,600 --> 00:44:41,717
+"l hope that you'll understand
+
+516
+00:45:25,880 --> 00:45:28,917
+"lf you need a little lovin'
+
+517
+00:45:30,480 --> 00:45:32,118
+"You can call on me
+
+518
+00:45:34,480 --> 00:45:37,711
+"lf you want some of my kissin'
+
+519
+00:45:37,800 --> 00:45:39,836
+"Call on me
+
+520
+00:45:43,560 --> 00:45:45,391
+"No more lonely nights
+
+521
+00:45:45,480 --> 00:45:47,311
+"We will be alone
+
+522
+00:45:47,400 --> 00:45:51,234
+"All you got to do is
+call me on the telephone
+
+523
+00:45:51,320 --> 00:45:53,151
+"And dial
+
+524
+00:45:56,000 --> 00:45:57,797
+"That's my number, baby
+
+525
+00:46:04,800 --> 00:46:06,597
+"That's our number
+
+526
+00:46:17,200 --> 00:46:19,714
+"You can reach the Love Exchange
+
+527
+00:46:20,200 --> 00:46:22,794
+"Call Ed's Love Exchange"
+
+528
+00:46:28,440 --> 00:46:31,000
+Charlie, would I lie to you?
+
+529
+00:46:31,280 --> 00:46:34,477
+Charlie, take it easy. That's all in the past.
+
+530
+00:46:36,400 --> 00:46:40,075
+He hung up on me.
+A lot of burnt bridges, Mr. Blues.
+
+531
+00:46:40,720 --> 00:46:44,633
+I know you can book us somewhere.
+You're still the best.
+
+532
+00:46:46,120 --> 00:46:47,712
+Ever hear of Queen Moussette?
+
+533
+00:46:47,800 --> 00:46:50,394
+The Louisiana witch, Queen Moussette?
+
+534
+00:46:50,600 --> 00:46:55,116
+That's her. She has a "Battle of the Bands"
+going on at her club.
+
+535
+00:46:55,200 --> 00:46:59,352
+Big cash prize. Your band wins,
+I get 15 percent of the take.
+
+536
+00:47:01,520 --> 00:47:04,353
+I'll book you a couple of gigs
+on the way to Louisiana.
+
+537
+00:47:04,720 --> 00:47:06,472
+Golly, thanks, Mr. Sline.
+
+538
+00:47:07,120 --> 00:47:08,394
+Let go of me.
+
+539
+00:47:08,560 --> 00:47:09,675
+Sorry.
+
+540
+00:47:12,040 --> 00:47:15,077
+One more thing. You'll have to audition
+for Queen Moussette.
+
+541
+00:47:15,160 --> 00:47:16,912
+Don't tell the boys about this.
+
+542
+00:47:18,320 --> 00:47:20,959
+We'll call to find out where our first gig is.
+
+543
+00:47:21,080 --> 00:47:22,832
+Just be careful, Elwood.
+
+544
+00:47:26,560 --> 00:47:28,073
+Alan Rubin.
+
+545
+00:47:28,400 --> 00:47:31,312
+Mr. Fabulous.
+
+546
+00:47:31,560 --> 00:47:32,993
+Mr. Fabulous.
+
+547
+00:47:36,920 --> 00:47:39,150
+The Blues Brothers Band.
+
+548
+00:47:49,760 --> 00:47:53,036
+You're going to love them.
+They're absolutely sensational.
+
+549
+00:47:53,240 --> 00:47:56,118
+Really sensational.
+They're a great blues band.
+
+550
+00:47:56,560 --> 00:48:00,553
+Yeah, blues band.
+No, blues, not bluegrass.
+
+551
+00:48:01,520 --> 00:48:03,351
+You don't want a blues band?
+
+552
+00:48:03,480 --> 00:48:04,515
+Bluegrass.
+
+553
+00:48:06,840 --> 00:48:09,912
+They're the Bluegrass Brothers.
+They're wonderful.
+
+554
+00:48:10,000 --> 00:48:12,719
+They absolutely pulverize an audience.
+
+555
+00:48:13,040 --> 00:48:16,874
+You're going to call and thank me.
+The Bluegrass Brothers.
+
+556
+00:48:29,480 --> 00:48:32,358
+Our first date is at the county fair...
+
+557
+00:48:32,640 --> 00:48:34,870
+...in Cynthiana, Kentucky...
+
+558
+00:48:35,240 --> 00:48:39,313
+...and then we have this mystery gig
+in Louisiana.
+
+559
+00:48:41,440 --> 00:48:42,714
+Mystery gig?
+
+560
+00:48:43,040 --> 00:48:45,315
+Elwood, you got the keys to the trunk?
+
+561
+00:48:53,400 --> 00:48:54,469
+It's full.
+
+562
+00:48:54,680 --> 00:48:57,240
+I haven't played a county fair since '68.
+
+563
+00:48:57,440 --> 00:48:59,590
+Sounds like a lot of laughs.
+
+564
+00:49:01,440 --> 00:49:03,237
+We're back on the road again.
+
+565
+00:49:03,320 --> 00:49:05,072
+Who are you, Willie Nelson?
+
+566
+00:49:06,160 --> 00:49:07,195
+I'll ride with Elwood.
+
+567
+00:49:07,280 --> 00:49:09,350
+Go right ahead, Mr. Thrill-Seeker.
+
+568
+00:49:10,320 --> 00:49:11,639
+Excuse me, sir.
+
+569
+00:49:14,280 --> 00:49:16,350
+Didn't you used to be Elwood Blues?
+
+570
+00:49:16,880 --> 00:49:17,835
+Who's asking?
+
+571
+00:49:17,920 --> 00:49:20,195
+I've listened to your stuff since I was a kid.
+
+572
+00:49:20,280 --> 00:49:21,713
+Yeah, so?
+
+573
+00:49:21,840 --> 00:49:25,628
+My friends and I have a band.
+We're rehearsing nearby.
+
+574
+00:49:25,880 --> 00:49:30,396
+It would be so cool, and mean so much
+to me, if you'd come listen to us play.
+
+575
+00:49:31,080 --> 00:49:34,516
+Sure. Go get started
+and I'll be there in a minute.
+
+576
+00:49:35,080 --> 00:49:36,433
+Great.
+
+577
+00:49:42,200 --> 00:49:44,919
+Let's highball!
+
+578
+00:51:24,840 --> 00:51:26,273
+Mr. Blues?
+
+579
+00:51:27,120 --> 00:51:31,477
+-It's been almost seven days, Mother Mary.
+-We must call the police.
+
+580
+00:51:31,640 --> 00:51:34,677
+Kidnapping is a federal offence.
+
+581
+00:51:36,160 --> 00:51:37,798
+I suppose you're right.
+
+582
+00:51:38,120 --> 00:51:39,997
+We should call the police.
+
+583
+00:51:49,240 --> 00:51:50,070
+Sir.
+
+584
+00:51:51,280 --> 00:51:55,512
+We just received a call.
+Elwood Blues has kidnapped a child.
+
+585
+00:52:26,680 --> 00:52:27,749
+Roachdale 31.
+
+586
+00:53:04,840 --> 00:53:07,957
+-Wait.
+-I got a cheeseburger cooling, man.
+
+587
+00:53:08,280 --> 00:53:11,875
+Buster, I'm sorry,
+you'll have to see a bad side of me.
+
+588
+00:53:11,960 --> 00:53:14,030
+Mack, your shaving cream.
+
+589
+00:53:14,320 --> 00:53:16,550
+So none of you are driving that Ford?
+
+590
+00:53:17,040 --> 00:53:18,268
+No.
+
+591
+00:53:24,080 --> 00:53:26,469
+And whose dry white toast is that?
+
+592
+00:53:31,160 --> 00:53:33,310
+Run for your lives!
+
+593
+00:53:36,120 --> 00:53:39,351
+My God, help us! Somebody help us!
+
+594
+00:53:39,480 --> 00:53:43,439
+He's having an attack!
+It's puffball bacteria!
+
+595
+00:53:43,760 --> 00:53:45,478
+It's extremely contagious!
+
+596
+00:53:45,560 --> 00:53:47,152
+What in Sam Hill?
+
+597
+00:53:47,320 --> 00:53:49,880
+Run away! Oh, God!
+
+598
+00:53:53,720 --> 00:53:56,598
+It's puffball bacteria! It's contagious!
+
+599
+00:53:56,920 --> 00:53:58,353
+Save yourselves!
+
+600
+00:54:05,320 --> 00:54:07,072
+Save yourselves!
+
+601
+00:54:08,400 --> 00:54:10,960
+Save yourselves! Save yourselves!
+
+602
+00:54:40,920 --> 00:54:43,639
+Hot damn. That's quite a trick.
+
+603
+00:54:44,080 --> 00:54:48,710
+That white trash ex-con
+invented criminally evasive driving.
+
+604
+00:54:49,040 --> 00:54:50,792
+He kidnapped a little--
+
+605
+00:54:53,760 --> 00:54:55,239
+Get after him!
+
+606
+00:55:32,280 --> 00:55:33,190
+Murph?
+
+607
+00:55:33,600 --> 00:55:34,635
+Go ahead.
+
+608
+00:55:35,080 --> 00:55:36,672
+See you at the gig.
+
+609
+00:55:37,760 --> 00:55:39,830
+Where is the gig?
+
+610
+00:55:40,280 --> 00:55:44,876
+County fairgrounds, off Route 107,
+Cynthiana, Kentucky, 11 PM tomorrow.
+
+611
+00:55:45,640 --> 00:55:46,709
+See you there.
+
+612
+00:55:49,040 --> 00:55:52,715
+How will he get there
+with all the cops after him?
+
+613
+00:55:54,360 --> 00:55:55,634
+Wait a minute.
+
+614
+00:55:57,320 --> 00:56:00,198
+Don't I know you boys from somewhere?
+
+615
+00:56:03,840 --> 00:56:05,034
+Check, please.
+
+616
+00:56:19,880 --> 00:56:22,997
+We have to get off this road.
+They've called ahead by now.
+
+617
+00:56:24,080 --> 00:56:28,278
+Two miles down, get off this
+and on County Road 245 to Mariah Hill.
+
+618
+00:56:28,360 --> 00:56:30,669
+That'll get us close to the State line.
+
+619
+00:56:31,160 --> 00:56:32,718
+We have to lose them first.
+
+620
+00:56:37,880 --> 00:56:39,313
+You passed the turn.
+
+621
+00:56:39,400 --> 00:56:40,355
+I know.
+
+622
+00:56:47,960 --> 00:56:50,110
+You're hoping they lost interest?
+
+623
+00:57:38,560 --> 00:57:41,028
+This is Agent Peters
+and Agent Bowman, FBl.
+
+624
+00:57:41,160 --> 00:57:42,513
+Good to have you here.
+
+625
+00:57:43,000 --> 00:57:45,514
+Elwood Blues is a menace
+to decent people.
+
+626
+00:57:45,600 --> 00:57:48,068
+We'll get him, sir. That's a promise.
+
+627
+00:57:48,920 --> 00:57:51,514
+Every lawman in two states
+is on this border.
+
+628
+00:57:51,600 --> 00:57:54,160
+Let him try to get past this roadblock.
+
+629
+00:58:00,720 --> 00:58:02,233
+Roll up your windows.
+
+630
+00:58:37,240 --> 00:58:39,196
+How long can we stay down here?
+
+631
+00:58:39,560 --> 00:58:41,630
+How long can you hold your breath?
+
+632
+00:59:10,400 --> 00:59:11,276
+Am I right?
+
+633
+00:59:11,360 --> 00:59:12,634
+Yes, sir.
+
+634
+00:59:13,720 --> 00:59:15,039
+I said, am I right?
+
+635
+00:59:15,120 --> 00:59:16,109
+Yes, sir.
+
+636
+00:59:16,200 --> 00:59:18,111
+I can't hear you!
+
+637
+00:59:18,440 --> 00:59:19,555
+Yes, sir!
+
+638
+00:59:20,520 --> 00:59:23,796
+You may think we're just a group
+of sorry son-bitches...
+
+639
+00:59:23,880 --> 00:59:26,110
+...out here jerking each other off.
+
+640
+00:59:27,960 --> 00:59:31,236
+Or you may just think
+that we know something.
+
+641
+00:59:32,880 --> 00:59:34,757
+I'll tell you something else.
+
+642
+00:59:36,520 --> 00:59:38,795
+The federal government has a computer.
+
+643
+00:59:40,280 --> 00:59:42,999
+This computer is wired...
+
+644
+00:59:43,320 --> 00:59:46,517
+...to a computer in Jerusalem...
+
+645
+00:59:47,800 --> 00:59:49,711
+...and Moscow.
+
+646
+00:59:50,600 --> 00:59:52,511
+There's something in the river.
+
+647
+00:59:52,800 --> 00:59:53,630
+Where?
+
+648
+00:59:53,880 --> 00:59:56,189
+I saw something under the water, sir.
+
+649
+00:59:57,560 --> 00:59:58,675
+Son...
+
+650
+01:00:00,400 --> 01:00:02,675
+...it's okay to be nervous.
+
+651
+01:00:04,040 --> 01:00:06,554
+There are enough explosives in that boat...
+
+652
+01:00:06,760 --> 01:00:09,399
+...to blow up every post office
+in the country.
+
+653
+01:00:09,800 --> 01:00:13,713
+But nobody knows we're here.
+Nobody knows our plans.
+
+654
+01:00:33,920 --> 01:00:35,592
+You guys having a picnic?
+
+655
+01:00:37,800 --> 01:00:40,030
+Don't shoot! You might hit the boat!
+
+656
+01:00:41,720 --> 01:00:42,914
+What boat?
+
+657
+01:00:43,120 --> 01:00:48,240
+That's the international Jewish,
+communist conspiracy in action, people.
+
+658
+01:00:48,600 --> 01:00:51,558
+One of their spy satellites
+picked up our location.
+
+659
+01:00:53,640 --> 01:00:54,709
+Kill them!
+
+660
+01:01:13,560 --> 01:01:15,516
+-Did you hear something?
+-Nope.
+
+661
+01:01:22,360 --> 01:01:25,591
+-You sure they'll come?
+-They're booked here. They'll come.
+
+662
+01:01:33,120 --> 01:01:35,236
+More stunts coming up...
+
+663
+01:01:35,400 --> 01:01:39,678
+...and only 20 minutes
+until the wonderful Bluegrass Brothers.
+
+664
+01:01:56,880 --> 01:01:59,758
+These will make us look
+a lot more bluegrass.
+
+665
+01:02:02,560 --> 01:02:04,915
+I'll fake some fiddle on my keyboard.
+
+666
+01:02:07,800 --> 01:02:10,394
+We go on after the last car stunt.
+
+667
+01:02:11,320 --> 01:02:14,198
+How will Elwood, Mack and the kid...
+
+668
+01:02:14,520 --> 01:02:17,557
+...get to the stage
+with all the police around?
+
+669
+01:02:22,360 --> 01:02:23,918
+I like the car this color.
+
+670
+01:02:24,000 --> 01:02:27,515
+It's temporary camouflage, that's all.
+
+671
+01:02:40,640 --> 01:02:42,039
+All right. Go on.
+
+672
+01:02:47,120 --> 01:02:51,193
+Lots of heat here.
+Maybe we ought to skip this gig.
+
+673
+01:02:54,200 --> 01:02:57,909
+That would be unprofessional.
+Park it somewhere dark.
+
+674
+01:03:20,440 --> 01:03:21,475
+Now...
+
+675
+01:03:21,560 --> 01:03:24,120
+...the Devil Drivers' star, Rick Avery...
+
+676
+01:03:24,440 --> 01:03:29,230
+...does the triple-ramp loop
+through the ring of fire!
+
+677
+01:04:13,400 --> 01:04:18,110
+Now the county fair is proud to present
+tonight's musical entertainment...
+
+678
+01:04:18,360 --> 01:04:21,079
+...the Kentucky Bluegrass Brothers!
+
+679
+01:04:21,400 --> 01:04:23,231
+What's with the hats and beards?
+
+680
+01:04:23,320 --> 01:04:24,594
+You look like ZZ Top.
+
+681
+01:04:24,680 --> 01:04:27,638
+Sline booked us in here
+as a bluegrass band.
+
+682
+01:04:33,880 --> 01:04:36,440
+Thank you so much, and howdy.
+
+683
+01:04:36,760 --> 01:04:38,671
+Howdy!
+
+684
+01:04:38,920 --> 01:04:39,636
+Howdy.
+
+685
+01:04:39,720 --> 01:04:41,312
+Howdy!
+
+686
+01:04:41,800 --> 01:04:46,237
+Good to see your smiling faces.
+We'd like to see you a little bit closer.
+
+687
+01:04:46,320 --> 01:04:48,231
+Come on down out of the stands.
+
+688
+01:04:55,400 --> 01:04:57,311
+Come close to the stage.
+
+689
+01:05:03,320 --> 01:05:04,309
+Bluegrass?
+
+690
+01:05:05,320 --> 01:05:06,355
+Riders.
+
+691
+01:05:06,520 --> 01:05:08,988
+Duck, mountain tempo in A minor.
+
+692
+01:05:19,240 --> 01:05:24,519
+"That old cowpoke went ridin' out
+one dark and windy day
+
+693
+01:05:24,600 --> 01:05:29,720
+"Upon a ridge he rested
+as he went along his way
+
+694
+01:05:29,800 --> 01:05:33,315
+"When all at once a mighty herd
+of red-eyed cows he saw
+
+695
+01:05:33,400 --> 01:05:36,676
+"A plowin ' through the ragged skies
+
+696
+01:05:36,760 --> 01:05:39,672
+"And up a cloudy draw
+
+697
+01:05:47,280 --> 01:05:55,153
+"The ghost herd in the sky
+
+698
+01:05:55,240 --> 01:05:59,631
+"Their brands were still on fire
+and their hooves were made of steel"
+
+699
+01:06:01,600 --> 01:06:03,397
+Excuse me. Step aside.
+
+700
+01:06:03,480 --> 01:06:05,675
+Take your men behind the stage.
+
+701
+01:06:05,960 --> 01:06:09,032
+"A bolt of fear went through 'em
+as they thundered through the sky
+
+702
+01:06:09,120 --> 01:06:12,715
+"For they saw the riders comin' hard
+
+703
+01:06:12,800 --> 01:06:16,236
+"And they heard their mournful cry
+
+704
+01:06:24,440 --> 01:06:30,276
+"Ghost riders in the sky
+
+705
+01:06:32,800 --> 01:06:37,476
+"Their faces gaunt, their eyes were blurred
+their shirts all soaked with sweat
+
+706
+01:06:37,840 --> 01:06:41,310
+"They're ridin ' hard to catch that herd
+but they ain 't caught 'em yet
+
+707
+01:06:41,400 --> 01:06:44,995
+"'Cause they got to ride forever
+in that range up in the sky
+
+708
+01:06:45,080 --> 01:06:48,390
+"On horses snortin ' fire

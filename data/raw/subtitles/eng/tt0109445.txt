@@ -1,0 +1,7841 @@
+1
+00:00:35,302 --> 00:00:38,639
+[ Telephone Ringing ]
+
+2
+00:00:41,742 --> 00:00:44,144
+[ Ringing Continues ]
+
+3
+00:01:00,761 --> 00:01:03,363
+Hello.
+
+4
+00:01:03,430 --> 00:01:05,799
+What ?
+
+5
+00:01:05,866 --> 00:01:09,269
+No, l don't work today.
+
+6
+00:01:09,303 --> 00:01:11,572
+I'm playing hockey at 2:00.
+
+7
+00:01:14,107 --> 00:01:17,211
+Why don't you call Randal ?
+
+8
+00:01:17,277 --> 00:01:19,880
+'Cause I'm fuckin' tired !
+
+9
+00:01:21,615 --> 00:01:24,885
+I just closed last night.
+
+10
+00:01:24,952 --> 00:01:26,887
+Jesus.
+
+11
+00:01:26,954 --> 00:01:30,257
+What time do you think
+you're gonna come in, 12:00 ?
+
+12
+00:01:32,326 --> 00:01:35,162
+Be there by 12:00 ? Where ?
+
+13
+00:01:35,229 --> 00:01:38,765
+Swear you'll be there by 12:00
+and I'll do it.
+
+14
+00:01:38,832 --> 00:01:41,335
+12:00, or l walk.
+
+15
+00:01:49,877 --> 00:01:52,312
+[ Slurping ]
+
+16
+00:02:18,772 --> 00:02:22,676
+<MUSIC> it's a meaningless end
+to the story <MUSIC>
+
+17
+00:02:22,776 --> 00:02:26,980
+<MUSIC> Got no time
+for the forgotten glory <MUSIC>
+
+18
+00:02:27,047 --> 00:02:31,018
+<MUSIC> And now just
+when l know what I'm after <MUSIC>
+
+19
+00:02:31,084 --> 00:02:35,055
+<MUSIC> it just brings me to laughter <MUSIC>
+
+20
+00:02:35,122 --> 00:02:39,026
+- <MUSIC> Just save up
+all your nickels and dimes <MUSIC>
+- [ Engine Starts ]
+
+21
+00:02:39,092 --> 00:02:43,864
+- <MUSIC> Let's see what you find
+and you know <MUSIC>
+- [ Tires Screeching ]
+
+22
+00:02:43,931 --> 00:02:48,168
+<MUSIC> I guess I'm livin' day to day <MUSIC>
+
+23
+00:02:48,268 --> 00:02:52,873
+<MUSIC> Just in case you feel
+led astray, hell, yeah <MUSIC>
+
+24
+00:02:52,940 --> 00:02:56,343
+<MUSIC> I guess I'm livin' day to day <MUSIC>
+
+25
+00:02:56,376 --> 00:02:59,546
+<MUSIC> Hear what l say, yeah <MUSIC>
+
+26
+00:02:59,613 --> 00:03:04,184
+<MUSIC> Just save up
+all your nickels and dimes <MUSIC>
+
+27
+00:03:04,251 --> 00:03:07,855
+<MUSIC> Let's see what you find
+and you know <MUSIC>
+
+28
+00:03:16,263 --> 00:03:19,700
+<MUSIC> I'd just die for a piece
+of that pie but <MUSIC>
+
+29
+00:03:19,733 --> 00:03:24,505
+<MUSIC> I'll be glad to just feast
+on that pie crust <MUSIC>
+
+30
+00:03:24,571 --> 00:03:28,375
+<MUSIC> And now just
+when l know what I'm after <MUSIC>
+
+31
+00:03:28,475 --> 00:03:31,712
+- <MUSIC> it just brings me to laughter <MUSIC>
+- Shit !
+
+32
+00:03:31,778 --> 00:03:36,216
+<MUSIC> Just save up
+all your nickels and dimes <MUSIC>
+
+33
+00:03:36,316 --> 00:03:41,355
+<MUSIC> Let's see what you find
+and you know <MUSIC>
+
+34
+00:03:41,421 --> 00:03:45,359
+<MUSIC> I guess I'm livin' day to day <MUSIC>
+
+35
+00:03:45,425 --> 00:03:50,030
+<MUSIC> Just so glad to be led astray
+Hell, yeah <MUSIC>
+
+36
+00:03:50,097 --> 00:03:52,699
+<MUSIC> I guess I'm livin' day to day <MUSIC>
+
+37
+00:03:52,799 --> 00:03:55,202
+<MUSIC> Hear what l say <MUSIC>
+
+38
+00:03:55,269 --> 00:03:57,738
+<MUSIC> Well <MUSIC>
+
+39
+00:04:29,203 --> 00:04:33,507
+<MUSIC> it's a meaningless end
+to the story <MUSIC>
+
+40
+00:04:33,607 --> 00:04:37,511
+<MUSIC> Got no time
+for the forgotten glory <MUSIC>
+
+41
+00:04:37,611 --> 00:04:41,348
+<MUSIC> And now just
+when l know what I'm after <MUSIC>
+
+42
+00:04:41,448 --> 00:04:45,919
+<MUSIC> it just brings me to laughter <MUSIC>
+
+43
+00:04:45,986 --> 00:04:50,057
+<MUSIC> Just save up
+all your nickels and dimes <MUSIC>
+
+44
+00:04:50,090 --> 00:04:54,695
+<MUSIC> Let's see what you find
+and you know <MUSIC>
+
+45
+00:04:54,761 --> 00:04:58,732
+<MUSIC> I guess I'm livin' day to day <MUSIC>
+
+46
+00:04:58,765 --> 00:05:01,535
+<MUSIC> Just hopin' to be led astray <MUSIC>
+
+47
+00:05:01,602 --> 00:05:04,037
+<MUSIC> Hell, yeah <MUSIC>
+
+48
+00:05:04,204 --> 00:05:06,039
+<MUSIC> I guess I'm livin' day to day <MUSIC>
+
+49
+00:05:06,139 --> 00:05:09,710
+<MUSIC> Hear what l say
+Oh, yeah <MUSIC>
+
+50
+00:05:09,810 --> 00:05:12,880
+- <MUSIC> Ooh-hoo <MUSIC><MUSIC>
+- Thanks. Have a good one.
+
+51
+00:05:12,980 --> 00:05:15,282
+- Do you mind if l drink this here ?
+- Sure. Go ahead.
+
+52
+00:05:15,382 --> 00:05:17,284
+- You open ?
+- Yeah.
+
+53
+00:05:18,819 --> 00:05:21,421
+- Pack of cigarettes.
+- Are you sure ?
+
+54
+00:05:21,488 --> 00:05:23,724
+- Am l sure about what ?
+- Are you sure ?
+
+55
+00:05:23,824 --> 00:05:26,894
+- About what ?
+- Do you really wanna buy
+those cigarettes ?
+
+56
+00:05:26,960 --> 00:05:29,563
+- Are you serious ?
+- How long you been smoking ?
+
+57
+00:05:29,663 --> 00:05:32,399
+- What is this, a poll ?
+- How long you been a smoker ?
+
+58
+00:05:32,499 --> 00:05:35,169
+I don't know.
+Since l was about 13.
+
+59
+00:05:35,235 --> 00:05:38,338
+Thirteen.
+Let's see, you're about 19, 20 ?
+
+60
+00:05:38,405 --> 00:05:41,808
+- Am l right ?
+- What in the hell is that ?
+
+61
+00:05:41,842 --> 00:05:46,380
+That's your lung.
+By this time, your lung looks like this.
+
+62
+00:05:46,446 --> 00:05:49,683
+- You've gotta be shitting me.
+- You think I'm shitting you ?
+
+63
+00:05:49,783 --> 00:05:52,219
+- Here.
+- What's this ?
+
+64
+00:05:52,286 --> 00:05:53,787
+A trach ring.
+
+65
+00:05:53,854 --> 00:05:57,057
+It's what they install in your throat
+when cancer takes your voice box.
+
+66
+00:05:57,124 --> 00:06:00,527
+-This one came out of a 60-year-old man.
+-Oh, God !
+
+67
+00:06:00,627 --> 00:06:03,230
+He smoked until the day he died.
+
+68
+00:06:03,297 --> 00:06:06,533
+- Used to put the cigarette
+ in this and smoke that way.
+ - Excuse me, but--
+
+69
+00:06:06,633 --> 00:06:08,569
+This is where you're heading.
+
+70
+00:06:08,602 --> 00:06:10,904
+Cruddy lung,
+ smoking through a hole in your throat.
+
+71
+00:06:10,971 --> 00:06:13,740
+- Do you really want that ?
+ - lf it's already too late, l guess--
+
+72
+00:06:13,807 --> 00:06:15,742
+No, it's never too late.
+
+73
+00:06:15,809 --> 00:06:18,712
+Put the cigarettes back,
+ and try some gum instead.
+
+74
+00:06:18,779 --> 00:06:21,748
+- Here. Chewlies gum. Try this.
+ - it's not the same.
+
+75
+00:06:21,815 --> 00:06:25,252
+It's cheaper than cigarettes,
+ and it certainly beats this.
+
+76
+00:06:25,285 --> 00:06:28,989
+-Oh, Jesus !
+-it's a picture of a cancer-ridden lung.
+
+77
+00:06:29,056 --> 00:06:31,058
+Keep it.
+
+78
+00:06:31,158 --> 00:06:34,027
+- I'll just take the gum.
+- Fifty-five.
+
+79
+00:06:34,094 --> 00:06:37,197
+You made a very wise choice.
+Keep up the good work.
+
+80
+00:06:39,800 --> 00:06:43,537
+If you're gonna drink that coffee,
+I think you oughta take it outside, huh?
+
+81
+00:06:43,637 --> 00:06:46,173
+I think I'll drink it in here.
+Thanks.
+
+82
+00:06:46,273 --> 00:06:50,210
+If you're gonna drink it in here,
+I'd appreciate it
+if you don't bother the customers.
+
+83
+00:06:50,277 --> 00:06:53,714
+Okay.
+I'm sorry about that.
+
+84
+00:06:54,948 --> 00:06:59,219
+- Pack of cigarettes. What's that ?
+- This ?
+
+85
+00:06:59,319 --> 00:07:01,755
+How long you been smoking ?
+
+86
+00:07:05,025 --> 00:07:08,562
+<MUSIC> Kill the drummer <MUSIC>
+
+87
+00:07:08,629 --> 00:07:13,734
+<MUSIC> Kill the bass player
+Kill both bass players <MUSIC>
+
+88
+00:07:13,800 --> 00:07:17,404
+<MUSIC> This song is the reason
+why I'm now going deaf <MUSIC><MUSIC>
+
+89
+00:07:17,471 --> 00:07:21,441
+Let's kick some ass ! Yeah !
+
+90
+00:07:28,549 --> 00:07:31,518
+I feel good today, Silent Bob.
+We're gonna make some money.
+
+91
+00:07:31,585 --> 00:07:34,521
+And you know what we're gonna do ?
+We're gonna go to that party
+and get some pussy.
+
+92
+00:07:34,588 --> 00:07:37,191
+I'm gonna fuck this bitch,
+I'm gonna fuck this bitch.
+
+93
+00:07:37,291 --> 00:07:40,861
+I'll fuck anything that moves !
+
+94
+00:07:40,961 --> 00:07:43,530
+What the fuck you lookin' at ?
+I'll kick your fuckin' ass !
+
+95
+00:07:43,597 --> 00:07:46,867
+Shit, yeah. Don't that motherfucker
+owe me ten bucks ?
+
+96
+00:07:46,967 --> 00:07:51,405
+You know, tonight we're going
+to rip off this fucker's head,
+take out his fuckin' soul.
+
+97
+00:07:51,438 --> 00:07:53,407
+Remind me
+if he wants to buy something.
+
+98
+00:07:53,440 --> 00:07:55,409
+I'm gonna shit
+in the motherfucker's bag.
+
+99
+00:07:55,442 --> 00:07:59,713
+- [ Girl Laughing ]
+- What's up, baby ? What's up, sluts ?
+
+100
+00:07:59,813 --> 00:08:02,950
+Yeah. So, Bob, you're a rude
+motherfucker, you know that ?
+
+101
+00:08:03,050 --> 00:08:06,386
+You're cute as hell.
+I could go down on you, suck you,
+
+102
+00:08:06,486 --> 00:08:09,556
+Line up three other guys,
+make like a circus seal.
+
+103
+00:08:09,656 --> 00:08:12,726
+Hey, what're you, a fucking faggot ?
+I hate guys.
+
+104
+00:08:12,793 --> 00:08:15,162
+I love women !
+
+105
+00:08:15,195 --> 00:08:17,164
+What you want, Grizzly Adams ?
+
+106
+00:08:17,197 --> 00:08:22,069
+You're spending what, 20, maybe 30
+dollars a week on your cigarettes ?
+
+107
+00:08:22,169 --> 00:08:24,238
+- Yeah.
+- Forty.
+- Fifty-three.
+
+108
+00:08:24,338 --> 00:08:27,407
+Fifty-three dollars a week
+on cigarettes ! Come on !
+
+109
+00:08:27,474 --> 00:08:30,077
+Would you give somebody
+that much money each week to kill you ?
+
+110
+00:08:30,177 --> 00:08:34,381
+That's what you're doing now by paying
+for this so-called privilege to smoke !
+
+111
+00:08:34,448 --> 00:08:36,450
+We're gonna croak sometime.
+
+112
+00:08:36,517 --> 00:08:41,054
+It's that mentality that allows
+the cancer-producing industry to thrive.
+
+113
+00:08:41,121 --> 00:08:45,192
+Of course we're all gonna die someday !
+Do we have to pay for it ?
+
+114
+00:08:45,292 --> 00:08:48,195
+Do we have to actually throw hard-earned
+dollars down on the counter...
+
+115
+00:08:48,295 --> 00:08:51,198
+and say, ""Please,
+Mr. Merchant of Death, sir, please,
+
+116
+00:08:51,298 --> 00:08:54,368
+""sell me something that will
+stink up my breath and clothes,
+
+117
+00:08:54,434 --> 00:08:57,504
+- and fry my lungs !""
+- [ Dante ] Now, wait a second.
+
+118
+00:08:57,571 --> 00:09:01,508
+Here comes the speech about how he's
+just doing his job by following orders.
+
+119
+00:09:01,575 --> 00:09:05,412
+Let me tell you
+about another group of hate-mongers
+that were just following orders.
+
+120
+00:09:05,479 --> 00:09:07,881
+- Who's that ?
+- They were called Nazis !
+
+121
+00:09:07,981 --> 00:09:09,883
+- Yeah, that's right.
+- Friggin' Nazi.
+
+122
+00:09:09,983 --> 00:09:12,419
+They practically wiped
+an entire nation off the Earth,
+
+123
+00:09:12,486 --> 00:09:14,421
+Like your cigarettes are doing now !
+
+124
+00:09:14,488 --> 00:09:17,724
+- [ Dante ] l think you'd oughta leave.
+- You want me to leave. Why ?
+
+125
+00:09:17,824 --> 00:09:22,262
+'Cause somebody's telling it like it is,
+giving these fine people a wake-up call?
+
+126
+00:09:22,329 --> 00:09:25,666
+- Yeah.
+- No, you're loitering
+and causing a disturbance.
+
+127
+00:09:25,732 --> 00:09:28,402
+I'm a disturbance ?
+You're the disturbance, pal.
+
+128
+00:09:28,502 --> 00:09:32,873
+Here, now l am a customer.
+I'm gonna buy some Chewlies gum.
+
+129
+00:09:32,940 --> 00:09:36,543
+I'm a customer engaged in a discussion
+with the other customers.
+
+130
+00:09:36,610 --> 00:09:39,379
+- That's right.
+- Smoke my big fat cock !
+
+131
+00:09:39,446 --> 00:09:43,217
+He's scared now
+'cause he sees the threat we present.
+
+132
+00:09:43,317 --> 00:09:45,986
+He smells the change is coming !
+
+133
+00:09:46,053 --> 00:09:49,756
+You definitely are the source
+in this area, and we're gonna
+shut you down for good !
+
+134
+00:09:49,823 --> 00:09:51,792
+For good, cancer merchant !
+
+135
+00:09:51,825 --> 00:09:54,595
+[ Chanting ]
+Cancer merchant ! Cancer merchant !
+
+136
+00:09:59,466 --> 00:10:01,635
+Who's leading this mob ?
+
+137
+00:10:01,702 --> 00:10:04,838
+[ Coughing ]
+That guy.
+
+138
+00:10:04,905 --> 00:10:07,241
+- [ Coughing Continues ]
+- [ Woman ] Freeze !
+
+139
+00:10:13,514 --> 00:10:16,917
+Let's see some credentials.
+Slowly !
+
+140
+00:10:20,153 --> 00:10:22,956
+- You're a Chewlies gum representative ?
+- [ Man ] Chewlies ?
+
+141
+00:10:22,990 --> 00:10:27,594
+You're stirring up anti-smoking
+sentiment to, what, sell more gum ?
+
+142
+00:10:27,661 --> 00:10:29,963
+Get out of here !
+
+143
+00:10:29,997 --> 00:10:34,801
+And you people-- Don't you have jobs
+to go to ? Get out of here. Go commute.
+
+144
+00:10:34,835 --> 00:10:38,805
+You oughta be ashamed of yourselves.
+A bunch of easily led automatons.
+
+145
+00:10:38,872 --> 00:10:42,943
+Try thinking for yourselves before you
+pelt an innocent man with cigarettes !
+
+146
+00:10:43,043 --> 00:10:47,781
+[ Coughing, Clears Throat ]
+
+147
+00:10:47,881 --> 00:10:50,484
+Uh, pack of cigarettes ?
+
+148
+00:10:59,226 --> 00:11:01,428
+Don't you think you're taking
+this a bit too hard ?
+
+149
+00:11:01,528 --> 00:11:06,466
+I have enough indignities in my life and
+people start throwing cigarettes at me.
+
+150
+00:11:06,567 --> 00:11:09,469
+- At least they weren't lit.
+- Oh, l hate this fucking place.
+
+151
+00:11:09,570 --> 00:11:12,005
+Then quit.
+You should be going to school anyway.
+
+152
+00:11:12,072 --> 00:11:14,308
+Please, Veronica, at this point,
+the last thing l need is a lecture.
+
+153
+00:11:14,408 --> 00:11:17,311
+All I'm saying is, if you're
+that unhappy, you should leave.
+
+154
+00:11:17,411 --> 00:11:20,314
+-I'm not even supposed to be here today!
+-l know.
+
+155
+00:11:20,414 --> 00:11:23,483
+I stopped by your house. Your mom told
+me you left, like, at 6:00 or something.
+
+156
+00:11:23,550 --> 00:11:26,320
+The guy got sick.
+He couldn't come in.
+
+157
+00:11:26,386 --> 00:11:29,156
+- Don't you have a hockey game at 2:00 ?
+- Yes.
+
+158
+00:11:29,256 --> 00:11:32,593
+And I'm gonna play like shit because
+I didn't have a good night's sleep.
+
+159
+00:11:32,693 --> 00:11:35,128
+- Why'd you agree to come in then ?
+- Hey, I'm only here until 12:00.
+
+160
+00:11:35,195 --> 00:11:37,431
+After that, I'm gone.
+The boss comes in.
+
+161
+00:11:37,531 --> 00:11:41,435
+- Why don't you open the shutters?
+Get some sunlight in here.
+- Someone jammed gum in the locks.
+
+162
+00:11:41,535 --> 00:11:44,538
+- You're kidding.
+- Bunch of savages in this town.
+
+163
+00:11:49,910 --> 00:11:53,447
+- Thanks.
+- How much money did you leave up there?
+
+164
+00:11:53,514 --> 00:11:56,517
+Like, three dollars in mixed change
+and a couple of singles.
+
+165
+00:11:56,617 --> 00:11:59,486
+This time in the morning,
+people just get a paper or coffee.
+
+166
+00:11:59,553 --> 00:12:02,122
+- You're trusting.
+- Why do you say that ?
+
+167
+00:12:02,222 --> 00:12:06,193
+How do you know they're taking
+the right amount of change
+or even paying for what they take ?
+
+168
+00:12:06,293 --> 00:12:08,962
+Theoretically, people see money
+on the counter, no one around,
+
+169
+00:12:09,062 --> 00:12:10,998
+they think they're being watched.
+
+170
+00:12:11,064 --> 00:12:13,166
+Honesty through paranoia.
+
+171
+00:12:13,267 --> 00:12:15,335
+Why do you smell like shoe polish ?
+
+172
+00:12:15,402 --> 00:12:17,838
+I needed shoe polish
+to make that sign out there.
+
+173
+00:12:17,905 --> 00:12:21,008
+- Smell won't come off.
+- [ Door Opens ]
+
+174
+00:12:21,108 --> 00:12:23,477
+You think anybody
+can see us down here ?
+
+175
+00:12:23,544 --> 00:12:25,546
+Why, you wanna have sex or something ?
+
+176
+00:12:25,579 --> 00:12:27,681
+- Can we ?
+- Really ?
+
+177
+00:12:27,748 --> 00:12:30,851
+- l was kidding.
+- Like you can't get enough of me.
+
+178
+00:12:30,918 --> 00:12:34,288
+- Typically male point of view.
+- How do you figure ?
+
+179
+00:12:34,388 --> 00:12:37,624
+Show some bedroom proficiency,
+you think you're gods.
+
+180
+00:12:37,691 --> 00:12:39,960
+What about what we do for you ?
+
+181
+00:12:40,027 --> 00:12:44,131
+Women as lovers are basically the same;
+they just have to be there.
+
+182
+00:12:44,231 --> 00:12:47,134
+- Be there ?
+- Making a male climax
+isn't at all challenging.
+
+183
+00:12:47,201 --> 00:12:51,138
+Insert somewhere close,
+preferably moist, thrust, repeat.
+
+184
+00:12:51,205 --> 00:12:53,140
+How flattering.
+
+185
+00:12:53,207 --> 00:12:56,143
+Now, making a woman come,
+therein lies a challenge.
+
+186
+00:12:56,210 --> 00:12:57,778
+You think so ?
+
+187
+00:12:57,845 --> 00:13:00,914
+A woman makes a guy come,
+it's standard.
+
+188
+00:13:00,981 --> 00:13:03,550
+A guy makes a woman come,
+it's talent.
+
+189
+00:13:03,617 --> 00:13:06,353
+- And l actually date you ?
+- Something wrong ?
+
+190
+00:13:06,386 --> 00:13:10,824
+I'm insulted. Believe me, Don Juan, it
+takes more than that to get a guy off.
+
+191
+00:13:10,891 --> 00:13:13,660
+Just being there, as you put it,
+is not enough.
+
+192
+00:13:13,727 --> 00:13:15,662
+Hmm, I've touched a nerve.
+
+193
+00:13:15,729 --> 00:13:18,198
+I'm astonished to hear you
+you trivialize my role in our sex life.
+
+194
+00:13:18,265 --> 00:13:20,834
+It wasn't directed at you.
+I was making a broad generalization.
+
+195
+00:13:20,901 --> 00:13:23,337
+You're making a generalization
+about broads.
+
+196
+00:13:23,437 --> 00:13:25,873
+Those are my opinions
+based on the few women...
+
+197
+00:13:25,906 --> 00:13:27,875
+who were goodly enough
+to sleep with me.
+
+198
+00:13:27,908 --> 00:13:30,010
+- How many ?
+- How many what ?
+
+199
+00:13:30,110 --> 00:13:32,779
+How many different girls
+have you slept with ?
+
+200
+00:13:32,880 --> 00:13:35,616
+- Didn't we have
+this discussion once before ?
+- We might have.
+
+201
+00:13:35,716 --> 00:13:38,785
+- l don't remember. How many ?
+- including you ?
+
+202
+00:13:38,852 --> 00:13:41,455
+It better be up to and including me.
+
+203
+00:13:41,555 --> 00:13:45,025
+- Twelve.
+- You slept with 12 different girls ?
+
+204
+00:13:45,125 --> 00:13:47,294
+Including you ? Yes.
+
+205
+00:13:47,394 --> 00:13:49,296
+- Ow ! What'd you do that for ?
+- You're a pig !
+
+206
+00:13:49,396 --> 00:13:52,299
+- Why'd you hit me ?
+- Do you know how many different men
+I've had sex with ?
+
+207
+00:13:52,399 --> 00:13:54,301
+Do l get to hit you after you tell me ?
+
+208
+00:13:54,401 --> 00:13:56,003
+- Three.
+- Three ?
+
+209
+00:13:56,069 --> 00:13:59,006
+- Three, including you.
+- You only slept
+with three different people ?
+
+210
+00:13:59,072 --> 00:14:01,008
+- I'm not the pig you are.
+- Who ?
+
+211
+00:14:01,074 --> 00:14:03,911
+- You !
+- No, who are the three, besides me.
+
+212
+00:14:03,977 --> 00:14:07,314
+- John Francin and Rob Stanslik.
+- Wow.
+
+213
+00:14:07,381 --> 00:14:10,517
+That's why you should feel like a pig.
+You men make me feel sick.
+
+214
+00:14:10,551 --> 00:14:13,987
+- You'll sleep with anything
+that says yes.
+- Animal, mineral or vegetable.
+
+215
+00:14:14,087 --> 00:14:15,522
+Vegetable, meaning paraplegic.
+
+216
+00:14:15,589 --> 00:14:17,824
+They put up
+the least amount of struggle.
+
+217
+00:14:17,925 --> 00:14:20,527
+After dropping a bombshell like that,
+you owe me big.
+
+218
+00:14:20,594 --> 00:14:22,029
+Name it.
+
+219
+00:14:22,062 --> 00:14:24,031
+I want you to come with me on Monday.
+
+220
+00:14:24,064 --> 00:14:26,033
+- Where ?
+- To school.
+
+221
+00:14:26,066 --> 00:14:28,802
+There's a seminar about getting
+back into a scholastic program...
+
+222
+00:14:28,869 --> 00:14:30,804
+after a lapse in enrollment.
+
+223
+00:14:30,871 --> 00:14:32,439
+Can't we ever have a discussion
+without that coming up ?
+
+224
+00:14:32,506 --> 00:14:34,474
+It's important to me, Dante.
+
+225
+00:14:34,508 --> 00:14:37,644
+You have so much potential
+that's going to waste in this pit.
+
+226
+00:14:37,711 --> 00:14:40,948
+- l wish you'd go back to school.
+- Stop. You're making my head hurt.
+
+227
+00:14:41,048 --> 00:14:43,984
+-Shit ! Why're you getting up ?
+-Unlike you, l have class in 45 minutes.
+
+228
+00:14:46,186 --> 00:14:48,155
+Willam ?
+
+229
+00:14:48,188 --> 00:14:50,691
+Hey, Ronni.
+How you been, man ?
+
+230
+00:14:50,757 --> 00:14:53,627
+What, do you work here now ?
+
+231
+00:14:53,694 --> 00:14:56,997
+No, l was visiting my man.
+
+232
+00:14:57,030 --> 00:15:00,634
+Dante, this is Willam Black.
+This is Dante Hicks, my boyfriend.
+
+233
+00:15:00,734 --> 00:15:05,172
+- How you doing ? Just the soda ?
+- No, and a pack of cigarettes.
+
+234
+00:15:05,239 --> 00:15:09,309
+So where you been, man ?
+Still going to Seton Hall ?
+
+235
+00:15:09,409 --> 00:15:13,714
+No, l transferred into Monmouth
+this year. l was tired of missing him.
+
+236
+00:15:13,780 --> 00:15:17,017
+That's beautiful, man.
+
+237
+00:15:17,084 --> 00:15:19,319
+So, you still talk to Silvan ?
+
+238
+00:15:19,419 --> 00:15:22,523
+I just talked to her on Monday.
+We still hang out on weekends.
+
+239
+00:15:22,623 --> 00:15:24,525
+Oh, that's great.
+
+240
+00:15:24,625 --> 00:15:28,395
+Well, you two lovebirds
+take it easy, okay ?
+
+241
+00:15:28,462 --> 00:15:31,465
+Bye. Take it easy.
+
+242
+00:15:31,532 --> 00:15:35,202
+- [ Ronni ] That was Snowball.
+- Why do you call him that ?
+
+243
+00:15:35,302 --> 00:15:39,006
+Silvan made it up.
+It's a blow job thing.
+
+244
+00:15:39,106 --> 00:15:41,008
+What do you mean ?
+
+245
+00:15:41,108 --> 00:15:44,645
+After the blow job, he likes to have it
+spit back into his mouth while kissing.
+
+246
+00:15:44,745 --> 00:15:46,647
+It's called snowballing.
+
+247
+00:15:46,747 --> 00:15:49,483
+- He requests this ?
+- He gets off on it.
+
+248
+00:15:49,583 --> 00:15:52,819
+- Silvan can be talked into anything.
+- Why do you say that ?
+
+249
+00:15:52,886 --> 00:15:55,322
+Like you said, she snowballed him.
+
+250
+00:15:55,422 --> 00:15:59,493
+- Silvan ? No, l snowballed him.
+- Yeah, right.
+
+251
+00:15:59,560 --> 00:16:01,662
+I'm serious.
+
+252
+00:16:01,728 --> 00:16:05,332
+- You sucked that guy's dick ?
+- Yeah. How do you think l knew--
+
+253
+00:16:05,432 --> 00:16:09,169
+You said you only had sex
+with three different guys !
+You never mentioned him !
+
+254
+00:16:09,269 --> 00:16:12,005
+- Because l never had sex with him.
+- You sucked his dick !
+
+255
+00:16:12,105 --> 00:16:15,008
+We went out a few times.
+We never had sex, but we fooled around.
+
+256
+00:16:15,108 --> 00:16:18,178
+Oh, my God. Why did you tell me
+you only had sex with three guys ?
+
+257
+00:16:18,245 --> 00:16:20,714
+Because l did
+only have sex with three guys.
+
+258
+00:16:20,781 --> 00:16:24,184
+- it doesn't mean
+I didn't just go with people.
+- Oh, my God, l feel so nauseous !
+
+259
+00:16:24,251 --> 00:16:26,220
+I'm sorry, Dante.
+I thought you understood.
+
+260
+00:16:26,253 --> 00:16:27,788
+I did understand !
+
+261
+00:16:27,855 --> 00:16:30,824
+I understood that you had sex with
+three guys and that's all you said !
+
+262
+00:16:30,858 --> 00:16:32,826
+- Please calm down.
+- How many ?
+
+263
+00:16:32,860 --> 00:16:35,128
+- Dante, let it go !
+- How many dicks have you sucked ?
+
+264
+00:16:35,229 --> 00:16:37,831
+Shut up a second and I'll tell you.
+Jesus !
+
+265
+00:16:37,898 --> 00:16:40,634
+I didn't freak out like this when
+you told me how many girls you fucked !
+
+266
+00:16:40,701 --> 00:16:43,337
+This is different. This is important.
+How many ?
+
+267
+00:16:53,580 --> 00:16:55,516
+Well ?
+
+268
+00:16:57,150 --> 00:17:01,655
+- Something like 36.
+- What ? Something like 36 ?
+
+269
+00:17:01,755 --> 00:17:04,525
+- Lower your voice.
+- What is that-- ""Something like 36"" ?
+
+270
+00:17:04,591 --> 00:17:06,493
+Does that include me ?
+
+271
+00:17:07,761 --> 00:17:10,364
+- Uh... 37.
+- I'm 37 ?
+
+272
+00:17:10,430 --> 00:17:13,667
+- I'm going to class.
+- Oh, my God.
+
+273
+00:17:13,734 --> 00:17:17,938
+- 37 ! My girlfriend sucked 37 dicks!
+- in a row ?
+
+274
+00:17:18,038 --> 00:17:21,341
+- Where you going ?
+- Hey, listen, jerk.
+Until today, you never even knew...
+
+275
+00:17:21,441 --> 00:17:24,178
+how many guys l slept with
+because you never even bothered to ask.
+
+276
+00:17:24,278 --> 00:17:28,048
+Then you act all nonchalant
+about fucking 12 girls.
+I never had sex with 12 guys !
+
+277
+00:17:28,115 --> 00:17:31,018
+- No, but you sucked enough dick !
+- Yeah, l went down on a few guys.
+
+278
+00:17:31,118 --> 00:17:33,620
+- A few ?
+- One of those guys was you.
+The last one, l might add.
+
+279
+00:17:33,720 --> 00:17:37,791
+Which, if you're too stupid
+to comprehend, means that
+I've been faithful to you since we met.
+
+280
+00:17:37,891 --> 00:17:41,628
+All the other guys
+I went with before l met you.
+If you want to have a complex, go ahead.
+
+281
+00:17:41,728 --> 00:17:45,165
+But don't look at me like
+I'm the town whore, because you
+were plenty busy before you met me.
+
+282
+00:17:45,232 --> 00:17:49,002
+Why did you suck their dick ?
+Why couldn't you sleep with them
+Like any other decent person ?
+
+283
+00:17:49,069 --> 00:17:51,004
+Because going down isn't a big deal.
+
+284
+00:17:51,071 --> 00:17:54,007
+I used to like a guy, we'd make out,
+and sooner or later I'd go down on him.
+
+285
+00:17:54,074 --> 00:17:57,144
+- But l only had sex
+with the guys l loved.
+- l feel sick.
+
+286
+00:17:57,244 --> 00:17:59,213
+I love you !
+Don't feel sick.
+
+287
+00:17:59,246 --> 00:18:01,515
+Every time l kiss you,
+I'm gonna taste 36 other guys.
+
+288
+00:18:01,615 --> 00:18:04,885
+- I'm going to school. Maybe later
+you'll be a bit more rational.
+- I'm 37 ! l just can't--
+
+289
+00:18:04,952 --> 00:18:06,887
+Good-bye, Dante !
+
+290
+00:18:09,590 --> 00:18:13,360
+Hey, try not to suck any dick
+on the way through the parking lot !
+
+291
+00:18:13,427 --> 00:18:15,963
+Hey ! Hey, you !
+Get back here.
+
+292
+00:18:21,134 --> 00:18:25,873
+I thought that place was supposed
+to be open at 11:00. it's 11:20.
+
+293
+00:18:25,973 --> 00:18:29,309
+I've already called his house twice.
+He'll be here soon.
+
+294
+00:18:29,376 --> 00:18:32,980
+Hey, it's not like
+it's a demanding job over there.
+
+295
+00:18:33,046 --> 00:18:35,649
+I'd like to get paid
+to sit on my ass and watch TV.
+
+296
+00:18:35,716 --> 00:18:38,652
+I walked in the other day,
+that son of a bitch was sleeping.
+
+297
+00:18:38,719 --> 00:18:41,488
+- I'm sure he wasn't sleeping.
+- Are you calling me a liar ?
+
+298
+00:18:41,555 --> 00:18:45,459
+- Are you calling me a liar ?
+- No ! He was probably
+just resting his eyes.
+
+299
+00:18:45,492 --> 00:18:47,861
+What the hell is that,
+""resting his eyes"" ?
+
+300
+00:18:47,895 --> 00:18:51,765
+- Like he's some air traffic controller?
+- Actually, that's his night job.
+
+301
+00:18:51,865 --> 00:18:55,302
+Wise ass too, huh ?
+Go ahead. Keep cracking wise.
+
+302
+00:18:55,335 --> 00:18:58,705
+That's why you're jockeying a register
+in some fuckin' convenience store...
+
+303
+00:18:58,772 --> 00:19:01,008
+instead of working at a steady job.
+
+304
+00:19:01,108 --> 00:19:04,845
+I've got no time to bullshit around,
+waiting for that son of a bitch.
+
+305
+00:19:04,945 --> 00:19:06,947
+Make sure he gets that.
+
+306
+00:19:07,014 --> 00:19:11,018
+The number's 812. My name's Wynarski.
+I wanted a movie tonight.
+
+307
+00:19:11,084 --> 00:19:14,221
+If you tell me the title of the movie,
+he'll hold it for you.
+
+308
+00:19:14,254 --> 00:19:18,225
+Don't hurt yourself, buddy.
+I'll go to Big Choice Video instead.
+
+309
+00:19:20,294 --> 00:19:23,363
+[ Door Opens, Closes ]
+
+310
+00:19:23,463 --> 00:19:26,099
+You forgot your keys.
+
+311
+00:19:37,377 --> 00:19:40,647
+- Guy ain't here yet.
+- You're kidding ! it's almost 11:30.
+
+312
+00:19:40,747 --> 00:19:45,652
+- I've been here since 11:00.
+- l hate it when l can't rent videos !
+
+313
+00:19:45,752 --> 00:19:49,022
+I would've went to Big Choice, but the
+tape l want is right there on that wall.
+
+314
+00:19:49,056 --> 00:19:51,091
+- Which one ?
+- Dental School.
+
+315
+00:19:51,191 --> 00:19:53,660
+You came for that too ?
+That's the movie l came for.
+
+316
+00:19:53,727 --> 00:19:55,696
+- l have first dibs.
+- Says who ?
+
+317
+00:19:55,729 --> 00:19:59,032
+Says me. I've been here half an hour.
+I'd call that first dibs.
+
+318
+00:19:59,099 --> 00:20:02,703
+- Ain't gonna happen, my friend.
+I'm getting that movie.
+- Like hell you are.
+
+319
+00:20:02,736 --> 00:20:05,339
+I'll bet you 20 bucks
+you don't get to rent that tape.
+
+320
+00:20:05,439 --> 00:20:07,374
+- Twenty bucks ?
+- Twenty bucks.
+
+321
+00:20:07,441 --> 00:20:10,911
+All right, asshole. You're on.
+
+322
+00:20:27,294 --> 00:20:29,229
+You're late.
+
+323
+00:20:29,296 --> 00:20:32,566
+- What the hell are you doing here ?
+- The boss called. Arthur fell ill.
+
+324
+00:20:32,633 --> 00:20:35,235
+- Why are the shutters closed ?
+- Someone jammed gum in the locks.
+
+325
+00:20:35,302 --> 00:20:37,905
+- Bunch of savages in this town.
+- That's what l said.
+
+326
+00:20:38,005 --> 00:20:41,141
+If I'd known you were here,
+I'd have come even later.
+
+327
+00:20:41,241 --> 00:20:44,178
+- What smells like shoe polish ?
+- Go open the store.
+
+328
+00:20:48,315 --> 00:20:52,386
+-Hey, you see a set of keys around here?
+-No time for love, Dr. Jones.
+
+329
+00:20:54,087 --> 00:20:56,423
+Fucking kids.
+
+330
+00:21:17,845 --> 00:21:20,814
+Some guy just came in
+refusing to pay late fees.
+
+331
+00:21:20,848 --> 00:21:24,284
+Said the store was closed for two hours
+yesterday. l tore up his membership.
+
+332
+00:21:24,351 --> 00:21:25,786
+Shocking abuse of authority.
+
+333
+00:21:25,886 --> 00:21:28,155
+I'm a firm believer
+in the philosophy of a ruling class,
+
+334
+00:21:28,255 --> 00:21:30,157
+especially since l rule.
+
+335
+00:21:30,257 --> 00:21:34,094
+- [ Randal ]
+Want something to drink ? I'm buying.
+- [ Dante ] No, thanks.
+
+336
+00:21:34,127 --> 00:21:36,396
+Who was on your phone
+this morning, like, 2:30 ?
+
+337
+00:21:36,496 --> 00:21:38,932
+- l was trying to call for half an hour.
+- Why ?
+
+338
+00:21:38,966 --> 00:21:42,269
+I wanted to use your car.
+Snack cake.
+
+339
+00:21:42,369 --> 00:21:44,404
+You don't wanna know.
+
+340
+00:21:44,471 --> 00:21:46,406
+- You call Caitlin again ?
+- She called me.
+
+341
+00:21:46,473 --> 00:21:50,077
+- You tell Veronica ?
+- One fight a day with Veronica
+is all l can stomach, thanks.
+
+342
+00:21:50,177 --> 00:21:52,913
+- What do you fight about ?
+- We don't fight about anything.
+
+343
+00:21:53,013 --> 00:21:55,916
+She wants me to leave here and go
+back to school and get some direction.
+
+344
+00:21:56,016 --> 00:21:59,086
+- l bet the most frequent topic
+of arguments is Caitlin Bree.
+- You win.
+
+345
+00:21:59,152 --> 00:22:02,089
+I'm going to offer you some advice,
+my friend. Let the past be the past.
+
+346
+00:22:02,155 --> 00:22:04,758
+Forget Caitlin Bree.
+You been with Veronica how long now ?
+
+347
+00:22:04,858 --> 00:22:07,094
+- Seven months.
+- Chick's nuts about you.
+
+348
+00:22:07,160 --> 00:22:09,296
+- How long you date Caitlin ?
+- Five years.
+
+349
+00:22:09,329 --> 00:22:11,765
+Chick only made you nuts, man.
+She cheated on you how many times ?
+
+350
+00:22:11,865 --> 00:22:13,767
+- Eight and a half.
+- Eight and a half ?
+
+351
+00:22:13,834 --> 00:22:17,171
+Party at John Kay's, senior year;
+I get blitzed, pass out in his bedroom.
+
+352
+00:22:17,237 --> 00:22:19,973
+-Caitlin comes in and jumps all over me.
+-So that's cheating ?
+
+353
+00:22:20,007 --> 00:22:23,443
+- No.
+In the middle of it she called me Brad.
+- She called you Brad ?
+
+354
+00:22:23,544 --> 00:22:26,446
+That's not cheating.
+People say crazy shit during sex.
+
+355
+00:22:26,547 --> 00:22:29,449
+- One time, l called this girl ""mom.""
+- l hit the light, she freaks.
+
+356
+00:22:29,550 --> 00:22:32,286
+- She thought l was Brad Michelson.
+- What do you mean ?
+
+357
+00:22:32,386 --> 00:22:35,255
+She was supposed to meet Brad in a
+dark bedroom. She picked the wrong one.
+
+358
+00:22:35,289 --> 00:22:37,424
+- She didn't even know
+I was at the party.
+- Oh, my God.
+
+359
+00:22:37,491 --> 00:22:39,927
+- Great story, huh ?
+- That girl was vile to you.
+
+360
+00:22:39,960 --> 00:22:43,263
+Interesting postscript to that story.
+Do you know who wound up
+in that bedroom with Brad ?
+
+361
+00:22:43,330 --> 00:22:45,265
+- Your mother ?
+- Alan Harris.
+
+362
+00:22:45,332 --> 00:22:47,901
+- Chess team Alan Harris ?
+- The two moved to Idaho together.
+
+363
+00:22:47,968 --> 00:22:49,403
+They raise sheep.
+
+364
+00:22:49,503 --> 00:22:52,105
+- That's frightening.
+- Takes different strokes
+to move the world.
+
+365
+00:22:52,172 --> 00:22:54,107
+In light of this lurid tale,
+I don't see...
+
+366
+00:22:54,174 --> 00:22:56,109
+how you could romanticize
+your relationship with Caitlin.
+
+367
+00:22:56,176 --> 00:22:59,112
+She broke your heart and inadvertently
+drove men to deviant lifestyles.
+
+368
+00:22:59,179 --> 00:23:01,114
+There was a lot of good
+in our relationship.
+
+369
+00:23:01,181 --> 00:23:03,116
+Aside from the cheating,
+we were a great couple.
+
+370
+00:23:03,183 --> 00:23:06,787
+That's what high school was about:
+algebra, bad lunch and infidelity.
+
+371
+00:23:06,854 --> 00:23:09,456
+- You think things
+will be different this time ?
+- They are.
+
+372
+00:23:09,489 --> 00:23:12,793
+When she calls me now,
+she's a different person.
+She's frightened, vulnerable.
+
+373
+00:23:12,860 --> 00:23:16,630
+She's finishing college
+and about to enter the real world.
+That's scary for anyone.
+
+374
+00:23:16,697 --> 00:23:19,299
+- Shit, l gotta place an order.
+- Talkin' to myself here.
+
+375
+00:23:19,399 --> 00:23:22,769
+- I'm listening.
+She's leaving college and--
+- And she's looking for support.
+
+376
+00:23:22,870 --> 00:23:26,306
+- l think this is leading
+our relationship to a new level.
+- What about Veronica ?
+
+377
+00:23:26,373 --> 00:23:29,309
+I think the arguments Veronica and l are
+having are some kind of manifestation...
+
+378
+00:23:29,376 --> 00:23:31,478
+of a subconscious desire
+to break up with her,
+
+379
+00:23:31,545 --> 00:23:33,981
+so l can pursue a more meaningful
+relationship with Caitlin.
+
+380
+00:23:34,081 --> 00:23:36,750
+- Caitlin's on the same wavelength ?
+- it's safe to say yes.
+
+381
+00:23:36,817 --> 00:23:39,920
+- l think all four of you
+better sit down and talk it over.
+- All four ?
+
+382
+00:23:39,987 --> 00:23:44,258
+You, Veronica, Caitlin
+and Caitlin's fiancé.
+
+383
+00:23:53,467 --> 00:23:57,271
+- Do you sell video tapes ?
+- Yeah. What are you looking for ?
+
+384
+00:23:57,337 --> 00:24:00,440
+- Happy Scrappy Hero Pup.
+- Uh, one second.
+
+385
+00:24:00,507 --> 00:24:03,944
+I'm on the phone
+with the distribution house.
+Let me make sure they got it.
+
+386
+00:24:04,044 --> 00:24:06,847
+- What's it called again ?
+- Happy Scrappy Hero Pup.
+
+387
+00:24:06,914 --> 00:24:10,951
+- [ Child ] Happy Scrappy--
+- She loves it.
+- Obviously.
+
+388
+00:24:11,018 --> 00:24:15,122
+This is RST Video calling.
+Customer number 4352.
+
+389
+00:24:15,189 --> 00:24:17,491
+I'd like to place an order.
+
+390
+00:24:17,524 --> 00:24:19,793
+I need one each of the following tapes:
+
+391
+00:24:19,860 --> 00:24:21,862
+Whispers in The Wind,
+To Each His Own,
+
+392
+00:24:21,962 --> 00:24:25,165
+Put it Where it Doesn't Belong,
+My Pipes Need Cleaning,
+
+393
+00:24:25,199 --> 00:24:28,468
+All Tit Fucking, Volume Eight,
+I Need Your Cock,
+
+394
+00:24:28,569 --> 00:24:32,005
+Ass Worshipping Rim Jobbers,
+My Cunt And Eight Shafts,
+
+395
+00:24:32,039 --> 00:24:36,343
+Cum Clean, Cum Gargling Naked Sluts,
+Cum Buns III,
+
+396
+00:24:36,443 --> 00:24:39,246
+Cumming in Socks,
+Cum On ilene,
+
+397
+00:24:39,313 --> 00:24:41,448
+Huge Black Cocks
+With Pearly White Cum,
+
+398
+00:24:41,515 --> 00:24:44,318
+Girls Who Crave Cock,
+Girls Who Crave Cunt,
+
+399
+00:24:44,384 --> 00:24:48,088
+Men Alone II: The KY Connection,
+Pink Pussy Lips,
+
+400
+00:24:48,155 --> 00:24:51,291
+oh, yeah, and, uh,
+All Holes Filled with Hard Cock.
+
+401
+00:24:51,325 --> 00:24:55,362
+Yup. Oh, wait a minute.
+What was that called again ?
+
+402
+00:24:55,429 --> 00:24:56,964
+<MUSIC> I'm a needle, you know <MUSIC>
+
+403
+00:24:57,030 --> 00:25:01,602
+<MUSIC> Never want to be a haystack <MUSIC>
+
+404
+00:25:01,668 --> 00:25:04,972
+<MUSIC> Don't ever want to break
+your heart in two <MUSIC>
+
+405
+00:25:05,038 --> 00:25:08,609
+<MUSIC> Know the crowd
+is gonna sell their soul <MUSIC>
+
+406
+00:25:08,675 --> 00:25:11,812
+<MUSIC> Take it anywhere l know
+Well, l promise you <MUSIC>
+
+407
+00:25:11,879 --> 00:25:14,014
+<MUSIC> it's making me sick <MUSIC><MUSIC>
+
+408
+00:25:15,382 --> 00:25:18,886
+Yes, I'd like to check on
+a misprint in today's edition.
+
+409
+00:25:18,952 --> 00:25:21,121
+Today's edition.
+
+410
+00:25:21,221 --> 00:25:24,958
+It says,
+""Bree to wed Asian design major.""
+
+411
+00:25:25,058 --> 00:25:26,960
+No, everything's spelled fine.
+
+412
+00:25:27,060 --> 00:25:30,264
+I was just wondering
+if the article was a misprint.
+
+413
+00:25:30,330 --> 00:25:33,000
+I don't know,
+Like a typographical error or something.
+
+414
+00:25:33,100 --> 00:25:37,838
+Maybe it should say, ""Caitlin Bray""
+or ""Caitlin Bre"" with one ""E.""
+
+415
+00:25:37,938 --> 00:25:42,776
+I'm a curious party.
+A curious party.
+
+416
+00:25:42,843 --> 00:25:45,245
+I'm an ex-boyfriend, and, well,
+
+417
+00:25:45,345 --> 00:25:48,081
+I talk to her all the time
+and she never mentioned this engagement.
+
+418
+00:25:48,182 --> 00:25:51,218
+That's why I'm thinking
+maybe it's a misprint.
+
+419
+00:25:52,819 --> 00:25:57,824
+Are you sure ? Maybe there's
+a vindictive printer working for you.
+
+420
+00:25:57,891 --> 00:26:01,929
+Meaning like, someone who asked her out
+once and got shot down,
+
+421
+00:26:02,029 --> 00:26:06,533
+and this is his revenge
+by putting this bogus article
+in the paper when it went to press.
+
+422
+00:26:06,633 --> 00:26:09,069
+Hello. Hello ?
+
+423
+00:26:15,709 --> 00:26:18,111
+- [ Sniffing ]
+- [ Cat Meows ]
+
+424
+00:26:18,178 --> 00:26:21,982
+I don't care if she's my cousin, I'm
+gonna knock those boots again tonight.
+
+425
+00:26:22,049 --> 00:26:25,819
+- Look who it is.
+The fuckin' human vacuum.
+- Scumbag, what are you doing ?
+
+426
+00:26:25,886 --> 00:26:28,655
+- Just hanging
+with Silent Bob and his cousin.
+- He's your cousin ?
+
+427
+00:26:28,755 --> 00:26:30,824
+- He's from Russia too.
+- No way.
+
+428
+00:26:30,891 --> 00:26:34,795
+- What part of Russia ?
+- l don't know. Do l look
+Like his fuckin' biographer ?
+
+429
+00:26:34,828 --> 00:26:39,099
+-Olaf, what part of Russia are you from?
+-Moscow.
+
+430
+00:26:39,199 --> 00:26:43,103
+-He only speaks Russian ?
+-He speaks some English,
+but he cannot speak it good like we do.
+
+431
+00:26:43,170 --> 00:26:46,273
+- Is he staying here ?
+- Nah, he's moving
+to the big city this week.
+
+432
+00:26:46,340 --> 00:26:48,642
+- He wants to be a metal singer.
+- [ Girl ] No way.
+
+433
+00:26:48,675 --> 00:26:51,278
+I swear. Olaf, metal.
+
+434
+00:26:51,345 --> 00:26:55,115
+That's his fucking metal face.
+Olaf, girl nice ?
+
+435
+00:26:55,182 --> 00:26:57,851
+- [ Speaks Russian ]
+- That's fucked up, man.
+
+436
+00:26:57,918 --> 00:27:01,321
+- What did he say ?
+- l don't know, man,
+but this guy's a character.
+
+437
+00:27:01,355 --> 00:27:04,458
+- He really wants to play metal ?
+- Yeah, he's got his own band in Moscow.
+
+438
+00:27:04,558 --> 00:27:08,161
+- it's called ""Fuck Your
+Yankee Blue Jeans"" or something.
+- That doesn't sound metal.
+
+439
+00:27:08,195 --> 00:27:11,465
+You gotta hear him sing.
+Olaf, ""Berserker.""
+
+440
+00:27:11,565 --> 00:27:15,302
+- Come on, man, ""Berserker"" !
+- Does he sing in English or Russian ?
+
+441
+00:27:15,402 --> 00:27:18,438
+In English. Come on, ""Berserker.""
+Girls think sexy.
+
+442
+00:27:19,873 --> 00:27:23,544
+- Aah. Aah.
+- Watch, he's gonna sing it.
+It's too funny.
+
+443
+00:27:23,644 --> 00:27:28,248
+<MUSIC> My love for you
+is like a truck, berserker <MUSIC>
+
+444
+00:27:28,315 --> 00:27:32,519
+<MUSIC> Would you like
+some making fuck, berserker <MUSIC>
+
+445
+00:27:32,553 --> 00:27:35,722
+- That's fuckin' funny, man.
+- Did he say, ""making fuck"" ?
+
+446
+00:27:35,789 --> 00:27:40,727
+[ Science Fiction Movie Sounds,
+Man Screaming ]
+
+447
+00:27:40,794 --> 00:27:43,197
+[ Sounds Stop ]
+
+448
+00:27:56,343 --> 00:28:00,848
+<MUSIC> My love for you
+is ticking clock, berserker <MUSIC>
+
+449
+00:28:00,914 --> 00:28:05,886
+<MUSIC> Would you like
+to suck my cock, berserker <MUSIC><MUSIC>
+
+450
+00:28:05,953 --> 00:28:09,256
+That's beautiful, man.
+
+451
+00:28:12,593 --> 00:28:15,495
+Hold on to the counter
+and I'll pull.
+
+452
+00:28:15,562 --> 00:28:18,632
+Usually l just turn the can upside down.
+
+453
+00:28:18,732 --> 00:28:21,168
+Maybe we oughta soap your hand up.
+
+454
+00:28:21,235 --> 00:28:24,471
+They oughta put a warning on these
+things, like they do with cigarettes.
+
+455
+00:28:24,571 --> 00:28:27,474
+- l think it's coming !
+- [ Falls On Floor ]
+
+456
+00:28:29,409 --> 00:28:32,846
+Thanks. l thought l was going
+to have to go to the hospital.
+
+457
+00:28:32,913 --> 00:28:35,616
+I'll throw this out
+as a precautionary measure.
+
+458
+00:28:35,682 --> 00:28:37,918
+[ Chuckling ]
+Stings a little.
+
+459
+00:28:38,018 --> 00:28:42,155
+A little word of advice: Sometimes you
+got to let those hard-to-reach chips go.
+
+460
+00:28:42,256 --> 00:28:44,291
+- [ Door Opens ]
+- Thanks.
+
+461
+00:28:45,993 --> 00:28:49,129
+You know, that article's accurate.
+Caitlin really is getting married.
+
+462
+00:28:49,196 --> 00:28:52,466
+-You know what l just watched ?
+-Me pulling a can off some moron's fist?
+
+463
+00:28:52,533 --> 00:28:57,137
+- Return Of The Jedi.
+- Didn't you hear me ?
+Caitlin is really getting married.
+
+464
+00:28:57,204 --> 00:29:01,108
+What did you like better:
+Jedi or The Empire Strikes Back ?
+
+465
+00:29:01,141 --> 00:29:03,177
+- Empire.
+- Blasphemy.
+
+466
+00:29:03,243 --> 00:29:05,279
+Empire had the better ending.
+
+467
+00:29:05,379 --> 00:29:09,650
+I mean, Luke gets his hand cut off,
+finds out Vader's his father.
+
+468
+00:29:09,750 --> 00:29:13,187
+Han gets frozen, taken away by
+Boba Fett. it ends on such a down note.
+
+469
+00:29:13,220 --> 00:29:16,657
+I mean, that's what life is:
+a series of down endings.
+
+470
+00:29:16,723 --> 00:29:19,326
+All Jedi had was a bunch of Muppets.
+
+471
+00:29:19,426 --> 00:29:22,663
+There was something else
+going on in Jedi.
+I never noticed it 'til today.
+
+472
+00:29:22,729 --> 00:29:25,032
+- They build another Death Star, right ?
+- Yeah.
+
+473
+00:29:25,065 --> 00:29:28,168
+The first one
+was completed and fully operational
+before the rebels destroyed it.
+
+474
+00:29:28,268 --> 00:29:30,671
+Luke blew it up.
+Give credit where credit's due.
+
+475
+00:29:30,737 --> 00:29:34,274
+- The second one was still
+being built when they blew it up.
+- Compliments of Lando Calrissian.
+
+476
+00:29:34,341 --> 00:29:37,110
+Something just never sat right with me
+that second time around.
+
+477
+00:29:37,177 --> 00:29:39,947
+I could never put my finger on it,
+but something just wasn't right.
+
+478
+00:29:40,013 --> 00:29:43,884
+- And you figured it out.
+- The first Death Star
+was manned by the lmperial Army.
+
+479
+00:29:43,951 --> 00:29:47,487
+The only people on board were Storm
+Troopers, dignitaries, lmperialists.
+
+480
+00:29:47,588 --> 00:29:51,391
+- Basically.
+- So when they blew it up, no problem.
+Evil's punished.
+
+481
+00:29:51,458 --> 00:29:55,128
+- And the second time around ?
+- it wasn't even done being built yet.
+
+482
+00:29:55,229 --> 00:29:57,464
+- it was still under construction.
+- So ?
+
+483
+00:29:57,531 --> 00:29:59,900
+A construction job
+of that magnitude would require...
+
+484
+00:30:00,000 --> 00:30:03,036
+a lot more manpower
+than the lmperial Army had to offer.
+
+485
+00:30:03,070 --> 00:30:05,839
+I'll bet they brought independent
+contractors in on that thing.
+
+486
+00:30:05,906 --> 00:30:08,675
+- Plumbers, aluminum siders, roofers--
+- Not just lmperialists.
+
+487
+00:30:08,709 --> 00:30:11,144
+- Is that what you're getting at ?
+- Exactly.
+
+488
+00:30:11,211 --> 00:30:13,981
+To get it built quickly and quietly,
+they'd hire anybody
+that could do the job.
+
+489
+00:30:14,081 --> 00:30:16,683
+You think the average Storm Trooper
+knows how to install a toilet main ?
+
+490
+00:30:16,750 --> 00:30:21,355
+- All they know is killing.
+- So they bring in
+independent contractors.
+
+491
+00:30:21,388 --> 00:30:26,360
+- Why are you so upset ?
+- Those innocent contractors
+brought in are killed,
+
+492
+00:30:26,426 --> 00:30:29,196
+casualties of a war
+they had nothing to do with.
+
+493
+00:30:29,229 --> 00:30:33,433
+Look, you're a roofer. Some juicy
+government contract comes your way.
+
+494
+00:30:33,500 --> 00:30:36,336
+You got a wife and kids,
+the two-story in suburbia.
+
+495
+00:30:36,436 --> 00:30:39,506
+This is a government contract
+which means all sorts of benefits.
+
+496
+00:30:39,606 --> 00:30:41,708
+Along come these left-wing militants
+who blast everything...
+
+497
+00:30:41,808 --> 00:30:43,777
+within a three-mile radius
+with their lasers.
+
+498
+00:30:43,877 --> 00:30:46,446
+You didn't ask for that;
+you had no personal politics.
+
+499
+00:30:46,513 --> 00:30:49,516
+- You're just trying
+to scrape out a living.
+- l don't mean to interrupt,
+
+500
+00:30:49,583 --> 00:30:52,553
+- but what are you talking about ?
+- The ending of Return Of The Jedi.
+
+501
+00:30:52,586 --> 00:30:57,324
+My friend is trying to convince me
+that independent contractors
+working on the Death Star...
+
+502
+00:30:57,391 --> 00:30:59,960
+were innocent victims
+when it was destroyed by the rebels.
+
+503
+00:31:00,027 --> 00:31:02,729
+I'm a contractor myself.
+I'm a roofer.
+
+504
+00:31:02,796 --> 00:31:04,731
+""Done And Ready Home improvements.""
+
+505
+00:31:04,798 --> 00:31:08,035
+Speaking as a roofer, l can tell you
+a roofer's personal politics...
+
+506
+00:31:08,101 --> 00:31:11,238
+- comes into play heavily
+when choosing jobs.
+- Like when ?
+
+507
+00:31:11,271 --> 00:31:14,708
+Three weeks ago, l was offered a job
+up in the hills. Beautiful house.
+
+508
+00:31:14,808 --> 00:31:17,711
+Tons of property.
+A simple re-shingling job.
+
+509
+00:31:17,811 --> 00:31:21,515
+They told me if l could finish it
+in one day, l would double my price.
+
+510
+00:31:21,548 --> 00:31:24,184
+- Then l realized whose house it was.
+- [ Dante ] Whose house was it ?
+
+511
+00:31:24,284 --> 00:31:28,255
+- Dominic Bambino's.
+- Baby Face Bambino ? The gangster ?
+
+512
+00:31:28,322 --> 00:31:32,226
+The same ! The money was right,
+but the risk was too high.
+
+513
+00:31:32,326 --> 00:31:36,363
+I knew who he was, and based on that,
+I turned the job over to a friend.
+
+514
+00:31:36,430 --> 00:31:38,999
+- Based on personal politics.
+- Right !
+
+515
+00:31:39,099 --> 00:31:43,370
+The next week, the Foresie family
+put a hit on Baby Face's house.
+
+516
+00:31:43,437 --> 00:31:48,075
+- My friend was shot and killed.
+Didn't even finish re-shingling.
+- No way.
+
+517
+00:31:48,141 --> 00:31:52,112
+I'm alive because l knew the risk
+involved in that particular client.
+
+518
+00:31:52,212 --> 00:31:54,181
+My friend wasn't so lucky.
+
+519
+00:31:54,214 --> 00:31:58,285
+Any contractor working on that
+Death Star knew the risk involved.
+
+520
+00:31:58,352 --> 00:32:00,954
+If they got killed,
+it's their own fault.
+
+521
+00:32:01,021 --> 00:32:04,057
+A roofer listens to this,
+not his wallet.
+
+522
+00:32:14,301 --> 00:32:18,572
+They say so much, but they never
+tell you if it's any good.
+
+523
+00:32:21,642 --> 00:32:24,945
+Are either one of these any good ?
+
+524
+00:32:24,978 --> 00:32:26,947
+- Sir ?
+- What ?
+
+525
+00:32:26,980 --> 00:32:30,784
+- Are either one of these any good ?
+- l don't watch movies.
+
+526
+00:32:30,817 --> 00:32:34,188
+[ Sighs ] Well, have you heard anything
+about either one of them ?
+
+527
+00:32:34,254 --> 00:32:37,524
+I find it's best to stay out
+of other people's affairs.
+
+528
+00:32:37,624 --> 00:32:41,528
+You mean you haven't heard anybody
+say anything about either one of these ?
+
+529
+00:32:41,628 --> 00:32:43,530
+Nope.
+
+530
+00:32:43,630 --> 00:32:45,532
+[ Sighs ]
+
+531
+00:32:47,701 --> 00:32:51,071
+- Well, what about these two ?
+- They suck.
+
+532
+00:32:51,104 --> 00:32:54,541
+[ Sighs ]
+These are the same two movies.
+
+533
+00:32:54,608 --> 00:32:58,145
+- You weren't paying any attention.
+- No, l wasn't.
+
+534
+00:32:58,212 --> 00:33:00,714
+I don't think your manager
+would appreciate it--
+
+535
+00:33:00,781 --> 00:33:03,750
+- l don't appreciate your ruse, ma'am.
+- l beg your pardon ?
+
+536
+00:33:03,784 --> 00:33:07,387
+Your ruse.
+Your cunning attempt to trick me.
+
+537
+00:33:07,454 --> 00:33:11,758
+I was only pointing out that
+you weren't paying any attention
+to what l was saying.
+
+538
+00:33:11,825 --> 00:33:13,727
+And l hope it feels good.
+
+539
+00:33:13,827 --> 00:33:17,264
+- You hope what feels good ?
+- l hope it feels so good to be right.
+
+540
+00:33:17,297 --> 00:33:19,266
+There's nothing more exhilarating...
+
+541
+00:33:19,333 --> 00:33:21,435
+than pointing out
+the shortcomings of others, is there ?
+
+542
+00:33:21,502 --> 00:33:24,738
+[ Heavy Sigh ] Well, this is
+the last time l rent here !
+
+543
+00:33:24,838 --> 00:33:28,108
+- You will be missed.
+- Screw you !
+
+544
+00:33:30,277 --> 00:33:34,715
+- Hey, you're not allowed
+to rent here anymore !
+- [ Jay ] Yeah !
+
+545
+00:33:34,781 --> 00:33:36,717
+Screw me ?
+
+546
+00:33:49,630 --> 00:33:52,566
+- You'll never believe
+what this unruly customer just said.
+- Wait.
+
+547
+00:33:52,633 --> 00:33:56,003
+- She in here ?
+- This guy's going through all the eggs.
+
+548
+00:33:56,069 --> 00:33:58,639
+This has been going on
+for 20 minutes now.
+
+549
+00:33:58,705 --> 00:34:01,308
+- What's he looking for ?
+- Said he has to find the perfect dozen.
+
+550
+00:34:01,408 --> 00:34:04,244
+- Perfect dozen ?
+- Each egg has to be perfect.
+
+551
+00:34:04,311 --> 00:34:06,547
+- The quest isn't going well ?
+- Obviously not.
+
+552
+00:34:06,647 --> 00:34:09,983
+- Look at all the cartons
+that didn't make the grade.
+- Why doesn't he mix and match ?
+
+553
+00:34:10,083 --> 00:34:12,553
+- l told him that, and he yelled at me.
+- What'd he say ?
+
+554
+00:34:12,619 --> 00:34:15,923
+He said
+it was important to have standards.
+He says no one has any pride anymore.
+
+555
+00:34:15,989 --> 00:34:18,225
+It's not like
+you laid the eggs yourself.
+
+556
+00:34:18,292 --> 00:34:21,261
+I give him five more minutes.
+After that, I'm calling the cops.
+
+557
+00:34:21,328 --> 00:34:24,331
+I don't need this.
+I'm not even supposed to be here today.
+
+558
+00:34:25,666 --> 00:34:27,601
+Two packs of cigarettes.
+
+559
+00:34:30,304 --> 00:34:33,874
+- I'm as puzzled as you.
+- I've actually seen it before.
+
+560
+00:34:33,974 --> 00:34:37,044
+- You know him ?
+- No, but l know the behavior.
+
+561
+00:34:37,110 --> 00:34:40,214
+- Let me guess. He's looking
+for the perfect carton of eggs ?
+- [ Randal ] How'd you know ?
+
+562
+00:34:40,280 --> 00:34:44,051
+- I'll bet you a million dollars
+he's a guidance counselor.
+- [ Dante ] Why do you say that ?
+
+563
+00:34:44,117 --> 00:34:48,155
+I saw it happen in Food City,
+Like, last year. Different guy, though.
+
+564
+00:34:48,255 --> 00:34:51,191
+Stock boy said he'd been looking through
+cartons of eggs for half an hour,
+
+565
+00:34:51,291 --> 00:34:53,794
+doing all sorts
+of endurance tests and stuff.
+
+566
+00:34:53,894 --> 00:34:56,230
+I asked him why nobody ever called
+the manager, and he said it happens...
+
+567
+00:34:56,296 --> 00:34:58,599
+two, three times a week, sometimes more.
+
+568
+00:34:58,699 --> 00:35:00,868
+- Get out of here.
+- No, l kid you not.
+
+569
+00:35:00,968 --> 00:35:04,371
+They call it shell shock. Seems to
+only happen with guidance counselors.
+
+570
+00:35:04,438 --> 00:35:07,174
+They used to make a big deal of it,
+but they just let it go now...
+
+571
+00:35:07,241 --> 00:35:10,410
+because they always pay
+for whatever they break,
+and they never bother anybody.
+
+572
+00:35:10,477 --> 00:35:12,412
+Why guidance counselors ?
+
+573
+00:35:12,479 --> 00:35:15,415
+If your job was as meaningless
+as theirs, wouldn't you go crazy too ?
+
+574
+00:35:15,482 --> 00:35:18,952
+- Come to think of it, my guidance
+counselor was kinda worthless.
+- See ?
+
+575
+00:35:19,052 --> 00:35:21,488
+It's important to have a job
+that makes a difference, boys.
+
+576
+00:35:21,555 --> 00:35:26,760
+That's why l manually masturbate caged
+animals for artificial insemination.
+
+577
+00:35:29,329 --> 00:35:32,299
+<MUSIC> Go your own way <MUSIC>
+
+578
+00:35:32,332 --> 00:35:37,538
+<MUSIC> You can call it
+another lonely day <MUSIC><MUSIC>
+
+579
+00:36:01,295 --> 00:36:05,098
+Did you ever notice
+that all the prices end in ""9"" ?
+
+580
+00:36:05,132 --> 00:36:07,100
+Damn, that's eerie.
+
+581
+00:36:07,134 --> 00:36:11,104
+- Do you know how much the average
+jiz-mopper makes per hour ?
+- What's a jiz-mopper ?
+
+582
+00:36:11,138 --> 00:36:14,408
+The guy that cleans up the nudie booths
+after each guy jerks off.
+
+583
+00:36:14,508 --> 00:36:16,577
+- ""Nudie booth"" ?
+- Yeah, nudie booth.
+
+584
+00:36:16,643 --> 00:36:19,246
+- You ever been in a nudie booth ?
+- Guess not.
+
+585
+00:36:19,346 --> 00:36:21,248
+Oh, man, it's great.
+
+586
+00:36:21,348 --> 00:36:23,784
+You go into this booth, and there's
+this glass between you and these chicks.
+
+587
+00:36:23,817 --> 00:36:27,087
+- And they put on a show for you
+for, like, ten bucks.
+- What kind of a show ?
+
+588
+00:36:27,187 --> 00:36:30,257
+Think of the weirdest, craziest shit
+you'd like to see chicks do.
+
+589
+00:36:30,357 --> 00:36:34,061
+These chicks do it all. They insert
+things into any opening on their body.
+
+590
+00:36:34,094 --> 00:36:36,530
+- Any opening.
+- Can we not talk about this now ?
+
+591
+00:36:36,630 --> 00:36:39,700
+The jiz-mopper's job is to clean it up
+after each guy shoots a load.
+
+592
+00:36:39,800 --> 00:36:42,069
+Practically everybody
+does it right on the window.
+
+593
+00:36:42,135 --> 00:36:45,138
+I don't know if you know this,
+but cum leaves streaks
+if you don't clean it right away.
+
+594
+00:36:45,239 --> 00:36:48,275
+- l will never come to this place again.
+- Excuse me ?
+
+595
+00:36:48,342 --> 00:36:52,179
+Using filthy language in front of
+the customers. You both should be fired.
+
+596
+00:36:52,279 --> 00:36:55,782
+Oh, l-I'm sorry.
+I guess we kinda got carried away.
+
+597
+00:36:55,883 --> 00:36:58,919
+I don't know
+if sorry can make up for it.
+
+598
+00:36:58,986 --> 00:37:01,788
+You've highly offended me.
+
+599
+00:37:01,855 --> 00:37:04,925
+Well, if you think that's offensive,
+check this out.
+
+600
+00:37:04,992 --> 00:37:06,860
+Oh !
+[ Screaming ]
+
+601
+00:37:06,894 --> 00:37:09,663
+- l think you can see her kidneys.
+- Why do you do things like that ?
+
+602
+00:37:09,696 --> 00:37:12,599
+- You know he's only going
+to come back and tell the boss.
+- Who cares ?
+
+603
+00:37:12,666 --> 00:37:15,602
+That guy's an asshole. Everybody
+that comes in here is way too uptight.
+
+604
+00:37:15,669 --> 00:37:18,605
+This job would be great
+if it wasn't for the fucking customers.
+
+605
+00:37:18,672 --> 00:37:21,942
+- Jesus ! I'm gonna hear
+from the boss tomorrow.
+- Would you loosen up ?
+
+606
+00:37:22,009 --> 00:37:25,112
+You'd feel a lot better if you'd just
+rip into the occasional customer.
+
+607
+00:37:25,179 --> 00:37:28,115
+Why ? l-l don't bother them
+and they don't bother me.
+
+608
+00:37:28,182 --> 00:37:32,886
+Liar ! Tell me there aren't
+customers that annoy the piss
+out of you on a daily basis.
+
+609
+00:37:32,953 --> 00:37:35,556
+- There aren't !
+- How can you lie like that ?
+
+610
+00:37:35,622 --> 00:37:41,228
+Why don't you vent ? Vent your
+frustrations. Who pisses you off ?
+
+611
+00:37:41,328 --> 00:37:44,731
+Well, l guess it isn't
+customers in particular.
+
+612
+00:37:44,798 --> 00:37:47,568
+Maybe just a group of customers.
+
+613
+00:37:47,634 --> 00:37:51,972
+- Well, let's hear it.
+- Well, the Milk Maids.
+
+614
+00:37:52,005 --> 00:37:53,974
+The Milk Maids ?
+
+615
+00:37:54,007 --> 00:37:58,078
+The women that go through every gallon
+of milk, looking for that later date,
+
+616
+00:37:58,145 --> 00:38:01,081
+as if somewhere beyond all the other
+gallons is a container of milk...
+
+617
+00:38:01,148 --> 00:38:03,851
+that won't go bad for like a decade.
+
+618
+00:38:03,917 --> 00:38:08,088
+You know who l can do without ?
+The people in the video store.
+
+619
+00:38:08,155 --> 00:38:10,290
+- Which ones ?
+- All of 'em.
+
+620
+00:38:10,357 --> 00:38:14,094
+What would you get for a six-year-old
+boy who chronically wets his bed ?
+
+621
+00:38:14,127 --> 00:38:16,930
+So, do you have any new movies in ?
+
+622
+00:38:16,997 --> 00:38:21,668
+Do you have that one
+with that guy who was in
+that movie that was out last year ?
+
+623
+00:38:21,768 --> 00:38:23,670
+They never rent quality flicks.
+
+624
+00:38:23,770 --> 00:38:26,974
+They always pick the most intellectually
+devoid movie on the racks.
+
+625
+00:38:27,007 --> 00:38:29,510
+Oooh ! Navy SEALS !
+
+626
+00:38:29,610 --> 00:38:33,113
+It's like in order to join they have to
+have an I.Q. less than their shoe size.
+
+627
+00:38:33,213 --> 00:38:37,217
+You think you get stupid questions ?
+You should hear the barrage that l get.
+
+628
+00:38:37,284 --> 00:38:39,753
+What do you mean there's no ice ?
+I've got to drink this coffee hot ?
+
+629
+00:38:39,853 --> 00:38:43,257
+So, how much is this thing anyway ?
+
+630
+00:38:45,492 --> 00:38:48,161
+Do you sell hubcaps
+for a '72 Pinto hatchback ?
+
+631
+00:38:48,262 --> 00:38:50,163
+Ooh ! Mini-Trucker magazine.
+
+632
+00:38:50,264 --> 00:38:53,267
+-See? You vented. Don't you feel better?
+-No.
+
+633
+00:38:53,333 --> 00:38:56,403
+- Why not ?
+- Because my ex-girlfriend
+is getting married.
+
+634
+00:38:56,503 --> 00:38:59,907
+Jesus, you got a one-track mind.
+It's always Caitlin, Caitlin, Caitlin.
+
+635
+00:38:59,973 --> 00:39:01,909
+Veronica !
+
+636
+00:39:03,810 --> 00:39:07,080
+- What happened to home by 12:00 ?
+- Boss hasn't shown up yet.
+
+637
+00:39:07,181 --> 00:39:09,616
+- How come you're not in class ?
+- Lit. 101 got cancelled.
+
+638
+00:39:09,650 --> 00:39:13,086
+- So l stopped home
+and l brought you some lunch.
+- What is it ?
+
+639
+00:39:13,187 --> 00:39:16,256
+Peanut butter and jelly
+with the crusts cut off.
+What do you think it is ?
+
+640
+00:39:16,323 --> 00:39:19,092
+- it's lasagna.
+- Really ?
+
+641
+00:39:19,159 --> 00:39:21,628
+Oh, you're the queen.
+
+642
+00:39:21,695 --> 00:39:24,631
+I'm glad you calmed down a bit.
+Hi, Randal.
+
+643
+00:39:24,698 --> 00:39:27,601
+- Thirty-seven ?
+- Shut up !
+
+644
+00:39:27,701 --> 00:39:31,138
+Yes, I've calmed down.
+I'm not happy, but I'll be able to deal.
+
+645
+00:39:31,171 --> 00:39:35,375
+- [ Sucking Sound ]
+- Why don't you go back
+to the video store ?
+
+646
+00:39:39,813 --> 00:39:43,417
+- You had to tell him ?
+- l had to tell someone.
+He put it into perspective.
+
+647
+00:39:43,450 --> 00:39:46,420
+- What did he say ?
+- He said at least he wasn't 36.
+
+648
+00:39:46,486 --> 00:39:48,422
+And that made you feel better ?
+
+649
+00:39:48,488 --> 00:39:51,892
+And he said most of them were college
+guys l never even seen or met before.
+
+650
+00:39:51,992 --> 00:39:55,095
+- The ostrich syndrome:
+If you don't see it--
+- it isn't there. Yes.
+
+651
+00:39:55,128 --> 00:39:58,432
+- Thank you for being rational.
+- Thank you for the lasagna.
+
+652
+00:39:58,498 --> 00:40:00,567
+- Couldn't get the shutters open ?
+- No.
+
+653
+00:40:00,667 --> 00:40:03,570
+I called the locksmith.
+He said the earliest he could
+be here is tomorrow morning.
+
+654
+00:40:03,670 --> 00:40:06,440
+Bummer. Well, l gotta
+head back for the 1:30 class.
+
+655
+00:40:06,507 --> 00:40:10,544
+- What time you get finished ?
+- 8:00, but l have
+a sorority meeting 'til 9:00.
+
+656
+00:40:10,611 --> 00:40:13,280
+So, I'll see you when you close then.
+Can we go out for coffee ?
+
+657
+00:40:13,347 --> 00:40:15,282
+- Sure.
+- Good.
+
+658
+00:40:15,349 --> 00:40:17,618
+See you when you close.
+Enjoy the lasagna.
+
+659
+00:40:17,651 --> 00:40:21,121
+[ Door Opens, Closes ]
+
+660
+00:40:25,692 --> 00:40:28,829
+[ Sucking Sound ]
+
+661
+00:40:35,202 --> 00:40:37,137
+Vermont ?
+
+662
+00:40:37,204 --> 00:40:40,407
+No, that can't be.
+I just talked to him this morning.
+
+663
+00:40:40,440 --> 00:40:43,143
+He left at what time ?
+
+664
+00:40:43,243 --> 00:40:47,481
+He really went to Vermont ? When
+the hell was someone going to tell me?
+
+665
+00:40:47,548 --> 00:40:50,317
+He promised me he'd be here by noon !
+
+666
+00:40:50,384 --> 00:40:54,688
+Jesus, when does he get back ? Tuesday ?
+You've gotta be fucking kidding me !
+
+667
+00:40:54,721 --> 00:40:57,157
+I've got a hockey game at 2:00, and
+the steel shutters are jammed closed.
+
+668
+00:40:57,224 --> 00:41:00,994
+And he's in Vermont ?
+I'm not even supposed to be here today !
+
+669
+00:41:01,061 --> 00:41:03,530
+[ Sighing ]
+
+670
+00:41:04,565 --> 00:41:06,967
+So I'm stuck here until closing ?
+
+671
+00:41:07,000 --> 00:41:11,004
+Oh, this is just great.
+I can't fucking believe this.
+
+672
+00:41:11,071 --> 00:41:13,006
+Th--
+
+673
+00:41:13,073 --> 00:41:17,678
+No. No, I'm sorry.
+I didn't mean to yell at you.
+
+674
+00:41:17,744 --> 00:41:20,214
+Yeah, l know.
+
+675
+00:41:20,280 --> 00:41:23,851
+No, l-I'll be all right.
+
+676
+00:41:23,917 --> 00:41:26,687
+Well, that's all l can do, right ?
+Yeah.
+
+677
+00:41:26,753 --> 00:41:29,890
+- All right, thanks. Bye.
+- Vermont ?
+
+678
+00:41:29,923 --> 00:41:32,793
+- Can you fucking believe this ?
+- He didn't mention that to you
+this morning ?
+
+679
+00:41:32,893 --> 00:41:35,629
+Not a word !
+Not a fucking word, that slippery shit.
+
+680
+00:41:35,729 --> 00:41:37,965
+- So, what ? You're stuck here all day ?
+- Fuck !
+
+681
+00:41:38,031 --> 00:41:39,967
+- Why'd you apologize ?
+- What ?
+
+682
+00:41:40,033 --> 00:41:42,803
+I heard you apologize. Why ? You had
+every reason in the world to be mad.
+
+683
+00:41:42,870 --> 00:41:45,973
+- l know !
+- Jesus ! That seems to be
+the leitmotif in your life.
+
+684
+00:41:46,039 --> 00:41:48,175
+- Ever backing down.
+- l don't back down !
+
+685
+00:41:48,242 --> 00:41:50,811
+You always back down.
+You assume blame that's not yours.
+
+686
+00:41:50,878 --> 00:41:53,647
+You come in on your day off;
+you buckle like a belt.
+
+687
+00:41:53,714 --> 00:41:56,683
+- You know what really pisses me off ?
+- That I'm right about your buckling ?
+
+688
+00:41:56,717 --> 00:41:59,319
+- I'm going to miss the fucking game !
+- Because you buckled.
+
+689
+00:41:59,419 --> 00:42:02,689
+- Shut up with that shit.
+It ain't helping !
+- Don't yell at me, pal.
+
+690
+00:42:02,723 --> 00:42:05,025
+- I'm sorry.
+- See ? There you go again.
+
+691
+00:42:05,092 --> 00:42:08,962
+- l can't believe
+I'm going to miss the fucking game.
+- At least we're stuck here together.
+
+692
+00:42:08,996 --> 00:42:11,365
+You got a customer.
+
+693
+00:42:11,398 --> 00:42:14,001
+What ?
+What do you want ?
+
+694
+00:42:17,938 --> 00:42:21,008
+I can't fucking believe this.
+
+695
+00:42:21,108 --> 00:42:24,211
+Yeah, hello, Sanford.
+Dante.
+
+696
+00:42:24,244 --> 00:42:28,215
+I can't play today.
+I'm stuck at work.
+
+697
+00:42:28,282 --> 00:42:32,219
+Yeah, l know I'm not scheduled today--
+Forget it.
+
+698
+00:42:32,286 --> 00:42:36,990
+Point is, l can't play today.
+Neither can Randal. He's working too.
+
+699
+00:42:38,392 --> 00:42:42,162
+Wait a second.
+Do we have to play at the park ?
+
+700
+00:42:42,262 --> 00:42:44,965
+Hold on.
+You feeling limber ?
+
+701
+00:42:55,475 --> 00:42:58,345
+- Pull my laces tighter, man.
+- I've got to tell you, my friend,
+
+702
+00:42:58,412 --> 00:43:00,848
+this is one of the most ballsiest moves
+I've ever been privy to.
+
+703
+00:43:00,914 --> 00:43:03,851
+I never thought you capable of such
+a blatant disregard of store policy.
+
+704
+00:43:03,884 --> 00:43:06,854
+- l told him l had a game today.
+It's his own fault.
+- No arguments here.
+
+705
+00:43:06,954 --> 00:43:10,023
+- insubordination rules.
+- l just want to play hockey
+Like l was scheduled to.
+
+706
+00:43:10,090 --> 00:43:13,527
+- I'm gonna grab a Gatorade.
+- lf you grab a Gatorade,
+then everybody's gonna grab one.
+
+707
+00:43:13,594 --> 00:43:15,863
+- So ?
+- Who's gonna pay for these Gatorades ?
+
+708
+00:43:15,929 --> 00:43:18,866
+- What do you care,
+you shoe polish-smelling motherfucker ?
+- l have a responsibility here.
+
+709
+00:43:18,932 --> 00:43:21,869
+- l can't have everybody
+grabbing free drinks.
+- What responsibility ?
+
+710
+00:43:21,935 --> 00:43:24,872
+- You're closing the store
+to play hockey.
+- He's blunt, but he's got a point.
+
+711
+00:43:24,938 --> 00:43:27,541
+Will you let me maintain
+some semblance of managerial control ?
+
+712
+00:43:27,641 --> 00:43:30,077
+No, I'm sayin'
+if you're gonna be insubordinate,
+might as well go the full nine,
+
+713
+00:43:30,110 --> 00:43:32,079
+not pussy out
+when it comes to free shit to drink.
+
+714
+00:43:32,112 --> 00:43:34,982
+- He's right. As if we're going
+to have a run on Gatorade.
+- Fuckin' A.
+
+715
+00:43:35,082 --> 00:43:36,984
+All right !
+Jesus, you fuckers are pushy !
+
+716
+00:43:37,084 --> 00:43:40,320
+- l hear Caitlin's
+marrying an Asian drum major.
+- Design major.
+
+717
+00:43:40,387 --> 00:43:42,523
+- Can we not talk about this ?
+- Fine by me.
+
+718
+00:43:42,556 --> 00:43:45,359
+But you're living in denial
+and suppressing rage, motherfucker.
+
+719
+00:43:45,392 --> 00:43:48,161
+- You going to lock the store ?
+- l don't know.
+You're going to lock the video store ?
+
+720
+00:43:48,228 --> 00:43:50,664
+Look who you're asking here.
+How're we gonna block the street ?
+
+721
+00:43:50,764 --> 00:43:55,002
+- We're not playing in the street.
+- Then where are we gonna play ?
+
+722
+00:44:01,108 --> 00:44:03,310
+Hit 'em, hit 'em, hit 'em !
+
+723
+00:44:15,756 --> 00:44:19,193
+[ Yelling ]
+
+724
+00:44:28,869 --> 00:44:31,872
+I got it ! l got it !
+It's mine, it's mine !
+
+725
+00:44:41,081 --> 00:44:43,016
+Yeah !
+
+726
+00:44:44,117 --> 00:44:46,520
+[ Yelling Continues ]
+
+727
+00:44:51,558 --> 00:44:53,527
+Hit 'em !
+
+728
+00:44:55,596 --> 00:44:57,764
+All right, here we go.
+I got it.
+
+729
+00:44:57,798 --> 00:45:00,000
+- When is this period over ?
+- Eight more minutes.
+
+730
+00:45:00,100 --> 00:45:02,836
+What, are you shitting me ?
+I wanna get cigarettes.
+
+731
+00:45:02,936 --> 00:45:06,373
+- Just wait a few minutes.
+- I'm gonna break my crazy neck
+on this ladder.
+
+732
+00:45:06,440 --> 00:45:09,643
+Now, lose the skates, Dorothy Hamill,
+and open the fucking store !
+
+733
+00:45:09,676 --> 00:45:12,212
+- Dante, where are you ?
+- He's busy !
+- in a second !
+
+734
+00:45:12,279 --> 00:45:16,049
+Fuck ""in a second"" !
+Oh, look at you. You can't even pass.
+
+735
+00:45:16,116 --> 00:45:19,219
+- [ Dante ] l can pass !
+- How about covering the point ?
+Man, you suck !
+
+736
+00:45:19,286 --> 00:45:22,723
+- Who are you to make assessments ?
+- I'll assess all l want, pal !
+
+737
+00:45:22,756 --> 00:45:26,560
+- Dante, you in or out ?
+- Don't pass to this guy.
+He sucks. You suck !
+
+738
+00:45:26,593 --> 00:45:29,196
+- Like you're any better ?
+- l can whip your ass any day, pal.
+
+739
+00:45:29,296 --> 00:45:32,199
+- Easy to say over there.
+- Give me a stick, pretty boy !
+
+740
+00:45:32,299 --> 00:45:35,435
+I'll knock your fucking teeth out
+and pass all over your ass !
+
+741
+00:45:35,536 --> 00:45:37,437
+- You open ?
+- Yeah, you open ?
+
+742
+00:45:37,538 --> 00:45:40,807
+[ Together ]
+No !
+
+743
+00:45:40,908 --> 00:45:43,343
+All right, there's a stick over there.
+You're shooting up against this goal.
+
+744
+00:45:43,410 --> 00:45:45,846
+Hey, Redding ! Come on.
+Get this fucker !
+
+745
+00:45:58,492 --> 00:46:00,093
+Oh, man ! Hey !
+
+746
+00:46:00,160 --> 00:46:03,130
+Come on. Let's go, let's go !
+Come on, come on. Get him !
+
+747
+00:46:03,230 --> 00:46:05,232
+Come on. Get him, get him !
+
+748
+00:46:17,911 --> 00:46:22,216
+- Give me another ball.
+- There are no more.
+
+749
+00:46:22,316 --> 00:46:24,885
+What the fuck you talking about ?
+How many balls you bring ?
+
+750
+00:46:24,952 --> 00:46:28,555
+I brought the orange one
+and... the orange one.
+
+751
+00:46:28,622 --> 00:46:30,991
+Hey, any balls down there ?
+
+752
+00:46:31,058 --> 00:46:35,028
+[ Jay ] About the biggest pair
+you ever seen, dingleberry.
+
+753
+00:46:35,062 --> 00:46:38,265
+- You only brought one ball ?
+- l thought Redding
+brought all the balls.
+
+754
+00:46:38,332 --> 00:46:41,168
+- [ Redding ] Dante had the balls.
+- Nobody has another ball ?
+
+755
+00:46:41,268 --> 00:46:43,170
+Shit !
+
+756
+00:46:43,270 --> 00:46:47,508
+We got what, 12 minutes of a game
+and it's over ? Fuck !
+
+757
+00:46:47,574 --> 00:46:51,345
+Fuck, fuck, fuck !
+I'm not even supposed to be here today.
+
+758
+00:46:53,280 --> 00:46:56,149
+I still get free Gatorade, right ?
+
+759
+00:47:06,960 --> 00:47:10,030
+- Be careful.
+- I'm trying.
+
+760
+00:47:10,097 --> 00:47:14,034
+You know, the insides of those has
+got stuff that can give you cancer.
+
+761
+00:47:14,101 --> 00:47:16,537
+- So I'm told.
+- Yeah.
+
+762
+00:47:16,637 --> 00:47:20,407
+I had a friend that chewed glass
+for a living. in the circus.
+
+763
+00:47:20,474 --> 00:47:23,911
+- And he got cancer
+from chewing fluorescent bulb glass ?
+- Nah.
+
+764
+00:47:23,944 --> 00:47:27,714
+- Got hit by a bus.
+- Oh. Can l help you ?
+
+765
+00:47:29,783 --> 00:47:34,521
+Well, uh, that depends.
+You got maybe a toilet in here ?
+
+766
+00:47:34,588 --> 00:47:37,691
+- Yeah, but it's for employees only.
+- l understand.
+
+767
+00:47:37,758 --> 00:47:41,195
+But l, uh, thought maybe
+you'd let me use it anyway.
+
+768
+00:47:41,228 --> 00:47:45,532
+I'm not so young anymore and I'm,
+how do you say, a little incontinent.
+
+769
+00:47:45,599 --> 00:47:49,670
+- Sure. in the back, through the cooler.
+- Thank you, sonny boy.
+
+770
+00:47:59,746 --> 00:48:03,650
+Say, uh, what kind of toilet paper
+you got back there ?
+
+771
+00:48:03,717 --> 00:48:06,887
+- The white kind.
+- l didn't ask about the color.
+
+772
+00:48:06,954 --> 00:48:10,557
+I mean, is it rough
+or is it cottony ?
+
+773
+00:48:10,591 --> 00:48:13,427
+- Actually, it's kinda rough.
+- Oh, boy !
+
+774
+00:48:13,527 --> 00:48:16,897
+It's gonna knock the hell
+out of my hemorrhoids.
+
+775
+00:48:16,964 --> 00:48:20,234
+I thought maybe you could
+Let me have a roll of the soft stuff.
+
+776
+00:48:20,300 --> 00:48:22,870
+I see you sell
+the soft stuff back there.
+
+777
+00:48:22,970 --> 00:48:25,739
+- Yeah, but--
+- Come on, boitshik !
+What's the difference ?
+
+778
+00:48:25,806 --> 00:48:29,109
+You said yourself
+you have the rough stuff in the back.
+
+779
+00:48:29,209 --> 00:48:31,879
+- Yeah, sure. Go ahead.
+- Thank you, sonny boy.
+
+780
+00:48:31,979 --> 00:48:33,914
+You're a lifesaver.
+
+781
+00:48:42,623 --> 00:48:45,158
+Say, young fella,
+I hate to bother you again,
+
+782
+00:48:45,259 --> 00:48:48,862
+but, uh, maybe l could have something
+in the back there to read ?
+
+783
+00:48:48,929 --> 00:48:50,864
+A paper or something ?
+
+784
+00:48:50,931 --> 00:48:53,200
+Sometimes it takes me a while,
+
+785
+00:48:53,267 --> 00:48:56,036
+and l like to have something
+to read while it's going on.
+
+786
+00:48:56,136 --> 00:48:58,105
+[ Dante ]
+Yeah, sure, go ahead.
+
+787
+00:48:58,138 --> 00:49:01,375
+One of the magazines you got
+in the back behind the counter.
+
+788
+00:49:01,441 --> 00:49:04,678
+- The porno mags ?
+- Yeah !
+
+789
+00:49:04,778 --> 00:49:07,214
+I like the cartoons.
+They make me laugh.
+
+790
+00:49:07,281 --> 00:49:10,717
+They draw some of the biggest titties
+you ever saw.
+
+791
+00:49:10,784 --> 00:49:13,720
+Not this one. Maybe the one
+you got underneath this one.
+
+792
+00:49:13,820 --> 00:49:16,223
+- They got bigger titties in there.
+- Here.
+
+793
+00:49:16,290 --> 00:49:19,059
+- Now leave me alone.
+- Oh, thank you, sonny boy.
+
+794
+00:49:19,126 --> 00:49:21,061
+I appreciate it.
+
+795
+00:49:24,731 --> 00:49:26,667
+Hell of a game.
+
+796
+00:49:26,733 --> 00:49:30,404
+One ball ? l close the store, they come
+all the way here, for one ball ?
+
+797
+00:49:30,504 --> 00:49:32,673
+Hockey is hockey.
+At least we got to play.
+
+798
+00:49:32,806 --> 00:49:35,709
+Twelve minutes is not a game.
+Jesus, it's hardly even a warm-up.
+
+799
+00:49:35,742 --> 00:49:40,347
+- Bitch, bitch, bitch.
+You want something to drink ?
+- Yeah, a Gatorade.
+
+800
+00:49:40,414 --> 00:49:45,419
+-Hey, what happened to all the Gatorade?
+-Exactly. They drank it all.
+
+801
+00:49:45,485 --> 00:49:48,755
+- Know what Sanford told me ?
+- l can't believe
+Caitlin's getting married.
+
+802
+00:49:48,822 --> 00:49:50,757
+- Julie Doyer died.
+- Yeah, right.
+
+803
+00:49:50,824 --> 00:49:53,427
+- No, I'm serious.
+- Oh, my God !
+
+804
+00:49:53,493 --> 00:49:56,029
+Sanford's brother dates her cousin.
+He found out this morning.
+
+805
+00:49:56,096 --> 00:49:58,699
+- How ? When ?
+- Embolism in her brain. Yesterday.
+
+806
+00:49:58,799 --> 00:50:01,702
+- Jesus !
+- She was swimming in the pool
+in the YMCA when it happened.
+
+807
+00:50:01,768 --> 00:50:05,706
+-She died mid-backstroke.
+-l haven't seen her in, like, two years.
+
+808
+00:50:05,772 --> 00:50:08,742
+Correct me if I'm wrong, but wasn't she
+one of the illustrious 12 ?
+
+809
+00:50:08,775 --> 00:50:12,546
+- Yeah, number six.
+- You've had sex with a dead person.
+
+810
+00:50:12,613 --> 00:50:15,315
+- I'm gonna go to her wake.
+- No, you're not. it's today.
+
+811
+00:50:15,382 --> 00:50:18,552
+- What ?
+- Posten's Funeral Parlor.
+Next show's at 4:00.
+
+812
+00:50:18,619 --> 00:50:21,722
+- Shit ! What about tomorrow ?
+- One night only.
+She's buried in the morning.
+
+813
+00:50:21,788 --> 00:50:24,224
+- You gotta watch the store.
+I gotta go to this.
+- Wait, wait, wait, wait.
+
+814
+00:50:24,324 --> 00:50:27,761
+- Has it occurred to you
+that l might be bereaved as well ?
+- You hardly knew her.
+
+815
+00:50:27,828 --> 00:50:30,764
+True. But do you know
+how many people are gonna be there ?
+
+816
+00:50:30,831 --> 00:50:33,267
+- All her old classmates,
+to say the least.
+- This is beneath even you.
+
+817
+00:50:33,300 --> 00:50:36,436
+I'm not gonna miss what's probably
+gonna be the social event of the season.
+
+818
+00:50:36,503 --> 00:50:39,740
+-You hate people !
+-But l love gatherings. isn't it ironic?
+
+819
+00:50:39,840 --> 00:50:42,576
+Stop being an asshole.
+Someone's gotta watch the store.
+
+820
+00:50:42,676 --> 00:50:44,745
+- lf you go, l go.
+- She meant nothing to you !
+
+821
+00:50:44,845 --> 00:50:47,447
+She meant nothing to you neither
+'til l told you she died.
+
+822
+00:50:47,514 --> 00:50:49,449
+- I'm not taking you to this funeral.
+- I'm going with you.
+
+823
+00:50:49,516 --> 00:50:53,120
+- l can't close the store.
+- You just closed the store
+to play hockey on the roof.
+
+824
+00:50:53,187 --> 00:50:57,157
+Exactly ! Which means
+I can't close it for another hour
+just so we can both go to a wake.
+
+825
+00:50:57,224 --> 00:50:59,159
+You were saying ?
+
+826
+00:50:59,226 --> 00:51:03,130
+Thanks for putting me in
+such a tough spot. You're a good friend.
+
+827
+00:51:04,865 --> 00:51:08,101
+- She was pretty young, huh ?
+- Twenty-two. Just like us.
+
+828
+00:51:08,202 --> 00:51:11,972
+- Embolism in a pool.
+- What an embarrassing way to die.
+
+829
+00:51:12,039 --> 00:51:15,642
+- That's nothing compared
+to how my cousin Walter died.
+- How did he die ?
+
+830
+00:51:15,709 --> 00:51:18,812
+- He broke his neck.
+- That's embarrassing ?
+
+831
+00:51:18,879 --> 00:51:21,648
+He broke his neck
+trying to suck his own dick.
+
+832
+00:51:21,715 --> 00:51:23,817
+- Shut the hell up.
+- l swear.
+
+833
+00:51:23,884 --> 00:51:25,786
+- Stop it.
+- Bible truth.
+
+834
+00:51:25,886 --> 00:51:30,157
+- Oh, my God !
+- Come on. Haven't you ever
+tried to suck your own dick ?
+
+835
+00:51:30,257 --> 00:51:33,093
+- No.
+- Yeah, right. You're so repressed.
+
+836
+00:51:33,160 --> 00:51:36,763
+- Because l never tried
+to suck my own dick ?
+- No, because you won't admit to it.
+
+837
+00:51:36,830 --> 00:51:40,100
+As if a guy's a fucking pervert
+'cause he tries to go down on himself.
+
+838
+00:51:40,167 --> 00:51:42,936
+You're as curious as the rest
+of us, pal. You've tried it.
+
+839
+00:51:43,003 --> 00:51:45,939
+- Who found him ?
+- My cousin ? Mom found him.
+
+840
+00:51:46,006 --> 00:51:49,776
+It was a mess. He was on his bed,
+his legs doubled over himself.
+
+841
+00:51:49,843 --> 00:51:51,778
+Mom freaked out.
+
+842
+00:51:51,845 --> 00:51:54,448
+<MUSIC> You know that you are
+a shooting star <MUSIC>
+
+843
+00:51:54,515 --> 00:51:58,118
+- Made it, huh ? Dick in his mouth ?
+- Yeah.
+
+844
+00:51:58,218 --> 00:52:00,954
+Balls resting on his lips.
+
+845
+00:52:01,054 --> 00:52:04,625
+- Wow. He really made it.
+- Yeah, but at what a price.
+
+846
+00:52:07,194 --> 00:52:10,130
+- l can never reach.
+- Reach what ?
+
+847
+00:52:10,197 --> 00:52:12,666
+- You know.
+- What, your dick ?
+
+848
+00:52:12,699 --> 00:52:16,803
+Yeah. Like you said, l guess everybody
+gets curious and tries it sometime.
+
+849
+00:52:16,904 --> 00:52:18,805
+I never tried it.
+
+850
+00:52:21,041 --> 00:52:22,976
+Fucking pervert.
+
+851
+00:52:25,012 --> 00:52:29,483
+<MUSIC> Suddenly everyone loved
+to hear him play his songs <MUSIC>
+
+852
+00:52:29,583 --> 00:52:34,788
+<MUSIC> Watch the world go by
+Surprising it goes so fast <MUSIC>
+
+853
+00:52:34,855 --> 00:52:39,760
+<MUSIC> Johnny looked around him and said
+hey, I've made the big time at last <MUSIC><MUSIC>
+
+854
+00:52:41,862 --> 00:52:45,299
+- l knew this was a bad idea
+to close the store.
+- Listen to you.
+
+855
+00:52:45,332 --> 00:52:49,303
+I can't help it. At least on the roof,
+I could see if anybody wanted to go in.
+
+856
+00:52:49,336 --> 00:52:51,605
+Nobody's there.
+It's 4:00 on a Saturday.
+
+857
+00:52:51,705 --> 00:52:54,308
+How many people ever come to the store
+at 4:00 on a Saturday ?
+
+858
+00:52:56,143 --> 00:52:58,045
+Let me in !
+
+859
+00:53:15,395 --> 00:53:17,431
+[ Crashing Sound, Woman Screaming ]
+
+860
+00:53:23,904 --> 00:53:27,441
+<MUSIC> Do you know your place <MUSIC>
+
+861
+00:53:27,508 --> 00:53:30,511
+<MUSIC> In the big charade <MUSIC>
+
+862
+00:53:30,577 --> 00:53:35,082
+<MUSIC> Are you more than dead <MUSIC>
+
+863
+00:53:35,215 --> 00:53:39,019
+<MUSIC> Leaders and followers
+Leaders and followers <MUSIC><MUSIC>
+
+864
+00:53:39,052 --> 00:53:41,421
+- [ Door Closes ]
+- l can't fucking believe you.
+
+865
+00:53:41,522 --> 00:53:43,457
+I'm telling you, it wasn't my fault.
+
+866
+00:53:43,524 --> 00:53:46,627
+- You knocked the casket over,
+for Christ's sake !
+- l was just leanin' on it.
+
+867
+00:53:46,660 --> 00:53:49,630
+- it was an accident.
+- Like someone knocks a casket over
+on purpose !
+
+868
+00:53:49,696 --> 00:53:52,966
+- So the casket fell over. Big deal.
+- Her fucking body fell out !
+
+869
+00:53:53,033 --> 00:53:56,303
+I put her back in it. it's not like
+it matters if she breaks something.
+
+870
+00:53:56,336 --> 00:53:59,806
+- Just go open the video store.
+- [ Jay ] Open the video store !
+
+871
+00:53:59,873 --> 00:54:02,309
+Shut the fuck up, junkie.
+
+872
+00:54:04,378 --> 00:54:08,315
+-Would you just go open the video store?
+-Yeah, you cock-smokin' clerk.
+
+873
+00:54:08,382 --> 00:54:11,151
+How many times have l told you not
+to be dealing in front of the store ?
+
+874
+00:54:11,218 --> 00:54:13,153
+I'm not dealing.
+What're you talking about ?
+
+875
+00:54:13,220 --> 00:54:15,522
+- Have you got anything, man ?
+- What you want ?
+
+876
+00:54:18,225 --> 00:54:21,161
+- Let me borrow your car.
+- l don't want to talk to you.
+
+877
+00:54:21,228 --> 00:54:24,665
+- Fine. Just let me borrow your car.
+- Why should l loan you my car ?
+
+878
+00:54:24,731 --> 00:54:27,000
+- l want to rent a movie.
+- You want to rent a movie.
+
+879
+00:54:27,067 --> 00:54:29,670
+- [ Sighs ]
+- What's that for ?
+
+880
+00:54:29,770 --> 00:54:33,373
+- You work in a video store !
+- l work in a shitty video store.
+
+881
+00:54:33,440 --> 00:54:37,678
+I want to go to a good video store
+so l can get a good movie.
+
+882
+00:54:38,846 --> 00:54:40,948
+And a pack of cigarettes.
+
+883
+00:54:41,048 --> 00:54:43,984
+- Cute cat. What's its name ?
+- Annoying customer.
+
+884
+00:54:44,084 --> 00:54:46,053
+Fucking dickhead.
+
+885
+00:54:48,522 --> 00:54:51,491
+Can you imagine being halfway decent
+to the customers sometimes ?
+
+886
+00:54:51,525 --> 00:54:53,961
+- Let me borrow your car.
+- May l be blunt with you ?
+
+887
+00:54:54,027 --> 00:54:55,963
+If you must.
+
+888
+00:54:56,029 --> 00:54:58,966
+We are employees of Quick Stop
+Convenience and RST Video, respectively.
+
+889
+00:54:59,032 --> 00:55:02,402
+As such, we have certain obligations
+that, although they may seem cruel
+and unusual,
+
+890
+00:55:02,469 --> 00:55:05,339
+- does mean manning the store
+until closing.
+- l see.
+
+891
+00:55:05,372 --> 00:55:08,976
+So playing hockey and attending wakes
+are standard operating procedures ?
+
+892
+00:55:09,042 --> 00:55:13,480
+There's a difference.
+Those are obligations that couldn't
+have been met at any other date.
+
+893
+00:55:13,580 --> 00:55:15,816
+Now, renting videos, that's gratuitous,
+not to mention illogical,
+
+894
+00:55:15,883 --> 00:55:18,318
+being that you work at a video store.
+
+895
+00:55:18,418 --> 00:55:20,320
+- Are you open ?
+- Yes.
+
+896
+00:55:20,420 --> 00:55:25,025
+- l don't care for your rationale.
+- it's gonna have to do,
+being it's my car up for request.
+
+897
+00:55:25,092 --> 00:55:27,327
+- Can l help you ?
+- A pack of cigarettes.
+
+898
+00:55:27,394 --> 00:55:30,998
+- What's your point ?
+- My point is,
+you're a clerk, paid to do a job.
+
+899
+00:55:31,098 --> 00:55:34,601
+You can't just do anything
+you want while you're working.
+
+900
+00:55:34,701 --> 00:55:38,739
+""Space alien revealed
+as head of Time-Warner.
+
+901
+00:55:38,772 --> 00:55:41,808
+Report stock increase.""
+
+902
+00:55:41,909 --> 00:55:44,611
+They print any kind of shit
+in this paper.
+
+903
+00:55:44,678 --> 00:55:46,613
+They certainly do.
+Three dollars.
+
+904
+00:55:46,680 --> 00:55:49,283
+- Your argument is
+that title dictates behavior.
+- What ?
+
+905
+00:55:49,383 --> 00:55:52,519
+The reason you won't
+Let me use your car is because
+I have a title and job description,
+
+906
+00:55:52,619 --> 00:55:54,988
+- and I'm supposed to follow it, right ?
+- Exactly.
+
+907
+00:55:55,055 --> 00:55:58,425
+I saw one one time that said,
+
+908
+00:55:58,492 --> 00:56:01,128
+""The next week,
+the world is ending.""
+
+909
+00:56:01,228 --> 00:56:03,664
+In the next week's paper, they said,
+
+910
+00:56:03,730 --> 00:56:06,500
+""We were miraculously saved
+at the zero hour...
+
+911
+00:56:06,533 --> 00:56:09,970
+by a koala-fish mutant bird.""
+
+912
+00:56:10,070 --> 00:56:11,972
+[ Laughing ]
+Crazy shit.
+
+913
+00:56:12,072 --> 00:56:16,043
+So I'm no more
+responsible for my decisions here than,
+say, a death squad soldier in Bosnia ?
+
+914
+00:56:16,143 --> 00:56:19,179
+That's stretching it. You're not being
+asked to slay children or anything.
+
+915
+00:56:19,213 --> 00:56:21,815
+- Yeah, not yet.
+- And l remember one time--
+
+916
+00:56:23,951 --> 00:56:26,854
+I'm gonna break your fucking head,
+you fucking jerk !
+
+917
+00:56:26,887 --> 00:56:29,489
+- I'm sorry. He meant to hit me.
+- Yeah ? Well, he missed.
+
+918
+00:56:29,590 --> 00:56:32,492
+Here, let me refund your money
+and we'll call if even, all right ?
+
+919
+00:56:32,593 --> 00:56:34,628
+I'll never come in here again.
+
+920
+00:56:34,695 --> 00:56:39,800
+And if l see you again,
+I'm gonna break your fucking head open !
+
+921
+00:56:42,536 --> 00:56:44,771
+- What the fuck did you do that for ?
+- Two reasons.
+
+922
+00:56:44,872 --> 00:56:48,742
+One, l hate it when people can't shut up
+about the stupid tabloid headlines.
+
+923
+00:56:48,842 --> 00:56:52,312
+- Oh, Jesus.
+- And two, to prove a point.
+Title does not dictate behavior.
+
+924
+00:56:52,379 --> 00:56:55,816
+- What ?
+- lf title dictated my behavior
+as a clerk serving the public,
+
+925
+00:56:55,883 --> 00:56:58,819
+I wouldn't be allowed to spit water
+at that guy, but l did.
+
+926
+00:56:58,852 --> 00:57:01,455
+My point is that
+people dictate their own behavior.
+
+927
+00:57:01,555 --> 00:57:04,992
+Even though l work in a video store,
+I choose to rent movies at Big Choice.
+
+928
+00:57:05,058 --> 00:57:08,395
+- Agreed ?
+- You are a danger
+to both the dead and the living.
+
+929
+00:57:08,462 --> 00:57:10,898
+I like to think
+I'm a master of my own destiny.
+
+930
+00:57:10,964 --> 00:57:14,001
+- Please get the hell outta here.
+- You know I'm your hero.
+
+931
+00:57:19,740 --> 00:57:22,342
+Sounds to me like somebody
+needs to hit the gym.
+
+932
+00:57:22,442 --> 00:57:25,279
+- Excuse me ?
+- l heard you strain
+when you picked up that milk.
+
+933
+00:57:25,345 --> 00:57:28,348
+- it only weighs seven pounds.
+- l didn't strain. l sighed.
+
+934
+00:57:28,448 --> 00:57:30,717
+I don't think so.
+That was a grunt.
+
+935
+00:57:30,784 --> 00:57:34,288
+A deep inhalation of oxygen
+to aid in the stretching of muscles.
+
+936
+00:57:34,354 --> 00:57:38,525
+I'm a trainer. l know what that
+sound signifies. You're out of shape.
+
+937
+00:57:38,592 --> 00:57:41,828
+- What ? There's no fat on my body.
+- No fat !
+
+938
+00:57:41,929 --> 00:57:44,331
+No tone either.
+You don't get enough exercise.
+
+939
+00:57:44,364 --> 00:57:46,400
+- You open ?
+- Yes.
+
+940
+00:57:46,466 --> 00:57:49,169
+- Just the paper.
+- Thirty-five.
+
+941
+00:57:49,236 --> 00:57:52,906
+Hey, uh, let me ask you a question.
+Think this guy's out of shape ?
+
+942
+00:57:53,006 --> 00:57:54,908
+I don't know.
+Can't really tell from here.
+
+943
+00:57:55,008 --> 00:57:57,845
+- l am-- l am not !
+- He is.
+
+944
+00:57:57,878 --> 00:57:59,847
+How much can you bench ?
+
+945
+00:57:59,880 --> 00:58:02,883
+- l don't know.
+- I'd say about 60, 70, tops.
+
+946
+00:58:02,916 --> 00:58:04,885
+I know l can bench more than that.
+
+947
+00:58:04,918 --> 00:58:07,688
+- Three-fifty, four.
+- No way !
+
+948
+00:58:07,754 --> 00:58:09,723
+Feel that.
+
+949
+00:58:09,756 --> 00:58:12,626
+Hey, that's tight.
+Solid.
+
+950
+00:58:12,726 --> 00:58:14,928
+Yeah. Now feel this.
+Roll up your sleeve, chief.
+
+951
+00:58:14,962 --> 00:58:17,497
+- Oh, for God's sakes !
+- See, you're ashamed.
+
+952
+00:58:17,564 --> 00:58:19,566
+You know you're out of shape.
+
+953
+00:58:19,600 --> 00:58:21,568
+Here.
+Take my card.
+
+954
+00:58:21,602 --> 00:58:23,604
+I can get you on
+an aerobics/free weights program.
+
+955
+00:58:23,637 --> 00:58:26,607
+- Are you open ?
+- [ Dante ] Yes. I'm not out of shape.
+
+956
+00:58:26,673 --> 00:58:28,642
+Excuse me.
+Have you been here all day ?
+
+957
+00:58:28,675 --> 00:58:31,812
+- Yeah, since 6:00 this morning.
+- He's got those love handles.
+
+958
+00:58:31,879 --> 00:58:33,847
+I don't have love handles !
+
+959
+00:58:33,881 --> 00:58:36,083
+- Were you working here about 4:00 ?
+- Yes.
+
+960
+00:58:36,183 --> 00:58:39,119
+- it's probably from being
+around all this food every day.
+- Oh, l know.
+
+961
+00:58:39,219 --> 00:58:42,756
+If l had to work here all day,
+I'd be bloated and out of shape too.
+
+962
+00:58:42,856 --> 00:58:45,559
+- I'm not out of shape.
+- Can l have your name, please ?
+
+963
+00:58:45,659 --> 00:58:47,995
+Dante Hicks. Why ?
+What's this all about ?
+
+964
+00:58:48,095 --> 00:58:52,199
+You're Dante Hicks ? Oh, my God.
+I didn't even recognize you.
+
+965
+00:58:52,299 --> 00:58:54,768
+- Because he's out of shape !
+- Do l know you ?
+
+966
+00:58:54,835 --> 00:58:57,404
+Yeah. Do you remember Alyssa Jones ?
+She used to hang out--
+
+967
+00:58:57,504 --> 00:58:59,306
+- With Caitlin Bree !
+- I'm her sister.
+
+968
+00:58:59,373 --> 00:59:01,308
+You're Alyssa's sister Heather ?
+
+969
+00:59:01,375 --> 00:59:03,477
+- Yeah.
+- You, uh, say Caitlin Bree ?
+
+970
+00:59:03,577 --> 00:59:05,612
+- Yeah.
+- Pretty girl ?
+
+971
+00:59:05,679 --> 00:59:08,215
+A little taller than her ?
+Gorgeous body ?
+
+972
+00:59:08,282 --> 00:59:10,284
+- Yeah.
+- And you're Dante Hicks.
+
+973
+00:59:10,384 --> 00:59:12,419
+You went to the same school.
+You played hockey.
+
+974
+00:59:12,486 --> 00:59:15,122
+- Yeah. How did you know that ?
+- You still goin' out with her ?
+
+975
+00:59:15,222 --> 00:59:17,391
+- No, she's getting married.
+- To you ?
+
+976
+00:59:17,457 --> 00:59:19,426
+No. To an Asian design major.
+
+977
+00:59:19,493 --> 00:59:21,428
+Aw, shit !
+
+978
+00:59:21,495 --> 00:59:24,765
+Don't take this the wrong way,
+but, uh, l used to fuck her.
+
+979
+00:59:24,865 --> 00:59:27,334
+- What ?
+- Yeah, about two, three years ago.
+
+980
+00:59:27,401 --> 00:59:30,170
+While you two were dating.
+I drove a black Trans Am.
+
+981
+00:59:30,270 --> 00:59:32,306
+- You're Rick Daress ?
+- Yeah.
+
+982
+00:59:32,372 --> 00:59:34,308
+- You know him ?
+- Yeah.
+
+983
+00:59:34,374 --> 00:59:36,910
+- Caitlin used to
+talk about him all the time.
+- Really ?
+
+984
+00:59:36,977 --> 00:59:41,048
+Wait a second. You used to fuck
+Caitlin Bree while l was dating her ?
+
+985
+00:59:41,148 --> 00:59:43,917
+Nah, man, don't let it bother you.
+That was a long time ago.
+
+986
+00:59:43,984 --> 00:59:46,286
+I'm surprised you didn't
+know about it, Dante.
+
+987
+00:59:46,353 --> 00:59:48,989
+Everybody in school knew about it.
+Even in my class.
+
+988
+00:59:49,056 --> 00:59:51,024
+Jesus Christ ! What next ?
+
+989
+00:59:51,091 --> 00:59:53,026
+- Here you go.
+- What's this ?
+
+990
+00:59:53,093 --> 00:59:54,862
+- A fine for $500.
+- What ?
+
+991
+00:59:54,928 --> 00:59:56,897
+Five hundred bucks ?
+For what ?
+
+992
+00:59:56,997 --> 01:00:01,535
+For violation of New Jersey Statute,
+Section 2A, Number 170/51.
+
+993
+01:00:01,635 --> 01:00:04,238
+Any person who sells
+or makes available tobacco,
+
+994
+01:00:04,304 --> 01:00:07,241
+or tobacco-related products,
+to persons under the age of 18,
+
+995
+01:00:07,307 --> 01:00:09,276
+is regarded as disorderly.
+
+996
+01:00:09,309 --> 01:00:13,680
+- What are you talkin' about ?
+- An angry mother called
+the state division of taxation...
+
+997
+01:00:13,714 --> 01:00:15,716
+and claimed
+that a Quick Stop employee...
+
+998
+01:00:15,749 --> 01:00:18,852
+sold her four-year-old daughter
+a pack of cigarettes at 4:00 today.
+
+999
+01:00:18,919 --> 01:00:21,788
+The New Jersey Division of Taxation
+called the Board of Health...
+
+1000
+01:00:21,855 --> 01:00:23,790
+and sent me down to issue a fine.
+
+1001
+01:00:23,857 --> 01:00:27,394
+You claimed you were working here
+all day. Hence, the fine is yours.
+
+1002
+01:00:27,461 --> 01:00:30,063
+The fine is doubled due to
+the incredibly young age of the child.
+
+1003
+01:00:30,163 --> 01:00:32,065
+But l didn't sell any cigarettes
+to any kids !
+
+1004
+01:00:32,165 --> 01:00:35,235
+You sold cigarettes to a four-year-old ?
+What a scumbag !
+
+1005
+01:00:35,302 --> 01:00:37,404
+That's sick, Dante.
+
+1006
+01:00:37,471 --> 01:00:39,606
+I didn't sell cigarettes to any kids !
+I swear !
+
+1007
+01:00:39,673 --> 01:00:44,645
+The due date is on the bottom.
+This summons cannot be contested
+in any court of law.
+
+1008
+01:00:44,678 --> 01:00:46,747
+Failure to remit before the due date...
+
+1009
+01:00:46,847 --> 01:00:48,749
+will result
+in a charge of criminal negligence,
+
+1010
+01:00:48,849 --> 01:00:50,751
+and a warrant
+will be issued for your arrest.
+
+1011
+01:00:50,817 --> 01:00:53,620
+- Have a nice day.
+- But l didn't sell
+any cigarettes to any kids.
+
+1012
+01:00:53,720 --> 01:00:56,723
+Hey, wait a minute !
+
+1013
+01:00:56,790 --> 01:01:01,361
+Forget it. l don't wanna deal with a guy
+that sells cigarettes to four-year-olds.
+
+1014
+01:01:01,428 --> 01:01:03,764
+Can l, uh, give you
+a lift somewhere ?
+
+1015
+01:01:03,797 --> 01:01:06,733
+Sure. How 'bout the beach ?
+
+1016
+01:01:06,800 --> 01:01:08,702
+I like the way you think.
+
+1017
+01:01:13,607 --> 01:01:15,509
+Jesus ! What next ?
+
+1018
+01:01:15,609 --> 01:01:19,079
+- [ Woman ] Dante ?
+- What ? Caitlin !
+
+1019
+01:01:19,146 --> 01:01:23,350
+<MUSIC><MUSIC> [ Muzak ]
+
+1020
+01:01:41,635 --> 01:01:43,637
+- When did you get home ?
+- Just now.
+
+1021
+01:01:43,670 --> 01:01:46,540
+I can't believe it.
+I haven't seen you in so long.
+
+1022
+01:01:48,675 --> 01:01:50,777
+Dante, you have a customer.
+
+1023
+01:01:54,381 --> 01:01:56,683
+I just saw Alyssa's
+Little sister outside.
+
+1024
+01:01:56,783 --> 01:01:59,720
+- She was with Rick Daress.
+- Let's not talk about her.
+
+1025
+01:01:59,820 --> 01:02:02,723
+- How'd you get home ?
+- Train. it took eight hours.
+
+1026
+01:02:02,756 --> 01:02:04,925
+- l can't believe you're here.
+- Excuse me. Do you have--
+
+1027
+01:02:04,958 --> 01:02:07,160
+Uh, yeah. Back behind the oil.
+How long you staying ?
+
+1028
+01:02:07,261 --> 01:02:10,264
+Until Monday.
+Then l have to take the train back.
+
+1029
+01:02:10,330 --> 01:02:12,399
+Pack of cigarettes.
+Hey, congratulations.
+
+1030
+01:02:12,499 --> 01:02:14,401
+I saw the announcement
+in today's paper.
+
+1031
+01:02:14,501 --> 01:02:16,370
+You know, she's marrying
+an Asian design major.
+
+1032
+01:02:16,436 --> 01:02:18,405
+So I'm told.
+
+1033
+01:02:24,244 --> 01:02:29,183
+<MUSIC><MUSIC> [ Hip-Hop ]
+
+1034
+01:02:47,267 --> 01:02:49,570
+You're just gonna close
+the store like that ?
+
+1035
+01:02:49,670 --> 01:02:52,206
+I wanna talk to you about something,
+and l don't wanna be disturbed.
+
+1036
+01:02:52,272 --> 01:02:54,308
+Something l read in the tabloids.
+
+1037
+01:02:54,374 --> 01:02:56,376
+- You saw it.
+- Very dramatic, l thought.
+
+1038
+01:02:56,443 --> 01:02:58,579
+- it is not what you think.
+- Oh, it's not what l think.
+
+1039
+01:02:58,645 --> 01:03:01,515
+What is it, worse ? You're pregnant
+with the Asian design major's child ?
+
+1040
+01:03:01,582 --> 01:03:03,584
+- What's goin' on here ?
+- l am not pregnant.
+
+1041
+01:03:03,650 --> 01:03:06,253
+Were you gonna tell me, or were
+you gonna send me an invitation ?
+
+1042
+01:03:06,353 --> 01:03:09,556
+I was gonna tell you,
+but we were getting along so well,
+I didn't wanna mess it up.
+
+1043
+01:03:09,590 --> 01:03:11,592
+You could've broken it to me gently.
+
+1044
+01:03:11,625 --> 01:03:14,595
+You could've started
+by telling me you had a boyfriend.
+I told you l had a girlfriend.
+
+1045
+01:03:14,628 --> 01:03:18,665
+I know. I'm sorry,
+but when we started talking,
+it was like l forgot l had a boyfriend.
+
+1046
+01:03:18,732 --> 01:03:21,134
+- And then he proposed last month.
+- And you said yes.
+
+1047
+01:03:21,235 --> 01:03:23,136
+Well, kind of. Sort of.
+
+1048
+01:03:23,237 --> 01:03:26,039
+Is that what they teach you in that
+school of yours ? ""Kind of,"" ""sort of"" ?
+
+1049
+01:03:26,073 --> 01:03:28,842
+Everybody knows about this except me !
+Do you know how humiliating that is ?
+
+1050
+01:03:28,909 --> 01:03:31,812
+I would've told you, and you would've
+stopped calling me, like a baby.
+
+1051
+01:03:31,912 --> 01:03:33,881
+- How do you know that ?
+- Because l know you.
+
+1052
+01:03:33,914 --> 01:03:36,617
+You prefer drastic measures
+to rational ones.
+
+1053
+01:03:36,717 --> 01:03:38,986
+- So you're really getting married ?
+- No.
+
+1054
+01:03:39,052 --> 01:03:41,355
+- You're not really getting married ?
+- [ Scoffs ]
+
+1055
+01:03:41,421 --> 01:03:45,792
+The story goes like this: He proposed,
+I told him l had to think about it,
+
+1056
+01:03:45,826 --> 01:03:47,895
+and he insisted
+that l wear the ring anyway.
+
+1057
+01:03:47,995 --> 01:03:50,430
+Then my mother told the paper
+we were engaged.
+
+1058
+01:03:50,497 --> 01:03:52,966
+- Oh, how like her.
+- Then my mother called this morning...
+
+1059
+01:03:53,033 --> 01:03:55,469
+to let me know that
+the announcement was in the paper.
+
+1060
+01:03:55,536 --> 01:03:58,672
+That's when l hopped a train
+to come back here,
+because l knew you'd be a wreck.
+
+1061
+01:03:58,739 --> 01:04:01,408
+- Thanks for the vote of confidence.
+- Was l right ?
+
+1062
+01:04:01,475 --> 01:04:03,377
+""Wreck"" is a harsh term.
+
+1063
+01:04:03,477 --> 01:04:05,512
+""Disturbed"" is more like it.
+""Mildly disturbed,"" even.
+
+1064
+01:04:05,579 --> 01:04:09,116
+Oh, l love a macho facade.
+It is such a turn-on.
+
+1065
+01:04:09,183 --> 01:04:13,153
+- What smells like shoe polish ?
+- So you came here to what ?
+To comfort me ?
+
+1066
+01:04:13,220 --> 01:04:16,223
+The last thing l needed was for you to
+think l was hiding something from you.
+
+1067
+01:04:16,323 --> 01:04:18,592
+- But you were !
+- No, l wasn't ! Not really.
+
+1068
+01:04:18,692 --> 01:04:20,594
+I told you
+I'd been seeing other people.
+
+1069
+01:04:20,661 --> 01:04:23,630
+Yeah, but not seriously. Christ,
+you're ready to walk down the aisle.
+
+1070
+01:04:23,730 --> 01:04:25,732
+I think that constitutes something
+more than just seeing somebody.
+
+1071
+01:04:25,799 --> 01:04:28,969
+- What's going on ?
+- I'm giving him his ring back.
+
+1072
+01:04:29,036 --> 01:04:31,471
+- What ?
+- [ Sighs ] l don't want to marry him.
+
+1073
+01:04:31,505 --> 01:04:34,474
+I don't want to get married now.
+I'm on the verge of graduation.
+
+1074
+01:04:34,575 --> 01:04:38,045
+I want to go to grad school after this,
+and then l want to start a career.
+
+1075
+01:04:38,111 --> 01:04:40,681
+I don't want to be a wife first
+and then have to worry about...
+
+1076
+01:04:40,747 --> 01:04:42,716
+when I'm gonna
+fit in the other stuff.
+
+1077
+01:04:42,749 --> 01:04:45,252
+I have come way too far
+and studied too damn hard...
+
+1078
+01:04:45,319 --> 01:04:48,121
+to let my education
+go to waste as a housewife.
+
+1079
+01:04:48,188 --> 01:04:50,123
+And l know
+that's what I'd become.
+
+1080
+01:04:50,190 --> 01:04:53,794
+Sang's just signed with a major firm,
+and he's gonna be pulling in
+a huge salary,
+
+1081
+01:04:53,894 --> 01:04:56,129
+which would give me
+no reason to work.
+
+1082
+01:04:56,196 --> 01:04:58,131
+- He's very traditional.
+- Wait a minute.
+
+1083
+01:04:58,198 --> 01:05:01,568
+- His name is ""Sang"" ? Past tense ?
+- Stop it. He's a nice guy.
+
+1084
+01:05:01,635 --> 01:05:04,238
+Well, if he's so nice,
+why aren't you marrying him ?
+
+1085
+01:05:04,271 --> 01:05:07,441
+- l just told you.
+- There's more to this, isn't there ?
+
+1086
+01:05:07,541 --> 01:05:10,277
+Oh ! Why, Mr. Hicks,
+whatever do you mean ?
+
+1087
+01:05:10,377 --> 01:05:13,580
+- Tell me l don't
+have something to do with it.
+- You have nothing to do with it.
+
+1088
+01:05:13,647 --> 01:05:15,782
+- Oh, you lie !
+- Look how full of yourself you are !
+
+1089
+01:05:15,849 --> 01:05:17,818
+I just believe in giving credit
+where credit's due,
+
+1090
+01:05:17,885 --> 01:05:20,320
+and l believe I'm the impetus
+behind your refusal to wed.
+
+1091
+01:05:20,354 --> 01:05:24,424
+If I'm so nuts about you, then why am l
+having sex with an Asian design major ?
+
+1092
+01:05:24,491 --> 01:05:26,693
+Oh, Jesus. You're so caustic.
+
+1093
+01:05:26,760 --> 01:05:29,396
+I had to knock you down
+from that cloud you were floating on.
+
+1094
+01:05:29,463 --> 01:05:31,899
+When l say l don't want to get married,
+I mean just that.
+
+1095
+01:05:31,965 --> 01:05:34,968
+I don't want to marry anybody.
+Not for years.
+
+1096
+01:05:35,035 --> 01:05:37,237
+Who's asking ?
+I don't want to marry you.
+
+1097
+01:05:37,304 --> 01:05:39,840
+Well, good.
+Keep in that frame of mind.
+
+1098
+01:05:39,907 --> 01:05:43,410
+- Well, let's date.
+- Oh, l think Sang and... Veronica,
+
+1099
+01:05:43,477 --> 01:05:45,445
+they'd love that.
+
+1100
+01:05:45,546 --> 01:05:47,447
+We can introduce the two of them.
+They may hit it off.
+
+1101
+01:05:47,548 --> 01:05:49,650
+You're serious ?
+You wanna date again ?
+
+1102
+01:05:49,750 --> 01:05:51,652
+I wanna be your boyfriend, yes.
+
+1103
+01:05:51,718 --> 01:05:54,254
+It's just the shock of seeing me
+after three years.
+
+1104
+01:05:54,321 --> 01:05:57,257
+- Believe me, you'll get over it.
+- Give me a bit more credit.
+
+1105
+01:05:57,324 --> 01:05:59,259
+I think it's time
+we got back together.
+
+1106
+01:05:59,326 --> 01:06:02,362
+I'm more mature, you're more mature.
+You're finishing college.
+
+1107
+01:06:02,462 --> 01:06:05,232
+- I'm already in the job market.
+- You work in a market, all right.
+
+1108
+01:06:05,265 --> 01:06:07,467
+Cute. Tell me you wouldn't
+wanna go out with me again...
+
+1109
+01:06:07,534 --> 01:06:09,503
+after all the talking we've been doing.
+
+1110
+01:06:09,536 --> 01:06:11,538
+The key word here is ""talk,"" Dante.
+
+1111
+01:06:11,605 --> 01:06:13,674
+I think the idea,
+or the conception of us dating,
+
+1112
+01:06:13,740 --> 01:06:16,610
+is a lot more idyllic than
+what actually happens when we date.
+
+1113
+01:06:16,710 --> 01:06:19,613
+What are we supposed to do ?
+Pretend over the phone we're dating ?
+
+1114
+01:06:19,713 --> 01:06:22,149
+I don't know.
+Maybe we should just see what happens.
+
+1115
+01:06:22,182 --> 01:06:24,484
+- Let me take you out tonight.
+- On a date ?
+
+1116
+01:06:24,585 --> 01:06:27,087
+Yeah, a real date.
+Dinner and a movie.
+
+1117
+01:06:27,187 --> 01:06:29,556
+Oh, the ""Dante Hicks
+Dinner and Movie"" date.
+
+1118
+01:06:29,623 --> 01:06:33,794
+- l think I've been on that one before.
+- Do you have a better suggestion ?
+
+1119
+01:06:33,861 --> 01:06:35,829
+Well, how 'bout the ""Caitlin Bree...
+
+1120
+01:06:35,863 --> 01:06:39,666
+Walk On The Boardwalk, Then Get
+Naked Somewhere"" kind of private date ?
+
+1121
+01:06:39,733 --> 01:06:42,236
+- l hear that's kind of a popular date.
+- Jerk !
+
+1122
+01:06:42,302 --> 01:06:45,706
+God, here l am, throwing myself at you,
+succumbing to your wily charms,
+
+1123
+01:06:45,772 --> 01:06:48,141
+and you're calling me a slut
+in so many words.
+
+1124
+01:06:48,242 --> 01:06:50,511
+- What about Sing ?
+- Sang !
+
+1125
+01:06:50,577 --> 01:06:53,180
+- He's not invited.
+- He's your fiancé.
+
+1126
+01:06:53,280 --> 01:06:56,383
+I'm offering you my body,
+and you're offering me semantics.
+
+1127
+01:06:56,483 --> 01:07:00,153
+He's just a boyfriend, Dante, and
+in case you haven't gotten the drift...
+
+1128
+01:07:00,187 --> 01:07:02,923
+of why l came all the way here
+from Ohio--
+
+1129
+01:07:02,990 --> 01:07:05,559
+Duh ! I'm about
+to become single again.
+
+1130
+01:07:05,626 --> 01:07:08,695
+And, yes,
+allow me to placate your ego.
+
+1131
+01:07:08,795 --> 01:07:11,798
+You are the inspiration
+for this bold and momentous decision...
+
+1132
+01:07:11,865 --> 01:07:15,002
+that will probably get me ostracized
+from both school and home.
+
+1133
+01:07:15,068 --> 01:07:17,471
+You ask me who l choose.
+
+1134
+01:07:17,504 --> 01:07:19,940
+I choose you.
+
+1135
+01:07:20,040 --> 01:07:22,543
+- So, what are you saying ?
+- You are such an asshole.
+
+1136
+01:07:22,643 --> 01:07:26,313
+- I'm just kidding !
+- l can already see
+this is not gonna work out.
+
+1137
+01:07:26,346 --> 01:07:29,383
+- I'll ask Randal to close up
+when he gets back.
+- Where is he, anyway ?
+
+1138
+01:07:29,483 --> 01:07:31,618
+I thought he'd be at your side
+Like an obedient lapdog.
+
+1139
+01:07:31,718 --> 01:07:33,887
+He went to go rent a movie.
+He isn't back yet.
+
+1140
+01:07:33,954 --> 01:07:36,023
+Ah, screw it.
+I'll close up and leave him a note.
+
+1141
+01:07:36,123 --> 01:07:39,726
+You are too responsible.
+But no, l have to go home first.
+
+1142
+01:07:39,793 --> 01:07:42,062
+They don't even know
+I've left school yet.
+
+1143
+01:07:42,162 --> 01:07:44,631
+And l should break
+the disengagement news to my mother,
+
+1144
+01:07:44,731 --> 01:07:47,835
+which is gonna cause quite a row
+considering she loves Sang.
+
+1145
+01:07:47,901 --> 01:07:51,471
+- Who doesn't ?
+- Well, me, l guess.
+
+1146
+01:07:51,572 --> 01:07:54,508
+[ Sighs ] So l shall
+take my leave of you,
+
+1147
+01:07:54,575 --> 01:07:56,543
+but l will return in a little while,
+
+1148
+01:07:56,610 --> 01:07:59,646
+at which time, yes, l would love to
+go for dinner and a movie with you.
+
+1149
+01:07:59,713 --> 01:08:01,715
+What happened to the walk
+and the nakedness ?
+
+1150
+01:08:01,815 --> 01:08:04,284
+I'm easy, but I'm not that easy.
+
+1151
+01:08:04,351 --> 01:08:06,286
+See you later, handsome.
+
+1152
+01:08:11,859 --> 01:08:13,227
+Yes !
+
+1153
+01:08:13,327 --> 01:08:18,198
+<MUSIC><MUSIC> [ Hip-Hop ]
+
+1154
+01:08:31,445 --> 01:08:33,647
+- Get to work.
+- Hey, what'd you rent ?
+
+1155
+01:08:35,282 --> 01:08:37,217
+Best of Both Worlds ?
+
+1156
+01:08:37,284 --> 01:08:39,753
+Hermaphroditic porn.
+Starlets with both organs.
+
+1157
+01:08:39,853 --> 01:08:42,890
+You should see the box. Beautiful chicks
+with dicks that put mine to shame.
+
+1158
+01:08:42,956 --> 01:08:45,559
+- And you rented this ?
+- Hey, l like to expand my horizons.
+
+1159
+01:08:45,659 --> 01:08:48,462
+- l got fined
+for selling cigarettes to a minor.
+- No way.
+
+1160
+01:08:48,529 --> 01:08:50,497
+- Five hundred dollars.
+- You're bullshittin'.
+
+1161
+01:08:50,531 --> 01:08:52,499
+No, I'm not.
+
+1162
+01:08:54,635 --> 01:08:57,137
+Holy shit ! l didn't even
+think they enforced this.
+
+1163
+01:08:57,171 --> 01:08:59,640
+- Living proof.
+- l thought you never
+sold cigarettes to kids.
+
+1164
+01:08:59,740 --> 01:09:01,909
+- l didn't. You did.
+- Really ?
+
+1165
+01:09:01,975 --> 01:09:04,077
+Yep. A little girl,
+maybe four years old.
+
+1166
+01:09:04,178 --> 01:09:07,347
+- Holy shit ! That girl ?
+- Yeah, as opposed to hundreds
+of other children...
+
+1167
+01:09:07,381 --> 01:09:09,349
+you've sold cigarettes
+while working here.
+
+1168
+01:09:09,416 --> 01:09:11,518
+- Then how come you got the fine ?
+- 'Cause I'm here.
+
+1169
+01:09:11,618 --> 01:09:13,520
+- You're lyin'.
+- No, I'm not.
+
+1170
+01:09:13,620 --> 01:09:15,822
+- Why aren't you screaming at me now ?
+- 'Cause I'm happy.
+
+1171
+01:09:15,856 --> 01:09:18,025
+- I'm happy.
+- You're happy to get a fine ?
+
+1172
+01:09:18,091 --> 01:09:21,128
+- No, because Caitlin came to see me.
+- Now l know you're lyin'.
+
+1173
+01:09:21,228 --> 01:09:23,430
+- I'm not. She just left.
+- What'd she say ?
+
+1174
+01:09:23,497 --> 01:09:25,699
+She's not marrying that guy.
+She went home to tell her mom.
+
+1175
+01:09:25,766 --> 01:09:27,701
+- You're kiddin'.
+- I'm not.
+
+1176
+01:09:27,768 --> 01:09:30,070
+Well, you've had quite an evening.
+
+1177
+01:09:30,137 --> 01:09:32,539
+She went home and she's getting ready
+and we're going out.
+
+1178
+01:09:32,606 --> 01:09:34,975
+I feel so ineffectual.
+Is there anything l can do for you ?
+
+1179
+01:09:35,075 --> 01:09:36,977
+Watch the store
+while l go home and change ?
+
+1180
+01:09:37,044 --> 01:09:38,979
+What happened to
+""Title dictates behavior"" ?
+
+1181
+01:09:39,046 --> 01:09:41,582
+Well, this is my way
+of spitting water at life.
+
+1182
+01:09:41,648 --> 01:09:44,618
+All right. You want me to bring
+the VCR over so we can watch this ?
+
+1183
+01:09:44,651 --> 01:09:46,620
+No, l might be leaving early
+to go out with Caitlin,
+
+1184
+01:09:46,653 --> 01:09:48,755
+in which case, you're gonna lock up
+the store tonight.
+
+1185
+01:09:48,822 --> 01:09:50,958
+All right, but you're missin' out.
+Chicks with dicks.
+
+1186
+01:09:51,024 --> 01:09:55,929
+<MUSIC><MUSIC> [ ""Berserker"" On Tape Deck ]
+
+1187
+01:10:13,780 --> 01:10:18,652
+[ Laughing ]
+
+1188
+01:10:18,819 --> 01:10:23,223
+- [ Man Moaning ]
+- [ Woman ] Uh, no. Oh.
+
+1189
+01:10:23,257 --> 01:10:25,526
+Well, Randal Graves,
+
+1190
+01:10:25,592 --> 01:10:27,594
+scourge of the video renter.
+
+1191
+01:10:27,661 --> 01:10:31,865
+Ladies and gentlemen, Miss Asian
+Design Major herself, Caitlin Bree.
+
+1192
+01:10:31,965 --> 01:10:35,536
+You saw that article ? God, isn't
+it awful ? My mother sent that in.
+
+1193
+01:10:35,636 --> 01:10:39,473
+- l take it she likes the guy.
+- You'd think she's marrying him.
+
+1194
+01:10:39,540 --> 01:10:42,476
+- What are you watching ?
+- Children's programming.
+
+1195
+01:10:42,543 --> 01:10:45,145
+What'd your mom say when you told her
+you weren't engaged anymore ?
+
+1196
+01:10:45,179 --> 01:10:47,948
+She said not to come home
+until after graduation.
+
+1197
+01:10:47,981 --> 01:10:50,117
+Wow ! You got thrown out for Dante ?
+
+1198
+01:10:50,184 --> 01:10:52,786
+What can l say ?
+He does weird things to me.
+
+1199
+01:10:52,819 --> 01:10:54,788
+- Ooh, can l watch ?
+- You can hold me down.
+
+1200
+01:10:54,821 --> 01:10:57,558
+- Can l join in ?
+- You might be let down.
+
+1201
+01:10:57,624 --> 01:11:00,327
+- I'm not a hermaphrodite.
+- Hey, few are.
+
+1202
+01:11:00,394 --> 01:11:04,198
+What makes you think you can maintain a
+relationship with him this time around ?
+
+1203
+01:11:04,264 --> 01:11:06,200
+A woman's intuition.
+
+1204
+01:11:06,266 --> 01:11:09,236
+Something inside of me says it's time
+to give the old boy a serious try.
+
+1205
+01:11:09,303 --> 01:11:12,606
+Wow ! Hey, you know,
+you and l have something in common.
+
+1206
+01:11:12,673 --> 01:11:15,108
+- We both eat Chinese.
+- [ Scoffs ] Dick.
+
+1207
+01:11:15,209 --> 01:11:17,544
+- Exactly.
+- So where is he ?
+
+1208
+01:11:17,611 --> 01:11:19,546
+He went home to change for the big date.
+
+1209
+01:11:19,613 --> 01:11:22,816
+- God, isn't he great ?
+- No. This is great.
+
+1210
+01:11:22,850 --> 01:11:25,519
+Oh, lord.
+Can l use your bathroom ?
+
+1211
+01:11:25,586 --> 01:11:28,188
+- There's no lights back there.
+- Why aren't there any lights ?
+
+1212
+01:11:28,288 --> 01:11:31,525
+There are, but for some reason
+they stop working at 5:14 every night.
+
+1213
+01:11:31,592 --> 01:11:33,727
+- You're kidding.
+- Nobody can figure it out.
+
+1214
+01:11:33,794 --> 01:11:35,929
+The boss doesn't want
+to pay the electrician to fix it...
+
+1215
+01:11:35,996 --> 01:11:38,298
+'cause the electrician
+owes money to the video store.
+
+1216
+01:11:38,365 --> 01:11:41,568
+- Such a sordid state of affairs.
+- And I'm caught in the middle,
+
+1217
+01:11:41,635 --> 01:11:45,572
+torn between my loyalty for the boss and
+my desire to piss with the lights on.
+
+1218
+01:11:45,639 --> 01:11:47,941
+Well, I'll try to manage.
+
+1219
+01:11:47,975 --> 01:11:49,910
+Oh, hey, Caitlin ?
+
+1220
+01:11:50,010 --> 01:11:52,112
+Break his heart again this time,
+and I'll kill ya.
+
+1221
+01:11:52,212 --> 01:11:54,114
+Nothing personal.
+
+1222
+01:11:54,214 --> 01:11:57,117
+You are very protective of him, Randal.
+You always have been.
+
+1223
+01:11:57,217 --> 01:11:59,853
+Territoriality.
+He was mine first.
+
+1224
+01:11:59,920 --> 01:12:02,055
+Oh, that was so cute.
+
+1225
+01:12:03,290 --> 01:12:05,259
+[ Sighs ]
+
+1226
+01:12:08,896 --> 01:12:11,131
+[ Clock Ticking ]
+
+1227
+01:12:11,198 --> 01:12:14,301
+[ Bed Squeaking,
+People Moaning On Video ]
+
+1228
+01:12:14,334 --> 01:12:16,336
+Who eats cock ?
+
+1229
+01:12:16,370 --> 01:12:18,438
+Bunch of savages in this town.
+
+1230
+01:12:18,539 --> 01:12:20,440
+Hey, Caitlin's in the back.
+You might want to check on her.
+
+1231
+01:12:20,541 --> 01:12:23,443
+- She's been back there a long time.
+- There are no lights back there.
+
+1232
+01:12:23,544 --> 01:12:26,280
+I told her that.
+She said she didn't need any.
+
+1233
+01:12:26,380 --> 01:12:29,349
+Why don't you go join her ?
+Make a little bathroom bam-bam.
+
+1234
+01:12:29,416 --> 01:12:31,618
+Oh, l love your sexy talk.
+It's so kindergarten.
+
+1235
+01:12:31,685 --> 01:12:33,820
+- ""Poo-poo,"" ""wee-wee.""
+- Fuck you.
+
+1236
+01:12:33,887 --> 01:12:35,856
+[ Door Opening ]
+
+1237
+01:12:35,889 --> 01:12:38,458
+[ Woman Moaning On Video ]
+
+1238
+01:12:38,525 --> 01:12:40,494
+[ Man On Video ]
+I said stop.
+
+1239
+01:12:40,527 --> 01:12:45,032
+- [ Woman ] Oh, God.
+- [ Man ] it's all about pain,
+you bastard !
+
+1240
+01:12:45,098 --> 01:12:47,568
+[ Woman Moaning On Video ]
+
+1241
+01:12:47,668 --> 01:12:49,603
+How did you get here so fast ?
+
+1242
+01:12:49,703 --> 01:12:51,939
+I left like an hour ago.
+
+1243
+01:12:52,005 --> 01:12:55,742
+Do you always talk this weird
+after you violate a woman ?
+
+1244
+01:12:55,809 --> 01:12:58,178
+Maybe the Asian design major
+slipped her some opium.
+
+1245
+01:12:58,212 --> 01:13:01,615
+- Could be.
+- it has never been like that before.
+
+1246
+01:13:01,715 --> 01:13:04,284
+Like what ?
+
+1247
+01:13:04,384 --> 01:13:07,821
+When you just lay perfectly still
+and let me do everything.
+
+1248
+01:13:07,855 --> 01:13:09,823
+Am l missing something here ?
+
+1249
+01:13:09,890 --> 01:13:11,458
+Okay.
+
+1250
+01:13:11,558 --> 01:13:14,261
+I went back there
+and Dante was already waiting for me.
+
+1251
+01:13:14,294 --> 01:13:17,197
+- He was ?
+- it was so cool.
+
+1252
+01:13:17,264 --> 01:13:19,666
+He didn't say a word.
+He didn't have to.
+
+1253
+01:13:19,733 --> 01:13:23,337
+[ Sighs ]
+He was just... ready.
+
+1254
+01:13:23,437 --> 01:13:26,540
+You know. And, like,
+we didn't kiss or talk or anything.
+
+1255
+01:13:26,640 --> 01:13:29,076
+He just sat there
+and let me do all the work.
+
+1256
+01:13:29,142 --> 01:13:31,578
+You dog !
+I didn't even see you go back there.
+
+1257
+01:13:31,612 --> 01:13:34,915
+The fact that there
+weren't any lights on made it so--
+
+1258
+01:13:34,982 --> 01:13:36,917
+God, that was so great !
+
+1259
+01:13:36,984 --> 01:13:39,152
+My legs are still shaking.
+
+1260
+01:13:40,921 --> 01:13:43,257
+- it wasn't me.
+- [ Scoffs ]
+
+1261
+01:13:43,323 --> 01:13:45,759
+Yeah, right.
+Who was it, then ? Randal ?
+
+1262
+01:13:45,826 --> 01:13:48,095
+- Was it you ?
+- l was up here the whole time.
+
+1263
+01:13:48,161 --> 01:13:51,298
+- You two better quit it.
+- I'm serious.
+
+1264
+01:13:51,365 --> 01:13:53,901
+Oh, so we didn't
+just have sex in the bathroom ?
+
+1265
+01:13:53,967 --> 01:13:56,003
+No.
+
+1266
+01:13:59,072 --> 01:14:01,008
+Stop it.
+This isn't funny.
+
+1267
+01:14:01,074 --> 01:14:04,044
+I'm not fooling around.
+I just came in from outside.
+
+1268
+01:14:04,077 --> 01:14:06,580
+- This isn't fucking funny, Dante.
+- I'm not kidding.
+
+1269
+01:14:06,680 --> 01:14:08,882
+- Who went back there ?
+- Nobody. l swear.
+
+1270
+01:14:08,949 --> 01:14:11,418
+- l feel nauseous.
+- Are you sure there was
+someone back there ?
+
+1271
+01:14:11,518 --> 01:14:13,921
+Well, l didn't just fuck myself !
+Jesus Christ !
+
+1272
+01:14:13,987 --> 01:14:16,423
+- God, I'm gonna be sick !
+- You just fucked a total stranger ?
+
+1273
+01:14:16,523 --> 01:14:18,425
+- Shut the fuck up !
+- l can't believe this.
+
+1274
+01:14:18,525 --> 01:14:20,427
+- Call the police.
+- Why ?
+- No, don't !
+
+1275
+01:14:20,527 --> 01:14:22,429
+There's a stranger in our bathroom !
+He just raped Caitlin !
+
+1276
+01:14:22,529 --> 01:14:24,998
+- She said she did all the work.
+- Will you shut the fuck up ?
+
+1277
+01:14:25,065 --> 01:14:27,000
+Who the fuck's in our bathroom ?
+
+1278
+01:14:28,202 --> 01:14:30,304
+[ Woman ]
+Who is he ?
+
+1279
+01:14:30,404 --> 01:14:33,574
+[ Dante ] l don't know. He just came in
+and asked to use the bathroom.
+
+1280
+01:14:33,607 --> 01:14:35,609
+- What time was this ?
+- l don't know.
+
+1281
+01:14:35,642 --> 01:14:37,644
+What time did hockey end ?
+
+1282
+01:14:37,678 --> 01:14:39,646
+Um, like 3:00, 3:30.
+
+1283
+01:14:39,680 --> 01:14:42,482
+-What time we get back from the funeral?
+-4:00, l think.
+
+1284
+01:14:42,549 --> 01:14:45,052
+- Wait. Who was working here ?
+- Just me.
+
+1285
+01:14:45,118 --> 01:14:48,088
+I thought you just said you went to
+play hockey and then went to a funeral.
+
+1286
+01:14:48,121 --> 01:14:50,557
+- Yeah, we did.
+- Then who was operating the store ?
+
+1287
+01:14:50,657 --> 01:14:53,560
+- Nobody. it was closed.
+- With this guy locked in here ?
+
+1288
+01:14:53,627 --> 01:14:56,964
+Well, everything happened so quickly,
+I guess l forgot he was back there.
+
+1289
+01:14:57,030 --> 01:14:59,499
+- [ Man ] Can we take it now ?
+- Go ahead.
+
+1290
+01:15:05,138 --> 01:15:07,341
+Was he alive when Caitlin--
+
+1291
+01:15:07,407 --> 01:15:09,977
+No. l place the time
+of death about 3:20.
+
+1292
+01:15:10,043 --> 01:15:12,613
+Then how could she-- You know.
+
+1293
+01:15:12,679 --> 01:15:16,183
+[ Coroner ]
+The body can maintain an erection
+after expiration, sometimes for hours.
+
+1294
+01:15:16,250 --> 01:15:18,151
+Did he have the adult magazine
+when he came in ?
+
+1295
+01:15:18,252 --> 01:15:20,254
+Uh, no. l gave it to him.
+
+1296
+01:15:21,321 --> 01:15:23,323
+He asked me for it.
+
+1297
+01:15:23,423 --> 01:15:26,326
+I can't say for certain until we get
+him back to the lab, but my guess is...
+
+1298
+01:15:26,393 --> 01:15:28,662
+he was masturbating,
+his heart seized and he died.
+
+1299
+01:15:28,729 --> 01:15:30,697
+That's when the girl found him.
+[ Sniffing ]
+
+1300
+01:15:30,764 --> 01:15:32,799
+Uh, something smells
+Like shoe polish.
+
+1301
+01:15:32,900 --> 01:15:35,536
+This has got to be the weirdest thing
+you've ever been called in on.
+
+1302
+01:15:35,602 --> 01:15:40,374
+Actually, l once had
+to tag a kid that broke his neck
+trying to put his mouth on his penis.
+
+1303
+01:15:40,407 --> 01:15:42,376
+What about Caitlin ?
+
+1304
+01:15:42,442 --> 01:15:45,612
+[ Coroner ] Shock trauma. She's gonna
+need years of therapy after this.
+
+1305
+01:15:45,646 --> 01:15:49,016
+My question is: How did she come
+to have sex with a dead man ?
+
+1306
+01:15:49,082 --> 01:15:51,685
+She thought it was me.
+
+1307
+01:15:51,785 --> 01:15:54,855
+What kind of convenience store
+do you run here ?
+
+1308
+01:16:02,930 --> 01:16:07,768
+[ Siren Blaring ]
+
+1309
+01:16:13,807 --> 01:16:18,712
+<MUSIC><MUSIC> [ Humming ""Theme from Jaws"" ]
+
+1310
+01:16:21,648 --> 01:16:23,217
+Salsa shark.
+
+1311
+01:16:23,317 --> 01:16:25,252
+""We're gonna need a bigger boat.""
+
+1312
+01:16:27,688 --> 01:16:31,058
+Man goes into cage,
+cage goes into salsa.
+
+1313
+01:16:31,158 --> 01:16:33,594
+Shark's in the salsa.
+Our shark.
+
+1314
+01:16:34,928 --> 01:16:36,930
+Oh, what ?
+What's with you, man ?
+
+1315
+01:16:36,997 --> 01:16:39,933
+You haven't said anything
+for, like, 20 minutes.
+What the hell's your problem ?
+
+1316
+01:16:40,000 --> 01:16:42,436
+- [ Sighs ] This life.
+- ""This life"" ?
+
+1317
+01:16:42,503 --> 01:16:44,438
+Why do l have this life ?
+
+1318
+01:16:44,505 --> 01:16:46,440
+Have some chips.
+You'll feel better.
+
+1319
+01:16:46,507 --> 01:16:50,177
+I'm stuck in this pit,
+working for less than slave wages,
+
+1320
+01:16:50,277 --> 01:16:52,279
+working on my day off.
+
+1321
+01:16:52,346 --> 01:16:54,381
+The goddamn steel shutters are closed.
+
+1322
+01:16:54,481 --> 01:16:57,384
+I deal with every backward-assed fuck
+on the planet.
+
+1323
+01:16:57,484 --> 01:16:59,386
+I smell like shoe polish.
+
+1324
+01:16:59,453 --> 01:17:02,322
+My ex-girlfriend is catatonic
+after fucking a dead guy,
+
+1325
+01:17:02,389 --> 01:17:05,359
+and my present girlfriend
+has sucked 36 dicks.
+
+1326
+01:17:05,392 --> 01:17:07,895
+- Thirty-seven.
+- My life's in the shitter right now,
+
+1327
+01:17:07,995 --> 01:17:10,364
+and if you don't mind,
+I'd like to stew a bit.
+
+1328
+01:17:10,430 --> 01:17:12,399
+- [ Man ] You open ?
+- Yeah.
+
+1329
+01:17:14,401 --> 01:17:16,336
+[ Randal ]
+Aw, that's all bullshit, man.
+
+1330
+01:17:16,436 --> 01:17:19,072
+- You know what
+the real problem here is ?
+- l was born ?
+
+1331
+01:17:19,139 --> 01:17:22,209
+- You should shit or get off the pot.
+- l should shit or get off the pot.
+
+1332
+01:17:22,276 --> 01:17:24,711
+- Yeah, shit or get off the pot.
+- What are you talking about ?
+
+1333
+01:17:24,778 --> 01:17:28,448
+I'm talking about this thing you have,
+this inability to improve
+your station in life.
+
+1334
+01:17:28,482 --> 01:17:30,484
+- Fuck you !
+- it's true, man.
+
+1335
+01:17:30,517 --> 01:17:32,786
+You sit there and blame life
+for dealin' you a cruddy hand,
+
+1336
+01:17:32,886 --> 01:17:35,722
+never once accepting responsibility
+for the way your situation is.
+
+1337
+01:17:35,756 --> 01:17:39,126
+- What responsibility ?
+- All right, if you hate this job
+and the people...
+
+1338
+01:17:39,159 --> 01:17:42,563
+and the fact that you have to come in
+on your day off, why don't you quit ?
+
+1339
+01:17:42,596 --> 01:17:45,199
+- Like it's that easy.
+- it is. You just up and quit.
+
+1340
+01:17:45,265 --> 01:17:47,668
+There's other jobs.
+They pay better money.
+
+1341
+01:17:47,768 --> 01:17:50,904
+You're bound to be qualified
+for at least one of 'em.
+So what's stoppin' you ?
+
+1342
+01:17:51,004 --> 01:17:53,207
+- Leave me alone.
+- Oh, you're comfortable, right ?
+
+1343
+01:17:53,273 --> 01:17:56,310
+This is a life of convenience for you,
+and any attempt to change it...
+
+1344
+01:17:56,410 --> 01:17:59,046
+would shatter the pathetic microcosm
+you've fashioned for yourself.
+
+1345
+01:17:59,079 --> 01:18:01,048
+Oh ! Like your life's any better.
+
+1346
+01:18:01,081 --> 01:18:04,218
+I'm satisfied with my situation for now.
+You don't hear me complaining.
+
+1347
+01:18:04,284 --> 01:18:06,453
+You, on the other hand,
+have been bitching all day.
+
+1348
+01:18:06,520 --> 01:18:08,722
+Thank you. Why don't you
+go back to the video store ?
+
+1349
+01:18:08,789 --> 01:18:10,924
+- it's the same thing with Veronica.
+- Leave her out of this !
+
+1350
+01:18:10,991 --> 01:18:13,994
+You date Veronica because it's
+convenient and she's low maintenance.
+
+1351
+01:18:14,094 --> 01:18:16,430
+But meanwhile,
+all you ever do is talk about Caitlin.
+
+1352
+01:18:16,530 --> 01:18:18,732
+You carry a torch for a girl
+you dated in high school.
+
+1353
+01:18:18,799 --> 01:18:22,202
+- in high school, for God's sakes.
+You're 22.
+- Leave me alone !
+
+1354
+01:18:22,236 --> 01:18:25,639
+If you want Caitlin, then talk
+to Veronica and be with Caitlin.
+
+1355
+01:18:25,739 --> 01:18:27,674
+If you want Veronica,
+then be with Veronica.
+
+1356
+01:18:27,774 --> 01:18:30,043
+But don't pine for one
+and fuck the other.
+
+1357
+01:18:30,110 --> 01:18:32,079
+Man, if you weren't
+such a fucking coward--
+
+1358
+01:18:32,179 --> 01:18:34,081
+If l wasn't such a fucking coward.
+
+1359
+01:18:34,181 --> 01:18:37,384
+It must be great to have this ability
+to simplify things the way you do.
+
+1360
+01:18:37,451 --> 01:18:39,353
+- Am l right or what ?
+- You're wrong !
+
+1361
+01:18:39,453 --> 01:18:42,890
+Things happened today. Things that
+probably ruined my chances with Caitlin.
+
+1362
+01:18:42,956 --> 01:18:46,059
+Oh, what, the dead guy ?
+She'll get over fuckin' a dead guy.
+
+1363
+01:18:46,126 --> 01:18:50,130
+Shit, my mom's been fuckin' a dead guy
+for 30 years. l call him ""Dad.""
+
+1364
+01:18:50,197 --> 01:18:52,766
+Caitlin and l can't be together.
+It's impossible.
+
+1365
+01:18:52,799 --> 01:18:56,003
+Melodrama comin' from you seems about
+as natural as an oral bowel movement.
+
+1366
+01:18:56,103 --> 01:18:59,439
+What do you want me to say ?
+""Yes, some of the things
+you're saying are true"" ?
+
+1367
+01:18:59,540 --> 01:19:01,708
+That's the way things are.
+They're not gonna change.
+
+1368
+01:19:01,775 --> 01:19:04,278
+- Make 'em change.
+- l can't, all right ?
+
+1369
+01:19:04,378 --> 01:19:06,346
+Jesus, will you leave me alone ?
+
+1370
+01:19:06,413 --> 01:19:09,349
+I can't make changes in my life
+Like that. lf l could, l would.
+
+1371
+01:19:09,416 --> 01:19:12,019
+But l don't have the ability
+to risk the comfortable situations...
+
+1372
+01:19:12,085 --> 01:19:14,121
+on the big money
+and the fabulous prizes !
+
+1373
+01:19:14,221 --> 01:19:17,691
+- Who are you kidding ? You can so.
+- Jesus H. Christ ! l can't !
+
+1374
+01:19:17,791 --> 01:19:22,563
+So you're gonna be miserable 'cause
+you don't have the guts to face change ?
+
+1375
+01:19:22,663 --> 01:19:25,699
+My mother told me once
+that when l was three years old,
+
+1376
+01:19:25,766 --> 01:19:27,801
+my potty lid was closed,
+
+1377
+01:19:27,901 --> 01:19:30,771
+and instead of me lifting it,
+I shit my pants.
+
+1378
+01:19:30,871 --> 01:19:32,773
+Lovely story.
+
+1379
+01:19:32,873 --> 01:19:35,142
+The point is,
+I'm not the type of person...
+
+1380
+01:19:35,209 --> 01:19:38,212
+who'll disrupt things
+just so l can shit comfortably.
+
+1381
+01:19:51,859 --> 01:19:55,329
+- [ Door Opening ]
+- <MUSIC> Noise, noise, noise
+Smokin' weed, smokin' weed <MUSIC>
+
+1382
+01:19:55,429 --> 01:19:59,299
+<MUSIC> Doin' coke, drinkin' beers <MUSIC>
+Pack o' ""rass,"" my good man.
+
+1383
+01:19:59,399 --> 01:20:02,169
+Time to kick back, drink some beers
+and smoke some weed !
+
+1384
+01:20:02,269 --> 01:20:04,271
+Done poisoning the youth
+for today, huh ?
+
+1385
+01:20:04,338 --> 01:20:06,306
+Hell, yes, whatever that means.
+
+1386
+01:20:06,373 --> 01:20:08,876
+Now it's time to head over to Atlantic,
+drink some beers,
+
+1387
+01:20:08,909 --> 01:20:10,878
+get ripped and, hopefully, get laid.
+
+1388
+01:20:10,911 --> 01:20:13,280
+- [ Dante ] One seventy-nine.
+- Pay the good man.
+
+1389
+01:20:14,548 --> 01:20:17,150
+- Yeah, you close soon ?
+- in half an hour.
+
+1390
+01:20:17,217 --> 01:20:19,152
+Yeah, we get off
+the same time every day.
+
+1391
+01:20:19,219 --> 01:20:21,655
+- We should hang out. You get high ?
+- l should start.
+
+1392
+01:20:21,755 --> 01:20:24,391
+Wanna come to this party tonight ?
+There's gonna be some pussy there.
+
+1393
+01:20:24,458 --> 01:20:26,393
+With you ? l don't think so.
+
+1394
+01:20:26,426 --> 01:20:28,762
+Oh, look at you.
+""l don't hang out with drug dealers.""
+
+1395
+01:20:28,795 --> 01:20:32,032
+- Nothing personal.
+- What happened with that old guy ?
+
+1396
+01:20:32,099 --> 01:20:35,035
+- He died in the bathroom.
+- l heard he was jerkin' off
+or something.
+
+1397
+01:20:35,102 --> 01:20:37,237
+I don't know.
+I wasn't watching.
+
+1398
+01:20:37,304 --> 01:20:40,707
+He probably saw that Caitlin chick.
+I know l felt like beatin' it
+when l saw her.
+
+1399
+01:20:40,807 --> 01:20:42,876
+Oh, come here, bitch.
+You like this ? Huh ?
+
+1400
+01:20:42,943 --> 01:20:46,246
+- This what you want ?
+- Knock it off. That used to be
+my girlfriend, all right ?
+
+1401
+01:20:46,313 --> 01:20:48,148
+Oh, you used to go out with her ?
+
+1402
+01:20:48,248 --> 01:20:50,517
+Yeah, well, l thought
+we might be starting again.
+
+1403
+01:20:50,551 --> 01:20:54,121
+- Don't you already have a girlfriend ?
+- [ Dante ] Yeah, Veronica.
+
+1404
+01:20:54,154 --> 01:20:57,558
+- And what, you're gonna dump her
+for that Caitlin chick ?
+- Maybe.
+
+1405
+01:20:57,591 --> 01:21:00,561
+I don't know, dude. That Caitlin chick's
+nice, but l see that Veronica girl...
+
+1406
+01:21:00,594 --> 01:21:02,563
+doin' shit for you all the time.
+
+1407
+01:21:02,629 --> 01:21:05,566
+I saw her rubbin' your back,
+fuckin' comes and brings your food.
+
+1408
+01:21:05,632 --> 01:21:08,468
+-Didn't l see her change your tire once?
+-Hey, l jacked up the car.
+
+1409
+01:21:08,569 --> 01:21:11,038
+All she did was unloosen the nuts
+and put the tire on.
+
+1410
+01:21:11,071 --> 01:21:14,641
+- Well, l know she does a lot for you.
+- She's my girlfriend.
+
+1411
+01:21:14,675 --> 01:21:19,012
+I had some girlfriends too, but all
+they wanted from me was weed and shit.
+
+1412
+01:21:19,079 --> 01:21:21,014
+Shit, my grandmother used to say,
+""What's better ?
+
+1413
+01:21:21,081 --> 01:21:24,051
+Fuckin' a good plate
+with nothin' on it ?""
+
+1414
+01:21:24,117 --> 01:21:26,587
+No, wait. l fucked up. ""What's
+a good plate with nothin' on it ?""
+
+1415
+01:21:26,687 --> 01:21:28,589
+Meaning ?
+
+1416
+01:21:28,689 --> 01:21:32,626
+I don't know. She was senile. She used
+to fuckin' piss herself all the time...
+
+1417
+01:21:32,726 --> 01:21:34,628
+and shit herself.
+
+1418
+01:21:34,728 --> 01:21:37,831
+Come on, Silent Bob. Let's get
+the fuck outta this fuckin' gyp joint...
+
+1419
+01:21:37,931 --> 01:21:40,100
+with this fuckin' faggot Dante.
+
+1420
+01:21:40,167 --> 01:21:42,469
+You cock smoker.
+
+1421
+01:21:42,569 --> 01:21:45,572
+You know, there's a million
+fine-lookin' women in the world, dude,
+
+1422
+01:21:45,639 --> 01:21:47,608
+but they don't all bring ya
+Lasagna at work.
+
+1423
+01:21:47,674 --> 01:21:49,643
+Most of 'em just cheat on ya.
+
+1424
+01:21:49,710 --> 01:21:52,179
+[ Jay ]
+Come on, limp dick !
+
+1425
+01:21:52,246 --> 01:21:54,781
+[ Silent Bob ]
+Yeah, yeah, yeah.
+
+1426
+01:21:56,183 --> 01:21:58,151
+He's right.
+
+1427
+01:21:58,252 --> 01:22:00,821
+I love her.
+
+1428
+01:22:00,888 --> 01:22:04,558
+So that's it. He doesn't love you
+anymore. He loves Caitlin.
+
+1429
+01:22:04,658 --> 01:22:06,760
+And he told you all of this ?
+
+1430
+01:22:06,793 --> 01:22:11,131
+Pretty much. All except
+the latent homosexuality part.
+That's just my theory.
+
+1431
+01:22:11,198 --> 01:22:13,567
+Uh-- l don't know what to say.
+
+1432
+01:22:13,667 --> 01:22:17,504
+Don't hold it against him. He just
+never got Caitlin out of his system.
+
+1433
+01:22:17,571 --> 01:22:20,607
+It's not your fault. it's Dante.
+
+1434
+01:22:20,707 --> 01:22:23,644
+I-Look. l don't know
+thing one about chicks.
+
+1435
+01:22:23,744 --> 01:22:26,680
+So if you gotta cry or something,
+I can get outta here.
+
+1436
+01:22:26,747 --> 01:22:29,149
+- I'm not sad.
+- You're not ?
+
+1437
+01:22:29,216 --> 01:22:31,185
+Ow ! What'd you do that for ?
+
+1438
+01:22:31,218 --> 01:22:34,188
+If you didn't wanna go out with me
+anymore, why didn't you say so ?
+
+1439
+01:22:34,221 --> 01:22:36,690
+Instead you pussyfoot around
+and see that slut behind my back !
+
+1440
+01:22:36,790 --> 01:22:39,693
+- What are you talking about ?
+- You've been talking to her
+on the phone for weeks !
+
+1441
+01:22:39,760 --> 01:22:42,229
+- it was only a few times.
+- Then you pull that shit this morning,
+
+1442
+01:22:42,262 --> 01:22:44,298
+freaking out because
+I've gone down a couple of guys.
+
+1443
+01:22:44,364 --> 01:22:47,301
+- Oh, a couple ?
+- I'm not the one trying
+to patch things up with my ex,
+
+1444
+01:22:47,367 --> 01:22:49,336
+sneaking around behind your back !
+
+1445
+01:22:49,403 --> 01:22:52,372
+If you think 37 dicks are a lot,
+just wait and see, mister.
+
+1446
+01:22:52,472 --> 01:22:55,375
+I'm going to put the hookers
+in Times Square to shame
+with all the guys l go down on now !
+
+1447
+01:22:55,475 --> 01:22:57,377
+- Will you let me explain ?
+- Explain what ?
+
+1448
+01:22:57,444 --> 01:23:00,414
+How you've been waiting
+until the time was right, and then
+you were going to dump me for her ?
+
+1449
+01:23:00,514 --> 01:23:02,583
+- it isn't like that !
+- Damn right it isn't like that !
+
+1450
+01:23:02,649 --> 01:23:06,220
+Because l won't let it be like that.
+You want your slut ?
+Fine, the slut is yours.
+
+1451
+01:23:06,286 --> 01:23:08,856
+- l don't want Caitlin.
+- You don't know what you want !
+
+1452
+01:23:08,956 --> 01:23:12,025
+But I'm not going to sit here
+holding your hand anymore
+until you figure it out !
+
+1453
+01:23:12,092 --> 01:23:14,194
+I've tried with you, Dante.
+
+1454
+01:23:14,261 --> 01:23:17,264
+I've encouraged you to get out of this
+fucking dump and go back to school,
+
+1455
+01:23:17,331 --> 01:23:19,533
+to take charge of your life
+and find direction.
+
+1456
+01:23:19,633 --> 01:23:21,668
+I even transferred
+so maybe you'd be more inclined...
+
+1457
+01:23:21,735 --> 01:23:23,770
+to go back to college
+if l was with you.
+
+1458
+01:23:23,871 --> 01:23:26,106
+Everyone said it was a stupid move,
+but l didn't care...
+
+1459
+01:23:26,173 --> 01:23:28,108
+because l loved you
+and wanted to see you...
+
+1460
+01:23:28,175 --> 01:23:30,544
+pull yourself out of this senseless funk
+that you've been in...
+
+1461
+01:23:30,611 --> 01:23:32,546
+since that whore dumped you
+oh, so many years ago.
+
+1462
+01:23:32,613 --> 01:23:35,315
+Now you wanna go back to her
+so she can fuck you over some more !
+
+1463
+01:23:35,349 --> 01:23:37,951
+- l don't wanna go back--
+- Of course not ! Not now !
+
+1464
+01:23:38,018 --> 01:23:40,988
+You're caught,
+and now you're trying to snake out
+of doing what you wanted to do !
+
+1465
+01:23:41,021 --> 01:23:42,823
+Well, l won't let you.
+
+1466
+01:23:42,923 --> 01:23:45,993
+I want you to follow through on this
+so you can find out
+what a fucking idiot you are !
+
+1467
+01:23:46,026 --> 01:23:48,996
+And when she dumps you again--
+and l promise you, she will--
+
+1468
+01:23:49,029 --> 01:23:51,398
+I want to laugh in your face
+so you realize that...
+
+1469
+01:23:51,465 --> 01:23:53,400
+that was what you gave up
+our relationship for !
+
+1470
+01:23:53,467 --> 01:23:56,036
+I'm just glad that Randal had the balls
+to tell me since you couldn't !
+
+1471
+01:23:56,103 --> 01:23:59,072
+- Randal ?
+- And having him tell me,
+that was just the weakest move ever.
+
+1472
+01:23:59,106 --> 01:24:01,275
+- You're spineless !
+- Veronica, l love you !
+
+1473
+01:24:01,341 --> 01:24:03,076
+Fuck you !
+
+1474
+01:24:03,177 --> 01:24:06,079
+[ Gong Ringing ]
+
+1475
+01:24:18,625 --> 01:24:20,594
+Dante ?
+
+1476
+01:24:22,663 --> 01:24:26,333
+<MUSIC> Our problems seem a world away <MUSIC>
+
+1477
+01:24:27,568 --> 01:24:29,570
+<MUSIC> Close your eyes <MUSIC>
+
+1478
+01:24:29,636 --> 01:24:32,506
+<MUSIC> And they'll all go away <MUSIC>
+
+1479
+01:24:32,573 --> 01:24:37,244
+<MUSIC> Close the night and listen <MUSIC>
+
+1480
+01:24:37,311 --> 01:24:41,448
+<MUSIC> Close your eyes to me <MUSIC>
+
+1481
+01:24:41,515 --> 01:24:43,951
+<MUSIC> And sell the lie <MUSIC>
+
+1482
+01:24:44,017 --> 01:24:46,653
+<MUSIC> My face <MUSIC>
+
+1483
+01:24:46,720 --> 01:24:49,289
+<MUSIC> Shall live <MUSIC>
+
+1484
+01:24:49,356 --> 01:24:52,192
+<MUSIC> You'll all be replaced <MUSIC><MUSIC>
+
+1485
+01:24:52,259 --> 01:24:54,561
+How's your eye ?
+
+1486
+01:24:54,628 --> 01:24:57,831
+The swelling's not that bad,
+but the F.D.S. stings.
+
+1487
+01:24:59,333 --> 01:25:02,402
+- How's your neck ?
+- it's kinda hard to swallow.
+
+1488
+01:25:04,037 --> 01:25:06,006
+You didn't have to choke me, you know.
+
+1489
+01:25:06,073 --> 01:25:09,443
+Why did you tell Veronica that l was
+gonna dump her to go back with Caitlin ?
+
+1490
+01:25:09,510 --> 01:25:12,579
+- l thought l was doing you a favor.
+- Oh, Jesus.
+
+1491
+01:25:12,646 --> 01:25:14,648
+You're always saying
+how you can't initiate change yourself.
+
+1492
+01:25:14,715 --> 01:25:16,583
+I thought I'd give you a hand.
+
+1493
+01:25:16,650 --> 01:25:18,752
+Thanks.
+
+1494
+01:25:18,852 --> 01:25:20,821
+You still didn't have to choke me.
+
+1495
+01:25:20,854 --> 01:25:23,824
+Oh, please.
+I'm surprised l didn't kill you.
+
+1496
+01:25:23,857 --> 01:25:25,993
+- Why do you say that ?
+- Why do l say that ?
+
+1497
+01:25:26,093 --> 01:25:28,061
+Randal-- [ Sighs ]
+Forget it.
+
+1498
+01:25:28,095 --> 01:25:31,164
+- No, really.
+What did l do that was so wrong ?
+- What don't you do ?
+
+1499
+01:25:31,265 --> 01:25:34,434
+Sometimes l think
+the only reason you come to work
+is to make my life miserable.
+
+1500
+01:25:34,501 --> 01:25:36,904
+- How do you figure ?
+- What time did you get to work today ?
+
+1501
+01:25:36,937 --> 01:25:39,339
+Like 10:00, or ten after.
+
+1502
+01:25:39,406 --> 01:25:42,509
+You were over a half an hour late.
+And then all you do is come in here.
+
+1503
+01:25:42,543 --> 01:25:46,346
+- Yeah, to talk to you.
+- Which means the video store
+is ostensibly closed !
+
+1504
+01:25:46,413 --> 01:25:48,382
+Oh, it's not like I'm miles away.
+
+1505
+01:25:48,415 --> 01:25:50,450
+Unless you're out renting video
+at other video stores.
+
+1506
+01:25:50,551 --> 01:25:54,688
+- Hermaphrodites. l rented it
+so we could watch it together.
+- You get me slapped with a fine.
+
+1507
+01:25:54,788 --> 01:25:57,691
+You argue with the customers,
+and l have to patch everything up.
+
+1508
+01:25:57,791 --> 01:26:00,093
+You get us thrown out of a funeral
+by violating the corpse.
+
+1509
+01:26:00,160 --> 01:26:04,031
+Then to top it all off,
+you ruin my relationship.
+I mean, what's your encore ?
+
+1510
+01:26:04,097 --> 01:26:07,768
+Do you, like, anally rape my mother
+while pouring sugar in my gas tank ?
+
+1511
+01:26:10,304 --> 01:26:13,574
+You know what the real tragedy
+about all of this is ?
+
+1512
+01:26:13,674 --> 01:26:15,776
+I'm not even supposed
+to be here today !
+
+1513
+01:26:15,876 --> 01:26:19,246
+Oh, fuck you !
+Fuck you, pal !
+
+1514
+01:26:19,346 --> 01:26:21,448
+Jesus, there you go,
+trying to pass the buck.
+
+1515
+01:26:21,548 --> 01:26:23,450
+I'm the source of all your misery.
+
+1516
+01:26:23,550 --> 01:26:27,187
+Who closed the store to play hockey ?
+Who closed the store to go to a wake ?
+
+1517
+01:26:27,221 --> 01:26:29,289
+Who tried to win back
+his ex-girlfriend...
+
+1518
+01:26:29,389 --> 01:26:32,392
+without even discussing
+how he felt with his present one ?
+
+1519
+01:26:32,459 --> 01:26:35,028
+You wanna blame somebody ?
+Blame yourself.
+
+1520
+01:26:35,095 --> 01:26:37,064
+""I'm not even supposed
+to be here today.""
+
+1521
+01:26:37,097 --> 01:26:38,866
+You sound like an asshole !
+
+1522
+01:26:38,932 --> 01:26:41,001
+Jesus, nobody twisted
+your arm to be here.
+
+1523
+01:26:41,068 --> 01:26:43,103
+You're here of your own volition.
+
+1524
+01:26:43,170 --> 01:26:46,139
+You like to think the weight
+of the world rests on your shoulder,
+
+1525
+01:26:46,173 --> 01:26:49,142
+Like this place would fall apart
+if Dante wasn't here.
+
+1526
+01:26:49,243 --> 01:26:52,012
+Jesus, you overcompensate for having
+what's basically a monkey's job.
+
+1527
+01:26:52,112 --> 01:26:57,017
+You push fuckin' buttons. Anybody
+could waltz in here and do our jobs.
+
+1528
+01:26:57,117 --> 01:27:00,387
+You're so obsessed
+with making it seem so much more epic,
+
+1529
+01:27:00,420 --> 01:27:02,823
+so much more important
+than it really is.
+
+1530
+01:27:02,923 --> 01:27:07,494
+Christ, you work in a convenience store,
+Dante, and badly, l might add !
+
+1531
+01:27:07,594 --> 01:27:10,564
+I work in a shitty video store,
+badly as well.
+
+1532
+01:27:10,631 --> 01:27:14,535
+You know, that guy Jay's got it right.
+He has no delusions about what he does.
+
+1533
+01:27:14,635 --> 01:27:17,471
+Us, we like to make ourselves
+seem so much more important...
+
+1534
+01:27:17,538 --> 01:27:20,908
+than the people that come in here to
+buy a paper or, God forbid, cigarettes.
+
+1535
+01:27:20,941 --> 01:27:23,243
+We look down on them
+as if we're so advanced.
+
+1536
+01:27:23,310 --> 01:27:25,245
+Well, if we're so fuckin' advanced,
+
+1537
+01:27:25,312 --> 01:27:27,714
+what are we doin' workin' here ?
+
+1538
+01:27:45,966 --> 01:27:49,436
+Hey, the floor looks pretty clean.
+I put the cat next door.
+
+1539
+01:27:49,503 --> 01:27:52,973
+- Need a ride home ?
+- No, l got one. Just pulled up.
+
+1540
+01:27:53,006 --> 01:27:54,975
+You workin' tomorrow ?
+
+1541
+01:27:55,008 --> 01:27:56,944
+Same time. What about you ?
+
+1542
+01:27:57,010 --> 01:28:00,447
+I'm callin' out.
+Goin' to the hospital and visit Caitlin.
+
+1543
+01:28:00,514 --> 01:28:02,950
+And then I'm gonna try
+to talk to Veronica.
+
+1544
+01:28:03,050 --> 01:28:04,985
+You wanna grab a bite
+to eat or something...
+
+1545
+01:28:05,052 --> 01:28:07,187
+when you're done with that
+and l get off work ?
+
+1546
+01:28:07,254 --> 01:28:10,190
+- I'll give you a call, let you know.
+- All right.
+
+1547
+01:28:10,290 --> 01:28:12,259
+Hey, good luck with Veronica.
+
+1548
+01:28:12,292 --> 01:28:15,229
+- lf you want, l can talk to her,
+try and straighten this--
+- No, thanks.
+
+1549
+01:28:15,295 --> 01:28:17,164
+I think l can handle it.
+
+1550
+01:28:17,231 --> 01:28:19,967
+We have a lot of shit to talk about.
+
+1551
+01:28:20,033 --> 01:28:23,036
+- Hell of a day.
+- To say the least.
+
+1552
+01:28:23,136 --> 01:28:26,039
+Want me to do anything
+before l get out of here, man ?
+
+1553
+01:28:26,139 --> 01:28:28,041
+Why don't you wrangle for me ?
+
+1554
+01:28:28,141 --> 01:28:30,410
+- [ Scoffs ] No.
+- Come on. Just wrangle out the door.
+
+1555
+01:28:30,477 --> 01:28:33,180
+- No. No, no, no.
+- Come on.
+
+1556
+01:28:33,247 --> 01:28:35,215
+<MUSIC> Here comes Randal <MUSIC>
+
+1557
+01:28:35,249 --> 01:28:37,618
+<MUSIC> He's a Berserker <MUSIC>
+
+1558
+01:28:37,684 --> 01:28:42,656
+<MUSIC><MUSIC> [ Humming ]
+[ Laughing ]
+
+1559
+01:28:45,092 --> 01:28:46,994
+You're closed.
+
+1560
+01:28:54,635 --> 01:28:59,740
+<MUSIC> I may never get what l want <MUSIC>
+
+1561
+01:28:59,773 --> 01:29:04,044
+<MUSIC> But I'm happy just to die tryin' <MUSIC>
+
+1562
+01:29:04,144 --> 01:29:09,183
+<MUSIC> And l hope l ain't done nobody wrong <MUSIC>
+
+1563
+01:29:09,249 --> 01:29:14,121
+<MUSIC> But l miss you smilin' <MUSIC>
+
+1564
+01:29:14,221 --> 01:29:19,860
+<MUSIC> And I'm lookin' for a cure
+'cause I'm bored to tears <MUSIC>
+
+1565
+01:29:19,927 --> 01:29:21,895
+<MUSIC> And I'm stuck in here <MUSIC>
+
+1566
+01:29:21,929 --> 01:29:26,333
+<MUSIC> Stuck out here, stuck in here <MUSIC>
+
+1567
+01:29:26,366 --> 01:29:29,503
+<MUSIC> We lived through another day <MUSIC>
+
+1568
+01:29:29,570 --> 01:29:32,806
+<MUSIC> it's a good excuse to celebrate <MUSIC>
+
+1569
+01:29:32,906 --> 01:29:35,542
+<MUSIC> Take a number, knock on wood <MUSIC>
+
+1570
+01:29:35,609 --> 01:29:39,012
+<MUSIC> We'll find a reason to feel good <MUSIC>
+
+1571
+01:29:39,112 --> 01:29:41,248
+<MUSIC> I know you know l want to know <MUSIC>
+
+1572
+01:29:41,348 --> 01:29:43,617
+<MUSIC> How l feel <MUSIC>
+
+1573
+01:29:43,717 --> 01:29:46,653
+<MUSIC> I can't even tell <MUSIC>
+
+1574
+01:29:46,753 --> 01:29:49,790
+<MUSIC> I can't even tell <MUSIC>
+
+1575
+01:29:49,857 --> 01:29:52,459
+<MUSIC> I can't even tell <MUSIC>
+
+1576
+01:29:54,628 --> 01:29:58,932
+<MUSIC> No one knows nothin' about me <MUSIC>
+
+1577
+01:29:59,032 --> 01:30:01,935
+<MUSIC> I'm guessin'
+I'll just keep on guessin' <MUSIC>
+
+1578
+01:30:03,770 --> 01:30:08,575
+<MUSIC> No one sees what l see <MUSIC>
+
+1579
+01:30:08,675 --> 01:30:12,479
+<MUSIC> This is my blessin' <MUSIC>
+
+1580
+01:30:12,546 --> 01:30:18,252
+<MUSIC> And I'm lookin' for a way
+to get outta here <MUSIC>
+
+1581
+01:30:18,352 --> 01:30:20,254
+<MUSIC> Get me outta here <MUSIC>
+
+1582
+01:30:20,354 --> 01:30:24,825
+<MUSIC> Outta here, outta here <MUSIC>
+
+1583
+01:30:24,925 --> 01:30:27,794
+<MUSIC> We lived through another day <MUSIC>
+
+1584
+01:30:27,861 --> 01:30:31,265
+<MUSIC> it's a good excuse to celebrate <MUSIC>
+
+1585
+01:30:31,365 --> 01:30:34,034
+<MUSIC> Take a number, knock on wood <MUSIC>
+
+1586
+01:30:34,101 --> 01:30:37,437
+<MUSIC> Find a reason to feel good <MUSIC>
+
+1587
+01:30:37,504 --> 01:30:39,640
+<MUSIC> I know you know
+Just want to know <MUSIC>
+
+1588
+01:30:39,706 --> 01:30:42,009
+<MUSIC> How l feel <MUSIC>
+
+1589
+01:30:42,075 --> 01:30:44,912
+<MUSIC> I can't even tell <MUSIC>
+
+1590
+01:30:44,978 --> 01:30:48,048
+<MUSIC> I can't even tell <MUSIC>
+
+1591
+01:30:48,115 --> 01:30:50,651
+<MUSIC> I can't even tell <MUSIC>
+
+1592
+01:31:15,709 --> 01:31:17,845
+<MUSIC> I'm outta here <MUSIC>
+
+1593
+01:31:17,911 --> 01:31:22,683
+<MUSIC> Outta here
+Outta here <MUSIC>
+
+1594
+01:31:22,749 --> 01:31:25,052
+<MUSIC> I know you know l want to know <MUSIC>
+
+1595
+01:31:25,118 --> 01:31:27,387
+<MUSIC> How l feel <MUSIC>
+
+1596
+01:31:27,487 --> 01:31:30,257
+<MUSIC> I can't tell <MUSIC>
+
+1597
+01:31:30,324 --> 01:31:32,726
+<MUSIC> I know you know I'll tell ya <MUSIC>
+
+1598
+01:31:32,759 --> 01:31:34,828
+<MUSIC> If it's real <MUSIC>
+
+1599
+01:31:34,928 --> 01:31:37,898
+<MUSIC> it's not our last affair <MUSIC>
+
+1600
+01:31:37,965 --> 01:31:40,434
+- <MUSIC> I can't even tell <MUSIC><MUSIC>
+- [ Jay ] <MUSIC> Smokin' weed, smokin' weed <MUSIC>
+
+1601
+01:31:40,534 --> 01:31:44,037
+<MUSIC> Noise, noise, noise
+Smokin' weed, smokin' weed <MUSIC><MUSIC>

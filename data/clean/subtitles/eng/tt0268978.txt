@@ -1,2779 +1,1759 @@
-won the war 
-mathematicians broke
-thejapanese codes   
-and built the a bomb 
-mathematicians   
-like you 
-the stated goal of the soviets
-is global communism 
-in medicine
-or economics 
-in technology or space 
-battle lines are being drawn 
-to triumph  we need results 
-publishable  applicable results 
-now who among you
-will be the next morse 
-the next einstein 
-who among you will be
-the vanguard
-of democracy  freedom 
-and discovery 
-today  we bequeath
-america s future
-into your able hands 
-welcome to princeton  gentlemen 
-man 
-it s not enough hansen won
-the carnegie scholarship 
-man  2 
-no  he has to have it
-all for himself 
-it s the first time
-the carnegie prize
-has been split 
-hansen s all bent 
-man  2 
-rumor is he s got his sights
-set on wheeler lab 
-the new military
-think tank at m i t 
-they re only taking
-one this year 
-hansen s used
-to being picked first 
-oh  yeah 
-he s wasted on math 
-he should be running
-for president 
-there could be
-a mathematical explanation
-for how bad your tie is 
- laughs 
-thank you 
-neilson  symbol cryptography 
-neils here broke a jap code 
-helped rid the world of fascism 
-at least that s what
-he tells the girls  eh  neils 
-the name s bender 
-atomic physics 
-  and you are 
-  am i late 
-  yes 
-  yes  mr  sol 
-oh  good 
-uh  hi 
-  sol  richard sol 
-  neilson  the burden of genius 
-  bender  there he is 
-  so many supplicants 
-and so little time 
-  mr  sol 
-  how are you  sir 
-  ah  bender 
-  nice to see you 
-  congratulations  mr  hansen 
-  ah  thank you 
-i ll take another 
-excuse me 
-a thousand pardons 
-i simply assumed you
-were the waiter 
-  play nice  hansen 
-  nice is not hansen s
-strong suit 
-hansen 
-honest mistake 
-well  martin hansen 
-it is martin  isn t it 
-why  yes  john  it is 
-i imagine you re getting
-quite used to miscalculation 
-i ve read your pre prints   
-both of them 
-the one on nazi ciphers 
-and the other one
-on non linear equations 
-and i am supremely confident
-that there is not
-a single seminal
-or innovative idea
-in either one of them 
-enjoy your punch 
- chuckles 
-gentlemen  meetjohn nash 
-the mysterious
-west virginia genius 
-the other winner of
-the distinguished carnegie scholarship 
-  bender  oh  okay 
-  sol  oh  yeah 
-bender 
-of course 
- choral record playing 
- coughs 
-oh  christ 
-the prodigal
-roommate arrives 
-roommate 
-oh  god  no 
-  ugh 
-   music slows  stops 
-did you know that having
-a hangover is   
-is not having enough water
-in your body
-to run your krebs cycles 
-which is exactly
-what happens to you
-when you re dying
-of thirst 
-so  dying
-of thirst   
+princeton university september
+mathematicians war
+mathematicians broke thejapanese codes
+built abomb
+mathematicians like
+stated goal soviets global communism
+medicine economics
+technology space
+battle lines drawn
+triumph need results
+publishable applicable results
+among next morse next einstein
+among vanguard
+democracy freedom discovery
+today bequeath americas future
+able hands
+welcome princeton gentlemen
+man enough hansen carnegie scholarship
+man
+first time carnegie prize
+split hansens bent
+man rumor hes got sights set wheeler lab
+new military think tank mit
+theyre taking one year
+hansens used picked first
+oh yeah hes wasted math
+running president
+could mathematical explanation
+bad tie
+laughs
+thank
+neilson symbol cryptography
+neils broke jap code
+helped rid world fascism
+least thats tells girls eh neils
+names bender atomic physics
+late
+yes yes mr sol
+oh good uh hi
+sol richard sol neilson burden genius
+bender many supplicants little time
+mr sol sir
+ah bender nice see
+congratulations mr hansen ah thank
+ill take another
+excuse
+thousand pardons simply assumed waiter
+play nice hansen nice hansens strong suit
+hansen honest mistake
+well martin hansen
+martin isnt
+yes john
+imagine youre getting quite used miscalculation
+ive read preprints
+
+one nazi ciphers
+one nonlinear equations
+supremely confident
+single seminal
+innovative idea either one
+enjoy punch
+chuckles
+gentlemen meetjohn nash
+mysterious west virginia genius
+winner distinguished carnegie scholarship
+bender oh okay sol oh yeah
+bender course
+choral record playing
+coughs oh christ
+prodigal roommate arrives
+roommate
+oh god
+ugh music slows stops
+know hangover
+enough water body
+run krebs cycles
+exactly happens
+youre dying thirst
+dying thirst
 would probably feel
-pretty much like
-the hangover
-that finally
-bloody kills you 
- chuckles 
-john nash 
-hello 
-charles herman 
-pleased to meet you 
-player 
-all right 
-well done 
-charles 
-well  it s official 
-i m almost human again 
-officer  i saw
-the driver who hit me 
-his name was johnny walker 
- mimics rimshot 
-whew 
-well  i got in last night
-in time for   
-english department
-cocktails 
-cock was mine 
-the tail belonged
-to a particularly lovely
-young thing
-with a passion
-for   
-d h  lawrence 
-you re not easily
-distracted  are you 
-  i m here to work 
-  hmmm  are you  right 
-i see 
-crikey 
-is my roommate a dick 
-hmm 
-listen 
-if we can t break the ice   
-how about we drown it 
-so what s your story 
-you the poor kid
-that never got to go
-to exeter or andover 
-despite my privileged
-upbringing 
-i m actually
-quite well balanced 
-i have a chip
-on both shoulders 
- chuckles 
-maybe you re just better
-with the old integers
-than you are with people 
-my first grade teacher 
-she told me
-that i was born
-with two helpings of brain 
-but only half
-a helping of heart 
- chuckles 
-wow  she sounds lovely 
-the truth is that l   
-i don t like people much 
-and they don t much like me 
-but why 
-with all your obvious
-wit and charm 
- laughs 
-seriously  john 
-mathematics   
-mathematics is
-never going to lead you
-to a higher truth 
-and you know why 
- cause it s boring 
-it s really boring 
- chuckles 
-you know half these schoolboys
-are already published 
-i cannot waste time
-with these classes   
-and these books 
- coughs 
-memorizing
-the weaker assumptions
-of lesser mortals 
- chuckles 
-i need to look through   
-to the governing dynamics 
-find a truly original idea 
-that s the only way
-i ll ever distinguish myself 
-it s the only way
-that i ll ever   
-matter 
-yes 
-hansen 
-all right  who s next 
-no  i ve played enough  go 
-for one day  thank you 
-  come on 
-  l    i hate this game 
-cowards  all of you 
-none of you rise
-to meet my challenge 
-come on  bender 
-whoever wins 
-sol does his laundry
-all semester 
-  does that seem unfair
-to anyone else 
-  not at all 
-  bender  look at him 
-  nash 
-taking a reverse
-constitutional 
-i m hoping to extract
-an algorithm
-to define
-their movement 
-  oh 
-  psycho 
-sol 
-hey  nash  i thought
-you dropped out 
-you ever going
-to go to class or   
-classes will dull your mind 
-destroy the potential
-for authentic creativity 
-oh  oh  i didn t
-know that 
-nash is going to stun us all
-with his genius 
-which is another way
-of saying
-he doesn t have
-the nerve to compete 
-you scared 
-terrified 
-mortified 
-petrified 
-stupefied    by you 
-no starch 
-pressed and folded 
-let me ask
-you something  john 
-be my guest  martin 
-bender and sol here
-correctly completed
-allen s proof
-of peyrot s conjecture 
-adequate work   
-without innovation 
-oh  i m flattered 
-you flattered 
-flattered 
-and i ve got
-two weapons briefs
-under security review
-by the d o d 
-derivative drivel 
-but nash achievements 
-zero 
-i m a patient man  martin 
-is there an actual
-question coming 
-what if you never come up
-with your original idea 
-huh 
-how will it feel
-when i m chosen for wheeler   
-and you re not 
-what if you lose 
-bender 
-ah  there it is 
- chuckles 
-you should not have won 
-hmmm 
-i had the first move 
-my    my play was perfect 
-the hubris
-of the defeated 
-the game is flawed 
-gentlemen 
-the greatjohn nash 
-charles 
-you ve been in here
-for two days 
-you know hansen s
-just published another paper 
-i can t even find a topic
-for my doctorate 
-well  on the bright side 
-you ve invented window art 
-this is a group
-playing touch football 
-this is a cluster of pigeons
-fighting over bread crumbs 
-and this here is a woman
-who is chasing a man
-who stole her purse 
-john  you watched
-a mugging 
-that s weird 
-in competitive behavior
-someone always loses 
-well  my niece knows that 
-john  and she s about this high 
-see  if i could derive
-an equilibrium
-where prevalence is
-a non singular event 
-where nobody loses 
-can you imagine the effect
-that would have
-  on conflict scenarios 
-and arms negotiations   
-  when did you last eat 
-  when did you last eat 
-   currency exchange 
-you know  food 
-you have no respect
-for cognitive reverie 
-you know that 
-yes  but pizza   
-now  pizza i have
-enormous respect for 
-and of course beer 
-i have respect for beer 
-i have respect for beer 
-  bender  good evening  neils 
-  hansen  hey  nash 
-who s winning 
-you or you 
-  bender  evening  nash 
-  sol  hey  guys 
-hey  nash 
-woman 
-he s looking
-at you for sure 
-hey  nash 
-neils is trying
-to get your attention 
-  bender  you re joking 
-  sol  oh  no 
-  go with god 
-  come back a man 
-  fortune favors the brave 
-  bombs away 
-gentlemen  might i remind you
-that my odds of success
-dramatically improve
-with each attempt 
-this is going
-to be classic 
-maybe you want
-to buy me a drink 
-i don t exactly know
-what i m required to say
-in order for you
-to have intercourse with me 
-but could we assume
-that i said all that 
-essentially we re talking
-about fluid exchange  right 
-so  could we just
-go straight to the sex 
-oh  that was sweet 
-have a nice night 
-asshole 
-   man laughs 
-  neilson  ladies  wait 
-charles  l   
-i especially liked
-the bit about fluid exchange 
-it was really charming 
-professor 
-walk with me  john 
-i ve been meaning
-to talk with you 
-the faculty is completing
-mid year reviews 
-we re deciding which placement
-applications to support 
-wheeler  sir 
-that would be
-my first choice 
-and actually 
-i don t really have
-a second choice  sir 
-john  your fellows
-have attended classes 
-they ve written papers 
-they ve published 
-i m still searching  sir 
-for my   
-  your original idea  i know 
-  governing dynamics  sir 
-it s very clever  john 
-but i m afraid
-it s just not nearly
-good enough 
-  may i 
-  thank you 
-i ve been working
-on manifold embedding 
-my bargaining stratagems
-are starting to show
-some promise 
-if you could just
-arrange another meeting 
-if you d be kind enough 
-with professor einstein   
-  i ve repeatedly asked
-you for that 
-  now  john 
-i d be able to show him
-my revisions on his   
-john 
-do you see what they re
-doing in there 
-  professor  congratulations 
-  max  thank you so much 
-congratulations 
-professor max 
-  max  thank you  sir 
-  thank you 
-it s the pens 
-reserved for a member
-of the department
-that makes the achievement
-of a lifetime 
-now  what do you see  john 
-recognition 
-well done  professor 
-well done 
-well  try seeing
-accomplishment 
-is there a difference 
-john 
-you haven t focused 
-i m sorry 
-but up to this point 
-your record doesn t warrant
-any placement at all 
-good day 
-and my compliments
-to you  sir 
-thank you so much 
-i can t see it 
- whimpers 
-  aah 
-  jesus christ  john 
-i can t fail 
-  this is all i am 
-  come on  let s go out 
-  i got to get
-something done 
-  john 
-  i can t keep
-staring into space 
-  john  enough 
-got to face the wall 
-follow their rules 
-read their books   
-you want to do
-some damage  fine   
-  but don t mess around 
-   do their classes 
-come on 
-go on  bust your head 
-kill yourself 
-john  do it 
-don t mess around 
-bust your head 
-go on 
-bust that worthless head
-wide open 
-goddamn it  charles 
-what the hell is
-your problem  
-it s not my problem 
-and it s not your problem 
-it s their problem 
-your answer isn t
-face the wall 
-it s out there   
-where you ve been working 
-   panting 
-   gasps 
-that was heavy 
-that isaac newton fellow
-was right 
-  he was onto something 
-  clever boy 
- giggles 
-john 
-don t worry  that s mine 
-i ll come and get it
-in a minute 
-   both laughing 
-  oh  god 
-  neilson  incoming  gentlemen 
-  sol  ay yi yi 
- sighs 
-deep breaths 
-sol  nash  you might
-want to stop
-shuffling your papers
-for five seconds 
-i will not buy
-you gentlemen beer 
-bender 
-oh  we re not here
-for beer  my friend 
-  john  oh 
-   sol chuckles 
-does anyone else feel she should be
-moving in slow motion 
-will she want
-a large wedding  ya think 
-shall we say swords  gentlemen 
-  pistols at dawn 
-  have you remembered nothing 
-recall the lessons
-of adam smith 
-the father
-of modern economics 
- in competition   
-sol and neilson 
-individual ambition
-serves the common good  
-  exactly 
-  every man for himself 
-gentlemen 
-bender 
-and those who strike out
-are stuck with her friends 
-hansen 
-i m not gonna strike out 
-sol 
-you can lead a blonde to water 
-but you can t make her drink 
-  i don t think he said that 
-  sol  nobody move   
-she s looking over here 
-she s looking at nash 
-hansen 
-oh  god  he may have
-the upper hand now 
-but wait until he
-opens his mouth 
-   laughing 
-  remember the last time 
-bender 
-oh  yes  that was one
-for the history books 
-adam smith needs revision 
-what are you
-talking about 
-if we all go for the blonde   
-we block each other 
-not a single one of us
-is gonna get her 
-so then we go
-for her friends 
-but they will all
-give us the cold shoulder
-because nobody likes
-to be second choice 
-well  what if no one goes
-for the blonde 
-we don t get
-in each other s way 
-and we don t insult
-the other girls 
-that s the only way we win 
-that s the only
-way we all get laid 
- laughs 
+pretty much like hangover
+finally bloody kills
+chuckles
+john nash
+hello
+charles herman
+pleased meet
+player right well done
+charles well official
+im almost human
+officer saw driver hit
+name johnny walker
+mimics rimshot
+whew
+well got last night
+time
+english department cocktails
+cock mine
+tail belonged particularly lovely young thing
+passion
+dh lawrence youre easily distracted
+im work hmmm right
+see crikey
+roommate dick
+hmm
+listen
+cant break ice
+drown
+whats story
+poor kid never got go exeter andover
+despite privileged upbringing
+im actually quite wellbalanced
+chip shoulders
+chuckles
+maybe youre better
+old integers people
+first grade teacher told
+born two helpings brain
+half helping heart
+chuckles
+wow sounds lovely
+truth l
+dont like people much
+dont much like
+
+obvious wit charm
+laughs
+seriously john
+mathematics
+mathematics never going lead higher truth
+know
+cause boring
+really boring chuckles
+know half schoolboys already published
+waste time classes
+books
+coughs
+memorizing weaker assumptions lesser mortals
+chuckles
+need look
+governing dynamics
+find truly original idea
+thats way ill ever distinguish
+way ill ever
+matter
+yes
+hansen right whos next
+ive played enough go one day thank
+come l hate game
+cowards
+none rise meet challenge
+come bender whoever wins
+sol laundry semester
+seem unfair anyone else
+bender look nash
+taking reverse constitutional
+im hoping extract algorithm
+define movement
+oh psycho
+sol hey nash thought dropped
+ever going go class
+classes dull mind
+destroy potential authentic creativity
+oh oh didnt know
+nash going stun us genius
+another way saying
+doesnt nerve compete
+scared
+terrified
+mortified petrified
+stupefied
+starch
+pressed folded
+let ask something john
+guest martin
+bender sol correctly completed
+allens proof peyrots conjecture
+adequate work
+without innovation
+oh im flattered flattered
+flattered
+ive got two weapons briefs
+security review dod
+derivative drivel
+nash achievements
+zero
+im patient man martin actual question coming
+never come original idea
+huh
+feel im chosen wheeler
+youre
+lose
+bender ah
+chuckles
+
+hmmm
+first move play perfect
+hubris defeated
+game flawed
+gentlemen greatjohn nash
+charles youve two days
+know hansens published another paper
+cant even find topic doctorate
+well bright side youve invented window art
+group playing touch football
+cluster pigeons fighting bread crumbs
+woman chasing man stole purse
+john watched mugging
+thats weird
+competitive behavior someone always loses
+well niece knows john shes high
+see could derive equilibrium
+prevalence nonsingular event
+nobody loses
+imagine effect would
+conflict scenarios arms negotiations last eat
+last eat currency exchange
+know food
+respect cognitive reverie know
+yes pizza
+pizza enormous respect
+course beer
+respect beer
+respect beer
+bender good evening neils hansen hey nash
+whos winning
+bender evening nash sol hey guys
+hey nash
+woman hes looking sure
+hey nash
+neils trying get attention
+bender youre joking sol oh
+go god come back man
+fortune favors brave bombs away
+gentlemen might remind odds success
+dramatically improve attempt
+going classic
+maybe want buy drink
+dont exactly know im required say
+order intercourse
+could assume said
+essentially talking fluid exchange right
+could go straight sex
+oh sweet
+nice night asshole
+man laughs neilson ladies wait
+charles l
+especially liked bit fluid exchange
+really charming
+professor walk john
+ive meaning talk
+faculty completing midyear reviews
+deciding placement applications support
+wheeler sir would first choice
+actually dont really second choice sir
+john fellows attended classes
+theyve written papers theyve published
+im still searching sir
+original idea know governing dynamics sir
+clever john im afraid
+nearly good enough
+may thank
+ive working manifold embedding
+bargaining stratagems starting show promise
+could arrange another meeting
+youd kind enough professor einstein
+ive repeatedly asked john
+id able show revisions
+john
+see theyre
+professor congratulations max thank much
+congratulations professor max
+max thank sir thank
+pens
+reserved member department
+makes achievement lifetime
+see john
+recognition
+well done professor well done
+well try seeing accomplishment
+difference
+john
+havent focused
+im sorry point
+record doesnt warrant placement
+good day
+compliments sir
+thank much
+cant see
+whimpers
+aah jesus christ john
+cant fail
+come lets go
+got get something done john
+cant keep staring space john enough
+got face wall follow rules read books
+want damage fine
+dont mess around classes
+come go bust head
+kill
+john dont mess around
+bust head go
+bust worthless head wide open
+goddamn charles hell problem
+problem
+problem
+problem
+answer isnt face wall
+
+youve working
+panting gasps
+heavy
+isaac newton fellow right
+onto something clever boy
+giggles
+john dont worry thats mine
+ill come get minute
+laughing oh god
+neilson incoming gentlemen sol ayyiyi
+sighs deep breaths
+sol nash might want stop
+shuffling papers five seconds
+buy gentlemen beer
+bender oh beer friend
+john oh sol chuckles
+anyone else feel moving slow motion
+want large wedding ya think
+shall say swords gentlemen
+pistols dawn remembered nothing
+recall lessons adam smith
+father modern economics
+competition
+sol neilson individual ambition serves common good
+exactly every man gentlemen
+bender strike stuck friends
+hansen im gon na strike
+sol lead blonde water cant make drink
+dont think said sol nobody move
+shes looking shes looking nash
+hansen oh god may upper hand
+wait opens mouth
+laughing remember last time
+bender oh yes one history books
+adam smith needs revision
+talking
+go blonde
+block
+single one us gon na get
+go friends
+give us cold shoulder
+nobody likes second choice
+well one goes blonde
+dont get others way
+dont insult girls
+thats way win
+thats way get laid
+laughs
 adam smith said
-the best result comes
-from everyone
-in the group doing
-what s best
-for himself  right 
-that s what he
-said  right 
-  right 
-  incomplete 
-incomplete  okay 
-because the best result
-will come   
-from everyone in the group
-doing what s best for himself   
-and the group 
-nash  if this is some way
-for you to get the blonde
-on your own 
-  you can go to hell 
-  governing dynamics 
-governing dynamics 
-adam smith   
-was wrong 
-  sol  oh  here we go 
-  neilson  careful  careful 
-thank you 
- c  of s  equals
- c  of t  
- muttering 
-you do realize this
-flies in the face
-  of a 1 50 years
-of economic theory 
-  yes  i do  sir 
-that s rather presumptuous 
-don t you think 
-it is  sir 
- stifled laugh 
-well  mr  nash 
-with a breakthrough
-of this magnitude 
-i m confident you will get
-any placement you like 
-wheeler labs 
-they ll ask you to recommend
-two team members 
- whispering 
-yes 
-stills and frank
-are excellent choices 
-sol and bender  sir 
-sol and bender are
-extraordinary mathematicians 
-has it occurred to you
-that sol and bender
-might have plans
-of their own 
- laughing 
-  baby 
-  wheeler  we made it 
-  cheers  cheers  cheers 
-  to    oh  oh 
-okay  awkward moment 
-gentlemen 
-umm   
-hmm 
-governing dynamics 
-  congratulations  john 
-  thanks 
-  toast 
-  to wheeler labs 
-neilson 
-to wheeler 
-the pentagon 1 953
-five years later
-man 
-general  the analyst
-from wheeler lab is here 
-dr  nash  your coat 
-thank you  sir 
-doctor  general  this is
-wheeler team leader
-dr  john nash 
-glad you could
-come  doctor 
-hello 
-right this way 
-we ve been intercepting
-radio transmissions from moscow 
-the computer can t
-detect a pattern 
-but i m sure it s code 
-john 
-why is that  general 
-ever just know
-something  dr  nash 
-constantly 
-general 
-we ve developed several ciphers 
-if you d like to review
-our preliminary data   
-doctor 
-nash s voice 
-6 7 3 7 
-0 3 6   
- mental voice 
-8 4 9 4 
- continues listing numbers 
-9 1 4 0 3 4 
-i need a map 
-46 1 3 08 
-67 46 90 
-starkey corners  maine 
-48 03 01 
-91  26 3 5 
-prairie portage 
-minnesota 
-these are latitudes
-and longitudes 
-there are a least 1 0 others 
-they appear to be routing orders
-across the border into the u s 
-extraordinary 
-gentlemen  we need
-to move on this 
-who s big brother 
-you ve done your country
-a great service  son 
-  captain 
-  yes  sir 
-accompany dr  nash 
-what are the russians
-moving  general 
-captain rogers will escort you
-to the unrestricted area  doctor 
-thank you 
-captain 
-dr  nash  follow me  please 
-man on radio 
-none of those who have
-said they don t
-like the method
-have told us any other method
-they could use
-that would be effective 
-  and when you hear   
-  driver  it s dr  nash 
-all right 
-wheeler defense labs
-mit campus
-  thank you  sir 
-  home run at the pentagon 
-have they actually
-taken the word  classified 
-out of the dictionary 
-oh  hi 
-the air conditioning broke again 
-how am i supposed to be
-in here saving the world
-  if i m melting 
-  our hearts go out to you 
-you know  two trips
-to the pentagon in four years 
-that s two more than we ve had 
-it gets better  john 
-just got our latest
-scintillating assignment 
-you know  the russians
-have the h bomb 
-the nazis are repatriating
-south america 
-the chinese have
-a standing army of 2 8 million 
-and i am doing
-stress tests on a dam 
-you made the cover
-of fortune    again 
-please note the use
-of the word  you   not  we  
-that was supposed
-to be just me 
-oh 
- laughs 
-so not only do they rob me
-of the fields medal 
-now they put me on the cover
-of fortune magazine
-with these hacks 
-these scholars of trivia 
-john  exactly what s
-the difference
-between genius
-and most genius 
-quite a lot 
-he s your son 
-anyway  you ve got 1 0 minutes 
-i ve always got 1 0 minutes 
-sol 
-before your new class 
-can i not get a note
-from a doctor or something 
-you are a doctor  john 
-and no 
-now  come on 
-you know the drill 
-we get these
-beautiful facilities 
-m i t  gets america s
-great minds of today
-teaching america s
-great minds of tomorrow 
-poor bastards 
-now  have a nice day at school 
-the bell s ringing 
- door opens 
-the eager young minds
-of tomorrow 
- loudjackhammering 
-can we leave one open 
-professor 
-it s really hot  sir 
-your comfort comes second
-to my ability
-to hear my own voice 
-personally 
-i think this class
-will be a waste   
-of your   
-and what is infinitely worse   
-my time 
-however  here we are 
-so you may attend or not 
-you may complete
-your assignments at your whim 
-we have begun 
-miss 
-excuse me 
-  excuse me 
-  hey  hey 
-hi 
-um  we have
-a little problem 
-it s extremely hot in here
-with the windows closed
-and extremely noisy
-with them open 
-so  i was wondering
-if there was any way you could 
-i don t know 
-maybe work someplace else
-for about 45 minutes 
-  worker  not a problem 
-  thank you so much 
-  at a break 
-  got it 
-worker 
-let s go  let s clean it
-a little bit 
-as you will find
-in multivariable calculus 
-there is often   
-a number of solutions
-for any given problem 
-as i was saying 
-this problem here
-will take some of you
-many months to solve 
-for others among you 
-it will take you the term
-of your natural lives 
-man 
-professor nash 
-william parcher 
-big brother 
-at your service 
-what can i do
-for the department of defense 
-are you going to
-to give me a raise 
-let s take a walk 
-  impressive work
-at the pentagon 
-  yes  it was 
-oppenheimer used to say 
- genius sees the answer
-before the question  
-you knew oppenheimer 
-his project was
-under my supervision 
-which project 
-that project 
-it s not that simple 
-you know 
-well  you ended the war 
-we incinerated 1 50 000 people
-in a heartbeat 
-great deeds come
-at great cost  mr  parcher 
-well  conviction 
-it turns out 
-is a luxury of those
-on the sidelines  mr  nash 
-i ll try
-and keep that in mind 
-so  john  no family 
-no close friends   
-why is that 
-john 
-i like to think it s
-because i m a lone wolf 
-but mainly it s because
-people don t like me 
- chuckles 
-well  there are
-certain endeavors
-where your lack
-of personal connection
-would be considered
-an advantage 
-  this is a secure area 
-  they know me 
-have you ever
-been here 
-we were told during
-our initial briefing
-that these warehouses
-were abandoned 
-that s not precisely accurate 
- low radio chatter 
- tapes screeching 
- sirens 
-man speaking russian 
-by telling you
-what i m about to tell you 
-i am increasing
-your security clearance
-to top secret 
-disclosure of secure information
-can result in imprisonment 
-get it 
-what operation 
-those are a good idea 
-this factory is in berlin 
-we seized it
-at the end of the war 
-nazi engineers were attempting
-to build a portable atomic bomb 
-the soviets reached
-this facility before we did 
-and we lost the damn thing 
-the routing orders
-at the pentagon 
-they were about this 
-weren t they 
-the soviets aren t
-as unified as people believe 
-a faction of the red army
-calling itself novaya svobga 
- the new freedom  
-has control of the bomb
-and intends to detonate it
-on u s  soil 
-their plan is to incur
-maximum civilian casualties 
-parcher 
-man is capable
-of as much atrocity
-as he has imagination 
-new freedom has sleeper agents
-here in the u s 
-mccarthy is an idiot 
-but unfortunately
-that doesn t make him wrong 
-new freedom communicates
-to its agents
-through codes imbedded
-in newspapers and magazines 
-and that s where you come in 
-you see  john 
-what distinguishes you
-is that you are 
-quite simply 
-the best natural code breaker
-i have ever seen 
-what exactly is it
-that you would like me to do 
-commit this list
-of periodicals to memory 
-scan each new issue 
-find any hidden codes 
-decipher them 
-doctor 
-place your chin
-on the chin rest 
-  stare into the light 
-  man  pulse 88  regular 
-okay  this may be
-a little uncomfortable 
- groans 
-that s got
-a little zap to it  doesn t it 
-he just implanted
-a radium diode 
-don t worry  it s safe 
-the isotope decays predictably 
-as a result 
-these numbers change over time 
-they re the access codes
-to your drop spot 
-so what am i now  a spy 
-   knocking 
-  come 
-boy  you must be
-really important 
-it s all right  mike 
-what are you working on 
-classified 
-everyone waited
-half an hour 
-for 
-class 
-you missed class today 
-oh  i suspect that   
-nobody missed me 
- chuckles 
-the problem that you left
-on the board   
-i solved it 
-oh  no you didn t 
-you didn t even look 
-i never said
-that the vector fields
-were rational functions 
-your solution is elegant 
-though on this
-particular occasion 
-ultimately incorrect 
-you re still here 
-i m still here 
-why 
-i m wondering  professor nash 
-if i can ask you
-to dinner 
-you do eat  don t you 
-oh  on occasion  yeah 
- chuckles 
-table for one  prometheus alone
-chained to the rock
-with the bird circling overhead 
-you know how it is 
- laughs 
-no  i expect
-that you wouldn t   
-you wouldn t know 
-if you leave your address
-with my office 
-i ll pick you up
-friday at 8 00
-and we ll eat 
-one more thing 
-do you have a name 
-or should i just
-keep calling you  miss  
-governor 
-may i present   
-  miss alicia larde 
-  miss alicia larde 
-  how do you do 
-  professor  please 
-you and the governor 
-wait  one second  i m sorry 
-i want a copy of this 
-first big date and all 
-you know 
-so  you boys need
-to look good 
-which is not a state
-you find yourselves in
-altogether naturally 
-there  better 
-  i m surprising him 
-  you just keep on surprising him 
-professor 
-god must be a painter 
-why else would we
-have so many colors 
-so you re a painter 
-that s not actually
-what i said 
-but  yes   
-i am 
-here 
-me 
-your date 
-practice human interaction
-and social comportment 
-that s a plan 
-champagne would be lovely 
-i ll be outside 
-i will get the champagne 
-oh  thank you 
-thank you for that 
-no  keep it 
-i believe in deciding things
-will be good luck 
-do you 
-no 
-i don t believe in luck 
-but i do believe
-in assigning value to things 
-oh 
-i once tried
-to count them all 
-i actually made it to 4 348 
-you are exceptionally odd 
-i bet you re very
-popular with the girls 
-a pair of odd ducks  then 
-mmm 
-pick a shape 
-what 
-pick a shape 
-an animal    anything 
-okay 
-an umbrella 
-do it again 
- chuckles 
-  do it again 
-  all right 
-  what would you like 
-  do  uh   
-an octopus 
- dog barking 
- alicia chuckles 
-alicia 
-you don t talk much  do you 
-i can t talk to you
-about my work  alicia 
-i don t mean work 
-i find that polishing
-my interactions
-in order to make them sociable
-requires a tremendous effort 
-i have a tendency to expedite
-information flow   
-by being direct 
-i often don t get
-a pleasant result 
-try me 
-all right 
-i find you attractive 
-your aggressive
-moves towards me
-indicate that you
-feel the same way 
-but still 
-ritual requires that we
-continue with a number
-of platonic activities
-before we have sex 
-i am proceeding
-with those activities 
-but in point of actual fact 
-all i really want to do
-is have intercourse with you
-as soon as possible 
-are you gonna slap me now 
-how was that result 
-girl 
-what are you doing 
-i m attempting to isolate
-patterned re occurrences
-within periodicals
-over time    and you 
-you talk funny  mr  nash 
-do i know you 
-my uncle says you re very smart
-but not very nice 
-so i shouldn t pay no mind
-if you re mean to me 
-and who might
-your uncle be 
-the prodigal roommate   
-returns 
- chuckles 
-  come here 
-  charles  charles  charles 
-my sister   
-got herself killed
-in a car crash 
-not too far now  marcee 
-her cowboy husband
-was too drunk
-to know that he was
-too drunk to drive 
-so  i took her in 
-  she s so small 
-  she s young  john 
-that s how they come 
-i m at harvard   
-doing the great
-author s workshop 
-d h  bloody lawrence 
-i really do think you should
-buy yourself a new book 
- chuckles 
-well  i ve been reading
-a lot about you 
-how are you  john 
-at first all my work
-here was trivial 
-but a new assignment
-came up and   
-i can t really tell you
-any details 
-top secret 
-black bag  black ops 
-something like that 
-  and  uh   
-  yes 
-well  l    i met a girl 
-  no  a human girl 
-  homo sapiens 
-  a biped 
-  yup  and contrary
-to all probabilities 
-she finds me attractive
-on a number of different levels 
- laughs 
-really 
-god  that s wonderful 
-there s no accounting
-for taste  is there 
-should i marry her 
-oh  god  right 
-i mean  everything s
-going well 
-the job is fine 
-i have enough money 
-it all seems to add up 
-but how do you know for sure 
-nothing s ever for sure  john 
-that s the only
-sure thing i do know 
-waiter 
-good evening 
-alicia  please don t be angry 
-i just lost track
-of time at work   
-  again 
-  mm hmm 
-i m sorry 
-i didn t have time
-to wrap it 
-happy birthday 
-the refractive faces
-of the glass  you see 
-they create
-a full wavelength dispersal 
-so if you look inside it 
-you can see   
-  every possible color 
-  every possible color 
-yeah 
-remember you said that time
-god must be a painter 
-because of all the colors 
-at the governor s house   
-you said that 
-i didn t think
-you were listening 
-i m always listening 
-it s beautiful 
- chuckles 
-alicia  does our
-relationship warrant
-long term commitment 
- cause i need
-some kind of proof 
-some kind of verifiable 
-empirical data 
- laughs 
-i m sorry 
-just give me a moment   
-to redefine
-my girlish notions of romance 
-a proof 
-verifiable data 
-um    okay 
-well  how big
-is the universe 
-infinite 
-how do you know 
-i know because
-all the data indicate it 
-  but it hasn t been proven yet 
-  no 
-you haven t seen it 
-how do you know for sure 
-i don t  i just believe it 
-mmm 
-it s the same
-with love  i guess 
-now 
-the part that
-you don t know   
-is if i want
-to marry you 
- applause 
-smile for the camera 
-well done 
-oh  sweet pea 
-  i love you 
-  congratulations 
-hey  sol 
-woman 
-you look beautiful 
-sol 
-hi  how are you 
-alicia 
-hey  sol 
-  woman  bye bye 
-  man  bye  now 
-  bye 
-  bye 
-be safe 
- gate opens 
-cambridge  ma
-october 1 954
-get in  hurry 
-they re following us 
-who s   
-who s following us 
-the drop s been
-compromised 
-   gunfire 
-  parcher  get down 
-  stay down 
-   horn honks 
-   pants 
-   horn honking 
- gun firing 
-  here  take this 
-  i ain t shooting anybody 
-  take the goddamn gun 
-  no 
-son of a   
- screams 
-you stay back 
-don t move 
- screams 
- tires screeching 
-alicia  john 
-hi 
-where were you 
-  s sol   
-  yeah  i talked to sol 
-he said you left
-the office hours ago 
-why didn t you call me 
-are you all right 
-honey 
- bolt locking 
-john   
-please  talk to me 
-tell me what happened 
-john  open the door 
-come on  open the door 
-let me in 
-talk to me 
-john 
-open the door 
- panting 
-woman 
-watch for cars  kids 
- door opens  closes 
-john 
-william 
-this is not what
-i signed on for 
-every time a car backfires
-or a door slams   
-i understand    better than you
-could possibly imagine 
-you need to calm down  john 
-now listen to me 
-we re closing in on the bomb 
-in large part
-due to your work 
-now don t you think your fear
-is a small price to pay 
-william  my circumstance
-has changed 
-alicia s pregnant 
-i told you attachments
-were dangerous 
-you chose to marry the girl 
-i did nothing
-to prevent it 
-the best way to ensure
-everybody s safety
-is for you to continue
-your work 
-well  i ll just quit 
-you won t 
-why would i not 
-because i keep the russians
-from knowing you work for us 
-you quit working for me 
-i quit working for you 
-parcher 
-parcher 
-john  you all right 
-john 
-turn it off 
-turn off the light 
-why would you do that 
-why would you
-turn the light on 
-what is wrong with you 
-you have to go
-to your sister s 
-i left the car out the back 
-you take commonwealth 
-  no side streets 
-you stay where it s crowded 
-  john  i m not going anywhere 
-when you get to your sister s 
-you wait for me to call you 
-  no  i m not going 
-  just get your things 
-  i m not leaving   
-  stop  stop it 
-please  alicia 
-i ll explain when i can 
-harvard university
-national mathematics conference
-marcee 
-unclejohn 
-unclejohn 
- growls 
-  hey  baby girl 
-   marcee laughing 
-wow  someone
-needed a hug 
-i saw you on the slate
-and i thought to myself 
- how can i miss seeing
-a guest lecture
-by the inimitable
-john nash  
-what s wrong 
-i got myself into something 
-i think i might need some help 
-well  now you tell me 
-what is it 
-woman 
-professor nash 
-welcome 
-after 
-john 
-so  we see that
-the    the zeroes 
-of the reimann
-zeta function 
-correspond
-to singularities
-in space time 
-singularities
-in space time   
-and conventional
-number theory   
-it breaks down in the face
-of relativistic exploration 
-sometimes our expectations
-are betrayed
-by the numbers 
-variables are impossible
-to assign any   
-rational value 
-professor nash 
-  hold it 
-  professor nash 
-professor nash 
-let s avoid a scene 
-shall we 
-what do you want 
-my name is rosen 
-dr  rosen 
-i m a psychiatrist 
-forgive me
-if i don t seem persuaded 
-i d like you
-to come with me  john 
-just for a chat 
-it appears i have no choice 
-oh hh 
-help me  somebody 
- screams 
-somebody 
-help me 
-get off me 
-i know who you are 
-i know who you are 
-no  no  no 
-no  don t 
-charles  they re russians 
-charles  they re russians 
-call somebody 
-call somebody  charles 
-  they re russians 
-  steady the leg 
-get away from me 
-stay away from me 
-dr  rosen 
-there  now 
-all better 
-  everything s all right here 
-   gasps 
-watch your head 
- dr  rosen  faintly 
-john 
-can you hear me 
- faint whispering 
-go easy now 
-thorazine takes
-a little while to wear off 
-sorry about
-the restraints 
-you ve got one hell
-of a right hook 
- weakly 
-where am i 
-ahem 
-macarthur psychiatric hospital 
-i find that highly unlikely 
-you made a mistake 
-my work is non military
-in application 
-which work is that  john 
-i don t know anything 
- laughs 
-there s no good
-in keeping secrets  you know 
- groans 
- buzzer 
-charles 
-charles 
-i didn t mean to get you
-involved in this 
-i m    i m sorry 
-charles    
-the prodigal roommate
-revealed 
- saw my name
-on the lecture slate  
-you lying son of a bitch 
-who are you talking to 
-tell me who you see 
-how do you say 
- charles herman  in russian 
-how do you say it
-in russian 
-there s no one there  john 
-there s no one there 
-he s right there 
-he s right there 
-stop 
-i don t know anything 
-stop  l    i don t know anything 
-my name is john nash 
-i m being held
-against my will 
-somebody call
-the department of defense 
-my name is john nash 
-i m being held
-against my will 
-alicia 
-what s wrong with him 
-john has schizophrenia 
-people with this disorder
-are often paranoid 
-but    but his work 
-he deals with conspiracies   
-yes  yes  i know 
-in john s world  these behaviors
-are    accepted 
-encouraged 
-as such  his illness
-may have gone untreated
-far longer than is typical 
-what do you mean 
-how long 
-possibly since
-graduate school 
-at least that s when
-his hallucinations
-seem to have begun 
-what are you talking about 
-what hallucinations 
-one  so far 
-that i am aware of 
-an imaginary roommate
-named charles herman 
-charles isn t imaginary 
-he and john have been
-best friends since princeton 
-have you ever met charles 
-has he ever come to dinner 
-he s always in town
-for so little time  lecturing 
-  was he at your wedding 
-  he had to teach 
-have you ever
-seen a picture of him 
-  talked to him
-on the telephone 
-  this is ridiculous 
-i phoned princeton 
-according to their
-housing records 
-john lived alone 
-now  which is more likely   
-that your husband 
-a mathematician
-with no military training 
-is a government spy
-fleeing the russians   
-you re making him sound crazy 
-   or  that he has
-lost his grip on reality 
-now the only way
-i can help him
-is to show him
-the difference
-between what s real
-and what is in his mind 
-come on 
-what s he been working on 
-his work is classified 
-he mentioned a supervisor
-by the name
-of william parcher 
-maybe mr  parcher
-can clarify things for us 
-but i can t get to him
-without clearances 
-you want me to help you get
-the details of my husband s work 
-john thinks i m a russian spy 
-is that what you think 
-  what did the doctor say 
-  is he sick 
-i don t know 
-i want to see whatjohn s
-been working on 
-  you know you can t
-go in his office 
-  it s classified  alicia 
-stop  oh 
-oh  my god 
-oh  my god 
-why didn t you
-say something 
-alicia  john s always been
-a little weird 
-he said he was
-doing code breaking 
-that it was eyes only 
-  top secret  part
-of the military effort 
-  was he 
-well  it was possible 
-you know 
-directives come down
-all the time
-that some of us
-aren t cleared for 
-  it was possible 
-  possible  but   
-not likely 
-lately  he d become
-so much more agitated
-and then when you called   
-so  is this all
-he s been doing every day 
-cutting out magazines 
-well  not all 
- door opens 
-  alicia  i m so sorry 
-  john  it s okay 
-  i missed you 
-  i missed you 
-i have to talk to you 
-okay 
-alicia  i ve been
-thinking about it 
-and i do realize
-that my behavior
-and my inability to discuss
-the situation with you
-must have appeared insane 
-i left you with no other choice 
-i do understand   
-  and i m truly sorry 
-  that s okay 
-everything s gonna be all right 
-everything s gonna be all right 
-we just have to talk quietly 
-they may be listening 
-there may be microphones 
-i m gonna tell you
-everything now 
-it s breaking with protocol
-but you need to know 
-because you have to help me
-get out of here 
-i ve been doing top secret work
-for the government 
-there s a threat that exists
-of catastrophic proportions 
-i think the russians
-feel my profile is too high 
-that s why they simply
-just don t do away with me 
-they re keeping me here
-to try to stop me
-from doing my work 
-you have to get to wheeler 
-  you have to find
-william parcher 
-  stop 
-  he can help us 
-  stop  stop  stop 
-i went to wheeler 
-good  good 
-there is no william parcher 
-of course there is 
-  i ve been working for him 
-  doing what 
-breaking codes 
-dropping packages
-in a secret mailbox
-for the government to pick up 
-how could you know that 
-sol followed you 
-  he thought it was harmless 
-  sol followed me 
-they ve never been opened 
-it isn t real 
-there is no conspiracy  john 
-there is no william parcher 
-it s in your mind 
-do you understand  baby 
-you re sick 
-you re sick  john 
-john  
-john 
-code red 
- over p a  
-dr  rosen  code red 
-observation room two 
-dr  rosen  code red 
-observation room two 
- keys jingling 
-john 
-john 
-the implant s gone 
-i can t find it 
-it s gone 
-dr  rosen 
-you see  the nightmare
-of schizophrenia
-is not knowing what s true 
-imagine   
-if you had suddenly learned
-that the people and the places
-and the moments
-most important to you
-were not gone  not dead 
-but worse   
-had never been 
-what kind of hell
-would that be 
-administering insulin 
-man 
-8 42 am 
-how often 
-five times a week
-for 1 0 weeks 
-princeton university
-1 year later
-alicia 
-john always spoke so fondly
-of being here at princeton 
-and hansen is running
-the department now 
-so he keeps reminding us 
-and reminding us 
- laughs 
-yeah 
-john won t come near
-the campus  though 
-  i think he s ashamed 
-   baby cries 
-hey  hey 
-want this 
-so  alicia  how   
-how are you holding up 
-well  the delusions have passed 
-they re saying
-with the medication
-and low stress environment   
-no  l    i mean 
-how are you 
-i think often what i feel
-is obligation 
-or guilt over wanting to leave 
-rage againstjohn 
-against god and   
-but   
-then i look at him
-and i force myself to see
-the man that i married 
-and he becomes that man 
-he s transformed
-into someone that i love 
-and i m transformed
-into someone who loves him 
-it s not all the time 
-but   
-it s enough 
-i thinkjohn is
-a very lucky man   
-alicia 
-so unlucky 
-  alicia  this is us 
-  sol  this is it 
-  it s nice 
-  it s near where i work 
-alicia 
-john  you ve a visitor 
-hi 
-hi 
-i hope it s okay 
-hey ya  chief 
-  cigarette 
-  ah  no  thanks 
-i quit  actually 
-  hello 
-  hey  john 
-have you met harvey 
-umm  i   
- laughs 
-  john  there s no   
-  relax  it s okay 
-there s no point
-in being nuts if you can t
-have a little fun 
-jesus christ  john 
- laughs 
-i should have known 
-here you go 
-i can take those later 
-you re supposed
-to take them now 
-  can i bring you something 
-  i m okay 
-okay 
-so  um    yeah 
-l    i was in town
-giving a workshop 
-i go back tonight 
-you know  bender 
-he really wanted
-to stop by and you know  see you 
-you know  say hi 
-squeamish 
-yeah 
-i suppose i would be  too 
-but alas  i m stuck with me 
-  i m trying to solve
-the reimann hypothesis 
-  uh huh 
-oh  yeah 
-i figured if   
-if i dazzle them 
-they will have
-to reinstate me 
-but it s difficult
-with the medication 
-because it s hard to   
-see the solution 
-you know  john 
-you should go easy 
-there are other
-things besides   
-besides work 
-what are they 
- baby crying 
-shh hh 
-shh 
- door closes 
-what are you
-thinking about 
-what do people do 
-it s life  john 
-activities available 
-just add meaning 
-you could try
-leaving the house 
-you know  maybe   
-talk to people 
-you could try
-taking out the garbage 
- muffled voice 
-john 
-and there s some more   
-there s some more in   
- muffled 
-who    who were
-you talking to 
-garbage man 
-garbage men don t come at night 
-i guess around here they do 
- man whistles 
- truck approaching 
- giggles 
-sorry 
-alicia  is it
-the medication 
- door closes 
- screams 
- screams 
- sobs 
-i don t know what to do 
- sobbing continues 
- car door opens 
-my mother s
-going to keep the baby
-a little longer tonight 
-i can get three hours
-of overtime 
- faint music playing 
-i m going to bed 
-  good night 
-  good night 
- clattering 
- gun cocks 
-parcher 
-it s good to see you  john 
-it s been a while 
-parcher 
-yes  sir 
-you re not real 
-of course i am 
-don t be ridiculous 
- rifles cocking 
-i don t think that i would
-go that way  john 
-it s time for you
-to get back to work 
-parcher 
-the bomb is in
-its final position
-here in the u s 
-knowing your situation
-requires you keep
-a low profile   mohammed  
-we ve brought
-the mountain to you 
- generator whirrs 
- radio signals 
-we ve narrowed the bomb s
-location to somewhere
-on the eastern seaboard 
-but we haven t been able
-to pinpoint its exact position 
-their codes have grown
-increasingly complex 
-here  look at this  john 
-what 
-what 
-  dr  rosen said   
-  rosen  that quack 
- schizophrenic break
-from reality   right 
-psychological bullshit 
-look at me  john 
-john  look at me 
-do i look like i m imagined 
-wheeler has no record of you 
-do you think we list
-our personnel 
-john  i m sorry you had
-to go through all this 
-i ve gone to a great deal
-of trouble to get you back 
-i can restore
-your status at wheeler 
-i can let the world
-know what you did 
-but i need you now  soldier 
-i was so scared
-you weren t real 
-princeton  new jersey
-april 1 956
-there s a storm coming 
-i m just going to grab
-the laundry  okay 
-i ll draw his bath 
-it s okay 
-okay 
- faint radio sounds 
- muffled radio voice 
- radio static 
-broken voices 
- whimpering 
- crying 
- thunder rumbles 
-john 
-i ve almost got it 
-charles  you just
-watch the baby 
-   baby crying 
-  i ve got one more to close 
-  no 
-  john  i ll be right there 
-  oh  god 
-   crying 
-i need a towel 
-shhh 
-charles was watching him 
-he was okay 
-there is no one here 
-  charles was watching him 
-  there is no one here 
-he s been injected
-with a cloaking serum 
-i can see him
-because of a chemical
-that was released
-into my bloodstream
-when my implant
-dissolved 
-i couldn t tell you 
-it was for your own protection 
-alicia 
-  no 
-  hello  i need
-dr  rosen s office  please 
-you ve got to stop her  john 
-you leave her out of this 
-  who are you talking to 
-  it s not her fault 
-  john 
-  she ll compromise us again 
-  no  she won t 
-  you ll go back
-to the hospital 
-  john  answer me 
-  countless people will die 
-alicia  please 
-put the phone down 
-  i can t let that happen 
-  yes  hello 
-hi  i need dr  rosen 
-is he in 
-i m sorry  john 
-john 
-no oo 
-  alicia 
-  parcher  you know
-what you have to do  nash 
-  get away from me 
-  she s too great a risk 
-  get away 
-   baby crying 
-i didn t mean
-to hurt you 
-finish her 
-she knows too much now 
-unclejohn 
-parcher 
-take care of her 
-you pathetic piece of shit 
-or i ll take care of you 
-john 
-christ  john 
-please do what he says 
-move  soldier 
-now 
-marcee 
-unclejohn 
-charles 
-john  please 
-now 
- mental voices 
-alicia and charles never
-co exist in the same
-interactive field 
-alicia and parcher   
- voices continue 
-  marcee  let s play 
-   voices increase 
-   charles  and marcee cannot
-co exist with alicia 
-i understand 
- engine starts 
- screams 
-she never gets old 
-marcee can t be real 
-she never gets old 
-you see them now 
-yes 
-why did you
-stop your meds 
-because i couldn t do my work 
-i couldn t help
-with the baby 
-i couldn t   
-i couldn t respond to my wife 
-you think that s better
-than being crazy 
-we ll need to start you
-on a higher run
-of insulin shocks
-and a new medication 
-no 
-there has
-to be another way 
-dr  rosen 
-schizophrenia is degenerative 
-some days may be
-symptom free 
-but over time 
-you are getting worse 
-it s a problem  that s all it is 
-it s a problem with no solution 
-and that s what i do 
-i solve problems 
-  that s what i do best 
-  this isn t math 
-dr  rosen 
-you can t come up
-with a formula
-to change the way
-you experience the world 
-  all i have to do
-is apply my mind 
-  there s no theorem  no proof 
-  you can t reason
-your way out of this 
-  why not  why can t i 
-because your mind
-is where the problem is
-in the first place 
-i can do this 
-i can work it out 
-all i need is time 
-is that the baby 
-the baby s
-at my mother s  john 
- marcee humming 
-dr  rosen 
-without treatment  john 
-the fantasies
-may take over   
-entirely 
-alicia 
-you almost ready 
-rosen s waiting outside 
-i can t go back
-to that hospital 
-i won t come home 
-he said that
-if you said that 
-he has commitment
-papers for me to sign 
-well  maybe you
-won t sign them 
-maybe you ll just
-give me some time 
-i will try to figure this out 
-whatever you do 
-rosen is right
-about one thing 
-you shouldn t be here 
-i m not safe anymore 
-would you have hurt me  john 
-i don t know 
-maybe you should let
-dr  rosen drive you to your mother s 
- muffled voices 
- car doors close 
- engine starts 
- car departs 
- footsteps on stairs 
-rosen said to call if you try
-and kill me or anything 
-you want to know what s real 
-this 
-this 
-this 
-this is real 
-maybe the part   
-that knows the waking
-from the dream 
-maybe it isn t here 
-maybe it s here 
-i need to believe
-that something
-extraordinary is possible 
- sighs 
-princeton university
-two months later
-hansen 
-come 
-hello  martin 
-jesus christ 
-no  l   
-i don t have that one 
-my savior complex
-takes on a completely
-different form 
- nash chuckles 
-i heard what happened
-and well 
-l    i wanted to write
-and i tried you at macarthur s
-but you d left 
-and i just   
-this is helinger s
-old office 
-yeah 
-yeah  i stole it from him 
-seems that you won
-after all  martin 
-they were wrong  john 
-no one wins 
-please  please have a seat 
-god  it s so good
-to see you 
-what brings you
-back to princeton 
-charles  john 
-john  i m sorry 
-but you have to tell him 
-tell him you re a genius 
-you re a genius  john 
-tell him your work is critical 
-john  please 
-is there any chance
-that you could ignore
-what i just did 
-of course 
-what are old friends for 
-is that what we are  martin 
-friends 
-john  of course 
-of course 
-we always have been 
-alicia and i think that   
-that fitting in 
-being part of a community 
-might do me some good 
-that a certain level of attachment 
-familiar places  familiar people 
-might help me   
-elbow out these   
-these certain delusions that i have 
-it s a lot to ask 
-and now that i m here 
-i m quite certain
-that you will just say no 
-but i was wondering
-if i could hang around 
- sighs 
-huh 
-will you be needing an office 
-no 
-no  i could just work
-out of the library 
-well  this guy tries
-to wander into the library 
-  but he doesn t have i d 
-  why can t people read
-their memos  huh 
-then he goes totally nuts 
-john 
-not real 
-you re not real 
-there s no mission 
-oh  shit  shit 
-not real 
-you are not real 
-is this what you are  soldier 
-some useless ghoul 
-the local madman 
-  i m not a soldier 
-  you re gonna end up
-in a cell 
-old  worthless  discarded 
-there s no mission 
-and while you rock and drool 
-the world will burn to ashes 
-you are not real 
-you are not real 
-you re still talking
-to me  soldier 
-there s no mission 
-i m not a soldier 
-john  john 
-john  john  john  john 
-hey  hey  hey 
-hey  hey  hey 
-john  john 
-it s okay 
-i just heard what happened 
-i m sorry  john   
-  i m not a soldier 
-  john  hey  nash 
-nash  hey 
-hey  you re all right 
-nash  nash 
-hey  hey  hey 
-ladies and gentlemen 
-the greatjohn nash 
-hansen 
-john 
-john 
-you should ve seen their faces 
-everybody was
-just staring at me 
-john   
-you know that stress
-triggers the delusions 
-i know 
-but then  on the way home 
-charles was there 
-sometimes  i really miss
-talking to him 
-maybe rosen s right 
-maybe i have to think
-about going back into
-the hospital again 
-no 
-come here 
-maybe try again tomorrow 
-john  now  you can t
-ignore me forever 
-charles  you ve been
-a very good friend to me 
-the best 
-but i won t talk to you again 
-i just can t 
-same goes for you  baby girl 
- sniffs 
-good bye 
-good bye 
-i was wondering if i might
-audit your course 
-it s    it s an honor 
-professor nash 
-is something wrong 
-this will be my first class 
- laughs 
-good morning 
-eager young minds 
- muttering numbers 
-it s never gonna work  john 
-you re just
-humiliating yourself 
-it s pathetic 
-you are being pathetic 
-i m ashamed of you 
- laughing 
- laughing continues 
-oh  man 
-are you coming 
-you re gonna be late 
-  dad  you ve got my book 
-  what 
-you ve got my book 
-oh  right 
-thanks 
-  good bye 
-  bye 
-alicia 
-see you tonight 
-bye  honey 
-princeton university
-october 1 97 8
-did you just solve reimann 
-well  what do you think 
-huh 
-that s an analog to frobenius
-for noncommutative extensions 
- chuckles 
-yes  it is 
-but it only appears
-to work sporadically  so  no 
-but   
-i believe i m
-making progress 
-you re   
-you rejohn nash  right 
-  toby kelly 
-  hello 
-i ve been studying
-your equilibrium 
-the one you wrote here 
-at princeton 
-to come up with something
-totally original  the way you did   
-you know  i was young 
- chuckles 
-umm   
-i ve been developing a theory 
-i believe i can prove
-that galois extensions
-are covering spaces 
-that everything 
-everything is connected 
-that it s all part
-of the same subject 
-when was the last time
-you ate 
-  excuse me 
-  you know  food 
-oh  uh   
-my wife 
-she loves mayonnaise 
-oh  thank you 
-thank you 
-go on 
-the function   
-  is in the two categories 
-  um hmm 
-hansen 
-alicia 
-alicia 
-john 
-   coming together
-at maximum speed of   
-let us say
-1 0 miles per hour 
-so you have a fly
-on the tire of bicycle b 
-and the fly  who can travel
-at 20 miles an hour 
-leaves the tire
-of bicycle b and it flies
-to the tire of bicycle a
-and backwards and forwards
-and so on and so forth
-until the two bikes collide
-and the poor little fly
-is squashed 
-   chuckling 
-  this is the important thing
-about actually focusing in
-and comprehending
-the area that you re
-dealing with 
-mathematics is very specific 
-and it is an art form 
-no matter what these people
-around here will tell you 
-especially the people from biology 
-don t listen to any
-of those people 
-let me go back
-to what you were doing before 
-i might want to steal this 
-write a book and get famous 
-i was thinking
-that i might teach 
-a classroom with 50 students
-can be daunting for anyone 
-john  besides 
-you re a terrible teacher 
-i m an acquired
-taste  martin 
-i was hoping there still
-might be something
-i could contribute 
-what about the   
-well  you know 
-are they gone 
-no  they re not gone 
-and maybe they
-never will be 
-but i ve gotten used
-to ignoring them
-and i think as a result
-they ve kind of given up on me 
-you think that s what it s like
-with all our dreams
-and our nightmares  martin 
-you ve got to keep feeding them
-for them to stay alive 
-john  they   
-haunt you  though 
-they re my past  martin 
-everybody s haunted by their past 
-well  good bye 
-john  i ll talk
-to the department 
-maybe in the spring 
-hey  nash 
-you   
-you scared 
-terrified 
-mortified 
-petrified 
-stupefied by you 
-now you ought best ring alicia 
-  or you re gonna get me   
-  i ll ring her 
-   in an awful
-lot of trouble 
-  thanks  professor 
-  good bye 
-  have a nice day 
-  good bye 
-papers in hand  mr  beyer 
- princeton university
-march 1 994 
-professor nash 
-  can you see him 
-  yeah 
-  you sure 
-  uh huh 
-positive 
-he s within your vision 
-   laughing 
-  okay  good 
-forgive me  i m just
-always suspicious of new people 
-  see you next week  professor 
-  see you next week 
-so now that i know
-that you re real 
-who are you  and what can
-i do for you 
-professor  my name
-is thomas king   
-  thomas king 
-  mmm hm 
-   and i m here
-to tell you
-that you re being considered
-for the nobel prize 
-john 
-forgive me  but i m just
-a little stunned 
-king 
-over the past few years
-your equilibrium
-has become a cornerstone
-of modern economics 
-suddenly everybody
-likes that one 
-what about my work
-on other some such projects   
-manifold embedding 
-the application
-of your bargaining problem
-to f c c  bandwidth auctions
-or to antitrust cases   
-  antitrust cases 
-  yes 
-i never would have
-considered that 
-  well   
-  have i just reached
-some level of honesty
-that borders on stupidity 
- laughs 
-no  no  you haven t 
- cause  i wouldn t
-have thought of that 
-shall we have tea 
-oh  i don t go in there 
-i usually just
-take my sandwich
-in the library 
-come on  john 
-let s have some tea 
-it s a big day 
-m most   
-most commercially
-available brands of tea
-are not suitable to my palate 
-i m not   
-there are some
-northern indian teas
-which are dense enough   
-i enjoy the flavor
-that they have   
-i have not been in this room
-for some many years 
-i wonder what tea they serve 
-john 
-why  thank you  young lady 
-things have certainly
-changed around here 
-i have a son that age 
-  harvard 
-   king chuckles 
-hmm 
-i would have thought
-the nominations
-for the nobel prize
-would have been secret 
-i would have thought
-you d only find out
-if you won or lost 
-that is generally
-the case  yes 
-but these are
-special circumstances 
-the awards are substantial 
-they require private funding 
-as such 
-the image of the nobel is   
-i see  you came here
-to find out if i was crazy 
-find out if i would
-screw everything up
-if i actually won 
-dance around the podium 
-strip naked and squawk
-like a chicken 
-things of this nature 
-something like that  yes 
-would i embarrass you 
-yes  it is possible 
-you see  l   
-i am crazy 
-i take the newer medications 
-but i still see things
-that are not here 
-i just choose
-not to acknowledge them 
-like a diet of the mind 
-i choose not to indulge
-certain appetites 
-like my appetite for patterns 
-perhaps my appetite
-to imagine and to dream 
-man 
-professor nash 
-it s good to have
-you here  john 
-thank you 
-  it s an honor  sir 
-  thank you very much 
-a privilege  professor 
-professor 
-  nicely done  john 
-  thank you  tom 
-thank you 
-thank you 
-thank you  ed 
-that was certainly most unexpected 
- applause 
-nobel prize ceremony
-stockholm  sweden
-december 1 994
-john 
-thank you 
- applause fades 
-i ve always believed in numbers 
-in the equations and logics
-that lead to reason 
-but after a lifetime
-of such pursuits 
-i ask 
-what truly is logic 
-who decides reason 
-my quest has taken me
-through the physical 
-the metaphysical 
-the delusional 
-and back 
-and i have made the most important
-discovery of my career 
-the most important discovery
-of my life 
-it is only in the mysterious
-equations of love
-that any logical
-reasons can be found 
-i m only here tonight
-because of you 
-you are the reason i am 
-you are all my reasons 
-thank you 
-john 
-so nice to have met you 
-i ll call for the car  dad 
-bye bye 
-woman 
-bye bye 
-  are you ready to go now 
-  oh  yes  i am 
-yes  indeed 
-and yes  please 
-thank you so much 
-thank you 
-what is it  what s wrong 
-nothing 
-nothing at all 
-  come with me  young lady 
-  oh hh   
-i have a car outside 
-are you interested in a ride 
- nash s theories have influenced
-global trade negotiations    
-where s it going to 
- national labor relations  and even
-breakthroughs in evolutionary biology  
-john and alicia nash live
-in princeton  new jersey 
-john keeps regular office hours
-in the mathematics department 
-he still walks to campus every day 
-i will 
- watch you 
-in the darkness 
-show you 
-love will 
-see you through 
- when the bad dreams 
- wake you crying 
-i show you 
-all love can do 
- what love can do 
-i will watch
-through the night 
-hold you in my arms 
- give you dreams 
- where none will be 
-i will watch
-through the dark 
- till the morning comes 
-all the light 
-i ll take you
-through the night 
- to see 
- the light 
-showing us all love 
- can be 
-i will 
- guide you 
- with my bright wings 
-stay till your heart 
+best result comes
+everyone group
+whats best right
+thats said right
+right incomplete
+incomplete okay
+best result come
+everyone group
+whats best
+group
+nash way get blonde
+go hell governing dynamics
+governing dynamics adam smith
+wrong
+sol oh go neilson careful careful
+thank
+c ofs equals c oft
+muttering
+realize flies face
+years economic theory yes sir
+thats rather presumptuous dont think
+sir stifled laugh
+well mr nash
+breakthrough magnitude
+im confident get placement like
+wheeler labs
+theyll ask recommend two team members
+whispering yes
+stills frank excellent choices
+sol bender sir
+sol bender extraordinary mathematicians
+occurred sol bender
+might plans
+laughing
+baby wheeler made
+cheers cheers cheers oh oh
+okay awkward moment gentlemen
+umm
+hmm
+governing dynamics
+congratulations john thanks
+toast wheeler labs
+neilson wheeler
+pentagon five years later
+man general analyst wheeler lab
+dr nash coat
+thank sir
+doctor general wheeler team leader dr john nash
+glad could come doctor
+hello
+right way
+weve intercepting radio transmissions moscow
+computer cant detect pattern
+im sure code
+john general
+ever know something dr nash
+constantly
+general weve developed several ciphers
+youd like review preliminary data
+doctor
+nashs voice
+
+mental voice
+
+continues listing numbers
+
+need map
+
+
+starkey corners maine
+
+
+prairie portage minnesota
+latitudes longitudes
+least others
+appear routing orders across border us
+extraordinary
+gentlemen need move
+whos big brother
+youve done country great service son
+captain yes sir
+accompany dr nash
+russians moving general
+captain rogers escort
+unrestricted area doctor
+thank
+captain dr nash follow please
+man radio none
+said dont like method
+told us method could use
+would effective
+hear driver dr nash
+right
+wheeler defense labs mit campus
+thank sir home run pentagon
+actually taken word classified
+dictionary
+oh hi air conditioning broke
+supposed saving world
+im melting hearts go
+know two trips pentagon four years
+thats two weve
+gets better john
+got latest scintillating assignment
+know russians hbomb
+nazis repatriating south america
+chinese standing army million
+stress tests dam
+made cover fortune
+please note use word
+supposed
+oh laughs
+rob fields medal
+put cover fortune magazine
+hacks scholars trivia
+john exactly whats difference
+genius genius
+quite lot
+hes son
+anyway youve got minutes
+ive always got minutes
+sol new class
+get note doctor something
+doctor john
+come know drill
+get beautiful facilities
+mit gets americas great minds today
+teaching americas great minds tomorrow
+poor bastards
+nice day school
+bells ringing
+door opens
+eager young minds tomorrow
+loudjackhammering
+leave one open professor
+really hot sir
+comfort comes second
+ability hear voice
+personally
+think class waste
+
+infinitely worse
+time
+however
+may attend
+may complete assignments whim
+begun
+miss
+excuse
+excuse hey hey
+hi
+um little problem
+extremely hot windows closed
+extremely noisy open
+wondering way could
+dont know maybe work someplace else minutes
+worker problem thank much
+break got
+worker lets go lets clean little bit
+find multivariable calculus often
+number solutions given problem
+saying problem
+take many months solve
+others among
+take term natural lives
+man professor nash
+william parcher
+big brother
+service
+department defense
+going give raise
+lets take walk
+impressive work pentagon yes
+oppenheimer used say
+genius sees answer question
+knew oppenheimer
+project supervision
+project
+project
+simple know
+well ended war
+incinerated people heartbeat
+great deeds come great cost mr parcher
+well conviction turns
+luxury sidelines mr nash
+ill try keep mind
+john family
+close friends
+
+john like think im lone wolf
+mainly people dont like
+chuckles
+well certain endeavors
+lack personal connection
+would considered advantage
+secure area know
+ever
+told initial briefing
+warehouses abandoned
+thats precisely accurate
+low radio chatter
+tapes screeching
+sirens man speaking russian
+telling im tell
+increasing security clearance
+top secret
+disclosure secure information result imprisonment
+get
+operation
+good idea
+factory berlin
+seized end war
+nazi engineers attempting
+build portable atomic bomb
+soviets reached facility lost damn thing
+routing orders pentagon
+werent
+soviets arent unified people believe
+faction red army calling novaya svobga
+new freedom control bomb
+intends detonate us soil
+plan incur maximum civilian casualties
+parcher man capable much atrocity
+imagination
+new freedom sleeper agents us
+mccarthy idiot
+unfortunately doesnt make wrong
+new freedom communicates agents
+codes imbedded newspapers magazines
+thats come
+see john
+distinguishes
+
+quite simply
+best natural codebreaker ever seen
+exactly would like
+commit list periodicals memory
+scan new issue find hidden codes
+decipher
+doctor place chin chin rest
+stare light man pulse regular
+okay may little uncomfortable
+groans
+thats got little zap doesnt
+implanted radium diode
+dont worry safe
+isotope decays predictably
+result numbers change time
+theyre access codes drop spot
+spy
+knocking come
+boy must really important
+right mike
+working
+classified
+everyone waited half hour
+
+class
+missed class today
+oh suspect
+nobody missed
+chuckles
+problem left board
+solved
+oh didnt
+didnt even look
+never said vector fields rational functions
+solution elegant
+though particular occasion
+ultimately incorrect
+youre still
+im still
+
+im wondering professor nash
+ask dinner
+eat dont
+oh occasion yeah chuckles
+table one prometheus alone chained rock
+bird circling overhead know
+laughs
+expect wouldnt
+wouldnt know
+leave address office
+ill pick friday
+well eat
+one thing name
+keep calling miss
+governor may present
+miss alicia larde miss alicia larde
+professor please governor
+wait one second im sorry want copy
+first big date know
+boys need look good
+state find altogether naturally
+better
+im surprising keep surprising
+professor
+god must painter
+else would many colors
+youre painter
+thats actually said
+yes
+
+
+
+date
+practice human interaction social comportment
+thats plan
+champagne would lovely
+ill outside
+get champagne
+oh thank
+thank
+keep
+believe deciding things good luck
+
+
+dont believe luck
+believe assigning value things
+oh
+tried count
+actually made
+exceptionally odd
+bet youre popular girls
+pair odd ducks
+mmm
+pick shape
+
+pick shape animal anything
+okay
+umbrella
+
+chuckles
+right
+would like uh
+octopus
+dog barking
+alicia chuckles
+alicia dont talk much
+cant talk work alicia
+dont mean work
+find polishing interactions
+order make sociable requires tremendous effort
+tendency expedite information flow
+direct
+often dont get pleasant result
+try
+right
+find attractive
+aggressive moves towards
+indicate feel way
+still ritual requires
+continue number platonic activities
+sex
+proceeding activities
+point actual fact
+really want intercourse soon possible
+gon na slap
+result
+girl
+im attempting isolate patterned reoccurrences
+within periodicals time
+talk funny mr nash
+know
+uncle says youre smart nice
+shouldnt pay mind youre mean
+might uncle
+prodigal roommate
+returns
+chuckles
+come charles charles charles
+sister
+got killed car crash
+far marcee
+cowboy husband drunk
+know drunk drive
+took
+shes small shes young john thats come
+im harvard
+great authors workshop
+dh bloody lawrence
+really think buy new book
+chuckles
+well ive reading lot
+john
+first work trivial
+new assignment came
+cant really tell details
+top secret black bag black ops
+something like
+uh yes
+well l met girl
+human girl homo sapiens
+biped yup contrary probabilities
+finds attractive number different levels
+laughs really
+god thats wonderful
+theres accounting taste
+marry
+oh god right
+mean everythings going well
+job fine enough money
+seems add
+know sure
+nothings ever sure john
+thats sure thing know
+waiter good evening
+alicia please dont angry
+lost track time work
+mmhmm
+im sorry
+didnt time wrap
+happy birthday
+refractive faces glass see
+create full wavelength dispersal
+look inside see
+every possible color every possible color
+yeah
+remember said time god must painter
+colors governors house
+said
+didnt think listening
+im always listening
+beautiful
+chuckles
+alicia relationship warrant longterm commitment
+cause need kind proof
+kind verifiable empirical data
+laughs
+im sorry give moment
+redefine girlish notions romance
+proof
+verifiable data
+um okay
+well big universe
+infinite
+know
+know data indicate
+hasnt proven yet
+havent seen know sure
+dont believe
+mmm
+love guess
+
+part dont know
+want marry
+applause
+smile camera
+well done
+oh sweet pea
+love congratulations
+hey sol
+woman look beautiful
+sol hi
+alicia hey sol
+woman byebye man bye
+bye bye
+safe
+gate opens
+cambridge october
+get hurry
+theyre following us
+whos whos following us
+drops compromised
+gunfire parcher get
+stay horn honks
+pants horn honking
+gun firing
+take aint shooting anybody
+take goddamn gun
+son
+screams
+stay back dont move
+screams
+tires screeching
+alicia john
+hi
+
+ssol yeah talked sol
+said left office hours ago
+didnt call
+right
+honey
+bolt locking
+john
+please talk tell happened
+john open door
+come open door let
+talk
+john
+open door
+panting
+woman watch cars kids
+door opens closes
+john
+william
+signed
+every time car backfires door slams
+understand better could possibly imagine
+need calm john
+listen closing bomb
+large part due work
+dont think fear small price pay
+william circumstance changed
+alicias pregnant
+told attachments dangerous
+chose marry girl
+nothing prevent
+best way ensure everybodys safety
+continue work
+well ill quit
+wont
+would
+keep russians knowing work us
+quit working
+quit working
+parcher
+parcher
+john right
+john
+turn turn light
+would
+would turn light
+wrong
+go sisters
+left car back take commonwealth
+side streets stay crowded john im going anywhere
+get sisters wait call
+im going get things
+im leaving stop stop
+please alicia
+ill explain
+harvard university national mathematics conference
+marcee unclejohn
+unclejohn
+growls
+hey baby girl marcee laughing
+wow someone needed hug
+saw slate thought
+miss seeing guest lecture
+inimitable john nash
+whats wrong
+got something think might need help
+well tell
+woman professor nash
+welcome
+
+john see zeroes
+reimann zeta function
+correspond singularities
+spacetime
+singularities spacetime
+conventional number theory
+breaks face relativistic exploration
+sometimes expectations
+betrayed numbers
+variables impossible assign
+rational value
+professor nash
+hold professor nash
+professor nash
+lets avoid scene shall
+want
+name rosen
+dr rosen im psychiatrist
+forgive dont seem persuaded
+id like come john
+chat
+appears choice
+ohhh
+help somebody
+screams somebody
+help get
+know know
+dont
+charles theyre russians charles theyre russians
+call somebody call somebody charles
+theyre russians steady leg
+get away
+stay away
+dr rosen
+better
+everythings right gasps
+watch head
+dr rosen faintly john
+hear
+faint whispering
+go easy
+thorazine takes little wear
+sorry restraints
+youve got one hell right hook
+weakly
+ahem
+macarthur psychiatric hospital
+find highly unlikely
+made mistake
+work nonmilitary application
+work john
+dont know anything
+laughs theres good keeping secrets know
+groans
+buzzer
+charles
+charles
+didnt mean get involved
+im im sorry
+charles
+prodigal roommate revealed
+saw name lecture slate
+lying son bitch
+talking tell see
+say charles herman russian
+say russian
+theres one john theres one
+hes right hes right
+stop dont know anything
+stop l dont know anything
+name john nash
+im held
+somebody call department defense
+name john nash
+im held
+alicia whats wrong
+john schizophrenia
+people disorder often paranoid
+work
+deals conspiracies
+yes yes know
+johns world behaviors accepted
+encouraged
+illness may gone untreated
+far longer typical
+mean long
+possibly since graduate school
+least thats hallucinations seem begun
+talking hallucinations
+one far aware
+imaginary roommate named charles herman
+charles isnt imaginary
+john best friends since princeton
+ever met charles ever come dinner
+hes always town little time lecturing
+wedding teach
+ever seen picture
+talked telephone ridiculous
+phoned princeton
+according housing records
+john lived alone
+likely husband
+mathematician military training
+government spy fleeing russians
+youre making sound crazy
+lost grip reality
+way help
+show difference
+whats real
+mind
+come
+whats working
+work classified
+mentioned supervisor
+name william parcher
+maybe mr parcher clarify things us
+cant get without clearances
+want help get
+details husbands work
+john thinks im russian spy
+think
+doctor say sick
+dont know
+want see whatjohns working
+know cant go office classified alicia
+stop oh
+oh god
+oh god
+didnt say something
+alicia johns always
+little weird
+said codebreaking
+eyesonly
+top secret part military effort
+well possible know
+directives come time
+us arent cleared
+possible possible
+likely
+lately hed become much agitated
+called
+hes every day
+cutting magazines
+well
+door opens
+alicia im sorry john okay
+missed missed
+talk
+okay
+alicia ive thinking
+realize behavior
+inability discuss situation
+must appeared insane
+left choice
+understand
+im truly sorry thats okay
+everythings gon na right
+everythings gon na right
+talk quietly
+may listening may microphones
+im gon na tell everything
+breaking protocol
+need know
+help get
+ive topsecret work government
+theres threat exists
+catastrophic proportions
+think russians feel profile high
+thats simply dont away
+theyre keeping try stop
+work get wheeler
+find william parcher stop
+help us stop stop stop
+went wheeler
+good good
+william parcher
+course
+ive working
+breaking codes
+dropping packages secret mailbox
+government pick
+could know
+sol followed
+thought harmless sol followed
+theyve never opened
+isnt real
+conspiracy john
+william parcher
+mind
+understand baby
+youre sick
+youre sick john
+john
+john
+code red
+pa dr rosen code red observation room two
+dr rosen code red observation room two
+keys jingling
+john
+john
+implants gone
+cant find
+gone
+dr rosen see nightmare schizophrenia
+knowing whats true
+imagine
+suddenly learned people places
+moments important
+gone dead
+worse
+never
+kind hell would
+administering insulin
+man
+often
+five times week weeks
+princeton university year later
+alicia john always spoke fondly princeton
+hansen running department
+keeps reminding us reminding us
+laughs
+yeah
+john wont come near campus though
+think hes ashamed baby cries
+hey hey
+want
+alicia holding
+well delusions passed
+theyre saying medication
+low stress environment
+l mean
+think often feel
+obligation
+guilt wanting leave
+rage againstjohn god
+
+look
+force see man married
+becomes man
+hes transformed someone love
+im transformed someone loves
+time
+
+enough
+thinkjohn lucky man
+alicia
+unlucky
+alicia us sol
+nice near work
+alicia john youve visitor
+hi
+hi
+hope okay
+hey ya chief
+cigarette ah thanks
+quit actually
+hello hey john
+met harvey
+umm
+laughs
+john theres relax okay
+theres point nuts cant little fun
+jesus christ john laughs
+known
+go
+take later
+youre supposed take
+bring something im okay
+okay
+um yeah l town
+giving workshop
+go back tonight
+know bender really wanted
+stop know see know say hi
+squeamish
+yeah
+suppose would
+alas im stuck
+im trying solve reimann hypothesis uhhuh
+oh yeah
+figured dazzle
+reinstate
+difficult medication
+hard
+see solution
+know john go easy
+things besides
+besides work
+
+baby crying
+shhhh
+shh
+door closes
+thinking
+people
+life john
+activities available
+add meaning
+could try leaving house
+know maybe
+talk people
+could try taking garbage
+muffled voice
+john theres theres
+muffled
+talking
+garbage man
+garbage men dont come night
+guess around
+man whistles
+truck approaching
+giggles
+sorry
+alicia medication
+door closes
+screams
+screams
+sobs dont know
+sobbing continues
+car door opens
+mothers going keep baby little longer tonight
+get three hours overtime
+faint music playing
+im going bed
+good night good night
+clattering
+gun cocks
+parcher good see john
+
+parcher
+yes sir
+youre real
+course dont ridiculous
+rifles cocking
+dont think would go way john
+time get back work
+parcher bomb final position
+us
+knowing situation
+requires keep low profile mohammed
+weve brought mountain
+generator whirrs
+radio signals
+weve narrowed bombs location somewhere eastern seaboard
+havent able pinpoint exact position
+codes grown increasingly complex
+look john
+
+
+dr rosen said rosen quack
+schizophrenic break reality right
+psychological bullshit
+look john
+john look
+look like im imagined
+wheeler record
+think list personnel
+john im sorry go
+ive gone great deal trouble get back
+restore status wheeler
+let world know
+need soldier
+scared werent real
+princeton new jersey april
+theres storm coming
+im going grab laundry okay
+ill draw bath
+okay
+okay
+faint radio sounds
+muffled radio voice
+radio static broken voices
+whimpering
+crying
+thunder rumbles
+john
+ive almost got charles watch baby
+baby crying ive got one close
+john ill right
+oh god crying
+need towel
+shhh
+charles watching okay
+one
+charles watching one
+hes injected cloaking serum
+see chemical
+released bloodstream
+implant dissolved
+couldnt tell protection
+alicia
+hello need dr rosens office please
+youve got stop john
+leave
+talking fault
+john shell compromise us
+wont youll go back hospital
+john answer countless people die
+alicia please put phone
+cant let happen yes hello
+hi need dr rosen
+im sorry john
+john nooo
+alicia parcher know nash
+get away shes great risk
+get away baby crying
+didnt mean hurt
+finish knows much
+unclejohn
+parcher take care pathetic piece shit
+ill take care
+john
+christ john please says
+move soldier
+
+marcee unclejohn
+charles john please
+
+mental voices alicia charles never coexist
+interactive field alicia parcher
+voices continue
+marcee lets play voices increase
+charles marcee coexist alicia
+understand
+engine starts
+screams
+never gets old
+marcee cant real never gets old
+see
+yes
+stop meds
+couldnt work
+couldnt help baby
+couldnt
+couldnt respond wife
+think thats better crazy
+well need start higher run
+insulin shocks new medication
+
+another way
+dr rosen schizophrenia degenerative
+days may symptomfree
+time getting worse
+problem thats
+problem solution
+thats solve problems
+thats best isnt math
+dr rosen cant come formula
+change way experience world
+apply mind theres theorem proof
+cant reason way cant
+mind problem first place
+
+work need time
+baby
+babys mothers john
+marcee humming
+dr rosen without treatment john
+fantasies may take
+entirely
+alicia almost ready
+rosens waiting outside
+cant go back hospital
+wont come home
+said said
+commitment papers sign
+well maybe wont sign
+maybe youll give time
+try figure
+whatever
+rosen right one thing
+shouldnt
+im safe anymore
+would hurt john
+dont know
+maybe let dr rosen drive mothers
+muffled voices
+car doors close
+engine starts
+car departs
+footsteps stairs
+rosen said call try kill anything
+want know whats real
+
+
+
+real
+maybe part
+knows waking dream
+maybe isnt
+maybe
+need believe
+something extraordinary possible
+sighs
+princeton university two months later
+hansen come
+hello martin
+jesus christ
+l
+dont one savior complex
+takes completely different form
+nash chuckles
+heard happened well
+l wanted write tried macarthurs
+youd left
+helingers old office
+yeah
+yeah stole
+seems martin
+wrong john one wins
+please please seat
+god good see
+brings back princeton
+charles john
+john im sorry tell
+tell youre genius youre genius john
+tell work critical
+john please
+chance could ignore
+course old friends
+martin friends
+john course
+course always
+alicia think
+fitting
+part community
+might good
+certain level attachment
+familiar places familiar people
+might help
+elbow
+certain delusions
+lot ask im
+im quite certain say
+wondering could hang around
+sighs
+huh
+needing office
+
+could work library
+well guy tries wander library
+doesnt id cant people read memos huh
+goes totally nuts
+john real youre real
+theres mission
+oh shit shit
+real real
+soldier
+useless ghoul
+local madman
+im soldier youre gon na end cell
+old worthless discarded
+theres mission
+rock drool
+world burn ashes
+real real
+youre still talking soldier
+theres mission im soldier
+john john
+john john john john
+hey hey hey hey hey hey
+john john okay
+heard happened im sorry john
+im soldier john hey nash
+nash hey
+hey youre right
+nash nash hey hey hey
+ladies gentlemen greatjohn nash
+hansen john
+john shouldve seen faces
+everybody staring
+john
+know stress triggers delusions
+know
+way home
+charles
+sometimes really miss talking
+maybe rosens right
+maybe think going back hospital
+
+come
+maybe try tomorrow
+john cant ignore forever
+charles youve good friend
+best
+wont talk
+cant
+goes baby girl
+sniffs
+goodbye
+goodbye
+wondering might audit course
+honor professor nash
+something wrong
+first class
+laughs
+good morning
+eager young minds
+muttering numbers
+never gon na work john
+youre humiliating
+pathetic
+pathetic
+im ashamed
+laughing
+laughing continues
+oh man
+coming youre gon na late
+dad youve got book
+youve got book
+oh right
+thanks
+goodbye bye
+alicia see tonight
+bye honey
+princeton university october
+solve reimann
+well think
+huh
+thats analog frobenius
+noncommutative extensions
+chuckles
+yes
+appears work sporadically
+
+believe im making progress
+youre
+yourejohn nash right
+toby kelly hello
+ive studying equilibrium
+one wrote princeton
+come something totally original way
+know young chuckles
+umm
+ive developing theory
+believe prove
+galois extensions covering spaces
+everything everything connected
+part subject
+last time ate
+excuse know food
+oh uh
+wife
+loves mayonnaise
+oh thank
+thank
+go
+function
+two categories umhmm
+hansen alicia
+alicia
+john coming together maximum speed
+let us say miles per hour
+fly tire bicycle b
+fly travel miles hour
+leaves tire bicycle b flies
+tire bicycle backwards forwards
+forth two bikes collide
+poor little fly squashed
+chuckling important thing
+actually focusing comprehending
+area youre dealing
+mathematics specific art form
+matter people around tell
+especially people biology
+dont listen people
+let go back
+might want steal write book get famous
+thinking might teach
+classroom students
+daunting anyone
+john besides youre terrible teacher
+im acquired taste martin
+hoping still might something could contribute
+
+well know
+gone
+theyre gone
+maybe never
+ive gotten used ignoring
+think result theyve kind given
+think thats like
+dreams nightmares martin
+youve got keep feeding stay alive
+john haunt though
+theyre past martin everybodys haunted past
+well goodbye
+john ill talk department
+maybe spring
+hey nash
+
+scared
+terrified
+mortified petrified
+stupefied
+ought best ring alicia
+youre gon na get ill ring
+awful lot trouble
+thanks professor goodbye
+nice day goodbye
+papers hand mr beyer princeton university march
+professor nash
+see yeah
+sure uhhuh
+positive hes within vision
+laughing okay good
+forgive im always suspicious new people
+see next week professor see next week
+know youre real
+
+professor name thomas king
+thomas king mmmhm
+im tell
+youre considered nobel prize
+john forgive im little stunned
+king past years equilibrium
+become cornerstone modern economics
+suddenly everybody likes one
+work projects manifold embedding
+application bargaining problem
+fcc bandwidth auctions antitrust cases
+antitrust cases yes
+never would considered
+well reached
+level honesty borders stupidity
+laughs havent
+cause wouldnt thought
+shall tea
+oh dont go usually
+take sandwich library
+come john lets tea big day
+mmost
+commercially available brands tea
+suitable palate
+im
+northern indian teas dense enough
+enjoy flavor
+room
+many years wonder tea serve
+john thank young lady
+things certainly changed around
+son age
+harvard king chuckles
+hmm
+would thought nominations
+nobel prize would secret
+would thought youd find lost
+generally case yes
+special circumstances
+awards substantial
+require private funding
+image nobel
+see came find crazy
+find would
+screw everything actually
+dance around podium strip naked squawk like chicken
+things nature
+something like yes
+would embarrass
+yes possible
+see l
+crazy
+take newer medications
+still see things
+choose acknowledge
+like diet mind
+choose indulge certain appetites
+like appetite patterns
+perhaps appetite imagine dream
+man professor nash
+good john
+thank
+honor sir thank much
+privilege professor
+professor
+nicely done john thank tom
+thank
+thank
+thank ed
+certainly unexpected
+applause
+nobel prize ceremony stockholm sweden
+december
+john thank
+applause fades
+ive always believed numbers
+equations logics
+lead reason
+lifetime pursuits
+ask
+truly logic
+decides reason
+quest taken physical
+metaphysical
+delusional
+back
+made important discovery career
+important discovery life
+mysterious equations love
+logical reasons found
+im tonight
+reason
+reasons
+thank
+john nice met
+ill call car dad
+byebye
+woman byebye
+ready go oh yes
+yes indeed yes please
+thank much
+thank
+whats wrong
+nothing
+nothing
+come young lady ohhh
+car outside
+interested ride nashs theories influenced global trade negotiations
+wheres going national labor relations even breakthroughs evolutionary biology
+john alicia nash live princeton new jersey
+john keeps regular office hours mathematics department
+still walks campus every day
+
+watch
+darkness
+show
+love
+see
+bad dreams
+wake crying
+show
+love
+love
+watch night
+hold arms
+give dreams
+none
+watch dark
+till morning comes
+light
+ill take night
+see
+light
+showing us love
+
+
+guide
+bright wings
+stay till heart
+learns see
+love
+
+
+female vocal

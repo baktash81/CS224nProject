@@ -1,0 +1,4875 @@
+1
+00:00:56,010 --> 00:00:59,076
+<i>That's the way,
+boys. Put your back into it!</i>
+
+2
+00:01:16,902 --> 00:01:19,422
+<i>Whoa-oa-oa!
+Whoa there.</i>
+
+3
+00:01:19,494 --> 00:01:22,909
+<i>Warren Street,
+This is Warren Street.</i>
+
+4
+00:01:22,982 --> 00:01:24,837
+<i>Watch your step, miss.</i>
+
+5
+00:01:26,437 --> 00:01:28,378
+<i>Hyah!
+Giddyap!</i>
+
+6
+00:01:31,460 --> 00:01:36,992
+♪♪
+
+7
+00:01:37,059 --> 00:01:39,776
+♪ It's morning time
+in Old New York ♪
+
+8
+00:01:39,842 --> 00:01:42,745
+♪ With a charm
+and magic all its own ♪
+
+9
+00:01:42,818 --> 00:01:45,503
+♪ With morning comes
+a special chance ♪
+
+10
+00:01:45,571 --> 00:01:48,539
+♪ For starting fresh
+For letting new things grow ♪
+
+11
+00:01:48,610 --> 00:01:51,926
+♪ Keep on climbing ♪
+
+12
+00:01:52,000 --> 00:01:54,782
+♪ Up the ladder ♪
+
+13
+00:01:54,848 --> 00:01:57,336
+♪ Keep on rising ♪
+
+14
+00:01:57,408 --> 00:02:00,277
+♪ It's all that matters ♪
+
+15
+00:02:00,352 --> 00:02:03,320
+♪ We live in Manhattan ♪
+
+16
+00:02:03,392 --> 00:02:05,944
+♪ We work all night and day ♪
+
+17
+00:02:06,015 --> 00:02:08,437
+♪ We're strong ♪
+♪ We're productive ♪
+
+18
+00:02:08,511 --> 00:02:09,787
+♪ Constructive ♪
+♪ Instructive ♪
+
+19
+00:02:09,854 --> 00:02:12,571
+♪ We're here to stay ♪
+
+20
+00:02:13,694 --> 00:02:16,246
+♪ Who can resist
+a place like this ♪
+
+21
+00:02:16,317 --> 00:02:19,383
+<i>♪ Awake in life
+with freedom we can choose ♪</i>
+
+22
+00:02:19,453 --> 00:02:22,137
+♪ There's no better fit
+around than this ♪
+
+23
+00:02:22,204 --> 00:02:25,106
+♪ Right at the doorstep
+waitin' here for you ♪
+
+24
+00:02:25,181 --> 00:02:28,443
+♪ Keep on climbing ♪
+
+25
+00:02:28,508 --> 00:02:31,673
+♪ Up the ladder ♪
+
+26
+00:02:31,740 --> 00:02:34,042
+♪ Keep on smiling ♪
+
+27
+00:02:34,107 --> 00:02:37,042
+♪ It's all that matters ♪
+
+28
+00:02:37,114 --> 00:02:39,733
+♪ We live in Manhattan ♪
+
+29
+00:02:39,802 --> 00:02:42,671
+♪ We work all night and day ♪
+
+30
+00:02:42,745 --> 00:02:44,917
+♪ We're strong ♪
+♪ We're productive ♪
+
+31
+00:02:44,986 --> 00:02:46,327
+♪ Courageous ♪
+♪ Dedicated ♪
+
+32
+00:02:46,393 --> 00:02:48,663
+♪ We live in Manhattan ♪
+
+33
+00:02:48,728 --> 00:02:51,542
+♪ We work all night and day ♪
+
+34
+00:02:51,607 --> 00:02:53,135
+♪ We're strong ♪
+
+35
+00:02:53,208 --> 00:02:59,601
+♪ And we are here to stay ♪♪
+
+36
+00:03:07,637 --> 00:03:10,419
+<i>- Morning, Mama.
+- Morning.</i>
+
+37
+00:03:10,485 --> 00:03:12,875
+Good morning,
+my darlings.
+
+38
+00:03:12,949 --> 00:03:14,956
+You had
+a good night?
+
+39
+00:03:15,028 --> 00:03:16,883
+Yes, Mama.
+
+40
+00:03:16,948 --> 00:03:20,593
+I dreamed we moved out west and
+I became a famous gunslinger.
+
+41
+00:03:20,660 --> 00:03:22,633
+<i>Ha! Like that
+could happen.</i>
+
+42
+00:03:22,707 --> 00:03:25,358
+<i>Well, it seemed real to me.</i>
+
+43
+00:03:25,427 --> 00:03:29,038
+Look at the time.
+Where is your father?
+
+44
+00:03:29,106 --> 00:03:31,180
+I'll go get him.
+No, I will.
+
+45
+00:03:32,753 --> 00:03:35,307
+Morning, Papa.
+Time to get up.
+
+46
+00:03:36,337 --> 00:03:40,429
+Okay, okay. I'm fine.
+I'm awake!
+
+47
+00:03:42,000 --> 00:03:43,888
+Then how come
+you look asleep?
+
+48
+00:03:46,160 --> 00:03:48,812
+Wishful thinking!
+
+49
+00:03:48,880 --> 00:03:51,749
+Hurry, Papa, or you'll be late
+for your job at the factory.
+
+50
+00:03:51,824 --> 00:03:54,213
+All right. Okay.
+I'm up!
+
+51
+00:03:54,287 --> 00:03:56,142
+Happy?
+
+52
+00:03:56,207 --> 00:03:59,720
+I- I was just
+trying to help.
+
+53
+00:03:59,790 --> 00:04:01,481
+Tanya, wait.
+I didn't-
+
+54
+00:04:01,549 --> 00:04:04,102
+What's all
+the excitement?
+
+55
+00:04:06,124 --> 00:04:09,322
+Papa's so mean lately.
+
+56
+00:04:09,389 --> 00:04:12,684
+So! I hope
+you're satisfied.
+
+57
+00:04:12,748 --> 00:04:15,235
+Tanya, I'm sorry.
+
+58
+00:04:15,308 --> 00:04:17,163
+Tell her I'm sorry.
+
+59
+00:04:20,586 --> 00:04:22,758
+Papa, are you okay?
+
+60
+00:04:22,827 --> 00:04:25,194
+Ah, Fievel.
+
+61
+00:04:25,258 --> 00:04:28,423
+It's just that I’m not as young
+as I used to be.
+
+62
+00:04:29,449 --> 00:04:31,304
+Me neither!
+
+63
+00:04:31,369 --> 00:04:34,337
+Fievel, what I mean is
+I’m tired.
+
+64
+00:04:34,409 --> 00:04:36,450
+Back in Russia,
+I taught music.
+
+65
+00:04:36,521 --> 00:04:38,375
+Sometimes I made
+a few violins to sell.
+
+66
+00:04:38,440 --> 00:04:40,579
+Two jobs was enough.
+
+67
+00:04:40,648 --> 00:04:42,883
+Ay, but here in America,
+
+68
+00:04:42,951 --> 00:04:45,341
+here you need three!
+
+69
+00:04:45,416 --> 00:04:49,310
+Isn't that good?
+Well, yes...and no.
+
+70
+00:04:49,382 --> 00:04:53,342
+Yes, because it's the only way for us
+to get ahead and build a better life.
+
+71
+00:04:53,413 --> 00:04:58,017
+And also no, because sometimes
+when I'm so worn out,
+
+72
+00:04:58,085 --> 00:05:01,467
+I forget to be kind
+to my own family.
+
+73
+00:05:10,339 --> 00:05:13,470
+<i>Ah, don 't worry Papa.
+It'll work out.</i>
+
+74
+00:05:13,539 --> 00:05:15,393
+Like you always tell me,
+
+75
+00:05:15,458 --> 00:05:18,240
+“In America,
+you are truly free.“
+
+76
+00:05:18,306 --> 00:05:20,477
+Heh-heh-heh.
+That is true.
+
+77
+00:05:20,545 --> 00:05:23,360
+“Free to succeed
+and free to fail.“
+
+78
+00:05:23,425 --> 00:05:25,912
+Ay, that is
+also true.
+
+79
+00:05:25,985 --> 00:05:28,320
+“Free to be
+a little crumb one day...
+
+80
+00:05:28,385 --> 00:05:30,490
+and the next,
+a big cheese.“
+
+81
+00:05:30,560 --> 00:05:33,112
+<i>That is also
+also true.</i>
+
+82
+00:05:33,183 --> 00:05:35,671
+<i>Of course,
+he also said...</i>
+
+83
+00:05:35,743 --> 00:05:38,198
+<i>there were no cats
+in America!</i>
+
+84
+00:05:38,271 --> 00:05:40,790
+<i>Hmph!
+That's okay Papa.</i>
+
+85
+00:05:40,862 --> 00:05:43,034
+You can't be right
+about everything.
+
+86
+00:05:43,103 --> 00:05:45,175
+Little Fievel.
+
+87
+00:05:45,245 --> 00:05:48,093
+It's good you are
+so full of hope.
+
+88
+00:05:48,157 --> 00:05:51,026
+Of course
+he's full of hope.
+
+89
+00:05:51,100 --> 00:05:52,955
+He's your son,
+isn't he?
+
+90
+00:05:53,020 --> 00:05:55,061
+Yeah,
+and you're my papa,
+
+91
+00:05:55,133 --> 00:05:56,987
+Papa.
+
+92
+00:05:57,052 --> 00:06:00,915
+<i>Be careful, Fievel.
+G'bye!</i>
+
+93
+00:06:00,988 --> 00:06:03,737
+♪ We work all night and day ♪
+Hey, Philly!
+
+94
+00:06:03,803 --> 00:06:06,705
+See ya, Mr. M. ♪ We work
+and work to keep us strong ♪
+
+95
+00:06:06,779 --> 00:06:09,648
+<i>♪ A great new land for everyone
+♪ We live in Manhattan ♪</i>
+
+96
+00:06:09,722 --> 00:06:12,591
+♪ There's nothing here that can't be done ♪
+♪ We work all night and day ♪
+
+97
+00:06:12,666 --> 00:06:15,535
+♪ We work and work
+and we ♪
+
+98
+00:06:15,609 --> 00:06:17,301
+♪ Are ♪
+
+99
+00:06:17,369 --> 00:06:18,482
+♪ Here ♪
+
+100
+00:06:18,553 --> 00:06:21,815
+♪ To stay ♪♪
+
+101
+00:06:33,751 --> 00:06:36,565
+Hey!
+This one's on me.
+
+102
+00:06:36,630 --> 00:06:39,444
+Thanks, Tony.
+It's the least I can do.
+
+103
+00:06:39,510 --> 00:06:43,764
+After all, it was your dad who got
+me my job at the cheese factory.
+
+104
+00:06:43,829 --> 00:06:46,382
+Wow, you must be rich!
+
+105
+00:06:46,453 --> 00:06:51,340
+Oh.
+Pardon me. Ha! Ooh.
+
+106
+00:06:51,412 --> 00:06:54,064
+Tiger, I only
+been workin' for a week.
+
+107
+00:06:54,132 --> 00:06:57,100
+Gettin' rich takes
+at least... a month!
+
+108
+00:06:57,171 --> 00:06:59,309
+Gee, I can't wait
+to get a job!
+
+109
+00:06:59,378 --> 00:07:01,681
+Oh, I wouldn't rush
+if I was you.
+
+110
+00:07:01,746 --> 00:07:03,600
+How come?
+
+111
+00:07:03,665 --> 00:07:05,520
+Well, now that
+I'm working,
+
+112
+00:07:05,585 --> 00:07:07,789
+I got
+responsibilities.
+
+113
+00:07:07,858 --> 00:07:09,450
+Oh.
+
+114
+00:07:09,520 --> 00:07:13,416
+<i>But you can still go wherever
+you want whenever you want.</i>
+
+115
+00:07:13,489 --> 00:07:15,344
+Yeah!
+
+116
+00:07:15,409 --> 00:07:18,856
+So... where am I going?
+
+117
+00:07:20,848 --> 00:07:25,605
+Right in there.
+Wow!
+
+118
+00:07:25,679 --> 00:07:28,646
+<i>What is it?
+Oh, something I, uh,</i>
+
+119
+00:07:28,718 --> 00:07:31,915
+personally discovered
+just recently.
+
+120
+00:07:33,421 --> 00:07:37,197
+The Beach Pneumatic Subway.
+
+121
+00:07:37,261 --> 00:07:39,203
+Beach?
+I don't see any beach.
+
+122
+00:07:39,276 --> 00:07:41,415
+Beach is the guy
+who built it.
+
+123
+00:07:41,484 --> 00:07:45,924
+Oh, good, because I get fleas...
+at the beach.
+
+124
+00:07:45,995 --> 00:07:50,633
+What's a subway?
+An underground train.
+
+125
+00:07:50,699 --> 00:07:52,869
+This I gotta see!
+
+126
+00:07:53,931 --> 00:07:57,247
+We're talking about
+a really big, nasty,
+
+127
+00:07:57,322 --> 00:08:00,584
+loud machine here,
+right?
+
+128
+00:08:00,649 --> 00:08:02,242
+What are you,
+afraid?
+
+129
+00:08:02,313 --> 00:08:05,182
+<i>Who, me? Ha-ha! No.</i>
+
+130
+00:08:05,257 --> 00:08:09,217
+<i>I just think it would be better
+if! stand guard up here and,</i>
+
+131
+00:08:09,288 --> 00:08:12,189
+<i>uh, and... protect
+your flank!</i>
+
+132
+00:08:12,263 --> 00:08:16,039
+<i>Ha-ha! And we are
+supposed to buy this story?</i>
+
+133
+00:08:16,103 --> 00:08:19,583
+Actually, I was kinda hoping...
+yes.
+
+134
+00:08:19,654 --> 00:08:21,990
+<i>Tony, come on!
+Come on!</i>
+
+135
+00:08:22,054 --> 00:08:23,908
+Fine. Wait here.
+
+136
+00:08:23,973 --> 00:08:25,828
+Good plan!
+
+137
+00:08:49,378 --> 00:08:52,892
+- There it is.
+- Ooh!
+
+138
+00:08:56,480 --> 00:08:59,230
+See that huge
+fan over there?
+
+139
+00:08:59,297 --> 00:09:02,078
+When they turned it on,
+whoosh!
+
+140
+00:09:02,145 --> 00:09:04,380
+It blew the car along
+so fast...
+
+141
+00:09:04,447 --> 00:09:06,488
+you slammed back
+in your seat.
+
+142
+00:09:06,559 --> 00:09:10,901
+Wow! Your eyes bugged
+out. Your hair stood back.
+
+143
+00:09:10,975 --> 00:09:13,691
+Your cheeks flapped
+in the wind.
+
+144
+00:09:22,877 --> 00:09:24,850
+<i>Double wow!</i>
+
+145
+00:09:26,045 --> 00:09:28,085
+Problem is, it
+didn't work too good.
+
+146
+00:09:28,156 --> 00:09:32,629
+So about twelve years
+ago, they closed it up. Aw!
+
+147
+00:09:32,699 --> 00:09:34,456
+Hey, get a load
+of this.
+
+148
+00:09:34,523 --> 00:09:36,411
+Hello.
+
+149
+00:09:36,475 --> 00:09:38,099
+<i>Hello. Hello.</i>
+
+150
+00:09:38,170 --> 00:09:40,025
+Hoo-o-o-o.
+
+151
+00:09:40,090 --> 00:09:42,131
+<i>Hoo-o-o-o.
+Hoo-o-o-o.</i>
+
+152
+00:09:42,202 --> 00:09:44,176
+Ho-o-o-o-o.
+
+153
+00:09:44,249 --> 00:09:46,104
+Hoo-o-o-o.
+Hoo-o-o-o.
+
+154
+00:09:46,169 --> 00:09:48,983
+Ooh!
+
+155
+00:09:59,031 --> 00:10:02,545
+Hup, two, three, four.
+Hup, two, three-
+
+156
+00:10:02,615 --> 00:10:05,583
+Oh!
+Who am I foolin'?
+
+157
+00:10:05,655 --> 00:10:08,044
+The only flank
+I'm protecting is mine.
+
+158
+00:10:08,118 --> 00:10:11,981
+Those poor little guys, down there
+in that dark pit all by themselves.
+
+159
+00:10:12,054 --> 00:10:15,403
+Oh! I'm a fraud.
+I'm a failure. I'm-
+
+160
+00:10:15,476 --> 00:10:17,615
+Ahh! I'm goin'
+after them.
+
+161
+00:10:20,276 --> 00:10:22,796
+<i>It's so dark
+in here!</i>
+
+162
+00:10:42,705 --> 00:10:44,679
+Fiev?
+
+163
+00:10:44,753 --> 00:10:47,655
+Fievel?
+Yoo-hoo.
+
+164
+00:10:47,729 --> 00:10:50,183
+Yoo-hoo-hoo.
+Tony?
+
+165
+00:10:54,223 --> 00:10:56,711
+Maybe I can see 'em
+from there.
+
+166
+00:11:04,365 --> 00:11:06,339
+Ahh!
+
+167
+00:11:06,413 --> 00:11:08,617
+Maybe- Maybe
+we oughta go back.
+
+168
+00:11:08,684 --> 00:11:11,369
+Yeah. Tiger's probably getting
+worried about us, huh?
+
+169
+00:11:11,437 --> 00:11:13,291
+That too.
+
+170
+00:11:29,770 --> 00:11:31,494
+Uh-oh.
+
+171
+00:11:33,610 --> 00:11:35,464
+What's that?
+
+172
+00:11:48,359 --> 00:11:51,970
+- Fievel!
+Help! I’m stuck!
+
+173
+00:12:09,828 --> 00:12:11,802
+We're dead, right?
+
+174
+00:12:11,875 --> 00:12:13,916
+Uh, I don't
+think so.
+
+175
+00:12:13,986 --> 00:12:15,928
+Hey, my body's numb,
+
+176
+00:12:16,002 --> 00:12:18,338
+<i>and I'm staring
+into a tunnel of light.</i>
+
+177
+00:12:18,403 --> 00:12:21,119
+We are talking
+deceased here.
+
+178
+00:12:21,186 --> 00:12:24,502
+Tony, we fell into a hole
+underneath the tunnel.
+
+179
+00:12:24,577 --> 00:12:26,432
+The floor just
+gave way.
+
+180
+00:12:26,497 --> 00:12:29,246
+Oh, boy.
+Am I relieved.
+
+181
+00:12:29,312 --> 00:12:31,615
+What kind of place
+is this?
+
+182
+00:12:31,681 --> 00:12:34,364
+You got me,
+but from the smell,
+
+183
+00:12:34,432 --> 00:12:36,440
+I'd say something
+crawled in here and...
+
+184
+00:12:36,511 --> 00:12:39,227
+died!
+
+185
+00:12:43,199 --> 00:12:45,108
+What was that?
+
+186
+00:12:45,182 --> 00:12:48,248
+It's-
+Eww!
+
+187
+00:12:48,318 --> 00:12:50,620
+It's got something
+in its paw.
+
+188
+00:12:53,084 --> 00:12:55,953
+What's it say?
+It's too dark.
+
+189
+00:12:56,028 --> 00:12:57,883
+I'll light a match.
+
+190
+00:13:23,641 --> 00:13:27,023
+Tony! Fievel!
+Where are you?
+
+191
+00:13:27,095 --> 00:13:28,885
+Ya-hoo!
+
+192
+00:13:31,479 --> 00:13:33,333
+Oh!
+
+193
+00:13:37,910 --> 00:13:40,146
+Giddyap!
+
+194
+00:13:40,214 --> 00:13:42,189
+<i>Are you sure
+this is the place?</i>
+
+195
+00:13:42,262 --> 00:13:44,116
+<i>“Absotively."</i>
+
+196
+00:13:44,182 --> 00:13:46,996
+I helped this guy, Dr. Dithering,
+move some stuff last month.
+
+197
+00:13:49,044 --> 00:13:51,281
+<i>He's real smart.</i>
+
+198
+00:13:52,564 --> 00:13:55,914
+Ah, my, yes.
+Young, uh, young-
+
+199
+00:13:55,987 --> 00:13:58,223
+Tony.
+Tony Toponi.
+
+200
+00:13:58,291 --> 00:14:00,594
+Yes, of course.
+Do- Do come in.
+
+201
+00:14:06,098 --> 00:14:08,204
+I just-
+A little snug in the-
+
+202
+00:14:11,089 --> 00:14:13,030
+<i>So... what brings you here?</i>
+
+203
+00:14:13,104 --> 00:14:14,959
+<i>Uh, see, my pals and me,</i>
+
+204
+00:14:15,024 --> 00:14:17,643
+well, we got a question
+maybe you could answer.
+
+205
+00:14:17,712 --> 00:14:22,185
+<i>Fine! Always glad to encourage
+young minds and all that.</i>
+
+206
+00:14:22,255 --> 00:14:26,728
+Great! So... you know that
+subway tunnel you told me about?
+
+207
+00:14:26,798 --> 00:14:28,653
+<i>You said
+you discovered it.</i>
+
+208
+00:14:28,718 --> 00:14:30,791
+I didn't say
+I didn't have help.
+
+209
+00:14:30,862 --> 00:14:33,676
+You didn't
+go in there, did you?
+
+210
+00:14:33,741 --> 00:14:35,596
+I told 'em not to.
+Honest I did.
+
+211
+00:14:35,661 --> 00:14:38,695
+<i>Ah, put a
+lid on it, will ya?</i>
+
+212
+00:14:38,766 --> 00:14:41,799
+Honest. Nothin' happened.
+
+213
+00:15:05,129 --> 00:15:07,399
+- Oh, oh- Careful.
+- Ah!
+
+214
+00:15:07,465 --> 00:15:11,010
+Oh! Delicate, you know.
+Sorry.
+
+215
+00:15:11,080 --> 00:15:13,862
+Anyway, we was walkin'
+in the tunnel,
+
+216
+00:15:13,927 --> 00:15:15,814
+mindin'
+our own business-
+
+217
+00:15:15,880 --> 00:15:17,953
+Then a train came,
+and my coat got caught,
+
+218
+00:15:18,023 --> 00:15:20,412
+and we fell down a hole
+and we saw this skeleton.
+
+219
+00:15:20,487 --> 00:15:22,342
+Oh, my.
+
+220
+00:15:22,407 --> 00:15:24,294
+<i>Nothing happened,
+you say?</i>
+
+221
+00:15:24,358 --> 00:15:26,300
+<i>Well, nothin'
+permanent, anyway.</i>
+
+222
+00:15:26,374 --> 00:15:28,480
+<i>Philly, show him the map.
+Hmm?</i>
+
+223
+00:15:28,549 --> 00:15:30,590
+<i>Map?</i>
+
+224
+00:15:30,661 --> 00:15:32,702
+Hmm.
+Scuttlebutt?
+
+225
+00:15:32,773 --> 00:15:34,976
+What?
+
+226
+00:15:35,044 --> 00:15:39,747
+- What are you doing in there?
+- I’m... cataloging. Yeah.
+
+227
+00:15:39,812 --> 00:15:43,837
+- That's it. I’m keepin' your files up to date.
+- Ah, good lad.
+
+228
+00:15:43,907 --> 00:15:47,005
+Now, I need you to bring over
+the large magnifier.
+
+229
+00:15:47,074 --> 00:15:49,376
+Oh,yes.
+The large magnifier.
+
+230
+00:15:49,441 --> 00:15:52,759
+It's what I live for. Shovin'
+around half a ton o' glass.
+
+231
+00:15:52,833 --> 00:15:54,688
+Who's the ray
+of sunshine?
+
+232
+00:15:54,753 --> 00:15:57,208
+My assistant Scuttlebutt.
+Odd chap, really.
+
+233
+00:15:57,281 --> 00:15:59,964
+Always poking about,
+wondering what I'm up to.
+
+234
+00:16:00,033 --> 00:16:04,768
+The large
+magnifier, like you asked.
+
+235
+00:16:04,832 --> 00:16:06,742
+Excellent.
+Hold this, will you?
+
+236
+00:16:06,816 --> 00:16:10,014
+Right. But I won't
+enjoy it.
+
+237
+00:16:12,351 --> 00:16:14,206
+Hmm.
+
+238
+00:16:14,271 --> 00:16:18,133
+Ah! This is an artifact from the
+former indigenous population.
+
+239
+00:16:18,206 --> 00:16:21,403
+What does
+“in-di-jun-ous“ mean?
+
+240
+00:16:21,470 --> 00:16:23,325
+<i>The local inhabitants.</i>
+
+241
+00:16:23,390 --> 00:16:26,107
+<i>What we incorrectly
+refer to as “Indians. "</i>
+
+242
+00:16:30,653 --> 00:16:33,042
+Indians?
+Hmm.
+
+243
+00:16:33,116 --> 00:16:35,090
+<i>Some branch
+of the Delaware tribes,</i>
+
+244
+00:16:35,163 --> 00:16:37,236
+or rather, from the size
+of this map,
+
+245
+00:16:37,307 --> 00:16:39,162
+the mice who lived
+among them.
+
+246
+00:16:39,227 --> 00:16:41,082
+Told you
+he was smart.
+
+247
+00:16:41,147 --> 00:16:44,245
+If you’d like, I shall attempt
+to decipher it for you.
+
+248
+00:16:44,313 --> 00:16:46,419
+Hey, Professor, that'd
+be terr-
+
+249
+00:16:46,489 --> 00:16:50,068
+Holy spumoni!
+I gotta get to the factory!
+
+250
+00:16:50,138 --> 00:16:52,821
+- What about the map?
+- Can't wait!
+
+251
+00:16:52,889 --> 00:16:55,279
+If they catch me comin' late,
+I am a dead rodent!
+
+252
+00:16:55,353 --> 00:16:57,207
+Maybe Tony was right.
+
+253
+00:16:57,273 --> 00:16:59,345
+Having a job doesn't sound
+fun at all.
+
+254
+00:16:59,415 --> 00:17:02,067
+It has a downside,
+definitely. Definitely.
+
+255
+00:17:05,078 --> 00:17:07,184
+<i>That'll do it.</i>
+
+256
+00:17:18,229 --> 00:17:21,197
+<i>Stop right there!
+Oh!</i>
+
+257
+00:17:33,651 --> 00:17:38,059
+What have we here,
+Mr. O'Bloat?
+
+258
+00:17:38,130 --> 00:17:41,873
+Hmm. It appears to be one of
+our workers, Mr. Grasping,
+
+259
+00:17:41,938 --> 00:17:43,879
+but he's late
+for his shift.
+
+260
+00:17:43,953 --> 00:17:46,474
+Well, we can't
+have that.
+
+261
+00:17:46,545 --> 00:17:48,912
+Can we, Mr. Toplofty?
+Ay!
+
+262
+00:17:48,976 --> 00:17:52,652
+No, indeed. Sets a bad example.
+
+263
+00:17:52,719 --> 00:17:56,877
+- Let me explain!
+- We don't want excuses, boy.
+
+264
+00:17:56,944 --> 00:18:00,238
+<i>We want results.
+Then don't fire him.</i>
+
+265
+00:18:01,742 --> 00:18:04,939
+And you are?
+My name is Mousekewitz, sir.
+
+266
+00:18:05,006 --> 00:18:07,787
+All right,
+Mousekewitz.
+
+267
+00:18:07,853 --> 00:18:10,276
+Why should we let
+this dawdler keep his job?
+
+268
+00:18:10,349 --> 00:18:13,131
+<i>He won't be late again.
+H- He's afraid of you.</i>
+
+269
+00:18:13,197 --> 00:18:16,328
+<i>I'll make sure he knows
+you call the shots.</i>
+
+270
+00:18:16,396 --> 00:18:18,786
+Hmm.
+See that you do.
+
+271
+00:18:20,428 --> 00:18:24,705
+<i>Have you gone soft, Grasping?
+Why didn't you fire that boy?</i>
+
+272
+00:18:24,779 --> 00:18:27,780
+Because the Russian
+was right.
+
+273
+00:18:27,851 --> 00:18:30,949
+Fear...
+is a powerful motivator.
+
+274
+00:18:31,018 --> 00:18:34,367
+From now on, that boy will be
+the very picture of punctuality.
+
+275
+00:18:34,441 --> 00:18:37,028
+<i>Yes, well, be that as it may,</i>
+
+276
+00:18:37,098 --> 00:18:40,479
+why is that old mouse
+butting in?
+
+277
+00:18:40,552 --> 00:18:43,104
+Who is he to say
+what's right and wrong?
+
+278
+00:18:43,175 --> 00:18:45,030
+Yes. What is he?
+
+279
+00:18:45,095 --> 00:18:47,746
+Some sort of
+leader among mice?
+
+280
+00:18:50,151 --> 00:18:52,867
+That spineless
+old fool?
+
+281
+00:18:52,934 --> 00:18:55,803
+He could hardly
+look us in the eye.
+
+282
+00:18:55,878 --> 00:19:00,253
+<i>He may be spineless, but he got
+what he wanted out of you.</i>
+
+283
+00:19:00,326 --> 00:19:03,173
+And that makes him
+a troublemaker!
+
+284
+00:19:05,125 --> 00:19:06,979
+Very well.
+
+285
+00:19:07,044 --> 00:19:11,169
+<i>Perhaps we will keep an eye
+on Mr. Mousekewitz.</i>
+
+286
+00:19:15,140 --> 00:19:16,994
+The coast is clear.
+
+287
+00:19:28,673 --> 00:19:30,528
+Ahh!
+
+288
+00:19:32,640 --> 00:19:34,495
+<i>Easy does it now!</i>
+
+289
+00:19:36,672 --> 00:19:40,054
+Heave-ho!
+Heave-ho!
+
+290
+00:19:40,127 --> 00:19:44,666
+<i>Heave-ho!
+Heave-ho!</i>
+
+291
+00:19:44,735 --> 00:19:46,743
+<i>Heave-ho!</i>
+
+292
+00:19:46,815 --> 00:19:49,663
+<i>Easy now.
+Lower away.</i>
+
+293
+00:19:52,574 --> 00:19:55,061
+<i>Seven hundred fifty-one.</i>
+
+294
+00:19:57,213 --> 00:19:59,067
+<i>Seven hundred
+fifty-two.</i>
+
+295
+00:20:00,828 --> 00:20:05,170
+<i>Seven hundred
+fifty-three.</i>
+
+296
+00:20:05,243 --> 00:20:07,098
+Huh?
+
+297
+00:20:07,163 --> 00:20:10,839
+Hey, Mr. Mousekewitz. Boy, you
+really saved my tail back there.
+
+298
+00:20:10,907 --> 00:20:13,754
+Thanks.
+You're welcome.
+
+299
+00:20:13,818 --> 00:20:16,054
+The way you spoke up
+to them guys-
+
+300
+00:20:16,122 --> 00:20:17,977
+It was amazin'!
+
+301
+00:20:18,042 --> 00:20:19,896
+You ain't afraid
+of nothin'.
+
+302
+00:20:19,961 --> 00:20:23,573
+<i>No, Tony. Lately
+I'm afraid of everything.</i>
+
+303
+00:20:23,641 --> 00:20:25,169
+I don't get it.
+
+304
+00:20:25,241 --> 00:20:28,503
+They let you keep your job
+because I convinced them...
+
+305
+00:20:28,567 --> 00:20:33,106
+I was a coward and that I could
+teach you to be one too!
+
+306
+00:20:33,175 --> 00:20:35,925
+Ow! Oh!
+
+307
+00:20:45,974 --> 00:20:48,014
+Ah.
+
+308
+00:20:48,085 --> 00:20:49,940
+Hmm.
+
+309
+00:20:51,252 --> 00:20:53,293
+Aha.
+
+310
+00:20:56,244 --> 00:20:58,098
+<i>Aha!
+Ahh!</i>
+
+311
+00:20:59,955 --> 00:21:02,094
+Oh, my!
+We must find Tony!
+
+312
+00:21:03,251 --> 00:21:05,902
+Ahhh!
+
+313
+00:21:05,970 --> 00:21:08,142
+Ah. Hey!
+
+314
+00:21:08,211 --> 00:21:10,119
+What is it?
+What does it say?
+
+315
+00:21:17,521 --> 00:21:19,724
+Here, now.
+What's the rush?
+
+316
+00:21:19,792 --> 00:21:21,679
+Oh, lovely.
+
+317
+00:21:21,745 --> 00:21:23,980
+Thanks.
+Here you go.
+
+318
+00:21:24,048 --> 00:21:26,949
+Here. Here you go.
+Thank you.
+
+319
+00:21:27,023 --> 00:21:29,477
+Nothin' for you, Toponi.
+
+320
+00:21:29,550 --> 00:21:31,559
+Bosses says you was late.
+
+321
+00:21:31,631 --> 00:21:33,485
+Well, yeah,
+maybe ten minutes.
+
+322
+00:21:33,551 --> 00:21:35,786
+So I lose
+a whole week's pay?
+
+323
+00:21:35,853 --> 00:21:39,432
+You're lucky you still got a job. Next!
+
+324
+00:21:41,038 --> 00:21:45,129
+<i>- Here. Here ya go. Next.
+- Thanks.</i>
+
+325
+00:21:45,196 --> 00:21:48,992
+<i>Here. Move along.
+Come on! Next!</i>
+
+326
+00:21:52,972 --> 00:21:56,834
+So much for gettin' rich.
+
+327
+00:21:58,186 --> 00:22:00,870
+Whoa! Tony!
+
+328
+00:22:00,938 --> 00:22:03,426
+Just the guy
+we're lookin' for!
+
+329
+00:22:03,498 --> 00:22:06,280
+<i>You lads have made
+a- a-an amazing discovery!</i>
+
+330
+00:22:06,346 --> 00:22:10,022
+O- O-One for the history books,
+I should think.
+
+331
+00:22:10,089 --> 00:22:12,228
+What are you
+talkini' about?
+
+332
+00:22:12,297 --> 00:22:15,395
+This, uh, map
+is a-a diagram...
+
+333
+00:22:15,463 --> 00:22:18,333
+of an underground
+t- t-tunnel system.
+
+334
+00:22:18,408 --> 00:22:20,862
+You mean the subway?
+
+335
+00:22:20,935 --> 00:22:23,870
+No, no. Another one,
+un-un-underneath it,
+
+336
+00:22:23,942 --> 00:22:28,001
+built centuries ago
+by the Indian mice.
+
+337
+00:22:28,070 --> 00:22:30,405
+Kind of a-
+a maze.
+
+338
+00:22:30,469 --> 00:22:32,477
+Yeah?
+That's “a-maze-ing.“
+
+339
+00:22:32,549 --> 00:22:35,168
+Oh, why, yes.
+
+340
+00:22:35,237 --> 00:22:39,198
+But wait until you hear
+what's at the bottom of it.
+
+341
+00:22:39,268 --> 00:22:41,122
+Well?
+
+342
+00:22:41,188 --> 00:22:45,149
+According to this,
+at the end of the maze is-
+
+343
+00:22:45,219 --> 00:22:47,193
+a- and I quote-
+
+344
+00:22:47,267 --> 00:22:49,373
+“our greatest treasure.“
+
+345
+00:22:49,443 --> 00:22:51,516
+- Treasure?
+- Treasure?
+
+346
+00:22:51,586 --> 00:22:53,976
+Treasure!
+
+347
+00:22:54,051 --> 00:22:56,702
+Absolutely not!
+
+348
+00:22:56,770 --> 00:22:59,585
+- But, Papa-
+- “But, Papa“ nothing.
+
+349
+00:22:59,650 --> 00:23:02,072
+What? You wanna crawl
+down some rat hole-
+
+350
+00:23:02,145 --> 00:23:05,046
+- No offense.
+- Oh, none taken.
+
+351
+00:23:05,120 --> 00:23:07,607
+After some cockamamy
+buried treasure?
+
+352
+00:23:07,680 --> 00:23:09,917
+It's not cockamamy.
+It's real!
+
+353
+00:23:10,943 --> 00:23:13,496
+Mama, can't I go?
+
+354
+00:23:13,567 --> 00:23:17,843
+Sure. So what if it gives your
+mother a heart attack from worrying?
+
+355
+00:23:17,918 --> 00:23:20,057
+Go! Enjoy!
+
+356
+00:23:20,126 --> 00:23:22,460
+Ah, Mama.
+I'll be okay.
+
+357
+00:23:22,526 --> 00:23:25,821
+<i>And I'll come back with a treasure.
+Ah, feh!</i>
+
+358
+00:23:25,885 --> 00:23:28,437
+Where is the proof?
+A so-called map?
+
+359
+00:23:28,508 --> 00:23:32,305
+Not even written in a language!
+just a bunch of d-d-doodles!
+
+360
+00:23:32,381 --> 00:23:35,545
+I think it's pretty.
+Tanya, don't help.
+
+361
+00:23:35,612 --> 00:23:38,002
+Papa, why did
+we leave Russia?
+
+362
+00:23:38,076 --> 00:23:40,694
+We were going to be eaten.
+You need a better reason?
+
+363
+00:23:40,763 --> 00:23:42,935
+Papa, I'm serious!
+
+364
+00:23:43,004 --> 00:23:45,491
+You always say that
+in America,
+
+365
+00:23:45,563 --> 00:23:47,798
+if a mouse works hard
+and gets lucky,
+
+366
+00:23:47,865 --> 00:23:49,720
+he can make a fortune.
+
+367
+00:23:49,785 --> 00:23:51,640
+So?
+
+368
+00:23:51,705 --> 00:23:54,192
+So finding the map
+was the lucky part.
+
+369
+00:23:54,265 --> 00:23:57,560
+That's the hard work.
+
+370
+00:23:57,625 --> 00:23:59,632
+Philly's right, Mr. M.
+
+371
+00:23:59,704 --> 00:24:03,413
+We're never gonna make it workin' for
+those fat rats at the factory.
+
+372
+00:24:03,480 --> 00:24:05,366
+Please, Papa.
+
+373
+00:24:05,431 --> 00:24:07,537
+There's no reason
+to be afraid.
+
+374
+00:24:14,071 --> 00:24:16,340
+Okay. So go.
+
+375
+00:24:21,301 --> 00:24:23,155
+<i>He can't go.
+He's just a kid.</i>
+
+376
+00:24:23,220 --> 00:24:25,194
+<i>I'm older.
+Let me go.</i>
+
+377
+00:24:25,268 --> 00:24:27,440
+Tanya,
+don't help.
+
+378
+00:24:27,509 --> 00:24:31,665
+No! If Tanya goes,
+nobody goes!
+
+379
+00:24:31,732 --> 00:24:33,673
+Relax, Mama.
+She's not going.
+
+380
+00:24:33,747 --> 00:24:35,601
+No fair, no fair,
+no fair!
+
+381
+00:24:35,667 --> 00:24:37,521
+<i>He always gets to do
+the exciting stuff,</i>
+
+382
+00:24:37,587 --> 00:24:40,074
+and all I get to do is...
+laundry.
+
+383
+00:24:40,146 --> 00:24:42,000
+She does have
+a point.
+
+384
+00:24:42,066 --> 00:24:44,585
+Which only matches
+the one on your head.
+
+385
+00:24:44,657 --> 00:24:47,974
+Tanya, you are staying here,
+and that is that!
+
+386
+00:24:48,049 --> 00:24:52,936
+<i>I am going to put a lot
+of starch in everything you wear.</i>
+
+387
+00:24:53,008 --> 00:24:56,489
+I assure you, madam, there is
+nothing to be concerned about.
+
+388
+00:24:56,559 --> 00:24:58,894
+Think of it as a-
+
+389
+00:24:58,959 --> 00:25:01,327
+Well, as a-a field trip.
+
+390
+00:25:01,391 --> 00:25:04,424
+<i>See?
+Think of it as a rite of passage.?</i>
+
+391
+00:25:04,494 --> 00:25:08,040
+- See?
+- Think of it as a disaster waiting to happen.
+
+392
+00:25:08,110 --> 00:25:10,630
+Tanya, don't help!
+
+393
+00:25:10,701 --> 00:25:12,905
+<i>Ah, then it's settled!</i>
+
+394
+00:25:12,973 --> 00:25:14,828
+We'll start off
+in the morning.
+
+395
+00:25:14,893 --> 00:25:18,024
+In the meantime,
+we must gather supplies.
+
+396
+00:25:18,093 --> 00:25:20,132
+Scuttlebutt?
+
+397
+00:25:20,203 --> 00:25:22,375
+<i>Strange.
+Where did he go?</i>
+
+398
+00:25:29,611 --> 00:25:31,846
+<i>♪♪</i>
+
+399
+00:25:33,226 --> 00:25:37,448
+<i>So me and the boys cornered
+the little rabble-rouser, see?</i>
+
+400
+00:25:37,513 --> 00:25:40,133
+Then he looks at me and asks,
+“Have you no mercy?“
+
+401
+00:25:40,202 --> 00:25:42,885
+So I says, “Wait, now.
+Let me check.
+
+402
+00:25:42,953 --> 00:25:44,807
+As a matter of fact, no!”
+
+403
+00:25:44,872 --> 00:25:46,726
+And that's when
+we let him have it.
+
+404
+00:25:48,776 --> 00:25:51,744
+Bravo.
+
+405
+00:25:51,816 --> 00:25:54,783
+The way I see it, every time
+a ship docks in the harbor,
+
+406
+00:25:54,855 --> 00:25:56,895
+we get a new load
+of troublemakers.
+
+407
+00:25:56,966 --> 00:26:00,131
+So it's my job
+to keep 'em in line.
+
+408
+00:26:00,198 --> 00:26:03,231
+That is why
+we pay you.
+
+409
+00:26:03,301 --> 00:26:07,228
+<i>For which I am most grateful.</i>
+
+410
+00:26:07,300 --> 00:26:09,952
+A Mr. Scuttlebutt, sirs.
+
+411
+00:26:10,021 --> 00:26:12,060
+Begging your pardons, gents.
+
+412
+00:26:12,132 --> 00:26:16,092
+Come in, come in. Chief
+McBrusque, have you two met?
+
+413
+00:26:16,163 --> 00:26:20,124
+Well, I don't see any broken
+bones, so probably not!
+
+414
+00:26:27,362 --> 00:26:29,597
+Scuttlebutt here
+works with Dr. Dithering,
+
+415
+00:26:29,665 --> 00:26:32,665
+a pack rat who lives
+up in the museum on 79th.
+
+416
+00:26:32,737 --> 00:26:34,974
+<i>We support Dr. Dithering's
+research...</i>
+
+417
+00:26:35,041 --> 00:26:39,415
+as part of our public “commitment
+to culture,” but, uh-
+
+418
+00:26:39,488 --> 00:26:41,342
+What Dithering doesn't know is...
+
+419
+00:26:41,407 --> 00:26:44,538
+Scuttlebutt reports to us.
+
+420
+00:26:44,607 --> 00:26:46,910
+<i>Yes, just in case the good
+doctor digs up something...</i>
+
+421
+00:26:46,975 --> 00:26:49,724
+we might like to keep
+for ourselves.
+
+422
+00:26:49,791 --> 00:26:52,245
+Well, then, gents,
+
+423
+00:26:52,318 --> 00:26:54,424
+interested
+in a treasure map?
+
+424
+00:27:03,357 --> 00:27:05,659
+<i>I hope you
+find your fortune.</i>
+
+425
+00:27:05,724 --> 00:27:08,506
+Here, Fievel.
+Take this for luck.
+
+426
+00:27:08,571 --> 00:27:10,426
+Thanks, Mama.
+
+427
+00:27:10,491 --> 00:27:13,841
+- Eh, what is it?
+- Matzo ball soup.
+
+428
+00:27:13,916 --> 00:27:17,232
+Mama, it's not a picnic.
+We're exploring a tunnel!
+
+429
+00:27:17,306 --> 00:27:20,273
+So? A person's got to eat.
+
+430
+00:27:20,345 --> 00:27:23,160
+<i>I assure you, madam, we have
+more than enough provisions,</i>
+
+431
+00:27:23,225 --> 00:27:25,396
+which are also
+easier to carry.
+
+432
+00:27:25,465 --> 00:27:29,174
+That's a matter of opinion.
+
+433
+00:27:29,240 --> 00:27:31,826
+Don't worry, Mama.
+I'll be fine.
+
+434
+00:27:33,783 --> 00:27:35,671
+He always says that,
+but then-
+
+435
+00:27:35,736 --> 00:27:38,966
+Tanya.
+I know, I know. Don't help.
+
+436
+00:28:07,794 --> 00:28:10,762
+Sure. March me
+to the center of the Earth.
+
+437
+00:28:10,834 --> 00:28:15,089
+Save for the constant pain,
+I don't mind at all.
+
+438
+00:28:15,153 --> 00:28:17,008
+Cheer up,
+Mr. Scuttlebutt.
+
+439
+00:28:17,073 --> 00:28:21,065
+If we’re right, there's a reward
+waiting at the end of the line.
+
+440
+00:28:21,136 --> 00:28:24,169
+Heh-heh-heh.
+Spotty little runt.
+
+441
+00:28:24,240 --> 00:28:26,444
+<i>If I had me way, the only thing
+waitin' for you...</i>
+
+442
+00:28:26,513 --> 00:28:29,065
+at the end of the line
+would be the end of the line!
+
+443
+00:28:37,486 --> 00:28:39,559
+I say. Do you
+hear something?
+
+444
+00:28:39,630 --> 00:28:41,637
+Sounds like... running water.
+
+445
+00:28:41,709 --> 00:28:46,117
+What? Like them injuns had
+indoor plumbing? Get off!
+
+446
+00:28:46,188 --> 00:28:49,385
+I don't know.
+It's awful wet.
+
+447
+00:28:49,452 --> 00:28:51,558
+I believe there's
+an underground river...
+
+448
+00:28:51,628 --> 00:28:53,482
+just beyond this wall.
+
+449
+00:28:53,547 --> 00:28:57,290
+Ooh, what's this mean?
+
+450
+00:28:57,355 --> 00:29:02,025
+Ah. It seems the natives
+suffered some sort of cataclysm,
+
+451
+00:29:02,090 --> 00:29:04,872
+as in an invasion
+or a flood.
+
+452
+00:29:04,938 --> 00:29:08,201
+Flood! I-I-I'm allergic
+to that much water.
+
+453
+00:29:08,266 --> 00:29:10,917
+Guys? Huh?
+
+454
+00:29:12,682 --> 00:29:15,300
+<i>Fiev! Tony! Hey,
+guys, wait for me!</i>
+
+455
+00:29:16,808 --> 00:29:18,816
+Get off! Get off!
+Get off!
+
+456
+00:29:18,888 --> 00:29:21,702
+Oh. Uh, sorry.
+
+457
+00:29:21,767 --> 00:29:24,103
+What you lookin' at?
+
+458
+00:29:24,167 --> 00:29:25,956
+Ooh!
+
+459
+00:29:29,863 --> 00:29:33,954
+Get a load of this place!
+
+460
+00:29:34,021 --> 00:29:35,876
+<i>What's goin' on?</i>
+
+461
+00:29:35,941 --> 00:29:38,330
+I'm getting a real
+sinking feeling!
+
+462
+00:29:38,404 --> 00:29:42,713
+Oh, my! Seems we've triggered
+some sort of a pressure pad.
+
+463
+00:29:42,788 --> 00:29:48,091
+- Which means? - Which means we're
+going to, uh, what is it? You know-
+
+464
+00:29:48,163 --> 00:29:51,457
+- Die?
+- Yes, that's it.
+
+465
+00:30:03,138 --> 00:30:05,505
+Comin' through! Make way!
+
+466
+00:30:31,868 --> 00:30:34,105
+Right. I quit.
+Live it up. Here you go.
+
+467
+00:30:34,173 --> 00:30:36,475
+Take it! Take it! Take it!
+
+468
+00:30:37,884 --> 00:30:39,892
+Huh?
+
+469
+00:30:51,898 --> 00:30:54,101
+<i>Give me that!</i>
+
+470
+00:31:04,343 --> 00:31:06,896
+<i>Can we go heme now?</i>
+
+471
+00:31:52,688 --> 00:31:56,616
+- Uh, where are we?
+- Ask them.
+
+472
+00:31:59,567 --> 00:32:02,949
+- Whoa!
+- Here, now, those are sharp!
+
+473
+00:32:05,166 --> 00:32:07,108
+You talk
+with the English tongue.
+
+474
+00:32:07,182 --> 00:32:09,833
+Yes,yes.
+English. Right.
+
+475
+00:32:09,902 --> 00:32:13,033
+Cheerio. Pip-pip.
+♪ God save our gracious- ♪
+
+476
+00:32:14,861 --> 00:32:17,348
+<i>And you have a cat
+with you.</i>
+
+477
+00:32:17,421 --> 00:32:19,276
+Who? Me? Oh.
+
+478
+00:32:19,341 --> 00:32:21,992
+Yes, but... I’m thinking
+of converting.
+
+479
+00:32:22,060 --> 00:32:24,929
+Honest, mister.
+We're harmless.
+
+480
+00:32:25,004 --> 00:32:27,208
+Regular choirboys.
+
+481
+00:32:27,276 --> 00:32:30,472
+If only we had some sort
+of a peace offering.
+
+482
+00:32:30,538 --> 00:32:33,407
+I know.
+Mama's matzo ball soup.
+
+483
+00:32:41,161 --> 00:32:44,958
+Ah. We have heard legend
+of this matzo ball soup.
+
+484
+00:32:45,033 --> 00:32:46,887
+Strong medicine.
+
+485
+00:32:52,360 --> 00:32:54,213
+Ahh!
+
+486
+00:32:54,279 --> 00:32:56,133
+<i>Oy, that must be
+some soup!</i>
+
+487
+00:32:56,199 --> 00:32:58,173
+I am Wulisso,
+
+488
+00:32:58,247 --> 00:33:00,156
+<i>sakima
+of this clan.</i>
+
+489
+00:33:00,230 --> 00:33:03,776
+Look, I don't wish to be rude,
+
+490
+00:33:03,846 --> 00:33:06,148
+but what are you
+doing here?
+
+491
+00:33:06,213 --> 00:33:09,214
+There haven't been Indians
+in New York for 200 years.
+
+492
+00:33:09,285 --> 00:33:13,081
+- You speak of the Lenape.
+- Quite so.
+
+493
+00:33:13,157 --> 00:33:16,092
+Lenape is what the Delaware
+Indians called themselves.
+
+494
+00:33:16,164 --> 00:33:18,172
+Our ancestors watched...
+
+495
+00:33:18,244 --> 00:33:20,993
+as the European humans
+came in their boats,
+
+496
+00:33:21,059 --> 00:33:23,394
+bringing disease,
+gunpowder-
+
+497
+00:33:23,460 --> 00:33:26,078
+Cats!
+
+498
+00:33:26,146 --> 00:33:28,382
+I feel so ashamed!
+
+499
+00:33:28,450 --> 00:33:32,988
+And we watched as the Europeans
+mistreated the Lenape.
+
+500
+00:33:33,058 --> 00:33:36,222
+Killed many...
+and scattered the rest.
+
+501
+00:33:36,289 --> 00:33:40,566
+<i>Our ancestors did not wait for the
+European mice to do the same to them.</i>
+
+502
+00:33:40,640 --> 00:33:44,829
+Instead they found refuge
+here in the ground,
+
+503
+00:33:44,895 --> 00:33:47,448
+safe, hidden
+from the world.
+
+504
+00:33:47,518 --> 00:33:49,755
+<i>And that is how
+we have stayed!</i>
+
+505
+00:33:49,823 --> 00:33:51,897
+They're gonna
+scalp us! Ahh!
+
+506
+00:33:58,397 --> 00:34:01,081
+Are you really
+gonna scalp us?
+
+507
+00:34:01,149 --> 00:34:05,404
+Of course not.
+We are peaceful mice.
+
+508
+00:34:08,028 --> 00:34:11,803
+And to prove it, we shall have
+a feast in your honor.
+
+509
+00:34:11,867 --> 00:34:14,256
+Until then,
+you will need someone...
+
+510
+00:34:14,331 --> 00:34:16,273
+to show you
+around the cavern.
+
+511
+00:34:16,347 --> 00:34:18,736
+<i>Cholena.
+Yes, Father.</i>
+
+512
+00:34:18,810 --> 00:34:22,968
+<i>Buona sera,
+bella signorina.</i>
+
+513
+00:34:23,034 --> 00:34:26,263
+This is my daughter,
+Cholena.
+
+514
+00:34:26,329 --> 00:34:28,304
+She will serve
+as your guide.
+
+515
+00:34:28,377 --> 00:34:31,792
+No kiddin'?
+Fantastic! Terrif-
+
+516
+00:34:31,865 --> 00:34:33,654
+If you got nothing
+better to do.
+
+517
+00:34:33,720 --> 00:34:35,477
+It will be
+my pleasure.
+
+518
+00:34:36,695 --> 00:34:39,543
+- What's this?
+- My handmaiden Tankho.
+
+519
+00:34:39,607 --> 00:34:42,062
+She has volunteered to be your guide.
+
+520
+00:34:42,135 --> 00:34:45,931
+Then again, that bit about
+scalpin' don't sound so bad.
+
+521
+00:34:46,007 --> 00:34:49,204
+Hee-ya-hay!
+
+522
+00:35:01,236 --> 00:35:03,276
+<i>Hee-ya-hay!</i>
+
+523
+00:35:17,554 --> 00:35:19,943
+Oh, that-
+Oh, thank you. Hmm.
+
+524
+00:35:20,017 --> 00:35:22,831
+<i>Thank you.
+Thank you, thank you.</i>
+
+525
+00:35:26,417 --> 00:35:28,806
+What's he saying?
+
+526
+00:35:28,880 --> 00:35:31,978
+He's calling upon the spirits
+of the earth to embrace you.
+
+527
+00:35:32,047 --> 00:35:33,989
+Great!
+When do we start?
+
+528
+00:35:34,063 --> 00:35:37,380
+It is only
+a figure of speech.
+
+529
+00:35:37,454 --> 00:35:41,033
+Oh, yeah.
+Well, I like those.
+
+530
+00:35:41,102 --> 00:35:44,233
+Mine... mine...
+mine... also mine.
+
+531
+00:35:44,302 --> 00:35:46,157
+Ooh, and this is
+mine too.
+
+532
+00:35:56,460 --> 00:35:59,144
+What are all those drawings
+on the stick?
+
+533
+00:35:59,212 --> 00:36:01,546
+Why is he pouring-
+So many questions.
+
+534
+00:36:01,611 --> 00:36:04,578
+You are like a chirping cricket.
+Sorry.
+
+535
+00:36:04,650 --> 00:36:08,992
+Do not apologize. It is good to ask.
+That is how we learn.
+
+536
+00:36:09,065 --> 00:36:12,196
+So... it's okay
+to be a cricket?
+
+537
+00:36:12,265 --> 00:36:14,371
+Yes. In fact,
+from now on...
+
+538
+00:36:14,441 --> 00:36:16,449
+<i>I will call you
+Zelozelos.</i>
+
+539
+00:36:16,521 --> 00:36:18,889
+In our language
+that means cricket.
+
+540
+00:36:18,953 --> 00:36:22,116
+What are you gonna call me?
+Hmm.
+
+541
+00:36:22,184 --> 00:36:25,151
+<i>I will call you...
+Pullaook.</i>
+
+542
+00:36:25,223 --> 00:36:27,810
+<i>Pullaook Yeah.</i>
+
+543
+00:36:27,879 --> 00:36:29,919
+<i>What means pullaook?</i>
+
+544
+00:36:29,990 --> 00:36:33,950
+It is our word for turkey.
+Swell.
+
+545
+00:36:39,526 --> 00:36:43,104
+<i>You again! Back off!?</i>
+
+546
+00:36:43,172 --> 00:36:46,849
+<i>You are stealing!
+And what are you gonna do about it?</i>
+
+547
+00:36:53,539 --> 00:36:56,408
+Good grief, man! What could possibly
+possess you to do such a thing?
+
+548
+00:36:56,482 --> 00:36:59,996
+Incredibly poor form!
+Nah, you got it all wrong.
+
+549
+00:37:00,066 --> 00:37:03,383
+Everyone was off dancin', so
+I thought I'd tidy up a bit.
+
+550
+00:37:03,458 --> 00:37:05,629
+This is a serious matter.
+
+551
+00:37:05,697 --> 00:37:08,697
+We open our home to you,
+but how do you respond?
+
+552
+00:37:08,769 --> 00:37:11,617
+With thievery...
+and deceit!
+
+553
+00:37:11,680 --> 00:37:13,535
+Chief, you gotta
+believe me.
+
+554
+00:37:13,600 --> 00:37:18,106
+We had nothing to do with this. I
+mean, look. The guys a rat, you know?
+
+555
+00:37:23,967 --> 00:37:27,413
+What is the matter, Zelozelos?
+Oh, I just was thinkin'.
+
+556
+00:37:27,485 --> 00:37:30,802
+We're no better
+than Scuttlebutt. See?
+
+557
+00:37:30,877 --> 00:37:34,489
+We found this map, and it told
+us about your... treasure.
+
+558
+00:37:34,557 --> 00:37:38,233
+to grab it for ourselves.
+
+559
+00:37:38,300 --> 00:37:41,715
+Just like Scuttlebutt.
+You did not know we were here.
+
+560
+00:37:41,788 --> 00:37:44,723
+You are not thieves.
+Yes, we are!
+
+561
+00:37:51,963 --> 00:37:53,971
+Come with me, Zelozelos.
+
+562
+00:37:55,514 --> 00:37:58,295
+This...
+is our greatest treasure.
+
+563
+00:37:58,362 --> 00:38:01,078
+But... it’s just
+a string of beads!
+
+564
+00:38:01,145 --> 00:38:02,999
+It is wampum.
+
+565
+00:38:03,064 --> 00:38:05,933
+It is the history of our tribe
+told in symbols.
+
+566
+00:38:06,008 --> 00:38:08,660
+W- We risked our lives
+for that?
+
+567
+00:38:12,695 --> 00:38:16,209
+Zelozelos, treasure
+comes in many forms.
+
+568
+00:38:16,279 --> 00:38:18,165
+For us,
+it is our heritage.
+
+569
+00:38:18,230 --> 00:38:21,361
+<i>The wampum reminds us
+of our life with the Lenape,</i>
+
+570
+00:38:21,429 --> 00:38:26,383
+<i>of our journey here and being separated
+from everything we once knew.</i>
+
+571
+00:38:26,453 --> 00:38:28,307
+See what I mean?
+
+572
+00:38:28,372 --> 00:38:30,860
+The settlers just stomped in
+and took over.
+
+573
+00:38:30,932 --> 00:38:35,340
+If that’s the American dream,
+I want nothing to do with it!
+
+574
+00:38:35,412 --> 00:38:37,452
+Do not be hasty,
+Zelozelos.
+
+575
+00:38:37,523 --> 00:38:41,386
+<i>This dream of yours
+is a wonderful thing,</i>
+
+576
+00:38:41,459 --> 00:38:45,005
+even if it has not always
+been taken to heart.
+
+577
+00:38:50,098 --> 00:38:55,815
+♪ Anywhere in your dreams ♪
+
+578
+00:38:55,888 --> 00:39:00,939
+♪ Anywhere you can imagine ♪
+
+579
+00:39:01,007 --> 00:39:03,876
+♪ A bright new door ♪
+
+580
+00:39:03,951 --> 00:39:06,919
+♪ Is waiting for you ♪
+
+581
+00:39:06,990 --> 00:39:10,984
+<i>♪ To open ♪</i>
+
+582
+00:39:11,055 --> 00:39:15,811
+♪ You can go anywhere ♪
+
+583
+00:39:15,885 --> 00:39:24,002
+♪ Anywhere in your dreams ♪
+
+584
+00:39:24,076 --> 00:39:27,142
+♪ Just close your eyes ♪
+
+585
+00:39:27,212 --> 00:39:29,514
+♪ You might be surprised ♪
+
+586
+00:39:29,579 --> 00:39:32,776
+♪ What's inside you ♪
+
+587
+00:39:35,723 --> 00:39:38,537
+♪ Dreams are like steps ♪
+
+588
+00:39:38,602 --> 00:39:41,733
+♪ It's hard to guess ♪
+
+589
+00:39:41,801 --> 00:39:45,315
+♪ Where they'll guide you ♪
+
+590
+00:39:45,385 --> 00:39:48,515
+<i>♪ You can go anywhere♪</i>
+
+591
+00:39:48,584 --> 00:39:52,644
+<i>♪ In your dreams ♪</i>
+
+592
+00:39:52,712 --> 00:39:58,112
+♪ Anywhere you can imagine ♪
+
+593
+00:39:58,183 --> 00:40:00,834
+<i>♪ A bright new door ♪</i>
+
+594
+00:40:00,902 --> 00:40:03,389
+<i>♪ Is waiting for you ♪</i>
+
+595
+00:40:03,462 --> 00:40:08,449
+♪ To open ♪
+
+596
+00:40:08,518 --> 00:40:11,715
+♪ You can go anywhere ♪
+
+597
+00:40:11,781 --> 00:40:14,083
+♪ Anywhere ♪
+
+598
+00:40:14,148 --> 00:40:16,897
+<i>♪In your dreams ♪
+Oh, Philly.</i>
+
+599
+00:40:16,964 --> 00:40:20,794
+Whatcha doin'? You're
+gonna get Cholena killed!
+
+600
+00:40:20,868 --> 00:40:23,868
+♪ I hope I can find ♪
+
+601
+00:40:23,939 --> 00:40:26,841
+♪ A dream that's just mine ♪
+
+602
+00:40:26,915 --> 00:40:29,729
+♪ Someday ♪
+
+603
+00:40:32,771 --> 00:40:35,192
+♪ You might get lost ♪
+
+604
+00:40:35,265 --> 00:40:42,553
+♪ But your heart
+will show you the right way ♪
+
+605
+00:40:42,624 --> 00:40:45,144
+♪ And we can go anywhere ♪
+
+606
+00:40:45,216 --> 00:40:50,333
+<i>♪ In our dreams ♪</i>
+
+607
+00:40:50,400 --> 00:40:55,702
+♪ Anywhere we can imagine ♪
+
+608
+00:40:55,774 --> 00:40:58,458
+<i>♪ A bright new door ♪</i>
+
+609
+00:40:58,526 --> 00:41:01,395
+<i>♪ Is waiting for us ♪</i>
+
+610
+00:41:01,469 --> 00:41:05,397
+♪ To open ♪
+
+611
+00:41:05,469 --> 00:41:10,356
+♪ We can go anywhere ♪
+
+612
+00:41:10,428 --> 00:41:13,144
+♪ Anywhere ♪
+
+613
+00:41:13,211 --> 00:41:16,506
+♪ No matter where ♪
+
+614
+00:41:16,571 --> 00:41:22,287
+♪ We'll get there
+We can go anywhere ♪
+
+615
+00:41:22,362 --> 00:41:31,472
+<i>♪ In our dreams ♪♪</i>
+
+616
+00:41:39,640 --> 00:41:43,699
+Hey, I know! Cholena, why
+don't you come back with us?
+
+617
+00:41:43,767 --> 00:41:46,636
+You mean...
+to the surface?
+
+618
+00:41:46,711 --> 00:41:49,395
+Yeah. You've shown us
+all of your world.
+
+619
+00:41:49,462 --> 00:41:52,178
+We could show you ours.
+Ow!
+
+620
+00:41:54,709 --> 00:41:57,230
+“Posituvely.“
+Oh-
+
+621
+00:42:10,772 --> 00:42:15,212
+Good-bye, Father. May the spirits
+protect you during your journey, daughter.
+
+622
+00:42:17,746 --> 00:42:21,521
+Remember, Cholena: Make no
+contact with the upper-worlders.
+
+623
+00:42:21,585 --> 00:42:26,375
+Your task is to see if they have
+changed their deceitful ways,
+
+624
+00:42:26,448 --> 00:42:29,711
+however unlikely
+that may be.
+
+625
+00:42:29,776 --> 00:42:32,874
+As you wish, Father.
+
+626
+00:42:32,944 --> 00:42:35,147
+Don't worry.
+She'll have a great time.
+
+627
+00:42:35,215 --> 00:42:37,486
+Besides,
+what can happen?
+
+628
+00:42:39,055 --> 00:42:44,587
+<i>- Your attention, please.
+- Huh?</i>
+
+629
+00:42:44,654 --> 00:42:46,476
+I am pleased to announce
+that my associates and I...
+
+630
+00:42:46,542 --> 00:42:51,397
+<i>now control all cheese manufacturing
+in the tristate area.</i>
+
+631
+00:42:57,388 --> 00:42:59,975
+Oh, come, now.
+This is great news.
+
+632
+00:43:00,043 --> 00:43:02,728
+Course, all of you will
+have to triple your output.
+
+633
+00:43:02,796 --> 00:43:04,803
+<i>"Triple your output"?
+Triple our output?</i>
+
+634
+00:43:04,875 --> 00:43:08,900
+- What's in it for us?
+- Your jobs, that's what.
+
+635
+00:43:08,970 --> 00:43:11,306
+We work too many hours
+as it is.
+
+636
+00:43:11,370 --> 00:43:14,534
+That's right!
+
+637
+00:43:14,602 --> 00:43:17,700
+Calm down! Calm down!
+Don't make trouble!
+
+638
+00:43:26,407 --> 00:43:30,051
+We're workin's' ourselves to the
+bone while you're all gettin' fat!
+
+639
+00:43:30,119 --> 00:43:32,933
+How about
+cutting us in?
+
+640
+00:43:32,998 --> 00:43:35,649
+<i>Actually, we're
+cutting you out!</i>
+
+641
+00:43:40,133 --> 00:43:44,291
+Ayshh!
+This is like Russia all over again!
+
+642
+00:43:46,116 --> 00:43:47,807
+Aw.
+
+643
+00:43:47,876 --> 00:43:50,625
+<i>You feelin' homesick,
+old mouse?</i>
+
+644
+00:43:50,692 --> 00:43:53,212
+Hey, I’m talkin' to you!
+You see?
+
+645
+00:43:53,283 --> 00:43:56,284
+There's that Mousekewitz
+again, stirring up trouble.
+
+646
+00:43:56,356 --> 00:43:59,552
+They're all ungrateful louts,
+and it’s just the beginning.
+
+647
+00:43:59,618 --> 00:44:01,888
+Dissent is like a disease.
+
+648
+00:44:01,955 --> 00:44:06,329
+So we must cure them of it,
+before the infection spreads.
+
+649
+00:44:21,056 --> 00:44:22,998
+We could use
+some help, you know.
+
+650
+00:44:23,072 --> 00:44:26,846
+Nothing showy. Just a sign
+to let us know you're listening.
+
+651
+00:44:37,341 --> 00:44:40,122
+- Fievel!
+- Papa!
+
+652
+00:44:40,188 --> 00:44:43,090
+Oh, it's about time
+you got home.
+
+653
+00:44:43,164 --> 00:44:45,651
+I want to hear everything,
+but first,
+
+654
+00:44:45,723 --> 00:44:48,854
+oh, you wouldn't believe
+what happened at the factory.
+
+655
+00:44:48,923 --> 00:44:52,915
+Papa, we have a guest.
+
+656
+00:44:52,986 --> 00:44:56,565
+A pleasure, I'm sure.
+So, as I was saying-
+
+657
+00:44:56,634 --> 00:44:58,869
+Papa,
+this is Cholena.
+
+658
+00:44:58,937 --> 00:45:01,589
+It is an honor to meet the
+father of my friend Fievel.
+
+659
+00:45:01,658 --> 00:45:06,032
+<i>- Y-Y-You are an Indian?
+- Yeah.</i>
+
+660
+00:45:06,105 --> 00:45:10,196
+She's from this old tribe that lives in
+a big cave right under New York City.
+
+661
+00:45:11,287 --> 00:45:13,393
+This is your idea
+of a sign?
+
+662
+00:46:20,621 --> 00:46:22,476
+An Indian?
+Uh-huh.
+
+663
+00:46:22,541 --> 00:46:25,355
+That's charming. First you let
+Mousekewitz tell you what to do.
+
+664
+00:46:25,420 --> 00:46:28,486
+Now his son is giving that
+little princess a guided tour.
+
+665
+00:46:28,556 --> 00:46:31,043
+We have to
+find her, fast!
+
+666
+00:46:31,115 --> 00:46:33,897
+Forget about her. What
+about the rest of them?
+
+667
+00:46:33,963 --> 00:46:39,364
+Good gravy! A tribe of savages right
+under our feet? What if they invade us?
+
+668
+00:46:39,435 --> 00:46:42,849
+Ah, they wouldn't stand a
+chance against my boys.
+
+669
+00:46:42,921 --> 00:46:44,776
+And what makes you
+so sure?
+
+670
+00:46:44,841 --> 00:46:48,485
+Well, for one thing,
+we don't fight fair!
+
+671
+00:46:48,553 --> 00:46:52,415
+Oh. That does make a difference.
+
+672
+00:46:53,065 --> 00:46:55,847
+You're all
+missing the point.
+
+673
+00:46:55,912 --> 00:47:00,646
+These Indians are the answer to
+our problems with the workers.
+
+674
+00:47:00,710 --> 00:47:03,907
+<i>Are you mad?
+Not at all.</i>
+
+675
+00:47:03,975 --> 00:47:05,949
+The best way to keep
+those malingerers in line...
+
+676
+00:47:06,022 --> 00:47:09,852
+is to provide them- and us-
+with a common enemy.
+
+677
+00:47:09,926 --> 00:47:14,748
+I see. We set ourselves up as the
+workers' champions and protectors.
+
+678
+00:47:14,821 --> 00:47:17,373
+And turn them
+against the Indians.
+
+679
+00:47:17,444 --> 00:47:21,634
+Of course, there'll be horrible
+losses among the workers.
+
+680
+00:47:21,700 --> 00:47:24,416
+<i>But if we 're clever
+about it, most of them...</i>
+
+681
+00:47:24,483 --> 00:47:27,778
+will be the anarchists
+and miscreants in the crowd.
+
+682
+00:47:27,843 --> 00:47:31,225
+Gentlemen,
+a toast to us.
+
+683
+00:47:31,299 --> 00:47:34,648
+The friends
+of the working mouse.
+
+684
+00:47:37,602 --> 00:47:40,831
+♪♪
+
+685
+00:47:40,897 --> 00:47:42,806
+♪ My colleagues
+gather round, please ♪
+
+686
+00:47:42,881 --> 00:47:44,736
+♪ Since you and I
+all know ♪
+
+687
+00:47:44,801 --> 00:47:48,412
+♪ That if our mice keep working
+our profit's sure to grow ♪
+
+688
+00:47:48,480 --> 00:47:52,091
+♪ I really like to see them sweat
+It makes me calm and cool ♪
+
+689
+00:47:52,160 --> 00:47:54,101
+♪ And while they're grateful
+for the pay ♪
+
+690
+00:47:54,175 --> 00:47:56,084
+♪ We're thankful
+playing pool ♪
+
+691
+00:47:56,159 --> 00:47:59,606
+♪ Friends
+of the working mouse ♪
+
+692
+00:47:59,678 --> 00:48:02,013
+♪ We're such
+a happy family ♪
+
+693
+00:48:02,078 --> 00:48:03,965
+♪ Our workers are the best ♪
+
+694
+00:48:04,030 --> 00:48:07,411
+♪ And while they put in overtime
+we'll just take a little rest ♪
+
+695
+00:48:07,485 --> 00:48:11,162
+♪ We've got it all together now
+We're in for the long haul ♪
+
+696
+00:48:11,228 --> 00:48:13,083
+♪ So a toast to them
+Let's give a cheer ♪
+
+697
+00:48:13,148 --> 00:48:15,221
+♪ While they are slaving
+for us all ♪
+
+698
+00:48:15,292 --> 00:48:22,673
+♪ Friends
+of the working mouse ♪
+
+699
+00:48:22,746 --> 00:48:25,779
+Oh, yeah, we're like friends of
+you workin' mices and stuff.
+
+700
+00:48:27,610 --> 00:48:29,682
+♪ We know ♪
+
+701
+00:48:29,753 --> 00:48:35,220
+♪ They want to make a show
+of their aspirations ♪
+
+702
+00:48:35,289 --> 00:48:38,965
+♪ So come on
+We can help, you know ♪
+
+703
+00:48:39,032 --> 00:48:42,829
+♪ Meet their expectations ♪
+
+704
+00:48:42,904 --> 00:48:44,812
+♪ Hey ho ♪
+
+705
+00:48:44,887 --> 00:48:50,419
+<i>♪ The only limit is
+our imagination ♪</i>
+
+706
+00:48:50,486 --> 00:48:54,261
+♪ Heave-ho
+It's off to work they go ♪
+
+707
+00:48:54,326 --> 00:49:00,020
+♪ It's their true salvation ♪
+
+708
+00:49:00,085 --> 00:49:03,118
+♪ Maybe ♪
+
+709
+00:49:03,189 --> 00:49:07,563
+♪ We really love to see them
+here each and every clay ♪
+
+710
+00:49:07,636 --> 00:49:11,117
+♪ So even when they need time
+off we do insist they stay ♪
+
+711
+00:49:11,188 --> 00:49:13,097
+♪ With their noses
+to the grindstones ♪
+
+712
+00:49:13,171 --> 00:49:15,375
+♪ Since they want to keep
+their jobs ♪
+
+713
+00:49:15,443 --> 00:49:19,185
+♪ We'll keep them lookin' sharp, our
+mice while we just act like slobs ♪
+
+714
+00:49:19,250 --> 00:49:22,960
+♪ Yes, we will rightly steer them
+on a sure and steady course ♪
+
+715
+00:49:23,026 --> 00:49:26,800
+♪ We're only here to help them
+down our chosen path, of course ♪
+
+716
+00:49:26,865 --> 00:49:29,865
+♪ You see, we're ♪
+♪ Friends of the working mouse ♪
+
+717
+00:49:29,936 --> 00:49:34,377
+Trust us.
+♪ Friends of the working mouse ♪
+
+718
+00:49:34,448 --> 00:49:42,052
+♪ Friends
+of the working mouse ♪♪
+
+719
+00:49:43,086 --> 00:49:45,028
+We come to you
+not as your bosses...
+
+720
+00:49:45,102 --> 00:49:48,070
+but as fellow American mice,
+
+721
+00:49:48,142 --> 00:49:51,110
+out of concern
+for you and your families.
+
+722
+00:49:51,182 --> 00:49:53,636
+For it has come
+to our attention...
+
+723
+00:49:53,709 --> 00:49:57,669
+that there is a spy
+in our midst.
+
+724
+00:49:57,740 --> 00:50:00,359
+Yes, a spy.
+
+725
+00:50:00,428 --> 00:50:03,395
+Whose mere presence
+chills us to the bone.
+
+726
+00:50:03,467 --> 00:50:06,468
+A savage, bloodthirsty,
+
+727
+00:50:06,539 --> 00:50:08,394
+<i>injun.</i>
+
+728
+00:50:08,459 --> 00:50:11,459
+What's more,
+
+729
+00:50:11,530 --> 00:50:13,538
+this interloper
+is the spearhead...
+
+730
+00:50:13,610 --> 00:50:16,392
+<i>of a sinister
+invasion force!</i>
+
+731
+00:50:16,458 --> 00:50:20,004
+These fiends are not attacking
+from some far-off shore.
+
+732
+00:50:20,073 --> 00:50:23,936
+No! Even as we speak,
+they lie in wait...
+
+733
+00:50:24,009 --> 00:50:26,311
+beneath our very paws.
+
+734
+00:50:26,376 --> 00:50:30,750
+Oh, he knows about the cave.
+He's talking about Cholena!
+
+735
+00:50:30,823 --> 00:50:34,466
+<i>Now, you all know
+what these creatures are like.</i>
+
+736
+00:50:34,535 --> 00:50:37,023
+<i>If we let them,
+they'll steal our food,</i>
+
+737
+00:50:37,095 --> 00:50:40,673
+<i>burn our homes,
+kidnap our children.</i>
+
+738
+00:50:46,693 --> 00:50:52,225
+If we let them, they will destroy
+everything we have worked for.
+
+739
+00:50:54,340 --> 00:50:58,300
+So now the question is,
+will we let them?
+
+740
+00:50:58,371 --> 00:51:03,193
+Will we stand by and let them
+ruin our American way of life?
+
+741
+00:51:03,266 --> 00:51:05,885
+No!
+No!
+
+742
+00:51:05,954 --> 00:51:08,954
+Then let us
+go forth together.
+
+743
+00:51:09,025 --> 00:51:10,880
+Let us find
+the infiltrator...
+
+744
+00:51:10,945 --> 00:51:15,102
+and send her back to her fellow
+barbarians with a message...
+
+745
+00:51:15,168 --> 00:51:18,201
+<i>that this land
+is our land,</i>
+
+746
+00:51:18,272 --> 00:51:21,753
+<i>and we are going to keep it that way.</i>
+
+747
+00:51:23,967 --> 00:51:26,868
+A week's pay for the first one
+who sees the injun!
+
+748
+00:51:26,942 --> 00:51:29,724
+Two weeks' pay for anyone
+who helps catch her!
+
+749
+00:51:29,790 --> 00:51:31,929
+Hurry! Hurry!
+
+750
+00:51:40,732 --> 00:51:44,082
+Nobody's invading nobody!
+Wait! Oof!
+
+751
+00:51:48,572 --> 00:51:52,466
+Well, if it isn't Mousekewitz,
+king of the troublemakers.
+
+752
+00:51:52,539 --> 00:51:54,961
+I've been
+looking forward to this.
+
+753
+00:51:56,250 --> 00:51:58,104
+Grab him!
+
+754
+00:52:14,231 --> 00:52:16,947
+Oy.
+
+755
+00:52:17,015 --> 00:52:19,830
+Huh?
+
+756
+00:52:28,181 --> 00:52:31,312
+Believe me, I'm not
+going to like this either.
+
+757
+00:52:39,443 --> 00:52:41,452
+<i>Okay, old man.</i>
+
+758
+00:52:41,524 --> 00:52:45,319
+You go hide the Indian.
+All the better for me.
+
+759
+00:52:45,394 --> 00:52:48,525
+Help! I can't see!
+I can't see!
+
+760
+00:52:52,625 --> 00:52:55,146
+Oh, yeah.
+That's much better.
+
+761
+00:52:55,889 --> 00:52:57,614
+Okeydokey,
+who wants more?
+
+762
+00:52:57,681 --> 00:52:59,568
+Oh, no, thank you, Mama.
+
+763
+00:52:59,633 --> 00:53:02,666
+Oh, now you don't like
+my blintzes?
+
+764
+00:53:02,737 --> 00:53:05,322
+No, Mama.
+We're just stuffed.
+
+765
+00:53:05,392 --> 00:53:09,866
+Stuffed, schmuffed! Meanwhile, there
+are mice starving in Irkutsk.
+
+766
+00:53:09,936 --> 00:53:12,936
+My ma used to say
+the same thing.
+
+767
+00:53:13,007 --> 00:53:15,178
+'Cept her mice
+were starvin' in Sicily.
+
+768
+00:53:15,247 --> 00:53:18,476
+See? It's an epidemic. Now eat.
+
+769
+00:53:21,902 --> 00:53:24,902
+Papa, what's the matter?
+
+770
+00:53:24,973 --> 00:53:28,835
+A mob is coming, looking for
+Cholena, and the police too!
+
+771
+00:53:28,908 --> 00:53:32,836
+Tanya, get the baby!
+W- What are police?
+
+772
+00:53:32,907 --> 00:53:36,738
+They're these guys. They wear uniforms, and
+they make sure everyone obeys the law.
+
+773
+00:53:36,812 --> 00:53:38,569
+Th-Then they
+will help us.
+
+774
+00:53:38,635 --> 00:53:40,577
+No.
+
+775
+00:53:42,219 --> 00:53:45,000
+<i>Here they come!</i>
+
+776
+00:53:48,426 --> 00:53:51,142
+If we stay here, they’ll
+find Cholena for sure!
+
+777
+00:53:51,209 --> 00:53:54,340
+Hurry! Wear this,
+and keep your head down!
+
+778
+00:53:58,888 --> 00:54:02,019
+<i>My guess is she's
+probably wearin' a disguise.</i>
+
+779
+00:54:02,087 --> 00:54:05,436
+Search every rat nest
+and mouse hole in the city.
+
+780
+00:54:05,511 --> 00:54:08,861
+Tear everything apart
+until you find that injun!
+
+781
+00:54:10,246 --> 00:54:13,246
+- Now go!
+- Yes, sir!
+
+782
+00:54:13,317 --> 00:54:16,765
+<i>There he is!</i>
+
+783
+00:54:16,837 --> 00:54:18,723
+Stop this instant!
+Let me go!
+
+784
+00:54:18,789 --> 00:54:21,637
+<i>You're in on
+the injun plot, aren't ya?</i>
+
+785
+00:54:21,700 --> 00:54:23,806
+<i>Don't deny it!</i>
+
+786
+00:54:23,876 --> 00:54:26,428
+What plot?
+Oh, Scuttlebutt!
+
+787
+00:54:26,499 --> 00:54:29,882
+<i>Thank heavens. Quickly!
+Tell them I'm innocent.</i>
+
+788
+00:54:29,955 --> 00:54:32,956
+Who? Me? No. No, no,
+no, no, no, no, no.
+
+789
+00:54:33,027 --> 00:54:36,474
+Never seen the bloke in me life!
+Traitor! Turncoat!
+
+790
+00:54:39,681 --> 00:54:41,536
+Whew!
+
+791
+00:54:41,601 --> 00:54:44,732
+Papa! Mama!
+
+792
+00:54:44,801 --> 00:54:47,070
+Tanya!
+
+793
+00:54:48,544 --> 00:54:50,454
+<i>Help me!</i>
+
+794
+00:54:50,527 --> 00:54:52,382
+Get that girl!
+
+795
+00:54:58,079 --> 00:55:00,250
+<i>- Traitors!
+- Cholena!</i>
+
+796
+00:55:00,318 --> 00:55:03,134
+Buzz off, kid!
+Aaah!
+
+797
+00:55:03,199 --> 00:55:05,751
+Hang on!
+I'm comin'!
+
+798
+00:55:05,822 --> 00:55:08,408
+- Ooh!
+- Indians!
+
+799
+00:55:08,477 --> 00:55:12,634
+We've got to save Cholena.
+Ow! Hey! I’m with ya!
+
+800
+00:55:12,701 --> 00:55:14,676
+<i>Fievel!
+Make 'em pay!</i>
+
+801
+00:55:15,708 --> 00:55:17,366
+Oh! Uh!
+
+802
+00:55:25,627 --> 00:55:28,017
+Fievel! Tanya!
+
+803
+00:55:31,738 --> 00:55:35,153
+In here, Papa.
+Ah-ah-choo!
+
+804
+00:55:35,226 --> 00:55:40,113
+Oh! My poor darlings!
+
+805
+00:55:40,185 --> 00:55:43,960
+Where are Fievel and Tony?
+And where is Cholena?
+
+806
+00:55:44,024 --> 00:55:47,319
+She must have been
+carried away by the mob.
+
+807
+00:55:47,384 --> 00:55:50,864
+Oh, if they recognize her,
+they'll-
+
+808
+00:55:50,935 --> 00:55:55,212
+Tanya. Find Fievel and Tony.
+Then meet us back here.
+
+809
+00:55:55,286 --> 00:55:57,141
+Mama and I
+are going for help.
+
+810
+00:55:57,206 --> 00:55:59,443
+We are?
+Who's going to help?
+
+811
+00:55:59,510 --> 00:56:01,550
+Could everyone
+just go and do?
+
+812
+00:56:05,620 --> 00:56:09,232
+Oh, my! Oh, help!
+
+813
+00:56:09,300 --> 00:56:11,242
+Oh, oh- Help!
+
+814
+00:56:14,356 --> 00:56:16,209
+We got one
+of the traitors!
+
+815
+00:56:16,275 --> 00:56:20,050
+Good. Take him
+to the butcher shop. Huh?
+
+816
+00:56:23,379 --> 00:56:25,997
+What have we here?
+
+817
+00:56:26,065 --> 00:56:28,520
+But don't do nothin'
+till we get there!
+
+818
+00:56:28,593 --> 00:56:31,407
+We've got a little
+unfinished business.
+
+819
+00:56:53,677 --> 00:56:55,948
+<i>Well,
+what do ya know?</i>
+
+820
+00:56:56,014 --> 00:57:00,268
+It's the little
+Indian maiden.
+
+821
+00:57:00,333 --> 00:57:02,241
+<i>Yo, potato-for-brains!
+Up here!</i>
+
+822
+00:57:03,724 --> 00:57:06,146
+Charge!
+
+823
+00:57:09,163 --> 00:57:11,749
+Yah!
+
+824
+00:57:11,819 --> 00:57:13,860
+Oh, thank you.
+
+825
+00:57:14,955 --> 00:57:16,809
+Fievel, would you hurry?
+
+826
+00:57:18,538 --> 00:57:20,644
+Come back here,
+ya hooligans!
+
+827
+00:57:23,017 --> 00:57:26,912
+Papa? Mama?
+Papa said they'd be here.
+
+828
+00:57:26,984 --> 00:57:30,530
+What if the mob got 'em?
+What if they’re in jail?
+
+829
+00:57:30,600 --> 00:57:32,542
+What if-
+What if we stop already?
+
+830
+00:57:32,616 --> 00:57:35,878
+Papa! Mama!
+Mama, you're okay.
+
+831
+00:57:35,943 --> 00:57:39,968
+Fievel, you and Tony take
+Cholena back underground.
+
+832
+00:57:40,038 --> 00:57:41,893
+Wait a minute!
+What about me?
+
+833
+00:57:41,958 --> 00:57:44,031
+It's not fair! I never
+get a chance to do any-
+
+834
+00:57:44,102 --> 00:57:46,339
+Okay. Okay, already.
+Go.
+
+835
+00:57:46,406 --> 00:57:48,609
+Honest?
+You mean it?
+
+836
+00:57:48,677 --> 00:57:50,586
+Yes! Ya-hoo!
+
+837
+00:57:50,661 --> 00:57:53,050
+I mean- Ahem. Good.
+
+838
+00:57:53,124 --> 00:57:54,979
+Fievel,
+you have the map?
+
+839
+00:57:55,044 --> 00:57:57,858
+Sure, but what
+are you gonna do?
+
+840
+00:57:57,924 --> 00:57:59,778
+While you take Cholena home,
+
+841
+00:57:59,844 --> 00:58:03,487
+Mama and I will keep the crowd
+occupied and save Dr. Dithering.
+
+842
+00:58:03,555 --> 00:58:05,825
+Gee, how you
+gonna do that?
+
+843
+00:58:05,891 --> 00:58:09,152
+We will create
+a diversion.
+
+844
+00:58:09,217 --> 00:58:11,072
+What's a “diversion“?
+
+845
+00:58:11,137 --> 00:58:14,006
+Me.
+
+846
+00:58:22,944 --> 00:58:27,450
+Look. ls it wise for us to be here?
+I mean, that mob's out for blood!
+
+847
+00:58:27,519 --> 00:58:31,828
+Yes, but since McBrusque here
+failed to catch the Indian girl,
+
+848
+00:58:31,902 --> 00:58:34,935
+<i>we 'll have to make Dr.
+Dithering the designated donor.</i>
+
+849
+00:58:35,006 --> 00:58:38,323
+Dr. Dithering, do you admit
+to aiding the Indian?
+
+850
+00:58:38,398 --> 00:58:40,252
+Well, yes,
+but I don't see why-
+
+851
+00:58:40,317 --> 00:58:42,172
+Guilty!
+Guilty!
+
+852
+00:58:42,237 --> 00:58:44,212
+Guilty! Make him pay!
+
+853
+00:58:44,285 --> 00:58:47,416
+- You heard the man!
+- Guilty!
+
+854
+00:58:47,485 --> 00:58:49,819
+<i>Guilty!
+Guilty!</i>
+
+855
+00:59:03,514 --> 00:59:06,383
+Oh, oh, oh, my.
+Oh-oh!
+
+856
+00:59:10,841 --> 00:59:12,598
+Excuse me for just
+one minute, Doc.
+
+857
+00:59:19,127 --> 00:59:21,496
+Woof!
+
+858
+00:59:21,560 --> 00:59:23,414
+Wrong species.
+
+859
+00:59:23,479 --> 00:59:26,894
+<i>Stop! Enough!</i>
+
+860
+00:59:26,966 --> 00:59:30,381
+Didn't we come to America
+to escape such madness?
+
+861
+00:59:30,454 --> 00:59:35,155
+Yet here you are, condemning
+someone based on lies and rumors.
+
+862
+00:59:35,220 --> 00:59:37,075
+Don't you see?
+
+863
+00:59:37,140 --> 00:59:40,687
+The enemy isn't Dr. Dithering
+or the Indians.
+
+864
+00:59:40,757 --> 00:59:42,350
+It's them!
+
+865
+00:59:42,421 --> 00:59:47,886
+<i>Dividing us with hatred,
+ignorance, fear.</i>
+
+866
+00:59:47,955 --> 00:59:52,330
+Don't listen to him! He's not one of us!
+He's a foreigner!
+
+867
+00:59:52,403 --> 00:59:56,592
+Mister, we are
+all foreigners.
+
+868
+00:59:56,658 --> 01:00:00,520
+The only ones who really
+belong here are the Indians.
+
+869
+01:00:00,593 --> 01:00:02,863
+<i>[PapaJ All the rest of
+us have in common...</i>
+
+870
+01:00:02,929 --> 01:00:05,319
+<i>is our dream
+of a better life.</i>
+
+871
+01:00:05,392 --> 01:00:09,222
+All we got in common
+is America.
+
+872
+01:00:13,775 --> 01:00:16,840
+<i>Bravo!
+Bravo! Bravo!</i>
+
+873
+01:00:18,543 --> 01:00:20,201
+Get us out of here!
+
+874
+01:00:23,726 --> 01:00:26,312
+<i>Stand back there!
+I'll split your noggin!</i>
+
+875
+01:00:26,381 --> 01:00:29,250
+Congratulations,
+Grasping.
+
+876
+01:00:29,325 --> 01:00:32,806
+Now you've got every mouse
+in Manhattan hating us!
+
+877
+01:00:32,877 --> 01:00:35,691
+What if the Indians
+send reinforcements?
+
+878
+01:00:35,756 --> 01:00:40,164
+Form an alliance with the workers?
+Take over the factory?
+
+879
+01:00:40,235 --> 01:00:43,846
+Get a grip on yourself! We're
+not through yet. McBrusque!
+
+880
+01:00:43,914 --> 01:00:48,071
+- Yes, sir.
+- Find that Indian cave, and turn it into a burial ground.
+
+881
+01:00:48,138 --> 01:00:51,847
+Yes, sir!
+Ah, good luck with that.
+
+882
+01:00:51,914 --> 01:00:55,230
+Which reminds me.
+I'm gonna need a guide.
+
+883
+01:00:55,304 --> 01:00:57,825
+I'd sooner die
+than go down there again.
+
+884
+01:00:57,897 --> 01:01:01,606
+Well, that just about sums
+up your choices, doesn't it?
+
+885
+01:01:18,725 --> 01:01:20,612
+Stop. Stop! Stop!
+
+886
+01:01:20,677 --> 01:01:22,718
+Here it is!
+
+887
+01:01:22,789 --> 01:01:25,025
+<i>- Huh?
+- This way, boys.</i>
+
+888
+01:01:25,092 --> 01:01:27,547
+It's Chief McBrusque, and
+he's got his goons with him.
+
+889
+01:01:31,875 --> 01:01:34,624
+Here.
+
+890
+01:01:34,691 --> 01:01:36,861
+I love the smell of it.
+
+891
+01:01:40,194 --> 01:01:43,358
+<i>- Which way?
+- We're gainin' on 'em, boys!</i>
+
+892
+01:01:46,913 --> 01:01:49,335
+Oh, I wish Dr. Dithering
+were here!
+
+893
+01:01:49,409 --> 01:01:52,856
+Wait! Those are
+our footprints from before.
+
+894
+01:01:52,928 --> 01:01:54,782
+This way!
+
+895
+01:01:56,127 --> 01:01:58,266
+I’m tellint' ya, turn back!
+
+896
+01:01:58,335 --> 01:02:00,571
+Those injuns
+are fiends, brutes!
+
+897
+01:02:00,639 --> 01:02:02,428
+They tried to scalp me.
+
+898
+01:02:02,495 --> 01:02:05,342
+You keep whinin',
+and I might let 'em.
+
+899
+01:02:05,406 --> 01:02:07,260
+Suit yourself,
+
+900
+01:02:07,326 --> 01:02:09,660
+but when we're all walkin' around
+like a rack of snooker balls,
+
+901
+01:02:09,725 --> 01:02:11,580
+don't blame me.
+
+902
+01:02:11,645 --> 01:02:13,850
+Yow-hoo-hoo-hoo!
+Ooh! Ooh!
+
+903
+01:02:19,164 --> 01:02:22,230
+- Tanya, no!
+- What's the matter?
+
+904
+01:02:22,300 --> 01:02:25,235
+The room on the other side
+is full of booby traps.
+
+905
+01:02:25,307 --> 01:02:27,347
+Whoa!
+That's right.
+
+906
+01:02:27,418 --> 01:02:29,906
+We barely got through
+there in one piece.
+
+907
+01:02:29,979 --> 01:02:33,393
+So we either go in there
+or back up to meet the cops.
+
+908
+01:02:33,466 --> 01:02:36,728
+Wait. My father once told me
+of a way around the traps.
+
+909
+01:02:36,793 --> 01:02:39,313
+If only I could remember.
+
+910
+01:02:39,385 --> 01:02:43,029
+I can almost see it,
+as if it were here in my paw.
+
+911
+01:02:43,096 --> 01:02:46,446
+That's it!
+Fievel, what are you doing?
+
+912
+01:02:47,768 --> 01:02:51,117
+I wondered what that paw print
+on the map meant.
+
+913
+01:02:51,191 --> 01:02:53,362
+Look!
+
+914
+01:02:59,543 --> 01:03:01,430
+Hurry!
+
+915
+01:03:14,772 --> 01:03:17,740
+No! Sorry. Stop.
+
+916
+01:03:17,811 --> 01:03:20,364
+As far as I go.
+
+917
+01:03:20,435 --> 01:03:23,217
+<i>What's the matter now!</i>
+
+918
+01:03:23,283 --> 01:03:25,835
+You go through
+that door,
+
+919
+01:03:25,906 --> 01:03:27,848
+you're gonna be
+minced mouse pie!
+
+920
+01:03:28,978 --> 01:03:31,051
+Are you tellin' me
+that we're almost there?
+
+921
+01:03:31,122 --> 01:03:32,976
+Well, yes and no.
+
+922
+01:03:33,041 --> 01:03:37,165
+About time. All right, men.
+Attack formation.
+
+923
+01:03:39,568 --> 01:03:41,608
+<i>Charge!</i>
+
+924
+01:03:52,878 --> 01:03:54,733
+<i>Wow!</i>
+
+925
+01:03:54,798 --> 01:03:58,758
+You got that right.
+Forgive me, Father. I failed.
+
+926
+01:03:58,829 --> 01:04:04,361
+Cholena, do not blame yourself
+for the ways of the upper world.
+
+927
+01:04:04,428 --> 01:04:08,290
+It is not your fault that they
+are still greedy and ruthless.
+
+928
+01:04:08,363 --> 01:04:11,461
+Not all of us.
+just some.
+
+929
+01:04:13,451 --> 01:04:15,590
+What are you
+going to do?
+
+930
+01:04:15,659 --> 01:04:19,750
+We do not have any choice.
+We will defend ourselves.
+
+931
+01:04:19,819 --> 01:04:22,404
+But I fear that we will
+go down in defeat.
+
+932
+01:04:22,473 --> 01:04:25,604
+Hey, what about
+all those booby traps?
+
+933
+01:04:25,673 --> 01:04:27,647
+All you need is
+a few more and-
+
+934
+01:04:27,720 --> 01:04:31,234
+They were built long ago
+by our ancestors.
+
+935
+01:04:31,304 --> 01:04:33,922
+Today, we do not know
+the ways of war.
+
+936
+01:04:33,991 --> 01:04:37,439
+We are no match
+for the upper-worlders.
+
+937
+01:04:37,511 --> 01:04:41,504
+Maybe you don't have to be.
+What do you mean?
+
+938
+01:04:41,575 --> 01:04:43,615
+It's like what Papa said.
+
+939
+01:04:43,686 --> 01:04:46,021
+We need to create
+a diversion.
+
+940
+01:04:50,982 --> 01:04:53,501
+Now I’m angry-
+
+941
+01:04:54,692 --> 01:04:56,547
+Told ya it was dangerous.
+Did anyone listen?
+
+942
+01:04:56,612 --> 01:04:59,361
+No. Might as well have been
+talkin' to a brick wall!
+
+943
+01:05:07,075 --> 01:05:11,002
+All right. Where are they?
+
+944
+01:05:13,378 --> 01:05:16,694
+Cowards! Soon as they heard us
+comin', they turned tail!
+
+945
+01:05:24,512 --> 01:05:26,902
+Now!
+
+946
+01:05:46,749 --> 01:05:48,757
+Where do ya think
+you're goin'?
+
+947
+01:05:48,829 --> 01:05:50,356
+Home!
+
+948
+01:05:50,428 --> 01:05:53,429
+Ow.
+
+949
+01:05:53,500 --> 01:05:57,460
+I suppose I should
+expect this by now.
+
+950
+01:06:10,969 --> 01:06:15,573
+Come back, ya nose-wipin',
+tail-turnin', double-dealin'-
+
+951
+01:06:19,607 --> 01:06:22,127
+Aw, forget it.
+
+952
+01:06:23,575 --> 01:06:25,430
+Wait for me!
+
+953
+01:06:31,286 --> 01:06:33,457
+<i>Yeah!
+Hooray!</i>
+
+954
+01:06:33,526 --> 01:06:36,340
+Oh, Father, we are safe.
+
+955
+01:06:36,406 --> 01:06:39,852
+Not for long, child. The
+upper-worlders will be back.
+
+956
+01:06:39,924 --> 01:06:41,648
+<i>They will come
+in greater numbers...</i>
+
+957
+01:06:41,716 --> 01:06:45,579
+with more powerful weapons,
+and we will be lost.
+
+958
+01:06:45,652 --> 01:06:48,521
+Isn't there anything
+you can do?
+
+959
+01:06:48,596 --> 01:06:51,083
+Yes.
+Seal the ancient tunnel.
+
+960
+01:06:51,155 --> 01:06:53,424
+No. You'll be
+buried alive!
+
+961
+01:06:53,491 --> 01:06:57,102
+Do not worry. Our air
+shafts will not be harmed.
+
+962
+01:06:57,170 --> 01:07:00,520
+Besides, we have other ways
+to visit the upper world.
+
+963
+01:07:00,593 --> 01:07:04,205
+You do? Where?
+
+964
+01:07:04,273 --> 01:07:07,917
+Perhaps it is better
+that you do not know.
+
+965
+01:07:07,984 --> 01:07:10,058
+Remember, Zelozelos.
+
+966
+01:07:10,128 --> 01:07:13,805
+The upper world is a gift
+from the Great Spirit.
+
+967
+01:07:13,872 --> 01:07:17,864
+Perhaps someday the mice there
+will learn to share it.
+
+968
+01:07:17,935 --> 01:07:19,790
+Perhaps you
+can teach them.
+
+969
+01:07:21,550 --> 01:07:25,924
+Uh, Chief, exactly how do you
+plan to seal the tunnel?
+
+970
+01:07:25,997 --> 01:07:29,194
+Show me the map.
+
+971
+01:07:29,261 --> 01:07:34,630
+There. There is a great underground
+river here, close to the tunnel.
+
+972
+01:07:34,701 --> 01:07:36,457
+Yeah, I remember.
+
+973
+01:07:36,524 --> 01:07:41,346
+Once you find it again, you must destroy the
+wall that separates one from the other.
+
+974
+01:07:42,795 --> 01:07:45,130
+Uh, how we
+supposed to do that?
+
+975
+01:07:50,666 --> 01:07:52,902
+Take this.
+
+976
+01:07:52,969 --> 01:07:54,911
+Better not be
+a cat in here.
+
+977
+01:07:54,985 --> 01:07:57,472
+No. Gunpowder.
+
+978
+01:07:57,545 --> 01:08:00,742
+Whoa! No sweat.
+
+979
+01:08:00,808 --> 01:08:03,710
+But you said gunpowder
+was evil.
+
+980
+01:08:03,784 --> 01:08:09,381
+Mm. It is, and we would never
+use it to harm anyone else.
+
+981
+01:08:09,447 --> 01:08:12,512
+But we can put it to a good
+use and protect ourselves.
+
+982
+01:08:12,583 --> 01:08:16,030
+<i>Place the box where the
+river's roar is loudest.</i>
+
+983
+01:08:16,102 --> 01:08:19,516
+Light the fuse,
+and then run.
+
+984
+01:08:19,589 --> 01:08:22,819
+I'll never
+forget you, Cholena.
+
+985
+01:08:22,885 --> 01:08:25,853
+And I will never
+forget you.
+
+986
+01:08:25,925 --> 01:08:28,314
+Farewell.
+Thank you.
+
+987
+01:08:31,715 --> 01:08:36,385
+Huh-huh! Steady there, Romeo,
+or we all go up in smoke.
+
+988
+01:08:36,451 --> 01:08:38,426
+Come on!
+
+989
+01:08:40,098 --> 01:08:41,723
+There it is.
+
+990
+01:08:47,329 --> 01:08:50,940
+Okay. Now all we have to do
+is light the gunpowder.
+
+991
+01:08:51,008 --> 01:08:54,423
+Sure. Simple. No problem.
+
+992
+01:08:54,496 --> 01:08:58,358
+You do it.
+I- I-I can't.
+
+993
+01:09:02,239 --> 01:09:04,629
+Where do you think
+you're going?
+
+994
+01:09:05,791 --> 01:09:08,889
+<i>Nobody makes a fool
+of Scuttlebutt!</i>
+
+995
+01:09:08,958 --> 01:09:11,991
+Leave him be, you rat!
+Hey, what the- Hey!
+
+996
+01:09:12,062 --> 01:09:13,917
+Didn't your mother
+ever tell ya?
+
+997
+01:09:13,982 --> 01:09:16,251
+Kids shouldn't play
+with fire.
+
+998
+01:09:16,316 --> 01:09:19,546
+You might
+get burned.
+
+999
+01:10:18,227 --> 01:10:20,082
+Where's Philly?
+
+1000
+01:10:21,363 --> 01:10:23,731
+Oh!
+
+1001
+01:10:25,746 --> 01:10:28,333
+- Fievel?
+- Philly?
+
+1002
+01:10:28,403 --> 01:10:30,443
+Fievel!
+
+1003
+01:10:30,514 --> 01:10:33,198
+<i>Fievel</i>
+
+1004
+01:10:39,569 --> 01:10:41,708
+Here!
+
+1005
+01:10:41,777 --> 01:10:43,565
+Philly!
+
+1006
+01:10:43,631 --> 01:10:45,541
+Oh, Fievel!
+
+1007
+01:10:50,063 --> 01:10:52,550
+<i>I
+Fellow mice-</i>
+
+1008
+01:10:52,622 --> 01:10:55,720
+<i>Fellow Americans:</i>
+
+1009
+01:10:55,789 --> 01:10:58,954
+I am honored
+you should ask me...
+
+1010
+01:10:59,021 --> 01:11:02,697
+to be your negotiator
+with the factory owners.
+
+1011
+01:11:02,764 --> 01:11:04,739
+Thank you.
+All right!
+
+1012
+01:11:04,813 --> 01:11:08,294
+<i>I hope that we and the
+owners can work together...</i>
+
+1013
+01:11:08,365 --> 01:11:11,713
+<i>to make a better
+future for everyone.</i>
+
+1014
+01:11:11,787 --> 01:11:16,042
+<i>Must we really make a deal with that riffraff?</i>
+
+1015
+01:11:16,106 --> 01:11:20,067
+Well, if we don't, they all stay
+out on strike, and we go broke.
+
+1016
+01:11:20,138 --> 01:11:23,487
+Patience. We'll find a
+way to regain control.
+
+1017
+01:11:23,562 --> 01:11:27,141
+Remember, there are
+lots of ways to skin a cat.
+
+1018
+01:11:27,210 --> 01:11:29,097
+<i>I beg your pardon?</i>
+
+1019
+01:11:29,161 --> 01:11:32,063
+Uh, never mind. Eee! Move along.
+
+1020
+01:11:33,801 --> 01:11:36,517
+Oh, I just love my new job!
+
+1021
+01:11:36,584 --> 01:11:39,398
+I also want
+to thank you, Fievel.
+
+1022
+01:11:39,464 --> 01:11:42,661
+<i>Me, Papa? Why?
+Like I said.</i>
+
+1023
+01:11:42,727 --> 01:11:44,767
+You are
+my inspiration.
+
+1024
+01:11:44,839 --> 01:11:47,687
+You reminded me
+why we came to America.
+
+1025
+01:11:47,750 --> 01:11:51,231
+<i>You showed me how
+the greatest treasure...</i>
+
+1026
+01:11:51,302 --> 01:11:53,604
+<i>is not cheese
+or money..</i>
+
+1027
+01:11:53,669 --> 01:11:55,579
+<i>or even wampum.</i>
+
+1028
+01:11:55,653 --> 01:11:59,427
+<i>No, the greatest treasure
+is hope-</i>
+
+1029
+01:11:59,492 --> 01:12:01,466
+enough hope
+to have a dream,
+
+1030
+01:12:01,540 --> 01:12:04,803
+and a chance
+to make it come true.
+
+1031
+01:12:06,787 --> 01:12:09,471
+I wish Cholena
+were here to see this.
+
+1032
+01:12:09,539 --> 01:12:11,961
+Boy, me too.
+
+1033
+01:12:12,034 --> 01:12:14,686
+I mean, yeah.
+I mean-
+
+1034
+01:12:14,754 --> 01:12:16,728
+Never mind, Tony.
+
+1035
+01:12:19,361 --> 01:12:24,096
+Here, Fievel. A little gift
+for my farsighted friend.
+
+1036
+01:12:24,161 --> 01:12:27,706
+Really? Wow!
+Thanks.
+
+1037
+01:12:27,776 --> 01:12:32,992
+I think you’ll find the view most
+interesting in that direction.
+
+1038
+01:12:38,814 --> 01:12:40,668
+Huh?
+
+1039
+01:12:42,878 --> 01:12:44,853
+<i>Wow!</i>
