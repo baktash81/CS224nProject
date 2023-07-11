@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.4.13)  10 JUL 2023 23:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.4.13)  11 JUL 2023 14:51
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -295,188 +295,198 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 16.
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--53
+Underfull \hbox (badness 10000) in paragraph at lines 52--56
 
  []
 
-<../stats/word_embeddings_PG.png, id=40, 722.7pt x 722.7pt>
+<../stats/word_embeddings_PG.png, id=41, 722.7pt x 722.7pt>
 File: ../stats/word_embeddings_PG.png Graphic file (type png)
 <use ../stats/word_embeddings_PG.png>
-Package pdftex.def Info: ../stats/word_embeddings_PG.png  used on input line 60.
+Package pdftex.def Info: ../stats/word_embeddings_PG.png  used on input line 63.
 (pdftex.def)             Requested size: 345.0pt x 344.99533pt.
-<../stats/word_embeddings_PG-13.png, id=42, 722.7pt x 722.7pt>
+<../stats/word_embeddings_PG-13.png, id=43, 722.7pt x 722.7pt>
 File: ../stats/word_embeddings_PG-13.png Graphic file (type png)
 <use ../stats/word_embeddings_PG-13.png>
-Package pdftex.def Info: ../stats/word_embeddings_PG-13.png  used on input line 66.
+Package pdftex.def Info: ../stats/word_embeddings_PG-13.png  used on input line 69.
 (pdftex.def)             Requested size: 345.0pt x 344.99533pt.
-<../stats/word_embeddings_G.png, id=43, 722.7pt x 722.7pt>
+<../stats/word_embeddings_G.png, id=44, 722.7pt x 722.7pt>
 File: ../stats/word_embeddings_G.png Graphic file (type png)
 <use ../stats/word_embeddings_G.png>
-Package pdftex.def Info: ../stats/word_embeddings_G.png  used on input line 72.
+Package pdftex.def Info: ../stats/word_embeddings_G.png  used on input line 75.
 (pdftex.def)             Requested size: 345.0pt x 344.99533pt.
-<../stats/word_embeddings_R.png, id=44, 722.7pt x 722.7pt>
+<../stats/word_embeddings_R.png, id=45, 722.7pt x 722.7pt>
 File: ../stats/word_embeddings_R.png Graphic file (type png)
 <use ../stats/word_embeddings_R.png>
-Package pdftex.def Info: ../stats/word_embeddings_R.png  used on input line 78.
+Package pdftex.def Info: ../stats/word_embeddings_R.png  used on input line 81.
 (pdftex.def)             Requested size: 345.0pt x 344.99533pt.
-<../stats/word_embeddings_NC-17.png, id=45, 722.7pt x 722.7pt>
+<../stats/word_embeddings_NC-17.png, id=46, 722.7pt x 722.7pt>
 File: ../stats/word_embeddings_NC-17.png Graphic file (type png)
 <use ../stats/word_embeddings_NC-17.png>
-Package pdftex.def Info: ../stats/word_embeddings_NC-17.png  used on input line 84.
+Package pdftex.def Info: ../stats/word_embeddings_NC-17.png  used on input line 87.
 (pdftex.def)             Requested size: 345.0pt x 344.99533pt.
-[2 <../stats/word_embeddings_PG.png>] [3 <../stats/word_embeddings_PG-13.png>] [4 <../stats/word_embeddings_G.png>] [5 <../stats/word_embeddings_R.png>] [6 <../stats/word_embeddings_NC-17.png>]
-Overfull \hbox (5.6681pt too wide) in paragraph at lines 90--90
+[2] [3 <../stats/word_embeddings_PG.png>] [4 <../stats/word_embeddings_PG-13.png>] [5 <../stats/word_embeddings_G.png>] [6 <../stats/word_embeddings_R.png>] [7 <../stats/word_embeddings_NC-17.png>]
+Overfull \hbox (5.6681pt too wide) in paragraph at lines 93--93
 [][]\OT1/cmr/bx/n/12 Euclidean dis-tance and co-sine sim-i-lar-ity of 20 com-mon words
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
-<../stats/HeatMap_G_NC-17.png, id=78, 867.24pt x 433.62pt>
+<../stats/HeatMap_G_NC-17.png, id=84, 867.24pt x 433.62pt>
 File: ../stats/HeatMap_G_NC-17.png Graphic file (type png)
 <use ../stats/HeatMap_G_NC-17.png>
-Package pdftex.def Info: ../stats/HeatMap_G_NC-17.png  used on input line 101.
+Package pdftex.def Info: ../stats/HeatMap_G_NC-17.png  used on input line 104.
 (pdftex.def)             Requested size: 345.0pt x 172.49876pt.
-<../stats/HeatMap_G_PG-13.png, id=79, 867.24pt x 433.62pt>
+<../stats/HeatMap_G_PG-13.png, id=85, 867.24pt x 433.62pt>
 File: ../stats/HeatMap_G_PG-13.png Graphic file (type png)
 <use ../stats/HeatMap_G_PG-13.png>
-Package pdftex.def Info: ../stats/HeatMap_G_PG-13.png  used on input line 107.
+Package pdftex.def Info: ../stats/HeatMap_G_PG-13.png  used on input line 110.
 (pdftex.def)             Requested size: 345.0pt x 172.49876pt.
-<../stats/HeatMap_PG-13_NC-17.png, id=80, 867.24pt x 433.62pt>
+<../stats/HeatMap_PG-13_NC-17.png, id=86, 867.24pt x 433.62pt>
 File: ../stats/HeatMap_PG-13_NC-17.png Graphic file (type png)
 <use ../stats/HeatMap_PG-13_NC-17.png>
-Package pdftex.def Info: ../stats/HeatMap_PG-13_NC-17.png  used on input line 113.
+Package pdftex.def Info: ../stats/HeatMap_PG-13_NC-17.png  used on input line 116.
 (pdftex.def)             Requested size: 345.0pt x 172.49876pt.
-<../stats/HeatMap_PG_G.png, id=81, 867.24pt x 433.62pt>
+<../stats/HeatMap_PG_G.png, id=87, 867.24pt x 433.62pt>
 File: ../stats/HeatMap_PG_G.png Graphic file (type png)
 <use ../stats/HeatMap_PG_G.png>
-Package pdftex.def Info: ../stats/HeatMap_PG_G.png  used on input line 119.
+Package pdftex.def Info: ../stats/HeatMap_PG_G.png  used on input line 122.
 (pdftex.def)             Requested size: 345.0pt x 172.49876pt.
-<../stats/HeatMap_PG_NC-17.png, id=82, 867.24pt x 433.62pt>
+<../stats/HeatMap_PG_NC-17.png, id=88, 867.24pt x 433.62pt>
 File: ../stats/HeatMap_PG_NC-17.png Graphic file (type png)
 <use ../stats/HeatMap_PG_NC-17.png>
-Package pdftex.def Info: ../stats/HeatMap_PG_NC-17.png  used on input line 125.
+Package pdftex.def Info: ../stats/HeatMap_PG_NC-17.png  used on input line 128.
 (pdftex.def)             Requested size: 345.0pt x 172.49876pt.
-<../stats/HeatMap_PG_PG-13.png, id=83, 867.24pt x 433.62pt>
+<../stats/HeatMap_PG_PG-13.png, id=89, 867.24pt x 433.62pt>
 File: ../stats/HeatMap_PG_PG-13.png Graphic file (type png)
 <use ../stats/HeatMap_PG_PG-13.png>
-Package pdftex.def Info: ../stats/HeatMap_PG_PG-13.png  used on input line 131.
+Package pdftex.def Info: ../stats/HeatMap_PG_PG-13.png  used on input line 134.
 (pdftex.def)             Requested size: 345.0pt x 172.49876pt.
-<../stats/HeatMap_PG_R.png, id=84, 867.24pt x 433.62pt>
+<../stats/HeatMap_PG_R.png, id=90, 867.24pt x 433.62pt>
 File: ../stats/HeatMap_PG_R.png Graphic file (type png)
 <use ../stats/HeatMap_PG_R.png>
-Package pdftex.def Info: ../stats/HeatMap_PG_R.png  used on input line 137.
+Package pdftex.def Info: ../stats/HeatMap_PG_R.png  used on input line 140.
 (pdftex.def)             Requested size: 345.0pt x 172.49876pt.
-<../stats/HeatMap_R_G.png, id=85, 867.24pt x 433.62pt>
+<../stats/HeatMap_R_G.png, id=91, 867.24pt x 433.62pt>
 File: ../stats/HeatMap_R_G.png Graphic file (type png)
 <use ../stats/HeatMap_R_G.png>
-Package pdftex.def Info: ../stats/HeatMap_R_G.png  used on input line 143.
+Package pdftex.def Info: ../stats/HeatMap_R_G.png  used on input line 146.
 (pdftex.def)             Requested size: 345.0pt x 172.49876pt.
-<../stats/HeatMap_R_NC-17.png, id=86, 867.24pt x 433.62pt>
+<../stats/HeatMap_R_NC-17.png, id=92, 867.24pt x 433.62pt>
 File: ../stats/HeatMap_R_NC-17.png Graphic file (type png)
 <use ../stats/HeatMap_R_NC-17.png>
-Package pdftex.def Info: ../stats/HeatMap_R_NC-17.png  used on input line 149.
+Package pdftex.def Info: ../stats/HeatMap_R_NC-17.png  used on input line 152.
 (pdftex.def)             Requested size: 345.0pt x 172.49876pt.
-<../stats/HeatMap_R_PG-13.png, id=87, 867.24pt x 433.62pt>
+<../stats/HeatMap_R_PG-13.png, id=93, 867.24pt x 433.62pt>
 File: ../stats/HeatMap_R_PG-13.png Graphic file (type png)
 <use ../stats/HeatMap_R_PG-13.png>
-Package pdftex.def Info: ../stats/HeatMap_R_PG-13.png  used on input line 155.
+Package pdftex.def Info: ../stats/HeatMap_R_PG-13.png  used on input line 158.
 (pdftex.def)             Requested size: 345.0pt x 172.49876pt.
-[7
+[8
 
- <../stats/HeatMap_G_NC-17.png>] [8 <../stats/HeatMap_G_PG-13.png> <../stats/HeatMap_PG-13_NC-17.png>] [9 <../stats/HeatMap_PG_G.png> <../stats/HeatMap_PG_NC-17.png>] [10 <../stats/HeatMap_PG_PG-13.png> <../stats/HeatMap_PG_R.png>] [11 <../stats/HeatMap_R_G.png> <../stats/HeatMap_R_NC-17.png>] [12 <../stats/HeatMap_R_PG-13.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+ <../stats/HeatMap_G_NC-17.png>] [9 <../stats/HeatMap_G_PG-13.png> <../stats/HeatMap_PG-13_NC-17.png>] [10 <../stats/HeatMap_PG_G.png> <../stats/HeatMap_PG_NC-17.png>] [11 <../stats/HeatMap_PG_PG-13.png> <../stats/HeatMap_PG_R.png>] [12 <../stats/HeatMap_R_G.png> <../stats/HeatMap_R_NC-17.png>] [13 <../stats/HeatMap_R_PG-13.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--187
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 190.
+(Font)              <7> on input line 193.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 190.
+(Font)              <5> on input line 193.
 
-Overfull \hbox (22.61185pt too wide) in paragraph at lines 190--191
+Overfull \hbox (22.61185pt too wide) in paragraph at lines 193--194
  [][] 
  []
 
 
-Overfull \hbox (22.61185pt too wide) in paragraph at lines 197--198
+Overfull \hbox (22.61185pt too wide) in paragraph at lines 200--201
  [][] 
  []
 
 
-Overfull \hbox (22.61185pt too wide) in paragraph at lines 204--205
+Overfull \hbox (22.61185pt too wide) in paragraph at lines 207--208
  [][] 
  []
 
 
-Overfull \hbox (22.61185pt too wide) in paragraph at lines 211--212
+Overfull \hbox (22.61185pt too wide) in paragraph at lines 214--215
  [][] 
  []
 
 
-Overfull \hbox (22.61185pt too wide) in paragraph at lines 218--219
+Overfull \hbox (22.61185pt too wide) in paragraph at lines 221--222
  [][] 
  []
 
 
-Overfull \hbox (17.61183pt too wide) in paragraph at lines 225--226
+Overfull \hbox (17.61183pt too wide) in paragraph at lines 228--229
  [][] 
  []
 
-[13
+[14
 
-] [14] [15] [16
+] [15] [16] [17
 
-] [17]
-Overfull \hbox (15.9732pt too wide) in paragraph at lines 378--379
+] [18]
+Overfull \hbox (15.9732pt too wide) in paragraph at lines 381--382
  [][] 
  []
 
-[18]
-Underfull \hbox (badness 10000) in paragraph at lines 401--402
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 401--402
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
 
  []
 
-[19] (./Phase2-Report.aux)
+[20] (./Phase2-Report.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -484,18 +494,18 @@ Package rerunfilecheck Info: File `Phase2-Report.out' has not changed.
 (rerunfilecheck)             Checksum: 48ABB0EB6A7DA53C011C39E10C7AE3F9;850.
  ) 
 Here is how much of TeX's memory you used:
- 10314 strings out of 480247
- 177955 string characters out of 5896151
- 485343 words of memory out of 5000000
+ 10315 strings out of 480247
+ 177962 string characters out of 5896151
+ 484343 words of memory out of 5000000
  28033 multiletter control sequences out of 15000+600000
  473514 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  68i,8n,77p,662b,390s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Phase2-Report.pdf (19 pages, 1373549 bytes).
+Output written on Phase2-Report.pdf (20 pages, 1373867 bytes).
 PDF statistics:
- 221 PDF objects out of 1000 (max. 8388607)
- 158 compressed objects within 2 object streams
- 61 named destinations out of 1000 (max. 500000)
+ 226 PDF objects out of 1000 (max. 8388607)
+ 162 compressed objects within 2 object streams
+ 62 named destinations out of 1000 (max. 500000)
  124 words of extra memory for PDF output out of 10000 (max. 10000000)
 
